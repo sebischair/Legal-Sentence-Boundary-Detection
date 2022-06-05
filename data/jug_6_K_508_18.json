@@ -1,0 +1,869 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ITALIEN",
+            "end": 74,
+            "start": 67,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 86,
+            "start": 75,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kindergeldanspruch",
+            "end": 329,
+            "start": 311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 340,
+            "start": 330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7390",
+            "end": 359,
+            "start": 355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 365,
+            "start": 360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 460,
+            "start": 450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 517,
+            "start": 511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 606,
+            "start": 599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 701,
+            "start": 688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 910,
+            "start": 903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 922,
+            "start": 912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 924,
+            "start": 923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 998,
+            "start": 995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1001,
+            "start": 1000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Italien",
+            "end": 1069,
+            "start": 1062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rente",
+            "end": 1121,
+            "start": 1116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haushalt",
+            "end": 1240,
+            "start": 1232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1243,
+            "start": 1242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 1408,
+            "start": 1406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haushalt",
+            "end": 1475,
+            "start": 1467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1478,
+            "start": 1477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Familienleistungen",
+            "end": 1552,
+            "start": 1534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1555,
+            "start": 1554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 1734,
+            "start": 1730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1737,
+            "start": 1736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 1892,
+            "start": 1888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 1895,
+            "start": 1894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kindergeld",
+            "end": 2007,
+            "start": 1997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2089,
+            "start": 2086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2128,
+            "start": 2125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2131,
+            "start": 2130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 2348,
+            "start": 2345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 2464,
+            "start": 2458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2822,
+            "start": 2817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 3053,
+            "start": 3048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3056,
+            "start": 3055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 3141,
+            "start": 3133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 3193,
+            "start": 3191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellbar",
+            "end": 3284,
+            "start": 3272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3288,
+            "start": 3286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuging",
+            "end": 3409,
+            "start": 3403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3413,
+            "start": 3411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 3510,
+            "start": 3504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorträgt",
+            "end": 3623,
+            "start": 3615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 3627,
+            "start": 3625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtswidrig",
+            "end": 3667,
+            "start": 3655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 3733,
+            "start": 3731,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4029,
+            "start": 4028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestünden",
+            "end": 4233,
+            "start": 4224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 4408,
+            "start": 4403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4412,
+            "start": 4410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 4660,
+            "start": 4652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4664,
+            "start": 4662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 4709,
+            "start": 4699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4713,
+            "start": 4711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4796,
+            "start": 4790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 5036,
+            "start": 5030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestünden",
+            "end": 5201,
+            "start": 5192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehe",
+            "end": 5488,
+            "start": 5483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5492,
+            "start": 5490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 5642,
+            "start": 5635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 5646,
+            "start": 5644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 5731,
+            "start": 5722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 5752,
+            "start": 5733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 5755,
+            "start": 5753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 5951,
+            "start": 5944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehlt",
+            "end": 6136,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entschieden",
+            "end": 6298,
+            "start": 6287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 6483,
+            "start": 6476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 6487,
+            "start": 6485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 6539,
+            "start": 6530,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6683,
+            "start": 6682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 6687,
+            "start": 6685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 6770,
+            "start": 6762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 6899,
+            "start": 6896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 6903,
+            "start": 6901,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7345,
+            "start": 7344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 7349,
+            "start": 7347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7592,
+            "start": 7587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 7646,
+            "start": 7642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhielt",
+            "end": 7840,
+            "start": 7833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 7844,
+            "start": 7842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trägt",
+            "end": 8050,
+            "start": 8045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhielt",
+            "end": 8218,
+            "start": 8211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 8222,
+            "start": 8220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 8546,
+            "start": 8540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 8550,
+            "start": 8548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8738,
+            "start": 8732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 8981,
+            "start": 8976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9169,
+            "start": 9166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 9173,
+            "start": 9171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufhob",
+            "end": 9328,
+            "start": 9322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 9332,
+            "start": 9330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festsetzte",
+            "end": 9670,
+            "start": 9660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 9674,
+            "start": 9672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9958,
+            "start": 9955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 9962,
+            "start": 9960,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10327,
+            "start": 10326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 10331,
+            "start": 10329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10583,
+            "start": 10581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 10587,
+            "start": 10585,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10959,
+            "start": 10958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 10963,
+            "start": 10961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegt",
+            "end": 11224,
+            "start": 11214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 11228,
+            "start": 11226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedstaat",
+            "end": 11528,
+            "start": 11515,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11986,
+            "start": 11985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 11990,
+            "start": 11988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 12227,
+            "start": 12220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anspruchsberechtigt",
+            "end": 12396,
+            "start": 12377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 12621,
+            "start": 12619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 12625,
+            "start": 12623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 12716,
+            "start": 12702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 12720,
+            "start": 12718,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12922,
+            "start": 12921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesetzt",
+            "end": 13109,
+            "start": 13099,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13272,
+            "start": 13271,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13529,
+            "start": 13528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 13533,
+            "start": 13531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 13746,
+            "start": 13742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 13750,
+            "start": 13748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14013,
+            "start": 14009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 14353,
+            "start": 14352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 14357,
+            "start": 14355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rede",
+            "end": 14500,
+            "start": 14496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 14611,
+            "start": 14603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14773,
+            "start": 14770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 15005,
+            "start": 14997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 15009,
+            "start": 15007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 15119,
+            "start": 15109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 15369,
+            "start": 15362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 15373,
+            "start": 15371,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16051,
+            "start": 16050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 16055,
+            "start": 16053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 16282,
+            "start": 16274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 16286,
+            "start": 16284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 16336,
+            "start": 16333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 16340,
+            "start": 16338,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16467,
+            "start": 16466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 16471,
+            "start": 16469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 16568,
+            "start": 16559,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 19.03.2019 – 6 K 508/18\nTitel:\nKindergeld - ITALIEN\nSchlagworte:\nLeistungen, Kindergeld, Bescheid, Italien, Mitgliedstaat, Aufhebung, Einspruch, Aufhebungsbescheid,\nLeistungsanspruch, Auslegung, Klage, Kinder, Zahlung, Familienleistungen, SGB II, Sinn und Zweck,\nAnspruch auf Kindergeld, Kindergeldanspruch\nFundstelle:\nBeckRS 2019, 7390\nTenor\n1. Der Bescheid vom 05.12.2017 und die Einspruchsentscheidung vom 19.03.2018 werden aufgehoben.\n2. Die Kosten des Verfahrens hat die Beklagte zu tragen.\n3. Die Zuziehung eines Bevollmächtigten für das Vorverfahren wird für notwendig erklärt.\n4. Das Urteil ist wegen der zu erstattenden Aufwendungen der Klägerin vorläufig vollstreckbar. Die Beklagte\ndarf durch Sicherheitsleistung in Höhe der zu erstattenden Aufwendungen der Klägerin die Vollstreckung\nabwenden, wenn nicht die Klägerin vor der Vollstreckung Sicherheit in gleicher Höhe leistet.\nTatbestand\n1\nStreitig ist, ob die Aufhebung von Kindergeldfestsetzungen rechtmäßig ist.\n2\nDie Klägerin ist italienische Staatsangehörige und wohnt in Italien. Sie ist nicht erwerbstätig und bezieht\nkeine Rente. Ihre Kinder A, geboren am xx.xx.1996, C, geboren am xx.xx.1999, und B, geboren am\nxx.xx.2005, leben in ihrem Haushalt.\n3\nDer Kindsvater, ebenfalls ein italienischer Staatsangehöriger, wohnt in Deutschland, ist nicht erwerbstätig\nund erhält Leistungen nach dem Sozialgesetzbuch (SGB) II. Er und die Klägerin führen in Italien keinen\ngemeinsamen Haushalt.\n4\nIn Italien bestehen für die Kinder keine Ansprüche auf Familienleistungen.\n5\nMit Bescheid vom 30.12.2014 setzte die Beklagte zugunsten der Klägerin für A ab Mai 2010, für C ab Mai\n2010 bis Dezember 2017 und für B ab Mai 2010 bis April 2023 Kindergeld fest.\n6\nAm 05.10.2015 bewilligte die Beklagte der Klägerin für A Kindergeld ab August 2015 bis September 2015\nund am 10.05.2016 für Oktober 2015 und November 2015.\n7\nAm 16.02.2017 versendete die Beklagte an die Klägerin einen Fragebogen zur Prüfung der Ansprüche auf\nKindergeld. Darin gab die Klägerin an, dass A arbeitssuchend und C im Freiwilligendienst sei. Nachweise\nhierfür legte sie nicht vor.\n8\nMit Bescheid vom 05.12.2017 hob die Beklagte die Kindergeldfestsetzung vom 10.05.2016 für A sowie die\nKindergeldfestsetzungen vom 30.12.2014 für C und B ab Juli 2017 gemäß § 70 Abs. 2\nEinkommensteuergesetz (EStG) auf. Zur Begründung gab sie an, dass sich die für den Anspruch auf\nKindergeld wesentlichen Verhältnisse geändert hätten. Gemäß Art. 68 Abs. 2 Satz 1 VO (EG) Nr. 883/2004\ni.V.m. Art. 68 Abs. 1 b) iii) VO (EG) Nr. 883/2004 sei Italien vorrangig für die Gewährung von\nFamilienleistungen zuständig, weil konkurrierende Ansprüche auf Kindergeld und auf italienische\nFamilienleistungen bestünden, die beide durch den Wohnsitz ausgelöst würden und die Kinder in Italien\nwohnhaft seien. Differenzkindergeld im Sinne des Art. 68 Abs. 2 Satz 2 VO (EG) Nr. 883/2004 sei gemäß\nArt. 68 Abs. 2 Satz 3 VO (EG) Nr. 883/2004 nicht zu gewähren, weil der Anspruch auf Kindergeld\nausschließlich durch den Wohnort ausgelöst werde.\n9\nDen Bescheid versendete die Beklagte per Einschreiben mit Rückschein an die Klägerin. Der Rückschein\nging der Beklagten am 22.01.2018 zu. Das darauf handschriftlich angegebene Auslieferungsdatum ist nicht\neindeutig feststellbar.\n10\nGegen den Aufhebungsbescheid vom 05.12.2017 legte die Klägerin Einspruch ein, welcher der Beklagten\nam 18.01.2018 zuging.\n11\nMit Einspruchsentscheidung vom 19.03.2018 wies die Beklagte den Einspruch als unbegründet zurück.\nHiergegen richtet sich die fristgemäß erhobene Klage, zu deren Begründung die Klägerin im Wesentlichen\nvorträgt:\n12\nDer Aufhebungsbescheid sei rechtswidrig. Der Klägerin stünden für ihre Kinder Ansprüche auf Kindergeld\nzu. Art. 68 VO (EG) Nr. 883/2004 sei nicht anwendbar, weil er nach seinem eindeutigen Wortlaut\nvoraussetze, dass für denselben Zeitraum und für dieselben Familienangehörigen Leistungen nach den\nRechtsvorschriften mehrerer Mitgliedstaaten zu gewähren seien (vgl. Art. 68 Abs. 1 VO (EG) Nr. 883/2004).\nEine solche Anspruchskonkurrenz bestehe jedoch nicht, weil für die Kinder der Klägerin nach italienischem\nRecht keine Familienleistungen zu gewähren seien, sondern nur Ansprüche auf Kindergeld bestünden. In\nsolchen Fällen sei jedoch der Anspruch auf Kindergeld auch dann zu erfüllen, wenn er gemäß Art. 11 Abs. 3\nBuchst. e VO (EG) Nr. 883/2004 durch den Wohnort ausgelöst werde.\n13\nDie Klägerin beantragt,\nden Bescheid vom 05.12.2017 in Gestalt der Einspruchsentscheidung vom 19.03.2018 aufzuheben und die\nBeklagte zu verurteilen, der Klägerin auch weiterhin Kindergeld in gesetzlicher Höhe für ihre Kinder A, C\nund B zu gewähren.\n14\nDie Beklagte beantragt,\ndie Klage abzuweisen.\n15\nDie Kindergeldfestsetzungen seien zu Recht nach § 70 Abs. 3 EStG aufgehoben worden. Ansprüche auf\nKindergeld seien ab Juli 2017 gemäß Art. 68 Abs. 2 Satz 3 VO (EG) Nr. 883/2004 ausgeschlossen, weil die\nKinder der Klägerin in Italien wohnhaft seien und die Ansprüche auf Kindergeld allein durch den Wohnort\nausgelöst würden. Art. 68 Abs. 2 Satz 3 VO (EG) Nr. 883/2004 setze nicht voraus, dass tatsächlich\nAnsprüche auf Familienleistungen nach dem Recht mehrerer Mietgliedstaaten bestünden. Da die Vorschrift\nunstreitig Ansprüche auf Kindergeld ausschließe, wenn lediglich um vorrangige Leistungen gemindertes\nKindergeld zu zahlen wäre, sei sie erst recht anwendbar, wenn -wie im Streitfallmangels vorrangiger\nLeistungen die Zahlung von Kindergeld in voller Höhe in Rede stehe.\n16\nDie Beteiligten haben sich mit einer Entscheidung ohne mündliche Verhandlung und durch den\nBerichterstatter anstelle des Senats einverstanden erklärt.\n17\nWegen der Einzelheiten wird auf die Kindergeld- und die Finanzgerichtsakte verwiesen.\nEntscheidungsgründe\n18\nDie Klage ist dahin auszulegen, dass sie nur gegen den Aufhebungsbescheid vom 05.12.2017 in Gestalt\nder Einspruchsentscheidung vom 19.03.2018 gerichtet ist und keinen Verpflichtungsantrag enthält. Ein\nsolcher wäre unzulässig, weil es insoweit an einem vorherigen, erfolglos gebliebenen Vorverfahren (vgl. §\n44 Abs. 1 Finanzgerichtsordnung -FGO-) und am Rechtsschutzbedürfnis fehlt. Denn die Beklagte hat bisher\nlediglich zeitlich befristete Kindergeldfestsetzungen aufgehoben und über Zeiträume nach dem\nBefristungsende noch nicht entschieden. Da die Erhebung einer unzulässigen Klage dem Willen der\nKlägerin nicht entspricht, ist davon auszugehen, dass ihre Klage nur einen Anfechtungs- und keinen\nVerpflichtungsantrag enthält.\n19\nDie so verstandene Klage ist zulässig und begründet. Die Aufhebung der Kindergeldfestsetzungen vom\n05.12.2017 ist rechtswidrig und verletzt die Klägerin in ihren Rechten (§ 100 Abs. 1 Satz 1 FGO).\n20\nDer Begründetheit der Klage stehen die Grundsätze der Bestandskraft nicht entgegen. Der\nAufhebungsbescheid vom 05.12.2017 ist nicht bestandskräftig geworden, weil die Klägerin rechtzeitig\nEinspruch eingelegt hat.\n21\nZwar gilt im Streitfall der Aufhebungsbescheid nicht einen Monat nach Aufgabe zur Post als bekannt\ngegeben, weil § 122 Abs. 2 Nr. 2 Abgabenordnung (AO) nicht zur Anwendung kommt, da die Beklagte die\nförmliche Zustellung des Aufhebungsbescheids durch Einschreiben mit Rückschein anordnete und deshalb\ndie Zustellung grundsätzlich durch den Rückschein nachgewiesen werden kann (vgl. §§ 122 Abs. 5 AO, 9\nAbs. 1 Nr. 1 VwZG, 9 Abs. 2 Satz 1 VwZG).\n22\nIm Streitfall ist jedoch wegen der undeutlichen, handschriftlichen Datumsangabe auf dem Rückschein nicht\nmit an Sicherheit grenzender Wahrscheinlichkeit davon auszugehen, dass der Klägerin der\nAufhebungsbescheid am 11.12.2017 zugestellt wurde. Zwar spricht das Schriftbild eher für den 11.12.2017.\nEs kann allerdings nicht ausgeschlossen werden, dass der Zusteller den 21.12.2017 auf dem Rückschein\nals Auslieferungstag notierte, zumal die Beklagte den Rückschein erst am 22.01.2018 erhielt.\n23\nZugunsten der Klägerin ist deshalb davon auszugehen, dass die Zustellung des Aufhebungsbescheids erst\nam 21.12.2017 erfolgte, weil die Beklagte die Feststellungslast für den Zeitpunkt der Bekanntgabe trägt. Die\nKlägerin hat somit die einmonatige Einspruchsfrist des § 355 Abs. 1 AO gewahrt, da die Beklagte ihren\nEinspruch gegen den Aufhebungsbescheid am 18.01.2018 erhielt.\n24\nDie Aufhebung der Kindergeldfestsetzung vom 10.05.2016 für A ab Juli 2017 ist bereits deshalb\nrechtswidrig und aufzuheben, weil der Bescheid vom 10.05.2016 lediglich Kindergeld für Oktober 2015 und\nNovember 2015 festsetzte und für Zeiträume ab Dezember 2015 keine Regelung enthält, die ab Juli 2017\naufgehoben werden könnte.\n25\nDie Aufhebung der Kindergeldfestsetzung vom 10.05.2016 für A kann nicht als rechtmäßige Ablehnung\neines Antrags auf Kindergeld ab Juli 2017 ausgelegt oder in eine solche umgedeutet werden. Eine\nAuslegung kommt nicht in Betracht, weil der Bescheid vom 05.12.2017 ausdrücklich und eindeutig als\nAufhebungsbescheid bezeichnet ist und nach Aktenlage über den Kindergeldantrag für die Zeit ab\nDezember 2015 noch nicht entschieden wurde. Eine Umdeutung ist nicht möglich, da der\nKindergeldanspruch ab Juli 2017 aus den nachfolgend dargelegten Gründen nicht durch Art. 68 Abs. 2 Satz\n3 VO (EG) Nr. 883/2004 ausgeschlossen ist.\n26\nDer Bescheid vom 05.12.2017 ist auch rechtswidrig und deshalb aufzuheben, soweit er\nKindergeldfestsetzungen für C und B vom 30.12.2014 ab Juli 2017 aufhob.\n27\nDurch den angefochtenen Bescheid hat die Beklagte für C das für den Zeitraum Juli 2017 bis Dezember\n2017 festgesetzte Kindergeld und für B das für den Zeitraum Juli 2017 bis April 2023 festgesetzte\nKindergeld aufgehoben, weil die Beklagte mit Bescheid vom 30.12.2014 für C bis Dezember 2017 und für B\nbis April 2023 Kindergeld festsetzte.\n28\nFür diese Aufhebungen besteht jedoch keine Rechtsgrundlage, insbesondere liegen weder die\nVoraussetzungen des § 70 Abs. 2 EStG noch die des § 70 Abs. 3 EStG vor, weil der Klägerin für C für Juli\n2017 bis Dezember 2017 und für B für Juli 2017 bis April 2023 Kindergeld zu gewähren ist.\n29\nDer Kindsvater ist unstreitig für C bis Dezember 2017 und für B bis April 2023 kindergeldberechtigt, weil er\nin Deutschland wohnt, die Kinder in Italien im Haushalt ihrer Mutter leben, C am 14.12.2017 das 18.\nLebensjahr vollendete und B am 21.04.2023 das 18. Lebensjahr vollenden wird (§§ 62 Abs. 1 Nr. 1, § 63\nAbs. 1 Satz 1 Nr. 1, Sätze 2 und 6, § 32 Abs. 3 EStG).\n30\nDer Kindergeldanspruch für C und B steht allerdings nicht dem Kindsvater, sondern nach Art. 67 Satz 1 VO\n(EG) Nr. 883/2004 i.V.m. Art. 60 Abs. 1 Satz 2 DVO (EG) Nr. 987/2009 sowie § 64 Abs. 2 Satz 1 EStG der\nvorrangig anspruchsberechtigten Klägerin zu.\n31\nDer persönliche und sachliche Anwendungsbereich der VO (EG) Nr. 883/2004 ist eröffnet, weil der\nKindsvater als italienischer Staatsangehöriger die Staatsangehörigkeit eines Mitgliedstaats besitzt (Art. 2\nAbs. 1 VO (EG) Nr. 883/2004) und das Kindergeld eine Familienleistung i.S. des Art. 1 Buchst. z VO (EG)\nNr. 883/2004 ist (Art. 3 Abs. 1 Buchst. j VO (EG) Nr. 883/2004).\n32\nNach Art. 11 Abs. 1 VO (EG) Nr. 883/2004 i.V.m. Art. 11 Abs. 3 Buchst. e VO (EG) Nr. 883/2004 ist für den\nKindsvater Deutschland der zuständige Mitgliedstaat, weil er in Deutschland seinen Wohnsitz hat und\ndeshalb den Rechtsvorschriften Deutschlands unterliegt.\n33\nEine Person hat nach Art. 67 Satz 1 VO (EG) Nr. 883/2004 Anspruch auf Familienleistungen nach den\nRechtsvorschriften des zuständigen Mitgliedstaats auch für Familienangehörige, die zwar in einem anderen\nMitgliedstaat wohnen, die aber so behandelt werden, als wohnten sie im zuständigen Mitgliedstaat. Denn\nbei der Anwendung von Art. 67 und 68 VO (EG) Nr. 883/2004 ist nach Art. 60 Abs. 1 Satz 2 der VO (EG) Nr.\n987/2009 die Situation der gesamten Familie in einer Weise zu berücksichtigen, als würden alle Beteiligten -\ninsbesondere was das Recht zur Erhebung eines Leistungsanspruchs anbelangtunter die\nRechtsvorschriften des betreffenden Mitgliedstaats (hier: Deutschland) fallen und dort wohnen (vgl. BFHUrteil\nvom 23.08.2016 V R 2/14, BFH/NV 2016, 1725).\n34\nIm Streitfall wird somit fingiert, dass die Klägerin mit ihren Kindern, die sie in ihren Haushalt aufgenommen\nhat, nicht im Mitgliedsstaat Italien, sondern in Deutschland wohnt, weil es sich um Familienangehörige des\nKindsvaters handelt. Die Klägerin erfüllt somit alle Voraussetzungen für einen Anspruch auf Kindergeld und\nist wegen der Aufnahme der Kinder in ihren Haushalt vorrangig anspruchsberechtigt. Deshalb stehen ihr\nund nicht dem Kläger für C bis Dezember 2017 und für B bis April 2023 nach §§ 62 Abs. 1 Nr. 1, § 63 Abs.\n1 Satz 1 Nr. 1, Sätze 2 und 6, § 32 Abs. 3, § 64 Abs. 2 Satz 1 EStG die Ansprüche auf Kindergeld zu.\n35\nDiese Ansprüche sind nicht durch Art. 68 Abs. 2 Satz 3 VO (EG) Nr. 883/2004 ausgeschlossen.\n36\nBei Zusammentreffen von Ansprüchen werden Familienleistungen nach den Rechtsvorschriften gewährt,\ndie nach Art. 68 Abs. 1 VO (EG) Nr. 883/2004 Vorrang haben (Art. 68 Abs. 2 Satz 1 VO (EG) Nr. 883/2004).\nAnsprüche auf Familienleistungen nach anderen widerstreitenden Rechtsvorschriften werden bis zur Höhe\ndes nach den vorrangig geltenden Rechtsvorschriften vorgesehenen Betrags ausgesetzt; erforderlichenfalls\nist ein Unterschiedsbetrag in Höhe des darüber hinausgehenden Betrags der Leistungen zu gewähren (Art.\n68 Abs. 2 Satz 2 VO (EG) Nr. 883/2004). Ein derartiger Unterschiedsbetrag muss jedoch nicht für Kinder\ngewährt werden, die in einem anderen Mitgliedstaat wohnen, wenn der entsprechende Leistungsanspruch\nausschließlich durch den Wohnort ausgelöst wird (Art. 68 Abs. 2 Satz 3 VO (EG) Nr. 883/2004).\n37\nNach dem eindeutigen Wortlaut setzt Art. 68 Abs. 2 Satz 3 VO EG Nr. 883/2004 voraus, dass tatsächlich in\neinem anderen Mitgliedstaat Ansprüche auf Familienleistungen bestehen, die dem Kindergeld vergleichbar\nsind.\n38\nDies folgt zum einen aus Art. 68 Abs. 1 VO (EG) Nr. 883/2004, wonach die folgenden Prioritätsregelungen\nnur gelten, wenn für denselben Zeitraum und für dieselben Familienangehörigen Leistungen nach den\nRechtsvorschriften mehrerer Mitgliedstaaten zu gewähren sind. Dass mit „folgenden Prioritätsregeln“ nicht\nnur die in Art. 68 Abs. 1 VO (EG) Nr. 883/2004 enthaltenen, sondern die Regelungen in sämtlichen\nAbsätzen des Art. 68 VO (EG) Nr. 883/2004 gemeint sind, ergibt sich aus der Überschrift des Art. 68 VO\n(EG) Nr. 883/2004, die wie folgt lautet: „Prioritätsregeln bei Zusammentreffen von Ansprüchen“.\n39\nZum anderen ist in Art. 68 Abs. 2 Satz 3 VO nicht nur von einem Unterschiedsbetrag, sondern von einem\n„derartigen Unterschiedsbetrag“ die Rede. Dadurch wird unzweifelhaft auf die vorangehenden Sätze des\nArt. 68 Abs. 2 EG (VO) Nr. 883/2004 Bezug genommen. Aus diesen ergibt sich jedoch eindeutig, dass der\nUnterschiedsbetrag dadurch zu ermitteln ist, dass auf den nachrangigen Anspruch der vorrangige\nanzurechnen ist. Somit kann die Formulierung „derartiger Unterschiedsbetrag“ nur so verstanden werden,\ndass Art. 68 Abs. 2 Satz 3 EG (VO) Nr. 883/2004 voraussetzt, dass tatsächlich anrechenbare, vorrangige\nAnsprüche auf Familienleistungen bestehen.\n40\nWegen seines eindeutigen Wortlauts ist Art. 68 Abs. 2 Satz 3 EG (VO) Nr. 883/2004 keiner Auslegung\nzugänglich. Deshalb kann auch die Argumentation der Beklagten, wonach die Vorschrift erst recht\nanzuwenden sei, wenn keine anrechenbaren, vorrangigen Ansprüche bestünden, nicht Platz greifen, weil es\nsich dabei um eine Auslegung nach dem Sinn und Zweck handelt.\n41\nKindergeldansprüche sind demnach auch dann zu erfüllen, wenn sie allein durch den Wohnort ausgelöst\nwerden, die Kinder in einem anderen Mitgliedstaat wohnen und dieser Mitgliedstaat vorrangig zuständig\nwäre, wenn er tatsächlich mit dem Kindergeld vergleichbare Leistungen erbringen würde (vgl. BFH-Urteil\nvom 22.02.2018 III R 10/17, BStBl II 2018, 717, Tz. 26 in der juris-Dokumentation; Gerichtsbescheid des\nFinanzgerichts Bremen vom 27.02.2017 3 K 77/16 (1), NZFam 2017, 669 (rkr.) m.w.N. zur insoweit\ngefestigten Rechtsprechung der Finanzgerichte; Helmke/Bauer, Familienleistungsausgleich - Kommentar -\nFach D I. Kommentierung Europarecht VO Nr. 883/2004, Art. 68 Rz 36, 24).\n42\nIm Streitfall sind die Kindergeldansprüche der Klägerin für ihre Kinder somit nicht nach Art. 68 Abs. 2 Satz 3\nVO (EG) Nr. 883/2004 ausgeschlossen, weil in Italien keine Ansprüche auf Familienleistungen für die Kinder\nbestehen.\n43\nDie Kostenentscheidung folgt aus § 135 Abs. 1 FGO.\n44\nDie Tätigkeit eines Bevollmächtigten im Vorverfahren diente der zweckentsprechenden Rechtsverfolgung (§\n139 Abs. 3 Satz 3 FGO).\n45\nDie Revision ist nicht zuzulassen, weil die Voraussetzungen des § 115 Abs. 2 FGO nicht vorliegen.\n\n"
+}

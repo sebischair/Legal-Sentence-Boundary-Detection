@@ -1,0 +1,461 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 204,
+            "start": 184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 425,
+            "start": 419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 445,
+            "start": 430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 627,
+            "start": 623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 776,
+            "start": 773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 924,
+            "start": 921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1095,
+            "start": 1093,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1230,
+            "start": 1229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1385,
+            "start": 1382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 1596,
+            "start": 1588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1783,
+            "start": 1775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 1846,
+            "start": 1844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1921,
+            "start": 1915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 2008,
+            "start": 2001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 2128,
+            "start": 2121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 2225,
+            "start": 2216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisiert",
+            "end": 2341,
+            "start": 2329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2490,
+            "start": 2486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beipackzetteln",
+            "end": 2590,
+            "start": 2576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 2655,
+            "start": 2648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesandt",
+            "end": 2730,
+            "start": 2721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendekosten",
+            "end": 2770,
+            "start": 2755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 2842,
+            "start": 2828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preis",
+            "end": 2965,
+            "start": 2960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 3109,
+            "start": 3099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3169,
+            "start": 3156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3278,
+            "start": 3272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3394,
+            "start": 3391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Liefergarantie",
+            "end": 3434,
+            "start": 3420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reicht",
+            "end": 3475,
+            "start": 3469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 3650,
+            "start": 3640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebühren",
+            "end": 3823,
+            "start": 3815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 3867,
+            "start": 3853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 4203,
+            "start": 4200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 4294,
+            "start": 4286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verpackung",
+            "end": 4370,
+            "start": 4360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4561,
+            "start": 4557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4628,
+            "start": 4624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4747,
+            "start": 4744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5288,
+            "start": 5285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 5329,
+            "start": 5318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 5341,
+            "start": 5334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeboten",
+            "end": 5464,
+            "start": 5455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 5602,
+            "start": 5594,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5751,
+            "start": 5750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungsdatum",
+            "end": 5830,
+            "start": 5816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkürzt",
+            "end": 5913,
+            "start": 5905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pharmeo",
+            "end": 6138,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 6254,
+            "start": 6250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Echtzeit",
+            "end": 6407,
+            "start": 6399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6497,
+            "start": 6494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6520,
+            "start": 6502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6776,
+            "start": 6774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6796,
+            "start": 6778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6815,
+            "start": 6801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsvorschriften",
+            "end": 6870,
+            "start": 6843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 6882,
+            "start": 6875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fallen",
+            "end": 7035,
+            "start": 7029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 7266,
+            "start": 7249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 7469,
+            "start": 7465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 7691,
+            "start": 7683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 7715,
+            "start": 7696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 7827,
+            "start": 7818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 7877,
+            "start": 7863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 8042,
+            "start": 8035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berlin",
+            "end": 8241,
+            "start": 8235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8372,
+            "start": 8367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kehl",
+            "end": 8541,
+            "start": 8537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 8582,
+            "start": 8580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 8621,
+            "start": 8619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teil",
+            "end": 8729,
+            "start": 8725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 8828,
+            "start": 8819,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8977,
+            "start": 8976,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9216,
+            "start": 9215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 9353,
+            "start": 9344,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür die Geschäftsbeziehungen zwischen Pharmeo, Plauener Str. 163–165, 13053 Berlin und Ihnen als Verbraucher i.S.d. § 13 BGB gelten ausschließlich diese Allgemeinen Geschäftsbedingungen. Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.\n2. Vertragsschluss\nPharmeo hält alle Arzneimittel zur Lieferung verfügbar, soweit diese im Geltungsbereich des Arzneimittelgesetzes in den Verkehr gebracht werden dürfen und für Pharmeo verfügbar sind. Die Darstellung der Produkte im Internet, auf Druckerzeugnissen und in jeglicher anderen Werbeform stellt kein rechtlich bindendes Preisangebot dar. Ihre Bestellung, telefonisch, schriftlich oder über den Onlineshop www.pharmeo.de, stellt ein Angebot an uns zum Abschluss eines Kaufvertrages dar. Wenn Sie eine Bestellung bei www.pharmeo. de, durch Anklicken des Buttons „Kaufen“ aufgeben, geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Wir senden Ihnen eine E-Mail, die den Eingang Ihrer Bestellung bei uns bestätigt und deren Einzelheiten aufführt (Bestellbestätigung). Diese Bestellbestätigung stellt keine Annahme Ihres Angebotes dar, sondern soll Sie nur darüber informieren, dass Ihre Bestellung bei uns eingegangen ist. Der Kaufvertrag kommt zustande, wenn wir die bestellte Ware an Sie versenden, bei Wahl der Zahlungsart „Vorkasse“, ist der Kaufvertrag bereits mit der E-Mail über den Eingang Ihrer Bestellung zustande gekommen. Sollten Sie innerhalb von 5 Tagen nach Bestellabgabe weder eine Lieferung noch eine ausdrückliche Auftragsbestätigung erhalten haben, sind Sie an Ihr Vertragsangebot nicht mehr gebunden.\nPharmeo bietet keine Produkte zum Kauf durch Minderjährige an. Auch unsere Produkte für Kinder können nur von Erwachsenen gekauft werden. Pharmeo behält sich vor, an Endverbraucher nur in haushaltsüblichen Mengen zu liefern. Pharmeo wird in diesen Fällen mit dem Kunden Kontakt aufnehmen, um mit diesem eine einvernehmliche Regelung zu treffen. Es ist untersagt, mit den bei Pharmeo bestellten Arzneimitteln gewerblichen Handel zu betreiben.\nDie bereitgestellten Informationen auf dieser Website wurden sorgfältig geprüft und werden regelmäßig aktualisiert. Jedoch kann keine Garantie dafür übernommen werden, dass alle Angaben zu jeder Zeit vollständig, richtig und in letzter Aktualität dargestellt sind. Dies gilt insbesondere für Produktinformationen der Hersteller aus den abgebildeten Beipackzetteln.\nDer Vertragsschluss erfolgt ausschließlich in deutscher Sprache. Der Vertragstext wird bei uns gespeichert und Ihnen auf Anfrage zugesandt.\n3. Preise und Versand-/Rücksendekosten\nDie Preise verstehen sich in Euro inklusive gesetzlicher Mehrwertsteuer. Bei nach Bestelleingang eintretenden Preisänderungen gilt der zum Zeitpunkt der Auslösung der Bestellung angegebene Preis. Die Versandkosten hängen von der Menge der bestellten Waren sowie der Versandart ab und werden vor Abgabe Ihrer Bestellung deutlich mitgeteilt. Im Liefergebiet Deutschland gelten pauschale Versandkosten. Die Geltungsdauer unserer befristeten Angebote erfahren Sie jeweils dort, wo sie im Shop dargestellt werden. Trotz sorgfältiger Bevorratung kann es vorkommen, dass ein Aktionsartikel schneller als vorgesehen ausverkauft ist. Wir geben deshalb keine Liefergarantie. Es gilt: Nur so lange der Vorrat reicht.\nBei Ausübung des Widerrufsrechts trägt der Kunde die Kosten der Rücksendung der Ware, wenn der Preis der zurückzusendenden Sache(n) einen Betrag von 40 Euro nicht übersteigt. Beträgt der Preis der zurückzusendenden Sache mehr als 40 Euro, übernimmt Pharmeo die Rücksendkosten in Höhe der üblicherweise für den Standardversand anfallenden Gebühren.\n4. Lieferung, Transport und Gefahrübergang\nDie Lieferung erfolgt spätestens innerhalb von fünf Arbeitstagen (Mo-Fr - exkl. gesetzliche Feiertage) nachdem der Kunde dem überweisenden Kreditinstitut seinen Zahlungsauftrag erteilt hat (bei Vorkasse), bzw. nach Vertragsschluss (bei Rechnungskauf und Nachnahme). Der Versand der Arzneimittel erfolgt per Päckchen/Paket direkt an Sie. Teillieferungen sind – soweit diese zumutbar und für Sie nicht nachteilig sind – zulässig. Dadurch entstehen Ihnen keine zusätzlichen Kosten für Porto und Verpackung. Sind Sie Verbraucher, geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware auch beim Versendungskauf erst mit der Übergabe der Sache an Sie über. Der Übergabe steht es gleich, wenn Sie im Verzug der Annahme sind. Annahmeverzug kann erst eintreten, wenn Pharmeo eine für den Kunden kostenlose Zweitzustellung erfolglos versucht hat.\nSollte ein Produkt aufgrund höherer Gewalt – hierzu gehören insbesondere Streik, Aussperrung, behördliche Anordnungen und Umweltkatastrophen –, auch wenn sie bei unseren Lieferanten oder deren Unterlieferanten eintreten, oder Produktionsschwierigkeiten nicht lieferbar sein und die bestellten Produkte nicht unter zumutbaren Bedingungen seitens Pharmeo beschafft werden können, so wird Pharmeo von der Lieferpflicht befreit, soweit die hindernden Umstände erst nach Vertragsschluss eingetreten sind und Pharmeo diese nicht zu vertreten hat.\nPharmeo versendet innerhalb Deutschland.\n5. Zahlung\nEs werden die Zahlungsarten Vorkasse, Lastschrift, Rechnung, PayPal, Kreditkarte, AMAZON Pay und SOFORT (Klarna) angeboten. Bei den Zahlungsarten Rechnung und Lastschrift kann nach dem Ergebnis einer Bonitätsprüfung der Ausschluss dieser Zahlungsarten erfolgen. Bei Auswahl der Zahlungsart Lastschrift erfolgt die Einziehung per SEPA-Basislastschrift mit verkürzter Vorlagefrist („Euro-Eil-Lastschrift“ (COR1). Der Einzug der Lastschrift erfolgt zwei Bankgeschäftstage nach Rechnungsdatum. Die Frist für die Vorabankündigung (Pre-Notification) wird auf einen Tag verkürzt. Bei Auswahl der Zahlungsart Vorkasse nennen wir Ihnen unsere Bankverbindung in der Bestätigungs-E-Mail und liefern die Ware nach vollständigem Zahlungseingang, bei der Zahlung mit Rezept erst nach dessen Eingang bei Pharmeo. Bei Auswahl der Zahlungsart Kreditkarte erfolgt die Belastung Ihrer Kreditkarte mit Versendung der bestellten Ware. Bei SOFORT erfolgt die Zahlung - ähnlich wie beim normalen Onlinebanking – über ein gesichertes und vorausgefülltes Zahlungsformular online in Echtzeit. Die Gesamtfälligkeit der Rechnungen tritt ein sobald eine Rechnung in Zahlungsverzug ist.\n6. Widerrufsbelehrung\nDem Verbraucher – dies ist gemäß § 13 BGB jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können – steht ein Widerrufsrecht zu.\nWiderrufsbelehrung \n7. Gewährleistung\nEs gelten die gesetzlichen Gewährleistungsvorschriften.\n8. Haftung\nPharmeo haftet nur in Fällen, in denen ihr, einem gesetzlichen Vertreter oder einem Erfüllungsgehilfen Vorsatz oder grobe Fahrlässigkeit zur Last fallen. Vorstehendes gilt nicht, soweit für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit gehaftet wird, für die Haftung nach dem Produkthaftungsgesetz sowie im Falle der Verletzung wesentlicher Vertragspflichten. Wesentliche Vertragspflichten sind solche Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf. Außer bei Vorsatz, grober Fahrlässigkeit und Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit ist die Haftung der Höhe nach auf die bei Vertragsschluss typischerweise vorhersehbaren Schäden begrenzt.\n9. Schlussbestimmungen\nAuf die Rechtsverhältnisse zwischen Pharmeo und Ihnen findet das Recht der Bundesrepublik Deutschland Anwendung. Die Geltung von UN-Kaufrecht wird ausgeschlossen. Im Verkehr mit Endverbrauchern ist auch das Recht am Wohnsitz des Endverbrauchers anwendbar, sofern es sich um zwingende verbraucherrechtliche Bestimmungen handelt. Handelt es sich bei Ihnen um einen Kaufmann im Sinne des Handelsgesetzbuches oder eine Körperschaft des öffentlichen Rechts, ist Gerichtsstand und Erfüllungsort für Lieferungen und Zahlungen Berlin. Gerichtsstand für beide Teile ist Berlin auch dann, wenn Sie Verbraucher sind und keinen Wohnsitz in der Europäischen Union haben.\nDie für Sie zuständige Verbraucherschlichtungsstelle ist die Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e. V. Straßburger Str. 8, 77694 Kehl. Internet: www.verbraucher-schlichter.de. Email: mail@verbraucher-schlichter.de\nPharmeo nimmt jedoch an einem Streitbeilegungsverfahren vor dieser Verbraucherschlichtungsstelle nicht teil.\nDie Abbildungen der Produkte im Internet oder auf Printerzeugnissen können vom Original abweichen. Insbesondere Farben können aus verschiedenen Gründen vom Original abweichen (z.B. durch Ihre Monitoreinstellungen, Blickwinkel, Sonderfarben, etc.). Voraussetzung für die vollständige und korrekte Darstellung der Pharmeo-Webseiten ist die Nutzung eines Internet-Browsers, der nicht älter als 3 Jahre ist (mindestens Internet Explorer 8, Opera 11, Firefox 10, Safari 5, Google Chrome 20).\nSollte eine der vorgenannten Bestimmungen nichtig sein oder werden, so bleibt die Gültigkeit der übrigen Bestimmungen hiervon unberührt.\n\n"
+}

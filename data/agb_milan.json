@@ -1,0 +1,623 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 30,
+            "start": 15,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 268,
+            "start": 261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 469,
+            "start": 466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausführt",
+            "end": 661,
+            "start": 653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 911,
+            "start": 905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 1182,
+            "start": 1175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 1284,
+            "start": 1273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 1443,
+            "start": 1440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsabschluss",
+            "end": 1465,
+            "start": 1448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1638,
+            "start": 1629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1797,
+            "start": 1795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1885,
+            "start": 1875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1967,
+            "start": 1964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2045,
+            "start": 2039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Postweg",
+            "end": 2177,
+            "start": 2170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 2321,
+            "start": 2311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 2382,
+            "start": 2373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 2458,
+            "start": 2448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzen",
+            "end": 2553,
+            "start": 2544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesandt",
+            "end": 2708,
+            "start": 2699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2731,
+            "start": 2724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 2806,
+            "start": 2797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 2859,
+            "start": 2852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ungültig",
+            "end": 2967,
+            "start": 2959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 3040,
+            "start": 3033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 3159,
+            "start": 3151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3240,
+            "start": 3227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellmaske",
+            "end": 3312,
+            "start": 3300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechnen",
+            "end": 3411,
+            "start": 3401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 3506,
+            "start": 3499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Account",
+            "end": 3525,
+            "start": 3518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shop",
+            "end": 3658,
+            "start": 3654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 3780,
+            "start": 3774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwörter",
+            "end": 3857,
+            "start": 3847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3880,
+            "start": 3862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3987,
+            "start": 3984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 4149,
+            "start": 4141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 4168,
+            "start": 4154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 4391,
+            "start": 4384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 4481,
+            "start": 4477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 4563,
+            "start": 4559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 4662,
+            "start": 4658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 4862,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4941,
+            "start": 4939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 4988,
+            "start": 4979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 5009,
+            "start": 4993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 5402,
+            "start": 5398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5628,
+            "start": 5622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 5763,
+            "start": 5742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 5858,
+            "start": 5854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 5963,
+            "start": 5953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 6165,
+            "start": 6162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzug",
+            "end": 6197,
+            "start": 6191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschlands",
+            "end": 6267,
+            "start": 6255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 6453,
+            "start": 6444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 6508,
+            "start": 6500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgendes",
+            "end": 6556,
+            "start": 6547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 6849,
+            "start": 6840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 6999,
+            "start": 6985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 7091,
+            "start": 7082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7443,
+            "start": 7440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 7462,
+            "start": 7448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 7652,
+            "start": 7648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 7925,
+            "start": 7921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7995,
+            "start": 7992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freistellung",
+            "end": 8038,
+            "start": 8026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 8266,
+            "start": 8254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 8421,
+            "start": 8409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflicht",
+            "end": 8551,
+            "start": 8544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 8758,
+            "start": 8754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 8925,
+            "start": 8917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 9225,
+            "start": 9220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 9387,
+            "start": 9383,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9434,
+            "start": 9433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestückt",
+            "end": 9496,
+            "start": 9488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 9569,
+            "start": 9558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 9729,
+            "start": 9722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Batteriegesetz",
+            "end": 9827,
+            "start": 9813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kostenlos",
+            "end": 9861,
+            "start": 9852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeben",
+            "end": 9974,
+            "start": 9963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbindung",
+            "end": 10079,
+            "start": 10069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekennzeichnet",
+            "end": 10214,
+            "start": 10200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadstoffe",
+            "end": 10347,
+            "start": 10336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 10372,
+            "start": 10368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quecksilber",
+            "end": 10415,
+            "start": 10404,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzulesen",
+            "end": 10589,
+            "start": 10578,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10756,
+            "start": 10755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 10773,
+            "start": 10762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 10944,
+            "start": 10932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 11053,
+            "start": 11044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 11073,
+            "start": 11059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 11092,
+            "start": 11074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 11131,
+            "start": 11126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11241,
+            "start": 11237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 11301,
+            "start": 11288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 11472,
+            "start": 11462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 11748,
+            "start": 11744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 11986,
+            "start": 11979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hinweis",
+            "end": 11995,
+            "start": 11988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 12024,
+            "start": 12009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unter",
+            "end": 12161,
+            "start": 12156,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12188,
+            "start": 12187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 12288,
+            "start": 12276,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§1 Allgemeines/Geltungsbereich\n1. Alle Lieferungen und Leistungen der Firma Milan GmbH, Kurfürstendamm 22, 10719 Berlin, erfolgen ausschließlich auf der Grundlage der nachfolgenden Allgemeinen Geschäftsbedingungen in ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Kunden werden nur dann und insoweit Vertragsbestandteil, als die Milan GmbH ihrer Geltung ausdrücklich zugestimmt hat. Dieses Zustimmungserfordernis gilt in jedem Fall, beispielsweise auch dann, wenn die Milan GmbH in Kenntnis der Allgemeinen Geschäftsbedingungen des Kunden die Leistung vorbehaltlos ausführt.\n2. Verbraucher im Sinne der Allgemeinen Geschäftsbedingungen ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.\n3. Unternehmer im Sinne der Allgemeinen Geschäftsbedingungen ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n4. Kunden im Sinne der Allgemeinen Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.\n5. Im Einzelfall getroffene, individuelle Vereinbarungen (einschließlich Nebenabreden, Ergänzungen und Änderungen) haben in jedem Fall Vorrang vor diesen AGB.\n§2 Vertragsabschluss\n1. Angebote sind stets freibleibend und stellen eine unverbindliche Aufforderung an den Kunden dar, bei der Firma Milan GmbH, Waren durch Abgabe eines Angebots zu bestellen.\n2. Durch die Bestellung der gewünschten Waren im Internet (www.milan-berlin.de) gibt der Kunde ein verbindliches Angebot auf Abschluss eines Kaufvertrages ab. Die Firma Milan GmbH wird den Zugang der Bestellung des Kunden unverzüglich bestätigen. Die Zugangsbestätigung stellt noch keine verbindliche Annahme der Bestellung dar. Die Zugangsbestätigung kann jedoch mit der Annahmeerklärung verbunden werden.\n3. Der Vertragsschluss erfolgt mit Übersendung einer Auftragsbestätigung/Annahmeerklärung per E-Mail, Telefax oder auf dem Postweg. Die Firma Milan GmbH ist berechtigt, dass in der Bestellung liegende Vertragsangebot innerhalb von 7 Werktagen nach Eingang bei ihr anzunehmen. Nach fruchtlosem Fristablauf gilt das Angebot als abgelehnt. Die Firma Milan GmbH ist berechtigt, die Annahme der Bestellung abzulehnen. Ferner besteht eine Berechtigung, die Bestellung auf eine haushaltsübliche Menge zu begrenzen.\n4. Der Vertragstext wird von der Milan GmbH gespeichert und dem Kunden nebst den rechtswirksam einbezogenen AGB per E-Mail nach Vertragsschluss zugesandt.\n§3 Preise und Zahlung\n1. Im Kaufpreis ist die jeweils gesetzliche gültige Umsatzsteuer enthalten. Der angegebene Kaufpreis ist für den Kunden bindend. Mit Aktualisierung der Internetseiten werden alle früheren Preise und sonstige Angaben über Waren ungültig. Maßgeblich ist jeweils die zum Zeitpunkt der Bestellung gültige Fassung.\n2. Die Zahlung hat, soweit nicht ausdrücklich anderes vereinbart ist, binnen 30 Tagen nach Rechnungsdatum zu erfolgen.\n3. Beim Versendungskauf versteht sich der Kaufpreis zuzüglich der Versandkosten. Die Versandkosten ergeben sich bei der Bestellung aus der Bestellmaske.\n4. Der Kunde darf nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen. Zurückbehaltungsrechte stehen ihm nur zu, soweit sie auf demselben Vertragsverhältnis beruhen.\n§4 Kunden-Account\nDie Milan GmbH richtet für den Kunden auf dessen Wunsch einen Password geschützten direkten Zugang für künftige Bestellungen im Shop. Der Kunde verpflichtet sich, dieses Password vertraulich zu behandeln und keinem unbefugten Dritten zugänglich zu machen. Milan GmbH übernimmt keine Haftung für missbräuchlich verwendete Passwörter.\n§5 Eigentumsvorbehalt\n1. Die Milan GmbH behält sich das Eigentum an der Ware bis zur vollständigen Bezahlung des Kaufpreises vor. Vor Eigentumsübertragung ist eine Verpfändung, Sicherungsübereignung, Verarbeitung oder Umgestaltung ohne ausdrückliche Zustimmung der Milan GmbH nicht zulässig.\n§6 Gewährleistung\n1. Gewährleistungsansprüche des Kunden gegen die Milan GmbH bei Mängeln richten sich nach den gesetzlichen Regelungen innerhalb der gesetzlichen Fristen, soweit sich durch nachstehende Regelungen keine Abweichungen ergeben.\n2. Für den Verbraucher beträgt die Gewährleistungsfrist zwei Jahre ab Lieferung der Ware. Für den Unternehmer beträgt die Gewährleistungsfrist ein Jahr ab Erhalt der Ware. Bei gebrauchten Waren beträgt die Gewährleistungsfrist für den Kunden ein Jahr ab Erhalt der Ware.\n3. Schäden, die durch unsachgemäße oder vertragswidrige Maßnahmen des Kunden, bei Aufstellung, Anschluss, Bedienung oder Lagerung hervorgerufen werden, begründen keinen Anspruch gegen die Milan GmbH.\n4. Die Milan GmbH gibt gegenüber dem Kunden keine Garantien im Rechtssinne ab. Herstellergarantien bleiben hiervon unberührt.\n§7 Transportschäden\n1. Werden Waren mit offensichtlichen Schäden an der Verpackung oder am Inhalt angeliefert, so hat der Verbraucher dies unbeschadet seiner Gewährleistungsrechte sofort beim Spediteur/Frachtdienst zu reklamieren und die Annahme zu verweigern sowie unverzüglich mit der Milan GmbH Kontakt aufzunehmen (E-Mail/Fax/Post), damit diese etwaige Rechte gegenüber dem Spediteur/Frachtdienst wahren kann. Verborgende Mängel sind –ebenfalls unbeschadet etwaiger Gewährleistungsansprüche- unverzüglich nach Entdeckung an die Milan GmbH zu melden, damit etwaige Gewährleitungsansprüche gegenüber Vorlieferanten gewahrt werden können.\n2. Ein Verstoß gegen die Reklamierungs- und Anzeigepflicht führt für den Verbraucher nicht zu einem Verlust der Gewährleistungsrechte.\n3. Der Unternehmer hat eine unverzügliche Untersuchungs- und Rügepflicht nach Erhalt der Ware. Der Unternehmer hat schriftlich oder per E-Mail der Milan GmbH entdeckte Mängel unverzüglich anzuzeigen. Unterlässt der Unternehmer die Anzeige, so gilt die Ware als genehmigt (Entfallen der Gewährleitung nach §6), es sei denn, es handelt sich um einen Mangel, der bei der Untersuchung nicht erkennbar war.\n§8 Lieferung/Lieferzeit/Verzug\n1. Rechnungsstellung und Lieferung erfolgt nur innerhalb Deutschlands.\n2. Die Lieferung erfolgt an den Kunden gegen Zahlung von Versandkosten, deren genauer Betrag sich bei der Bestellung aus der Bestellmaske ergibt, an die von diesem angegebene Anschrift.\n3. Teillieferungen sind in zumutbarem Umfang zulässig. Ist der Kunde Unternehmer gilt zudem folgendes: Sofern die Milan GmbH verbindliche Lieferfristen aus Gründen, die die Milan GmbH nicht zu vertreten hat, nicht einhalten kann (Nichtverfügbarkeit der Leistung), wird die Milan GmbH den Kunden hierüber unverzüglich informieren und gleichzeitig die voraussichtliche, neue Lieferfrist mitteilen. Ist die Leistung auch innerhalb der neuen Lieferfrist nicht verfügbar, ist die Milan GmbH berechtigt, ganz oder teilweise vom Vertrag zurückzutreten; eine bereits erbrachte Gegenleistung des Kunden wird die Milan GmbH unverzüglich erstatten. Als Fall der Nichtverfügbarkeit der Leistung in diesem Sinne gilt insbesondere die nicht rechtzeitige Selbstbelieferung durch den Zulieferer, wenn die Milan GmbH ein kongruentes Deckungsgeschäft abgeschlossen hat, weder die Milan GmbH noch den Zulieferer ein Verschulden trifft oder die Milan GmbH im Einzelfall zur Beschaffung nicht verpflichtet ist.\n§9 Gefahrübergang\n1. Beim Versendungsverkauf an Verbraucher geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe der Ware an den Verbraucher auf diesen über. Beim Versendungsverkauf an Unternehmer, geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe der Ware an den Spediteur, den Frachtführer oder sonst zur Ausführung der Versendung bestimmten Person auf den Unternehmer über.\n2. Der Übergabe steht es gleich, wenn der Kunde in Annahmeverzug ist.\n§10 Haftungsbeschränkung und Freistellung\n1. Soweit sich aus diesen AGB einschließlich der nachfolgenden Bestimmungen nichts anderes ergibt, haftet die Milan GmbH bei einer Verletzung von vertraglichen und außervertraglichen Pflichten nach den gesetzlichen Vorschriften.\n2. Bei vorsätzlicher und grob fahrlässiger Pflichtverletzung haftet die Milan GmbH – gleich aus welchem Rechtsgrund – gemäß den gesetzlichen Bestimmungen.\n3. Im Falle einfacher Fahrlässigkeit haftet die Milan GmbH nur für Schäden aus der Verletzung einer vertragswesentlichen Pflicht. Vertragswesentliche Pflichten sind solche, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglichen und auf deren Einhaltung der Kunde regelmäßig vertraut und vertrauen darf. Im Falle der Verletzung wesentlicher Vertragspflichten ist die Ersatzpflicht auf den bei Vertragsschluss vorhersehbaren, typischerweise eintretenden Schaden begrenzt.\n4. Die Haftungsbeschränkung gemäß § 10 (3) gilt nicht, soweit es um Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit sowie um Ansprüche nach dem Produkthaftungsgesetz geht oder sofern ein Mangel arglistig verschwiegen oder eine Garantie für die Beschaffenheit übernommen wurde.\n5. Die vorstehenden Haftungsausschlüsse und -beschränkungen gelten in gleichem Umfang zugunsten der gesetzlichen Vertreter und Erfüllungsgehilfen der Milan GmbH.\n§ 11 Hinweise nach dem Batteriegesetz (BattG)\nEinige unserer Artikel sind mit Batterien oder Akkus bestückt. Wir haben unsere Kunden daher gemäß dem BattG auf folgendes hinzuweisen:\nAchten Sie darauf, dass Sie Ihre alten Batterien/Akkus, so wie es der Gesetzgeber vorschreibt, an einer kommunalen Sammelstelle oder im Handel vor Ort abgeben. Die Entsorgung über den gewöhnlichen Hausmüll ist verboten und verstößt gegen das Batteriegesetz. Die Abgabe ist für Sie kostenlos. Gerne können Sie auch die bei uns erworbenen Batterien/Akkus nach dem Gebrauch an uns unentgeltlich zurückgeben. Setzen Sie sich hierzu per E-Mail verkauf@milan.berlin oder Telefon 030 4401 2451 mit uns in Verbindung.\nBatterien und Akkus, die Schadstoffe enthalten, sind mit dem Symbol einer durchgekreuzten Mülltonne deutlich erkennbar gekennzeichnet. Des Weiteren befindet sich unter dem Symbol der durchgekreuzten Mülltonne, die chemische Bezeichnung der entsprechenden Schadstoffe. Beispiele  hierfür sind: (Pb) Blei, (Cd) Cadmium, (Hg) Quecksilber.\nSie haben die Möglichkeit, diese Information auch nochmals in den Begleitpapieren der  Warenlieferung oder in der Bedienungsanleitung des jeweiligen Herstellers nachzulesen. Weitere  detaillierte Hinweise zur Batterieverordnung erhalten Sie beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit (www.bmu.de/abfallwirtschaft).\n§12 Datenschutz\nDie Milan GmbH beachtet m Zusammenhang mit der Erhebung, Verarbeitung und Nutzung personenbezogener Daten der Kunden die einschlägigen datenschutzrechtlichen Bestimmungen. Diesbezüglich wird auf die gesonderte Datenschutzerklärung, die über den Onlineshop abrufbar ist, verwiesen.\n§13 Widerrufsrecht\nWiderrufsbelehrung\n§14 Gerichtsstand, anzuwendendes Recht\n1. Gerichtsstand aller Streitigkeiten aus dem Vertragsverhältnis ist Berlin, sofern die Kunden Kaufleute sind. In allen anderen Fällen gilt der gesetzliche Gerichtsstand.\n2. Die Beziehungen zwischen den Vertragsparteien regeln sich ausschließlich nach dem in der Bundesrepublik Deutschland geltenden Recht unter Ausschluss des UN-Kaufrechts. Bei Kunden, die den Vertrag nicht zu beruflichen oder gewerblichen Zwecken abschließen, gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Kunden seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n3. Sollten einzelne Bestimmungen des Vertrages mit dem Kunden einschließlich dieser Allgemeinen Geschäftsbedingungen ganz oder teilweise unwirksam sein oder werden, so wird hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt.\nHinweis: Alternative Streitbeilegung\nDie Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, aufrufbar unter: (http://ec.europa.eu/odr)\nWir sind nicht bereit, an Streitbeilegungsverfahren vor Verbraucherschlichtungsstellen teilzunehmen.\n\n"
+}

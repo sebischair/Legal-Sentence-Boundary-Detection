@@ -1,0 +1,425 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kundeninformationen",
+            "end": 40,
+            "start": 21,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 201,
+            "start": 195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 234,
+            "start": 227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 255,
+            "start": 240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 349,
+            "start": 343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 410,
+            "start": 405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 520,
+            "start": 517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 635,
+            "start": 633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 723,
+            "start": 716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 863,
+            "start": 860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 989,
+            "start": 979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1127,
+            "start": 1119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1232,
+            "start": 1224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1320,
+            "start": 1312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1455,
+            "start": 1452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unverbindlich",
+            "end": 1601,
+            "start": 1588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 1624,
+            "start": 1607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestelldaten",
+            "end": 1656,
+            "start": 1644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 1776,
+            "start": 1765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrufen",
+            "end": 1898,
+            "start": 1890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugreifen",
+            "end": 2027,
+            "start": 2018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 2050,
+            "start": 2033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturhinweis",
+            "end": 2068,
+            "start": 2052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 2160,
+            "start": 2149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeiten",
+            "end": 2254,
+            "start": 2232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 2354,
+            "start": 2347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2378,
+            "start": 2360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2503,
+            "start": 2500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügen",
+            "end": 2666,
+            "start": 2658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2887,
+            "start": 2881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3073,
+            "start": 3069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 3111,
+            "start": 3091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 3132,
+            "start": 3112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 3192,
+            "start": 3172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährung",
+            "end": 3204,
+            "start": 3194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 3319,
+            "start": 3316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3530,
+            "start": 3525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährungsfristen",
+            "end": 3608,
+            "start": 3590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkung",
+            "end": 3634,
+            "start": 3614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 3897,
+            "start": 3888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertreter",
+            "end": 3998,
+            "start": 3989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 4143,
+            "start": 4132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 4228,
+            "start": 4217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 4250,
+            "start": 4234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 4433,
+            "start": 4430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 4559,
+            "start": 4547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4689,
+            "start": 4683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umtausch",
+            "end": 4719,
+            "start": 4711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeben",
+            "end": 4839,
+            "start": 4828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Belehrung",
+            "end": 4910,
+            "start": 4901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 4990,
+            "start": 4982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Retourenschein",
+            "end": 5115,
+            "start": 5101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EU",
+            "end": 5160,
+            "start": 5158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 5265,
+            "start": 5259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendekosten",
+            "end": 5331,
+            "start": 5316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zollgebühren",
+            "end": 5395,
+            "start": 5383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 5527,
+            "start": 5525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 5640,
+            "start": 5636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 5808,
+            "start": 5801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 5936,
+            "start": 5930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgezogen",
+            "end": 6077,
+            "start": 6068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 6183,
+            "start": 6180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 6301,
+            "start": 6295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6325,
+            "start": 6307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6344,
+            "start": 6326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 6359,
+            "start": 6345,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6391,
+            "start": 6390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 6547,
+            "start": 6535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 6761,
+            "start": 6755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aachen",
+            "end": 6805,
+            "start": 6799,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich, Kundeninformationen\nDie folgenden allgemeinen Geschäftsbedingungen regeln das Vertragsverhältnis zwischen FC-Moto GmbH & Co. KG und Verbrauchern, die über unseren Shop Waren kaufen. Die Vertragssprache ist Deutsch.\n§ 2 Vertragsschluss\nDie Angebote im Internet stellen eine unverbindliche Aufforderung an Sie dar, Waren zu kaufen.\nSie können ein oder mehrere Produkte in den Warenkorb legen. Im Laufe des Bestellprozesses geben Sie Ihre Daten und Wünsche bzgl. Zahlungsart, Liefermodalitäten etc. ein. Erst mit dem Anklicken des Bestellbuttons geben Sie ein verbindliches Angebot auf Abschluss eines Kaufvertrags ab. Sie können eine verbindliche Bestellung aber auch telefonisch oder per Telefax abgeben. Die unverzüglich per E-Mail bzw. per Telefax erfolgende Zugangsbestätigung Ihrer Bestellung stellt noch keine Annahme des Kaufangebots dar.\nWir sind berechtigt, Ihr Angebot innerhalb von 2-7 Werktagen unter Zusendung einer Auftragsbestätigung per E-Mail anzunehmen. Nach fruchtlosem Ablauf der in Satz 1 genannten Frist gilt Ihr Angebot als abgelehnt, d.h. Sie sind nicht länger an Ihr Angebot gebunden. Bei einer telefonischen Bestellung kommt der Kaufvertrag zustande, wenn wir Ihr Angebot sofort annehmen. Wird das Angebot nicht sofort angenommen, dann sind Sie auch nicht mehr daran gebunden.\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern nur eine Aufforderung zur Bestellung dar. Im Online-Shop, in Prospekten, Anzeigen und anderem Werbematerial enthaltene Angebote und Preisangaben sind daher freibleibend und unverbindlich.\n§ 3 Kundeninformation: Speicherung Ihrer Bestelldaten\nIhre Bestellung mit Einzelheiten zum geschlossenen Vertrag (z.B. Art des Produkts, Preis etc.) wird von uns gespeichert. Die AGB schicken wir Ihnen zu, Sie können die AGB aber auch nach Vertragsschluss jederzeit über unsere Webseite aufrufen.\nAls registrierter Kunde können Sie auf Ihre vergangenen Bestellungen über den Kunden LogIn-Bereich (Mein Kundenkonto) zugreifen.\n§ 4 Kundeninformation: Korrekturhinweis\nSie können Ihre Eingaben vor Abgabe der Bestellung jederzeit mit der Löschtaste berichtigen. Wir informieren Sie auf dem Weg durch den Bestellprozess über weitere Korrekturmöglichkeiten. Den Bestellprozess können Sie auch jederzeit durch Schließen des Browser-Fensters komplett beenden.\n§ 5 Eigentumsvorbehalt\n(1) Wir behalten uns das Eigentum an der gelieferten Ware bis zur vollständigen Bezahlung des Kaufpreises für diese Ware vor. Während des Bestehens des Eigentumsvorbehalts darf der Käufer die Ware (nachfolgend: Vorbehaltsware) nicht veräußern oder sonst über das Eigentum hieran verfügen.\n(2) Bei Zugriffen Dritter - insbesondere Gerichtsvollzieher - auf die Vorbehaltsware wird der Käufer auf unser Eigentum hinweisen und uns unverzüglich benachrichtigen, damit wir unsere Eigentumsrechte durchsetzen können.\n(3) Bei vertragswidrigen Verhalten des Käufers, insbesondere bei Zahlungsverzug, sind wir berechtigt, die Vorbehaltsware heraus zu verlangen, sofern wir vom Vertrag zurückgetreten sind.\n§ 6 Gesetzliche Mängelhaftungsrechte\nMängelhaftungsrechte: Für unsere Waren bestehen gesetzliche Mängelhaftungsrechte.\nVerjährung: Ihre Ansprüche wegen Mängeln bei gebrauchten Waren verjähren in einem Jahr ab Übergabe der verkauften Ware an Sie. Von dieser Regelung ausgenommen sind Schadensersatzansprüche, Ansprüche wegen Mängeln, die wir arglistig verschwiegen, und Ansprüche aus einer Garantie, die wir für die Beschaffenheit der Ware übernommen haben. Für diese ausgenommenen Ansprüche gelten die gesetzlichen Verjährungsfristen.\n§ 7 Haftungsbeschränkung\nWir schließen die Haftung für leicht fahrlässige Pflichtverletzungen aus, sofern diese keine vertragswesentlichen Pflichten, Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, Garantien oder Ansprüche nach dem Produkthaftungsgesetz betreffen. Gleiches gilt für Pflichtverletzungen unserer Erfüllungsgehilfen und unserer gesetzlichen Vertreter. Zu den vertragswesentlichen Pflichten gehört insbesondere die Pflicht, Ihnen die Sache zu übergeben und Ihnen das Eigentum daran zu verschaffen. Weiterhin haben wir Ihnen die Sache frei von Sach- und Rechtsmängeln zu verschaffen.\n§ 8 Transportschäden\nWerden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte sofort beim Zusteller und nehmen Sie bitte schnellstmöglich mit uns Kontakt auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Gewährleistungsrechte keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\n§ 8 Rücksendungen & Umtausch\n(1) Sie können die erhaltene Ware ohne Angabe von Gründen innerhalb von 30 Tagen durch Rücksendung der Ware zurückgeben. Die Frist beginnt frühestens mit Erhalt der Ware und dieser Belehrung.\n(2) Rücksendungen können von uns nur angenommen werden, wenn sie Frei erfolgen.\n(3) Umtauschrecht gilt nur für unseren Onlineshop bei Rücksendungen oder Umtausch benutzen Sie bitte unseren Retourenschein.\n(4) Kosten Retouren Kosten außerhalb der EU.\nBei der Paketaufgabe hat der Kunde die Möglichkeit, zwischen DTU(unbezahlt) oder DTP(bezahlt) zu wählen. Bei DTU übernimmt der Kunde lediglich die reinen Rücksendekosten. DTP beinhaltet sowohl die Rücksende- als auch die Zollgebühren. Sollte der Kunde sich für DTU entscheiden, hat\ndieser die Abfertigunskosten zu tragen, diese Fallen individuell je nach Sendung an.\nBei Paketen, die durch den Zoll gehen müssen, ist es unbedingt nötig, dass der Inhalt identifiziert werden kann. Bitte legen Sie daher eine Kopie der Rechnung dem Paket bei und befestigen Sie eine weitere Kopie außen am Paket mit dem Vermerk, dass es sich um eine Retoure handelt. Sendungen, die unter Wert, ohne Rechnung oder ohne Retourengrund gekennzeichnet sind, gehen automatisch an den Absender zurück.\nSollten Sie sich bei Ihrer Retoure für eine Gutschrift entschieden haben, so wird dieser Betrag von dem Gutschriftsbetrag von uns abgezogen. Sofern Sie einen Umtausch wünschen, erhalten Sie in den nächsten Tagen eine Zahlungsaufforderung von uns. Sobald wir den ausstehenden Betrag von Ihnen erhaten haben, bearbeiten wir Ihrem Umtauschvorgang unverzüglich weiter.\n§ 9 Widerrufsbelehrung\nWiderrufsbelehrung\nMusterformular\n§ 10 Online-Streitbeilegung(OS)\nStreitbeilegungsverfahren Wir sind weder bereit, noch verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\nOnline-Streitbeilegung Die europäische Kommission stellt Verbrauchern eine Plattform zur außergerichtlichen Online-Streitbeilegung(OS) bereit, die Sie unter dem externen Link www.ec.europa.eu/consumers/odr finden. Gerichtsstand und Erfüllungsort ist Aachen.\n\n"
+}

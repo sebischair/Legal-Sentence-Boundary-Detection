@@ -1,0 +1,647 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigungsschutzantrag",
+            "end": 98,
+            "start": 76,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 111,
+            "start": 99,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 133,
+            "start": 131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 155,
+            "start": 153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 164,
+            "start": 156,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 475,
+            "start": 474,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 485,
+            "start": 484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 497,
+            "start": 486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitwertangebot",
+            "end": 616,
+            "start": 599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 627,
+            "start": 617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 684,
+            "start": 682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 695,
+            "start": 685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42111",
+            "end": 715,
+            "start": 710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 721,
+            "start": 716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 933,
+            "start": 923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1011,
+            "start": 1000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1058,
+            "start": 1044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1066,
+            "start": 1060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1068,
+            "start": 1067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1071,
+            "start": 1070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 1229,
+            "start": 1218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1232,
+            "start": 1231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1471,
+            "start": 1467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbesteht",
+            "end": 1591,
+            "start": 1580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstreckt",
+            "end": 1773,
+            "start": 1764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstreckt",
+            "end": 2038,
+            "start": 2029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2214,
+            "start": 2211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 2452,
+            "start": 2446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 2691,
+            "start": 2685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 2910,
+            "start": 2902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 3146,
+            "start": 3140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 3149,
+            "start": 3148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 3324,
+            "start": 3316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3507,
+            "start": 3504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 3658,
+            "start": 3649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 3796,
+            "start": 3790,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3996,
+            "start": 3995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 4137,
+            "start": 4133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 4327,
+            "start": 4319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 4393,
+            "start": 4383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erledigt",
+            "end": 4447,
+            "start": 4439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4450,
+            "start": 4449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 4557,
+            "start": 4546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4560,
+            "start": 4559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 4751,
+            "start": 4746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Euro",
+            "end": 5054,
+            "start": 5050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5057,
+            "start": 5056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 5283,
+            "start": 5274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5286,
+            "start": 5285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 5375,
+            "start": 5367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5379,
+            "start": 5377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5382,
+            "start": 5381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 5423,
+            "start": 5413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5426,
+            "start": 5425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5607,
+            "start": 5604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5611,
+            "start": 5609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 5733,
+            "start": 5730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5737,
+            "start": 5735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RVG",
+            "end": 6016,
+            "start": 6013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6020,
+            "start": 6018,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6377,
+            "start": 6376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6381,
+            "start": 6379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 6435,
+            "start": 6426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6439,
+            "start": 6437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6632,
+            "start": 6628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6636,
+            "start": 6634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzusetzen",
+            "end": 6877,
+            "start": 6865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6881,
+            "start": 6879,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7197,
+            "start": 7196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7201,
+            "start": 7199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 7462,
+            "start": 7459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7466,
+            "start": 7464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 7863,
+            "start": 7859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7867,
+            "start": 7865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 8126,
+            "start": 8120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitwertkatalogs",
+            "end": 8224,
+            "start": 8206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beendigungstermins",
+            "end": 8461,
+            "start": 8443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8465,
+            "start": 8463,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8739,
+            "start": 8738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 8743,
+            "start": 8741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffend",
+            "end": 8911,
+            "start": 8901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 9166,
+            "start": 9163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9170,
+            "start": 9168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 9414,
+            "start": 9400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 9418,
+            "start": 9416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsklage",
+            "end": 9718,
+            "start": 9705,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10230,
+            "start": 10229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10234,
+            "start": 10232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängt",
+            "end": 10455,
+            "start": 10448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigung",
+            "end": 10656,
+            "start": 10647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 10722,
+            "start": 10707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 10972,
+            "start": 10969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11049,
+            "start": 11047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11053,
+            "start": 11051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11343,
+            "start": 11337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 11347,
+            "start": 11345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erachtet",
+            "end": 11443,
+            "start": 11435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzt",
+            "end": 11563,
+            "start": 11556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgegriffen",
+            "end": 11691,
+            "start": 11676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebracht",
+            "end": 11821,
+            "start": 11813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 11826,
+            "start": 11823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 11830,
+            "start": 11828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 11944,
+            "start": 11939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 11948,
+            "start": 11946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlasst",
+            "end": 12048,
+            "start": 12038,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 22.11.2018 – 4 Ta 136/18\nTitel:\nStreitwert bei Kündigungsschutzantrag\nNormenketten:\nGKG § 42, § 63, § 68\nRVG § 13 Abs. 1, § 23\nLeitsatz:\nEine erstinstanzliche Streitwertfestsetzung kann in einem beim Landesarbeitsgericht anhängigen\nStreitwertbeschwerdeverfahren auch dann von Amts wegen abgeändert und ggf. herabgesetzt\nwerden, wenn die Streitwertbeschwerde wegen Nichterreichens des Beschwerdewertes unzulässig\nist (§ 63 Abs. 3 Satz 1 Nr. 2 GKG). (Rn. 16)\nSchlagworte:\nAuskunft, Vergleich, Streitwertfestsetzung, von Amts wegen, Beschwerdewert, Kündigungsschutzantrag,\nStreitwertangebot\nVorinstanz:\nArbG Nürnberg, Beschluss vom 13.09.2018 – 14 Ca 5652/17\nFundstelle:\nBeckRS 2018, 42111\nTenor\nAuf die Beschwerde der Prozessbevollmächtigten des Klägers wird der Beschluss des Arbeitsgerichts\nNürnberg vom 13.09.2018, Az.: 14 Ca 5652/17,\nin der Fassung der Teilabhilfeentscheidung vom 30.10.2018 abgeändert.\nDer Streitwert für die Gebührenberechnung wird auf EUR 22.859,32 festgesetzt.\nIm Übrigen wird die Beschwerde zurückgewiesen.\nGründe\nI.\n1\nDer Kläger war im Betrieb der Beklagten seit 1.1.2017 als Bezirksverkaufsleiter mit einem durchschnittlichen\nBruttomonatsgehalt von 3.800,00 Euro beschäftigt.\n2\nMit seiner zum Arbeitsgericht Nürnberg erhobenen Klage begehrte er zuletzt:\n1. festzustellen, dass das zwischen den Parteien bestehende Arbeitsverhältnis nicht durch die Kündigung\nder Beklagten vom 22.09.2017 zum 31.10.2017 aufgelöst wird,\n2. festzustellen, dass das Arbeitsverhältnis auch nicht durch andere Beendigungstatbestände endet,\nsondern fortbesteht,\n3. die Beklagte zu verurteilen, dem Kläger ein qualifiziertes Zwischenzeugnis zu erteilen, dass sich auf Art\nund Dauer sowie auf Führung und Leistung im Arbeitsverhältnis erstreckt.\nHilfsweise für den Fall, dass dem Feststellungsantrag zu 1. nicht entsprochen wird,\n4. die Beklagte zu verurteilen, dem Kläger ein qualifiziertes Schlusszeugnis zu erteilen, dass sich auf Art\nund Dauer sowie auf Führung und Leistung im Arbeitsverhältnis erstreckt.\n5. festzustellen, dass das zwischen den Parteien bestehende Arbeitsverhältnis auch nicht durch eine\nKündigung der Beklagten vom 09.08.2017 zum 30.09.2017 aufgelöst worden ist.\n6. die Beklagte zu verurteilen, an den Kläger 10.719,00 € brutto abzüglich auf das Jobcenter\nübergegangene Ansprüche in Höhe von 1.801,50 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem\nBasiszinssatz seit Rechtshängigkeit zu zahlen,\n7. die Beklagte zu verurteilen, an den Kläger Urlaubsentgelt in Höhe von 2.638,52 € brutto zuzüglich\nUrlaubsgeld in Höhe von 220,80 € brutto nebst Zinsen in Höhe von 5 Prozentpunkten über dem\nBasiszinssatz seit Rechtshängigkeit zu zahlen,\n8. die Beklagte zu verurteilen, dem Kläger Auskunft über den zwischen der Beklagten und der\nGewerkschaft N…, geschlossenen Haustarifvertrag/Entgelttarifvertrag durch Übermittlung einer\nentsprechenden Kopie zu erteilen,\n9. die Beklagte zu verurteilen, an den Kläger 3.573,00 € brutto abzüglich auf das Jobcenter\nübergegangener Ansprüche in Höhe von 900,75 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem\nBasiszinssatz seit Rechtshängigkeit zu zahlen.\n3\nZwischen den Parteien ist durch Annahme eines schriftlichen Vergleichsvorschlages des Gerichts am\n13.9.2018 ein gerichtlicher Vergleich mit folgendem Inhalt zustande gekommen:\n1. Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter\nArbeitgeberkündigung vom 22.09.2017 zum 31.10.2017 sein Ende gefunden hat.\n2. Die Beklagte zahlt an den Kläger Vergütung für den Monat Oktober 2017 in Höhe von € 3.573,00 brutto,\nvorbehaltlich Dritte übergegangener Ansprüche.\n3. Die Beklagte zahlt an den Kläger für den Verlust des Arbeitsplatzes eine Abfindung gemäß §§ 9, 10\nKSchG in Höhe von € 3.500,00 brutto.\n4. Die Beklagte erteilt dem Kläger ein wohlwollendes, qualifiziertes Arbeitszeugnis mit guter Führungs- und\nLeistungsbeurteilung und der üblichen dreigeteilten Schlussformel (Dank, Bedauern, Wunsch). Dem Kläger\nwird insofern das Recht eingeräumt, Änderungswünsche einzubringen, von denen die Beklagte nur aus\nwichtigem Grund abweichen darf.\n5. Die Parteien sind sich darüber einig, dass der dem Kläger zustehende Urlaub in natura gewährt worden\nist und darüberhinausgehende Urlaubs- und Freizeitausgleichsansprüche nicht bestehen.\n6. Die Kosten des Rechtsstreites werden gegeneinander aufgehoben.\n7. Damit ist der Rechtsstreit 14 Ca 5652/17 erledigt.\n4\nDas Arbeitsgericht Nürnberg hat mit Beschluss vom 13.09.2018 den Streitwert auf 15.200,00 Euro\nfestgesetzt.\n5\nGegen den ihnen am 13.09.2018 formlos zugeleiteten Beschluss wenden sich die Klägervertreter mit ihrer\nBeschwerde vom 04.10.2018 und begehren eine Berücksichtigung der Klageanträge wie folgt:\n„Klageantrag zu 5) - 2facher Wert: 7.600,00 Euro, Klageantrag zu 6) - bezifferter Wert: 8.917,50 Euro,\nKlageantrag zu 7) - bezifferter Wert: 2.417,72 Euro, Klageanträge zu 5) bis 7) insgesamt: 18.935,22 Euro.“\nZuzüglich Streitwert Klageanträge 1) bis 4): 15.200,00 Euro;\ndamit insgesamt 34.135,22 Euro.\n6\nDas Arbeitsgericht hat mit Beschluss vom 30.10.2018 der Beschwerde teilweise abgeholfen, den Streitwert\nauf 33.449,07 EURO festgesetzt und die Beschwerde im Übrigen dem Landesarbeitsgericht Nürnberg zur\nEntscheidung vorgelegt.\n7\nHinsichtlich weiterer Einzelheiten wird auf den Inhalt der Beschwerdeakte Bezug genommen.\nII.\n8\n1. Die Beschwerde ist bereits unzulässig.\n9\nSie ist zwar statthaft, § 68 Abs. 1 Satz 1 GKG, denn sie richtet sich gegen einen Beschluss, durch den der\nWert für die Gerichtsgebühren gem. § 63 Abs. 2 GKG festgesetzt worden ist.\n10\nDie Beschwerde ist auch innerhalb der in § 63 Abs. 3 Satz 2 GKG bestimmten Frist eingelegt worden, § 68\nAbs. 1 Satz 3 GKG.\n11\nDer Wert des Beschwerdegegenstandes übersteigt jedoch nach erfolgter Teilabhilfe nicht mehr EUR 200,-,\n§ 68 Abs. 1 Satz 1 GKG, denn zwischen dem vom Erstgericht angehobenen und dem mit der Beschwerde\nbegehrten Wert liegt kein Gebührensprung mehr gem. Anlage 2 zu § 13 Abs. 1 RVG.\n12\nBei Ermittlung des Beschwerdewertes ist nach erfolgter teilweiser Abhilfe der Beschwerde auf den Betrag\nabzustellen, durch den der Beschwerdeführer noch immer beschwert ist (vgl. LAG Nürnberg v. 19.12.2005 -\n9 Ta 224/05; OVG NRW v. 02.08.2011 - 1 E 684/11; Tschöpe/Ziemann/Altenburg, Streitwert und Kosten im\nArbeitsrecht, Teil 1 A Rdz 668; jeweils m.w.N.).\n13\n2. Die Beschwerde ist nur zum Teil sachlich begründet.\n14\nDer in der Ausgangsentscheidung vom 13.09.2018 festgesetzte Wert von 15.200,- EURO ist anzuheben auf\neinen Betrag von 22.859,32 EURO, da auch die Klageanträge 4 - 9 zusätzlich zu bewerten sind.\n15\nSoweit des Erstgericht in der Teilabhilfeentscheidung vom 30.10.2018 einen Gesamtwert von 33.449,07\nEURO ermittelt hat, ist diese Entscheidung gem. § 68 Abs. 3 Satz 1 Nr. 2 GKG von Amts wegen\nabzuändern und der zutreffende Wert festzusetzen.\n16\nEine erstinstanzliche Streitwertfestsetzung kann in einem beim Landesarbeitsgericht anhängigen\nStreitwertbeschwerdeverfahren auch dann von Amts wegen abgeändert werden, wenn die\nStreitwertbeschwerde wegen Nichterreichens des Beschwerdewertes unzulässig ist (so OVG NRW v.\n02.08.2011; Tschöpe/Ziemann/Altenburg, aaO).\n17\na) Zutreffend wurde der ursprüngliche Kündigungsschutzantrag, der sich gegen die ordentliche\nArbeitgeberkündigung vom 22.09.2017 zum 31.10.2017 richtet, gem. Ziffer I. Nr. 20 des Streitwertkatalogs\nmit dem Vierteljahresverdienst bewertet,§ 42 Abs. 2 Satz 1 GKG.\n18\nDer neben dem besonderen Kündigungsschutzantrag gestellte allgemeine Feststellungsantrag führt gem.\nZiffer I Nr. 17.2 des Streitwertkatalogs zu keiner zusätzlichen Bewertung, denn es handelt sich - soweit nicht\nandere Beendigungstatbestände zu anderen Beendigungszeitpunkten betroffen werden - noch immer um\nden identischen Bestandsstreit, für den die Höchstgrenze des § 42 Abs. 2 Satz 1 GKG gilt.\n19\nDer im Wege der Klageerweiterung gestellte weitere Kündigungsschutzantrag, die Kündigung vom\n09.08.2017 zum 30.09.2017, führt zu einer zusätzlichen Bewertung, da die angegriffenen Kündigungen zu\nunterschiedlichen Terminen das Arbeitsverhältnis beenden sollen. Diesbezüglich ergibt sich die zutreffende\nBewertung aus Ziffer I Nr. 21.3 des Streitwertkatalogs. Danach ist die zum 30.09.2018 ausgesprochene\nKündigung mit dem Vierteljahresverdienst zu bewerten und die zum 31.10.2017 ausgesprochene\nKündigung mit einem weiteren Monatsverdienst, wegen des nur einen Monat späteren Beendigungstermins.\n20\nb) Der Zeugnisrechtsstreit der Parteien ist mit einem Bruttomonatsverdienst zu bewertet, unabhängig\ndavon, ob lediglich die Erteilung oder auch eine inhaltliche Festlegung begehrt wird (vgl. Ziffer I. Nr. 29.2\nund 29.3 des Streitwertkatalogs für die Arbeitsgerichtsbarkeit).\n21\nc) In die Bewertung einzubeziehen sind die bezifferten Zahlungsansprüche, die Urlaubsabgeltung in Höhe\nvon 2.638,52 EURO und das Urlaubsgeld von 220,80 EURO betreffend. Bei der vom Kläger eingereichten\nZahlungsklage handelt sich um einen bürgerlichen Rechtsstreit, bei der sich der Gegenstandswert\ngrundsätzlich nach der Höhe der geltend gemachten Geldforderung richtet,§§ 23 Abs. 1 Satz 1 RVG, 48\nAbs. 1 Satz 1 GKG, 3 ZPO.\n22\nd) Zu Unrecht wird auch der eingeklagte Annahmeverzugslohn für die Monate Oktober 2017 bis Januar\n2018 in der Teilabhilfeentscheidung des Erstgerichts bei der Bemessung des Streitwertes neben den\nWerten der Bestandsschutzanträge berücksichtigt.\n23\nWird in einem Bestandsstreit im Wege der Klagehäufung Annahmeverzugsvergütung geltend gemacht, bei\nder die Vergütung vom streitigen Fortbestand des Arbeitsverhältnisses abhängt, so besteht nach dem\nBeendigungszeitpunkt eine wirtschaftliche Identität zwischen dem Bestandsstreit und der Zahlungsklage.\nInsoweit findet nach § 45 Abs. 1 Satz 3 GKG keine Wertaddition statt, vielmehr ist der höhere Wert\nmaßgeblich (vgl. LAG Nürnberg v. 16.04.2018 - 4 Ta 40/18; v. 02.02.2011 - 4 Ta 189/10 - JurBüro 2011,\n258, v. 12.02.1988 - 6 Ta 22/87 - LAGE Nr. 73 zu § 12 ArbGG 1979 Streitwert; v. 21.07.1988 - 1 Ta 6/88 -\nLAGE Nr. 74 zu § 12 ArbGG 1979 Streitwert; vom 02.12.2003 - 9 Ta 190/03 - MDR 2004, 718; Hessisches\nLAG v. 01.08.2014 - 1 Ta 190/14; LAG Rheinland-Pfalz v. 04.05.2010 - 1 Ta 55/10; beide zitiert in Juris).\n24\nVon einer wirtschaftlichen Identität beider Streitgegenstände ist nach ständiger Rechtsprechung der\nBeschwerdekammer dann auszugehen, wenn der Erfolg der Entgeltklage von dem der\nKündigungsschutzklage unmittelbar abhängt. In diesem Fall verfolgt der Arbeitnehmer mit beiden Klagen\ndasselbe wirtschaftliche Ziel, die Erhaltung und Durchsetzung seiner Entgeltansprüche nach dem\nBeendigungstermin der angegriffenen Kündigung. Dies ist im Rahmen des § 45 Abs. 1 Satz 3 GKG zu\nberücksichtigen. Bei dem vom Erfolg der Kündigungsschutzklage abhängigen Entgeltanspruch handelt es\nsich, ebenso wie bei einem davon abhängigen Beschäftigungsanspruch, nämlich bei genauer Betrachtung\num einen uneigentlichen Hilfsantrag i.S.d. § 45 Abs. 1 Satz 2 GKG. Hieran knüpft auch die Regelung in\nZiffer I Nr. 6 des Streitwertkatalogs an.\n25\nNachdem die beiden Kündigungsschutzanträge bereits im Umfang von vier Bruttomonatsbezügen mit\ninsgesamt 15.200,- EURO bei der Streitwertbemessung berücksichtigt worden sind, kann der eingeklagte\nAnnahmeverzugslohn nicht in Höhe von insgesamt 11.589,75 EURO zusätzlich berücksichtigt werden.\n26\ne) Hinsichtlich der begehrten Auskunft wird ein Betrag von 1.000,- EURO als angemessen erachtet. Es\nkann nur durch Schätzung ermittelt werden, welcher wirtschaftliche Wert dieses Klagebegehren für den\nKläger besitzt. In Ermangelung ausreichender konkreter Anhaltspunkte wird hierbei auf den Hilfswert des §\n23 Abs. 3 Satz 2 RVG zurückgegriffen. In entsprechender Anwendung der Regelung in Ziffer I Nr. 10.1 des\nStreitwertkatalogs werden diesbezüglich 20% in Ansatz gebracht.\nIII.\n27\nDie Entscheidung konnte ohne mündliche Verhandlung durch den Vorsitzenden alleine ergehen, vgl. § 78\nSatz 3 ArbGG.\n28\nIm Hinblick auf die Kostenregelung des § 68 Abs. 3 GKG ist eine Kostenentscheidung nicht veranlasst.\n\n"
+}

@@ -1,0 +1,629 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kindergeldanspruch",
+            "end": 225,
+            "start": 207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 237,
+            "start": 226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kindergeldanspruch",
+            "end": 410,
+            "start": 392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 421,
+            "start": 411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5909",
+            "end": 440,
+            "start": 436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 446,
+            "start": 441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 475,
+            "start": 465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 530,
+            "start": 524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 542,
+            "start": 532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 544,
+            "start": 543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 640,
+            "start": 632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 643,
+            "start": 642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägers",
+            "end": 694,
+            "start": 687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abschloss",
+            "end": 863,
+            "start": 854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätig",
+            "end": 978,
+            "start": 973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 981,
+            "start": 980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abschloss",
+            "end": 1264,
+            "start": 1255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1267,
+            "start": 1266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlag",
+            "end": 1573,
+            "start": 1567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1576,
+            "start": 1575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1694,
+            "start": 1692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 1814,
+            "start": 1808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorträgt",
+            "end": 1924,
+            "start": 1916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1927,
+            "start": 1926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1966,
+            "start": 1964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 2108,
+            "start": 2093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2111,
+            "start": 2110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2181,
+            "start": 2175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 2332,
+            "start": 2320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2335,
+            "start": 2334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sehen",
+            "end": 2510,
+            "start": 2505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 2791,
+            "start": 2784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 2915,
+            "start": 2909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 3295,
+            "start": 3291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3298,
+            "start": 3297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetze",
+            "end": 3434,
+            "start": 3423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3731,
+            "start": 3728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3843,
+            "start": 3840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 4029,
+            "start": 4023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4033,
+            "start": 4031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4219,
+            "start": 4216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4223,
+            "start": 4221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 4521,
+            "start": 4513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4525,
+            "start": 4523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 4569,
+            "start": 4559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4573,
+            "start": 4571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 4606,
+            "start": 4598,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4843,
+            "start": 4842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4847,
+            "start": 4845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 4966,
+            "start": 4959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehle",
+            "end": 5177,
+            "start": 5172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 5521,
+            "start": 5516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 5525,
+            "start": 5523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 5651,
+            "start": 5644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5655,
+            "start": 5653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 5754,
+            "start": 5745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 5778,
+            "start": 5776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5804,
+            "start": 5793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusteht",
+            "end": 5968,
+            "start": 5961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 5972,
+            "start": 5970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6209,
+            "start": 6203,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6433,
+            "start": 6432,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6697,
+            "start": 6696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 6701,
+            "start": 6699,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6943,
+            "start": 6942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 6947,
+            "start": 6945,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7531,
+            "start": 7530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 7535,
+            "start": 7533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7774,
+            "start": 7768,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8070,
+            "start": 8069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 8074,
+            "start": 8072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 8403,
+            "start": 8400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 8562,
+            "start": 8557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 8796,
+            "start": 8790,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9184,
+            "start": 9183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 9188,
+            "start": 9186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erstausbildung",
+            "end": 9340,
+            "start": 9326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetzt",
+            "end": 9659,
+            "start": 9648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 9801,
+            "start": 9796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 9947,
+            "start": 9936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 9983,
+            "start": 9972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 9987,
+            "start": 9985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergebnis",
+            "end": 10046,
+            "start": 10038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 10050,
+            "start": 10048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortzusetzen",
+            "end": 10482,
+            "start": 10470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 10486,
+            "start": 10484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 10675,
+            "start": 10668,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10875,
+            "start": 10874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11144,
+            "start": 11141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11368,
+            "start": 11365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 11372,
+            "start": 11370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anderes",
+            "end": 11435,
+            "start": 11428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11613,
+            "start": 11610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetzt",
+            "end": 11782,
+            "start": 11771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anstrebte",
+            "end": 12074,
+            "start": 12065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 12209,
+            "start": 12208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 12213,
+            "start": 12211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigt",
+            "end": 12563,
+            "start": 12551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 12567,
+            "start": 12565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnen",
+            "end": 12787,
+            "start": 12779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 12791,
+            "start": 12789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 12841,
+            "start": 12838,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 04.03.2019 – 6 K 401/18\nTitel:\nKindergeld, Bescheid, Studium, Ausbildung, Zulassung, Einspruch, Zweitausbildung,\nKind, Festsetzung, Berufsausbildung, Erstausbildung, Abschluss, Klage,\nKindergeldanspruch\nSchlagworte:\nKindergeld, Bescheid, Studium, Ausbildung, Zulassung, Einspruch, Zweitausbildung, Kind, Festsetzung,\nBerufsausbildung, Erstausbildung, Abschluss, Klage, Kindergeldanspruch\nFundstelle:\nBeckRS 2019, 5909\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens hat der Kläger zu tragen.\nTatbestand\n1\nStreitig ist, ob eine mehraktige erstmalige Berufsausbildung oder eine Zweitausbildung vorliegt.\n2\nA, geboren am ...1993, ist die Tochter des Klägers. Nach ihrer Schulausbildung, die sie ohne Abitur bzw.\nFachabitur beendete, absolvierte sie eine Ausbildung zur Bankkauffrau, die sie am 23.01.2013 erfolgreich\nabschloss. Seit 24.01.2013 ist sie als Bankangestellte mit einer regelmäßigen wöchentlichen Arbeitszeit von\n39 Stunden tätig.\n3\nAm 12.03.2013 meldete sie sich bei der Verwaltungs- und Wirtschafts-Akademie e.V. (VWA) in 1 für ein\nberufsbegleitendes Studium mit der Fachrichtung „Betriebswirt/in (VWA)“ an, dass sie zum nächstmöglichen\nStudienbeginn im Oktober 2013 begann und am 04.02.2017 erfolgreich abschloss.\n4\nLaut schriftlicher Auskunft der VWA 1 vom 05.02.2019 setzte die Zulassung zu diesem Studium für eine\nausgebildete Bankkauffrau ohne Abitur bzw. Fachabitur eine vorherige Berufstätigkeit (Berufspraxis) voraus,\ndie bei einer im Januar 2013 begonnenen Berufstätigkeit zum Studienbeginn im Oktober 2013 vorlag.\n5\nMit Bescheid vom 20.12.2017 lehnte die Beklagte den Antrag des Klägers auf Kindergeld für A ab dem\nMonat März 2013 ab. Den dagegen fristgemäß eingelegten Einspruch wies sie mit Einspruchsentscheidung\nvom 16.03.2018 als unbegründet zurück. Hiergegen richtet sich die fristgemäß erhobene Klage zu deren\nBegründung der Kläger im Wesentlichen vorträgt:\n6\nIhm stehe das beantragte Kindergeld zu. Insbesondere sei A gemäß § 63 Abs. 1 EStG i.V.m. § 32 Abs. 4\nSatz 1 Nr. 2 Buchst. a Einkommensteuergesetz (EStG) als Kind zu berücksichtigen.\n7\nSie beabsichtige Geschäftsstellenleiterin einer Bankfiliale zu werden. Hierfür sei neben der Ausbildung zur\nBankkauffrau der erfolgreiche Abschluss eines Studiums mit der Fachrichtung „Betriebswirt/in (VWA)“\nerforderlich.\n8\nIn der Ausbildung zur Bankkauffrau und dem Studium zur „Betriebswirt/in (VWA)“ sei eine einheitliche\nerstmalige Berufsausbildung im Sinne des § 32 Abs. 4 Satz 2 EStG zu sehen. Die nach der\nRechtsprechung des Bundesfinanzhofs (vgl. BFH-Urteil vom 03.07.2014 III R 52/13, BStBl II 2015, 152)\nhierfür erforderlichen Voraussetzungen seien erfüllt, weil zwischen den beiden Ausbildungsabschnitten\nsowohl ein enger sachlicher und zeitlicher Zusammenhang bestehe. Der sachliche Zusammenhang sei zu\nbejahen, weil die beiden Ausbildungsabschnitte die gleiche Berufssparte betreffen würden. Der enge\nzeitliche Zusammenhang liege vor, weil objektive Beweisanzeichen vorhanden seien, dass A bereits vor\ndem Abschluss ihrer Ausbildung zur Bankkauffrau beabsichtigt habe, ihre Berufsausbildung durch ein\nStudium zur Betriebswirtin (VWA) fortzusetzen und sie nach Beendigung des ersten Ausbildungsabschnitts\ndieses Studium auch zum nächstmöglichen Zeitpunkt aufgenommen habe.\n9\nIm Studium zur Betriebswirtin (VWA) sei nicht deshalb eine Zweitausbildung zu sehen, weil es eine\nvorherige Berufstätigkeit voraussetze. Der BFH habe in seinem Urteil vom 04.02.2016 III R 14/15, BStBl II\n2016, 615 entschieden, dass ein Studium, das nach dem Abschluss einer kaufmännischen Ausbildung\naufgenommen werde und eine vorherige Berufstätigkeit voraussetze, nicht stets, sondern lediglich\nregelmäßig eine Zweitausbildung sei. Er habe deshalb in seinem Urteil vom 04.02.2016 weiter geprüft, ob\nvon der Regel ausnahmsweise abzuweichen sei. Er habe dies jedoch verneint, weil keine objektiven\nBeweisanzeichen vorhanden gewesen seien, dass die Ausbildung nach Erreichung des\nKaufmannsabschlusses fortgesetzt habe werden sollen.\n10\nIm Streitfall liege jedoch ein solcher Ausnahmefall vor, weshalb in der Ausbildung zur Bankkauffrau und\ndem Studium an der VWA eine einheitliche erstmalige Berufsausbildung zu sehen sei.\n11\nDer Kläger beantragt\nden Ablehnungsbescheid der Beklagten vom 20.12.2017 AZ F 15 KG Nr.: 743FK780225 in Gestalt der\nEinspruchsentscheidung vom 16.03.2018 AZ E 73504-00532/18 aufzuheben und die Beklagte zu\nverpflichten, dem Kläger für das Kind A ab März 2013 bis Februar 2017 Kindergeld zu gewähren.\n12\nDie Beklagte beantragt\ndie Klage abzuweisen.\n13\nKindergeld sei nicht zu gewähren. Die besonderen Voraussetzungen für die Berücksichtigung eines\nvolljährigen Kindes lägen nicht vor, weil A nach dem Abschluss ihrer Erstausbildung einer schädlichen\nErwerbstätigkeit nachgegangen sei (vgl. § 32 Abs. 4 Sätze 2 und 3 EStG).\n14\nDie erstmalige Berufsausbildung sei durch den Abschluss der Ausbildung zur Bankkauffrau im Januar 2013\nbeendet gewesen. In dieser Ausbildung und im Studium zur Betriebswirtin seien keine\nAusbildungsabschnitte einer einheitlichen erstmaligen Berufsausbildung zu sehen, weil es am erforderlichen\nengen zeitlichem Zusammenhang fehle. Dieser wäre nur gegeben, wenn sich A spätestens im Folgemonat\nnach Beendigung der Ausbildung zur Bankkauffrau, mithin im Februar 2013, für den nächsten\nAusbildungsabschnitt beworben oder der Beklagten innerhalb dieses Zeitraums mitgeteilt hätte, dass sie\nsich zum nächstmöglichen Zeitpunkt für den nächsten Ausbildungsabschnitt bewerben werde.\n15\nDie Beteiligten haben sich mit einer Entscheidung ohne mündliche Verhandlung durch den Berichterstatter\neinverstanden erklärt.\n16\nWegen der Einzelheiten wird auf die vorgelegte Kindergeldakte und die Finanzgerichtsakte verwiesen.\nEntscheidungsgründe\n17\nDie Klage ist unbegründet. Die Beklagte hat zu Recht die beantragte Festsetzung von Kindergeld\nabgelehnt, weil dem Kläger für den Zeitraum ab März 2013 kein Kindergeldanspruch für A zusteht.\n18\nGemäß § 62 Abs. 1, § 63 Abs. 1 Satz 1 Nr. 1, § 32 Abs. 4 Satz 1 Nr. 2 Buchst. a EStG besteht Anspruch auf\nKindergeld u.a. für Kinder, die das 18., aber noch nicht das 25. Lebensjahr vollendet haben und für einen\nBeruf ausgebildet werden. Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums\nwird ein Kind in den Fällen des § 32 Abs. 4 Satz 1 Nr. 2 EStG nur berücksichtigt, wenn es keiner\nErwerbstätigkeit nachgeht (§ 32 Abs. 4 Satz 2 EStG). Eine Erwerbstätigkeit mit bis zu 20 Stunden\nregelmäßiger wöchentlicher Arbeitszeit, ein Ausbildungsdienstverhältnis oder ein geringfügiges\nBeschäftigungsverhältnis i.S. der §§ 8 und 8a des Vierten Buchs Sozialgesetzbuch sind unschädlich (§ 32\nAbs. 4 Satz 3 EStG).\n19\nDie Berücksichtigung von A ist ab März 2013 ausgeschlossen, weil sie eine erstmalige Berufsausbildung\nabgeschlossen hatte und während ihrer nachfolgenden (Zweit-)Ausbildung mehr als 20 Stunden in der\nWoche arbeitete (§ 32 Abs. 4 Satz 2 EStG).\n20\nFür die Frage, ob bereits der erste (objektiv) berufsqualifizierende Abschluss in einem öffentlich-rechtlich\ngeordneten Ausbildungsgang zum Verbrauch der Erstausbildung führt oder ob bei einer mehraktigen\nAusbildung auch ein nachfolgender Abschluss in einem öffentlich-rechtlich geordneten Ausbildungsgang\nTeil der Erstausbildung sein kann, ist nach nunmehr ständiger Rechtsprechung des BFH darauf abzustellen,\nob sich der erste Abschluss als integrativer Bestandteil eines einheitlichen Ausbildungsgangs darstellt (vgl.\nBFH-Urteil vom 04.02.2016, a.a.O., Tz 12, juris-Dokumentation).\n21\nInsoweit kommt es vor allem darauf an, ob die Ausbildungsabschnitte in einem engen sachlichen\nZusammenhang (z.B. dieselbe Berufssparte, derselbe fachliche Bereich) zueinander stehen und in engem\nzeitlichen Zusammenhang durchgeführt werden. Hierfür ist auch erforderlich, dass aufgrund objektiver\nBeweisanzeichen erkennbar wird, dass das Kind die für sein angestrebtes Berufsziel erforderliche\nAusbildung nicht bereits mit dem ersten erlangten Abschluss beendet hat (vgl. BFH-Urteil vom 04.02.2016,\na.a.O., Tz. 12, juris-Dokumentation).\n22\nNimmt ein Kind nach Abschluss einer kaufmännischen Ausbildung ein Studium auf, welches eine\nBerufstätigkeit voraussetzt, stellt sich das Studium nicht mehr als integrativer Bestandteil einer einheitlichen\nErstausbildung, sondern als ein die berufliche Erfahrung berücksichtigender Weiterbildungsstudiengang\n(Zweitausbildung) dar. Die vor dem Beginn des Studiums erforderliche Berufstätigkeit führt somit zu einem\nEinschnitt (Zäsur), der den notwendigen engen Zusammenhang entfallen lässt. Das Gleiche gilt, wenn ein\nKind eine weitere Ausbildung erst nach einer zwischenzeitlichen Berufstätigkeit beginnt, die nicht der\nzeitlichen Überbrückung dient, weil es mit der weiterführenden Ausbildung früher hätte beginnen können.\nWird somit eine Berufstätigkeit zwischen den einzelnen Ausbildungsabschnitten aufgenommen, die nicht\nnur der zeitlichen Überbrückung bis zum Beginn der nächsten Ausbildung dient, können die einzelnen\nAusbildungsabschnitte regelmäßig nicht mehr integrative Teile einer einheitlichen Ausbildung sein (vgl.\nBFH-Urteil vom 04.02.2016, a.a.O., erster Leitsatz und Tz 15, juris-Dokumentation).\n23\nNach diesen Grundsätzen, die das Gericht für zutreffend hält, führt im Streitfall die Ausbildung zur\nBankkauffrau zu einem Verbrauch der Erstausbildung. Denn das durchgeführte Studium stellt sich nicht als\nintegrativer Bestandteil einer einheitlichen Erstausbildung, sondern als ein die berufliche Erfahrung\nberücksichtigender Weiterbildungsstudiengang (Zweitausbildung) dar, weil die Zulassung zu diesem\nStudium eine vorherige Berufstätigkeit (Berufspraxis) voraussetzt. Die vor dem Beginn des Studiums\nerforderliche Berufspraxis führt zu einem Einschnitt, der den notwendigen engen Zusammenhang entfallen\nlässt. Umstände, die dennoch ausnahmsweise die Annahme einer einheitlichen erstmaligen\nBerufsausbildung rechtfertigen könnten, wurden nicht vorgetragen. Solche sind auch nicht ersichtlich.\n24\nDie Einwände des Klägers führen zu keinem anderen Ergebnis.\n25\nDem Kläger kann nicht gefolgt werden, soweit er vortragen lässt, dass ein Studium, das nach dem\nAbschluss einer kaufmännischen Ausbildung aufgenommenen wurde und eine vorherige Berufstätigkeit\nvoraussetzt, ausnahmsweise keine Zweitausbildung darstellt, wenn objektive Beweisanzeichen dafür\nvorliegen, dass bereits vor dem Abschluss der kaufmännischen Ausbildung beabsichtigt war, die\nBerufsausbildung durch das Studium fortzusetzen.\n26\nIst dies nicht der Fall, scheitert eine einheitliche erstmalige Berufsausbildung bereits deshalb, weil kein\nenger zeitlicher Zusammenhang zwischen den beiden Ausbildungsabschnitten besteht. Denn diese\nVoraussetzung muss stets erfüllt sein, um zwei Ausbildungen als eine einheitliche Berufsausbildung\neinstufen zu können (vgl. BFH-Urteil vom 04.02.2016, a.a.O., Tz 12, juris-Dokumentation). Bei einer\nzwingenden Voraussetzung für eine einheitliche erstmalige Berufsausbildung kann es sich jedoch nicht um\nUmstände handeln, bei deren Vorliegen ein Studium, dass eine vorherige Berufstätigkeit voraussetzt,\nausnahmsweise nicht als Zweitausbildung anzusehen ist. Denn dann wäre die Zäsur der Berufstätigkeit, die\nregelmäßig zur Einstufung als Zweitausbildung führt, bedeutungslos, weil sie nur vorläge, wenn eine\neinheitliche Berufsausbildung bereits aus anderen Gründen abzulehnen ist.\n27\nAus dem BFH-Urteil vom 04.02.2016, a.a.O. folgt nichts Anderes. Der BFH hat in diesem Urteil unter 2. b)\nfestgestellt, dass eine einheitliche Ausbildung zu verneinen ist und das Studium an der VWA nicht mehr als\nErstausbildung anzusehen ist. Er hat dies unter 2 b) bb) damit begründet, dass das Studium kein\nintegrativer Bestandteil einer einheitlichen Ausbildung ist, weil es eine Berufstätigkeit voraussetzt. Ferner\nhat er unter 2. b) d) ausgeführt: „Darüber hinaus war im Streitfall aufgrund objektiver Beweisanzeichen nicht\nerkennbar, dass J nach Abschluss ihrer Ausbildung zur Kauffrau im Gesundheitswesen im Januar 2014\nnoch eine weiterführende Ausbildung als Teil einer Erstausbildung anstrebte. Nach den Feststellungen des\nFG-Urteils bewarb sie sich erst im Mai 2014 während ihrer Berufstätigkeit um ein weiterführendes Studium“.\n28\nSomit ergibt sich nicht nur aus der Gliederungssystematik des Urteils, sondern auch aus dem Wortlaut\n„Darüber hinaus (…)“, dass es sich bei den Ausführungen unter 2. b) d) um einen zusätzlichen Grund\nhandelt, der ebenso wie der unter 2 b) bb) genannte Grund, bereits für sich genommen, die Ablehnung\neiner einheitlichen Berufsausbildung rechtfertigt.\n29\nNach alledem ist im Streitfall unerheblich, ob objektive Beweisanzeichen vorliegen, dass A bereits während\nihrer Ausbildung zur Bankkauffrau beabsichtigte zum nächstmöglichen Zeitpunkt ein Studium an der VWA\nzu beginnen.\n30\nDie Kostenentscheidung folgt aus § 135 Abs. 1 FGO.\n\n"
+}

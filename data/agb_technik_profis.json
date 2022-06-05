@@ -1,0 +1,683 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 31,
+            "start": 16,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegen",
+            "end": 181,
+            "start": 175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 317,
+            "start": 308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausführen",
+            "end": 567,
+            "start": 558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 686,
+            "start": 678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "speichern",
+            "end": 739,
+            "start": 730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehbar",
+            "end": 874,
+            "start": 865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 929,
+            "start": 921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 1063,
+            "start": 1057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 1216,
+            "start": 1209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 1278,
+            "start": 1271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1504,
+            "start": 1500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 1721,
+            "start": 1714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 1758,
+            "start": 1743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 1797,
+            "start": 1788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1949,
+            "start": 1947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 2153,
+            "start": 2143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 2217,
+            "start": 2208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2318,
+            "start": 2310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2399,
+            "start": 2393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 2645,
+            "start": 2634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2746,
+            "start": 2743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 3023,
+            "start": 3016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 3127,
+            "start": 3124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zölle",
+            "end": 3166,
+            "start": 3161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgegeben",
+            "end": 3256,
+            "start": 3246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewalt",
+            "end": 3586,
+            "start": 3580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 3671,
+            "start": 3662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3897,
+            "start": 3894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 3961,
+            "start": 3951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4158,
+            "start": 4154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4450,
+            "start": 4446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfallen",
+            "end": 4549,
+            "start": 4541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 4633,
+            "start": 4627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4816,
+            "start": 4810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 4881,
+            "start": 4870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 5131,
+            "start": 5123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuschließen",
+            "end": 5205,
+            "start": 5191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 5334,
+            "start": 5326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 5414,
+            "start": 5406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5567,
+            "start": 5563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 5705,
+            "start": 5699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 5790,
+            "start": 5784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuführen",
+            "end": 6006,
+            "start": 5995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 6094,
+            "start": 6082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 6344,
+            "start": 6338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 6468,
+            "start": 6462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abtritt",
+            "end": 6707,
+            "start": 6700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 6802,
+            "start": 6795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutschriften",
+            "end": 7066,
+            "start": 7054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 7224,
+            "start": 7220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 7445,
+            "start": 7435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinweisen",
+            "end": 7592,
+            "start": 7583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 7615,
+            "start": 7597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7669,
+            "start": 7667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 7868,
+            "start": 7864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 7888,
+            "start": 7870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 7903,
+            "start": 7889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendung",
+            "end": 7934,
+            "start": 7923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahre",
+            "end": 8056,
+            "start": 8051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einstandspflichtig",
+            "end": 8147,
+            "start": 8129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8328,
+            "start": 8325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8539,
+            "start": 8535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8792,
+            "start": 8789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 8917,
+            "start": 8902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 9143,
+            "start": 9134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 9252,
+            "start": 9249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 9330,
+            "start": 9328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzeigen",
+            "end": 9457,
+            "start": 9449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 9538,
+            "start": 9524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Absendung",
+            "end": 9590,
+            "start": 9581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 9810,
+            "start": 9803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genehmigt",
+            "end": 9886,
+            "start": 9877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsfrist",
+            "end": 10047,
+            "start": 10027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 10130,
+            "start": 10126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 10220,
+            "start": 10216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 10418,
+            "start": 10412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 10490,
+            "start": 10481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 10669,
+            "start": 10663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerätes",
+            "end": 10915,
+            "start": 10908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferanten",
+            "end": 11000,
+            "start": 10989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 11012,
+            "start": 11005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 11507,
+            "start": 11501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 11762,
+            "start": 11758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sinne",
+            "end": 11861,
+            "start": 11856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 12018,
+            "start": 12008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12143,
+            "start": 12140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 12269,
+            "start": 12251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltungsrecht",
+            "end": 12328,
+            "start": 12307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 12452,
+            "start": 12449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 12777,
+            "start": 12774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragbar",
+            "end": 12842,
+            "start": 12831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 12936,
+            "start": 12926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Materials",
+            "end": 13172,
+            "start": 13163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 13445,
+            "start": 13437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 13642,
+            "start": 13635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 13801,
+            "start": 13795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 13864,
+            "start": 13850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 13992,
+            "start": 13986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsverpflichtungen",
+            "end": 14079,
+            "start": 14056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 14138,
+            "start": 14131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 14263,
+            "start": 14252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 14417,
+            "start": 14408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14751,
+            "start": 14747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 15002,
+            "start": 14992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 15058,
+            "start": 15052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 15308,
+            "start": 15301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmung",
+            "end": 15331,
+            "start": 15314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15685,
+            "start": 15682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15842,
+            "start": 15838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 15938,
+            "start": 15928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "odr",
+            "end": 16100,
+            "start": 16097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 16232,
+            "start": 16220,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§1 Allgemeines, Geltungsbereich\n1.1. Wir liefern ausschließlich zu den nachfolgenden Allgemeinen Geschäftsbedingungen, die sämtlichen mit uns geschlossenen Verträgen zugrunde liegen. Den nachfolgenden Bestimmungen entgegenstehende oder abweichende Allgemeine Geschäftsbedingungen des Bestellers finden keine Anwendung. Die nachfolgenden Geschäftsbedingungen gelten auch dann ausschließlich, wenn wir in Kenntnis entgegenstehender oder von den nachfolgenden Geschäftsbedingungen abweichender Bedingungen des Bestellers die Lieferung und Leistung vorbehaltlos ausführen.\n1.2. Sie können diese Allgemeinen Geschäftsbedingungen jederzeit auf unserer Shopseite www.technik-profis.de einsehen. Sie können dieses Dokument ausdrucken und speichern.\n1.3. Ihre konkreten Bestelldaten werden bei uns gespeichert und sind über einen passwortgeschützten direkten Zugang (Login) einsehbar. Hier können Sie Daten über Ihre Bestellungen einsehen. Der Kunde verpflichtet sich, die persönlichen Zugangsdaten vertraulich zu behandelund keinem unbefugten Dritten zugänglich zu machen.\n1.4. Sie erhalten außerdem nach der Bestellung eine automatische Bestelleingangsbestätigungs-E-Mail, die noch einmal die Daten Ihrer Bestellung enthält.\n1.5. Der Vertrag erfolgt ausschließlich in deutscher Sprache\n1.6 Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zweck abschließt, der überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n§2 Vertragspartner, Vertragsschluss\n2.1. Ihr Vertragspartner ist Anschrift\n2.2. Durch die Bestellung der gewünschten Waren per Internet, Telefon oder e-Mail gibt der Kunde ein verbindliches Angebot auf Kaufvertragsabschluss ab. Wir sind berechtigt, dieses Angebot innerhalb von 14 Kalendertagen mit Übersendung einer Auftragsbestätigung an den Kunden, die den Vertragsabschluss darstellt, oder durch Zustellung der Ware anzunehmen. Nach Ablauf der 14tägigen Frist gilt das Angebot als abgelehnt. Über Produkte, die nicht in der Versandbestätigung aufgeführt sind, kommt kein Kaufvertrag zustande.\n2.3. Es gelten die zum Zeitpunkt der Bestellung im Internet aufgeführten Preise. Die angegebenen Preise sind Endpreise, das heißt, sie beinhalten die jeweils gültige gesetzliche Mehrwertsteuer und sonstige Preisbestandteile zzgl. Versandkosten ( https://www.technik-profis.de/zahlungsarten ) wie im Bestellvorgang ersichtlich. Produktbeschreibungen, Zeichnungen, Maße und Gewichte stellen keine zugesicherten Eigenschaften dar.\n2.4. Sie bestellen in unserem Shop, indem Sie 1) Artikel in den Warenkorb legen 2) Ihre Liefer- und Zahlungsdaten eingeben 3) Ihre E-Mail-Adresse angeben 4) auf der Kontrollseite die Richtigkeit Ihrer Angaben bestätigen 5) am Ende auf den Button \"Bestellung aufgeben\" klicken. Die Information über den Zeitpunkt des Vertragsschlusses finden Sie im entsprechenden Abschnitt in AGB.\n§3 Lieferung, Gebührenübergang, Zölle\n3.1. Zu jedem Artikel wird die Zeit bis zur Auslieferung in der Produktanzeige ausgegeben.\n3.2. Die Lieferzeit verlängert sich angemessen bei Maßnahmen im Rahmen von Arbeitsausfällen, insbesondere Streik und Aussperrung sowie weiteren von uns nicht zu vertretenden Umständen, wie gesetzlicher oder behördlicher Anordnung (z.B. Import- und Exportbeschränkungen) oder in Fällen von Lieferverzögerungen durch höhere Gewalt. Beginn und Ende derartiger Hindernisse werden wir dem Kunden unverzüglich mitteilen.\n3.3. Für den Fall, dass die Ware für einen erheblichen Zeitraum nicht verfügbar ist oder Datenbankfehler (Produktbeschreibungen, Preise) vorliegen, können wir die Bestellung nicht ausführen und behalten uns den Rücktritt vor. Hierüber werden Sie selbstverständlich unverzüglich informiert.\n3.4. Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware auch beim Versendungskauf mit der Übergabe der Ware an den Verbraucher über. Bei Unternehmern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt auf den Unternehmer über.\n3.5. Bei Wareneinfuhren in Länder außerhalb der EU können Einfuhrabgaben (Steuern/Zölle) anfallen. Diese variieren in verschiedenen Zollgebieten und sind vom Kunden selbst zu tragen. Ebenso sind zusätzliche Kosten für Lieferungen an Inseln innerhalb der EU vom Kunden ebenso vom Kunden selbst zu tragen, welche individuell je Artikel nach dem Kauf ermittelt werden.\n3.6 Bei Lieferverzögerungen werden wir Sie umgehend informieren.\n§4 Zahlung, Eigentumsvorbehalt, Aufrechnung Zurückbehaltungsrecht\n4.1. Die Zahlung kann mittels Vorkasse, Nachnahme, PayPal Zahlung, sofortÜberweisung, Giropay, Rechnungskauf und oder Lastschrift über Paymorrow oder Barzahlung bei Abholung erfolgen. Manfred Jilg e.K. behält sich vor, einzelne Zahlungsarten auszuschließen. Kunden mit Wohnsitz außerhalb der Bundesrepublik Deutschland können nicht per Nachnahme, sofortüberweisung und Giropay bezahlen.\n4.2. Bis zur vollständigen Bezahlung bleibt die gelieferte Ware unser Eigentum.\n4.3. Das Recht zur Aufrechnung steht Ihnen nur zu, wenn Ihre Gegenansprüche rechtskräftig festgestellt wurden, unbestritten oder von uns anerkannt sind. Zur Ausübung eines Zurückbehaltungsrechts sind Sie nur insoweit befugt, als Ihr Gegenanspruch auf dem gleichen Vertragsverhältnis beruht.\n4.4 Soweit nicht anders vereinbart, sind unsere Rechnungen sofort ohne Abzug fällig\n4.5 Technik Profis behält sich vor, in Einzelfällen oder bei Ablehnung der Zahlung durch Kreditinstitute oder Anbieter der jeweiligen Zahlungsart den Auftrag nur gegen Zahlung per Nachnahme oder Vorkasse auszuführen. In diesem Fall kann der Kunde dies akzeptieren oder von seiner Bestellung zurücktreten.\n4.6 Bei Auswahl der Zahlungsart Rechnungskauf und oder Lastschrift über Paymorrow ist der Kaufpreis innerhalb von 14 (vierzehn) Tagen ab Erhalt der Rechnung ohne Abzug an die Paymorrow GmbH, (www.paymorrow.de), Alstertor 9, 20095 Hamburg, zu zahlen. Die Zahlungsart Rechnungskauf und oder Lastschrift setzt eine erfolgreiche Bonitätsprüfung durch die Paymorrow GmbH voraus. Wenn dem Kunden nach Prüfung der Bonität die Zahlungsart Rechnungskauf und oder Lastschrift gestattet wird, erfolgt die Abwicklung der Zahlung in Zusammenarbeit mit der Paymorrow GmbH, an die der Verkäufer seine Zahlungsforderung abtritt. Der Kunde kann in diesem Fall nur an die Paymorrow GmbH mit schuldbefreiender Wirkung leisten. Der Anbieter bleibt auch bei Auswahl der Zahlungsart Rechnungskauf und oder Lastschrift über Paymorrow zuständig für allgemeine Kundenanfragen z.B. zur Ware, Lieferzeit, Versendung, Retouren, Reklamationen, Widerrufserklärungen und -zusendungen oder Gutschriften. Im Übrigen gelten insoweit die Allgemeinen Geschäftsbedingungen von Paymorrow, die der Kunde im Rahmen des Bestellprozesses abrufen kann und bestätigen muss. Der Verkäufer behält sich vor, die Zahlungsart Rechnungskauf und oder Lastschrift nur bis zu einem bestimmten Bestellvolumen anzubieten und diese Zahlungsart bei Überschreitung des angegebenen Bestellvolumens abzulehnen. In diesem Fall wird der Verkäufer den Kunden in seinen Zahlungsinformationen im Online-Shop auf eine entsprechende Zahlungsbeschränkung hinweisen.\n§5 Widerrufsbelehrung\nVerbrauchern steht ein gesetzliches Widerrufsrecht zu. Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann.\nWiderrufsbelehrung\nMusterformular\n§6 Mängelhaftung & Rücksendung\n6.1. Ist der Kunde Verbraucher, so beträgt die Gewährleistungsfrist für gebrauchte Artikel 1 Jahr, für Neuware zwei Jahre.\n6.2. Der Verkäufer ist für Garantiezusagen von Geräteherstellern nicht einstandspflichtig.\n6.3. Wir gewährleisten, dass die gelieferte Ware zum Zeitpunkt des Gefahrübergangs frei von Mängeln und Fabrikationsfehlern ist und die vertraglich zugesicherten Eigenschaften hat.\n6.4. Wir übernehmen keine Gewähr für Mängel oder Schäden, die aus einer unsachgemäßen Verwendung, aus einer Nichtbeachtung von Anwendungshinweisen oder fehlerhafter oder nachlässiger Behandlung entstanden sind.\n6.5. Die Gewährleistungsansprüche des Verbrauchers beschränken sich zunächst auf das Recht zur Nachbesserung oder Ersatzlieferung, wobei die Wahl des Verbrauchers durch uns abgelehnt werden kann, wenn sie nur mit unverhältnismäßigen Kosten möglich ist. Bei Unternehmern leisten wir für Mängel der Ware zunächst nach unserer Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n6.6. Schlägt die Nacherfüllung zweimal fehl, kann der Kunde grundsätzlich nach seiner Wahl Herabsetzung des Kaufpreises (Minderung), Rückgängigmachung des Vertrages (Widerruf) oder Schadensersatz statt der Leistung verlangen. Wählt der Kunde Schadenersatz statt der Leistung, so gelten die Haftungsbeschränkungen gemäß § 7 dieser AGB. Bei nur geringfügigen Mängeln steht dem Kunden jedoch kein Widerrufsrecht zu.\n6.7. Unternehmer müssen uns offensichtliche Mängel innerhalb einer Frist von 1 Woche ab Empfang der Ware schriftlich anzeigen; Anderenfalls ist die Geltendmachung des Gewährleistungsanspruchs ausgeschlossen. Zur Fristwahrung genügt die rechtzeitige Absendung. Sofern der Kunde Unternehmer ist, beträgt die Verjährungsfrist für die Gewährleistungsansprüche ein Jahr und Technik Profis hat die Wahl zur Nacherfüllung den Mangel zu beseitigen oder eine mangelfreie Sache zu liefern; Werden die Mängel nicht rechtzeitig angezeigt, gilt die Ware als genehmigt.\n6.8. Die Gewährleistung für Verbraucher beträgt für gebrauchte Waren ein Jahr ab Ablieferung der Ware, für neue Waren gilt die gesetzliche Gewährleistungsfrist. Die Gewährleistungsfrist für Unternehmer beträgt ein Jahr ab Ablieferung der Ware. Bei gebrauchten Sachen beträgt die Gewährleistungsfrist ein Jahr ab Ablieferung der Ware. Die einjährige Gewährleistungsfrist gilt nicht, wenn uns grobes Verschulden vorwerfbar ist sowie im Falle von uns zurechenbaren Körper- und Gesundheitsschäden und bei Verlust des Lebens des Kunden. Unsere Haftung nach dem Produkthaftungsgesetz bleibt hiervon unberührt.\n6.9 Im Fall einer unfreien Rücksendung müssen wir Ihnen die Differenz zwischen einer freien und unfreien Sendung in Rechnung stellen, da wir diese Mehrkosten nicht tragen können\n6.10 Im Fall eines Testkaufes zur Qualitätssicherung der Industrie berechnen wir  bei 2-Mann Lieferungen 100,00€ Aufwandsentschädigung zur Kostendeckung der Rücksendekosten sowie des dann ausgepackten und nicht mehr als neu veräußerbaren Gerätes. Dies betrifft nur Bestellungen im Zusammenhang von Testbestellungen der Lieferanten.\n§7 Haftung\nWir haften für Schadensersatzansprüche aus Gewährleistung und sonstigen Rechtsgründen - insbesondere Ansprüche aus unerlaubter Handlung, Organisationsverschulden, Verschulden bei Vertragsabschluss oder etwaigen anderen verschuldungsabhängigen Ansprüchen aus Pflichtverletzungen - nur, soweit uns oder unseren Erfüllungsgehilfen Vorsatz oder grobe Fahrlässigkeit zur Last fällt oder der Schaden auf einer Verletzung vertragswesentlicher Pflichten oder Ansprüchen des Produkthaftungsrechts beruht. Vertragswesentliche Pflichten im Sinne dieser Allgemeinen Geschäftsbedingungen sind Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf. Die Lieferung einer mangelfreien Sache gilt nicht als vertragswesentliche Pflicht in diesem Sinne. Der vorstehende Haftungsausschluss für Fälle einfacher Fahrlässigkeit gilt nicht bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit; sowie im Fall der Übernahme einer Beschaffenheitsgarantie oder des arglistigen Verschweigens eines Mangels i.S.v. § 444 BGB. In diesen Fällen haften wir auch bei einfacher Fahrlässigkeit unserer gesetzlichen Vertreter oder unserer Erfüllungsgehilfen.\n§8 Eigentumsvorbehalt; Aufrechnung; Zurückbehaltungsrecht\n8.1. Bei Verbrauchern behalten wir uns das Eigentum an der Kaufsache bis zur vollständigen Zahlung des Rechnungsbetrags vor. Sind Sie Unternehmer in Ausübung Ihrer gewerblichen oder selbständigen beruflichen Tätigkeit, eine juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, behalten wir uns das Eigentum an der Kaufsache bis zum Ausgleich aller noch offenen Forderungen aus der Geschäftsverbindung mit Ihnen vor. Die entsprechenden Sicherungsrechte sind auf Dritte übertragbar. Außergewöhnliche Verfügungen wie z.B. Verpfändung oder Sicherungsübereignung sind unzulässig. Im Falle der Verarbeitung, Vermengung oder Verbindung der Vorbehaltsware mit anderem Material erwerben wir Miteigentum an den hierdurch entstehenden Erzeugnissen im Verhältnis des Wertes der Vorbehaltsware zu dem des anderen Materials. Bei Pfändungen der Vorbehaltsware haben Sie uns unverzüglich davon zu informieren und uns bei der Sicherung unserer Rechte zu unterstützen sowie uns sämtliche diesbezüglich erwachsenden Kosten, insbesondere solche im Zusammenhang mit einem Widerspruchsprozess zu ersetzen.\n8.2.  Ein Recht zur Aufrechnung steht Ihnen nur zu, wenn Ihre Gegenansprüche rechtskräftig festgestellt oder von uns unbestritten oder anerkannt sind oder Zahlungsunfähigkeit unsererseits besteht. Verbrauchern besteht auch die Möglichkeit, mit Gegenforderungen aufzurechnen, die im rechtlichen Zusammenhang mit der Verbindlichkeit des Verbrauchers stehen. Darüber hinaus ist eine Aufrechnung Ihrerseits ausgeschlossen. Außerdem haben Sie ein Zurückbehaltungsrecht nur, wenn und soweit Ihr Gegenanspruch auf dem gleichen Vertragsverhältnis beruht.\n8.3.  Befindet sich der Kunde uns gegenüber mit irgendwelchen Zahlungsverpflichtungen\n§9 Anwendbares Recht, Gerichtsstand, Salvatorische Klausel\n9.1. Für sämtliche Rechtsgeschäfte oder andere rechtlichen Beziehungen mit uns gilt das Recht der Bundesrepublik Deutschland. Das UN-Kaufrecht (CISG) sowie etwaige sonstige zwischenstaatliche Übereinkommen, auch nach ihrer Übernahme in das deutsche Recht, finden keine Anwendung. Bei Verträgen zu einem Zweck, der nicht der beruflichen oder gewerblichen Tätigkeit des Berechtigten (Verbrauchers) zugerechnet werden kann, gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n9.2. Im Geschäftsverkehr mit Kaufleuten und mit juristischen Personen des öffentlichen Rechts wird als Gerichtsstand für alle aus dem Vertrag sich ergebenden Rechtsstreitigkeiten, einschließlich Wechsel- und Scheckklagen Frankfurt am Main vereinbart. Wir sind auch berechtigt, am Sitz des Kunden zu klagen.\n9.3. Sollten eine oder mehrere Bestimmungen dieser Allgemeinen Geschäftsbedingungen ganz oder teilweise unwirksam sein oder ihre Rechtswirksamkeit später verlieren, so wird hierdurch die Wirksamkeit der Geschäftsbedingungen im übrigen nicht berührt.\n§10 Schlussbestimmung\n(1) Frankfurt am Main ist ausschließlicher Gerichtsstand, soweit der Kunde Vollkaufmann ist, ein Kunde keinen allgemeinen Gerichtsstand im Inland hat, ein Kunde nach Vertragsabschluss seinen Wohnsitz oder gewöhnlichen Aufenthalt in das Ausland verlegt hat oder sein Wohnsitz oder gewöhnlicher Aufenthaltsort zum Zeitpunkt der Klageerhebung unbekannt ist.\n(2) Manfred Jilg e.K. übernimmt keine Gewährleistung für die gewöhnliche Abnutzung der Ware sowie Mängel, die durch unsachgemäße Handhabung entstanden sind.\n(3) Es gilt ausschließlich deutsches Recht unter Ausschluss der Vorschriften des UN-Kaufrechts.\nDie Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, aufrufbar unter http://ec.europa.eu/odr\nWir sind nicht verpflichtet, an einem außergerichtlichen Schlichtungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\n"
+}

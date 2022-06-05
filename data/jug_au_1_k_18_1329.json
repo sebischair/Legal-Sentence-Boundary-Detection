@@ -1,0 +1,1025 @@
+{
+    "Annotations": [
+        {
+            "annotation": "1329",
+            "end": 50,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vornamens",
+            "end": 80,
+            "start": 71,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 93,
+            "start": 81,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 112,
+            "start": 110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 129,
+            "start": 128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 141,
+            "start": 130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grund",
+            "end": 248,
+            "start": 243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 259,
+            "start": 249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9381",
+            "end": 278,
+            "start": 274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 284,
+            "start": 279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 313,
+            "start": 303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 369,
+            "start": 363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 438,
+            "start": 425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 450,
+            "start": 440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 452,
+            "start": 451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 582,
+            "start": 581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 585,
+            "start": 584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 793,
+            "start": 792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geführt",
+            "end": 894,
+            "start": 887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "funktioniert",
+            "end": 958,
+            "start": 946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerückt",
+            "end": 1051,
+            "start": 1044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 1154,
+            "start": 1149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geführt",
+            "end": 1310,
+            "start": 1303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Buchung",
+            "end": 1428,
+            "start": 1421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbereitet",
+            "end": 1509,
+            "start": 1498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 1692,
+            "start": 1687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschreiben",
+            "end": 1819,
+            "start": 1805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 1911,
+            "start": 1904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2047,
+            "start": 2042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2106,
+            "start": 2103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchte",
+            "end": 2330,
+            "start": 2324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2333,
+            "start": 2332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2460,
+            "start": 2458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertige",
+            "end": 2587,
+            "start": 2575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausnahmecharakter",
+            "end": 2809,
+            "start": 2792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 2917,
+            "start": 2909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 3049,
+            "start": 3043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenze",
+            "end": 3110,
+            "start": 3104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 3287,
+            "start": 3282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuführen",
+            "end": 3379,
+            "start": 3365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 3469,
+            "start": 3464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 3611,
+            "start": 3606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 3713,
+            "start": 3705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelfall",
+            "end": 3882,
+            "start": 3872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 3984,
+            "start": 3975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 4083,
+            "start": 4078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4086,
+            "start": 4085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 4137,
+            "start": 4132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wandel",
+            "end": 4236,
+            "start": 4230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ignorieren",
+            "end": 4446,
+            "start": 4436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 4624,
+            "start": 4619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzugeben",
+            "end": 4809,
+            "start": 4800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 4922,
+            "start": 4911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 5075,
+            "start": 5073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehlten",
+            "end": 5266,
+            "start": 5259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezweifelt",
+            "end": 5402,
+            "start": 5390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5405,
+            "start": 5404,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 5426,
+            "start": 5417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5429,
+            "start": 5428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgegeben",
+            "end": 5602,
+            "start": 5590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5605,
+            "start": 5604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 5628,
+            "start": 5619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5631,
+            "start": 5630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 5657,
+            "start": 5647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5660,
+            "start": 5659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 5866,
+            "start": 5859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 6000,
+            "start": 5994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 6140,
+            "start": 6134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6309,
+            "start": 6306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6313,
+            "start": 6311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 6366,
+            "start": 6361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behördenakte",
+            "end": 6518,
+            "start": 6506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 6539,
+            "start": 6520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 6542,
+            "start": 6540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 6593,
+            "start": 6587,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6697,
+            "start": 6696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6701,
+            "start": 6699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 6863,
+            "start": 6862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6867,
+            "start": 6865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6896,
+            "start": 6885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6900,
+            "start": 6898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigt",
+            "end": 7211,
+            "start": 7199,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7427,
+            "start": 7426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7431,
+            "start": 7429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "definiert",
+            "end": 7503,
+            "start": 7494,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7779,
+            "start": 7778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7783,
+            "start": 7781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 8103,
+            "start": 8093,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8471,
+            "start": 8470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8475,
+            "start": 8473,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8909,
+            "start": 8908,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9134,
+            "start": 9133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausnahmecharakter",
+            "end": 9197,
+            "start": 9180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 9322,
+            "start": 9313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzutragen",
+            "end": 9429,
+            "start": 9418,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9630,
+            "start": 9629,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10112,
+            "start": 10111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10116,
+            "start": 10114,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10652,
+            "start": 10651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10656,
+            "start": 10654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 10831,
+            "start": 10822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellbar",
+            "end": 11022,
+            "start": 11010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11026,
+            "start": 11024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenfassen",
+            "end": 11154,
+            "start": 11140,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11349,
+            "start": 11348,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11505,
+            "start": 11504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11665,
+            "start": 11664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 11669,
+            "start": 11667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzudringen",
+            "end": 11963,
+            "start": 11949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 11967,
+            "start": 11965,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12333,
+            "start": 12332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herbeizuführen",
+            "end": 12496,
+            "start": 12482,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12847,
+            "start": 12846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 12851,
+            "start": 12849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesetzt",
+            "end": 13022,
+            "start": 13012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13026,
+            "start": 13024,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13423,
+            "start": 13422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13662,
+            "start": 13659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13791,
+            "start": 13788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 13911,
+            "start": 13907,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14193,
+            "start": 14192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 14361,
+            "start": 14352,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14534,
+            "start": 14533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 14538,
+            "start": 14536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegend",
+            "end": 14599,
+            "start": 14589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 14736,
+            "start": 14727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unüblich",
+            "end": 14858,
+            "start": 14850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Namensänderungsgesetzes",
+            "end": 15081,
+            "start": 15058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 15342,
+            "start": 15338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 15379,
+            "start": 15375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auswirkt",
+            "end": 15608,
+            "start": 15600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 15769,
+            "start": 15760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 15829,
+            "start": 15815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 16058,
+            "start": 16053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 16173,
+            "start": 16168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichtet",
+            "end": 16271,
+            "start": 16261,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16517,
+            "start": 16516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beeinträchtigung",
+            "end": 16604,
+            "start": 16588,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16901,
+            "start": 16900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 16905,
+            "start": 16903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 16994,
+            "start": 16989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 17120,
+            "start": 17117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 17124,
+            "start": 17122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schiffsreisen",
+            "end": 17359,
+            "start": 17346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17500,
+            "start": 17497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 17504,
+            "start": 17502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zumutbar",
+            "end": 17728,
+            "start": 17720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vornamen",
+            "end": 17931,
+            "start": 17923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzunehmen",
+            "end": 18061,
+            "start": 18050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 18160,
+            "start": 18151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 18367,
+            "start": 18358,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18582,
+            "start": 18581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 18586,
+            "start": 18584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleistet",
+            "end": 18764,
+            "start": 18751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 18909,
+            "start": 18898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 18993,
+            "start": 18988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 19089,
+            "start": 19085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19321,
+            "start": 19318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19570,
+            "start": 19567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einschränkungen",
+            "end": 19678,
+            "start": 19663,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19825,
+            "start": 19824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 19911,
+            "start": 19906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 19915,
+            "start": 19913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsste",
+            "end": 20169,
+            "start": 20163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 20251,
+            "start": 20240,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20578,
+            "start": 20577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 20582,
+            "start": 20580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 20718,
+            "start": 20712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 20815,
+            "start": 20812,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VG Augsburg, Urteil v. 14.05.2019 – Au 1 K 18.1329\nTitel:\nÄnderung des Vornamens\nNormenketten:\nNamÄndG § 3, § 11\nVwGO § 42 Abs. 1\nSchlagworte:\nÄnderung des Vornamens, wichtiger Grund (verneint), Versagungsgegenklage, Namensänderung, wichtiger\nGrund\nFundstelle:\nBeckRS 2019, 9381\nTenor\nI. Die Klage wird abgewiesen.\nII. Die Kosten des Verfahrens hat der Kläger zu tragen.\nIII. Das Urteil ist hinsichtlich der Kosten vorläufig vollstreckbar.\nTatbestand\n1\nDer Kläger begehrt die Streichung seines zweiten und dritten Vornamens und damit die Änderung seines\nVornamens von „...“ in „...“.\n2\nMit Antrag vom 19. April 2018 - dem Beklagten zugegangen am 26. April 2018 - beantragte der Kläger beim\nLandratsamt ... unter Vorlage verschiedener Unterlagen die Änderung seines Vornamens von „...“ in „...“.\nZur Begründung machte er geltend, er habe seine Vornamen „...“ und „...“ bisher nicht aktiv geführt. Über\nvierzig Jahre habe dies ohne Einschränkungen funktioniert. Seit einigen Jahren seien die weiteren\nVornamen jedoch verstärkt in den Vordergrund gerückt. Hierdurch würde eine neue Identität aufgebaut, mit\nwelcher sich der Kläger nicht identifizieren könne. Die aktuelle Entwicklung, alle Vornamen angeben zu\nmüssen, hätte im täglichen Leben zu nicht unwesentlichen Beeinträchtigungen und Schwierigkeiten geführt.\nBeispielsweise verlangten manche Flug- und Reisegesellschaften zwingend die Angaben aller Vornamen\nbei einer Buchung. Mitarbeiter oder Buchungssysteme im Ausland seien darauf aber nicht vorbereitet.\nAußerdem würden bei Buchungstexten von Banken die wesentlichen Buchungsinformationen\nabgeschnitten, wodurch die Nachverfolgung des eigenen Zahlungsverkehrs erheblich erschwert werde. Im\nRahmen der Erklärung des gemeinsamen Sorgerechts sei der Kläger genötigt worden, mit sämtlichen\nVornamen zu unterschreiben. Dies sei so das erste Mal in seinem Leben der Fall und daher sehr peinlich\nfür ihn gewesen. Schließlich habe er die streitigen Vornamen als Andenken an seine beiden Großväter\nerhalten, welche Mitglieder der NSDAP gewesen seien. Dies stelle eine persönliche Belastung für den\nKläger dar. Er halte es auch ohne Vorlage eines psychiatrischen Gutachtens für nachvollziehbar, wenn er\naufgrund der Beziehungen zu Personen mit zweifelhafter NS-Vergangenheit das stetige Andenken an die\nbeiden Vornamen ablegen möchte.\n3\nNach entsprechender Anhörung lehnte das Landratsamt ... den Antrag auf Änderung des Vornamens mit\nBescheid vom 5. Juli 2018 ab. Zur Begründung ist ausgeführt, ein Vorname dürfe nur dann geändert\nwerden, wenn ein wichtiger Grund die Änderung rechtfertige. Auch wenn an das Vorliegen eines wichtigen\nGrundes für die Änderung eines Vornamens geringere Anforderungen zu stellen seien als bei der Änderung\ndes Familiennamens, habe auch die Änderung des Vornamens Ausnahmecharakter. Nach herrschender\nMeinung seien vier bis fünf Vornamen bei der Eintragung in das Geburtenregister zulässig. Die Grenze\nwerde dort gezogen, wo die ordnungsgemäße Führung von Registern oder die Ausstellung von Urkunden\nbeeinträchtigt würden. Der Kläger liege hier mit drei Vornamen unter dieser Grenze. Das deutsche\nNamensrecht kenne keine starre Namensführungspflicht, sodass der Kläger auch weiterhin im Alltag wie\nauch im Rechtsverkehr nur den ersten Vornamen verwenden könne. Der geschilderte Buchungsfehler sei\nauf ein Versehen des Reiseveranstalters zurückzuführen. Eine grundsätzliche Verwechslungsgefahr der\nVornamen mit dem Familiennamen bestehe nicht. Auch sei nicht ersichtlich, warum der Kläger den eigenen\nZahlungsverkehr aufgrund des Bestandes von drei Vornamen nicht nachvollziehen könne. Grundsätzlich sei\nauch die Unterschrift mit nur einem Vornamen oder lediglich dem Nachnamen zulässig. Dass dies bei der\nErklärung zum gemeinsamen Sorgerecht anders gehandhabt worden sei, sei für den Kläger zwar ärgerlich,\ndabei handle es sich jedoch um einen Einzelfall. Schließlich sei hier auch keine seelische Belastung durch\nden zweiten und dritten Vornamen erkennbar. Es sei nicht zu befürchten, dass beim Kläger eine\nbehandlungsbedürftige Krankheit entstehen könne.\n4\nHiergegen erhob der Kläger am 1. August 2018 Klage. Zur Begründung führt er aus, der Rechtsbegriff\n„wichtiger Grund“ unterliege dem zeitlichen Wandel. Dies ergebe sich bereits aus dem zunehmenden\nEinsatz von Computersystemen, welche nicht in der Lage seien, Personen einen Rufnamen zuzuordnen\nund weitere Vornamen fallbezogen zu akzeptieren oder zu ignorieren. Da der Kläger den Unterschied\nzwischen gelebter Praxis früher und heute erfahren habe, könne nur er selbst beurteilen, ob die\nEinschränkungen und Behinderungen wesentlich seien. Es gebe zwar keine starre Namensführungspflicht,\nin gewissen Situationen (Bankkontoeröffnung, Flugtickets) sei man jedoch gesetzlich verpflichtet, seinen\nvollständigen Namen anzugeben. Die zunehmende Bedeutung der weiteren Vornamen werde auch durch\ndie neue Gestaltung von Reisepässen ersichtlich. Die Ansicht des Landratsamts bezüglich der nicht\nvorhandenen Verwechslungsgefahr von Vor- und Nachname treffe lediglich auf den deutschen Sprachraum\nzu. Hinsichtlich der Nachverfolgung der Buchungsvorgänge sei eine solche ausschließlich anhand der\nMandatsnummer möglich, da die restlichen Informationen aufgrund der Länge der Vornamen fehlten. Die\nAussage des Landratsamtes, dass es sich bei der Unterschrift zum Sorgerecht um einen Einzelfall\ngehandelt habe, werde angezweifelt.\n5\nDer Kläger beantragt,\n6\nDer Bescheid des Landratsamtes ... vom 5.7.2018 (Aktenzeichen: ...) wird aufgehoben und meinem Antrag\nvom 26.4.2018 auf Abänderung meines Vornamens in ... wird stattgegeben.\n7\nDer Beklagte beantragt,\n8\nDie Klage wird abgewiesen.\n9\nDas Landratsamt ... führte mit Schriftsatz vom 18. September 2018 aus, der Klagebegründung des Klägers\nseien keine neuen Erkenntnisse zu entnehmen, welche zu einer Aufhebung der Entscheidung führen\nkönnten. Die geltend gemachten Schwierigkeiten seien nicht individuell, sondern beträfen alle Personen,\nwelche mehr als einen Vornamen hätten. Sowohl Vor- als auch Nachname könnten im Alltag aus\nunterschiedlichsten Gründen zu Verwechslungen, Verzögerungen oder Behinderungen führen. Dies sei\nnicht zu vermeiden und hinzunehmen, sofern es sich nicht um eine außergewöhnliche Belastung handle,\nwas im Falle des Klägers offensichtlich nicht der Fall sei.\n10\nAm 14. Mai 2019 fand die mündliche Verhandlung statt. Auf die dabei gefertigte Niederschrift wird ebenso\nBezug genommen wie auf den Inhalt der Gerichtsakte sowie der vom Beklagten vorgelegten Behördenakte.\nEntscheidungsgründe\n11\nDie zulässige Klage hat in der Sache keinen Erfolg. Der Kläger hat keinen Anspruch auf Änderung bzw.\nStreichung seiner Vornamen (§ 113 Abs. 5 Satz 1 VwGO).\n12\n1. Gegenstand der als Versagungsgegenklage (§ 42 Abs. 1 Alternative 2 VwGO) zulässigen Klage ist die\nvom Kläger begehrte Änderung seines Vornamens „...“ in „...“.\n13\n2. Die Klage ist unbegründet.\n14\nEine Namensänderung kommt nach § 3 Abs. 1 i.V.m. § 11 des Gesetzes über die Änderung von\nFamiliennamen und Vornamen (NamÄndG) i.V.m. der Allgemeinen Verwaltungsvorschrift zum Gesetz über\ndie Änderung von Familiennamen und Vornamen (NamÄndVwV) nur in Betracht, wenn ein wichtiger Grund\ndie Änderung rechtfertigt. Eine Vornamensänderung liegt nicht nur bei Auswechslung eines Vornamens,\nsondern auch bei Hinzufügung oder - wie hier - Streichung eines oder mehrerer Vornamen vor (BVerwG,\nB.v. 24.3.1981 - 7 B 44/81 - juris Rn. 3).\n15\nDer Begriff des „wichtigen Grundes“ ist im Gesetz nicht näher definiert. Es handelt sich hierbei um einen\nunbestimmten Rechtsbegriff, sodass die Entscheidung der Behörde, ob ein wichtiger Grund i.S.d. § 3 Abs.NamÄndG vorliegt, in vollem Umfang der gerichtlichen Nachprüfung unterliegt (vgl. VG Würzburg, U.v.\n24.5.2017 - W 6 K 17.4 - juris Rn. 26).\n16\nNach der ständigen Rechtsprechung des Bundesverwaltungsgerichts ist ein wichtiger Grund gegeben,\nwenn im Rahmen einer Abwägung die schutzwürdigen Interessen des Namensträgers an der\nNamensänderung die gegenläufigen Interessen an der Beibehaltung des Namens, zu denen insbesondere\ndie Ordnungsfunktion gehört, überwiegen. Daraus folgt, dass ein wichtiger Grund im Sinne der §§ 3, 11\nNamÄndG ein besonderes, die persönliche Situation des Namensträgers prägendes Interesse verlangt,den allgemeinen gesetzlichen Wertungen des familienrechtlichen Namensrechts nicht zuwiderläuft (st.\nRspr., vgl. zuletzt BVerwG, B.v. 3.2.2017 - 6 B 50/16 - juris Rn. 6; vgl. auch Nrn. 28, 29ff., 62 NamÄndVwV).\n17\nSoll - wie hier - ein Vorname geändert werden, ist zwar im Rahmen der gebotenen Interessenabwägung das\nöffentliche Interesse an der Beibehaltung des bisherigen Vornamens geringer zu bewerten als bei der\nÄnderung des Familiennamens, der in weitergehendem Umfang als Unterscheidungs- und\nZuordnungsmerkmal dient (BVerwG, U.v. 26.03.2003 - 6 C 26.02 - juris Rn. 12; OVG Berlin-Brandenburg,\nB.v. 28.7.2017 - OVG 5 N 19.15 - juris Rn. 10). Das öffentliche Interesse tritt noch weiter zurück, wenn die\nÄnderung - unter Aufrechterhaltung des ersten Vornamens - lediglich die weiteren Vornamen betrifft (OVG\nNRW, U.v. 31.5.2016 - 16 A 754/14 - juris Rn. 50f. m.w.N.). Dennoch hat auch die Änderung des\nVornamens Ausnahmecharakter. Ein öffentliches Interesse an der Namenskontinuität ist dem\nPersonenstandsrecht auch in Bezug auf den Vornamen zu entnehmen. Nach § 21 Abs. 1 Nr. 4 des\nPersonenstandgesetzes (PStG) sind die Vornamen in das Geburtenbuch einzutragen. Mit der Eintragung ist\nder Vorname grundsätzlich unabänderlich geworden und kann nur nach Maßgabe des öffentlich-rechtlichen\nNamensänderungsrechts geändert werden (vgl. BVerwG, a.a.O. - juris Rn. 14). Diese grundsätzliche\nEntscheidung des Gesetzgebers, keine freie Abänderung des Vornamens zuzulassen, wird bestätigt durch\ndie im November 2018 in Kraft getretene Regelung des § 45a Abs. 1 PStG, wonach die Reihenfolge der\nVornamen nunmehr durch Erklärung des Vornamenträgers gegenüber dem Standesamt neu bestimmt\nwerden kann (Satz 1), eine Änderung der Schreibweise der Vornamen sowie das Hinzufügen oder\nWeglassen von Vornamen dabei jedoch ausdrücklich nicht zulässig ist (Satz 2).\n18\nUnter Berücksichtigung des - wenngleich als gering einzustufenden - öffentlichen Interesses an der\nVornamenskontinuität sowie der gesetzgeberischen Grundentscheidung, die Führung der Vornamen der\nfreien Disposition zu entziehen, bedarf es somit letztendlich eines schutzwürdigen Interesses an der\nNamensänderung, welches so wesentlich ist, dass die in der Regel für die Beibehaltung des bisherigen\nNamens sprechenden Belange der Allgemeinheit dahinter zurücktreten müssen (OVG NRW, U.v. 31.5.2016\n- 16 A 754/14 - juris Rn. 52f. m.w.N.).\n19\n3. Ausgehend von diesen Maßstäben sind die vom Kläger vorgebrachten Gründe für die\nVornamensänderung nicht als hinreichend gewichtig im Sinne des § 3 Abs. 1 NamÄndG anzusehen. Im\nHinblick auf die Ordnungsfunktion des Vornamens und den Ausnahmecharakter der Namensänderung,ein überwiegendes persönliches Interesse des Klägers an der Namensänderung nicht feststellbar.\n20\nDas Vorbringen des Klägers zur begehrten Vornamensänderung lässt sich im Wesentlichen unter drei\nGesichtspunkten zusammenfassen. Zunächst beruft sich der Kläger auf den Umstand, dass er seinen\nzweiten und dritten Vornamen praktisch nie geführt habe und sich daher nicht mit diesen Namen\nidentifizieren könne (dazu unter a). Weiter macht er eine seelische Belastung aufgrund der Nennung nach\nseinen beiden Großvätern, welche NSDAP-Mitglieder gewesen seien, geltend (dazu unter b). Schließlich\nbringt der Kläger verschiedene Beeinträchtigungen im Alltag vor, welche sich aus der Pflicht zur Angabe\nsämtlicher Vornamen ergeben (dazu unter c).\n21\na) Zunächst vermag der Kläger mit seiner Argumentation, er habe die beiden Vornamen „...“ und „...“ nie\nverwendet, sodass ihm jegliche Identifikation mit diesen Namen fehle und durch die begehrte Änderung\ngerade dem Grundsatz der Namenskontinuität Rechnung getragen werde, nicht durchzudringen.\n22\nEs besteht nämlich kein öffentliches Interesse daran, den personenstandsrechtlich eingetragenen Namen\nder tatsächlichen Namensführung anzupassen, sondern es liegt vielmehr im Interesse der Öffentlichkeit,\ndass grundsätzlich nur der eingetragene und nicht ein unzulässiger Vorname geführt wird (OVG Berlin-\nBrandenburg, B.v. 28.7.2017 - OVG 5 N 19.15 - juris Rn. 11). Ansonsten hätte es der Betroffene\ngewissermaßen selbst in der Hand, durch jahrelange tatsächliche Namensführung einen Grund für die\nNamensänderung herbeizuführen. Hinzu kommt, dass das deutsche Namensrecht keine starre\nNamensführungspflicht kennt, sodass es dem Kläger unbenommen ist, im Alltag ebenso wie in weiten\nBereichen des Rechtsverkehrs lediglich seinen ersten Vornamen als Rufnamen zu verwenden (BVerfG, U.v.\n5.5.2009 - 1 BvR 1155/03 - juris Rn. 42; OVG NRW, U.v. 31.5.2016 - 16 A 754/14 - juris Rn. 54).\n23\nb) Weiter trägt der Kläger vor, er sei durch die Namensgebung als Gedenken an seine Großväter - beide\nehemals Mitglieder der NSDAP - einer seelischen Belastung ausgesetzt.\n24\nZwar kann ein wichtiger Grund im Sinne des § 3 Abs. 1 NamÄndG vorliegen, wenn die Namensänderung\ndazu beiträgt, den Betroffenen von einer seelischen Belastung zu befreien, die seiner\nPersönlichkeitsentwicklung hinderlich ist und der Betroffene bei objektiver Betrachtung Grund zu der\nEmpfindung hat, der von ihm ungeliebte Name hafte ihm als Bürde an (vgl. VGH BW, U.v. 25.9.1986, NJW\n1987, 1780). Eine seelische Belastung kann demnach aber nur dann als \"wichtiger Grund\" für eine\nNamensänderung angesehen werden, wenn sie unter Berücksichtigung der gegebenen Umstände nach\nallgemeiner Verkehrsauffassung verständlich und begründet ist. Das setzt zwar nicht voraus, dass die\nBelastung bereits den Grad einer behandlungsbedürftigen Krankheit oder Krise erreicht hat. Die\nNamensänderung kann auch dadurch gerechtfertigt sein, dass der Namensträger vor solchen Folgen\nbewahrt werden soll. Ist die seelische Belastung aber nur als übertriebene Empfindlichkeit zu werten, liegt\ndagegen kein wichtiger Grund vor (VGH BW, B.v. 7.6.2018 - 1 S 583/18 - juris Rn. 15; BayVGH, B.v.\n12.4.2017 - 5 ZB 16.718 - juris Rn. 7; BVerwG, B.v. 11.1.2011 - 6 B 65.10 u.a. - juris Rn. 5f.). Macht der\nNamensträger einen solchen Grund geltend, obliegt es ihm, konkret darzulegen, aufgrund welcher\nUmstände sein Name für ihn eine seelische Belastung begründet. Dies erfordert einen substantiierten\nVortrag dazu, wie und in welchen Lebensbereichen sich die geltend gemachte seelische Belastung auswirkt\n(VGH BW, a.a.O - juris Rn. 16).\n25\nAn einem solchen substantiierten Vortrag fehlt es vorliegend. Dem klägerischen Vorbringen sind keine\nhinreichenden Anhaltspunkte für eine seelische Belastung im oben dargestellten Sinn zu entnehmen. Die\nNamensgebung als Andenken an Familienangehörige früherer Generationen ist nach wie vor verbreitet und\nnicht unüblich. Auch die Tatsache, dass deutsche Vorfahren zur Zeit des Nationalsozialismus Mitglieder der\nNSDAP waren, stellt keine Seltenheit dar und begründet für sich allein keinen wichtigen Grund im Sinne des\nNamensänderungsgesetzes. Anders wäre der Fall womöglich zu beurteilen, wenn der Name des\nBetroffenen auch für Dritte an bekannte Personen der NS-Zeit erinnert, sodass der Betroffene im Alltag\nständig auf diese Verbindung angesprochen und somit immer wieder neu damit konfrontiert wird. Dies ist\nhier jedoch nicht der Fall. Der Kläger hat hier nicht substantiiert vorgetragen, in welchen Lebensbereichen\nsich das vorgetragene Andenken an seine Großväter - über die geltend gemachten Unannehmlichkeiten\nhinaus - als seelische Belastung für ihn auswirkt. Hinzu kommt, dass es sich hier lediglich um den zweiten\nund dritten Vornamen des Klägers handelt, welchen er - nach eigenen Angaben - im Alltag nicht verwendet.\nEine tägliche Konfrontation damit ist somit ausgeschlossen. Auch in der mündlichen Verhandlung entstand\nder Eindruck, dass dieser Grund für den Kläger eher von untergeordneter Bedeutung ist und für ihn die\nfehlende Identifikation mit den beiden Vornamen (siehe oben) im Vordergrund steht. Die bloße Behauptung\neiner persönlichen Belastung genügt für die Annahme eines wichtigen Grundes jedenfalls nicht. Daher\nwurde auch auf die Einholung eines Sachverständigengutachtens durch das Gericht verzichtet. Die\nAufklärungspflicht des Gerichts findet ihre Grenze in der Mitwirkungspflicht der Beteiligten, insbesondere,\nwenn es um Umstände geht, die in die eigene Sphäre des Betroffenen fallen (vgl. Kopp/Schenke, VwGO,\n22. Auflage 2016, § 86 Rn. 11f.). Vorliegend fehlt es an einem qualifizierten Vortrag einer seelischen\nBeeinträchtigung. Allein die Behauptung schwerwiegender Nachteile durch die Beibehaltung des bisherigen\nNamens reicht dagegen nicht aus, um eine Beweiserhebung durch Sachverständigengutachten zu\nveranlassen (vgl. auch BVerwG, B.v. 14.11.2002 - 6 B 73/02 - juris Rn. 4; VG Augsburg, B.v. 21.6.2010 - Au\n1 K 10.726).\n26\nc) Schließlich greifen auch die weiteren vom Kläger geltend gemachten Gründe nicht durch. Die\nvorgetragenen Probleme und Schwierigkeiten im Alltag stellen ebenfalls keinen wichtigen Grund für die\nNamensänderung dar.\n27\nDer Kläger bringt in diesem Zusammenhang vor, in letzter Zeit sei er wiederholt dazu aufgefordert worden,\nsämtliche Vornamen anzugeben, so beispielsweise bei der Eröffnung eines Bankkontos oder der Buchung\nvon Flug- oder Schiffsreisen. In der mündlichen Verhandlung legte er hierzu eine Reisebestätigung für eine\nKreuzfahrt vor, auf der er mit allen drei Vornamen genannt ist.\n28\nAuch wenn dem deutschen Namensrecht eine starre Namensführungspflicht grundsätzlich fremd ist (vgl.\noben), ist die Angabe aller Vornamen in bestimmten Bereichen aus Sicherheitsgründen notwendig und dem\nKläger daher zumutbar. Zum Schutz vor Missbrauch von Personendaten, Identitätstäuschung oder\ninternationalem Terrorismus fordern beispielsweise Banken, Fluggesellschaften oder Reiseveranstalter die\nAngabe sämtlicher Vornamen. Dies ist vom Kläger - genauso wie von allen anderen Personen, die die\nentsprechenden Leistungen in Anspruch nehmen - hinzunehmen. Dass er hierdurch im Vergleich zu Dritten\naußergewöhnlich stark belastet ist, ist nicht erkennbar. Soweit Sicherheitsinteressen nicht entgegenstehen,\nlässt sich in der Regel auf Anfrage bei den entsprechenden Stellen - wie der Kläger selbst vorträgt - die\nVerwendung allein des ersten Vornamens erreichen. Der dabei möglicherweise im Einzelfall auftretende\nerhöhte Aufwand führt nicht dazu, hierin einen wichtigen Grund für eine Namensänderung zu sehen (vgl.\nauch OVG Sachsen, U.v. 4.5.2017 - 3 A 122/16 - juris Rn. 32).\n29\nAuch die Nachverfolgung von Überweisungsvorgängen ist anhand anderer Merkmale, wie beispielsweise\nMandatsnummern oder der Angabe eines Verwendungszwecks, weiterhin gewährleistet. Dass es hier für\nden Kläger zu nicht mehr hinnehmbaren Schwierigkeiten kommt, ist - auch aus den vorgelegten\nBankunterlagen - nicht ersichtlich. Eine Verwechslungsgefahr von Vor- und Nachname besteht beim Kläger\nebenfalls nicht. Maßstab für die Bestimmung einer Unterscheidbarkeit kann hier nur der deutsche\nSprachraum sein. In Bezug auf eine etwaige Verwechslungsgefahr im internationalen Sprachraum\nunterscheidet sich die Situation des Klägers nicht von der zahlreicher anderer Personen, deren Vor- und\nNachname im Ausland nicht eindeutig zuzuordnen ist. Vereinzelte Fehlbuchungen oder Missverständnisse\nsind zwar vorstellbar, sie stellen aber allenfalls Lästigkeiten dar, die auf individuelle Fehler Dritter\nzurückzuführen sind und denen eine Vielzahl von Menschen mit mehreren Vornamen ausgesetzt ist.\nSchließlich ergeben sich allein aus der Länge der Vornamen des Klägers keine grundlegenden\nEinschränkungen. Nach herrschender Ansicht ist sogar die Eintragung von vier bis fünf Vornamen erlaubt\n(OLG Düsseldorf, B.v. 3.4.1998 - 3 Wx 90/98 - juris Rn. 16). Eine Namensänderung rechtfertigen die\nvorgetragenen Beeinträchtigungen demnach nicht.\n30\nZusammenfassend ist nicht erkennbar, dass der Kläger durch seinen zweiten und dritten Vornamen, welche\ner nur in seltenen Ausnahmefällen überhaupt angeben muss, derart belastet ist, dass die erforderliche\nAbwägung hier zu seinen Gunsten ausfallen müsste. Vielmehr ist hier dem Grundsatz der\nVornamenskontinuität der Vorrang einzuräumen. Zwar mögen die Gründe des Klägers für die begehrte\nNamensänderung durchaus nachvollziehbar sein, ein bloß „vernünftiger\" Grund für eine Namensänderung\naus privatem Interesse vermag das öffentliche Interesse an der Beibehaltung des bisherigen Namens\njedoch nicht zu überwiegen (OVG Lüneburg, U.v. 18.1.1994 - FamRZ 1994, 1346).\n31\n4. Die Kostenentscheidung ergibt sich aus § 154 Abs. 1 VwGO. Als unterliegender Teil hat der Kläger die\nKosten des Verfahrens zu tragen. Der Ausspruch über die vorläufige Vollstreckbarkeit beruht auf § 167\nVwGO i.V.m. §§ 708 ff. ZPO.\n\n\n"
+}

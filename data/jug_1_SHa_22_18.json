@@ -1,0 +1,917 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 52,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 58,
+            "start": 53,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigung",
+            "end": 121,
+            "start": 112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 133,
+            "start": 122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 162,
+            "start": 161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 171,
+            "start": 163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuknüpfen",
+            "end": 401,
+            "start": 390,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 416,
+            "start": 415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 428,
+            "start": 417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zuständigkeit",
+            "end": 509,
+            "start": 496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 521,
+            "start": 510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "456",
+            "end": 538,
+            "start": 535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "890",
+            "end": 552,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "890",
+            "end": 569,
+            "start": 566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 575,
+            "start": 570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 648,
+            "start": 640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 656,
+            "start": 650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 658,
+            "start": 657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 661,
+            "start": 660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 863,
+            "start": 860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 866,
+            "start": 865,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 989,
+            "start": 988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 1074,
+            "start": 1069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1077,
+            "start": 1076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 1250,
+            "start": 1247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1344,
+            "start": 1341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 1495,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1738,
+            "start": 1734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1741,
+            "start": 1740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 1851,
+            "start": 1847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 1952,
+            "start": 1946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2057,
+            "start": 2054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2060,
+            "start": 2059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 2159,
+            "start": 2152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsort",
+            "end": 2387,
+            "start": 2377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 2610,
+            "start": 2602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 2728,
+            "start": 2721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhandeln",
+            "end": 2913,
+            "start": 2903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzulassen",
+            "end": 3030,
+            "start": 3019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3033,
+            "start": 3032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 3186,
+            "start": 3181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 3288,
+            "start": 3284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 3405,
+            "start": 3398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsbezirk",
+            "end": 3560,
+            "start": 3546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsort",
+            "end": 3715,
+            "start": 3705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3718,
+            "start": 3717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 3838,
+            "start": 3833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gefasst",
+            "end": 3944,
+            "start": 3937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 4168,
+            "start": 4163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4171,
+            "start": 4170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4329,
+            "start": 4326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4563,
+            "start": 4560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 4793,
+            "start": 4788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4796,
+            "start": 4795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstands",
+            "end": 4899,
+            "start": 4885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4903,
+            "start": 4901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4907,
+            "start": 4905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 5007,
+            "start": 4999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 5100,
+            "start": 5093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5104,
+            "start": 5102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 5188,
+            "start": 5185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 5277,
+            "start": 5267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5281,
+            "start": 5279,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5490,
+            "start": 5489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5494,
+            "start": 5492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 5726,
+            "start": 5720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 5867,
+            "start": 5860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständigkeitsbegründend",
+            "end": 6044,
+            "start": 6020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6048,
+            "start": 6046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 6342,
+            "start": 6334,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6661,
+            "start": 6660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6665,
+            "start": 6663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 6835,
+            "start": 6828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6839,
+            "start": 6837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 7150,
+            "start": 7145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7154,
+            "start": 7152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 7269,
+            "start": 7262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 7363,
+            "start": 7355,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7554,
+            "start": 7553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7558,
+            "start": 7556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7647,
+            "start": 7644,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7901,
+            "start": 7900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7905,
+            "start": 7903,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8088,
+            "start": 8087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigt",
+            "end": 8459,
+            "start": 8447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 8590,
+            "start": 8584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 8765,
+            "start": 8759,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9020,
+            "start": 9019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 9024,
+            "start": 9022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verweisungsentscheidung",
+            "end": 9240,
+            "start": 9217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestützt",
+            "end": 9374,
+            "start": 9366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9786,
+            "start": 9783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 9889,
+            "start": 9882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 10074,
+            "start": 10063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 10078,
+            "start": 10076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 10154,
+            "start": 10145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 10158,
+            "start": 10156,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10412,
+            "start": 10411,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10637,
+            "start": 10636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10641,
+            "start": 10639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 10794,
+            "start": 10789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsgerichts",
+            "end": 11015,
+            "start": 11000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterführt",
+            "end": 11295,
+            "start": 11284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellbar",
+            "end": 11433,
+            "start": 11421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 11437,
+            "start": 11435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 11764,
+            "start": 11759,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11972,
+            "start": 11971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11976,
+            "start": 11974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 12215,
+            "start": 12208,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12534,
+            "start": 12533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12732,
+            "start": 12726,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13102,
+            "start": 13101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 13106,
+            "start": 13104,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13360,
+            "start": 13359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 13743,
+            "start": 13737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragbar",
+            "end": 14063,
+            "start": 14052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 14366,
+            "start": 14364,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14635,
+            "start": 14634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 14639,
+            "start": 14637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 15044,
+            "start": 15039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 15301,
+            "start": 15296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 15457,
+            "start": 15454,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15849,
+            "start": 15848,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16076,
+            "start": 16075,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16518,
+            "start": 16517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 16522,
+            "start": 16520,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17172,
+            "start": 17171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringt",
+            "end": 17442,
+            "start": 17434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 17446,
+            "start": 17444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 17680,
+            "start": 17678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 17870,
+            "start": 17863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18047,
+            "start": 18041,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18604,
+            "start": 18603,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18875,
+            "start": 18874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 19018,
+            "start": 19014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsleistung",
+            "end": 19242,
+            "start": 19227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzustellen",
+            "end": 19368,
+            "start": 19357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 19372,
+            "start": 19370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 19559,
+            "start": 19555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19563,
+            "start": 19561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 19810,
+            "start": 19807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19814,
+            "start": 19812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsübergangs",
+            "end": 19906,
+            "start": 19889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klageantrag",
+            "end": 20057,
+            "start": 20046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 20232,
+            "start": 20228,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20419,
+            "start": 20418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 20423,
+            "start": 20421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Österreich",
+            "end": 20482,
+            "start": 20472,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20589,
+            "start": 20588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EuGVVO",
+            "end": 20860,
+            "start": 20854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 20864,
+            "start": 20862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 20947,
+            "start": 20940,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG München, Beschluss v. 24.01.2019 – 1 SHa 22/18\nTitel:\nStreit über die Wirksamkeit einer betriebsbedingten Kündigung\nNormenkette:\nArbGG § 48 Abs. 1 Buchst. a\nLeitsatz:\nDer besondere Gerichtsstandort des Arbeitsortes ist bei fliegendem Personal (Piloten/innen und\nFlugbegleiter/innen) in der Regel nach § 48 Abs. 1 a Satz 2 ArbGG am vertraglich als \"Heimatbasis\"\nvereinbarten Flughafen anzuknüpfen. (Rn. 25 – 27)\nSchlagworte:\nFliegendes Personal, örtliche Zuständigkeit, Arbeitsort, Örtliche Zuständigkeit\nFundstellen:\nZInsO 2019, 456\nLSK 2019, 890\nBeckRS 2019, 890\nTenor\nAls örtlich zuständiges Gericht wird das Arbeitsgericht München bestimmt.\nGründe\nI.\n1\nDie Parteien streiten über die Wirksamkeit einer betriebsbedingten Kündigung durch den Beklagten zu 1\nund darüber, ob ein Betriebsübergang auf die Beklagte zu 2 bzw. die Beklagte zu 3 stattgefunden hat.\n2\nDer Beklagte zu 1 hat seinen Sitz in C-Stadt und ist Insolvenzverwalter über das Vermögen der Fa. C KG\n(Gemeinschuldnerin). Die Beklagte zu 2 hat ihren Sitz in W. (Flughafen) und die Beklagte zu 3 in G-Stadt.\n3\nDie Klägerin war bei der Gemeinschuldnerin (bzw. bei deren Rechtsvorgängerin) seit 00.00.1987 (vgl.\nArbeitsbescheinigung vom 00.00.2017) als Flugbegleiterin beschäftigt war. Im Arbeitsvertrag vom\n00.00.1987 war in § 6 geregelt, dass dienstlicher Wohnsitz München ist. Die der Klägerin ausgestellte\nArbeitsbescheinigung gem. § 312 SGB III vom 00.00.2017 bezeichnet als Beschäftigungsort ebenfalls den\nFlughafen München. Nach § 6 ihres Arbeitsvertrages vom 00.00.1991 hat die Klägerin ihren Wohnsitz so zu\nwählen, dass sie bei normaler Verkehrslage innerhalb von 60 Minuten nach Abruf den Dienst am Einsatzort\nFlughafen München-Riem bzw. München II antreten kann.\n4\nMit Schreiben vom 00.00.2018 kündigte der Beklagte zu 1 das Arbeitsverhältnis mit der Klägerin zum\n00.00.2018. Da die Klägerin schwerbehindert ist, war vorab die Zustimmung des Integrationsamts eingeholt\nworden. Gegen den der Kündigung zustimmenden Bescheid des Integrationsamts vom 00.00.2018 geht die\nKlägerin vor.\n5\nDie Klägerin erhob mit Schriftsatz vom 00.00.2018 Kündigungsschutzklage zum Arbeitsgericht München.\nNachdem das Arbeitsgericht München Bedenken hinsichtlich seiner örtlichen Zuständigkeit geäußert und\nGelegenheit zur Stellungnahme gegeben hatte, verwies die Klägerin zur Begründung der Zuständigkeit auf\nMünchen als Arbeitsort. Der Beklagte zu 1 stellte sich dagegen auf den Standpunkt, der Start von einem\nbestimmten Flughafen aus sei nicht ausreichend für die Annahme, die Arbeitsleistung des fliegenden\nPersonals würde von diesem Ort aus erbracht. Weder aus § 29 ZPO noch aus § 48 Abs. 1a ArbGG folge\ndeshalb eine örtliche Zuständigkeit des Arbeitsgerichts München. Die Beklagten zu 2 und zu 3 äußerten\nsich dahingehend, dass es aus prozessökonomischen Gründen sachgerecht sei, das Verfahren hinsichtlich\nsämtlicher Beklagter gemeinsam zu verhandeln; es sei denkbar, sich für den vorliegenden Rechtsstreit vor\ndem Arbeitsgericht München rügelos zur Sache einzulassen.\n6\nMit Beschluss vom 10.07.2018 erklärte sich das Arbeitsgericht München für örtlich unzuständig und verwies\nden Rechtsstreit an das Arbeitsgericht C-Stadt. Dieses sei nach §§ 12, 17 ZPO örtlich zuständig, da die\nGemeinschuldnerin ihren Sitz in C-Stadt habe. Weder der Gerichtsstand des Erfüllungsorts (§ 29 Abs. 1\nZPO) noch des Arbeitsortes (§ 48 Abs. 1a ArbGG) sei gegeben. Fliegendes Personal erfülle die\nüberwiegenden Arbeitsleistungen während des Fluges und somit ohne Bezug zu einem bestimmten Startund/\noder Gerichtsbezirk. Die organisatorische Zuordnung zu einem Flughafen und die teilweise\nEingliederung in dessen Organisationsstruktur begründe keinen gewöhnlichen Arbeitsort.\n7\nMit Schriftsatz vom 26.07.2018 rügten die Beklagte zu 2 und zu 3 die örtliche Zuständigkeit des\nArbeitsgerichts C-Stadt. Der Verweisungsbeschluss entbehre in Bezug auf sie jeglicher Rechtsgrundlage\nund sei willkürlich gefasst. Das Arbeitsgericht München begründe nur seine Unzuständigkeit und habe ganz\noffensichtlich gar nicht geprüft, ob die örtliche Zuständigkeit des Arbeitsgerichts C-Stadt im Hinblick auf\nsämtliche Beklagten gegeben sein könne.\n8\nMit Beschluss vom 01.08.2018 legte das Arbeitsgericht C-Stadt dem Landesarbeitsgericht München den\nRechtsstreit zur Gerichtsstandbestimmung nach § 36 ZPO vor. Die Gerichtsstandbestimmung sei\nunwirksam, weil der Beschluss hinsichtlich der Beklagten zu 2 und zu 3 keine Begründung enthalte und\nnach dem Akteninhalt nicht ausgeschlossen werden könne, dass er aus sachfremden Gründen erfolgt sei.\nDer Beschluss sei auch hinsichtlich des Beklagten zu 1 offensichtlich unwirksam, denn das Arbeitsgericht\nMünchen habe es unterlassen im Hinblick auf die Streitgenossenschaft anzufragen, ob ein Antrag nach § 36\nZPO gestellt werde.\n9\nMit Schriftsatz vom 21.09.2018 beantragte die Klägerin die Bestimmung eines gemeinsamen\nGerichtsstands.\nII.\n10\nAls örtlich zuständiges Gericht wird nach § 36 Abs. 1 Nr. 6 ZPO das Arbeitsgericht München bestimmt.\nDessen Verweisungsbeschluss vom 10.07.2018 war für das Arbeitsgericht C-Stadt nicht bindend.\n11\n1. Die Zuständigkeitsbestimmung erfolgt allerdings nicht nach § 36 Abs. 1 Nr. 3 ZPO. Der Antrag der\nKlägerin auf Bestimmung eines gemeinsamen Gerichtsstandes ist unzulässig.\n12\nZwar kann eine Gerichtsstandbestimmung trotz des engen Wortlauts des § 36 Abs. 1 Nr. 3 ZPO auch noch\nnach Klageerhebung erfolgen (Zöller/Schultzky, ZPO, § 36 Rn. 26; LAG Hamm 06.04.2018 - 1 SHa 9/18 -\nRn. 14).\n13\nEs fehlt aber an der Voraussetzung nach § 36 Abs. 1 Ziff. 3 ZPO, dass mehrere Personen, die bei\nverschiedenen Gerichten ihren allgemeinen Gerichtsstand haben, als Streitgenossen im „allgemeinen“\nGerichtsstand verklagt werden sollen. Keiner der Beklagten hat seinen allgemeinen Gerichtsstand im\nZuständigkeitsbereich des von der Klägerin angerufenen Arbeitsgerichts München. In ihrer Stellungnahme\nmit Schriftsatz vom 05.07.2018 beruft sich die Klägerin zur Frage der örtlichen Zuständigkeit auf den\nArbeitsort in München als zuständigkeitsbegründend.\n14\nDie Klägerin hat somit ausgehend von dem von ihr angenommenen Gerichtsstand des gewöhnlichen\nArbeitsorts (§ 48 Abs. 1a ArbGG) bzw. des Erfüllungsortes (§§ 46 Abs. 2 Satz 1 ArbGG, 29 ZPO) von ihrem\nWahlrecht nach § 35 ZPO Gebrauch gemacht und einen besonderen Gerichtsstand in Anspruch\ngenommen. Ihr vor Klageerhebung nach § 35 ZPO gegebenes Recht, den Gerichtsstand auszuwählen, ist\ndamit erloschen (MüKo-ZPO/Patzina, § 36 Rn. 28) und das angerufene Arbeitsgericht nach §§ 48 Abs. 1 Nr.\n1 ArbGG, 17a Abs. 2, 3 GVG zur abschließenden Entscheidung über seine örtliche Zuständigkeit berufen\n(LAG Hamm, aaO., Rn. 19).\n15\n2. Eine Zuständigkeitsbestimmung hat aber nach § 36 Abs. 1 Nr. 6 ZPO zu erfolgen, denn die\nArbeitsgerichte München und C-Stadt haben sich jeweils für unzuständig erklärt.\n16\na) Aufgrund des Verweisungsbeschlusses des Arbeitsgerichts München vom 10.07.2018 ist die örtliche\nZuständigkeit des Arbeitsgerichts C-Stadt nicht begründet worden, denn der Verweisungsbeschluss bindet\nentgegen der Regelung in § 48 Abs. 1 ArbGG i. V. m. § 17a Abs. 2 Satz 3 GVG das Arbeitsgericht C-Stadt\nnicht.\n17\naa) Zwar sind auch fehlerhafte Verweisungsbeschlüsse für das Gericht, an das verwiesen wird,\ngrundsätzlich bindend. Die bindende Wirkung ist auch im Bestimmungsverfahren nach § 36 Abs. 1 Nr. 6\nZPO zu beachten. Nur so kann der Zweck des § 17a Abs. 2 Satz 3 GVG erreicht werden, unnötige und zu\nLasten der Parteien gehende Zuständigkeitsstreitigkeiten zu vermeiden (BAG 06.01.1998 - 5 AS 30/97, Rn.\n7).\n18\nEine Ausnahme ist aber dann gegeben, wenn die Verweisung offensichtlich gesetzwidrig ist. Offensichtlich\ngesetzeswidrig ist ein Verweisungsbeschluss beispielsweise, wenn keine Rechtsgrundlage erkennbar ist,\nder Beschluss willkürlich gefasst oder den Verfahrensbeteiligten das rechtliche Gehör nicht gewährt wurde\n(BAG 06.01.1998 - 5 AS 30/97).\n19\nEine offensichtliche Gesetzwidrigkeit liegt aber auch dann vor, wenn eine Begründung entgegen § 48 Abs. 1\nArbGG, § 17a Abs. 4 Satz 2 GVG fehlt (Germelmann/Könzl, ArbGG, § 48 Rn. 102). Auch wenn eine\nfehlende Begründung des Beschlusses nicht zur Nichtigkeit der Entscheidung führt, liegt bereits in der\ngroben Missachtung der nicht zur Disposition des einzelnen Richters stehenden Begründungspflicht nach §\n17a Abs. 4 Satz 2 GVG regelmäßig eine krasse Rechtsverletzung, welche die Durchbrechung der\ngesetzlichen Bindungswirkung ausnahmsweise rechtfertigt. Die Beschlussgründe geben Aufschluss über\ndie tatsächlichen und rechtlichen Erwägungen, auf denen der Verweisungsbeschluss beruht. Sie sind damit\nnotwendiger Ausgangspunkt für die Beantwortung der Frage, ob sich das verweisende Gericht bei seiner\nEntscheidung von sachfremden Erwägungen hat leiten lassen. Etwas anderes kann nur ausnahmsweise\ndann gelten, wenn dem Akteninhalt mit ausreichender Sicherheit und für die Beteiligten erkennbar\nentnommen werden kann, dass die Verweisung nicht auf sachfremden Erwägungen beruht (BAG\n16.06.2015 - 10 AS 2/15, Rn. 6).\n20\nbb) Der Verweisungsbeschluss des Arbeitsgerichts München vom 10.07.2018 ist offensichtlich gesetzwidrig,\ndenn es fehlt hinsichtlich der Beklagten zu 2 und zu 3 an jeglicher Begründung für die\nVerweisungsentscheidung. Das Arbeitsgericht hat seine Entscheidung ausschließlich auf den allgemeinen\nGerichtsstand der Gemeinschuldnerin in C-Stadt gestützt. Abgesehen davon, dass es bzgl. des Beklagten\nzu 1 als Insolvenzverwalter nach § 19a ZPO auf den Sitz des Insolvenzgerichts (und nicht der\nGemeinschuldnerin) ankommt, ist nicht zu erkennen, dass sich das Arbeitsgericht bzgl. der im Hinblick auf\neinen behaupteten Betriebsübergang in Anspruch genommenen Streitgenossen, also der Beklagten zu 2\nund zu 3, zur örtlichen Zuständigkeit überhaupt Gedanken gemacht hat. Ein allgemeiner Gerichtsstand der\nBeklagten zu 2 und zu 3 in C-Stadt ist offensichtlich nicht gegeben. Warum das Verfahren mit der\nBegründung eines fehlenden besonderen Gerichtsstands dennoch einheitlich nach C-Stadt verwiesen\nwurde, ist weder begründet noch sonst irgendwie ersichtlich.\n21\nb) Das Arbeitsgericht München ist nach § 48 Abs. 1a ArbGG örtlich zuständig.\n22\nEs handelt sich um eine Streitigkeit nach § 2 Abs. 1 Nr. 3 ArbGG. Nach § 48 Abs. 1a ArbGG ist hierfür auch\ndas Arbeitsgericht zuständig, in dessen Bezirk der Arbeitnehmer gewöhnlich seine Arbeit verrichtet oder\nzuletzt gewöhnlich verrichtet hat (Satz 1). Ist ein solcher gewöhnlicher Arbeitsort nicht feststellbar, ist das\nArbeitsgericht örtlich zuständig, von dessen Bezirk aus der Arbeitnehmer gewöhnlich seine Arbeit verrichtet\noder zuletzt gewöhnlich verrichtet hat (Satz 2).\n23\naa) Zwar ist zweifelhaft, ob sich bei fliegendem Personal (Crew-Mitgliedern) ein gewöhnlicher Arbeitsort iSd.\n§ 48 Abs. 1 a Satz 1 ArbGG bestimmen lässt. Dieses erbringt die Arbeitsleistung im Wesentlichen im\nFlugzeug und damit naturgemäß nicht an einem festen geografischen Ort und auch nicht regelmäßig\ninnerhalb des Zuständigkeitsbereichs eines einzelnen Arbeitsgerichts. Auch soweit die\nGesetzesbegründung zu § 48 Abs. 1 ArbGG (BT-Drucks. 16/7716, S. 23 f.) ausführt, dass in Fällen der\nErfüllung der Arbeitsleistung an mehreren Orten, der Ort zu bestimmen sei, an dem die Arbeitsleistung\nüberwiegend erbracht wird, ist fraglich, ob dies weiterführt. Ein geografischer Ort, an dem die\nArbeitsleistung überwiegend erbracht wird, ist bei fliegendem Personal in der Regel nicht feststellbar.\n24\nAllerdings ist zu berücksichtigen, dass der Gesetzgeber bei der Fassung des § 48 Abs. 1a Satz 1 ArbGG\nausweislich der Gesetzesbegründung die Formulierung des Art. 19 Nr. 2 lit. a EuGVVO alt (VO (EG) Nr.\n44/2001, jetzt Art. 21 Nr. 1 lit. b EuGVVO) übernommen hat, die ihrerseits aus der Rechtsprechung des\nEuGH entwickelt wurde. Damit kann als Hilfe bei der Auslegung des § 48 Abs. 1a Satz 1 ArbGG auf die\neinschlägige EuGH-Rechtsprechung zurückgegriffen werden, wenn diese insoweit auch nicht bindend ist\n(GK-ArbGG/ßader, § 48 Rn. 93).\n25\nDer EuGH versteht unter dem „Ort, an dem der Arbeitnehmer gewöhnlich seine Arbeit verrichtet“, den Ort,\nan dem oder von dem aus der Arbeitnehmer den wesentlichen Teil seiner Verpflichtungen gegenüber\nseinem Arbeitgeber tatsächlich erfüllt. Erfülle er die Verpflichtungen aus seinem Arbeitsvertrag in mehreren\nMitgliedsstaaten, sei dies der Ort, an dem oder von dem aus er unter Berücksichtigung aller Umstände des\nEinzelfalls den wesentlichen Teil seiner Verpflichtungen gegenüber seinem Arbeitgeber tatsächlich erbringt\n(EuGH 10.04.2003 - C-437/00. Rn. 19). Bei fliegendem Personal könne der Begriff des „Ortes, an dem oder\nvon dem aus der Arbeitnehmer seine Arbeit gewöhnlich verrichtet“ zwar nicht mit dem Begriff der\n„Heimatbasis“ gleichgesetzt werden. Die „Heimatbasis“ sei aber ein wichtiges Indiz für die Bestimmung\ndieses Ortes und verliere nur dann ihre Relevanz, wenn unter Berücksichtigung aller möglichen\ntatsächlichen Umstände, die im Gerichtsverfahren zur Entscheidung gestellten Anträge eine engere\nVerknüpfung mit einem anderen Ort als der „Heimatbasis“ aufwiesen (EuGH 14.09.2017 - C-168/16, ibs.\nRn. 66 ff.).\n26\nAuch das BAG sieht bei der Bestimmung der internationalen Zuständigkeit die „Crew-Base“ als ein\nmaßgebliches Anknüpfungskriterium zur Bestimmung des gewöhnlichen Arbeitsortes iSd. Art. 19 Nr. 2 lit. a\nEuGVVO (alt) an (vgl. BAG 20.12.2012 - 2 AZR 481/11). Soweit teilweise Rechtsprechung des BAG zitiert\nwird, wonach der Arbeitsort des fliegenden Personals nicht ein Flughafen, sondern das Flugzeug sei, wird\nzum einen nicht berücksichtigt, dass die Rechtsprechung sich z. T. auf eine Rechtslage vor Inkrafttreten des\n§ 48 Abs. 1a ArbGG bezieht, zum anderen, dass die Entscheidungen z. T. in einem anderen materiellen\nZusammenhang stehen. So geht es in der häufig - auch vorliegend vom Arbeitsgericht - zitierten\nEntscheidung des BAG vom 21.07.2009 (9 AZR 404/08) um die Wirksamkeit einer Versetzung und die\ndabei getroffenen Aussagen zum Arbeitsort sind nicht ohne Weiteres auf die Bestimmung der örtlichen\nZuständigkeit nach § 48 Abs. 1a ArbGG übertragbar. Die bisweilen zu lesende Aussage, das BAG habe mit\nder Entscheidung vom 20.12.2012 (2 AZR 481/11) die Rechtsprechung, wonach regelmäßiger Arbeitsort\nder Flugbegleiter nicht der Flughafen, sondern das Flugzeug sei, aufgehoben (LAG C-Stadt-Brandenburg\n27.02.2018 - 6 SHa 140/18, Rn. 28), trifft nicht zu. Es geht vielmehr schlicht um einen anderen Kontext (vgl.\nBAG 30.11.2016 - 10 AZR 11/16, Rn. 23, wo zur Frage der Wirksamkeit einer Versetzung die Aussage\nbekräftigt wird, dass regelmäßiger Arbeitsort eines Flugbegleiters nicht der Flughafen, sondern das\nFlugzeug ist).\n27\nbb) Ob diese Rechtsprechung zur Bestimmung der internationalen Zuständigkeit tatsächlich auf die\nAuslegung des § 48 Abs. 1a Satz 1 ArbGG übertragen werden kann, obwohl bei fliegendem Personal\nschwerlich ein Ort zu bestimmen ist, an dem die Arbeit überwiegend erbracht wird, kann in der Regel\ndahinstehen, denn die Zuständigkeit am Ort der Heimatbasis ergibt sich regelmäßig nach § 48 Abs. 1a Satz\n2 ArbGG. Dass ein gewöhnlicher Arbeitsort iSd. Satzes 1 nicht feststellbar ist - z. B. weil Tätigkeiten\nvertragsgemäß in mehreren Gerichtsbezirken zu erbringen sind (BT-Drucks. 16/7716, S. 24) - ist ja gerade\ndie Eingangsvoraussetzung des § 48 Abs. 1a Satz 2 ArbGG. Es ist dann das Arbeitsgericht zuständig, von\ndessen Bezirk aus der Arbeitnehmer gewöhnlich seine Arbeit verrichtet oder zuletzt gewöhnlich verrichtet\nhat. Das kann sogar der Wohnsitz sein, wenn sich dieser deshalb als Ausgangspunkt darstellt, weil dort mit\nder Arbeitsleistung verbundene Tätigkeiten erbracht werden, z. B. bei einem Außendienstmitarbeiter, der zu\nHause seine Reisetätigkeit für den ihm zugewiesenen Bezirk plant, Berichte schreibt oder andere mit der\nArbeitsleistung verbundene Tätigkeiten verrichtet (BT-Drucks. 16/7716, S. 24). Satz 2 übernimmt keine\nFormulierung des Art. 19 Nr. 2 EuGVVO (alt; - allerdings enthält nunmehr Art. 21 Abs. 1 lit. b i) auch die\nFormulierung „… an dem oder von dem aus der Arbeitnehmer gewöhnlich seine Arbeit verrichtet …“). Im\nErgebnis stellt sich § 48 Abs. 1 a Satz 2 als Auffangtatbestand (GK-ArbGG/ßader § 48 Rn. 93 c) dar, um es\nArbeitnehmern zu erleichtern, wohnortnah zu klagen, wenn sie von dort aus ihre Arbeitsleistung erbringen\n(ausführlich zum Normzweck Natter/Gross/Pf/fzer/Ahmad, ArbGG, § 48 Rn. 20, wonach der Gesetzgeber\nmit § 48 Abs. 1 a ArbGG gerade mit Blick auf die uneinheitliche Rechtsprechung der Instanzgerichte zu § 29\nZPO eingegriffen hat).\n28\nFür fliegendes Personal bildet der Stationierungsort, von dem aus regelmäßig - auf gelegentliche\nAusnahmen kommt es nicht an - die Flüge angetreten und an den zurückgekehrt wird - den relevanten\nAnknüpfungspunkt für die Bestimmung des Ortes, von dem aus der Arbeitnehmer gewöhnlich seine Arbeit\nverrichtet (LAG München 08.02.2010 - 1 SHa 4/10 - Rn. 17; LAG C-Stadt-Brandenburg 05.03.2018 - 15\nSHa 180/18; im Ergebnis ebenso die h. M. in der Literatur, ErfK/Koch, ArbGG, § 48 Rn. 20,\nNatter/Gross/P/ftzer/Ahmad, ArbGG, § 48 Rn. 21 -; z. T. differenzierend bei Langstreckenverkehr GKArbGG/\nBader, § 48 Rn. 93 d; Germelmann/Könzl, ArbGG, § 48 Rn. 36 a). Durch die Bestimmung des\nEinsatzortes wird nämlich der Ort festgelegt, an dem das fliegende Personal seinen Dienst anzutreten hat\nund an dem es regelmäßig auch Arbeitsleistung bei der Vor- und Nachbereitung eines Fluges inklusive dem\nStart- und Landeprozedere erbringt.\n29\nEs ist nicht erforderlich, dass die Fluggesellschaft an diesem Ort betriebliche Einrichtungen unterhält, denn\nes kommt auf die Arbeitsleistung des Arbeitnehmers - hier die von der Klägerin erbrachten Aufgaben als\nFlugbegleiterin - an. In der Gesetzesbegründung heißt es hierzu ausdrücklich, dass es unerheblich ist, ob\nan dem Ort der Arbeitsleistung eine räumliche Verfestigung der Betriebsstruktur des Arbeitgebers besteht.\nEs ist deshalb unerheblich, dass die Arbeitsleistung in und am am Flughafen stehenden Flugzeug und nicht\nin stationären Betriebsräumlichkeiten des Arbeitgebers erbracht werden. Soweit der Beklagte zu 1 auf die\nEntscheidung des BAG vom 20.12.2012 (2 AZR 481/11) Bezug nimmt und ausführt, dass in den Gründen\nauch darauf abgestellt wird, dass der klagenden Flugkapitänin dort an der „Crew-Base“ ein eingerichteter\nArbeitsplatz zur Verfügung stand, ist darauf hinzuweisen, dass sich die in Bezug genommene Entscheidung\nim Rahmen der Bestimmung der internationalen Zuständigkeit auf die Auslegung des Art. 19 Nr. 2 lit. a\nEuGVVO (alt) bezieht und damit allenfalls Relevanz für die Auslegung des § 48 Abs. 1a Satz 1 ArbGG hat\n(vgl. oben). Ebenso wenig besteht angesichts des Normzwecks eine Grundlage für die Annahme, die am\nAusgangsort verrichteten Tätigkeiten müssten quantitativ oder qualitativ den Schwerpunkt der\nGesamttätigkeit des Arbeitnehmers bilden (Natter/Gross/'Pf/tzer/Ahmad, ArbGG, § 48 Rn. 21). § 48 Abs. 1a\nArbGG setzt ja gerade voraus, dass ein Ort, an dem die Arbeitsleistung überwiegend erbracht wird, nicht\nfestgestellt werden kann. Im Unterschied zum in der Gesetzesbegründung als Beispiel für keine\nBegründung des Arbeitsortes am Wohnsitz genannten Montagearbeiter erbringt das fliegende Personal am\nFlughafen der Heimatbasis tatsächlich Arbeitsleistung. Deshalb ist bei Crewmitgliedern ja nicht auf deren\nWohnort, sondern auf den als Heimatbasis bestimmten Flughafen abzustellen.\n30\ncc) Der Gerichtsstand des Arbeitsorts iSd. § 48 Abs. 1a ArbGG ist für alle drei Beklagten gegeben, so dass\ndas Arbeitsgericht München als einheitlicher Gerichtsstand bestimmt werden kann.\n31\nGegenüber dem Beklagten zu 1 als Insolvenzverwalter der Gemeinschuldnerin ergibt sich der Gerichtsstand\naufgrund der vertraglichen Bestimmung den Flughafen München als Heimatbasis und damit als Ort, an dem\ndie Klägerin ihren Dienst anzutreten hat.\n32\nDer besondere Gerichtsstand des Arbeitsortes gilt aber auch in Fällen des Betriebsübergangs. Ob ein\nBetriebsübergang vorliegt, ist nicht im Zuständigkeitsverfahren zu entscheiden, hier genügt das Vorbringen\nder Klagepartei und der Klageantrag. Liegt ein Betriebsübergang vor, so geht das Arbeitsverhältnis mit allen\nRechten und Pflichten und mit allen arbeitsvertraglichen Vereinbarungen auf den Betriebserwerber über.\nSomit geht auch die Vereinbarung zum Arbeitsort bzw. die Zuweisung der Heimatbasis auf den potentiellen\nBetriebserwerber über (LAG C-Stadt-Brandenburg 27.02.2018 - 6 SHa 140/18, Rn. 33).\n33\nDas gilt auch für die Beklagte zu 2 mit Sitz in Österreich. Die örtliche Zuständigkeit bestimmt sich für sie\nnach Art. 21 Abs. 1 EuGVVO (früher Art. 19 Nr. 2 EuGVVO). Da sich in Bezug auf die gestellten Anträge\nunter Berücksichtigung aller möglichen tatsächlichen Umstände keine engere Verknüpfung mit einem\nanderen Ort feststellen lässt, verbleibt es bei der Anknüpfung an der „Heimatbasis“ als Ort iSd. Art. 21 Abs.\n1 lit. b i) EuGVVO.\n34\n3. Gemäß § 37 Abs. 2 ZPO ist gegen diesen Beschluss ein Rechtsmittel nicht gegeben.\n\n"
+}

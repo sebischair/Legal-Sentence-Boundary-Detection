@@ -1,0 +1,533 @@
+{
+    "Annotations": [
+        {
+            "annotation": "2615",
+            "end": 51,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 57,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 120,
+            "start": 111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 133,
+            "start": 121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 158,
+            "start": 157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 195,
+            "start": 194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 214,
+            "start": 213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 232,
+            "start": 231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 241,
+            "start": 233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 716,
+            "start": 713,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 726,
+            "start": 725,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 755,
+            "start": 754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 767,
+            "start": 756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenzbebauung",
+            "end": 966,
+            "start": 953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 977,
+            "start": 967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1363",
+            "end": 1029,
+            "start": 1025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1040,
+            "start": 1030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8702",
+            "end": 1059,
+            "start": 1055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1065,
+            "start": 1060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1121,
+            "start": 1112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beigeladenen",
+            "end": 1241,
+            "start": 1229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1324,
+            "start": 1313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1332,
+            "start": 1326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1334,
+            "start": 1333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1337,
+            "start": 1336,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2034,
+            "start": 2033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoße",
+            "end": 2278,
+            "start": 2270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägers",
+            "end": 2347,
+            "start": 2340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2350,
+            "start": 2349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 2489,
+            "start": 2480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2493,
+            "start": 2491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2496,
+            "start": 2495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 2552,
+            "start": 2546,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2674,
+            "start": 2673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 2877,
+            "start": 2867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2880,
+            "start": 2879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 2948,
+            "start": 2938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2951,
+            "start": 2950,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3072,
+            "start": 3071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3310,
+            "start": 3307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3313,
+            "start": 3312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 3612,
+            "start": 3608,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3963,
+            "start": 3962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3966,
+            "start": 3965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 4170,
+            "start": 4165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Relevanz",
+            "end": 4344,
+            "start": 4336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 4499,
+            "start": 4489,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4753,
+            "start": 4752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 5038,
+            "start": 5029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5041,
+            "start": 5040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5479,
+            "start": 5473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgangen",
+            "end": 5656,
+            "start": 5647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengetreten",
+            "end": 5727,
+            "start": 5711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 5797,
+            "start": 5792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsteht",
+            "end": 5900,
+            "start": 5892,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6135,
+            "start": 6134,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6442,
+            "start": 6441,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6636,
+            "start": 6635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6639,
+            "start": 6638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 6932,
+            "start": 6923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 7347,
+            "start": 7342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7351,
+            "start": 7349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengetreten",
+            "end": 7680,
+            "start": 7664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreicht",
+            "end": 7842,
+            "start": 7834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7985,
+            "start": 7982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PKW",
+            "end": 8100,
+            "start": 8097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8104,
+            "start": 8102,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8599,
+            "start": 8598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nichts",
+            "end": 8776,
+            "start": 8770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8780,
+            "start": 8778,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8885,
+            "start": 8884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8889,
+            "start": 8887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 9123,
+            "start": 9117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 9259,
+            "start": 9248,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9522,
+            "start": 9521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9526,
+            "start": 9524,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9654,
+            "start": 9653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9658,
+            "start": 9656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10132,
+            "start": 10129,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10470,
+            "start": 10469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerecht",
+            "end": 10565,
+            "start": 10558,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10749,
+            "start": 10748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10753,
+            "start": 10751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsgerichtsbarkeit",
+            "end": 10899,
+            "start": 10873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 10995,
+            "start": 10989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10999,
+            "start": 10997,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11127,
+            "start": 11126,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11185,
+            "start": 11184,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VGH München, Beschluss v. 03.05.2019 – 9 ZB 16.2615\nTitel:\nBaurechtliche Nachbarklage - Zulassung der Berufung erfolglos\nNormenketten:\nBayVwVfG Art. 37 Abs. 1\nBauGB § 35 Abs. 2, Abs. 3 S. 1 Nr. 3\nBImSchG § 3 Abs. 1\nVwGO § 124 Abs. 2\nLeitsatz:\nDie Zulassung der Berufung wegen grundsätzlicher Bedeutung der Rechtssache setzt voraus, dass\neine konkrete, noch nicht geklärte Rechts- oder Tatsachenfrage aufgeworfen wird, deren\nBeantwortung sowohl für die Entscheidung des Verwaltungsgerichts von Bedeutung war als auch\nfür die Entscheidung im Berufungsverfahren erheblich sein wird und die über den konkreten Fall\nhinaus wesentliche Bedeutung für die einheitliche Anwendung oder für die Weiterentwicklung des\nRechts hat. (Rn. 15) (red. LS Alexander Tauchert)\nSchlagworte:\nNachbarklage, Kiosk mit Freiterrasse, Pavillon, Ausschank, Sanitär- und Umkleideräumen, Betriebliche\nFreizeitanlage am Badesee, Lärmimmissionen, Gebot der Rücksichtnahme, Bauvorhaben, Grenzbebauung\nVorinstanz:\nVG Würzburg, Urteil vom 08.11.2016 – W 4 K 14.1363\nFundstelle:\nBeckRS 2019, 8702\nTenor\nI. Der Antrag auf Zulassung der Berufung wird abgelehnt.\nII. Der Kläger trägt die Kosten des Zulassungsverfahrens einschließlich der außergerichtlichen Kosten der\nBeigeladenen.\nIII. Der Streitwert für das Zulassungsverfahren wird auf 7.500,- Euro festgesetzt.\nGründe\nI.\n1\nDer Kläger wendet sich gegen die Baugenehmigung des Landratsamts S* … vom 21. November 2011 in\nder Gestalt der Änderungsgenehmigung vom 23. März 2016 an die Beigeladene zur Errichtung eines Kiosks\nmit Freiterrasse, Pavillon, Umkleide- und Sanitärräumen auf deren als betriebliches Freizeitgelände\ngenutztem Grundstück FlNr. … Gemarkung B* … Sein Antrag auf vorläufigen Rechtsschutz war zunächst\nwegen Unbestimmtheit der Baugenehmigung erfolgreich (BayVGH, B.v. 28.10.2015 - 9 CS 15.1633), seine\nBeschwerde gegen den Änderungsbeschluss des Verwaltungsgerichts vom 26. April 2016 nach Änderung\nder Baugenehmigung mit Bescheid vom 23. März 2016 blieb erfolglos (BayVGH, B.v. 18.7.2016 - 9 CS\n16.885). Seine Klage wurde vom Verwaltungsgericht mit Urteil vom 8. November 2016 abgewiesen, weil\ndas Bauvorhaben bezogen auf das Anwesen des Klägers zu keinen schädlichen Umwelteinwirkungen führe\nund nicht gegen das Gebot der Rücksichtnahme verstoße. Hiergegen richtet der Antrag auf Zulassung der\nBerufung des Klägers.\n2\nWegen der weiteren Einzelheiten wird auf den Inhalt sämtlicher Gerichtsakten beider Rechtszüge und der\nvorgelegten Behördenakten verwiesen.\nII.\n3\nDer Antrag auf Zulassung der Berufung hat keinen Erfolg. An der Richtigkeit der Entscheidung des\nVerwaltungsgerichts bestehen keine ernstlichen Zweifel (§ 124 Abs. 2 Nr. 1 VwGO). Die Berufung ist auch\nnicht wegen besonderer tatsächlicher oder rechtlicher Schwierigkeiten (§ 124 Abs. 2 Nr. 2 VwGO) oder\ngrundsätzlicher Bedeutung der Rechtssache (§ 124 Abs. 2 Nr. 3 VwGO) zuzulassen.\n4\n1. Die Berufung ist nicht nach § 124 Absatz 2 Nr. 1 VwGO zuzulassen.\n5\nDer Kläger beruft sich auf ernstliche Zweifel an der Richtigkeit des erstinstanzlichen Urteils (§ 124 Abs. 2\nNr. 1 VwGO). Ob solche Zweifel bestehen, ist im Wesentlichen anhand dessen zu beurteilen, was der\nKläger innerhalb offener Frist (§ 124a Abs. 4 Satz 4 VwGO) hat darlegen lassen (§ 124a Abs. 5 Satz 2\nVwGO). Danach liegen solche Zweifel hier nicht vor.\n6\na) Soweit der Kläger erstmals geltend macht, der Baugenehmigung vom 21. November 2014 und dem\nÄnderungsbescheid vom 23. März 2016 mangele es an einer Begründung, wird im Zulassungsvorbringen\nbereits nicht dargelegt, dass eine solche hier überhaupt nach Art. 68 Abs. 2 Satz 2 BayBO erforderlich\nwäre. Im Übrigen würde allein ein Verstoß gegen die Begründungspflicht des Art. 68 Abs. 2 Satz 2 BayBO\nnicht automatisch zur Aufhebung der Baugenehmigung zugunsten des Nachbarn führen (vgl. Lechner in\nSimon/Busse, BayBO, Stand Oktober 2018, Art. 68 Rn. 476, 489; Greim-Diroll in Spannowsky/Manssen,\nBeckOK Bauordnungsrecht, Stand 1.3.2019, Art. 68 Rn. 42).\n7\nb) Die vom Kläger nach wie vor geltend gemachten Einwendungen gegen die Bestimmtheit der\nBaugenehmigung vom 21. November 2014 in der Fassung der Änderungsgenehmigung vom 23. März 2016\ngreifen nicht durch. Soweit vorgetragen wird, die Zählkontrollen seien nicht in der Lage, die\nZugangsbeschränkung sicherzustellen, ist dies für die Bestimmtheit der Baugenehmigung ohne Relevanz.\nDurch die Änderungsgenehmigung vom 23. März 2016 wurde die zulässige Anzahl der Nutzer in der\ngesamten Anlage auf maximal 400 Personen pro Tag beschränkt. Der Senat hat bereits darauf\nhingewiesen, dass Verstöße hiergegen ggf. zu bauaufsichtlichen Maßnahmen im Rahmen des Vollzugs,\naber nicht zu einer Unbestimmtheit der Baugenehmigung führen können (vgl. BayVGH, B.v. 18.7.2016 - 9\nCS 16.885 - juris Rn. 16). Soweit der Kläger nach wie vor auf eine „Fremdnutzung“ der betrieblichen\nFreizeitanlage abstellt, ist dies immissionsschutzrechtlich ebenfalls nicht relevant (vgl. BayVGH, B.v.\n28.10.2015 - 9 CS 15.1633 - juris Rn. 22) und kann eine Verletzung drittschützender Rechte nicht\nbegründen.\n8\nc) Das Verwaltungsgericht hat bei der Prüfung des Gebots der Rücksichtnahme zutreffend auf § 35 Abs. 3\nSatz 1 Nr. 3 BauGB i.V.m. § 3 Abs. 1 BImSchG abgestellt und einen Verstoß verneint, weil nach der\nimmissionsschutzfachlichen Beurteilung des Landratsamts durch das genehmigte Vorhaben auf Grundlage\nder Regelungen des angefochtenen Bescheids bezogen auf das Anwesen des Klägers keine schädlichen\nUmwelteinwirkungen hervorgerufen werden. Bei der Beurteilung der Zumutbarkeit der Lärmimmissionen für\nden Kläger ist das Verwaltungsgericht vom Schutzniveau eines Dorfgebiets für das klägerische\nWohngebäude ausgangen. Dem wird im Zulassungsvorbringen nicht substantiiert entgegengetreten. Der\nKläger übersieht, dass sein Anwesen selbst im Außenbereich liegt. Er kann deshalb nicht damit rechnen,\ndass in seiner Nachbarschaft keine emittierende Nutzung entsteht. Er darf vielmehr nur darauf vertrauen,\ndass dort keine Nutzung entsteht, die mit der Wohnnutzung nicht mehr verträglich ist (vgl. BVerwG, B.v.\n18.12.1990 - 4 N 6.88 - juris Rn. 29; BayVGH, B.v. 3.2.2017 - 9 CS 16.2477 - juris Rn. 19). Es ist deshalb\nnichts dagegen zu erinnern, dass das Verwaltungsgericht gegenüber dem Wohngebäude des Klägers die\nWerte für ein Dorfgebiet angesetzt hat (vgl. BVerwG, B.v. 12.9.2007 - 7 B 24.07 - juris Rn. 4; OVG SH, B.v.\n27.11.2014 - 1 LA 52/14, Rn. 23; OVG NW, B.v. 6.2.1997 - 1 EO 876/96 - juris Rn. 76). Soweit der Kläger\nhierzu pauschal einwendet, die TA Lärm sei „im Außenbereich nicht anwendbar“, trifft dies so nicht zu (vgl.\nNr. 1 TA Lärm; BayVGH, B.v. 18.5.2018 - 9 CS 18.10 - juris Rn. 16).\n9\nSoweit der Kläger vorträgt, das Verwaltungsgericht habe die bereits bestehende Nutzung des Geländes der\nBeigeladenen als Erholungsanlage nicht als Lärmvorbelastung berücksichtigen dürfen, weil es sich um eine\nunzulässige, nicht genehmigte Nutzung handle, bleibt der Antrag ebenfalls erfolglos. Das\nZulassungsvorbringen setzt sich insoweit weder mit den Voraussetzungen der Nr. 2.4 TA Lärm, der der\nimmissionsschutzfachlichen Stellungnahme des Landratsamts zugrunde liegt, auseinander, noch wird\ndargelegt, welche Auswirkungen die Nichtberücksichtigung des Geländes als Vorbelastung auf die\nLärmimmissionen beim Kläger hätte, insbesondere, dass es dann zu einer höheren Lärmbelastung des\nKlägers kommen würde.\n10\nd) Mit dem Vortrag des Klägers, die Parkplatzsituation sei nicht angemessen berücksichtigt und die\nLärmbelastung bei ihm entstehe bereits vor Wirksamwerden der Zugangsbeschränkung, wird den\nimmissionsschutzfachlichen Stellungnahmen des Landratsamts vom 23. März 2016 und vom 5. November\n2016 nicht substantiiert entgegengetreten. Danach wird der „zulässige Immissionsgrenzwert von 64 dB(A)“\ntags sogar bei einer Annahme von 1.600 Fahrbewegungen (achtfacher Stellplatzwechsel) nicht erreicht.\nUnerheblich ist dabei, ob dieser Stellplatzwechsel durch einen häufigeren Besucherwechsel oder durch eine\nBelegung der Parkplätze bedingt ist. Zudem relativiert der Kläger seine Ausführungen, in dem er selbst\nvorträgt, nicht alle Besucher kämen mit dem PKW.\n11\ne) Hinsichtlich der Einwendungen zu der aus Sicht des Klägers unzureichenden Erschließungssituation\nzeigt das Zulassungsvorbringen kein drittschützendes Recht des Klägers auf (vgl. BayVGH, B.v. 18.7.2016 -\n9 CS 16.885 - juris Rn. 18), zumal sich sowohl das Bauvorhaben als auch das Anwesen des Klägers im\nAußenbereich befinden und sich insoweit unterschiedliche Anforderungen an die Erschließung gegenüber\neinem beplanten Gebiet ergeben (vgl. BayVGH, B.v. 30.10.2018 - 9 C 18.673 - juris Rn. 6). Daran ändert\nauch die behauptete „fehlende Entkopplung“ des klägerischen Gebäudes von der Straße aufgrund einer\nGrenzbebauung auf dem Anwesen des Klägers zur Straße hin nichts.\n12\n2. Die Rechtssache weist keine besonderen oder rechtlichen Schwierigkeiten auf (§ 124 Abs. 2 Nr. 2\nVwGO).\n13\nSofern sich der Zulassungsbegründung überhaupt entsprechende, entscheidungserhebliche Fragen\nentnehmen lassen, lassen sich diese nach den obigen Ausführungen ohne weiteres und mit zweifelsfreiem\nErgebnis im Zulassungsverfahren klären. Unabhängig davon hat der Kläger auch nichts\nEntscheidungserhebliches über das zu § 124 Abs. 2 Nr. 1 VwGO Dargelegte hinaus vorgetragen. Allein die\nunterschiedliche Bewertung des vorliegenden Sachverhalts durch das Verwaltungsgericht und den Kläger\ngenügt nicht für die Darlegung besonderer tatsächlicher oder rechtlicher Schwierigkeiten (vgl. BayVGH, B.v.\n20.11.2018 - 9 ZB 16.2323 - juris Rn. 22).\n14\n3. Eine Zulassung der Berufung wegen grundsätzlicher Bedeutung der Rechtssache scheidet ebenfalls aus\n(§ 124 Abs. 2 Nr. 3 VwGO).\n15\nDie Zulassung der Berufung wegen grundsätzlicher Bedeutung der Rechtssache setzt voraus, dass eine\nkonkrete, noch nicht geklärte Rechts- oder Tatsachenfrage aufgeworfen wird, deren Beantwortung sowohl\nfür die Entscheidung des Verwaltungsgerichts von Bedeutung war als auch für die Entscheidung im\nBerufungsverfahren erheblich sein wird und die über den konkreten Fall hinaus wesentliche Bedeutung für\ndie einheitliche Anwendung oder für die Weiterentwicklung des Rechts hat. Zur Darlegung dieses\nZulassungsgrundes ist eine Frage auszuformulieren und substantiiert anzuführen, warum sie für\nklärungsbedürftig und entscheidungserheblich gehalten und aus welchen Gründen ihr eine allgemeine, über\nden Einzelfall hinausreichende Bedeutung zugemessen wird (vgl. BayVGH, B.v. 20.11.2018 - 9 ZB 16.2323\n- juris Rn. 24). Dem wird das Zulassungsvorbringen, das bereits keine konkrete Frage formuliert, nicht\ngerecht. Im Übrigen ist der Umfang des Nachbarschutzes auch bei Außenbereichsvorhaben - wie hier -\nhöchstgerichtlich geklärt (vgl. BVerwG, U.v. 27.6.2017 - 4 C 3.16 - juris Rn. 10 ff. m.w.N.).\n16\nDie Streitwertfestsetzung ergibt sich aus § 47 Abs. 3, § 52 Abs. 1 GKG i.V.m. Nr. 9.7.1 des\nStreitwertkatalogs für die Verwaltungsgerichtsbarkeit. Sie folgt der Festsetzung des Verwaltungsgerichts,\ngegen die keine Einwendungen erhoben wurden.\n17\nMit der Ablehnung des Antrags auf Zulassung der Berufung wird das angefochtene Urteil rechtskräftig (§\n124a Abs. 5 Satz 4 VwGO).\n18\nDieser Beschluss ist unanfechtbar (§ 152 Abs. 1 VwGO).\n\n"
+}

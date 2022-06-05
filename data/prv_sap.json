@@ -1,0 +1,731 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 24,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wirtschaft",
+            "end": 207,
+            "start": 197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 374,
+            "start": 367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 560,
+            "start": 555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 591,
+            "start": 578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 629,
+            "start": 609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 808,
+            "start": 797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1080,
+            "start": 1077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stelle",
+            "end": 1104,
+            "start": 1098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SAP",
+            "end": 1224,
+            "start": 1221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angegeben",
+            "end": 1515,
+            "start": 1506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 1596,
+            "start": 1593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 1648,
+            "start": 1643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 1774,
+            "start": 1763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 2069,
+            "start": 2064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unten",
+            "end": 2218,
+            "start": 2213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Center",
+            "end": 2366,
+            "start": 2360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 2414,
+            "start": 2409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3030,
+            "start": 3025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Forderungen",
+            "end": 3414,
+            "start": 3403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 3475,
+            "start": 3468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3625,
+            "start": 3622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 3779,
+            "start": 3776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 4061,
+            "start": 4056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 4189,
+            "start": 4182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 4242,
+            "start": 4231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EWR",
+            "end": 4409,
+            "start": 4406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4775,
+            "start": 4772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 5046,
+            "start": 5033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfordern",
+            "end": 5219,
+            "start": 5210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betroffenen",
+            "end": 5243,
+            "start": 5232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 5425,
+            "start": 5416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5639,
+            "start": 5636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfordern",
+            "end": 5853,
+            "start": 5844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6100,
+            "start": 6095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 6419,
+            "start": 6413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 6517,
+            "start": 6513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benötigt",
+            "end": 6871,
+            "start": 6863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7076,
+            "start": 7070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 7312,
+            "start": 7308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfordert",
+            "end": 7668,
+            "start": 7659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 7745,
+            "start": 7742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerderecht",
+            "end": 7762,
+            "start": 7747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8184,
+            "start": 8181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kinder",
+            "end": 8221,
+            "start": 8215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgesehen",
+            "end": 8286,
+            "start": 8276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 8403,
+            "start": 8397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Websites",
+            "end": 8430,
+            "start": 8422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 8554,
+            "start": 8545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konzerns",
+            "end": 8669,
+            "start": 8661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lesen",
+            "end": 8779,
+            "start": 8774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 8876,
+            "start": 8871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 9008,
+            "start": 8997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistungen",
+            "end": 9068,
+            "start": 9052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistungen",
+            "end": 9601,
+            "start": 9585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfassen",
+            "end": 9874,
+            "start": 9866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "generieren",
+            "end": 10081,
+            "start": 10071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darauf",
+            "end": 10362,
+            "start": 10356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 10543,
+            "start": 10536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geht",
+            "end": 10780,
+            "start": 10776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "senden",
+            "end": 11057,
+            "start": 11051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 11245,
+            "start": 11232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 11610,
+            "start": 11597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 11705,
+            "start": 11692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 11734,
+            "start": 11722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "USA",
+            "end": 11929,
+            "start": 11926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzugreifen",
+            "end": 12394,
+            "start": 12383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 12986,
+            "start": 12976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 13595,
+            "start": 13583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SAP",
+            "end": 13627,
+            "start": 13624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 13778,
+            "start": 13775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 13964,
+            "start": 13953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umfragen",
+            "end": 13989,
+            "start": 13981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einladen",
+            "end": 14047,
+            "start": 14039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 14183,
+            "start": 14177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 14367,
+            "start": 14361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datensätzen",
+            "end": 14410,
+            "start": 14399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14658,
+            "start": 14652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbesserung",
+            "end": 14742,
+            "start": 14730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 14942,
+            "start": 14932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuholen",
+            "end": 15006,
+            "start": 14996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenhängen",
+            "end": 15354,
+            "start": 15340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuholen",
+            "end": 15651,
+            "start": 15641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerspruchsrecht",
+            "end": 15670,
+            "start": 15653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 15841,
+            "start": 15828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachweisen",
+            "end": 16348,
+            "start": 16338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 16425,
+            "start": 16420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 16612,
+            "start": 16607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verknüpft",
+            "end": 16778,
+            "start": 16769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 17035,
+            "start": 17015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SAP",
+            "end": 17086,
+            "start": 17083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Services",
+            "end": 17506,
+            "start": 17498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 17959,
+            "start": 17949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "präsentieren",
+            "end": 18355,
+            "start": 18343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzerprofilen",
+            "end": 18386,
+            "start": 18372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 18619,
+            "start": 18613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 18941,
+            "start": 18930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugreifen",
+            "end": 19573,
+            "start": 19564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19837,
+            "start": 19834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchten",
+            "end": 20597,
+            "start": 20590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 20647,
+            "start": 20642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 20968,
+            "start": 20962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 21055,
+            "start": 21043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeben",
+            "end": 21209,
+            "start": 21202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veranstaltungsdaten",
+            "end": 21230,
+            "start": 21211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeben",
+            "end": 21519,
+            "start": 21508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 21590,
+            "start": 21579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermitteln",
+            "end": 21680,
+            "start": 21669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 21750,
+            "start": 21746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 21937,
+            "start": 21926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 21976,
+            "start": 21964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückziehen",
+            "end": 22136,
+            "start": 22124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 22300,
+            "start": 22288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 22566,
+            "start": 22555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufs",
+            "end": 22711,
+            "start": 22702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 23103,
+            "start": 23090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 23142,
+            "start": 23130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 23217,
+            "start": 23208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgesehen",
+            "end": 23350,
+            "start": 23340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 23609,
+            "start": 23598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 23898,
+            "start": 23892,
+            "type": "SBD"
+        }
+    ],
+    "Text": "SAP-Datenschutzerklärung\nDer Schutz der Privatsphäre im Internet ist von entscheidender Bedeutung für die Zukunft internetbasierter Geschäftsmodelle und für die Entwicklung einer internetbasierten Wirtschaft. Wir haben diese Datenschutzerklärung erarbeitet, um unsere entschiedene Verpflichtung zum Schutz der Daten und der Privatsphäre des Einzelnen unter Beweis zu stellen. Diese Datenschutzerklärung beschreibt, wie wir Informationen handhaben, die direkt oder indirekt zur Identifizierung von Einzelpersonen verwendet werden können („personenbezogene Daten“).\nA. Allgemeine Informationen\nWofür gilt diese Datenschutzerklärung? Diese Datenschutzerklärung gilt für personenbezogene Daten, die Sie SAP zur Verfügung stellen oder aus den personen­bezogenen Daten abgeleitet werden wie nachfolgend beschrieben. Die Verwendung von Cookies oder anderen Web-Tracking-Technologien sowie der damit erfassten Informationen unterliegt den im TrustArc Consent Manager bereitgestellten Informationen und Optionen,  wobei der TrustArc Consent Manager auf der jeweiligen Website zu finden ist.\nVerantwortliche Stelle. Die verantwortliche Stelle für www.sap.de ist SAP Deutschland SE & Co. KG, Hasso-Plattner-Ring 7, 69190 Walldorf („SAP“). Soweit auf dieser Website ein Registrierungsformular angezeigt wird, kann die verantwortliche Stelle je nach dem tatsächlichen Angebot oder dem Zweck der Datenerfassung davon abweichen, ist aber in jedem Fall in der Datenschutzerklärung des betreffenden Registrierungsformulars angegeben. Datenschutzbeauftragter des SAP-Konzerns ist Mathias Cellarius (privacy@sap.com). \nWas macht SAP mit meinen personenbezogenen Daten? SAP verarbeitet die unter diese Datenschutzerklärung fallenden personenbezogenen Daten ausschließlich wie hierin beschrieben. Weitere Informationen finden Sie unten in den Abschnitten B und C. Soweit die Verarbeitung Ihrer personenbezogenen Daten auf einem gesetzlichen Erlaubnistatbestand beruht, enthält Abschnitt B unten Informationen dazu, welche personenbezogenen Daten SAP für welche Zwecke verarbeitet oder nutzt. Soweit für die Verarbeitung Ihrer personenbezogenen Daten Ihre Einwilligung erforderlich ist, finden Sie weitere Informationen in Abschnitt C unten. Diese Informationen decken sich mit den entsprechenden Einwilligungserklärungen zu den einzelnen Verarbeitungsvorgängen im Consent Resource Center.\nDauer der Verarbeitung personenbezogener Daten. Soweit SAP Ihre personen­bezogenen Daten aufgrund eines gesetzlichen Erlaubnistatbestands (siehe Abschnitt B unten) oder im Rahmen Ihrer Einwilligung (siehe Abschnitt C unten) verarbeitet und nutzt, speichert SAP Ihre personenbezogenen Daten (i) nur so lange, wie die unten dargelegten Zwecke es erfordern, oder (ii) bis Sie der Nutzung Ihrer personen­bezogenen Daten durch SAP widersprechen (soweit SAP ein berechtigtes Interesse an der Nutzung Ihrer personenbezogenen Daten hat) oder (iii) bis Sie Ihre Einwilligung widerrufen (soweit Sie in die Nutzung Ihrer personenbezogenen Daten durch SAP eingewilligt haben). Soweit jedoch eine längere Speicherung Ihrer personenbezogenen Daten durch SAP zwingend gesetzlich vorgeschrieben ist oder SAP Ihre personen­bezogenen Daten zur Geltendmachung von Rechtsansprüchen oder Verteidigung gegen Rechtsansprüche benötigt, speichert SAP Ihre personenbezogenen Daten bis zum Ablauf der entsprechenden Aufbewahrungsfrist oder bis zur Beilegung der Forderungen.\nWarum muss ich personenbezogene Daten zur Verfügung stellen? Grundsätzlich gilt, dass die Erteilung einer Einwilligung oder die Zurverfügungstellung von personen­bezogenen Daten hierunter völlig freiwillig ist. Wenn Sie keine Einwilligung erteilen oder keine personenbezogenen Daten zur Verfügung stellen, hat dies generell keine nachteiligen Auswirkungen auf Sie. Es gibt allerdings Situationen, in denen SAP ohne bestimmte personenbezogene Daten nicht tätig werden kann, beispielsweise weil diese personenbezogenen Daten benötigt werden, um Ihre Bestellungen zu verarbeiten oder Ihnen Zugang zu einem Web-Angebot oder einem Newsletter zu geben. In solchen Fällen kann SAP Ihnen das Gewünschte ohne die relevanten personenbezogenen Daten leider nicht zur Verfügung stellen.\nWo werden meine personenbezogenen Daten verarbeitet? Als Teil eines globalen Konzerns hat SAP verbundene Unternehmen und externe Dienstleister sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraums („EWR“). Demzufolge kann SAP bei jeder Nutzung oder anderweitigen Verarbeitung Ihrer personenbezogenen Daten zu den in dieser Datenschutzerklärung beschriebenen Zwecken Ihre personenbezogenen Daten in Länder außerhalb des EWR übermitteln, u. a. auch in Länder, in denen ein Datenschutzniveau besteht, das nicht mit dem Datenschutzniveau innerhalb des EWR vergleichbar ist. Eine solche Übermittlung unterliegt dann den Standardvertragsklauseln gemäß Beschluss der EU-Kommission 2010/87/EU oder einer Nachfolgefassung, um auf vertraglichem Wege einen Schutz Ihrer personenbezogenen Daten durch ein im EWR geltendes Schutzniveau zu gewährleisten. Eine bearbeitete Fassung dieser Standardvertragsklauseln (ohne kaufmännische Inhalte und Informationen, die nicht relevant sind) können Sie unter privacy@sap.com anfordern.\nRechte der Betroffenen. Sie können von SAP jederzeit Informationen dazu, welche personenbezogenen Daten SAP über Sie verarbeitet, sowie die Korrektur oder Löschung dieser personenbezogenen Daten verlangen. Bitte beachten Sie jedoch, dass SAP Ihre personenbezogenen Daten nur dann löschen kann, wenn keine gesetzliche Verpflichtung zu deren Aufbewahrung besteht oder SAP kein vorrangiges Recht zu deren Aufbewahrung hat. Bedenken Sie bitte ebenso, dass Sie nach der von Ihnen verlangten Löschung Ihrer personenbezogenen Daten keine SAP-Services mehr nutzen können, die die Verwendung Ihrer personenbezogenen Daten durch SAP erfordern.\nWenn SAP Ihre personenbezogenen Daten auf der Grundlage Ihrer Einwilligung oder zur Durchführung eines Vertrags mit Ihnen nutzt, können Sie von SAP ferner eine Kopie der personenbezogenen Daten anfordern, die Sie SAP zur Verfügung gestellt haben. Richten Sie Ihre Anfrage bitte an die unten genannte E-Mail-Adresse, und geben Sie an, auf welche Informationen oder Verarbeitungsaktivitäten sich Ihre Anfrage bezieht, in welchem Format Sie diese Informationen wünschen, und ob die personenbezogenen Daten an Sie oder an einen anderen Empfänger gesendet werden sollen. SAP wird Ihr Gesuch sorgfältig prüfen und mit Ihnen klären, wie es am besten erfüllt werden kann.\nDes Weiteren können Sie in folgenden Fällen von SAP verlangen, dass SAP die weitere Verarbeitung Ihrer personenbezogenen Daten einschränkt: (i) wenn Sie geltend machen, dass die bei SAP vorgehaltenen personenbezogenen Daten über Sie falsch sind (jedoch nur so lange, wie SAP zur Prüfung der Richtigkeit der betreffenden personenbezogenen Daten benötigt), (ii) wenn keine Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten durch SAP gegeben ist und Sie verlangen, dass Ihre personenbezogenen Daten von SAP nicht mehr weiter verarbeitet werden, (iii) wenn SAP Ihre personenbezogenen Daten nicht mehr benötigt, Sie aber geltend machen, dass SAP diese Daten weiter aufbewahren muss, damit Sie Rechtsansprüche geltend machen oder ausüben oder Ansprüche Dritter abwehren können, oder (iv) wenn Sie der Verarbeitung Ihrer personenbezogenen Daten durch SAP (auf der Grundlage des berechtigten Interesses von SAP gemäß Beschreibung in Abschnitt B unten) widersprechen, so lange, wie die Prüfung eines vorrangigen Interesses von SAP an der Verarbeitung Ihrer personenbezogenen Daten oder einer gesetzlichen Aufbewahrungsverpflichtung erfordert.\nBitte richten Sie alle Anfragen unter diesem Abschnitt an webmaster@sap.com.\nBeschwerderecht. Wenn Sie der Ansicht sind, dass SAP Ihre personenbezogenen Daten nicht in Übereinstimmung mit den hierin beschriebenen Vorgaben oder mit den im EWR geltenden Datenschutzgesetzen verarbeitet, können Sie jederzeit Beschwerde bei der Datenschutzbehörde des EWR-Mitgliedslandes einlegen, in dem sich Ihr Wohnsitz befindet, oder bei der Datenschutzbehörde des Landes oder Bundeslandes, in dem SAP ihren eingetragenen Sitz hat.\nNutzung dieser Website durch Kinder. Diese Website ist nicht für Personen unter 16 Jahren vorgesehen. Wenn Sie jünger als 16 Jahre sind, dürfen Sie sich nicht auf dieser Website anmelden und diese Website nicht nutzen.\nLinks zu anderen Websites. Diese Website kann Links zu fremden Websites (d. h. Websites von Unternehmen, die nicht zum SAP-Konzern gehören) enthalten. SAP ist nicht verantwortlich für die Datenschutzmaßnahmen oder den Inhalt von Websites außerhalb des SAP-Konzerns. Aus diesem Grund empfehlen wir, dass Sie die Datenschutzerklärungen dieser fremden Websites sorgfältig lesen.\nB.  Wo SAP meine personenbezogenen Daten aufgrund eines gesetzlichen Erlaubnistatbestands nutzt\nIn den folgenden Fällen ist es SAP aufgrund der geltenden Datenschutzgesetze gestattet, Ihre personenbezogenen Daten zu verarbeiten.\nBereitstellung der gewünschten Waren oder Dienstleistungen. Wenn Sie Waren oder Dienstleistungen bei SAP bestellen, nutzt SAP die personenbezogenen Daten, die Sie im Bestell- oder Anmeldeformular eingeben (in der Regel folgende Angaben oder ein Teil davon: Ihr Name, Ihre (E-Mail-)Adresse, Ihre Telefonnummer, Name und Adresse Ihres Unternehmens, Ihre Stellenbezeichnung oder Rolle sowie, falls eine Zahlung an SAP zu leisten ist, Ihre Kreditkartennummer oder Bankverbindung), ausschließlich zur Abwicklung Ihrer Bestellung oder zur Bereitstellung der gewünschten Waren oder Dienstleistungen. Dies kann die Ausführung der erforderlichen Schritte vor Vertrags­abschluss, die Beantwortung Ihrer damit zusammenhängenden Fragen, die Über­mittlung von Versand- und Rechnungsinformationen und die Verarbeitung oder Bereitstellung von Kundenfeedback und -support umfassen. Ebenso kann dies Chat- oder Gesprächsdaten umfassen, die Sie möglicherweise über die Chatfunktionen auf SAP.com oder anderen lokalen SAP-Webseiten, in Kontaktformularen, E-Mails oder Telefonaten generieren. In der vorliegenden Datenschutzerklärung umfassen „Waren und Dienstleistungen“ Web-Services, Angebote, Wettbewerbe, Verlosungen, sonstige Inhalte, nicht auf Marketing bezogene Newsletter, Whitepapers, Lernprogramme, Schulungen und Veranstaltungen von SAP sowie den Zugriff darauf.\nWenn Sie an von SAP angebotenen Lernprogrammen oder Schulungen teilnehmen, kann SAP außerdem Ihren Lernfortschritt verfolgen, um Ihnen diese Informationen zur Verfügung zu stellen. Darüber hinaus kommunizieren wir in regelmäßigen Abständen per E-Mail mit Nutzern, die unsere Services beziehen, aber auch telefonisch, wenn es um die Bearbeitung von Kundenreklamationen oder die Untersuchung verdächtiger Vorgänge geht. SAP kann Ihre E-Mail-Adresse verwenden, um Ihre Eröffnung eines Kontos zu bestätigen, um Zahlungsbenachrichtigungen zu senden, um Sie über Änderungen an SAP-Produkten und -Services zu informieren und gesetzlich erforderliche Mitteilungen und andere Bekanntmachungen zu senden. In der Regel können Nutzer dem Erhalt derartiger Informationen, die nicht Marketing-bezogen, sondern lediglich für die jeweilige Geschäftsbeziehung erforderlich sind, nicht widersprechen. Hinsichtlich Marketing-bezogener Arten der Kommunikation (d. h. E-Mails und Telefonanrufe) wird SAP, (i) sofern gesetzlich vorgeschrieben, Ihnen derartige Informationen erst zukommen lassen, wenn Sie Ihre Einwilligung dazu erteilt haben, und (ii) Ihnen die Möglichkeit geben, gegen die Zusendung weiterer Marketing-bezogener Art der Kommunikation zu widersprechen. Sie können jederzeit unter https://www.sap.com/germany/profile/unsubscribe.html widersprechen.\nEinhaltung von Vorschriften. SAP und ihre Produkte, Technologien und Services unterliegen den Exportbestimmungen verschiedener Länder, darunter u. a. denen der Europäischen Union und ihrer Mitgliedstaaten und denen der USA. Sie nehmen zur Kenntnis, dass SAP gemäß den geltenden Exportbestimmungen, Handelssanktionen und Embargos dieser Länder dazu verpflichtet ist, Maßnahmen zu ergreifen, um die in bestimmten von Behörden herausgegebenen Sanktionslisten (Sanctioned Party Lists) aufgeführten Gesellschaften, Organisationen und Parteien daran zu hindern, über die Websites oder andere von SAP kontrollierte Delivery Channels auf bestimmte Produkte, Technologien und Services zuzugreifen. Zu diesen Maßnahmen können folgende gehören: (i) automatisierte Abgleiche der hierin beschriebenen Nutzer­anmeldedaten und sonstiger Angaben, die ein Nutzer über seine Identität macht, mit geltenden Sanktionslisten; (ii) regelmäßige Wiederholungen solcher Abgleiche, wenn Sanktionslisten aktualisiert werden oder ein Nutzer seine Informationen aktualisiert; (iii) Blockieren des Zugriffs auf die Services und Systeme von SAP, wenn eine mögliche Übereinstimmung gefunden wird; und (iv) Kontaktaufnahme mit dem Nutzer im Falle einer möglichen Übereinstimmung, um seine Identität zu überprüfen.\nDes Weiteren erkennen Sie an, dass Informationen, die zur Verfolgung Ihrer Entscheidungen hinsichtlich der Verarbeitung oder Nutzung Ihrer personenbezogenen Daten oder des Erhalts von Marketingmaterial (d. h. abhängig vom Land, in dem das jeweilige Unternehmen des SAP-Konzerns tätig ist, ob Sie entweder dem Erhalt von Marketingmaterial ausdrücklich zugestimmt haben oder gegen den Erhalt von Marketingmaterial widersprochen haben) benötigt werden, von Unternehmen des SAP-Konzerns gespeichert und zwischen diesen ausgetauscht werden dürfen, soweit zur Einhaltung der gesetzlichen Vorschriften erforderlich.\nBerechtigtes Interesse von SAP. Jeder der nachstehenden Anwendungsfälle stellt ein berechtigtes Interesse von SAP an der Verarbeitung oder Nutzung Ihrer personen­bezogenen Daten dar. Wenn Sie mit dieser Vorgehensweise nicht einverstanden sind, können Sie der Verarbeitung oder Nutzung Ihrer personenbezogenen Daten durch SAP widersprechen, wie nachfolgend beschrieben.\nFragebögen und Umfragen. SAP kann Sie zur Teilnahme an Kundenbefragungen einladen. Die dazu verwendeten Fragebögen sind generell so gestaltet, dass sie ohne Angabe von personenbezogenen Daten beantwortet werden können. Wenn Sie dennoch personenbezogene Daten in einem Fragebogen oder bei einer Umfrage angeben, kann SAP diese personenbezogenen Daten zur Verbesserung ihrer Produkte und Services nutzen.\nErstellung von anonymisierten Datensätzen. SAP kann die unter diese Datenschutz­erklärung fallenden personenbezogenen Daten anonymisieren, um anonymisierte Datensätze zu erstellen, die dann zur Verbesserung der Produkte und Services von SAP und ihren verbundenen Unternehmen genutzt werden.\nAufzeichnung von Telefongesprächen und Chats zu Zwecken der Qualitäts­verbesserung. SAP kann Telefongespräche (nachdem Sie während des Telefonats und vor Beginn der Aufzeichnung darüber informiert wurden) oder Chat-Sitzungen aufzeichnen, um die Qualität ihrer Services zu verbessern.\nUm Sie auf dem Laufenden zu halten bzw. um Feedback einzuholen. Im Rahmen einer bestehenden Geschäftsbeziehung zwischen Ihnen und SAP kann SAP Sie, soweit gemäß lokalen Gesetzen zulässig, über SAP-Produkte oder -Services (u. a. Webinare, Seminare oder Veranstaltungen) informieren, die ähnlich zu Produkten und Services sind, die Sie bereits von SAP gekauft haben oder nutzen oder die mit diesen zusammenhängen. Ferner kann SAP Sie, wenn Sie an einem Webinar, einem Seminar oder einem Event von SAP teilgenommen haben oder Produkte oder Services von SAP erworben haben, kontaktieren, um Feedback im Hinblick auf eine Verbesserung des betreffenden Webinars, Seminars, Events, Produkts oder Service einzuholen.\nWiderspruchsrecht. Sie können der Nutzung Ihrer personenbezogenen Daten für die oben beschriebenen Zwecke unter https://www.sap.com/germany/profile/unsubscribe.html jederzeit widersprechen. In diesem Fall stellt SAP die Nutzung Ihrer personenbezogenen Daten für die oben aufgeführten Zwecke (d. h. auf der Grundlage eines berechtigten Interesses, wie oben beschrieben) ein und entfernt sie aus ihren Systemen, es sei denn, SAP ist die Nutzung dieser personenbezogenen Daten für einen anderen in dieser Datenschutzerklärung dargelegten Zweck gestattet oder SAP stellt ein zwingendes berechtigtes Interesse an der weiteren Verarbeitung Ihrer personenbezogenen Daten fest und kann dieses nachweisen. \nC. Wo SAP meine personenbezogenen Daten aufgrund meiner Einwilligung nutzt\nIn den folgenden Fällen nutzt SAP Ihre personenbezogenen Daten wie nachstehend beschrieben nur, wenn Sie vorher Ihre Einwilligung zu den betreffenden Verarbeitungsvorgängen gegeben haben. Daher ist jede Information über einen Verarbeitungsvorgang in Bezug auf personenbezogene Daten mit einer Einwilligungserklärung im Consent Resource Center verknüpft. Wenn Sie diese Datenschutzerklärung erneut aufrufen, nachdem Sie das erste Mal eine oder mehrere Einwilligungen erteilt haben, sehen Sie nicht nur die Informationen im Zusammenhang mit den Einwilligungen, sondern auch die vollständige Datenschutzerklärung.\nNeuigkeiten zu den Produkten und Services von SAP. Vorbehaltlich entsprechender Bestimmungen und Ihrer Einwilligung kann SAP Ihren Namen, Ihre E-Mail- und Postadresse, Ihre Telefonnummer, Ihre Stellenbezeichnung und grundlegende Informationen über Ihren Arbeitgeber (Name, Adresse und Branche) sowie ein auf Ihren früheren Interaktionen mit SAP basierendes Interaktionsprofil (frühere Käufe, Teilnahme an Webinaren, Seminaren oder Events oder Nutzung von (Web-)Services; Einzelheiten zu diesem Thema sind im TrustArc Consent Manager zu finden, der auf der relevanten SAP-Website angezeigt wird) nutzen, um Sie über aktuelle Produktankündigungen, Software-Updates und -Upgrades, Sonderangebote und andere Informationen zu Software und Services von SAP (inklusive mittels Marketing-bezogener Newsletter) sowie über Veranstaltungen von SAP auf dem Laufenden zu halten und relevante Inhalte auf den Websites von SAP anzuzeigen. In Verbindung mit diesen Marketingaktivitäten kann SAP eine gehashte Nutzer-ID an von Dritten betriebene soziale Netzwerke oder andere Webangebote (wie etwa Twitter, LinkedIn, Facebook, Instagram oder Google) übermitteln, wo diese Informationen dann mit den Daten der sozialen Netzwerke oder den Datenbanken der Webangebote abgeglichen werden, um Ihnen relevantere Informationen zu präsentieren.\nErstellung von Nutzerprofilen. SAP bietet Ihnen die Möglichkeit, mit der SAP-Website verlinkte Webangebote von SAP wie etwa Foren, Blogs und Netzwerke (z. B. die SAP Community) zu nutzen, für die Sie sich registrieren lassen und ein Nutzerprofil erstellen müssen. Über ein Nutzerprofil können Sie persönliche Informationen über sich selbst anderen Nutzern anzeigen, u. a. auch Ihren Namen, Ihr Foto, Ihre Konten in sozialen Netzwerken, Ihre Post- und/oder E-Mail-Adresse, Ihre Telefonnummer, Ihre persönlichen Interessen, Ihre Fähigkeiten und grundlegende Angaben zu Ihrem Unternehmen.\nDiese Profile können an ein einzelnes Webangebot von SAP gebunden sein oder, wenn sie im SAP Cloud Platform Identity Authentication Service erstellt wurden, Ihnen Zugang zu anderen Webangeboten von SAP und/oder anderen Unternehmen des SAP-Konzerns ermöglichen (unabhängig von einer etwaigen erteilten Einwilligung, wie unter „Weiterleitung Ihrer personenbezogenen Daten an andere SAP-Unternehmen“ weiter unten beschrieben). Es ist jedoch immer Ihre Entscheidung, welche dieser zusätzlichen Webangebote Sie nutzen, und Ihre personenbezogenen Daten werden erst dann weitergeleitet, wenn Sie erstmalig auf diese Webangebote zugreifen. Beachten Sie bitte, dass SAP ohne Ihre Einwilligung zur Erstellung solcher Nutzerprofile nicht in der Lage ist, Ihnen solche Services anzubieten, wo Ihre Einwilligung eine gesetzlich vorgeschriebene Voraussetzung für die Bereitstellung dieser Services an Sie ist.\nInnerhalb eines Webangebots wird Ihr Profil über die reine Bereitstellung des Zugriffs hinaus zur Personalisierung der Interaktion mit anderen Nutzern (etwa über Messaging- oder Folge-Funktionen) und von SAP zur Verbesserung der Qualität der Kommunikation und der Zusammenarbeit über diese Angebote sowie zur Bereitstellung von Gamification-Elementen genutzt (Gamification bezeichnet das Integrieren von Spielemechaniken in einen bereits vorhandenen Kontext, etwa eine Website, eine Unternehmensanwendung oder eine Online-Community, um die Motivation, das Engagement und die Loyalität der Nutzer zu steigern). Sie können die Funktionen des betreffenden Webangebots im unterstützten Umfang nutzen, um zu bestimmen, welche Informationen Sie weitergeben möchten.\nBesondere Kategorien von personenbezogenen Daten. In Verbindung mit der Anmeldung zu einem Event oder Seminar und der Bereitstellung des Zugangs dazu bittet SAP Sie möglicherweise um bestimmte Angaben zu Ihrer Gesundheit, um ggf. die Bedürfnisse von Menschen mit Behinderungen oder bestimmten Ernährungs­anforderungen während der Veranstaltung berücksichtigen zu können. Die Nutzung solcher Angaben durch SAP beruht auf der von Ihnen erteilten Einwilligung.\nBeachten Sie bitte, dass SAP entsprechende Vorkehrungen nur treffen kann, wenn Sie eine etwaige Behinderung oder spezielle Ernährungsbedürfnisse angeben.\nVeranstaltungsdaten. Wenn Sie sich zu einer Veranstaltung, einem Seminar oder einem Webinar von SAP anmelden, kann SAP grundlegende Teilnehmerdaten (Ihren Namen, Ihr Unternehmen und Ihre E-Mail-Adresse) zum Zwecke des Informations- und Ideenaustauschs an andere Teilnehmer derselben Veranstaltung weitergeben.\nWeiterleitung Ihrer personenbezogenen Daten an andere SAP-Unternehmen. SAP kann Ihre personenbezogenen Daten an andere Unternehmen des SAP-Konzerns übermitteln. Eine aktuelle Liste der Unternehmen des SAP-Konzerns finden Sie hier. Im Falle einer Weiterleitung werden diese Unternehmen Ihre personenbezogenen Daten für die gleichen Zwecke und unter den gleichen Bedingungen nutzen, wie in Abschnitt C oben beschrieben.\nWiderruf einer gegebenen Einwilligung. Sie können eine im Rahmen dieser Datenschutzerklärung erteilte Einwilligung jederzeit widerrufen, indem Sie sie unter SAP-Shared-Services@sap.com zurückziehen. Im Falle des Widerrufs verarbeitet SAP die personenbezogenen Daten, für die die Einwilligung galt, nicht weiter, es sei denn, SAP ist dazu gesetzlich verpflichtet. Sollte SAP zur Aufbewahrung Ihrer personen­bezogenen Daten gesetzlich verpflichtet sein, wird die weitere Verarbeitung Ihrer personenbezogenen Daten entsprechend beschränkt, und die Daten werden nur für die gesetzlich vorgeschriebene Aufbewahrungsfrist gespeichert. Allerdings hat der Widerruf keine Wirkung auf die vergangene Verarbeitung von personenbezogenen Daten durch SAP bis zum Zeitpunkt des Widerrufs. Ferner kann SAP, soweit die Nutzung eines SAP-Angebots durch Sie Ihre vorherige Einwilligung erfordert, Ihnen den betreffenden Service (oder die Services, wenn Sie die Einwilligung zur Nutzung Ihres Profils durch SAP im SAP Cloud Platform Identity Authentication Service für mehrere SAP-Angebote widerrufen), das Angebot oder die Veranstaltung nach Ihrem Widerruf nicht (mehr) bereitstellen.\nD.  Russland-spezifische Bestimmungen\nFür Nutzer, die in der Russischen Föderation ansässig sind, gilt Folgendes:\nDie hier genannten Services sind nicht für Staatsbürger der Russischen Föderation, die ihren Wohnsitz in Russland haben, vorgesehen. Wenn Sie ein in Russland ansässiger russischer Staatsbürger sind, werden Sie hiermit darüber informiert, dass jegliche personenbezogenen Daten, die Sie in den Services eingeben, ausschließlich Ihrem eigenen Risiko und Ihrer eigenen Verantwortung unterliegen; dass Sie sich ausdrücklich damit einverstanden erklären, dass SAP Ihre personenbezogenen Daten erfassen darf und diese Daten in den USA und in anderen Ländern verarbeitet und dass Sie SAP nicht für eine etwaige Nichteinhaltung von Gesetzen der Russischen Föderation verantwortlich machen.\n\n"
+}

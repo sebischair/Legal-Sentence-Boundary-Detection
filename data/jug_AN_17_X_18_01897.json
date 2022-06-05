@@ -1,0 +1,941 @@
+{
+    "Annotations": [
+        {
+            "annotation": "01897",
+            "end": 54,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 60,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 197,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 210,
+            "start": 198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "98",
+            "end": 239,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 274,
+            "start": 273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 297,
+            "start": 296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 318,
+            "start": 317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 349,
+            "start": 348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 358,
+            "start": 350,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1038,
+            "start": 1037,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1077,
+            "start": 1076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1089,
+            "start": 1078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freisitzbetrieb",
+            "end": 1459,
+            "start": 1444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1470,
+            "start": 1460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9258",
+            "end": 1489,
+            "start": 1485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1495,
+            "start": 1490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingestellt",
+            "end": 1569,
+            "start": 1558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1664,
+            "start": 1655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beigeladenen",
+            "end": 1780,
+            "start": 1768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1833,
+            "start": 1822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1841,
+            "start": 1835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1843,
+            "start": 1842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1846,
+            "start": 1845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überschreiten",
+            "end": 2176,
+            "start": 2163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2179,
+            "start": 2178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 2596,
+            "start": 2593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2763,
+            "start": 2761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundstücksbereich",
+            "end": 2869,
+            "start": 2851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzubringen",
+            "end": 3081,
+            "start": 3069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3166,
+            "start": 3164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 3335,
+            "start": 3330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorsieht",
+            "end": 3593,
+            "start": 3585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetragen",
+            "end": 3944,
+            "start": 3933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 3948,
+            "start": 3947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4036,
+            "start": 4030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 4476,
+            "start": 4471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüchen",
+            "end": 4716,
+            "start": 4706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diesbezüglich",
+            "end": 4856,
+            "start": 4843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4859,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überschreiten",
+            "end": 5369,
+            "start": 5356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 5425,
+            "start": 5422,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5430,
+            "start": 5429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5433,
+            "start": 5432,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5660,
+            "start": 5659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 5851,
+            "start": 5842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 5916,
+            "start": 5910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 6067,
+            "start": 6062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6404,
+            "start": 6400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorsah",
+            "end": 6618,
+            "start": 6612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestandskräftig",
+            "end": 6729,
+            "start": 6714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6732,
+            "start": 6731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ruhestörung",
+            "end": 7024,
+            "start": 7013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergänzungsbescheids",
+            "end": 7128,
+            "start": 7109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 7286,
+            "start": 7283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 7624,
+            "start": 7621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landratsamtes",
+            "end": 7875,
+            "start": 7862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 8117,
+            "start": 8112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 8201,
+            "start": 8197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 8537,
+            "start": 8531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "blieben",
+            "end": 8807,
+            "start": 8800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 8878,
+            "start": 8874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beigeladene",
+            "end": 9129,
+            "start": 9118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 9346,
+            "start": 9341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 9551,
+            "start": 9544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 9871,
+            "start": 9865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stellungnahme",
+            "end": 9990,
+            "start": 9977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mit",
+            "end": 10246,
+            "start": 10243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlasst",
+            "end": 10324,
+            "start": 10314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 10327,
+            "start": 10326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermeiden",
+            "end": 10647,
+            "start": 10638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 10847,
+            "start": 10839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nürnberg",
+            "end": 10972,
+            "start": 10964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 11078,
+            "start": 11076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätige",
+            "end": 11421,
+            "start": 11412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darlegen",
+            "end": 11739,
+            "start": 11731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begonnen",
+            "end": 11809,
+            "start": 11801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 11995,
+            "start": 11989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Frage",
+            "end": 12134,
+            "start": 12129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 12137,
+            "start": 12136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überschreiten",
+            "end": 12918,
+            "start": 12905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 12921,
+            "start": 12920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 13009,
+            "start": 12999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 13013,
+            "start": 13011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 13160,
+            "start": 13150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interesse",
+            "end": 13224,
+            "start": 13215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 13343,
+            "start": 13340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 13347,
+            "start": 13345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beigezogen",
+            "end": 13478,
+            "start": 13468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 13533,
+            "start": 13525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 13683,
+            "start": 13675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 13687,
+            "start": 13685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 13691,
+            "start": 13689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 13777,
+            "start": 13771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 13781,
+            "start": 13779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13916,
+            "start": 13910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14378,
+            "start": 14374,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14499,
+            "start": 14498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 14726,
+            "start": 14720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14883,
+            "start": 14879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14986,
+            "start": 14980,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15248,
+            "start": 15247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bemessen",
+            "end": 15426,
+            "start": 15418,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15583,
+            "start": 15582,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15901,
+            "start": 15900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 16272,
+            "start": 16268,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16571,
+            "start": 16570,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16641,
+            "start": 16640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerecht",
+            "end": 16706,
+            "start": 16699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 16710,
+            "start": 16708,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17532,
+            "start": 17531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 17536,
+            "start": 17534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stützt",
+            "end": 17912,
+            "start": 17906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfassend",
+            "end": 18209,
+            "start": 18200,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18992,
+            "start": 18991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einwirken",
+            "end": 19317,
+            "start": 19308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 19439,
+            "start": 19434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 19615,
+            "start": 19613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 19799,
+            "start": 19794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 20110,
+            "start": 20103,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20470,
+            "start": 20469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 20688,
+            "start": 20679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 20692,
+            "start": 20690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerlegt",
+            "end": 20987,
+            "start": 20978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 20991,
+            "start": 20989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 21170,
+            "start": 21163,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21481,
+            "start": 21480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 21731,
+            "start": 21727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 22141,
+            "start": 22132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 22588,
+            "start": 22581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 22797,
+            "start": 22788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 22933,
+            "start": 22927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatten",
+            "end": 23164,
+            "start": 23158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergebnislos",
+            "end": 23383,
+            "start": 23372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beweisverfahren",
+            "end": 23567,
+            "start": 23552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruft",
+            "end": 23767,
+            "start": 23761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belegt",
+            "end": 24019,
+            "start": 24013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 24185,
+            "start": 24181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 24299,
+            "start": 24288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 24543,
+            "start": 24532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 24903,
+            "start": 24900,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25236,
+            "start": 25235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 25355,
+            "start": 25349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzeigen",
+            "end": 25495,
+            "start": 25486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 25862,
+            "start": 25851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinein",
+            "end": 26082,
+            "start": 26076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 26302,
+            "start": 26300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 26306,
+            "start": 26304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 26439,
+            "start": 26429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzustellen",
+            "end": 26576,
+            "start": 26564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 26580,
+            "start": 26578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 26655,
+            "start": 26651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuerlegen",
+            "end": 26898,
+            "start": 26886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 26902,
+            "start": 26900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsgerichtsbarkeit",
+            "end": 27047,
+            "start": 27021,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27330,
+            "start": 27329,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VG Ansbach, Beschluss v. 06.05.2019 – AN 17 X 18.01897\nTitel:\nKeine Zulässigkeit des selbständigen Beweisverfahrens (hier bzgl. Lärmimmissionen),\nwenn es sich um einen \"Ausforschungsbeweis\" handelt\nNormenketten:\nVwGO § 92 Abs. 3 S. 2, § 98\nZPO § 485 Abs. 2 S. 1, § 487 Nr. 4\nGastG § 5 Abs. 1 Nr. 3\nBayBO Art. 54 Abs. 2\nBImSchG § 22 Abs. 1 S. 1 Nr. 1\nLeitsatz:\nHat der Antragsteller in seiner Antragsschrift oder in der weiteren Folge der gewechselten\nSchriftsätze nicht dezidiert dazu vorgetragen, welche neuen Anknüpfungstatsachen seit den\nErmittlungen des Antragsgegners (hier: im Jahr 2015) das begehrte bauaufsichtliche Einschreiten\nuntermauern und dies auch nicht durch Vorlage entsprechender eigener, neuerer und\nnachvollziehbarer Messprotokolle und Ereignislisten o.ä. glaubhaft gemacht, stellt sich der begehrte\nSachverständigenbeweis im Zeitpunkt der gerichtlichen Entscheidung als unzulässiger\nAusforschungsbeweis dar, der den Antrag auf Durchführung eines selbständigen Beweisverfahrens\nnicht trägt (BayVGH BeckRS 2017, 128018). (Rn. 17) (red. LS Alexander Tauchert)\nSchlagworte:\nZulässigkeit eines selbstständigen Beweisverfahrens vor dem Verwaltungsgericht zur sachverständigen\nErmittlung von Lärmpegeln eines benachbarten Gastronomiefreisitzes zur Abwendung einer Klage auf\nbauaufsichtliches Einschreiten, Baugenehmigung, Bauvorhaben, Baugenehmigungsverfahren,\nGenehmigung, rechtliches Interesse, Gemarkung, Biergarten, Terrasse, Freisitzbetrieb\nFundstelle:\nBeckRS 2019, 9258\nTenor\n1. Soweit der Antrag zurückgenommen wurde, wird das Verfahren eingestellt.\n2. Im Übrigen wird der Antrag auf Durchführung eines selbständigen Beweisverfahrens abgelehnt.\n3. Der Antragsteller trägt die Kosten des Verfahrens einschließlich der außergerichtlichen Kosten der\nBeigeladenen.\n4. Der Streitwert wird auf 2.500,00 EUR festgesetzt.\nGründe\nI.\n1\nDer Antragsteller begehrt die Durchführung eines selbständigen Beweisverfahrens hinsichtlich der Frage,\nob die vom rückwärtigen Teil des Nachbargrundstücks FlNr. …, Gemarkung … im Zusammenhang mit einer\ndort von der Beigeladenen betriebenen Freisitzgastronomie ausgehenden Lärmimmissionen bestimmte\nPegelobergrenzen überschreiten.\n2\nMit Bescheid vom 13. Oktober 2010 erteilte das Landratsamt … der Beigeladenen die bauaufsichtliche\nGenehmigung zum Neubau eines Hotels auf den Grundstücken FlNr. … und …der Gemarkung … auf\nGrundlage einer Tekturplanung vom 19. August 2010. Auf dem Grundstück FlNr. … betreibt die\nBeigeladene zudem eine Gastronomie, die im westlichen Grundstücksbereich (hinterer Grundstücksbereich)\nauch eine Freisitzmöglichkeit hat. Der Antragsteller grenzt mit seinem mit einem von ihm und seinen Eltern\ngenutzten Wohngebäude bebauten Grundstück FlNr. … südlich direkt an das Grundstück FlNr. … an. Die\nTerrasse des Antragstellers befindet sich ebenfalls auf dem westlichen (hinteren) Grundstücksbereich. Im\nBaugenehmigungsverfahren zum Hotelneubau nutzte der Vater des Antragstellers, nachdem dieser aus der\nlokalen Presse vom Bauvorhaben der Beigeladenen erfahren hatte, die Möglichkeit, Einwendungen\nvorzubringen. Insbesondere kam es dem Vater des Antragstellers auf immissionsfachliche Belange an. In\ndiesem Zusammenhang trug er vor, dass die Immissionsrichtlinien für den bestehenden Biergarten auf dem\nGrundstück FlNr. … vom Bauherren nie eingehalten worden wären. Im weiteren Verfahren gelangte eine\nprivatrechtliche Vereinbarung, abgeschlossen am 29. Juli 2007 zwischen der Beigeladenen und den Eltern\ndes Antragstellers sowie diesem selbst, zur Akte der unteren Bauaufsichtsbehörde, die u.a. folgende\nRegelung vorsieht:\n„Von den Eigentümern des Grundstücks … (Flur-Nr. … Gemarkung …) wird ein regelmäßiger Terrassen-\n/Biergartenbetrieb im hinteren Bereich der … (Flur. Nr. … bzw. …) (Südwestlich von … ) der Firma Hotel …\nvon 7:00 bis 23:00 Uhr geduldet. Dieses Recht wird sinngemäß bei der Bereinigung der Grundstücksflächen\nin das Grundbuch bei Flur-Nr. … eingetragen.“\n3\nDer Wortteil „Biergarten“ im vorgenannten Vertragstext ist dabei durchgestrichen worden. Ebenfalls zur\nBauverwaltungsakte gelangte der Abdruck eines notariellen Kaufvertrages vom 18. April 2008, geschlossen\nzwischen dem Vater des Antragstellers und dem Geschäftsführer der Beigeladenen über einen\nTeilgrundstückskauf, in dessen Zuge auch eine privatrechtliche Duldungsregelung des auf dem Grundstück\nFlNr. … bestehenden Terrassenbetriebs durch den Eigentümer des Grundstücks FlNr. … und seine\nRechtsnachfolger aufgenommen wurde. Dabei verzichtete der Vater des Antragstellers als\nGrundstückseigentümer auf die Geltendmachung von Ansprüchen aus §§ 903 ff. BGB sowie aus\numweltschutzrechtlichen und etwaigen weiteren einschlägigen Vorschriften resultierenden Ansprüchen. Der\nVater des Antragstellers verpflichtete sich zur Bestellung einer auf dem Grundstück FlNr. … lastenden\nGrunddienstbarkeit diesbezüglich.\n4\nDer Baugenehmigungsbescheid vom 13. Oktober 2010 enthält folgende Auflage Nr. 12.:\n„Die Beurteilungspegel aller der vom Betrieb des Vorhabens ausgehenden Geräusche, einschließlich des\ndazugehörigen Fahrzeugverkehrs, dürfen im Hinblick auf die Summenwirkung mit anderen gewerblichen\nEmittenten und zusammen mit der bestehenden …-Gastronomie an der nächstgelegenen\nWohnnachbarschaft auf den Grundstücken Flur-Nr. …, und … einen Immissionsrichtwertanteil von tagsüber\n57 dB(A) nachts 42 dB(A) nicht überschreiten.\nDie Tagzeit beginnt um 6.00 Uhr und endet um 22.00 Uhr. (…)“\n5\nGegen die dem Vater des Antragstellers zugestellte bauaufsichtliche Genehmigung erhob jener Klage und\nAntrag auf einstweiligen Rechtsschutz zum Bayerischen Verwaltungsgericht Ansbach (Verfahren AN 9 K\n10.02346/AN 9 E 10.02345). Auch ein weiterer Nachbar erhob gegen die Baugenehmigung Klage\n(Verfahren AN 9 K 10.02353). Das Verfahren des einstweiligen Rechtsschutzes verlief für den Vater des\nAntragstellers erfolglos. Die Klage nahm der Vater des Antragstellers in der Folge zurück. Im Verfahren AN\n9 K 10.02353 schlossen die Parteien am 25. April 2012 einen Vergleich, der den Terrassenbetrieb der\nBeigeladenen zum Gegenstand hatte. Der Antragsgegner verpflichtete sich in dem geschlossenen\nVergleich dazu, in die bauaufsichtliche Genehmigung vom 13. Oktober 2010 eine weitere Auflage\naufzunehmen, wonach der letzte Ausschank (Speisen/Getränke) für den Terrassenbetrieb spätestens um\n21:30 Uhr erfolgen darf und der Betrieb in diesem Bereich um 22:00 Uhr zu enden habe. Am 5. Juli 2012\nerließ der Antragsgegner einen diesen Vergleich umsetzenden Ergänzungsbescheid, der die Aufnahme\neiner neuen Auflage Nr. 23 mit dem Inhalt des gerichtlichen Vergleichs in die Baugenehmigung vorsah.\nDieser Ergänzungsbescheid wurde u.a. dem Vater des Antragstellers zugestellt und in der Folge\nbestandskräftig.\n6\nMit undatiertem Schreiben, beim Landratsamt … am 20. August 2012 eingegangen, beschwerte sich der\nAntragsteller unter Bezugnahme auf den gerichtlichen Vergleich zum Terrassenbetrieb der Beigeladenen\nüber die aus seiner Sicht unzureichende Umsetzung und eine bestehende nächtliche Ruhestörung. Der\nAntragsgegner mahnte daraufhin die Beigeladene zur Einhaltung der Regelung des Ergänzungsbescheids.\nIm Oktober 2012 ging die Beschwerde einer weiteren Nachbarin wegen ruhestörenden Lärms, ausgehend\nvom Terrassenbetrieb der Beigeladenen beim Landratsamt ein. Im August 2013 wandte sich der Vater des\nAntragstellers an die Polizeiinspektion … und erstattete wegen störenden Lärms, ausgehend vom\nTerrassenbetrieb der Beigeladenen, eine Ordnungswidrigkeitenanzeige, die im Hinblick auf die polizeilich\ngetroffenen Feststellungen nach § 170 Abs. 2 StPO i.V.m. § 46 Abs. 1 OWiG eingestellt worden war. Im\nWeiteren wandte sich der Antragsteller mit Schreiben vom 6. Juli 2015 an das Landratsamt und bat unter\nAuflistung von im Beisein von Zeugen durchgeführte Lärmpegelmessungen aus den Monaten April bis Juli\n2015 um ein Einschreiten des Landratsamtes. Die zuständige Abteilungsleiterin des Landratsamtes\nvermerkte auf dem Schreiben des Antragstellers das Ergebnis einer amtsinternen Rücksprache, wonach\nu.a. die Beigeladene erneut hinsichtlich der Beschwerdesituation kontaktiert werden solle. Dies erfolgte mit\nSchreiben des Landratsamtes an die Beigeladene vom 22. Juli 2015. Mit Schreiben vom 27. Juli 2015\nwandten sich nun auch die Eltern des Antragstellers an das Landratsamt und legten dar, sie hätten im Juli\n2015 drei Messungen im Beisein von Zeugen, darunter einmal auch ein Polizeibeamter, vorgenommen, die\nein Ergebnis von durchschnittlich 61 bis 63 dB(A) ausgehend vom Terrassenbetrieb ergeben hätten. Der\nVater des Antragstellers und der Antragsteller selbst erstatteten zudem im Juli und August 2015 mehrere\nOrdnungswidrigkeitenanzeigen bei der Polizeiinspektion …, die jedoch hinsichtlich der daraufhin\nvorgenommenen Nachschau der Polizeibeamten ohne Ergebnis blieben. Explizit stellten die Polizeibeamten\nvor Ort keine Ruhestörungen fest. Das Landratsamt sah nach Eingang und Auswertung einer\nStellungnahme der Beigeladenen und des aufgrund einer am 28. Juli 2015 durchgeführten Ortseinsicht\ngewonnenen Eindrucks keine Anhaltspunkte für ein behördliches Einschreiten gegen die Beigeladene. Dies\nteilte das Landratsamt dann mit Schreiben vom 14. Januar 2016 der Bevollmächtigten des Antragstellers\nmit, die sich mit Anwaltsschriftsatz vom 15. Dezember 2015 zur Vertretung des Antragstellers angezeigt\nhatte. Letztmals wandte sich die Bevollmächtigte des Antragstellers mit Schriftsatz vom 28. Mai 2018 an\ndas Landratsamt und machte für den Antragsteller einen Anspruch auf bauaufsichtliches Einschreiten\ngeltend. Konkrete neue Verstöße der Beigeladenen wurden darin nicht dargelegt, sondern allgemein\nangegeben, der von der Beigeladenen betriebene Biergarten habe in den letzten Jahren expandiert und\nverzeichne in den Sommermonaten „enorme Lärmpegel“, die den Antragsteller und seine Eltern in deren\nnächtlicher Ruhe stören würden. Auch auf dieses Schreiben der Bevollmächtigten hin gab das Landratsamt\nder Beigeladenen Gelegenheit zur Stellungnahme. Einen förmlichen Bescheid an den Antragsteller\naufgrund des anwaltlichen Schriftsatzes vom 28. Mai 2018 erließ das Landratsamt nicht, sondern teilte das\nErgebnis seiner Prüfung der Bevollmächtigten des Antragstellers mit Schreiben vom 16. August 2018 mit.\nDas Landratsamt sah sich zum bauaufsichtlichen Einschreiten nicht veranlasst.\n7\nMit Antragsschrift vom 25. September 2018, bei Gericht am 27. September 2018 eingegangen, beantragt\nder Antragsteller die Durchführung eines selbständigen Beweisverfahrens, um einen Rechtsstreit mit dem\nAntragsgegner zur Durchsetzung eines von ihm angenommenen Anspruchs auf bauaufsichtlichen\nEinschreitens zu vermeiden. Der Antragsteller vertritt die Auffassung, der von ihm begehrte\nSachverständigenbeweis der Ermittlung von Lärmimmissionen betreffe den Zustand einer Sache und sei\nunter diesem Gesichtspunkt zulässig. Er verweist auf die dazu ergangene Rechtsprechung des\nSaarländischen Oberlandesgerichts und des Oberlandesgerichts Nürnberg. Dem Antragsteller stehe auch\nein rechtliches Interesse an der begehrten sachverständigen Feststellung zu. Insbesondere ergebe sich für\nden Antragsgegner eine Verpflichtung auf bauaufsichtliches Einschreiten wegen einer\nErmessensreduzierung auf Null, sofern der Sachverständigenbeweis die vom Antragsteller angegebene\nÜberschreitung der in Auflage Nr. 12 der der Beigeladenen erteilten bauaufsichtlichen Genehmigung\nfestgelegten Lärmpegel bestätige. Die aktuelle Situation des Freisitzbetriebes, der ausweislich der Werbung\nauf der Webseite der Beigeladenen nicht nur den Hotelgästen offen stehe, könne der Antragsteller mittels\nZeugen und einer Beschreibung, wann welche Arbeiten auf dem Freisitz vorgenommen werden und bis\nwann sich dort Gäste aufhielten, darlegen; die Biergartensaison habe im Jahr 2019 ansonsten noch nicht\nbegonnen. Mit Schreiben vom 28. Dezember 2018, per Telefax am selben Tag bei Gericht eingegangen,\nnahm die Bevollmächtigte des Antragstellers zwei der vormals drei gestellten Beweisfragen zurück. Zuletzt\nbeantragt der Antragsteller noch, durch Einholung eines schriftlichen Sachverständigengutachtens Beweis\nzu erheben über die Frage:\n8\nDer im rückwärtigen Grundstücksbereich an das Grundstück des Antragstellers mit der Flur-Nr. …,\nGemarkung …, angrenzende Biergarten der Hotel … mit der Flur-Nr. … bzw. …, Gemarkung …, verstößt\nwährend seiner Betriebszeit gegen die gemäß Ziffer II. Nr. 12. des Bescheides vom 13.10.2010 seitens des\nLandratsamtes … erlassenen Auflage dergestalt, dass die Beurteilungspegel aller der vom\nGaststättenbetrieb ausgehenden Geräusche, einschließlich des dazugehörenden Fahrzeugverkehrs, im\nHinblick auf die Summenwirkung mit anderen gewerblichen Emittenten und zusammen mit der bestehenden\n…-Gastronomie an der nächstgelegenen Wohnnachbarschaft den Immissionsrichtwertanteil von tagsüber\n57 dB(A) und nachts 42 dB(A) in den Zeiten des Biergartenbetriebs (Mai bis September) überschreiten.\n9\nAntragsgegner und Beigeladene beantragen jeweils, den Beweissicherungsantrag abzulehnen.\n10\nSie treten dem Vorbringen des Antragstellers entgegen und erachten den Antrag auf Durchführung eines\nselbständigen Beweisverfahrens als unzulässig. Es fehle dem Antragsteller das notwendige rechtliche\nInteresse. Auch betreffe die angestrebte Beweistatsache nicht den Zustand einer Sache im Sinne des § 485\nAbs. 2 Satz 1 Nr. 1 ZPO.\n11\nDas Gericht hat die Akte des Antragsgegners zum Bauantrag der Beigeladenen Nr. … und den dazu\ngehefteten Schriftverkehr beigezogen. In diese Akte haben die Beteiligten Einsicht genommen. Hinsichtlich\nder Einzelheiten wird auf die gewechselten Schriftsätze in der Gerichtsakte und den Inhalt der\nbeigezogenen Behördenakte Bezug genommen.\nII.\n12\nDer Antrag auf Durchführung eines selbstständigen Beweisverfahrens bleibt ohne Erfolg.\n13\nGemäß § 98 VwGO kann auch im verwaltungsgerichtlichen Verfahren ein selbstständiges Beweisverfahren\nnach § 485 ZPO durchgeführt werden. Nach § 485 Abs. 2 Satz 1 ZPO kann eine Partei, ohne dass ein\nRechtsstreit anhängig ist, die schriftliche Begutachtung durch einen Sachverständigen beantragen, wenn\nsie ein rechtliches Interesse daran hat, dass (1.) der Zustand einer Person oder der Zustand oder Wert\neiner Sache, (2.) die Ursache eines Personenschadens, Sachschadens oder Sachmangels, (3.) der\nAufwand für die Beseitigung eines Personenschadens, Sachschadens oder Sachmangels festgestellt wird.\nEin rechtliches Interesse ist anzunehmen, wenn die Feststellung der Vermeidung eines Rechtsstreits dienen\nkann (Satz 2). Letzteres träfe dann zu, wenn die vom Antragsteller behaupteten und unter Beweis gestellten\nTatsachen geeignet wären, den an sich verfolgten öffentlich-rechtlichen Anspruch des Antragstellers gegen\nden Antragsgegner zu tragen. Andererseits besteht kein rechtliches Interesse, wenn die dem\nSachverständigen zu stellenden Fragen für das letztendlich verfolgte Ziel ohne Bedeutung sind. An den\nNachweis eines berechtigten Interesses dürfen keine überspannten Anforderungen gestellt werden. Denn\nes kann nicht Sinn des selbstständigen Beweisverfahrens sein, die Erfolgsaussichten eines möglichen\nRechtsstreits zwischen den Beteiligten bis ins Einzelne zu begutachten (vgl. Lang, in: Sodan/Ziekow,\nVwGO, 5. Auflage 2018, § 98 Rn. 293 und 295, m. w. N.). Allerdings ist keine schematische Prüfung\nvorzunehmen, sondern maßgebend auf die besonderen Umstände des Einzelfalls abzustellen und danach\ndas rechtliche Interesse zu bemessen. Insbesondere können die Besonderheiten des\nVerwaltungsprozesses eine andere Beurteilung gebieten (BayVGH, B.v. 1.4.2014 - 13 S 14.558 - BeckRS\n2014, 50505). Diese Besonderheit rechtfertigt sich damit, dass sich der Verwaltungsprozess durch den\nAmtsermittlungsgrundsatz vom Zivilprozess unterscheidet und dies bei der entsprechenden Anwendung\nzivilprozessualer Reglungen nicht unberücksichtigt bleiben kann (BayVGH, a.a.O.; OVG Schleswig, B.v.\n22.1.1998 - 2 M 36/97 - juris). Im Hinblick auf das Zulässigkeitserfordernis des § 485 Abs. 2 Satz 2 ZPO ist\nfür ein selbständiges Beweisverfahren vor dem Verwaltungsgericht insoweit bedeutsam, dass die\nMöglichkeit der Vermeidung des Rechtsstreits nicht bereits daraus herzuleiten ist, dass der Antragsteller bei\neinem für ihn ungünstigen Sachverständigengutachten von einer Klageerhebung absehen wird. Sondern es\nist bei der Prognose über die Vermeidung des Rechtsstreits vor allem auch darauf abzustellen, ob der\nAntragsgegner, wenn das Gutachten für den Antragsteller günstig ausfällt, dem Verlangen des\nAntragstellers nachkommen wird (OVG Schleswig, B.v. 19.9.1991 - 2 P 1/91 - NVwZ-RR 1992, 444). All\ndies hat der Antragsteller glaubhaft zu machen (§ 487 Nr. 4 ZPO). Diesem Maßstab wird der Antrag des\nAntragstellers nicht gerecht.\n14\nDie Kammer lässt es dahingestellt, ob die Zulässigkeit des Antrages auf Durchführung eines selbständigen\nBeweisverfahrens bereits daran scheitert, dass - wenn man der Rechtsprechung insoweit folgt - von Teilen\nder land- und oberlandesgerichtlichen Rechtsprechung angenommen wird, die Feststellung von\nLärmstörungen, wie sie beispielsweise von einer Gaststätte ausgehen sollen, könnten nicht Gegenstand\neines selbständigen Beweisverfahrens sein, da sie nicht den Zustand einer Sache im Sinne des § 485 Abs.\n2 Satz 1 Nr. 1 Fall 2 Unterfall 1 ZPO beträfen (vgl. LG Hamburg, B.v. 30.7.1999 - 307 T 74/99 - BeckRS\n1999, 11726; OLG Frankfurt a.M., B.v. 17.9.2015 - 16 W 48/15 - IBRRS 2016, 0056; a.A. dagegen: OLG\nSaarbrücken, B.v. 5.1.2015 - 5 W 89/14 - NJOZ 2015, 576; ThürOLG, B.v. 15.4.2008 - 4 W 171/08 - IBRRS\n2008, 1798).\n15\nEbenso wenig scheitert die Zulässigkeit des Antrages daran, dass der Antragsteller sich zur Begründung\neines öffentlich-rechtlichen Anspruches auf bauaufsichtliches Einschreiten gegen die Beigeladene aus Art.\n54 Abs. 2 BayBO auf die aus seiner Sicht nachbarschützende Auflage Nr. 12 zum der der Beigeladenen\nerteilten bauaufsichtlichen Genehmigung vom 13. Oktober 2010 stützt. Ob dieser Auflage tatsächlich die ihr\nvom Antragsteller zugedachte Funktion einer drittschützenden Regelung, die geeignet ist, ein\nbauaufsichtliches Einschreiten gegen den Terrassenbetrieb der Beigeladenen zu begründen, zukommt,\nprüft das Gericht im selbständigen Beweisverfahren nicht umfassend. Entgegen der Auffassung der\nBeigeladenen dürften aber die Wortlautfassung (insbesondere ist auch das Grundstück des Antragstellers\nvom Wortlaut der Auflage umfasst und bezieht sich die Auflage auf eine Summenwirkung u.a. mit dem\nbestehenden Gastronomiebetrieb) und der Gang des bauaufsichtlichen Genehmigungsverfahrens\neinschließlich des sich anschließenden Gerichtsverfahrens, wie es sich aus der vorgelegten Behördenakte\nvermittelt, dafür sprechen, dass mit der Auflage Nr. 12 jedenfalls das zumutbare Maß der „erheblichen\nNachteile“ oder „erhebliche Belästigungen für die Nachbarschaft“ gemäß § 3 Abs. 1 BImSchG konkretisiert\nist, auf das sich der Antragsteller als betroffener Nachbar auch im Einzelfall berufen kann (§ 22 Abs. 1 Satz\n1 Nr. 1 BImSchG u. § 5 Abs. 1 Nr. 3 GastG). Weder der privatrechtlichen Vereinbarung vom 29. Juli 2007\nnoch dem Beschluss des Verwaltungsgerichts Ansbach vom 24. November 2010 zum Verfahren AN 9 E\n10.02345 lässt sich entnehmen, der Antragsteller dulde bedingungslos Lärmimmissionen, die vom\nbenachbarten Terrassenbetrieb der Beigeladenen auf sein Grundstück einwirken. Der zitierte Beschluss des\nVerwaltungsgerichts verhält sich zu der hier in Rede stehenden Problematik vielmehr gar nicht. Die\nprivatrechtliche Vereinbarung stellt ihrem Wortlaut nach nur auf die grundsätzliche Duldung des\nregelmäßigen Terrassenbetriebs innerhalb eines bestimmten Zeitkorridors ab. Einer Auslegung der\nprivatrechtlichen Vereinbarung vom 29. Juli 2007, die die Auffassung der Beigeladenen stützt, bedarf es im\nselbständigen Beweisverfahren darüber hinaus aber nicht. Für die hier allein vorzunehmende Prüfung, ob\nsich der Antragsteller ersichtlich auf einen bzw. keinen öffentlich-rechtlich geregelten Anspruch gegen den\nAntragsgegner berufen kann, wozu die glaubhaft gemachten Tatsachen zugrunde zu legen sind, genügt es,\ndass die Möglichkeit eines solchen Anspruches besteht. Die Kammer lässt es zudem insoweit genügen,\ndass dem Antragsteller im Regelfall „nur“ ein Anspruch auf ermessensfehlerfreie Entscheidung hinsichtlich\nseines Begehrens auf (bauaufsichtliches) Einschreiten der Verwaltung zustehen kann (vgl. VGH Kassel,\nB.v. 12.4.2018 - 2 B 227/18 - BeckRS 2018, 9397; BayVGH, B.v. 18.6.2008 - 9 ZB 07.497 - BeckRS 2008,\n28071). Ob dieser Anspruch sich folglich zu einem Schutzanspruch auf Einschreiten wegen einer möglichen\nErmessensreduzierung auf Null verdichtet haben könnte, ist für das selbständige\nBeweissicherungsverfahren ohne Bedeutung.\n16\nDiese Möglichkeit eines Anspruchs auf ermessensfehlerfreie Entscheidung ist dabei nicht schon durch den\nErgänzungsbescheid vom 5. Juli 2012 sowie - wie gezeigt - die vorgenannte privatrechtliche Vereinbarung\nzwischen Antragsteller/Vater des Antragstellers und Beigeladener offenkundig widerlegt.\n17\nDie Möglichkeit eines Anspruchs des Antragstellers auf ermessensfehlerfreie Bescheidung seines\nBegehrens auf bauaufsichtliches Einschreiten ist gleichwohl nicht glaubhaft gemacht. Der vom Antragsteller\nbegehrte Sachverständigenbeweis stellt sich zum maßgeblichen Zeitpunkt der gerichtlichen Entscheidung\nals unzulässiger Ausforschungsbeweis dar, der den Antrag auf Durchführung eines selbständigen\nBeweisverfahrens nicht trägt (BayVGH, B.v. 10.10.2017 - 15 C 14.1592 - BeckRS 2017, 128018). Zwar\nwäre eine sachverständig nachgewiesene Überschreitung der in Auflage Nr. 12 zur bauaufsichtlichen\nGenehmigung vom 13. Oktober 2010 angegebenen Lärmwerte ein gewichtiges Indiz, das in die\nErmessenserwägungen des Antragsgegners einzustellen wäre. Auch kann sich der Antragsgegner nicht\ndarauf zurückziehen, eigene Messungen mangels vorhandener Messgeräte nicht vornehmen zu können, da\nihm im Rahmen der behördlichen Amtsermittlungspflicht ggf. selbst die Pflicht zur Beauftragung eines\nimmissionsfachlichen Gutachtens treffen würde, wenn ihm konkrete Anhaltspunkte für eine konstante\nLärmpegelüberschreitung der vom Antragsteller behaupteten Art vorliegen. Auf der anderen Seite hat der\nAntragsteller weder in seiner Antragsschrift oder in der weiteren Folge der gewechselten Schriftsätze\ndezidiert dazu vorgetragen, welche neuen Anknüpfungstatsachen seit den Ermittlungen des\nAntragsgegners im Jahr 2015 das begehrte bauaufsichtliche Einschreiten untermauern, noch hat er dies\ndurch Vorlage entsprechender eigener, neuerer und nachvollziehbarer Messprotokolle und Ereignislisten\no.ä. glaubhaft gemacht. Dazu lassen sich insbesondere auch keine Ansätze aus den zur Antragschrift\neingereichten Anlagen, v.a. dem Schriftsatz der Bevollmächtigten des Antragstellers an den Antragsgegner\nvom 28. Mai 2018, entnehmen. Zutreffend weist der Antragsgegner darauf hin, dass der Vortrag des\nAntragstellers in diesem Punkt pauschal und unsubstantiiert bleibt. Zwar lassen sich aus der vorgelegten\nBehördenakte des Antragsgegners einzelne Ereignisse entnehmen, bei denen der Antragsteller oder sein\nVater unter Vorlage singulärer Messprotokolle Ordnungswidrigkeitenanzeigen gefertigt hatten. Diese\ndatieren jedoch sämtlich aus den Jahren 2013 bis 2015, beschränkten sich auf nur wenige (behauptete)\nVerstöße und verliefen im Ergebnis der durchgeführten behördlichen bzw. polizeilichen Ermittlungen\nergebnislos. Neuere Ereignisse erheblicher Lärmüberschreitungen behauptet der Antragsteller dagegen\nweder substantiiert gegenüber dem Antragsgegner noch im aktuellen gerichtlichen Beweisverfahren. Auch\ndie Ausführungen im Schriftsatz vom 18. April 2019 lassen nicht eindeutig erkennen, ob sich der\nAntragsteller hierbei auf die Ereignisse aus dem Jahr 2015 oder auf aktuelle Wahrnehmungen beruft.\nSoweit der Antragsteller aktuelle Wahrnehmungen vortragen lassen sollte, bleiben diese hinsichtlich der\nLärmproblematik durch rein subjektives Empfinden des Antragstellers geprägt und werden nicht mittels\nneuer, eigener Messprotokolle objektiv belegt. Aus der Behördenakte ist dem gegenüber nicht zu\nentnehmen, dass der Antragsgegner auf die früheren Beschwerden des Antragstellers vollständig untätig\ngeblieben wäre. Ob die vorgenommenen Ermittlungen des Landratsamtes unzureichend waren, braucht das\nGericht nicht zu entscheiden. Ein völliges, u.U. sogar jahrelanges Untätigbleiben der Behörde, das aus sich\nheraus bereits die Möglichkeit eines Anspruchs des Antragstellers auf ermessensgerechtes Tätigwerden\nnahelegt, ist jedenfalls aus der Behördenakte nicht ersichtlich. Im Ergebnis stellt sich daher der\nangestrengte Sachverständigenbeweis als zur Ausforschung von Anhaltspunkten dienend dar, die es dem\nAntragsteller erst ermöglichen sollen, einen Anspruch gegenüber dem Antragsgegner zu bekräftigen,\nnachdem das Landratsamt offenkundig die vom Antragsteller selbst vorgenommenen Messungen als nicht\naussagekräftig erachtet hat. In diesem Zusammenhang bemerkt das Gericht, dass es allerdings auch nicht\nin die Verantwortungssphäre des Antragstellers fällt, erst eigene gerichtsfeste Messungen vorzunehmen,\nbevor das Landratsamt sich zur Aufnahme von Ermittlungen nach Art. 24 BayVwVfG veranlasst sieht (VG\nFreiburg, U.v. 26.9.2017 - 3 K 2517/15 - juris Rn. 65). Insoweit genügt der Vortrag konkreter Anhaltspunkte,\ndie ein bauaufsichtliches Einschreiten möglich erscheinen lassen. Solche konkreten Anhaltspunkte kann der\nAntragsteller grundsätzlich auch durch eigene Lärmpegelmessungen als „Störungsprotokoll“ aufzeigen.\nWelche Aussagekraft solche „Störungsprotokolle“ im Einzelnen etwa hinsichtlich der Messdauer, des\nMesszeitpunktes, des Messortes und der Messhäufigkeit aufweisen müssen, um ein bauaufsichtliches\nErmitteln und Einschreiten des Antragsgegners (auch gegenüber der Beigeladenen) zu begründen, braucht\ndas Gericht für den vorliegenden Fall ebenfalls nicht zu entscheiden. Dass die Beigeladene in den\nSommermonaten des Jahres mit ihrem Freisitzbetrieb die beauflagten Lärmpegel überschreitet, behauptet\nder Antragsteller hier jedenfalls zum gegenwärtigen Zeitpunkt letztlich ins Blaue hinein. Denn den von ihm\nbzw. seinem Vater vorgenommenen Messungen aus dem Jahr 2015 (als objektivierte konkrete\nAnhaltspunkte) kommt nach Auffassung des Gerichts keine Aussagekraft hinsichtlich der aktuellen Situation\nmehr zu.\n18\nDer Antrag auf Durchführung eines selbständigen Beweisverfahrens erweist sich folglich im Ergebnis als\nunzulässig und war abzulehnen. Soweit der Antrag teilweise zurückgenommen wurde, war das Verfahren in\nentsprechender Anwendung des § 92 Abs. 1 und 3 VwGO einzustellen.\n19\nDie Kostenfolge ergibt sich aus §§ 154 Abs. 1, 155 Abs. 2, 162 Abs. 3 VwGO. Da die Beigeladene einen\nAntrag gestellt und sich damit einem Kostenrisiko ausgesetzt hat, entspricht es der Billigkeit, dem\nAntragsteller insoweit als unterlegenen Beteiligten auch die außergerichtlichen Kosten der Beigeladenen\naufzuerlegen.\n20\nDie Streitwertfestsetzung entnimmt das Gericht aus § 52 Abs. 1 GKG i.V.m. Ziffer 9.7.1 des\nStreitwertkatalogs für die Verwaltungsgerichtsbarkeit. Den so zugrunde gelegten Wert für einen\nHauptsacheanspruch eines Nachbarn auf bauaufsichtliches Einschreiten in Höhe von 7.500,00 EUR hat das\nGericht für die vorliegende Verfahrensart auf ein Drittel, mithin auf 2.500,00 EUR ermäßigt (BayVGH, B.v.\n23.8.2011 - 2 CS 11.1218 - juris).\n\n"
+}

@@ -1,0 +1,389 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 128,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 329,
+            "start": 323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 551,
+            "start": 544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 681,
+            "start": 674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 815,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 900,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 937,
+            "start": 922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KG",
+            "end": 992,
+            "start": 990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1127,
+            "start": 1124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1377,
+            "start": 1371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1490,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1600,
+            "start": 1590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsart",
+            "end": 1696,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 1712,
+            "start": 1698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 1756,
+            "start": 1733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 1827,
+            "start": 1820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1922,
+            "start": 1920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1984,
+            "start": 1976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 2006,
+            "start": 1989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 2082,
+            "start": 2077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 2149,
+            "start": 2140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandweg",
+            "end": 2180,
+            "start": 2170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2235,
+            "start": 2228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Packstationen",
+            "end": 2271,
+            "start": 2258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 2285,
+            "start": 2276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2300,
+            "start": 2286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2322,
+            "start": 2304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2385,
+            "start": 2377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzend",
+            "end": 2417,
+            "start": 2408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2555,
+            "start": 2552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterveräußern",
+            "end": 2635,
+            "start": 2620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2886,
+            "start": 2884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommen",
+            "end": 3053,
+            "start": 3043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 3074,
+            "start": 3058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3095,
+            "start": 3091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 3284,
+            "start": 3281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 3463,
+            "start": 3451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3593,
+            "start": 3587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3615,
+            "start": 3611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3856,
+            "start": 3851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rügepflicht",
+            "end": 3937,
+            "start": 3926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 4110,
+            "start": 4107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4180,
+            "start": 4175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 4213,
+            "start": 4204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 4311,
+            "start": 4292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 4433,
+            "start": 4429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 4526,
+            "start": 4512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 4623,
+            "start": 4614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4815,
+            "start": 4809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 4916,
+            "start": 4909,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5133,
+            "start": 5132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5813,
+            "start": 5810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 5992,
+            "start": 5982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 6004,
+            "start": 5997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6398,
+            "start": 6395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 6870,
+            "start": 6866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 6931,
+            "start": 6917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 6952,
+            "start": 6937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 7097,
+            "start": 7096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 7232,
+            "start": 7226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 7257,
+            "start": 7238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 7340,
+            "start": 7330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftssitz",
+            "end": 7608,
+            "start": 7595,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop durch Verbraucher und Unternehmer gelten die nachfolgenden AGB.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\nGegenüber Unternehmern gelten diese AGB auch für künftige Geschäftsbeziehungen, ohne dass wir nochmals auf sie hinweisen müssten. Verwendet der Unternehmer entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen, wird deren Geltung hiermit widersprochen; sie werden nur dann Vertragsbestandteil, wenn wir dem ausdrücklich zugestimmt haben.\n2. Vertragspartner, Vertragsschluss\nDer Kaufvertrag kommt zustande mit Agire GmbH & Co. KG.\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung.\nWann der Vertrag mit uns zustande kommt, richtet sich nach der von Ihnen gewählten Zahlungsart: Bezahlmethoden\n3. Vertragssprache, Vertragstextspeicherung\nDie für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.\nWir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per E-Mail zu. Den Vertragstext können Sie in unserem Kunden-Login einsehen.\n4. Lieferbedingungen\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\nWir liefern nur im Versandweg. Eine Selbstabholung der Ware ist leider nicht möglich.\nWir liefern nicht an Packstationen.\n5. Bezahlung\nBezahlmethoden\n6. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\nFür Unternehmer gilt ergänzend: Wir behalten uns das Eigentum an der Ware bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung vor. Sie dürfen die Vorbehaltsware im ordentlichen Geschäftsbetrieb weiterveräußern; sämtliche aus diesem Weiterverkauf entstehenden Forderungen treten Sie – unabhängig von einer Verbindung oder Vermischung der Vorbehaltsware mit einer neuen Sache - in Höhe des Rechnungsbetrages an uns im Voraus ab, und wir nehmen diese Abtretung an. Sie bleiben zur Einziehung der Forderungen ermächtigt, wir dürfen Forderungen jedoch auch selbst einziehen, soweit Sie Ihren Zahlungsverpflichtungen nicht nachkommen.\n7. Transportschäden\nFür Verbraucher gilt: Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\nFür Unternehmer gilt: Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung geht auf Sie über, sobald wir die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert haben. Unter Kaufleuten gilt die in § 377 HGB geregelte Untersuchungs- und Rügepflicht. Unterlassen Sie die dort geregelte Anzeige, so gilt die Ware als genehmigt, es sei denn, dass es sich um einen Mangel handelt, der bei der Untersuchung nicht erkennbar war. Dies gilt nicht, falls wir einen Mangel arglistig verschwiegen haben.\n8. Gewährleistung und Garantien\nSoweit nicht nachstehend ausdrücklich anders vereinbart, gilt das gesetzliche Mängelhaftungsrecht. Für Verbraucher beträgt die Verjährungsfrist für Mängelansprüche bei gebrauchten Sachen ein Jahr ab Ablieferung der Ware.\nFür Unternehmer beträgt die Verjährungsfrist für Mängelansprüche ein Jahr ab Gefahrübergang; die gesetzlichen Verjährungsfristen für den Rückgriffsanspruch nach § 478 BGB bleiben unberührt.\nGegenüber Unternehmern gelten als Vereinbarung über die Beschaffenheit der Ware nur unsere eigenen Angaben und die Produktbeschreibungen des Herstellers, die in den Vertrag einbezogen wurden; für öffentliche Äußerungen des Herstellers oder sonstige Werbeaussagen übernehmen wir keine Haftung.\nIst die gelieferte Sache mangelhaft, leisten wir gegenüber Unternehmern zunächst nach unserer Wahl Gewähr durch Beseitigung des Mangels (Nachbesserung) oder durch Lieferung einer mangelfreien Sache (Ersatzlieferung).\nDie vorstehenden Einschränkungen und Fristverkürzungen gelten nicht für Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung sowie Arglist, bei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf (Kardinalpflichten), im Rahmen eines Garantieversprechens, soweit vereinbart, soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nInformationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.\n9. Haftung\nFür Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränkt bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung,  bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nBei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n10. Streitbeilegung\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.\nZur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.\n11. Schlussbestimmungen\nSind Sie Unternehmer, dann gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\nSind Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen uns und Ihnen unser Geschäftssitz.\n\n\n\n"
+}

@@ -1,0 +1,773 @@
+{
+    "Annotations": [
+        {
+            "annotation": "573",
+            "end": 50,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wasserkraftanlage",
+            "end": 105,
+            "start": 88,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 118,
+            "start": 106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 145,
+            "start": 144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 181,
+            "start": 180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 193,
+            "start": 182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Laichplatz",
+            "end": 592,
+            "start": 582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 603,
+            "start": 593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "225",
+            "end": 654,
+            "start": 651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 665,
+            "start": 655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8694",
+            "end": 684,
+            "start": 680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 690,
+            "start": 685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 746,
+            "start": 737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 809,
+            "start": 803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 887,
+            "start": 876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 895,
+            "start": 889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 897,
+            "start": 896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 900,
+            "start": 899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erlaubnis",
+            "end": 1130,
+            "start": 1121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1133,
+            "start": 1132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ordnung",
+            "end": 1425,
+            "start": 1418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragsunterlagen",
+            "end": 1496,
+            "start": 1479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeholt",
+            "end": 1666,
+            "start": 1657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgestellt",
+            "end": 1783,
+            "start": 1771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1786,
+            "start": 1785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 2602,
+            "start": 2591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2807,
+            "start": 2805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 2979,
+            "start": 2970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstünden",
+            "end": 3097,
+            "start": 3082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 3183,
+            "start": 3174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3186,
+            "start": 3185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 3591,
+            "start": 3581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterhin",
+            "end": 3681,
+            "start": 3672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlägen",
+            "end": 3763,
+            "start": 3755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3767,
+            "start": 3765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3770,
+            "start": 3769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 3809,
+            "start": 3803,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3979,
+            "start": 3978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3982,
+            "start": 3981,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4126,
+            "start": 4125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4129,
+            "start": 4128,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4567,
+            "start": 4566,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4876,
+            "start": 4875,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5293,
+            "start": 5292,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5674,
+            "start": 5673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5677,
+            "start": 5676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 5793,
+            "start": 5781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 5847,
+            "start": 5842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 5905,
+            "start": 5895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5908,
+            "start": 5907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 6147,
+            "start": 6140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestützt",
+            "end": 6246,
+            "start": 6238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6464,
+            "start": 6461,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6885,
+            "start": 6884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "es",
+            "end": 6901,
+            "start": 6899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6905,
+            "start": 6903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begründung",
+            "end": 6999,
+            "start": 6989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 7214,
+            "start": 7213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorhabens",
+            "end": 7497,
+            "start": 7488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 7754,
+            "start": 7749,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8083,
+            "start": 8082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 8287,
+            "start": 8277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausführungen",
+            "end": 8378,
+            "start": 8366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8382,
+            "start": 8380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 8628,
+            "start": 8623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8787,
+            "start": 8784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 9260,
+            "start": 9247,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9325,
+            "start": 9324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 9691,
+            "start": 9683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 9694,
+            "start": 9693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9697,
+            "start": 9695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargelegt",
+            "end": 9820,
+            "start": 9811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9824,
+            "start": 9822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 10064,
+            "start": 10057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 10422,
+            "start": 10411,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10671,
+            "start": 10670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 10784,
+            "start": 10781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10788,
+            "start": 10786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 11041,
+            "start": 11037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urteilsgründen",
+            "end": 11121,
+            "start": 11107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 11421,
+            "start": 11413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinander",
+            "end": 11503,
+            "start": 11492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11824,
+            "start": 11820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12039,
+            "start": 12036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darzulegen",
+            "end": 12553,
+            "start": 12543,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13085,
+            "start": 13084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 13089,
+            "start": 13087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 13284,
+            "start": 13281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 13414,
+            "start": 13409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 13685,
+            "start": 13680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 13775,
+            "start": 13768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13779,
+            "start": 13777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 13949,
+            "start": 13943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 14176,
+            "start": 14168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14244,
+            "start": 14238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 14248,
+            "start": 14246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 14336,
+            "start": 14333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14340,
+            "start": 14338,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14950,
+            "start": 14949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 14979,
+            "start": 14975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14983,
+            "start": 14981,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15215,
+            "start": 15214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 15291,
+            "start": 15288,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15559,
+            "start": 15558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15563,
+            "start": 15561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 15746,
+            "start": 15738,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15861,
+            "start": 15860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 15865,
+            "start": 15863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genügt",
+            "end": 16112,
+            "start": 16106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16116,
+            "start": 16114,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16721,
+            "start": 16720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17048,
+            "start": 17045,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17277,
+            "start": 17276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 17339,
+            "start": 17334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 17343,
+            "start": 17341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fragestellungen",
+            "end": 17429,
+            "start": 17414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 17650,
+            "start": 17642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 18174,
+            "start": 18165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beantwortung",
+            "end": 18557,
+            "start": 18545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "formuliert",
+            "end": 18608,
+            "start": 18598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 18745,
+            "start": 18738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fragestellung",
+            "end": 18818,
+            "start": 18805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 18822,
+            "start": 18820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 18877,
+            "start": 18873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 18972,
+            "start": 18969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 18976,
+            "start": 18974,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19098,
+            "start": 19097,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VGH München, Beschluss v. 08.05.2019 – 8 ZB 17.573\nTitel:\nBewilligung zum Betrieb einer Wasserkraftanlage\nNormenketten:\nVwGO § 124 Abs. 2 Nr. 1-3\nWHG § 8 Abs. 1, § 12 Abs. 1, Abs. 2\nSchlagworte:\nAntrag auf Zulassung der Berufung, ernstliche Zweifel an der Richtigkeit des erstinstanzlichen Urteils\n(verneint), Doppelbegründung eines Urteils, Bewirtschaftungsermessen, Ermessensreduzierung auf null\n(verneint), Ermessensreduzierung auf Null, Wasserkraftanlagenbetrieb, wasserrechtliche Bewilligung,\nbeschränkte Erlaubnis, Fischaufstiegshilfe, doppelt begründetes Urteil, notwendiger Laichplatz\nVorinstanz:\nVG Bayreuth, Urteil vom 20.01.2017 – B 2 K 16.225\nFundstelle:\nBeckRS 2019, 8694\nTenor\nI. Der Antrag auf Zulassung der Berufung wird abgelehnt.\nII. Der Kläger hat die Kosten des Antragsverfahrens zu tragen.\nIII. Der Streitwert für das Antragsverfahren wird auf 5.000 Euro festgesetzt.\nGründe\nI.\n1\nDer Kläger begehrt eine wasserrechtliche Bewilligung zum Betrieb einer Wasserkraftanlage an der S.,\nhilfsweise die Verpflichtung zur Neubescheidung seines Antrags sowie weiter hilfsweise die Erteilung einer\nbeschränkten Erlaubnis.\n2\nDer Kläger beantragte bei der Beklagten, einer kreisfreien Stadt, am 19. Juli 2007 unter Einreichung von\nPlanunterlagen eine Bewilligung für den Umbau einer bestehenden Wehranlage und für die Errichtung einer\nWasserkraftanlage mit Fischaufstiegshilfe an der S., einem Gewässer erster Ordnung. Mit Schreiben vom\n19. November 2007 ergänzte er die Antragsunterlagen. Im Verwaltungsverfahren wurden verschiedene\nStellungnahmen, unter anderem des zuständigen Wasserwirtschaftsamts sowie der Fischereifachberatung\ndes Bezirks O. eingeholt. Zwischenzeitlich wurde ein Vorkommen des Bachneunauges im Bereich des\nstreitgegenständlichen Vorhabens festgestellt.\n3\nEine vom Kläger erhobene Klage auf Erteilung einer wasserrechtlichen Bewilligung wurde durch\nübereinstimmende Erledigungserklärung in der mündlichen Verhandlung des Verwaltungsgerichts Bayreuth\nvom 11. Juni 2015 beendet, nachdem sich der Kläger verpflichtet hatte, bis spätestens Ende Juli 2015 aus\nseiner Sicht prüffähige Planunterlagen zu einer festen Stauzielerhöhung vorzulegen mit dem Ziel, eine\nbeschränkte wasserrechtliche Erlaubnis zu erhalten (und nur hilfsweise den ursprünglichen Antrag auf\nErteilung einer Bewilligung in der Fassung vom 19. November 2007 aufrecht zu erhalten) und nachdem die\nBeklagte zugesagt hatte, auf eigene Kosten die naturschutzfachlichen Fragen zu klären, gegebenenfalls\nAuflagenvorschläge zu unterbreiten und über den gestellten Antrag bis spätestens 1. März 2016 zu\nentscheiden. Auf das klägerische Schreiben vom 28. Juli 2015, dem ergänzende Unterlagen beigefügt\nworden waren, lehnte die Beklagte den Antrag auf Errichtung der Wasserkraftanlage mit Bescheid vom 23.\nFebruar 2016 ab. Der hilfsweise aufrecht erhaltene Antrag vom 19. Juli 2007 in der Fassung vom 19.\nNovember 2007 auf Erteilung einer Bewilligung für die Maßnahme wurde ebenfalls abgelehnt. Zur\nBegründung wurde im Wesentlichen darauf abgestellt, dass zwingende Versagungsgründe dem Vorhaben\nentgegenstünden. Zudem wurde die Maßnahme unter Bezugnahme auf das Bewirtschaftungsermessen\nabgelehnt.\n4\nDas Verwaltungsgericht hat die daraufhin erhobene Klage auf Verpflichtung zur Erteilung einer Bewilligung\nder Maßnahmen gemäß Antrag vom 19. Juli 2007 in der Fassung vom 19. November 2007 sowie hilfsweise\nauf Neuverbescheidung dieses Antrags unter Beachtung der Rechtsauffassung des Gerichts sowie weiter\nhilfsweise auf Erteilung einer beschränkten Erlaubnis gemäß dem Antrag vom 28. Juli 2015 abgewiesen.\nMit seinem Antrag auf Zulassung der Berufung verfolgt der Kläger sein Begehren weiterhin. Er beruft sich\nvor allem darauf, dass keine zwingenden Versagungsgründe vorlägen.\nII.\n5\nDer Zulassungsantrag hat keinen Erfolg. Die vom Kläger geltend gemachten Zulassungsgründe wurden\nnicht hinreichend dargelegt oder liegen nicht vor (vgl. § 124 Abs. 2, § 124a Abs. 4 Satz 4, Abs. 5 Satz 2\nVwGO).\n6\n1. Aus dem Vorbringen des Klägers ergeben sich keine ernstlichen Zweifel an der Richtigkeit des\nangefochtenen Urteils (§ 124 Abs. 2 Nr. 1 VwGO).\n7\nErnstliche Zweifel an der Richtigkeit der verwaltungsgerichtlichen Entscheidung im Sinn des § 124 Abs. 2\nNr. 1 VwGO bestehen nur, wenn einzelne tragende Rechtssätze oder einzelne erhebliche\nTatsachenfeststellungen des Verwaltungsgerichts durch schlüssige Gegenargumente infrage gestellt\nwerden (vgl. BVerfG, B.v. 9.6.2016 - 1 BvR 2453/12 - NVwZ 2016, 1243 = juris Rn. 16; B.v. 16.7.2013 - 1\nBvR 3057/11 - BVerfGE 134, 106 = juris Rn. 36). Sie sind nicht erst dann gegeben, wenn bei der im\nZulassungsverfahren allein möglichen summarischen Überprüfung der Erfolg des Rechtsmittels\nwahrscheinlicher ist als der Misserfolg (vgl. BVerfG, B.v. 16.1.2017 - 2 BvR 2615/14 - IÖD 2017, 52 = juris\nRn. 19; B.v. 3.3.2004 - 1 BvR 461/03 - BVerfGE 110, 77/83). Schlüssige Gegenargumente liegen vor, wenn\nder Antragsteller substanziiert rechtliche oder tatsächliche Umstände aufzeigt, aus denen sich die\ngesicherte Möglichkeit ergibt, dass die erstinstanzliche Entscheidung unrichtig ist (vgl. BVerfG, B.v.\n20.12.2010 - 1 BvR 2011/10 - NVwZ 2011, 546/548 = juris Rn. 19; BayVGH, B.v. 12.10.2017 - 14 ZB\n16.280 - juris Rn. 2; B.v. 15.12.2017 - 8 ZB 16.1806 - juris Rn. 9 m.w.N.). Dabei kommt es grundsätzlich\nnicht auf einzelne Elemente der Urteilsbegründung an, sondern auf das Ergebnis der Entscheidung, also\nauf die Richtigkeit des Urteils nach dem Sachausspruch in der Urteilsformel (vgl. BVerwG, B.v. 10.3.2004 -\n7 AV 4.03 - DVBl 2004, 838 = juris Rn. 9; BayVGH, B.v. 19.3.2013 - 20 ZB 12.1881 - juris Rn. 2; B.v.\n15.12.2017 - 8 ZB 16.1806 - juris Rn. 9).\n8\nNach diesem Maßstab bestehen keine ernstlichen Zweifel an der Richtigkeit der verwaltungsgerichtlichen\nEntscheidung. Die Einwendungen der Klägerseite greifen nicht durch. Das Verwaltungsgericht hat die Klage\nzu Recht abgewiesen.\n9\n1.1 Soweit der Kläger mit seinem Hauptantrag die Erteilung einer Bewilligung gemäß § 8 Abs. 1, § 10 Abs.\n1 WHG für die im Einzelnen aufgeführten Gewässerbenutzungen begehrt, hat er nicht dargelegt, dass ein\nentsprechender Anspruch besteht. Das Verwaltungsgericht hat seine Entscheidung auf zwei selbständig\ntragende Begründungen gestützt: Zum einen darauf, dass dem beantragten Vorhaben zwingende\nVersagungsgründe (§ 12 Abs. 1 WHG) entgegenstehen und zum anderen darauf, dass das\nwasserwirtschaftliche Bewirtschaftungsermessen nicht auf null reduziert ist. In derartigen Fällen der\nDoppelbegründung eines Urteils ist es erforderlich, dass in Bezug auf jede dieser Begründungen ein\nZulassungsgrund geltend gemacht ist und vorliegt (stRspr. vgl. etwa BVerwG, B.v. 3.7.1973 - IV B 92.73Buchholz 310 § 132 VwGO Nr. 109; OVG NW, B.v. 19.10.2015 - 1 A 17814 - juris Rn. 8; BayVGH, B.v.\n27.6.2013 - 13a ZB 13.30158 - juris Rn. 6 m.w.N.; B.v. 15.12.2017 - 8 ZB 16.1814 - juris Rn. 30). Daran\nfehlt es.\n10\nDer Kläger wendet sich in seinem Zulassungsantrag lediglich gegen die erstgenannte Begründung. Er greift\ndie Ausführungen in den Entscheidungsgründen zu § 12 Abs. 1 Nr. 1 WHG in Bezug auf die\nMindestwassermenge sowie auf die Feststellung an, „der Bewilligung stünden zwingende Gründe gemäß\n§ 35 WHG entgegen“. Zudem bestreitet er in diesem Zusammenhang die Annahme, es sei zum SchutzHabitate der Neunaugen eine permanente Überströmung des gesamten Wehres erforderlich, und macht\nAusführungen zur Art und Weise der Räumung einer Sedimentbank sowie zu vermeintlichen Vorteilen\nseines Vorhabens. Dagegen hat der Kläger nicht dargelegt, dass er einen Anspruch auf Erteilung der\nBewilligung hat, weil etwa das Bewirtschaftungsermessen auf null reduziert wäre, und dass die insofern\ntragenden Ausführungen des Verwaltungsgerichts infrage zu stellen wären. Das Urteil geht zu Recht davon\naus, dass die Erteilung einer Bewilligung für die beantragten Gewässerbenutzungen gemäß § 12 Abs. 1\nWHG im Ermessen der zuständigen Behörde steht und dass nur in besonderen Fällen ein Anspruch auf\nErteilung anzunehmen ist (vgl. dazu Czychowski/Reinhardt, WHG, 11. Aufl. 2014, § 12 Rn. 10, 35 ff.). Es\nhat mit nachvollziehbarer Begründung einen Fall verneint, in dem der Kläger als Antragsteller einen\nAnspruch auf Erteilung der Bewilligung hat und aus diesem Grund die Klage im Hauptantrag abgewiesen.\nDie im Zulassungsantrag erhobenen Einwendungen wenden sich nicht gegen diese Ausführungen.\n11\nIm Übrigen geht der Kläger selbst davon aus, dass das von ihm vorgelegte Gutachten vom April 2017 zum\nErgebnis gelangt, dass die Notwendigkeit der Laichplätze für die Bachneunaugen im Bereich des\nstreitgegenständlichen Wehres nicht infrage steht. In der Stellungnahme des Gutachters wird zudem\nausdrücklich anerkannt, dass eine Überströmung zum Erhalt der Laichplätze zumindest zeitweise\nerforderlich ist. Dass es neben der von der Beklagten geforderten dauerhaften Wehrüberströmung auch\nandere Möglichkeiten geben mag, diese durch bauliche Maßnahmen (etwa von der Seite her) zu\ngewährleisten, spielt keine Rolle, weil der Kläger nicht dargelegt hat, dass in den von ihm vorgelegten\nPlanunterlagen entsprechende bauliche Maßnahmen vorgesehen sind, die die - offensichtlich auch nach\nseiner Ansicht - zeitweilig notwendige Wasserzufuhr mit hinreichender Sicherheit gewährleisten. Daraufdie Beklagte zutreffend hingewiesen (Gerichtsakte S. 133). Bereits aus diesem Grund sprechen erhebliche\nGründe dafür, dass dem Vorhaben, so wie es der Kläger 2007 beantragt hat (der Klageantrag auf Erteilung\nder Bewilligung bezieht sich auf die Fassung der Antragsunterlagen vom 19.11.2007), zwingende\nVersagungsgründe entgegenstehen und dass in diesem Punkt keine ernstlichen Zweifel gegen die\nEntscheidungsgründe bestehen.\n-\n12\nIn Bezug auf eine Ermessensreduzierung auf null wurde im Übrigen auch sonst kein durchgreifender\nZulassungsgrund dargelegt.\n13\n1.2 Hinsichtlich des ersten Hilfsantrags hat der Kläger ebenfalls keine Gründe aufgezeigt, aus denen sich\nnach den oben dargestellten Maßstäben ernstliche Zweifel an der Richtigkeit der verwaltungsgerichtlichen\nEntscheidung ergeben könnten. Dieser war auf die Verpflichtung der Beklagten gerichtet, über den Antrag\ndes Klägers vom 19. Juli 2007 in der Fassung vom 19. November 2007 auf Erteilung einer Bewilligung für\ndie Maßnahme „Errichtung einer Wasserkraftanlage bei der Stauanlage im Bereich des Hallenbades in H**,\nS. ...“ unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden. Das Verwaltungsgericht ist\ninsofern zutreffend davon ausgegangen, dass die Erteilung einer Bewilligung gemäß § 12 Abs. 2 WHG im\nErmessen der zuständigen Behörde lag (vgl. oben und Czychowski/Reinhardt, WHG, 11. Aufl. 2014, § 12\nRn. 10, 33, 38 ff.). Es hat nachvollziehbar ausgeführt, dass die getroffene Ermessensentscheidung der\nBeklagten nicht fehlerhaft war.\n14\nDer Kläger macht zwar im Zusammenhang mit der von ihm behaupteten grundsätzlichen Bedeutung\nAusführungen, aus denen sich entnehmen lässt, dass die Beklagte seiner Ansicht nach die für die\nWasserkraft sprechenden Belange nicht hinreichend gewürdigt habe; es fehlt aber an einer\nAuseinandersetzung mit den ausführlichen Urteilsgründen. Das Verwaltungsgericht hat im Einzelnen\ndargelegt, warum die Beklagte das Überwiegen der klägerischen Belange ermessensfehlerfrei verneintDabei hat es zunächst auf die untergeordnete Rolle von Kleinstanlagen abgestellt und ein Interesse der\nAllgemeinheit an der konkreten Wasserkraftanlage verneint. Hiermit setzt sich der Kläger in seinem\nZulassungsantrag nicht näher auseinander. Darüber hinaus wird im Urteil ausgeführt, dass selbst dann,\nwenn ein öffentliches Interesse bejaht wird, keine Ermessensfehlgewichtung vorliegt, und auf die Planungen\nfür eine naturnahe Umgestaltung des Gewässers und für eine ökologische Gewässerbewirtschaftung\nhingewiesen, die Ausfluss der Wasserrahmenrichtlinie sind. Aus dem Zulassungsvorbringen wird nicht\nersichtlich, aus welchen rechtlichen oder tatsächlichen Umständen sich die gesicherte Möglichkeit ergeben\nsoll, dass die erstinstanzliche Entscheidung insofern unrichtig ist. Vielmehr wird die Frage, welche\nAusnahmemöglichkeiten in Bezug auf das europarechtlich determinierte Verschlechterungsverbot bestehen\nkönnen (unter Verweis auf EuGH, U.v. 4.5.2016 - C-346/14 - BayVBl 2017, 49 = juris; vgl. dazu auch\nBayVGH, B.v. 6.9.2016 - 8 CS 15.2510 - BayVBl 2017, 52 = juris Rn. 34 ff.), mit der Ausübung des\nErmessens im konkreten Einzelfall vermengt, ohne Fehler bei der Prüfung der behördlichen\nErmessensausübung durch das Ausgangsgericht (vgl. § 114 Satz 1 VwGO) substanziiert darzulegen. Dies\nwäre jedoch erforderlich gewesen, nicht zuletzt deshalb, weil sich ungeachtet des generellen öffentlichen\nInteresses an der Nutzung der regenerativen Energiequelle Wasserkraft zur Stromerzeugung weder aus\ndem Zweck des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz - EEG)\nnoch aus dessen Anwendungsbereich ein Vorrang der Stromerzeugung aus erneuerbaren Energien vorBelangen des Umwelt- und Naturschutzes herleiten lässt (BayVGH, B.v. 6.9.2016 - 8 CS 15.2510 - BayVBl\n2017, 52 = juris Rn. 38 ff.).\n15\nSoweit der Kläger Vorteile seiner Anlage benennt und die Möglichkeit eines Laichplatz-Managements\nerwähnt, zeigt er ebenfalls keine Fehler der gerichtlichen Überprüfung der Ermessensausübung auf. Er\nberuft sich nicht darauf, dass das Verwaltungsgericht Mängel bei der Ausübung des Ermessens durch die\nBehörde übersehen hätte. Zudem bleibt unklar, inwiefern die erwähnten Maßnahmen (vor allem die\nRückführung eines zusätzlichen Wasserzustroms über das ausströmende Turbinenwasser zur\nGewährleistung einer Überströmung der Laichplätze, vgl. oben) Gegenstand der Planung (Stand November\n2007) waren. Im Übrigen ist es nicht Sache der Gerichte, eine eigene Ermessensentscheidung zu treffen.\n16\n1.3 Schließlich hat der Kläger nicht dargelegt, inwiefern sich hinsichtlich der Ablehnung des weiteren\nHilfsantrags ernstliche Zweifel an der Entscheidung ergeben sollen. Dieser war auf die Verpflichtung der\nBeklagten gerichtet, dem Kläger gemäß Antrag vom 28. Juli 2015 (auf Errichtung einer Wasserkraftanlage\nmit Fischaufstiegsanlage an der S. ... in H**) eine beschränkte Erlaubnis zu erteilen. Insofern kann auf die\noben gemachten Ausführungen verwiesen werden.\n17\n2. Ein Berufungszulassungsgrund gemäß § 124 Abs. 2 Nr. 2 VwGO liegt ebenfalls nicht vor.\n18\nBesondere tatsächliche oder rechtliche Schwierigkeiten im Sinn dieser Bestimmung weist eine Rechtssache\nauf, wenn die Beantwortung der für die Entscheidung erheblichen Fragen in tatsächlicher oder rechtlicher\nHinsicht voraussichtlich das durchschnittliche Maß nicht unerheblich überschreitende Schwierigkeiten\nbereitet, wenn sich diese also wegen ihrer Komplexität und abstrakten Fehleranfälligkeit aus der Mehrzahl\nder verwaltungsgerichtlichen Verfahren heraushebt (vgl. BayVGH, B.v. 3.11.2011 - 8 ZB 10.2931 - BayVBl\n2012, 147/149 = juris Rn. 28; B.v. 10.4.2017 - 15 ZB 16.673 - juris Rn. 42 jeweils m.w.N.). Das ist hier nicht\nder Fall.\n19\nDie vom Kläger angesprochenen, entscheidungserheblichen Rechtsfragen lassen sich bei Heranziehung\nder gängigen Auslegungsmethoden sowie der obergerichtlichen und höchstrichterlichen Rechtsprechung\nohne Weiteres lösen (vgl. oben 1.). Es liegen insofern auch keine besonderen tatsächlichen Schwierigkeiten\nvor. Die von den Beteiligten im Zulassungsverfahren diskutierten komplexen Tatsachenfragen sind dagegen\nnicht entscheidungserheblich (etwa in Bezug auf den Nachweis der Bachneunaugen, deren Herkunft und\nden Vergleich der Gewässereigenschaften in den Jahren 2010 und 2013).\n20\nAuch unter Berücksichtigung des Begründungsaufwands des erstinstanzlichen Urteils lassen sich keine\nbesonderen tatsächlichen oder rechtlichen Schwierigkeiten der Rechtssache erkennen. Der Kläger\nübersieht insofern, dass die Entscheidung auf mehrere tragende Begründungen gestützt wurde (vgl. oben).\n21\n3. Der vom Kläger geltend gemachte Zulassungsgrund der grundsätzlichen Bedeutung der Rechtssache (§\n124 Abs. 2 Nr. 3 VwGO) liegt ebenfalls nicht vor bzw. ist nicht in einer Weise dargetan, die den\nAnforderungen des § 124 Abs. 4 Satz 4 VwGO genügt.\n22\nEiner Rechtssache kommt grundsätzliche Bedeutung gemäß § 124 Abs. 2 Nr. 3 VwGO zu, wenn für die\nEntscheidung des Verwaltungsgerichts eine konkrete, jedoch fallübergreifende Tatsachen- oder\nRechtsfrage von Bedeutung war, deren noch ausstehende höchstrichterliche oder obergerichtliche Klärung\nim Berufungsverfahren zu erwarten ist und zur Erhaltung der Einheitlichkeit der Rechtsprechung oder zu\neiner bedeutsamen Weiterentwicklung des Rechts geboten erscheint (vgl. BayVGH, B.v. 5.12.2017 - 11 ZB\n17.31711 - juris Rn. 2; BVerwG, B.v. 21.11.2017 - 1 B 148.17 u.a. - juris Rn. 4 zu § 132 Abs. 2 Nr. 1\nVwGO). Dementsprechend verlangt die Darlegung der rechtsgrundsätzlichen Bedeutung, dass eine\nkonkrete Tatsachen- oder Rechtsfrage formuliert und aufgezeigt wird, weshalb die Frage im Interesse der\nEinheitlichkeit der Rechtsprechung oder der Fortentwicklung des Rechts klärungsbedürftig und\nentscheidungserheblich (klärungsfähig) ist. Ferner muss dargelegt werden, worin die allgemeine, über den\nEinzelfall hinausgehende Bedeutung dieser Frage besteht (vgl. BayVGH, B.v. 5.12.2017 - 11 ZB 17.31711 -\njuris Rn. 2; BVerwG, B.v. 30.9.2015 - 1 B 42.15 - juris Rn. 3). Diesen Anforderungen genügt das klägerische\nVorbringen nicht.\n23\nEs fehlt bereits an der Formulierung hinreichend klarer und konkreter Fragestellungen. So bleibt schon\nunklar, ob auf eine Tatsachen- oder Rechtsfrage abgestellt wird, wenn von verallgemeinerungsfähigen\n„Rechts Tatsachenfragen“ die Rede ist, ohne weiter zu differenzieren und diese im Einzelnen zu benennen.\nDer als „insbesondere“ klärungsbedürftig bezeichneten Frage, „in welchem Umfang nach pflichtgemäßem\nErmessen im Sinn von § 12 Abs. 2 WHG zu entscheiden ist, wenn Stellungnahmen von Fachbehörden zwar\neinerseits die Verweigerung der Zustimmung zur Bewilligung rechtfertigen könnten, gleichzeitig jedoch auch\nfür die Wasserkraft sprechende öffentliche Interessen vorhanden sind, die jedoch im Rahmen der\nErmessensentscheidung letztlich gänzlich missachtet“ worden seien, fehlt eine über den Einzelfall\nhinausgehende Bedeutung. Abgesehen davon, dass unklar ist, was unter „Umfang“ der Entscheidung zu\nverstehen ist, hängt die Ausübung des Bewirtschaftungsermessens (§ 12 Abs. 2 WHG) regelmäßig von\neiner Vielzahl von Umständen des jeweiligen Einzelfalls (die sich etwa aus den fachlichen Stellungnahmen\nder Wasserwirtschaftsämter ergeben können) ab und entzieht sich daher einer generalisierenden\nBeantwortung. Die Frage ist insgesamt viel zu unklar formuliert. Schließlich ist das Gericht davon\nausgegangen, dass vorliegend ein Interesse der Allgemeinheit an der klägerischen Anlage nicht besteht. Es\nfehlt daher auch an der Entscheidungserheblichkeit der Fragestellung.\n24\n4. Die Kostenentscheidung beruht auf § 154 Abs. 2 VwGO. Die Streitwertfestsetzung ergibt sich aus § 47\nAbs. 1 Satz 1 und Abs. 3 sowie § 52 Abs. 1 GKG.\n25\nMit der Ablehnung des Zulassungsantrags wird das Urteil des Verwaltungsgerichts rechtskräftig (§ 124a\nAbs. 5 Satz 4 VwGO).\n\n\n"
+}

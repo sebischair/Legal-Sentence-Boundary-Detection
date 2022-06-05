@@ -1,0 +1,881 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bau",
+            "end": 54,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 60,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Heizungsanlage",
+            "end": 102,
+            "start": 88,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 114,
+            "start": 103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "640",
+            "end": 201,
+            "start": 198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 211,
+            "start": 202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 463,
+            "start": 457,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 480,
+            "start": 479,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 506,
+            "start": 505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Winter",
+            "end": 596,
+            "start": 590,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 611,
+            "start": 610,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 637,
+            "start": 636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 649,
+            "start": 638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Winter",
+            "end": 770,
+            "start": 764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 781,
+            "start": 771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 832,
+            "start": 830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 843,
+            "start": 833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9398",
+            "end": 862,
+            "start": 858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 868,
+            "start": 863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1030,
+            "start": 1020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1088,
+            "start": 1082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 1131,
+            "start": 1118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 1376,
+            "start": 1369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1415,
+            "start": 1405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1436,
+            "start": 1417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1438,
+            "start": 1437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1441,
+            "start": 1440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Heizungsanlage",
+            "end": 1546,
+            "start": 1532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1549,
+            "start": 1548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundwasserwärmepumpe",
+            "end": 1756,
+            "start": 1735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 1918,
+            "start": 1910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1921,
+            "start": 1920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führte",
+            "end": 2069,
+            "start": 2063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2072,
+            "start": 2071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 2264,
+            "start": 2262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2267,
+            "start": 2266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungen",
+            "end": 2337,
+            "start": 2327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhalt",
+            "end": 2468,
+            "start": 2462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "spät",
+            "end": 2565,
+            "start": 2561,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2742,
+            "start": 2741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2745,
+            "start": 2744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigerte",
+            "end": 2841,
+            "start": 2830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2844,
+            "start": 2843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beweisverfahrens",
+            "end": 3075,
+            "start": 3059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewerks",
+            "end": 3175,
+            "start": 3168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 3377,
+            "start": 3374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 3511,
+            "start": 3505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3514,
+            "start": 3513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehalten",
+            "end": 3663,
+            "start": 3655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 3856,
+            "start": 3850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstanden",
+            "end": 3921,
+            "start": 3911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verjährt",
+            "end": 3959,
+            "start": 3951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 4172,
+            "start": 4165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 4447,
+            "start": 4442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4450,
+            "start": 4449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsteht",
+            "end": 4747,
+            "start": 4739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4751,
+            "start": 4749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 4793,
+            "start": 4784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berufen",
+            "end": 4913,
+            "start": 4906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 5103,
+            "start": 5096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 5199,
+            "start": 5189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 5311,
+            "start": 5304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5464,
+            "start": 5457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5468,
+            "start": 5466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 5597,
+            "start": 5589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5601,
+            "start": 5599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesprochen",
+            "end": 5889,
+            "start": 5876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 6091,
+            "start": 6081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6177,
+            "start": 6174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 6273,
+            "start": 6266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "testen",
+            "end": 6382,
+            "start": 6376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 6521,
+            "start": 6516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werkvergütung",
+            "end": 6685,
+            "start": 6672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 6867,
+            "start": 6858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7063,
+            "start": 7060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7279,
+            "start": 7273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7283,
+            "start": 7281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 7431,
+            "start": 7426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 7578,
+            "start": 7571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7582,
+            "start": 7580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufung",
+            "end": 7673,
+            "start": 7665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 7895,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 8017,
+            "start": 8010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8221,
+            "start": 8218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abnahme",
+            "end": 8272,
+            "start": 8265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8276,
+            "start": 8274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 8632,
+            "start": 8627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8636,
+            "start": 8634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 8858,
+            "start": 8850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 8862,
+            "start": 8860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8866,
+            "start": 8864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 8929,
+            "start": 8923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 8933,
+            "start": 8931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9117,
+            "start": 9113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 9121,
+            "start": 9119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgenommen",
+            "end": 9205,
+            "start": 9195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9486,
+            "start": 9480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 9490,
+            "start": 9488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 9708,
+            "start": 9705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 9712,
+            "start": 9710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 10010,
+            "start": 10004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 10014,
+            "start": 10012,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10208,
+            "start": 10207,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10436,
+            "start": 10435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10440,
+            "start": 10438,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10679,
+            "start": 10678,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11448,
+            "start": 11447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 11452,
+            "start": 11450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 11578,
+            "start": 11568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 11711,
+            "start": 11705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 11897,
+            "start": 11889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12180,
+            "start": 12177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 12184,
+            "start": 12182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 12338,
+            "start": 12333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prüfungszeiten",
+            "end": 12787,
+            "start": 12773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 12991,
+            "start": 12987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2006",
+            "end": 13237,
+            "start": 13233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 13241,
+            "start": 13239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 13543,
+            "start": 13541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Temperatur",
+            "end": 13700,
+            "start": 13690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 13704,
+            "start": 13702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachweisen",
+            "end": 13818,
+            "start": 13808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 13822,
+            "start": 13820,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14187,
+            "start": 14186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 14191,
+            "start": 14189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begleicht",
+            "end": 14609,
+            "start": 14600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 14613,
+            "start": 14611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbeachtlich",
+            "end": 14988,
+            "start": 14976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 15342,
+            "start": 15338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 15460,
+            "start": 15449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 15464,
+            "start": 15462,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15677,
+            "start": 15676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 15681,
+            "start": 15679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2012",
+            "end": 15927,
+            "start": 15923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 15931,
+            "start": 15929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hemmen",
+            "end": 16117,
+            "start": 16111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 16358,
+            "start": 16347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 16363,
+            "start": 16360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 16367,
+            "start": 16365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 16480,
+            "start": 16477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 16484,
+            "start": 16482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 16579,
+            "start": 16570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelfalls",
+            "end": 16735,
+            "start": 16724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 16739,
+            "start": 16737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Feststellungsantrag",
+            "end": 16822,
+            "start": 16803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewertet",
+            "end": 16898,
+            "start": 16890,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG München, Endurteil v. 08.05.2019 – 20 U 124/19 Bau\nTitel:\nKonkludente Abnahme einer Heizungsanlage\nNormenkette:\nBGB § 187 Abs. 1, § 188 Abs. 2, § 204 Abs. 2 S. 1, § 634a Abs. 1 Nr. 2, Abs. 2, § 640\nLeitsätze:\n1. Mit Abschluss einer Ratenzahlungsvereinbarung ist, soweit eine Abnahmesituation vorlag,\ngrundsätzlich die stillschweigende Abnahme des Werkes durch schlüssiges Verhalten erfolgt und\nder Lauf der fünfjährigen Verjährungsfrist in Gang gesetzt worden. (Rn. 19 und 20) (redaktioneller\nLeitsatz)\n2. Die notwendige Prüfungszeit für eine Heizung beträgt nicht notwendig den ganzen Winter. (Rn. 22\n– 25) (redaktioneller Leitsatz)\nSchlagworte:\nGrundwasser, Heizung, konkludente Abnahme, Verjährungsfrist, Ratenzahlungsvereinbarung,\nGewährleistung, Prüfung, Winter\nVorinstanz:\nLG Landshut, Urteil vom 07.12.2018 – 54 O 2864/15\nFundstelle:\nBeckRS 2019, 9398\nTenor\n1. Auf die Berufung der Beklagten wird das Urteil des Landgerichts Landshut vom 7. Dezember 2018, Az.\n54 O 2864/15, abgeändert und die Klage insgesamt abgewiesen.\n2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.\n3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung der Beklagten durch\nSicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor\nder Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrages leistet.\n4. Die Revision wird nicht zugelassen.\nEntscheidungsgründe\nI.\n1\nDie Parteien streiten um Schadensersatz wegen Mängeln einer von der Beklagten eingebauten\nHeizungsanlage.\n2\nDer Kläger beauftragte die Beklagte im Sommer 2006 mündlich mit der Lieferung und Montage einer\nHeizungsanlage nebst Errichtung einer Brunnenanlage für die mit Grundwasser zu speisende\nGrundwasserwärmepumpe. Die Anlage, die bestimmungsgemäß zur Heizung und zur\nWarmwasserbereitung genutzt wurde, wurde in Gegenwart des Klägers am 7. Juli 2006 (B 1) in Betrieb\ngenommen.\n3\nIm Herbst 2006 lief der Schluckbrunnen der Anlage über, was zu einer Nachbesserung seitens der\nBeklagten in Gestalt des Wechsels der Brunnen führte.\n4\nDie Beklagte rechnete die Anlage mit Rechnung vom 3. November 2006 (K 1) pauschal mit € 38.000,00 ab\nsowie die zusätzlich beauftragten Brunnenarbeiten am 8. November 2006 (K 2) mit € 9.122,16.\n5\nAm 3. Januar 2007 bezahlte der Kläger € 8.000,00 auf diese Rechnungen. Am 8. Januar 2007 schlossen\ndie Parteien über den dann noch offenen Betrag eine „Zahlungsvereinbarung“ (B 2) mit folgendem Inhalt:\n„Offene Summe € 6.000,00 wird in monatl. Raten zum 10. des Monats bezahlt, 150,- Restsumme spät. zum\n30.08.07 (Vorauszahlg. 8000.- ist angewiesen).“ In den Monaten Januar 2007 bis Januar 2008 bezahlte der\nKläger auf die Ratenzahlungsvereinbarung insgesamt € 1.800,00 (B 3).\n6\nAb dem Jahr 2009 kam es zu Heizungsausfällen, wobei die Beklagte eine Nachbesserung verweigerte.\n7\nDer Kläger beantragte beim Landgericht Landshut mit Schriftsatz vom 19. Januar 2012, bei Gericht\neingegangen am 20. Januar 2012 und der Beklagten zugestellt am 27. Januar 2012, die Durchführung\neines selbständigen Beweisverfahrens. Dieses wurde unter dem Aktenzeichen 54 OH 173/12 geführt und\nergab grundlegende Mängel des Gewerks. Ende November 2012 brannte die Spule des Verdichters der\nAnlage durch, so dass seit diesem Zeitpunkt eine Nutzung der Wärmepumpe zur Produktion von\nWarmwasser und Heizungswasser nicht mehr möglich war. Der Kläger hat die von der Beklagten\neingebaute Anlage im ersten Halbjahr 2015 durch eine Gasheizung mit Solaranlage ersetzen lassen.\n8\nDer Kläger hat vor dem Landgericht behauptet, die Beklagte habe die Anlage mangelhaft errichtet und sie\ndeshalb für schadensersatzpflichtig gehalten. Da der konkrete Standort nicht zum Betrieb einer\nGrundwasserwärmepumpe geeignet sei, habe die Beklagte auch die Kosten der nunmehr ersatzweise\neingebauten Gasheizung mit Solaranlage zu tragen. Insgesamt sei dem Kläger ein Schaden von €\n55.742,03 entstanden. Der Anspruch sei auch nicht verjährt. Da es erst nach Gesamtablauf der auf den\nEinbau im Juli 2006 folgenden Wintermonate, d.h. Ende Februar 2007, möglich gewesen sei, die\nLeistungsfähigkeit der Anlage zu beurteilen, sei vorher keine Abnahme erfolgt. Zudem habe der Kläger bei\nErhalt der Rechnungen, die die Beklagte nach Durchführung der Nachbesserungen gestellt habe,\nausdrücklich erklärt, dass er erst bezahlen werde, wenn die Anlage ihre Funktionsfähigkeit erwiesen habe\nund die Garteninstandsetzungskosten geklärt seien.\n9\nDer Kläger hat beantragt, die Beklagte zu verurteilen, an ihn € 55.742,03 nebst Zinsen zu bezahlen und\nfestzustellen, dass die Beklagte verpflichtet sei, dem Kläger jeden über diese Bezifferung hinausgehenden\nSchaden zu erstatten, der künftig infolge der Mangelhaftigkeit der Anlage noch entsteht.\n10\nDie Beklagte hat Klageabweisung beantragt. Sie hat Mängel der Anlage bestritten und sich insbesondere\nauf die Verjährung jeglicher klägerischer Ansprüche berufen. Irgendwelche Absprachen zwischen den\nParteien bei Rechnungserhalt oder generell dahingehend, dass die Anlage den gesamten Winter über\ngeprüft werden könne bzw. müsse, habe es nicht gegeben. Für die Prüfung einer Heizungsanlage sei eine\nPrüfungszeit von maximal zwei Monaten angemessen. Spätestens mit der Ratenzahlungsvereinbarung vom\n8. Januar 2007 jedenfalls sei eine Abnahme des Werkes erfolgt. Die fünfjährige Verjährungsfrist sei bei\nEinreichung des Antrags auf Durchführung des selbständigen Beweisverfahrens deshalb bereits abgelaufen\ngewesen.\n11\nAuf die tatsächlichen Feststellungen des erstinstanzlichen Urteils und die dort gestellten Anträge wird\nergänzend Bezug genommen.\n12\nMit Endurteil vom 7. Dezember 2018 hat das Landgericht nach Beweiserhebung über das Vorliegen von\nMängeln die Beklagte verurteilt, an den Kläger € 48.550,18 nebst Zinsen zu zahlen und die vom Kläger\nbegehrte Feststellung der Einstandspflicht für künftig auftretende Schäden ausgesprochen. Lediglich\nhinsichtlich einzelner Schadenspositionen (Gasfüllung, Entfernung des Saugbrunnens, anteilig\nGartenwiederherstellung und Montagekosten für Heizmobil) hat das Landgericht die Klage abgewiesen. Zur\nBegründung hat es insbesondere ausgeführt, dass Verjährung nicht eingetreten sei. Die dem Kläger\nzuzugestehende Prüfungszeit sei am 8. Januar 2007 noch nicht abgelaufen gewesen. Denn ein Besteller\ndürfe eine im Sommer montierte Heizungsanlage zunächst über einen gesamten Winter testen. Es sei\nnämlich für den Kläger nicht absehbar, ob die Anlage je nach konkreter Winterwitterung die auftretenden\nHeizlasten erbringen könne. Aus der von der Beklagten vorgelegten Zahlungsvereinbarung ergebe sich\nlediglich eine Einigung der Parteien hinsichtlich der vom Kläger geschuldeten Werkvergütung. Die von der\nBeklagten bemühte Auslegung, durch die Nichtaufnahme von Mängeln sei auch das Werk als\nvertragsgemäß gebilligt worden, könne die Kammer diesem Schreiben nicht entnehmen. Eine konkludente\nAbnahme sei nicht vor Ende Januar 2007 eingetreten, weshalb der Lauf der Verjährungsfrist mit dem Antrag\nauf Durchführung eines selbständigen Beweisverfahrens gehemmt worden sei. Das Ende der Hemmung sei\ngemäß § 204 Abs. 2 Satz 1 BGB am 9. November 2015 eingetreten, die hiesige Klage per Fax am 9.\nNovember 2015 eingegangen und rechtzeitig, da zeitnah nach Kosteneinzahlung, zugestellt worden.\n13\nMit ihrer hiergegen gerichteten Berufung erstrebt die Beklagte die Aufhebung des landgerichtlichen Urteils\nund die vollständige Abweisung der Klage. Sie macht insbesondere unter Wiederholung und Vertiefung\nihres erstinstanzlichen Vortrags weiterhin Verjährung des klägerischen Anspruchs geltend.\n14\nDer Kläger verteidigt das angegriffene Urteil und beantragt die Zurückweisung der Berufung. Zu der\nRatenzahlungsvereinbarung bringt er mit der Berufungserwiderung erstmals vor, dass sie aus Sicht beider\nParteien ausschließlich zur Beilegung der Streitigkeiten über die Höhe der gestellten Rechnungen gedient\nhabe. Anlässlich dieser Vereinbarung habe der Geschäftsführer der Beklagten die Unterzeichnung eines\nAbnahmeprotokolls begehrt. Dies habe der Kläger ausdrücklich mit dem Argument verweigert, dass er nach\ndem Ausfall der Pumpe bereits im Sommer den Winter abwarten wolle um beurteilen zu können, ob die\nAnlage funktionstauglich sei. Damit sei kein Raum für die Annahme einer Abnahme.\n15\nDiesen neuen Vortrag bestreitet die Beklagte und wendet ein, dass gegen die Behauptung des Klägers\nnicht nur die kommentarlose Unterzeichnung der Zahlungsvereinbarung am 8. Januar 2007 spreche,\nsondern auch die Tatsache, dass bereits am 3. Januar 2007 - und somit noch vor der Unterzeichnung der\nRatenzahlungsvereinbarung - € 8.000,00 bezahlt worden seien.\n16\nHinsichtlich des weiteren Vorbringens der Parteien im Berufungsverfahren wird auf die im\nBerufungsrechtszug gewechselten Schriftsätze und auf die Niederschrift über die mündliche Verhandlung\nvom 8. Mai 2019 Bezug genommen.\nII.\n17\nDie zulässige Berufung der Beklagten hat vollumfänglich Erfolg.\n18\nDas Urteil des Landgerichts war aufzuheben, da Gewährleistungsansprüche des Klägers aus dem\nWerkvertrag gemäß § 634a Abs. 1 Nr. 2, Abs. 2, § 187 Abs. 1, § 188 Abs. 2 BGB verjährt sind.\n19\n1. Zwar hat der Kläger die Werkleistung der Beklagten nicht ausdrücklich abgenommen. Spätestens mit\nAbschluss der Ratenzahlungsvereinbarung vom 8. Januar 2007 allerdings ist die stillschweigende Abnahme\ndes Werkes durch schlüssiges Verhalten des Klägers erfolgt (vgl. Palandt, BGB, § 640 Rn. 7) und der Lauf\nder fünfjährigen Verjährungsfrist in Gang gesetzt worden:\n20\na) Am 8. Januar 2007 lag objektiv eine Abnahmesituation vor, da das Werk nach Dafürhalten beider\nParteien vollständig fertiggestellt, gebrauchsfähig und tatsächlich in Gebrauch und sogar bereits\nschlussabgerechnet war.\n21\nb) Der Kläger als Besteller hatte seit Einbau der Anlage am 7. Juli 2006 bzw. nach erfolgter Nachbesserung\nim Herbst 2006 eine angemessene Zeit zur Verfügung gehabt um die Funktionsfähigkeit der Anlage in\nBezug auf die Erbringung der geschuldeten Heizungsleistung und Warmwasserbereitung zu prüfen.\n22\n(1) In Literatur und Rechtsprechung besteht Einigkeit, dass die Dauer der dem Besteller zuzugestehenden\nPrüfungszeit einzelfallabhängig bestimmt werden muss (vgl. Palandt, BGB, § 640 Rn. 7 mwN). Gerechnet\nvon der Aufnahme der Nutzung ist eine gewisse Nutzungszeit erforderlich, vor deren Ablauf die Billigung\ndes Werks redlicherweise nicht zu erwarten ist (BGH, Urteil vom 20. September 1984, VII ZR 377/83, juris\nRn. 11).\n23\nWelcher Zeitraum insofern als angemessen anzusehen ist, hängt von den Umständen des Einzelfalls ab,\ninsbesondere von Art und Umfang des Werks, das in Gebrauch genommen wird (BGH, Urteil vom 20.\nSeptember 1984, VII ZR 377/83, juris Rn. 12). So wurde hinsichtlich der Erstellung und Installation einer\nSoftware eines Getränkeautomaten eine ausführliche Erprobung mit fehlerfreiem Lauf aller Programme und\nzufriedenstellend verlaufener Probe der Produktion für ausreichend erachtet (Hanseatisches OLG, Urteil\nvom 9. August 1985, juris), bei einer im Sommer in Betrieb genommenen Wärmepumpe zwei Monate (OLG\nKöln, SFH, Nr. 13 zu § 640 BGB, in: Werner/Pastor, Der Bauprozess, Rn. 1826), bei Bodenverlegearbeiten\n„maximal“ zwei Monate (OLG Düsseldorf, I-22 U 165/15, juris Rn. 10 mwN), bei einer Tragwerksplanung\ndrei Monate (BGH, Urteil vom 25. Februar 2010, VII ZR 64/09, juris Rn. 24) und bei Architektenleistungen\n„nicht mehr“ als sechs Monate (BGH, Urteil vom 26. September 2013, VII ZR 220/12, juris Rn. 22).\n24\n(2) Unter Gesamtwürdigung der vorliegenden Umstände war hier eine Prüfungsfrist längstens bis Ende des\nJahres 2006 angemessen. Denn die Anlage war bereits am 7. Juli 2006 in Betrieb genommen und ab\ndiesem Zeitpunkt auch zur Warmwasserbereitung genutzt worden. Nachdem im Herbst 2006 auftretende\nMängel kurzfristig und unstreitig vollständig beseitigt worden sind, hat die Beklagte sodann am 3. bzw. 8.\nNovember 2006 die Schlussrechnung gestellt. Die von diesem Zeitpunkt bis zum Jahresende 2006\nverbleibenden mindestens sieben Wochen im Winter stellen unzweifelhaft eine angemessene Zeitspanne\ndar, innerhalb derer nach der Verkehrserwartung eine gründliche Prüfung der Heizungsanlage auf ihre\nFunktionstauglichkeit möglich ist.\n25\n(3) Die Ansicht des Landgerichts, dass der Besteller einer Heizung immer einen ganzen Winter zur Prüfung\nzur Verfügung haben müsse, teilt der Senat nicht. Eine derart lange Prüfungszeit lässt zum einen das bei\nBemessung der Frist auch zu beachtende Interesse des Unternehmers, den Zeitpunkt der konkludenten\nAbnahme nicht unangemessen nach hinten zu verschieben, gänzlich außer Acht (vgl. nur BGH, Urteil vom\n26. September 2013, VII ZR 220/12, juris Rn. 20 mwN) und orientiert sich auch nicht an den oben\ndargestellten, in anderen Fällen von der Rechtsprechung als angemessen angesehenen Prüfungszeiten.\nZum anderen ist es auch nicht zutreffend, dass die Prüfung, ob eine Anlage zur Heizung und\nWarmwasserbereitung vertragsgemäß erstellt worden ist, erst nach Verstreichen eines ganzen Winters\nmöglich wäre. Vielmehr kann ein Besteller die Funktionsfähigkeit einer Heizungsanlage ersichtlich bereits\nnach dem Ablauf einer mehrwöchigen beanstandungsfreien Prüfungszeit in der Heizperiode beurteilen, im\nhiesigen Fall mithin spätestens zu Jahresende 2006.\n26\n(4) Soweit der Kläger vorbringt, dass es sich bei dem Einbau einer Grundwasserwärmepumpe um einen\nSpezialfall handle und eine nachhaltige Prüfung einer Grundwasserwärmepumpe nur während einer\nlängeren Kälteperiode möglich sei, weil erst dann die Kälte auch im Grundwasser ankomme, trifft dies nicht\nzu. Vielmehr hat thermisch nutzbares Grundwasser - wie aus anderen Verfahren gerichtsbekannt - eine im\nJahresverlauf im Wesentlichen gleichbleibende Temperatur.\n27\n(5) Dass die Parteien vertraglich eine längere Prüfungszeit vereinbart hätten, konnte der Kläger nicht\nnachweisen.\n28\nc) Mit der Bezahlung eines Großteils des nach Schlussrechnung noch offenen Werklohns am 3. Januar\n2007 und dem Abschluss der Ratenzahlungsvereinbarung am 8. Januar 2007 hat der Kläger gegenüber der\nBeklagten eindeutig und schlüssig seinen Willen zum Ausdruck gebracht, die Leistung als im Wesentlichen\nvertragsgemäß zu billigen (vgl. Palandt, BGB, § 640 Rn. 6 mwN).\n29\nDenn nach Ablauf der mehrwöchigen Prüfungszeit auch bezüglich der Heizungsleistung der Anlage durfte\ndie Beklagte aus der Teilzahlung und der Vereinbarung über die ratierliche Erbringung des noch\nausstehenden Rechnungsbetrages nach Treu und Glauben und mit Rücksicht auf die Verkehrssitte darauf\nschließen, dass der Kläger die Leistung als vertragsgerecht billigt und deshalb nunmehr den restlichen\nWerklohn begleicht.\n30\nDer neue und von der Beklagten bestrittene Vortrag des Klägers dazu, dass er sich bei Abschluss der\nRatenzahlungsvereinbarung einer Abnahme ausdrücklich verweigert habe, weshalb kein Verhalten des\nKlägers vorgelegen habe, aus dem die Beklagte auf seine Billigung des Werks hätte schließen dürfen, ist\ngemäß § 531 Abs. 2 ZPO verspätet und in der Berufungsinstanz unbeachtlich. Die Frage der Würdigung der\nRatenzahlungsvereinbarung (B 2) ist, wie beide Parteien in der mündlichen Berufungsverhandlung mitgeteilt\nhaben, in der mündlichen Verhandlung vor dem Landgericht ausführlich besprochen und auch im\nlandgerichtlichen Urteil abgehandelt worden, weshalb das nunmehrige Vorbringen bereits erstinstanzlich\nveranlasst gewesen wäre. Dass das Unterbleiben dieses Vortrags in erster Instanz nicht auf Nachlässigkeit\nberuht hätte, ist nicht ersichtlich.\n31\nSoweit der Kläger vorbringt, kein Erklärungsbewusstsein gehabt zu haben, ist solches für die Wertung\nseines Verhaltens als konkludente Abnahme grundsätzlich nicht erforderlich (vgl. Palandt, BGB, Vor§ 116\nRn. 17).\n32\n2. Die gemäß § 634a Abs. 1 Nr. 2, Abs. 2, § 187 Abs. 1, § 188 Abs. 2 BGB mit dem Tag der Abnahme am\n8. Januar 2007 beginnende fünfjährige Verjährungsfrist endete gemäß § 634a Abs. 1 Nr. 2, Abs. 2, § 187\nAbs. 1, § 188 Abs. 2 BGB am 8. Januar 2012.\n33\nDie Zustellung des Antrags auf Durchführung des selbständigen Beweisverfahrens ist erst am 27. Januar\n2012 und damit nach Fristablauf erfolgt und konnte die Verjährung nicht mehr hemmen. Dies gilt auch unter\nBerücksichtigung des Zeitpunkts der Einreichung des Antrags am 20. Januar 2012 (§ 204 Abs. 1 Nr. 7 BGB,\n§ 167 ZPO), denn auch an diesem Tag war der Lauf der Verjährungsfrist bereits vollendet und Verjährung\neingetreten.\nIII.\n34\nDie Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf §\n711 ZPO.\n35\nDie Revision war nicht zuzulassen, da die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen. Es\nhandelt sich, insbesondere auch hinsichtlich der Frage der Bemessung des Umfangs einer angemessenen\nPrüfungszeit, um die Entscheidung eines Einzelfalls.\n36\nDer Streitwert entspricht dem addierten Wert von Zahlungs- und Feststellungsantrag; letzteren hat der\nSenat ebenso wie das Landgericht mit € 5.000,00 bewertet.\n\n"
+}

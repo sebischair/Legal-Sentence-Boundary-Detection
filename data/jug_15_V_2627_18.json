@@ -1,0 +1,641 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umfang",
+            "end": 339,
+            "start": 333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 351,
+            "start": 340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umfang",
+            "end": 634,
+            "start": 628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 645,
+            "start": 635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "424",
+            "end": 663,
+            "start": 660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 669,
+            "start": 664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesetzt",
+            "end": 820,
+            "start": 810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 874,
+            "start": 864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 886,
+            "start": 876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 888,
+            "start": 887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1087,
+            "start": 1084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1090,
+            "start": 1089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bilanziert",
+            "end": 1373,
+            "start": 1363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überführt",
+            "end": 1492,
+            "start": 1483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1495,
+            "start": 1494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genutzt",
+            "end": 1597,
+            "start": 1590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumswohnung",
+            "end": 1953,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusetzen",
+            "end": 2039,
+            "start": 2029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2042,
+            "start": 2041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 2235,
+            "start": 2230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliege",
+            "end": 2480,
+            "start": 2472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 2719,
+            "start": 2714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 2810,
+            "start": 2800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewerten",
+            "end": 2982,
+            "start": 2974,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3303,
+            "start": 3302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3306,
+            "start": 3305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 3622,
+            "start": 3618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3625,
+            "start": 3624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 3672,
+            "start": 3669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3837,
+            "start": 3834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 3942,
+            "start": 3935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 4104,
+            "start": 4099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszimmers",
+            "end": 4220,
+            "start": 4206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitumfasse",
+            "end": 4420,
+            "start": 4410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4423,
+            "start": 4422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusetzen",
+            "end": 4657,
+            "start": 4646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4725,
+            "start": 4723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "E",
+            "end": 4859,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4862,
+            "start": 4861,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4974,
+            "start": 4973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5242,
+            "start": 5239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 5324,
+            "start": 5322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5328,
+            "start": 5326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusetzen",
+            "end": 5527,
+            "start": 5516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5531,
+            "start": 5529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 5582,
+            "start": 5572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5586,
+            "start": 5584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "00",
+            "end": 6025,
+            "start": 6023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegen",
+            "end": 6187,
+            "start": 6177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6308,
+            "start": 6302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unschädlich",
+            "end": 6443,
+            "start": 6432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6519,
+            "start": 6513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6523,
+            "start": 6521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 6702,
+            "start": 6694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 6710,
+            "start": 6704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6713,
+            "start": 6711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 6748,
+            "start": 6739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6752,
+            "start": 6750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 7034,
+            "start": 7031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7038,
+            "start": 7036,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7657,
+            "start": 7656,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7936,
+            "start": 7935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7940,
+            "start": 7938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 8048,
+            "start": 8041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 8052,
+            "start": 8050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 8390,
+            "start": 8383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8517,
+            "start": 8511,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9041,
+            "start": 9040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 9045,
+            "start": 9043,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9215,
+            "start": 9214,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9429,
+            "start": 9428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 9433,
+            "start": 9431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 9638,
+            "start": 9631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 9642,
+            "start": 9640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 9766,
+            "start": 9759,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9930,
+            "start": 9929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2013",
+            "end": 10089,
+            "start": 10085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 10093,
+            "start": 10091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnt",
+            "end": 10528,
+            "start": 10521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10532,
+            "start": 10530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 10846,
+            "start": 10842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortsetzt",
+            "end": 11175,
+            "start": 11166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 11343,
+            "start": 11336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 11529,
+            "start": 11525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 11825,
+            "start": 11822,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12108,
+            "start": 12107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 12112,
+            "start": 12110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "laufen",
+            "end": 12367,
+            "start": 12361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachten",
+            "end": 12500,
+            "start": 12490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 12504,
+            "start": 12502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 12649,
+            "start": 12640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitumfasse",
+            "end": 13029,
+            "start": 13019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 13033,
+            "start": 13031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leere",
+            "end": 13143,
+            "start": 13138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aussage",
+            "end": 13319,
+            "start": 13312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diene",
+            "end": 13492,
+            "start": 13487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 13562,
+            "start": 13560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 13566,
+            "start": 13564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 13632,
+            "start": 13627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabelle",
+            "end": 13641,
+            "start": 13634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 13644,
+            "start": 13642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 13816,
+            "start": 13812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 13821,
+            "start": 13819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 13875,
+            "start": 13872,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Beschluss v. 14.01.2019 – 15 V 2627/18\nTitel:\nVerwaltungsakt, Vollziehung, Einspruchsverfahren, Wohnung, Einkommen,\nEigentumswohnung, Frist, Bescheid, Einspruch, Vermietung, Beurteilung,\nAntragsteller, Aussetzung, Finanzgerichtsordnung, Antrag auf Aussetzung der\nVollziehung, Aussetzung der Vollziehung, Grund und Boden, Umfang\nSchlagworte:\nVerwaltungsakt, Vollziehung, Einspruchsverfahren, Wohnung, Einkommen, Eigentumswohnung, Frist,\nBescheid, Einspruch, Vermietung, Beurteilung, Antragsteller, Aussetzung, Finanzgerichtsordnung, Antrag\nauf Aussetzung der Vollziehung, Aussetzung der Vollziehung, Grund und Boden, Umfang\nFundstelle:\nBeckRS 2019, 424\nTenor\n1. Die Vollziehung des Einkommensteuerbescheids 2013 vom 3. August 2018 wird in Höhe von 37.849,24 €\nfür die Dauer des Einspruchsverfahrens ausgesetzt.\n2. Der Antragsgegner trägt die Kosten des Verfahrens.\nTatbestand\n1\nDie Beteiligten streiten im Einspruchsverfahren darüber, ob ein Gewinn aus einem privaten\nVeräußerungsgeschäft gem. § 23 Abs. 1 Satz 1 Nr. 1 des Einkommensteuergesetzes (EStG) zu\nberücksichtigen ist.\n2\nDie Antragsteller erwarben am 25. April 2003 eine Eigentumswohnung in München, E-Straße 27. Ein Teil\nder Eigentumswohnung (18,04% der Gesamtfläche) wurde in der Zeit vom 25. April 2003 bis zum 1.\nNovember 2006 zu beruflichen/betrieblichen Zwecken genutzt und entsprechend bilanziert. Zum Ende der\nberuflichen/betrieblichen Nutzung wurde dieser Teil der Eigentumswohnung in das Privatvermögen\nüberführt.\n3\nAb dem 1. November 2006 bis zum 23. Mai 2011 wurde die gesamte Wohnung zu eigenen Wohnzwecken\ngenutzt. Anschließend wurde sie fremdvermietet und am 26. November 2013 für 780.000 € veräußert.\n4\nIn ihrer beim Antragsgegner (dem Finanzamt - FA) für das Streitjahr am 16. September 2014 elektronisch\nübermittelten Einkommensteuer(ESt-)Erklärung erklärten die Antragsteller keine Einkünfte aus privaten\nVeräußerungsgeschäften aus dem Verkauf der Eigentumswohnung. Das FA veranlagte die Antragsteller zur\nESt ohne einen Veräußerungsgewinn anzusetzen.\n5\nDie Betriebsprüfungsstelle des Finanzamts Kaufbeuren führte bei den Antragstellern im Zeitraum vom 25.\nJuli 2017 bis zum 12. Februar 2018 eine Betriebsprüfung für die Jahre 2013 bis 2015 durch. Der\nBetriebsprüfer kam zu dem Ergebnis, dass hinsichtlich des ursprünglich bilanzierten Teils (18,04% der\nGesamtfläche) der im Jahr 2013 veräußerten Eigentumswohnung ein privates Veräußerungsgeschäft gem.\n§ 23 Abs. 1 Satz 1 Nr. 1 EStG vorliege. Ein privates Veräußerungsgeschäft i.S. des § 23 Abs. 1 EStG liege\nvor, wenn ein unbewegliches Wirtschaftsgut innerhalb von zehn Jahren nach der Anschaffung bzw. wie im\nStreitfall nach der Entnahme aus dem Betriebsvermögen veräußert werde. § 23 EStG sei ausdrücklich auch\nfür selbständige unbewegliche Wirtschaftsgüter anzuwenden. Ein Ausschlussfall wegen Eigennutzung liege\nauf Grund der Vermietung zu fremden Wohnzwecken nicht vor, die Vermietung ab dem Jahr 2011 sei als\nsteuerschädlich zu bewerten. Der Prüfer ermittelte aufgrund des Veräußerungspreises für die gesamte\nEigentumswohnung i.H.v. 780.000 € Einkünfte aus privaten Veräußerungsgeschäften i.H.v. 90.468 € für den\nim Jahr 2006 ins Privatvermögen überführten Teil der Eigentumswohnung, die er jeweils hälftig auf die\nAntragsteller verteilte (jeweils 45.234 €).\n6\nDas FA folgte der Auffassung der Betriebsprüfung und legte mit nach § 173 Abs. 1 Nr. 1 der\nAbgabenordnung (AO) geändertem ESt-Bescheid 2013 vom 3. August 2018 (vorangegangener ESt-\nBescheid vom 4. März 2015) Einkünfte aus privaten Veräußerungsgeschäften i.H.v. 90.468 € zugrunde und\nsetze die ESt mit 124.968 € fest.\n7\nDagegen legten die Antragsteller Einspruch ein. Zur Begründung tragen sie vor, dass das\nstreitgegenständliche Grundstück außerhalb der Frist des § 23 Abs. 1 Satz 1 Nr. 1 EStG angeschafft und\nveräußert worden sei. § 23 EStG setze zwingend voraus, dass Wirtschaftsgüter einzeln übertragbar und\nveräußerbar sein müssten. Ein häusliches Arbeitszimmer könne diese Voraussetzungen aber nicht erfüllen,\nweil es unabhängig von den anderen Teilen der Wohnung nicht veräußert werden könne. Wirtschaftsgut i.S.\nvon § 23 Abs. 1 Satz 1 Nr. 1 EStG sei die gesamte Wohnung, einschließlich eines Arbeitszimmers.\nÜberdies stelle das vom FA zitierte Urteil des Finanzgerichts (FG) Münster vom 28. August 2011 11 K\n6243/01 E fest, dass ein Veräußerungsgeschäft bei Grundstücken den Arbeitszimmerbereich mitumfasse.\n8\nZugleich beantragten die Antragsteller mit Schreiben vom 8. August 2018 die Vollziehung des ESt-\nBescheides vom 3. August 2018 hinsichtlich der sich aufgrund des angesetzten Veräußerungsgewinns\nergebenden zusätzlichen ESt auszusetzen. Das FA lehnte diesen Antrag mit Bescheid vom 24. September\n2018 ab. Es bezieht sich zur Begründung seiner Rechtsauffassung insbesondere auf das Urteil des FG\nMünster vom 28. August 2003 11 K 6243/01 E.\n9\nMit Schriftsatz vom 5. Oktober 2018 beantragten die Antragsteller gerichtliche Aussetzung der Vollziehung\n(AdV). Zur Begründung tragen Sie weiterhin vor, dass ein häusliches Arbeitszimmer kein selbständiges\nWirtschaftsgut i.S. des § 23 EStG darstelle, weil es in die streitgegenständliche Wohnung integriert sei und\nnicht unabhängig von anderen Teilen der Wohnung veräußerbar sei. Zudem beziehen sie sich auf das Urteil\ndes FG Köln vom 20. März 2018 8 K 1160/15.\n10\nDie Antragsteller beantragen sinngemäß,\ndie Vollziehung des Einkommensteuerbescheids 2013 vom 3. August 2018 i.H.v. 37.849,24 € für die Dauer\ndes Einspruchsverfahrens von der Vollziehung auszusetzen.\n11\nDer Antragsgegner beantragt,\nden Antrag abzulehnen.\n12\nDas FA trägt zur Erwiderung vor, dass nach Auffassung der Finanzverwaltung ein häusliches Arbeitszimmer\nselbst dann nicht Wohnzwecken im Sinne des § 23 Abs. 1 Nr. 1 Satz 3 EStG diene, wenn der Abzug der\nAufwendungen als Betriebsausgaben oder Werbungskosten ausgeschlossen oder eingeschränkt sei und\nbezieht sich auf das Schreiben des Bundesministeriums für Finanzen (BMF) vom 5. Oktober 2000 Az VV\nDEU BMF 2000-10-05 IV C 3-S. 2256-263/00. Ferner habe im - von den Antragstellern vorgetragenen -\nUrteil des FG Köln vom 20. März 2018 8 K 1160/15 kein Arbeitszimmer im steuerrechtlichen Sinn\nvorgelegen. Vielmehr handelte es sich dort um ein Zimmer mit beruflicher Mitnutzung und sei ansonsten zu\nWohnzwecken genutzt worden. Die ledigliche Mitnutzung eines Zimmers sei für die Annahme der\nAusnahmeregelung des § 23 Abs. 1 Nr. 1 Satz 3 EStG jedoch unschädlich. Zudem sei das Arbeitszimmer\nim Streitfall steuerlich berücksichtigt worden.\n13\nWegen des Sachverhalts im Einzelnen wird nach § 105 Abs. 3 Satz 2 der Finanzgerichtsordnung (FGO) auf\ndie dem Gericht vorgelegten Akten des FA und die Gerichtsakte Bezug genommen.\nGründe\n14\nDer zulässige Antrag ist begründet.\n15\n1. An der Rechtmäßigkeit des angefochtenen Verwaltungsaktes bestehen ernstliche Zweifel im Sinne von §\n69 Abs. 3 Satz 1 Halbsatz 2 i.V.m. Abs. 2 Satz 2 FGO, soweit das FA im ESt-Bescheid 2013 einen\nVeräußerungsgewinn i.H.v. 90.468 € gem. § 23 Abs. 1 Satz 1 Nr. 1 EStG angesetzt hat.\n16\nDie Rechtsmäßigkeit eines angefochtenen Verwaltungsaktes ist ernstlich zweifelhaft, wenn bei\nüberschlägiger Prüfung der Sach- und Rechtslage aufgrund der präsenten Beweismittel, der\ngerichtsbekannten Tatsachen und des unstreitigen Sachverhalts erkennbar wird, dass aus gewichtigen\nGründen eine Unklarheit in der Beurteilung von Tatsachen oder eine Unsicherheit oder Unentschiedenheit\nin der Beurteilung von Rechtsfragen besteht und sich bei abschließender Klärung dieser Fragen der\nVerwaltungsakt als rechtswidrig erweisen könnte (vgl. Bundesfinanzhof - BFH - Beschluss vom 18. Mai\n2001 VIII B 25/01, BFH/NV 2001,1119). Der Antrag auf Aussetzung der Vollziehung ist bereits dann\nbegründet, wenn ein nicht nur geringer Grad von Wahrscheinlichkeit dafürspricht, dass der gegen den\nVerwaltungsakt eingelegte Rechtsbehelf Erfolg haben wird (BFH-Urteil vom 7. Juni 1994 IX R 141/89, BStBl\nII 1994, 756).\n17\n2. Diese Voraussetzungen sind im Streitfall bei summarischer Prüfung durch den beschließenden Senat\nerfüllt.\n18\na) Nach § 22 Nr. 2 EStG sind sonstige Einkünfte (§ 2 Abs. 1 Satz 1 Nr. 7 EStG) auch Einkünfte aus privaten\nVeräußerungsgeschäften i.S. des § 23 EStG. Dazu gehören gemäß § 23 Abs. 1 Satz 1 Nr. 1 EStG u.a.\nVeräußerungsgeschäfte bei Grundstücken, bei denen der Zeitraum zwischen Anschaffung und\nVeräußerung nicht mehr als zehn Jahre beträgt. Gebäude und Außenanlagen sind einzubeziehen, soweit\nsie innerhalb dieses Zeitraums errichtet, ausgebaut oder erweitert werden; dies gilt entsprechend für\nGebäudeteile, die selbständige unbewegliche Wirtschafsgüter sind, sowie für Eigentumswohnungen und im\nTeileigentum stehende Räume (§ 23 Abs. 1 Satz 1 Nr. 1 Satz 2 EStG) Ausgenommen sind Wirtschaftsgüter,\ndie im Zeitraum zwischen Anschaffung oder Fertigstellung und Veräußerung ausschließlich zu eigenen\nWohnzwecken (1. Alternative) oder im Jahr der Veräußerung und in den beiden vorangegangenen Jahren\nzu eigenen Wohnzwecken (2. Alternative) genutzt wurden (§ 23 Abs. 1 Satz 1 Nr. 1 Satz 3 EStG).\n19\nAls Anschaffung gilt auch die Überführung eines Wirtschaftsguts in das Privatvermögen des\nSteuerpflichtigen durch Entnahme oder Betriebsaufgabe (§ 23 Abs. 1 Satz 2 EStG). Im Rahmen des § 23\nAbs. 1 Satz 1 Nr. 1 EStG bilden Grund und Boden einerseits sowie aufstehendes Gebäude andererseits\nselbständige Wirtschaftsgüter (vgl. BFH-Urteil vom 29. März 1989 X R 4/84, BStBl II 1989, 652).\n20\nb) Bei Anwendung dieser Grundsätze sind bei der gebotenen summarischen Prüfung anhand der präsenten\nBeweismittel die Tatbestandsvoraussetzungen des § 23 Abs. 1 Satz 1 Nr. 1 Satz 1 EStG schon nicht erfüllt.\n21\nDie Antragsteller erwarben am 25. April 2003 ein (anteiliges) Grundstück samt Eigentumswohnung in der EStraße\n27 in München. Gebäude (bzw. eine Eigentumswohnung) sind selbst bei Anschaffung nicht isoliert\nzu erfassen („sind einzubeziehen“ vgl. § 23 Abs. 1 Satz 1 Nr. 1 Satz 2 2. HS EStG). Das wirtschaftlich\nidentische Grundstück veräußerten die Antragsteller erst nach Ablauf von zehn Jahren seit dieser\nAnschaffung, nämlich am 26. November 2013.\n22\nEntgegen der Auffassung des FA hat der Senat erhebliche Zweifel, dass der streitige Teil der\nEigentumswohnung (18,04% der Gesamtfläche, von den Beteiligten als Arbeitszimmer bezeichnet) ein\nselbständiges Wirtschaftsgut i.S. des § 23 Abs. 1 Satz 2 insbesondere i.V.m. § 23 Abs. 1 Satz 1 Nr. 1 Satz\n1 EStG - Veräußerungsgeschäfte bei Grundstücken - sein kann mit der Folge, dass für diesen Teil der\nWohnung ein eigener Fristlauf beginnt.\n23\nDenn der BFH konkretisiert in seiner Entscheidung vom 19. Juli 1983 VIII R 161/82, BStBl II 1984, 26, unter\nwelchen Voraussetzungen eine Veräußerung von Teilen eines einheitlich angeschafften Wirtschaftsguts\n(hier Grundstück samt Eigentumswohnung) den Tatbestand eines privaten Veräußerungsgeschäfts erfüllen\nkann. Er führt aus, dass die Identität eines aufgeteilten oder aufzuteilenden (so in der Konsequenz nach\nAuffassung des FA) Wirtschaftsguts in den Teilen erhalten bleibt, wenn die Teilung ohne aufwendige\ntechnische Maßnahmen durchgeführt werden kann und sich die Marktgängigkeit des bisherigen\nWirtschaftsguts in den Teilen fortsetzt. Das ist allgemein für Wirtschaftsgüter anzunehmen, die durch bloßen\nRechtsakt, ggf. verbunden mit einer Vermessung, geteilt werden und weiterhin verkehrsfähig bleiben.\nBeispielshaft führt der BFH aus, dass dies bei der Aufteilung eines unbebauten Grundstücks in Parzellen\noder bei der Aufteilung eines Gebäudegrundstücks in Eigentumswohnungen sein kann. Bei einem anteiligen\nGrundstück betreffend einen Raum einer Eigentumswohnung - wie im Streitfall ein Arbeitszimmer - liegt\nnach Meinung des Senats bei überschlägiger Prüfung hingegen keine Marktgängigkeit bzw.\nVerkehrsfähigkeit weder dieses Teils noch des übrigen Teils der Eigentumswohnung vor. Für diese\nAuffassung spricht auch die Aussage des BFH, wonach im Rahmen des § 23 Abs. 1 Satz 1 Nr. 1 Satz 1\nEStG Grund und Boden einerseits sowie aufstehendes Gebäude andererseits selbständige Wirtschaftsgüter\nbilden (vgl. BFH-Urteil vom 29. März 1989 X R 4/84, BStBl II 1989, 652).\n24\nNach Auffassung des Senats begann daher bei summarischer Prüfung für den im Jahr 2006 ins\nPrivatvermögen übernommenen Anteil der Eigentumswohnung der Antragsteller diesbezüglich keine\nseparate Frist i.S. des § 23 Abs. 1 Satz 1 Nr. 1 Satz 1 EStG zu laufen. Das Grundstück ist vielmehr in seiner\nGesamtheit in Bezug auf den Tatbestand des § 23 Abs. 1 Satz 1 Nr. 1 Satz 1 EStG zu betrachten.\n25\nDem vom FA zitierten Urteil des FG Münster vom 28. August 2003 11 K 6243/01 E lässt sich bei\nsummarischer Prüfung nichts Gegenteiliges entnehmen. Vielmehr spricht dieses Urteil gerade gegen die\nAuffassung des FA indem es - wie die Antragsteller zu Recht vortragen - in Rz. 31 am Ende formuliert, dass\nbei einem Veräußerungsgeschäft bei Grundstücken i.S. des § 23 Abs. 1 Satz 1 Nr. 1 Satz 1 EStG u.a.\nGebäude bzw. Eigentumswohnungen einzubeziehen seien und ein solches Veräußerungsgeschäft den\nArbeitszimmerbereich mitumfasse.\n26\nAuch der Hinweis des FA auf das Schreiben des BMF vom 5. Oktober 2000 geht bei summarischer Prüfung\nins Leere. Dass ein anteiliges Grundstück betreffend einen Teil einer Eigentumswohnung ein derartiges\nGrundstück sein kann, dazu trifft dieses Schreiben soweit ersichtlich keine Aussage. Überdies bezieht sich\ndas BMF in seinem Schreiben in Rz. 21 darauf, dass ein häusliches Arbeitszimmer nicht Wohnzwecken i.S.\ndes § 23 Abs. 1 Satz 1 Nr. 1 Satz 3 EStG diene. Auf diese Frage kommt es jedoch - vgl. oben - im Streitfall\nnicht an.\n27\nc) Die Berechnung der auszusetzenden Steuer ergibt sich wie folgt:\nTabelle\n28\nDie Antragsteller haben ausweislich des Schriftsatzes vom 30. Oktober 2018 den Antrag auf AdV lediglich\nauf 37.849,24 € beziffert, worüber der Senat nicht hinausgehen kann.“\n29\n3. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n\n"
+}

@@ -1,0 +1,419 @@
+{
+    "Annotations": [
+        {
+            "annotation": "16",
+            "end": 51,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 57,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialgerichtsverfahren",
+            "end": 82,
+            "start": 59,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 135,
+            "start": 126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 148,
+            "start": 136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "178a",
+            "end": 181,
+            "start": 177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "404a",
+            "end": 192,
+            "start": 188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 202,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 309,
+            "start": 304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelfall",
+            "end": 429,
+            "start": 419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestatten",
+            "end": 709,
+            "start": 700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 858,
+            "start": 848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 1044,
+            "start": 1036,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1071,
+            "start": 1070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1083,
+            "start": 1072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 1316,
+            "start": 1307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1327,
+            "start": 1317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 1387,
+            "start": 1385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1398,
+            "start": 1388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6855",
+            "end": 1417,
+            "start": 1413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1423,
+            "start": 1418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verworfen",
+            "end": 1488,
+            "start": 1479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1542,
+            "start": 1533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1550,
+            "start": 1544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1552,
+            "start": 1551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1555,
+            "start": 1554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 1808,
+            "start": 1804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1811,
+            "start": 1810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 1855,
+            "start": 1846,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2044,
+            "start": 2043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2047,
+            "start": 2046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuweisen",
+            "end": 2304,
+            "start": 2294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2307,
+            "start": 2306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 2453,
+            "start": 2449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2456,
+            "start": 2455,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2596,
+            "start": 2595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2599,
+            "start": 2598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 2791,
+            "start": 2780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2794,
+            "start": 2793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getroffen",
+            "end": 3012,
+            "start": 3003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3128,
+            "start": 3122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statthaft",
+            "end": 3186,
+            "start": 3177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statthaft",
+            "end": 3485,
+            "start": 3476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "292",
+            "end": 3557,
+            "start": 3554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstelle",
+            "end": 3779,
+            "start": 3770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3783,
+            "start": 3781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3786,
+            "start": 3785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwerfen",
+            "end": 3895,
+            "start": 3886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3898,
+            "start": 3897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4243,
+            "start": 4240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 4330,
+            "start": 4325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4334,
+            "start": 4332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 4404,
+            "start": 4397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anhörungsrüge",
+            "end": 4469,
+            "start": 4456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4527,
+            "start": 4521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4681,
+            "start": 4677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4907,
+            "start": 4901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statthaft",
+            "end": 5197,
+            "start": 5188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozesskostenhilfeanträge",
+            "end": 5340,
+            "start": 5315,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5711,
+            "start": 5710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5715,
+            "start": 5713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5981,
+            "start": 5978,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6077,
+            "start": 6076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6081,
+            "start": 6079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statthaft",
+            "end": 6147,
+            "start": 6138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6151,
+            "start": 6149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 6230,
+            "start": 6227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6234,
+            "start": 6232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unanfechtbar",
+            "end": 6284,
+            "start": 6272,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LSG München, Beschluss v. 01.04.2019 – L 7 U 396/16\nTitel:\nSozialgerichtsverfahren: Keine Anhörungsrüge gegen prozessleitende Verfügung\nNormenketten:\nSGG § 106, § 116, § 118, § 178a\nZPO § 404a\nLeitsätze:\n1. Ein uneingeschränktes Recht auf Anwesenheit Dritter bei einer medizinischen Begutachtung\nbesteht nicht.\n2. Der Grundsatz der Parteiöffentlichkeit und des fairen Verfahrens erfordert eine\nAbwägungsentscheidung im Einzelfall.\n3. Bei einer psychiatrischen Begutachtung haben nahe Angehörige (hier: Ehemann) kein Recht auf\nAnwesenheit während der Exploration, dem Prozessbevollmächtigten (hier: Rechtsanwalt), ist\ndagegen die Anwesenheit auf entsprechenden Wunsch der Betroffenen im Einzelfall zu gestatten.\n4. Video- und technische Tonaufzeichnungen durch die Betroffenen und deren\nProzessbevollmächtigten über den Ablauf der Untersuchung sind unzulässig.\nGegen die mit dem Beweisbeschluss getroffene prozessleitende Verfügung des Gerichts, dass der\nBegutachtung eine Begleitperson nicht beiwohnen darf, ist die Anhörungsrüge nicht zulässig.\n(redaktioneller Leitsatz)\nSchlagworte:\nEhemann, nahe Angehörige, psychiatrische Begutachtung, Recht auf Anwesenheit, Dritter, Rechtsanwalt,\nSachverständigengutachten, Begleitperson, Subsidiarität der Anhörungsrüge, Anhörungsrüge, Subsidiarität,\nprozessleitende Verfügung\nVorinstanz:\nSG Landshut, Gerichtsbescheid vom 30.09.2016 – S 9 U 30/15\nFundstelle:\nBeckRS 2019, 6855\nTenor\nI. Die Anhörungsrüge vom 1.11.2018 wird als unzulässig verworfen.\nII. Außergerichtliche Kosten sind nicht zu erstatten.\nGründe\nI.\n1\nStreitig im Verfahren ist, ob der Klägerin wegen der Folgen ihres Unfalls vom 10.12.2013 über den\n31.3.2014 hinaus ein Anspruch auf Leistungen der gesetzlichen Unfallversicherung zusteht und welche\nUnfallfolgen über den 10.6.2014 hinaus verblieben sind.\n2\nDie Klage blieb in erster Instanz erfolglos. Im Berufungsverfahren wurde nach Einholung eines\nneuroradiologischen Gutachtens von Prof. Dr. D. vom 16.3.2018 Dr. C. zur Gerichtssachverständigen\nbestellt (Beweisanordnung vom 12.9.2018).\n3\nMit Schriftsatz vom 15.10.2018 beantragte der Bevollmächtigte der Klägerin, dieser zu gestatten, zur\nUntersuchung bei der Sachverständigen ihren Ehemann als Begleitperson mitzunehmen und die\nSachverständige entsprechend in Kenntnis zu setzen und anzuweisen.\n4\nMit gerichtlichem Schreiben vom 19.10.2018 erhielt der Bevollmächtigte Gelegenheit zur weitergehenden\nBegründung seines Antrags bis zum 2.11.2018.\n5\nDie Sachverständige nahm nach gerichtlicher Aufforderung zum Antrag des Bevollmächtigten vom\n15.10.2018 Stellung (Schreiben vom 24.10.2018).\n6\nMit gerichtlichem Schreiben vom 25.10.2018 wurde die Sachverständige aufgefordert, über die\nNotwendigkeit der Anwesenheit in der Begutachtungssituation in eigener Verantwortung zu entscheiden.\n7\nMit Schriftsatz vom 1.11.2018 erhob der Bevollmächtigte der Klägerin Anhörungsrüge nach § 178a SGG.\nÜber die Anwesenheit habe das Gericht noch vor Ablauf der eingeräumten Stellungnahmefrist eine\nEntscheidung getroffen. Die mit weiterem Schriftsatz vom 31.10.2018 vorgebrachten Gründe hätten so nicht\nmehr berücksichtigt werden können. Die Anhörungsrüge sei vorliegend ausnahmsweise statthaft. Bei\nselbständigen Zwischenentscheidungen, bei denen über eine wesentliche Frage mit bindender Wirkung für\ndas weitere Verfahren entschieden wird, sei die Anhörungsrüge aus Gründen des verfassungsrechtlich\ngebotenen effektiven Rechtsschutzes über den bloßen Wortlaut des § 178a SGG hinaus statthaft. Bezug\ngenommen wurde auf die Entscheidung des BVerfG, BVerfGE 119, 292. Vorliegend handle es sich um ein\nselbständiges Zwischenverfahren, das durch die Antragsablehnung geendet habe, so dass der\nZurückweisungsbeschluss insoweit eine mit der Anhörungsrüge angreifbare Endentscheidung darstelle.\nII.\n8\nDie Anhörungsrüge ist gegen die Verfügung vom 25.10.2018 nicht statthaft und war als unzulässig zu\nverwerfen.\n9\nNach § 178a Abs. 1 SGG ist auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten\nBeteiligten das Verfahren fortzuführen, wenn ein Rechtsmittel oder ein anderer Rechtsbehelf gegen die\nEntscheidung nicht gegeben ist und das Gericht den Anspruch dieses Beteiligten auf rechtliches Gehör in\nentscheidungserheblicher Weise verletzt hat. Gegen eine der Endentscheidung vorausgehende\nEntscheidung findet die Rüge nicht statt.\n10\nVon § 178a Abs. 1 Satz 2 SGG sind sog. Zwischenentscheidungen erfasst. Diese Regelung ist Ausdruck\nder Subsidiarität der Anhörungsrüge. Ein noch laufendes Verfahren soll nicht verzögert werden. Zu\nberücksichtigen ist dabei, dass erst zum Zeitpunkt der Endentscheidung die Entscheidungserheblichkeit\neiner Gehörsverletzung festgestellt werden kann. Die Verletzung kann, soweit sie durch die\nZwischenentscheidung bewirkt und im anschließenden Verfahren nicht geheilt worden ist, grundsätzlich\nnoch im Rahmen der Anhörungsrüge gegen die Endentscheidung geltend gemacht werden. Bei sog.\nselbständigen Zwischenentscheidungen, bei denen über eine wesentliche Frage mit bindender Wirkung für\ndas weitere Verfahren entschieden wird, ist nach der Rechtsprechung des Bundesverfassungsgerichts aus\nGründen des gebotenen effektiven Rechtsschutzes die Anhörungsrüge statthaft. Beispiele hierfür sind u.a.\ndie Entscheidung über Ablehnungsgesuche gegen Gerichtspersonen und Sachverständige oder\nProzesskostenhilfeanträge. Demnach bleiben auch unter Berücksichtigung der Rechtsprechung des BVerfG\nBeiladungen nach § 75 SGG und prozessleitende Verfügungen nach § 172 Abs. 2 SGG, zu denen\nausdrücklich auch Beweisbeschlüsse gehören, unanfechtbar (vgl. Meyer-Ladewig, SGG, Kommentar, 12.\nAuflage 2017, § 178a Rn 3b bis 3e und § 172 Rn 6c; JurisPK, SGG, § 178a Rn 39 und 43; § 172 Rn 118\nund 126).\n11\nDie Berichterstatterin hat vorliegend mit dem gerichtlichen Schreiben vom 25.10.2018 eine prozessleitende\nVerfügung zur Anwesenheit eines Beistandes während der Untersuchung gemäß § 202 SGG i.V.m. § 404a\nZPO getroffen, die Teil der Beweisanordnung vom 12.9.2018 ist. Eines förmlichen Beweisbeschlusses\nbedurfte es nicht (vgl. Meyer-Ladewig, a.a.O., § 118 Rn 8c).\n12\nGegen diese Verfügung ist die Anhörungsrüge somit nicht statthaft.\n13\nDie Kostenentscheidung beruht auf einer entsprechenden Anwendung des § 193 SGG.\n14\nDieser Beschluss ist gemäß § 177 SGG unanfechtbar.\n\n"
+}

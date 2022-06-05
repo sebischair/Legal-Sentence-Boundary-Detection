@@ -1,0 +1,473 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltung",
+            "end": 10,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferangebots",
+            "end": 180,
+            "start": 166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 240,
+            "start": 236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 382,
+            "start": 369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 486,
+            "start": 480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 727,
+            "start": 723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 949,
+            "start": 942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 972,
+            "start": 963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unverbindlich",
+            "end": 1028,
+            "start": 1015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1109,
+            "start": 1106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1453,
+            "start": 1450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1624,
+            "start": 1614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1758,
+            "start": 1750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "land",
+            "end": 1796,
+            "start": 1792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mengen",
+            "end": 1861,
+            "start": 1855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preisaktionen",
+            "end": 1981,
+            "start": 1968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "automatisiert",
+            "end": 2150,
+            "start": 2137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2362,
+            "start": 2358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preis",
+            "end": 2372,
+            "start": 2367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2455,
+            "start": 2449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2530,
+            "start": 2527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 2615,
+            "start": 2609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 2668,
+            "start": 2654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Euro",
+            "end": 2741,
+            "start": 2737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freibleibend",
+            "end": 2795,
+            "start": 2783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktionen",
+            "end": 2859,
+            "start": 2851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reicht",
+            "end": 2900,
+            "start": 2894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2990,
+            "start": 2984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 3059,
+            "start": 3050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3223,
+            "start": 3220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3500,
+            "start": 3496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3712,
+            "start": 3707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 3731,
+            "start": 3717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3822,
+            "start": 3819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3846,
+            "start": 3827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angefordert",
+            "end": 3962,
+            "start": 3951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestätigungsemail",
+            "end": 4014,
+            "start": 3997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungseingang",
+            "end": 4065,
+            "start": 4050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 4173,
+            "start": 4165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 4265,
+            "start": 4259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandwunsch",
+            "end": 4387,
+            "start": 4374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bonitätsprüfung",
+            "end": 4408,
+            "start": 4393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergegeben",
+            "end": 4705,
+            "start": 4692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigern",
+            "end": 4836,
+            "start": 4826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4882,
+            "start": 4864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 5007,
+            "start": 5000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustehen",
+            "end": 5185,
+            "start": 5177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadenersatz",
+            "end": 5235,
+            "start": 5222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 5289,
+            "start": 5269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 5514,
+            "start": 5503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsansprüche",
+            "end": 5615,
+            "start": 5591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 5893,
+            "start": 5885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Annahmeverweigerung",
+            "end": 5935,
+            "start": 5916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6168,
+            "start": 6163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preisliste",
+            "end": 6419,
+            "start": 6409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgezogen",
+            "end": 6501,
+            "start": 6492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 6562,
+            "start": 6555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verrechnen",
+            "end": 6696,
+            "start": 6686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutschrift",
+            "end": 6763,
+            "start": 6753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 6905,
+            "start": 6900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7067,
+            "start": 7061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgerechnet",
+            "end": 7250,
+            "start": 7238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeleitet",
+            "end": 7339,
+            "start": 7328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 7395,
+            "start": 7389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 7435,
+            "start": 7430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 7449,
+            "start": 7436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohnort",
+            "end": 7561,
+            "start": 7554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 7886,
+            "start": 7876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 7957,
+            "start": 7951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 7976,
+            "start": 7971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 8096,
+            "start": 8085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 8250,
+            "start": 8241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendaten",
+            "end": 8292,
+            "start": 8281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8417,
+            "start": 8411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertdienstnummern",
+            "end": 8565,
+            "start": 8544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 8590,
+            "start": 8571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 8743,
+            "start": 8734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 8933,
+            "start": 8928,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltung\n(1) Die nachstehenden Bedingungen gelten für alle Verkäufe, Lieferungen und Leistungen von grooves.land und den Lieferpartnern, im Rahmen des grooves.land Lieferangebots. Sie finden Anwendung soweit nichts anderes vereinbart wird. Geschäftsbedingungen des Kunden gelten nur, soweit wir Ihnen ausdrücklich zustimmen, ansonsten wird Ihnen hiermit ausdrücklich widersprochen. Abweichungen von diesen Geschäftsbedingungen gelten nur, wenn sie von uns schriftlich bestätigt werden.\n(2) Verbraucher im Sinne der nachstehenden Regelungen ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist jede natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer selbständigen beruflichen oder gewerblichen Tätigkeit handelt.\n2. Angebote/Lieferung\n(1) Unsere Angebote sind freibleibend und unverbindlich. Ihre Bestellung stellt ein Angebot an uns zum Abschluss eines Kaufvertrages dar. Wenn Sie eine Bestellung bei grooves.land aufgeben, schicken wir Ihnen eine E-Mail, die den Eingang Ihrer Bestellung bei uns bestätigt und deren Einzelheiten aufführt (Bestellbestätigung). Diese Bestellbestätigung stellt keine Annahme Ihres Angebotes dar, sondern soll Sie nur darüber informieren, dass Ihre Bestellung bei uns eingegangen ist. Ein Kaufvertrag kommt erst dann zustande, wenn wir das bestellte Produkt an Sie versenden und den Versand an Sie mit einer zweiten E-Mail (Versandbestätigung) bestätigen. Über Produkte aus ein und derselben Bestellung, die nicht in der Versandbestätigung aufgeführt sind, kommt kein Kaufvertrag zustande. Vertragspartner ist die grooves.land.\n(2) Die Abgabe der Ware erfolgt nur in haushaltsüblichen Mengen. Wir behalten uns vor, Bestellungen von offensichtlichen Wiederverkäufern zu stornieren, insbesondere bei Preisaktionen.\n(3) Die Abwicklung der Bestellung und Übermittlung aller im Zusammenhang mit dem Vertragsschluss erforderlichen Informationen erfolgt per E-Mail zum Teil automatisiert. Sie haben deshalb sicherzustellen, dass die von Ihnen bei uns hinterlegte E-Mail-Adresse zutreffend ist, der Empfang der E-Mails technisch sichergestellt und insbesondere nicht durch SPAM-Filter verhindert wird.\n3. Preis\n(1) Es gelten die Preise vom Tag der Bestellung, die im Warenkorb angezeigt werden. Preisänderungen durch Irrtümer und technische Fehler behalten wir uns vor. Bei falschen Preisangaben versenden wir nichts ohne vorherige Zustimmung des Kunden. Alle Preise verstehen sich inklusive Mehrwertsteuer.\n(2) Unsere Preise verstehen sich, soweit nicht anders angegeben in Euro. Sonderangebote und Gratis-Angebote sind freibleibend. Es besteht kein Anspruch auf Fortführung von Angebots-Aktionen.Sonderangebote solange der Vorrat reicht. Gratisartikel können pro Kunde Artikel und Bestellung nur maximal einmal bestellt werden.\n(3) Die anfallenden Versandkosten sind nicht im Kaufpreis enthalten. Sie werden im Laufe des Bestellvorganges gesondert ausgewiesen und sind von Ihnen zusätzlich zu tragen, soweit nicht die versandkostenfreie Lieferung zugesagt ist.\n(4) Erfolgt die Lieferung in Länder außerhalb der Europäischen Union können von uns nicht zu vertretende weitere Kosten anfallen, wie z.B. Zölle, Steuern oder Geldübermittlungsgebühren (Überweisungs- oder Wechselkursgebühren der Kreditinstitute), die von Ihnen zu tragen sind. Entstandene Kosten der Geldübermittlung sind von Ihnen auch in den Fällen zu tragen, in denen die Lieferung in einen EU-Mitgliedsstaat erfolgt, die Zahlung aber außerhalb der Europäischen Union veranlasst wurde.\n4. Gefahrübergang\nDie Gefahr geht auf den Besteller über, sobald die Sendung den Lieferstandort erreicht hat.\n5. Zahlungsbedingungen\n(1) Bei Zahlung per Vorkasse wird der Bestelleingang von uns per Email bestätigt und der Vorkassebetrag angefordert. Zahlen Sie bitte erst auf unsere Bestätigungsemail. Der Versand der Ware erfolgt nach Zahlungseingang.\nBei Zahlung per Bankeinzug wird eine Abbuchung von Ihrem Bankkonto erst nach dem Versand der Ware erfolgen.\nBitte beachten sie, dass Ihnen nicht immer alle Zahlungsmöglichkeiten zur Verfügung stehen. Diese sind abhängig von der Art der Bestellung, den bestellten Artikeln, ihrem Wohnort und eventuell ihrem Versandwunsch.\n(2) Bonitätsprüfung: Sofern wir in Vorleistung treten, z.B. bei Zahlung auf Rechnung oder Lastschrift, werden Ihre Daten zur Wahrung unserer berechtigten Interessen zum Zwecke der Bonitätsprüfung auf der Basis mathematisch-statistischer Verfahren an die creditPass, Mehlbeerenstr. 4, 82024 Taufkirchen, weitergegeben. Wir behalten uns das Recht vor, Ihnen im Ergebnis der Bonitätsprüfung die Zahlungsart auf Rechnung oder Lastschrift zu verweigern.\n6. Zurückbehaltungsrecht, Eigentumsvorbehalt\n(1) Ein Zurückbehaltungsrecht können Sie nur ausüben, soweit es sich um Forderungen aus demselben Vertragsverhältnis handelt.\n(2) Wir behalten uns das Eigentum an den gelieferten Waren vor, solange uns noch Forderungen aus der gegenwärtigen oder künftigen Geschäftsverbindung mit dem Besteller zustehen.\n7. Gewährleistung, Mängelrügen und Schadenersatz\n(1) Es bestehen die gesetzlichen Mängelhaftungsrechte.\n(2) Als Verbraucher werden Sie gebeten, die Sache bei Lieferung umgehend auf Vollständigkeit, offensichtliche Mängel und Transportschäden zu überprüfen und uns sowie dem Spediteur Beanstandungen schnellstmöglich mitzuteilen. Kommen Sie dem nicht nach, hat dies keine Auswirkung auf Ihre gesetzlichen Gewährleistungsansprüche.\n(3) Schadensersatzansprüche wegen Verletzung unser vertraglichen, vorvertraglichen oder gesetzlichen Pflichten, sind sowohl gegen uns als auch gegen unsere Erfüllungs- bzw. Verrichtungsgehilfen ausgeschlossen, soweit nicht vorsätzliches oder grob fahrlässiges Handeln vorliegt.\n8. Kulanzrücknahme / Annahmeverweigerung\na. Waren dürfen nur dann zurückgesandt werden, wenn wir in Gewährleistungsfällen ausdrücklich darum gebeten haben oder wenn wir uns mit der Rücksendung oder einem Umtausch ausnahmsweise vorher schriftlich einverstanden erklärt haben.\nb. Für aufgrund von Rücksendungs- oder Umtauschvereinbahrungen, die nicht auf eine Gewährleistungspflicht unsererseits beruhen, zurückgesandten Waren, erteilen wir Gutschrift nach der im Zeitpunkt der Rücksendung der Ware jeweils gültigen Preisliste. Etwa in Anspruch genommenen Skonto und Einkaufsvorteile werden hierbei abgezogen. Eine Barauszahlung des Gutschriftbetrages ist nicht möglich. Wir sind berechtigt, sämtliche, auch noch nicht fällige Forderungen gegen den Besteller mit dessen Forderung gegen uns zu verrechnen.\nc. Für unberechtigt zugesandte Ware erteilen wir keine Gutschrift.\nd. Alle zurückgesandten Waren müssen sich in einem Zustand befinden, der uns ebenfalls eine Rücksendung an unseren Lieferanten möglich macht.\ne. Grundsätzlich können bei nicht gefallen der Ware od. schon erhaltenen Waren von anderen Lieferanten die Bestellten Artikel an uns nicht zurückgesendet werden.\nf. Sollte die von uns gelieferte Ware mit dem Postvermerk \"Nicht abgeholt od. Annahme verweigert\" an uns zurück gehen so werden dem Besteller gesondert die Porto Kosten aufgerechnet.\ng. Nach wiederholtem Zusenden der Ware wird ein Inkasso gegen den Besteller eingeleitet. Hierfür anfallende Kosten sind vom Besteller zu tragen.\n9. Gerichtsstand und anwendbares Recht\nGerichtsstand: Sind Sie privater Endverbraucher und Ihr Wohnsitz liegt innerhalb der EU, so ist der Gerichtsstand Ihr Wohnort.\nIm Geschäftsverkehr mit Kaufleuten und mit juristischen Personen des öffentlichen Rechts wird als Gerichtsstand für alle Rechtsstreitigkeiten über diese Geschäftsbedingungen und unter deren Geltung geschlossenen Einzelverträge, einschließlich Wechsel- und Scheckklagen, der Geschäftssitz von Grooves Inc (Berlin) vereinbart. Wir sind in diesem Fall auch berechtigt, am Sitz des Kunden zu klagen.\nAnwendbares Recht: Für sämtliche Rechtsgeschäfte oder andere rechtliche Beziehungen mit uns gilt das Recht der Bundesrepublik Deutschland. Das UN-Kaufrecht (CISG) sowie etwaige sonstige zwischenstaatliche Übereinkommen, auch nach ihrer Übernahme in das deutsche Recht, finden keine Anwendung.\n10. Werbung / Verwendung von Kundendaten\nDie Nutzung der durch uns erhobenen Kundendaten für Werbezwecke kann bei der Erhebung oder jederzeit später untersagt werden.\nFür die Übermittlung der Untersagung entstehen ausschließlich Übermittlungskosten nach den Basistarifen und keine Kosten für Mehrwertdienstnummern.\n11. Schlussbestimmungen\nSollte eine Bestimmung in diesen Geschäftsbedingungen unwirksam sein oder werden, so wird hiervon die Wirksamkeit aller sonstigen Bestimmungen unberührt. Die Parteien sind verpflichtet die unwirksame Bestimmung durch eine wirksame Regelung rückwirkend zu ersetzten, die dem mit der unwirksamen Bestimmung verfolgten Zweck möglichst nahe kommt.\n\n"
+}

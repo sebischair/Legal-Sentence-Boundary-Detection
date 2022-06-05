@@ -1,0 +1,353 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bestimmungen",
+            "end": 29,
+            "start": 17,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 196,
+            "start": 187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 322,
+            "start": 309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 563,
+            "start": 559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 785,
+            "start": 778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 819,
+            "start": 810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Waren",
+            "end": 874,
+            "start": 869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedingungen",
+            "end": 1093,
+            "start": 1082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1168,
+            "start": 1160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 1184,
+            "start": 1170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 1199,
+            "start": 1185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "automatisiert",
+            "end": 1367,
+            "start": 1354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1579,
+            "start": 1575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsarten",
+            "end": 1638,
+            "start": 1625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Checkout",
+            "end": 1672,
+            "start": 1664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 1718,
+            "start": 1700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 1843,
+            "start": 1836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 1926,
+            "start": 1918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 1946,
+            "start": 1932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 2000,
+            "start": 1980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 2225,
+            "start": 2214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsansprüche",
+            "end": 2326,
+            "start": 2302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtswahl",
+            "end": 2342,
+            "start": 2332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 2371,
+            "start": 2366,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2594,
+            "start": 2593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 2671,
+            "start": 2662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufers",
+            "end": 2700,
+            "start": 2690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 2710,
+            "start": 2701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 2738,
+            "start": 2723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "odr",
+            "end": 2900,
+            "start": 2897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 2951,
+            "start": 2942,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3136,
+            "start": 3135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 3181,
+            "start": 3158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 3214,
+            "start": 3207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 3281,
+            "start": 3270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3453,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersandt",
+            "end": 3662,
+            "start": 3653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodizes",
+            "end": 3684,
+            "start": 3667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 4020,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unter",
+            "end": 4106,
+            "start": 4101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "pdf",
+            "end": 4173,
+            "start": 4170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistung",
+            "end": 4227,
+            "start": 4213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angebot",
+            "end": 4320,
+            "start": 4313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmodalitäten",
+            "end": 4355,
+            "start": 4336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 4460,
+            "start": 4457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuern",
+            "end": 4540,
+            "start": 4533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 4610,
+            "start": 4601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4893,
+            "start": 4890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5171,
+            "start": 5167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 5383,
+            "start": 5378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 5560,
+            "start": 5549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 5712,
+            "start": 5706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 5734,
+            "start": 5717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angebot",
+            "end": 5950,
+            "start": 5943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 6252,
+            "start": 6245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6429,
+            "start": 6424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 6467,
+            "start": 6448,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6587,
+            "start": 6586,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Grundlegende Bestimmungen\n(1) Die nachstehenden Geschäftsbedingungen gelten für alle Verträge, die Sie mit uns als Anbieter (Florian Müller) über die Internetseite www.parfumgroup.de schließen. Soweit nicht anders vereinbart, wird der Einbeziehung gegebenenfalls von Ihnen verwendeter eigener Bedingungen widersprochen.\n(2) Verbraucher im Sinne der nachstehenden Regelungen ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist jede natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer selbständigen beruflichen oder gewerblichen Tätigkeit handelt.\n§ 2 Zustandekommen des Vertrages\n(1) Gegenstand des Vertrages ist der Verkauf von Waren.\n(2) Bereits mit dem Einstellen des jeweiligen Produkts auf unserer Internetseite unterbreiten wir Ihnen ein verbindliches Angebot zum Abschluss eines Vertrages zu den in der Artikelbeschreibung angegebenen Bedingungen. \n(3) Der Vertrag kommt über das Online-Warenkorbsystem wie folgt zustande: Bestellvorgang\nBezahlmethoden\n(4) Die Abwicklung der Bestellung und Übermittlung aller im Zusammenhang mit dem Vertragsschluss erforderlichen Informationen erfolgt per E-Mail zum Teil automatisiert. Sie haben deshalb sicherzustellen, dass die von Ihnen bei uns hinterlegte E-Mail-Adresse zutreffend ist, der Empfang der E-Mails technisch sichergestellt und insbesondere nicht durch SPAM-Filter verhindert wird.\n§ 3 Besondere Vereinbarungen zu angebotenen Zahlungsarten\n (1) Zahlung über Klarna Checkout\n§ 4 Zurückbehaltungsrecht, Eigentumsvorbehalt\n(1) Ein Zurückbehaltungsrecht können Sie nur ausüben, soweit es sich um Forderungen aus demselben Vertragsverhältnis handelt.\n(2)  Die Ware bleibt bis zur vollständigen Zahlung des Kaufpreises unser Eigentum.\n§ 5 Gewährleistung\n(1) Es bestehen die gesetzlichen Mängelhaftungsrechte.\n(2) Als Verbraucher werden Sie gebeten, die Sache bei Lieferung umgehend auf Vollständigkeit, offensichtliche Mängel und Transportschäden zu überprüfen und uns sowie dem Spediteur Beanstandungen schnellstmöglich mitzuteilen. Kommen Sie dem nicht nach, hat dies keine Auswirkung auf Ihre gesetzlichen Gewährleistungsansprüche.\n§ 6 Rechtswahl\n(1)  Es gilt deutsches Recht. Bei Verbrauchern gilt diese Rechtswahl nur, soweit hierdurch der durch zwingende Bestimmungen des Rechts des Staates des gewöhnlichen Aufenthaltes des Verbrauchers gewährte Schutz nicht entzogen wird (Günstigkeitsprinzip).\n(2)  Die Bestimmungen des UN-Kaufrechts finden ausdrücklich keine Anwendung.\n1. Identität des Verkäufers\nAnschrift\nAlternative Streitbeilegung:\nDie Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, aufrufbar unter http://ec.europa.eu/odr.\n2. Informationen zum Zustandekommen des Vertrages\nDie technischen Schritte zum Vertragsschluss, der Vertragsschluss selbst und die Korrekturmöglichkeiten erfolgen nach Maßgabe des § 2 unserer Allgemeinen Geschäftsbedingungen (Teil I.).\n3. Vertragssprache, Vertragstextspeicherung\n3.1. Vertragssprache ist deutsch.\n3.2. Der vollständige Vertragstext wird von uns nicht gespeichert. Vor Absenden der Bestellung über das Online - Warenkorbsystem  können die Vertragsdaten über die Druckfunktion des Browsers ausgedruckt oder elektronisch gesichert werden. Nach Zugang der Bestellung bei uns werden die Bestelldaten, die gesetzlich vorgeschriebenen Informationen bei Fernabsatzverträgen und die Allgemeinen Geschäftsbedingungen nochmals per E-Mail an Sie übersandt.\n4. Verhaltenskodizes\n4.1. Wir haben uns den Käufersiegel-Qualitätskriterien der Händlerbund Management AG und damit einhergehend dem Ecommerce Europe Trustmark Code of Conduct unterworfen, einsehbar unter: http://www.haendlerbund.de/images/content/kaeufersiegel/kaeufersiegel-qualitatskriterien.pdf und http://www.ecommercetrustmark.eu/the-code-of-conduct/\n4.2. Wir haben uns dem Ehrenkodex der Trusted Shops GmbH unterworfen, einsehbar unter: http://www.trustedshops.com/tsdocument/TS_QUALITY_CRITERIA_de.pdf.\n5. Wesentliche Merkmale der Ware oder Dienstleistung\nDie wesentlichen Merkmale der Ware und/oder Dienstleistung finden sich im jeweiligen Angebot.\n6. Preise und Zahlungsmodalitäten\n6.1. Die in den jeweiligen Angeboten angeführten Preise sowie die Versandkosten stellen Gesamtpreise dar. Sie beinhalten alle Preisbestandteile einschließlich aller anfallenden Steuern.\n6.2. Die anfallenden Versandkosten sind nicht im Kaufpreis enthalten. Sie sind über eine entsprechend bezeichnete Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot aufrufbar, werden im Laufe des Bestellvorganges gesondert ausgewiesen und sind von Ihnen zusätzlich zu tragen, soweit nicht die versandkostenfreie Lieferung zugesagt ist.\n6.3. Erfolgt die Lieferung in Länder außerhalb der Europäischen Union können von uns nicht zu vertretende weitere Kosten anfallen, wie z.B. Zölle, Steuern oder Geldübermittlungsgebühren (Überweisungs- oder Wechselkursgebühren der Kreditinstitute), die von Ihnen zu tragen sind. Entstandene Kosten der Geldübermittlung sind von Ihnen auch in den Fällen zu tragen, in denen die Lieferung in einen EU-Mitgliedsstaat erfolgt, die Zahlung aber außerhalb der Europäischen Union veranlasst wurde.\n6.4. Die Ihnen zur Verfügung stehenden Zahlungsarten sind unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot ausgewiesen.\n6.5. Soweit bei den einzelnen Zahlungsarten nicht anders angegeben, sind die Zahlungsansprüche aus dem geschlossenen Vertrag sofort zur Zahlung fällig.\n7. Lieferbedingungen\n7.1. Die Lieferbedingungen, der Liefertermin sowie gegebenenfalls bestehende Lieferbeschränkungen finden sich unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot.\n7.2. Soweit Sie Verbraucher sind ist gesetzlich geregelt, dass die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache während der Versendung erst mit der Übergabe der Ware an Sie übergeht, unabhängig davon, ob die Versendung versichert oder unversichert erfolgt. Dies gilt nicht, wenn Sie eigenständig ein nicht vom Unternehmer benanntes Transportunternehmen oder eine sonst zur Ausführung der Versendung bestimmte Person beauftragt haben. \n8. Gesetzliches Mängelhaftungsrecht \nDie Mängelhaftung richtet sich nach der Regelung \"Gewährleistung\" in unseren Allgemeinen Geschäftsbedingungen (Teil I).\n\n"
+}

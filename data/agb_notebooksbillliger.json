@@ -1,0 +1,803 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 17,
+            "start": 2,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 172,
+            "start": 152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 369,
+            "start": 366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 476,
+            "start": 463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsabschluss",
+            "end": 497,
+            "start": 480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 671,
+            "start": 659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 852,
+            "start": 840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 982,
+            "start": 979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1163,
+            "start": 1161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1417,
+            "start": 1414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 1589,
+            "start": 1580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1749,
+            "start": 1739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1812,
+            "start": 1804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 1868,
+            "start": 1857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 2042,
+            "start": 2032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 2171,
+            "start": 2162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2273,
+            "start": 2265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 2579,
+            "start": 2572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annimmt",
+            "end": 2889,
+            "start": 2882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3162,
+            "start": 3159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3251,
+            "start": 3242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 3447,
+            "start": 3437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 3588,
+            "start": 3585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 3783,
+            "start": 3774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 3946,
+            "start": 3941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 4141,
+            "start": 4133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4340,
+            "start": 4336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anklicken",
+            "end": 4544,
+            "start": 4535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 4625,
+            "start": 4616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 4823,
+            "start": 4812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4912,
+            "start": 4907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 5156,
+            "start": 5152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 5347,
+            "start": 5340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 5382,
+            "start": 5363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5913,
+            "start": 5910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6250,
+            "start": 6247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 6357,
+            "start": 6346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 6444,
+            "start": 6438,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6651,
+            "start": 6650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 6702,
+            "start": 6692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 7012,
+            "start": 7006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 7156,
+            "start": 7150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 7429,
+            "start": 7423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 7584,
+            "start": 7578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abtreten",
+            "end": 7807,
+            "start": 7799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 7900,
+            "start": 7893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutschriften",
+            "end": 8118,
+            "start": 8106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 8231,
+            "start": 8227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 8461,
+            "start": 8455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 8710,
+            "start": 8704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abtreten",
+            "end": 9020,
+            "start": 9012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 9138,
+            "start": 9131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutschriften",
+            "end": 9356,
+            "start": 9344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 9469,
+            "start": 9465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teilzahlungsgeschäfte",
+            "end": 9593,
+            "start": 9572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorrangig",
+            "end": 9813,
+            "start": 9804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9942,
+            "start": 9936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "full",
+            "end": 10496,
+            "start": 10492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 10960,
+            "start": 10950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belastet",
+            "end": 11073,
+            "start": 11065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufen",
+            "end": 11192,
+            "start": 11185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 11206,
+            "start": 11197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 11403,
+            "start": 11397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügbar",
+            "end": 11496,
+            "start": 11487,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11677,
+            "start": 11676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügbar",
+            "end": 11774,
+            "start": 11765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungseingang",
+            "end": 12080,
+            "start": 12065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungseingang",
+            "end": 12302,
+            "start": 12287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 12422,
+            "start": 12414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12493,
+            "start": 12489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 12681,
+            "start": 12672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bordsteinkante",
+            "end": 12755,
+            "start": 12741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 12943,
+            "start": 12939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 13213,
+            "start": 13202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 13385,
+            "start": 13373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13490,
+            "start": 13487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausüben",
+            "end": 13604,
+            "start": 13597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 13729,
+            "start": 13720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 13785,
+            "start": 13771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13890,
+            "start": 13887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelanzeige",
+            "end": 13946,
+            "start": 13933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 14334,
+            "start": 14330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "HGB",
+            "end": 14432,
+            "start": 14429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 14454,
+            "start": 14436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 14570,
+            "start": 14568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 14743,
+            "start": 14735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 14931,
+            "start": 14928,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15129,
+            "start": 15128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzuverkaufen",
+            "end": 15213,
+            "start": 15196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwachsen",
+            "end": 15401,
+            "start": 15392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 15476,
+            "start": 15471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermächtigt",
+            "end": 15553,
+            "start": 15543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einziehen",
+            "end": 15634,
+            "start": 15625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 15816,
+            "start": 15808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstützen",
+            "end": 16004,
+            "start": 15992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 16197,
+            "start": 16187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 16285,
+            "start": 16283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 16303,
+            "start": 16289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 16371,
+            "start": 16352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 16474,
+            "start": 16464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 16617,
+            "start": 16613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 16699,
+            "start": 16690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 16775,
+            "start": 16761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 17045,
+            "start": 17042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 17349,
+            "start": 17332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gefährdet",
+            "end": 17664,
+            "start": 17655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 17881,
+            "start": 17879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 18022,
+            "start": 18011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 18037,
+            "start": 18026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 18193,
+            "start": 18181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 18304,
+            "start": 18293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzugeben",
+            "end": 18463,
+            "start": 18450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 18539,
+            "start": 18528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wenden",
+            "end": 18675,
+            "start": 18669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückliegt",
+            "end": 18822,
+            "start": 18811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 19062,
+            "start": 19060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 19080,
+            "start": 19066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belehrt",
+            "end": 19522,
+            "start": 19515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 19534,
+            "start": 19527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 19623,
+            "start": 19617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 19643,
+            "start": 19625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 19959,
+            "start": 19955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 20168,
+            "start": 20164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 20481,
+            "start": 20476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 20626,
+            "start": 20612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 20932,
+            "start": 20927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 20981,
+            "start": 20962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 21136,
+            "start": 21124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 21283,
+            "start": 21278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sarstedt",
+            "end": 21571,
+            "start": 21563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erheben",
+            "end": 21657,
+            "start": 21650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferverkehr",
+            "end": 21781,
+            "start": 21768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bieten",
+            "end": 22026,
+            "start": 22020,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Geltungsbereich\n1. Lieferungen und Leistungen der notebooksbilliger.de AG (im Folgenden „notebooksbilliger.de“) erfolgen auf Basis dieser Allgemeinen Geschäftsbedingungen.\n2. Diese allgemeinen Geschäftsbedingungen gelten auch für Unternehmen, juristische Personen des öffentlichen Rechtes oder öffentlich-rechtliche Sondervermögen im Sinne des § 310 Abs. 1 Satz 1 BGB.\n3. Dem formularmäßigen Hinweis auf die Geltung eigener Geschäftsbedingungen des Kunden wird widersprochen.\n2 Vertragsabschluss\n1. Soweit der Kunde Waren über die Website www.notebooksbilliger.de oder www.nullprozentshop.de bestellt, gelten die im Folgenden unter Absatz 2 bis 7 genannten Bestimmungen. Nutzt der Kunde hingegen Handelsplattformen wie zum Beispiel eBay, um Waren von der notebooksbilliger.de AG zu bestellen, so gelten die unter Absatz 8 und 9 genannten Bestimmungen.\n2. Die Darstellung der Waren im Onlineshop stellt kein rechtlich bindendes Angebot, sondern eine Aufforderung zur Bestellung dar. Durch die Bestellung der gewünschten Waren per Internet, Telefon oder E-Mail gibt der Kunde ein verbindliches Angebot zum Abschluss eines Kaufvertrages mit notebooksbilliger.de ab. Bei Bestellung über den Onlineshop gibt der Kunde ein verbindliches Angebot zum Abschluss eines Kaufvertrages über das betreffende Produkt ab, sobald er alle verlangten Angaben eingetragen und im letzten Schritt den Button „Jetzt kaufen“ angeklickt hat.\n3. notebooksbilliger.de versendet unverzüglich nach Eingang eines Angebotes eine Bestätigung über den Inhalt des Angebotes, welche allerdings noch keine Annahme darstellt. notebooksbilliger.de ist berechtigt, das Angebot des Kunden innerhalb von 5 Kalendertagen durch Übersendung einer Auftragsbestätigung an den Kunden anzunehmen. Mit Zugang der Auftragsbestätigung kommt der Vertrag zustande.\n4. Die Auftragsbestätigung wird per E-Mail übermittelt. Ist notebooksbilliger.de keine E-Mail-Adresse des Kunden, unter der E-Mails zugestellt werden können, bekannt, wird die Auftragsbestätigung zusammen mit der Ware zugestellt. Sollte notebooksbilliger.de das Angebot des Kunden nicht innerhalb von 5 Tagen angenommen haben, gilt das Angebot als abgelehnt. Über Produkte, die nicht in der Auftragsbestätigung aufgeführt sind, kommt kein Kaufvertrag zustande.\n5. Ist auch die Vermittlung eines Mobilfunk- und/oder Datentarifvertrages Bestandteil des Vertrages, so kommt der Mobilfunk- bzw. Datentarifvertrag unmittelbar mit dem Mobilfunkbetreiber zustande, wobei notebooksbilliger.de im Rahmen des Vertragsabschlusses als Vermittler des Mobilfunkbetreibers handelt.\n6. Bestellt der Kunde eine Ware, die im Onlineshop lediglich mit dem Hinweis „Jetzt vorbestellen“ ausgezeichnet ist, kommt zwischen dem Kunden und notebooksbilliger.de ein verbindlicher Kaufvertrag zustande, sobald notebooksbilliger.de das Vertragsangebot des Kunden gemäß den vorstehenden Regelungen annimmt. Der Kunde hat in einem solchen Fall jedoch das Recht, den Vertrag kostenfrei durch eine entsprechende Erklärung gegenüber notebooksbilliger.de zu stornieren, solange der Kunde noch keine Information über den Versand der Ware an ihn oder die vorbestellte Ware erhalten hat. Das ggf. bestehende gesetzliche Widerrufsrecht für Verbraucher bleibt hiervon unberührt.\n7. Bestellt ein Endkunde eine Ware in einer mehr als handelsüblichen Menge, behält sich notebooksbilliger.de vor, ein entsprechendes Vertragsangebot nicht anzunehmen und die Lieferung abzulehnen.\n8. Die Darstellung der Waren auf Handelsplattformen wie zum Beispiel eBay stellen bindende Angebote seitens der notebooksbilliger.de AG dar. Im Fall von „Sofort-Kaufen“-Angeboten findet der Vertragsschluss in dem Zeitpunkt statt, in dem der Kunde den „Sofort-Kaufen“-Button anklickt und diese Auswahl auf der folgenden Seite bestätigt. Im Fall von Auktionsangeboten findet der Vertragsschluss im Zeitpunkt des Zeitablaufes des jeweiligen Angebotes mit dem zu diesem Zeitpunkt Höchstbietenden statt.\n9. Vor verbindlicher Abgabe der Bestellung über das Online-Bestellformular können Sie mögliche Eingabefehler durch aufmerksames Lesen der auf dem Bildschirm dargestellten Informationen erkennen. Ein wirksames technisches Mittel zur besseren Erkennung von Eingabefehlern kann dabei die Vergrößerungsfunktion des Browsers sein, mit deren Hilfe die Darstellung auf dem Bildschirm vergrößert wird. Ihre Eingaben können Sie im Rahmen des elektronischen Bestellprozesses so lange über die üblichen Tastatur- und Mausfunktionen korrigieren, bis Sie den den Bestellvorgang abschließenden Button anklicken. Für den Vertragsschluss steht ausschließlich die deutsche Sprache zur Verfügung. Bei der Abgabe eines Angebots über das Online-Bestellformular wird der Vertragstext nach dem Vertragsschluss durch uns gespeichert und Ihnen nach Absendung Ihrer Bestellung in Textform übermittelt. Eine darüber hinausgehende Zugänglichmachung des Vertragstextes durch uns erfolgt nicht. Beim Kauf über eBay gilt, dass zusätzlich der Vertragstext bei eBay archiviert wird und vom Kunden unter Angabe der entsprechenden Artikelnummer für die Dauer von 90 Tagen nach Vertragsschluss unter www.ebay.de kostenlos abgerufen werden kann. Zur Anzeige der Artikelseite mit dem Vertragstext kann der Kunde die zugehörige Artikelnummer in das auf der eBay-Startseite vorhandene Suchfeld eingeben und auf den Button \"Finden\" klicken. \n3 Preise und Zahlungsbedingungen\n1. Preisangaben im Onlineshop sowie auf Handelsplattformen wie z.B. eBay.de verstehen sich in Euro inklusive Umsatzsteuer, zzgl. Liefer- und Versandkosten (für im Onlineshop angebotene Produkte abrufbar unter http://www.notebooksbilliger.de/infocenter/section/shipping, bei Angeboten auf Handelsplattformen wie z.B. eBay jeweils als Versandkosten gesondert angegeben), sowie ohne sonstige Nebenleistungen (z.B. Schulung, Installation, gesondertes Zubehör oder Software usw.), soweit nicht ausdrücklich etwas anderes vereinbart ist. Ist im Geschäftskundenkonto die Option „Nettopreise“ ausgewählt, verstehen sich alle Preisangaben im Onlineshop exklusive Umsatzsteuer und zzgl. Liefer- und Versandkosten (http://www.notebooksbilliger.de/infocenter/section/shipping), sowie ohne sonstige Nebenleistungen (wie vor), soweit nicht ausdrücklich etwas anderes vereinbart ist.\n2. Rechnungen und ggf. erforderliche Mahnungen werden ausschließlich per E-Mail an den Kunden übermittelt.\n3. Rechnungsbeträge sind sofort zur Zahlung fällig und ohne jeglichen Abzug zu zahlen.\n4. Erfolgt die Zahlung für eine Online-Bestellung per Kreditkarte, erfolgt die Abrechnung der Kreditkartenumsätze über die notebooksbilliger.de S.à.r.l. (65, bd. Grande-Duchesse, 1331 Luxemburg, Luxemburg).\n5. Der Kunde ist nicht zur Aufrechnung berechtigt. Das Aufrechnungsverbot gilt nicht, wenn die Gegenforderungen von notebooksbilliger.de nicht bestritten, rechtskräftig festgestellt, oder zur Entscheidung reif sind oder wenn es sich um Gegenforderungen handelt, die zu den Zahlungsansprüchen von notebooksbilliger.de in einem Gegenseitigkeitsverhältnis stehen. Zur Ausübung eines Zurückbehaltungsrechts ist der Kunde nur insoweit befugt, als sein Gegenanspruch auf dem gleichen Vertragsverhältnis beruht.\n6. Beim Kauf auf Rechnung für Privatkunden mit BillPay ist der Rechnungsbetrag an dem in der Rechnung genannten Kalendertag (20 Kalendertage nach dem Rechnungsdatum) zur Zahlung an unseren externen Partner BillPay GmbH [Link auf https://www.billpay.de/endkunden/ ] fällig. Die Zahlungsart Kauf auf Rechnung besteht nicht für alle Angebote und setzt unter anderem eine erfolgreiche Bonitätsprüfung durch die BillPay GmbH voraus. Wenn dem Kunden für bestimmte Angebote nach Prüfung der Bonität der Kauf auf Rechnung gestattet wird, erfolgt die Abwicklung der Zahlung in Zusammenarbeit mit der BillPay GmbH, an die wir unsere Zahlungsforderung abtreten. Der Kunde kann in diesem Fall nur an die BillPay GmbH mit schuldbefreiender Wirkung leisten. Wir bleiben auch bei dem Kauf auf Rechnung über BillPay zuständig für allgemeine Kundenanfragen (z.B. zur Ware, Lieferzeit, Versendung), Retouren, Reklamationen, Widerruferklärungen und -zusendungen oder Gutschriften. Es gelten die Allgemeinen Geschäftsbedingungen (https://www.billpay.de/allgemein/datenschutz/) der BillPay GmbH.\n7. Beim Kauf auf Rechnung für Geschäftskunden mit BillPay ist der Rechnungsbetrag an dem in der Rechnung genannten Kalendertag (30 Kalendertage nach dem Rechnungsdatum) zur Zahlung an unseren externen Partner BillPay GmbH fällig. Die Zahlungsart Kauf auf Rechnung besteht nicht für alle Angebote und setzt unter anderem eine erfolgreiche Bonitätsprüfung durch die BillPay GmbH als Dienstleister des mit BillPay zusammen arbeitenden Factors, der net-m privatbank 1891 AG, voraus. Wenn dem Kunden für bestimmte Angebote nach Prüfung der Bonität der Kauf auf Rechnung gestattet wird, erfolgt die Abwicklung der Zahlung in Zusammenarbeit mit der BillPay GmbH und dem mit der BillPay GmbH zusammen arbeitenden Factor, der net-m privatbank 1891 AG, an den wir unsere Zahlungsforderung abtreten. Der Kunde kann in diesem Fall nur an den Factor, die net-m privatbank 1891 AG, mit schuldbefreiender Wirkung leisten. Wir bleiben auch bei dem Kauf auf Rechnung über BillPay zuständig für allgemeine Kundenanfragen (z.B. zur Ware, Lieferzeit, Versendung), Retouren, Reklamationen, Widerruferklärungen und -zusendungen oder Gutschriften. Es gelten die Allgemeinen Geschäftsbedingungen (https://www.billpay.de/allgemein/datenschutz/) der BillPay GmbH.\n8. Für Teilzahlungsgeschäfte („PayLater“) gelten ergänzend unsere Besonderen Vertragsbedingungen für Teilzahlungsgeschäfte. Wenn und soweit die Besonderen Vertragsbedingungen für Teilzahlungsgeschäfte zu diesen Allgemeinen Geschäftsbedingungen im Widerspruch stehen, sind die Besonderen Vertragsbedingungen für Teilzahlungsgeschäfte vorrangig. Die Besonderen Vertragsbedingungen für Teilzahlungsgeschäfte können unter http://notebooksbilli.gr/paylater-agb einsehen werden.\n9. Bei Zahlung mittels einer von PayPal angebotenen Zahlungsart erfolgt die Zahlungsabwicklung über den Zahlungsdienstleister PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (im Folgenden: \"PayPal\"), unter Geltung der PayPal-Nutzungsbedingungen, einsehbar unter https://www.paypal.com/de/webapps/mpp/ua/useragreement-full oder - falls der Kunde nicht über ein PayPal-Konto verfügt – unter Geltung der Bedingungen für Zahlungen ohne PayPal-Konto, einsehbar unter https://www.paypal.com/de/webapps/mpp/ua/privacywax-full.\n10. Bei Auswahl der Zahlungsart „SOFORT“ erfolgt die Zahlungsabwicklung über den Zahlungsdienstleister SOFORT GmbH, Theresienhöhe 12, 80339 München (im Folgenden „SOFORT“). Um den Rechnungsbetrag über „SOFORT“ bezahlen zu können, muss der Kunde über ein für die Teilnahme an „SOFORT“ frei geschaltetes Online-Banking-Konto mit PIN/TAN-Verfahren verfügen, sich beim Zahlungsvorgang entsprechend legitimieren und die Zahlungsanweisung gegenüber „SOFORT“ bestätigen. Die Zahlungstransaktion wird unmittelbar danach von „SOFORT“ durchgeführt und das Bankkonto des Kunden belastet. Nähere Informationen zur Zahlungsart „SOFORT“ kann der Kunde im Internet unter https://www.klarna.com/sofort/ abrufen. \n4 Lieferung\n1. Unter www.notebooksbilliger.de oder www.nullprozentshop.de beworbene Artikel sind in der Regel mit einer Verfügbarkeitsangabe versehen, aus der sich ein spätester Verfügbarkeitszeitpunkt ergibt. Wird ein Artikel ohne besondere Verfügbarkeitsangabe beworben, gilt er als sofort verfügbar. Ist ein Artikel lediglich mit dem Hinweis „Jetzt vorbestellen“ ohne Lieferzeitangabe ausgezeichnet, ist er nicht lieferbar und kann lediglich vorbestellt werden (vgl. § 2 Abs. 5.). Artikel, die auf Handelsplattformen wie z.B. eBay angeboten werden, gelten als sofort verfügbar. Sofern nichts anderes vereinbart ist, liefert notebooksbilliger.de innerhalb von zehn Tagen ab dem jeweils angegebenen spätesten Verfügbarkeitszeitpunkt nach Vertragsschluss, bei Zahlung per Vorkasse innerhalb von zehn Tagen ab dem jeweils angegebenen spätesten Verfügbarkeitszeitpunkt ab Zahlungseingang. Ist ein Artikel innerhalb von max. 4 Tagen verfügbar, liefert notebooksbilliger.de diesen Artikel also z. B. innerhalb von 14 Tagen ab Vertragsschluss, bei Zahlung per Vorkasse innerhalb von 14 Tagen nach Zahlungseingang. Gerät notebooksbilliger.de in Lieferverzug und setzt der Kunde eine Nachfrist, muss diese mindestens 2 Wochen betragen.\n2. Teillieferungen sind zulässig, soweit sie dem Kunden zumutbar sind.\n3. notebooksbilliger.de steht es ohne ausdrückliche Weisung des Käufers frei, die Versandart, die mit dem Versand beauftragte Firma und den Versandweg nach billigem Ermessen zu bestimmen. Die Lieferung nicht paketversandfähiger Ware erfolgt frei Bordsteinkante.\n4. Ist der Kunde Unternehmer, geht die Gefahr des zufälligen Untergangs oder der zufälligen Verschlechterung der Ware mit Übergabe an den beauftragten Logistikpartner auf den Kunden über.\n5. Ist die Ware trotz des vorherigen Abschlusses eines entsprechenden Einkaufsvertrags nicht oder vorübergehend nicht lieferbar, wird notebooksbilliger.de den Kunden hierüber unverzüglich nach der Bestellung sowie in der Folgezeit in regelmäßigen Abständen informieren. Bis zur Selbstbelieferung durch den Vorlieferanten ist notebooksbilliger.de von der Leistungspflicht befreit und kann bei fehlender Lieferbarkeit vom Vertrag zurücktreten. Dies gilt nicht, wenn notebooksbilliger.de die Nichtlieferung durch den Vorlieferanten zu vertreten hat. Falls notebooksbilliger.de zurücktreten will, wird notebooksbilliger.de das Rücktrittsrecht unverzüglich ausüben. Im Falle des Rücktritts werden bereits auf den Kaufpreis gezahlte Beträge unverzüglich durch notebooksbilliger.de erstattet. Schadensersatzansprüche des Kunden sind ausgeschlossen. Dies gilt nicht, wenn notebooksbilliger.de die Nichtlieferung durch den Vorlieferanten zu vertreten hat.\n5 Transportschäden / Ausschlussfrist für Mängelanzeige\nWerden Waren mit offensichtlichen Schäden an der Verpackung oder am Inhalt abgeliefert, so hat der Kunde dies unbeschadet seiner Gewährleistungsrechte notebooksbilliger.de spätestens zwei Wochen nach Erhalt der Ware unter Tel.: +49 (0)30 398202 100 mitzuteilen, damit notebooksbilliger.de den Transportschaden ihrerseits gegenüber dem beauftragten Logistikunternehmen geltend machen kann. Ist der Kunde Kaufmann und gehört der Vertrag zum Betrieb seines Handelsgewerbes, gilt § 377 HGB.\n6 Eigentumsvorbehalt\n1. Die gelieferte Ware verbleibt bis zur vollständigen Zahlung des Kaufpreises im Eigentum von notebooksbilliger.de. Vor Eigentumsübergang ist eine Verpfändung, Sicherungsübereignung, Verarbeitung oder Umgestaltung ohne ausdrückliche Einwilligung durch notebooksbilliger.de nicht zulässig.\n2. Gegenüber Kunden nach § 1 Ziffer 2 behält sich notebooksbilliger.de das Eigentum an dem Liefergegenstand bis zum Eingang aller Zahlungen aus der Geschäftsverbindung mit dem Kunden vor. Der Eigentumsvorbehalt erstreckt sich in diesem Fall auch auf den anerkannten Saldo, wenn notebooksbilliger.de Forderungen gegenüber dem Kunden in laufende Rechnungen bucht (Kontokorrentvorbehalt). Der Kunde ist berechtigt, die Ware im ordentlichen Geschäftsgang weiterzuverkaufen. Der Kunde tritt bereits jetzt alle Forderungen in Höhe des Brutto-Rechnungsbetrages an notebooksbilliger.de ab, die ihm aus der Weiterveräußerung gegen seine Kunden oder Dritte erwachsen. Dies gilt unabhängig davon, ob die Ware verarbeitet worden ist oder nicht. Der Kunde bleibt zur Einziehung der Forderung nach der Abtretung ermächtigt. notebooksbilliger.de kann nach eigener Wahl die Forderung auch selbst einziehen. notebooksbilliger.de wird die Forderung nicht einziehen, solange der Kunde seinen Zahlungsverpflichtungen gegenüber notebooksbilliger.de nachkommt und sich nicht in Verzug befindet. Im Fall des Zahlungsverzuges ist der Kunde verpflichtet, alle zum Einzug der Forderung erforderlichen Angaben zu machen und notebooksbilliger.de beim Einzug der Forderung zu unterstützen. notebooksbilliger.de ist verpflichtet, die bestehenden Sicherheiten auf Verlangen des Kunden insoweit freizugeben, als ihr Wert den Wert der bestehenden Forderungen um mehr als 20% übersteigt. Die Auswahl der freizugebenden Sicherheiten steht im Ermessen von notebooksbilliger.de.\n7 Gewährleistung\n1. Für gelieferte Ware besteht ein gesetzliches Mängelhaftungsrecht. Die Gewährleistung richtet sich nach den gesetzlichen Bestimmungen sowie den nachstehenden Regelungen.\n2. Handelt der Kunde als Unternehmer, so verjähren seine Ansprüche aufgrund von Mängeln der Ware mit Ablauf von einem Jahr ab Erhalt der Ware; die gesetzliche Verjährung von Rückgriffsansprüchen (§ 479 BGB) bleibt unberührt. Darüber hinaus ist die Gewährleistung für gebrauchte Sachen ausgeschlossen.\n3. Die in Ziffer 2. genannten Verjährungsfristen gelten nicht für Schadensersatzansprüche im Falle des Vorsatzes oder bei arglistigem Verschweigen eines Mangels oder soweit notebooksbilliger.de eine Garantie für die Beschaffenheit des Liefergegenstandes übernommen hat. Sie gelten außerdem nicht für Schadensersatzansprüche wegen Sachmängeln in den Fällen der Verletzung des Lebens, des Körpers oder der Gesundheit, bei Ansprüchen nach dem Produkthaftungsgesetz, bei einer grob fahrlässigen Pflichtverletzung oder bei schuldhafter Verletzung wesentlicher Vertragspflichten. Wesentliche Vertragspflichten sind solche vertraglichen Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, und deren Verletzung auf der anderen Seite die Erreichung des Vertragszwecks gefährdet.\n4. Schäden, die durch unsachgemäße oder vertragswidrige Maßnahmen des Kunden bei Aufstellung, Verwendung, Anschluss, Bedienung oder Lagerung hervorgerufen werden, begründen keinen Anspruch gegen notebooksbilliger.de.\n5. Vor Einsendung von mangelhafter Ware hat der Kunde auf eigene Kosten und auf eigenes Risiko eine vollständige Datensicherung vorzunehmen.\n8 Datenschutz\n1. Bei allen Vorgängen der Datenverarbeitung (z.B. Erhebung, Verarbeitung und Übermittlung) handelt notebooksbilliger.de nach den gesetzlichen Vorschriften. Die vom Kunden übermittelten personenbezogenen Daten werden bei notebooksbilliger.de elektronisch gespeichert. notebooksbilliger.de ist berechtigt, die zur Vertragsabwicklung erforderlichen Daten auch an zur Abwicklung des Vertrages eingeschaltete Dritte weiterzugeben.\n2. Die Bestellungen des Kunden werden bei notebooksbilliger.de gespeichert. Sollte der Kunde Unterlagen zu seinen Bestellungen verlieren, kann er sich per E-Mail, Fax oder Telefon an notebooksbilliger.de wenden. notebooksbilliger.de sendet ihm per E-Mail eine Kopie der Daten seiner Bestellung zu, sofern die Bestellung nicht länger als ein Jahr zurückliegt.\n3. Weitere Informationen über Art, Umfang, Ort und Zweck der Erhebung, Verarbeitung und Nutzung der für die Ausführung von Bestellungen notwendigen personenbezogenen Daten befinden sich in der Datenschutzerklärung von notebooksbilliger.de.\n9 Widerrufsrecht\nSchließt der Kunde als Verbraucher einen Vertrag mit notebooksbilliger.de und verwenden der Kunde und notebooksbilliger.de für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommunikationsmittel (z. B. Bestellung über einen Onlineshop oder über Handelsplattformen wie z.B. eBay.de sowie Telefon oder Fax), steht dem Kunden in der Regel ein gesetzliches Widerrufsrecht zu, über das notebooksbilliger.de gesondert belehrt.\n10 Haftung\n1. notebooksbilliger.de haftet nach den gesetzlichen Bestimmungen für Schäden des Kunden: Sonderbestimmungen. Im Falle einer lediglich leicht fahrlässigen Verletzung einer wesentlichen Vertragspflicht (siehe Absatz 2) ist die Haftung von notebooksbilliger.de jedoch beschränkt auf solche Schäden, mit deren Entstehung im Rahmen der Erbringung der vereinbarten Leistungen typischerweise und vorhersehbar gerechnet werden muss. Diese Beschränkung gilt nicht, soweit Schäden die Folge einer Verletzung der Gesundheit, des Körpers oder des Lebens oder die Folge des Nichtvorhandenseins einer garantierten Beschaffenheit der Leistung sind.\n2. Wesentliche Vertragspflichten sind solche vertragliche Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf, und deren Verletzung auf der anderen Seite die Erreichung des Vertragszwecks gefährden würde.\n3. Im Übrigen ist die Haftung von notebooksbilliger.de und ihren Erfüllungs- und Verrichtungsgehilfen unabhängig vom Rechtsgrund ausgeschlossen.\n4. Im Falle eines von notebooksbilliger.de zu vertretenden Verlustes von Daten haftet notebooksbilliger.de nur für solche Schäden, die trotz einer regelmäßigen und angesichts der Art der Daten, des Verlustrisikos und der drohenden Folgen eines Datenverlustes angemessenen Datensicherung eingetreten wären.\n11 Verbraucherschlichtung / Schlussbestimmungen\n1. notebooksbilliger.de ist grundsätzlich nicht bereit und verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n2. Sollte eine Bestimmung dieser allgemeinen Geschäftsbedingungen unwirksam sein, berührt dies die Wirksamkeit der sonstigen Vereinbarungen nicht.\n3. Hat der Kunde keinen allgemeinen Gerichtsstand innerhalb der Europäischen Union oder ist er Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich rechtliches Sondervermögen, ist Gerichtsstand für alle sich aus dem Vertragsverhältnis ergebenden Ansprüche 31157 Sarstedt. notebooksbilliger.de ist jedoch berechtigt, Klage auch am Sitz des Kunden zu erheben.\n4. Es gilt ausschließlich deutsches Recht unter Ausschluss des UN-Kaufrechtes, auch im grenzüberschreitenden Lieferverkehr. Ist der Kunde ein Verbraucher, sind darüber hinaus die zwingenden Verbraucherschutzbestimmungen anwendbar, die in dem Staat gelten, in dem der Kunde seinen gewöhnlichen Aufenthalt hat, sofern diese dem Kunden einen weitergehenden Schutz bieten.\n\n"
+}

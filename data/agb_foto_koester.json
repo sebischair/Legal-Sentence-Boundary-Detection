@@ -1,0 +1,521 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Allgemeines",
+            "end": 14,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 157,
+            "start": 155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 283,
+            "start": 270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 368,
+            "start": 348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 401,
+            "start": 392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 546,
+            "start": 543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgegeben",
+            "end": 724,
+            "start": 715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 849,
+            "start": 846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 909,
+            "start": 901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 1111,
+            "start": 1106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1446,
+            "start": 1443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verspätet",
+            "end": 1534,
+            "start": 1525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1740,
+            "start": 1736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtswahl",
+            "end": 1755,
+            "start": 1745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 1881,
+            "start": 1872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 2030,
+            "start": 2027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 2089,
+            "start": 2075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2135,
+            "start": 2122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 2249,
+            "start": 2240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2321,
+            "start": 2319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EU-Ausland",
+            "end": 2380,
+            "start": 2370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2396,
+            "start": 2382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2446,
+            "start": 2439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2462,
+            "start": 2448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeliefert",
+            "end": 2543,
+            "start": 2531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spedition",
+            "end": 2645,
+            "start": 2636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 2775,
+            "start": 2766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 2814,
+            "start": 2801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 2912,
+            "start": 2910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "”",
+            "end": 3191,
+            "start": 3190,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3445,
+            "start": 3444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 3560,
+            "start": 3551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Webseite",
+            "end": 3710,
+            "start": 3702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherstreitbeilegungsverfahren",
+            "end": 3778,
+            "start": 3742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingerichtet",
+            "end": 3889,
+            "start": 3877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4083,
+            "start": 4077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "odr",
+            "end": 4179,
+            "start": 4176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 4373,
+            "start": 4361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 4462,
+            "start": 4453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsverkehr",
+            "end": 4515,
+            "start": 4499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 4559,
+            "start": 4544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 4617,
+            "start": 4614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausdruck",
+            "end": 4657,
+            "start": 4649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sichert",
+            "end": 4823,
+            "start": 4816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszudrucken",
+            "end": 4924,
+            "start": 4912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 5038,
+            "start": 5028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeit",
+            "end": 5064,
+            "start": 5044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vornimmt",
+            "end": 5237,
+            "start": 5229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abbrechen",
+            "end": 5333,
+            "start": 5324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5491,
+            "start": 5487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 5504,
+            "start": 5497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 5593,
+            "start": 5586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodex",
+            "end": 5614,
+            "start": 5599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterworfen",
+            "end": 5687,
+            "start": 5676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 5706,
+            "start": 5692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Waren",
+            "end": 5764,
+            "start": 5759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 5868,
+            "start": 5862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 5932,
+            "start": 5926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Käufer",
+            "end": 6005,
+            "start": 5999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftungsgesetz",
+            "end": 7059,
+            "start": 7038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 7156,
+            "start": 7153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abnutzung",
+            "end": 7252,
+            "start": 7243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 7275,
+            "start": 7257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7395,
+            "start": 7392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 7566,
+            "start": 7557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 7643,
+            "start": 7631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7930,
+            "start": 7924,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7970,
+            "start": 7969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsorgen",
+            "end": 8107,
+            "start": 8098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 8189,
+            "start": 8187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeben",
+            "end": 8288,
+            "start": 8277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekennzeichnet",
+            "end": 8522,
+            "start": 8508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warensendung",
+            "end": 8606,
+            "start": 8594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 8628,
+            "start": 8612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 8818,
+            "start": 8815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 8951,
+            "start": 8939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9080,
+            "start": 9074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 9097,
+            "start": 9086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 9259,
+            "start": 9250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urheberrechtshinweis",
+            "end": 9285,
+            "start": 9265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschützt",
+            "end": 9401,
+            "start": 9392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfolgt",
+            "end": 9540,
+            "start": 9532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 9559,
+            "start": 9546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 9897,
+            "start": 9890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 9924,
+            "start": 9917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 10184,
+            "start": 10177,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Allgemeines\n(1) Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Angebote und Leistungen betreffend die Internet-Plattform www.foto-koester.de. Sofern der Kunde auf die Einbeziehung seiner eigenen Geschäfts- oder Einkaufsbedingungen hinweist, wird diesen widersprochen.\n(2) Individuelle Vertragsabreden haben Vorrang vor Allgemeinen Geschäftsbedingungen.\n2. Zustandekommen des Vertrages\n(1) Die Leistungsbeschreibungen auf unseren Internetseiten www.foto-koester.de stellen noch keine Angebote zum Abschluss eines Kaufvertrages dar. Ein solches Angebot wird erst mit der Online-Bestellung des Kunden über das Kontaktformular oder auf Grund einer telefonischen oder in Textform erfolgenden Bestellung abgegeben. Die anschließend von uns verschickte Bestätigung des Eingangs der Bestellung stellt noch keine Annahme dieses Angebotes dar. Der Kaufvertrag kommt erst mit Lieferung der Ware zustande. Der Kunde ist an sein Angebot nicht mehr gebunden (dieses erlischt), falls wir ihm nicht binnen 5 Kalendertagen (gerechnet ab dem Eingang der Bestellung bei uns) die Annahmeerklärung übermittelt haben.\n(2) Ist eine dem Kunden verspätet zugegangene Annahmeerklärung dergestalt abgesendet worden, dass sie bei regelmäßiger Beförderung ihm rechtzeitig zugegangen sein würde, und musste der Kunde dies erkennen, so hat er uns die Verspätung unverzüglich nach dem Empfang der Erklärung anzuzeigen, sofern es nicht schon vorher geschehen ist. Verzögert der Kunde die Absendung der Anzeige, so gilt die Annahme als nicht verspätet. Im Übrigen gilt die verspätete Annahme durch uns als ein neues Angebot zum Abschluss eines Kaufvertrages, das der Kunde durch ausdrückliche Annahmeerklärung oder durch Entgegennahme der Ware annehmen kann.\n3. Rechtswahl\nAuf die vertraglichen Beziehungen zwischen den Kaufvertragsparteien findet das Recht der Bundesrepublik Deutschland Anwendung. Von dieser Rechtswahl ausgenommen sind die zwingenden Verbraucherschutzvorschriften des Landes, in dem der Kunde seinen gewöhnlichen Aufenthalt hat. Die Anwendung des UN-Kaufrechts (CSIG) ist ausgeschlossen.\n4. Preise, Zahlung, Lieferung, Versandkosten\n(1) In der Vergütung ist die zum Zeitpunkt der Bestellung jeweils gültige Umsatzsteuer (Mehrwertsteuer) enthalten.\n(2) Bei Vertragsschlüssen bieten wir folgende Zahlungsmöglichkeiten an.\nFür Lieferungen innerhalb Deutschlands und ins EU-Ausland: Bezahlmethoden\nInnerhalb Deutschlands ist darüber hinaus möglich: Bezahlmethoden\n(3) Alle Artikel werden innerhalb Deutschlands und in Länder der EU ausgeliefert.\n(4) Die Lieferung erfolgt entweder per DHL, DPD, UPS, Post oder über eine herstellereigene Spedition.\n(5) Die Versandkosten finden Sie in der Schaltfläche “Versand und Zahlungsbedingungen” in der Navigation sowie bei den Angeboten.\n5. Fernabsatzrechtliche Informationen\nDie Beschreibung der Waren ergibt sich aus der Präsentation im Internet unter www.foto-koester.de.\nDie Belehrungen über Ihr gesetzliches Widerrufsrecht als Verbraucher, Ausnahmen vom Widerrufsrecht, dessen vorzeitiges Erlöschen, das Widerrufsformular, die Folgen des Widerrufs, z. B. Rücksendung, Rücksendekosten und Wertersatz, finden Sie unter dem Menüpunkt “Widerrufsrecht”.\nDie Lieferung erfolgt spätestens innerhalb von 5 Arbeitstagen (Montag bis Freitag, Feiertage ausgenommen) nach Erteilung des Zahlungsauftrags an das überweisende Kreditinstitut (bei Vorkasse) bzw. nach Vertragsschluss (bei Nachnahme oder Rechnungskauf).\nWir erbringen keine Kundendienstleistungen, insbesondere keinen Kundendienst, und gewähren selbst keine Garantien.\nAlle weiteren Informationen zu unserem Unternehmen, dem Angebot und der Abwicklung des Kaufs ergeben sich aus den Darstellungen auf unserer Webseite.\n6. Online-Streitbeilegung und Verbraucherstreitbeilegungsverfahren\n(1) Die Europäische Kommission hat eine Internetplattform zur Online-Beilegung von Streitigkeiten eingerichtet. Die Plattform dient als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten über vertragliche Verpflichtungen aus Kauf- und Dienstleistungsverträgen, die online geschlossen wurden. Sie können die Plattform unter dem folgenden Link erreichen: http://ec.europa.eu/consumers/odr\n(2) Die Foto Köster OHG erklärt sich bei rechtlichen Konflikten mit Verbrauchern (§ 13 BGB) bereit, an Verbraucher­schlichtungs­verfahren nach dem Verbraucherstreitbeilegungsgesetz teilzunehmen. Die für die Foto Köster OHG zuständige Verbraucher­schlichtungsstelle ist die Anschrift\n7. Informationen zum elektronischen Geschäftsverkehr\n(1) Technische Schritte zum Vertragsschluss: Siehe dazu die die Erläuterungen in Ziffer 2 unserer AGB.\n(2) Vertragstextspeicherung / Ausdruck: Der Kunde kann den Vertragstext abspeichern, indem er durch die Funktion seines Browsers \"Speichern unter\" die betreffende Internetseite auf seinem Computer sichert. Durch die Druckfunktion seines Browsers hat er zudem die Möglichkeit, den Vertragstext auszudrucken. Wir selbst speichern die Vertragstexte und machen dem Kunden diese auf Wunsch per Email oder per Post zugänglich.\n(3) Korrekturmöglichkeit: Seine Eingaben kann der Kunde während des Bestellvorgangs jederzeit korrigieren, indem er den Button \"Zurück\" im Browser wählt und dann die entsprechende Änderung vornimmt. Durch Schließen des Webbrowsers kann der Kunde den gesamten Bestellvorgang jederzeit abbrechen. Weiterhin bietet auch die Bestellübersicht vor Absenden der Online-Bestellung noch eine zusätzliche Korrekturmöglichkeit, auf die der Kunde hingewiesen wird.\n(4) Sprache :Die für den Vertragsabschluss zur Verfügung stehende Sprache ist ausschließlich Deutsch.\n(5) Verhaltenskodex: Wir haben uns keinem besonderen Verhaltenskodex (Regelwerk) unterworfen.\n8. Gewährleistung\nEs besteht ein gesetzliches Mängelhaftungsrecht für Waren. Die Gewährleistung bei Mängeln der Ware beträgt bei Neuwaren gemäß der gesetzlichen Regelung 24 Monate. Für gebrauchte Waren beträgt die Gewährleistungszeit 12 Monate. Die Gewährleistungsfrist beginnt ab der Übergabe der Ware an den Käufer. Es bleibt aber bei der regelmäßigen Verjährungsfrist von 3 Jahren, beginnend mit dem Schluss des Jahres, in dem 1. der Anspruch entstanden ist und 2. der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste, - wenn es um die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit geht, die auf einer von mir begangenen fahrlässigen oder vorsätzlichen Pflichtverletzung oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung eines meiner Erfüllungsgehilfen beruhen oder - wenn es um die Haftung für sonstige Schäden geht, die auf einer von mir begangenen vorsätzlichen oder grob fahrlässigen Pflichtverletzung oder auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung eines meiner Erfüllungsgehilfen beruhen oder - wenn es um die Haftung für arglistig verschwiegene Mängel, um Ansprüche aus Garantieversprechen oder die Haftung nach zwingenden gesetzlichen Vorschriften geht, z. B. nach dem Produkthaftungsgesetz. Unberührt bleibt die zweijährige Verjährungsfrist für Rückgriffsansprüche gemäß §§ 478, 479 BGB.\nDie Gewährleistung erstreckt sich nicht auf den normalen Verschleiß oder die normale Abnutzung.\n9. Eigentumsvorbehalt\n(1) Wir behalten uns das Eigentum an dem gelieferten Gegenstand bis zum Eingang aller Zahlungen aus dem Kaufvertrag vor. Kommt der Käufer seinen vertraglichen Pflichten nicht nach, insbesondere im Fall des Zahlungsverzugs, sind wir berechtigt, den gelieferten Gegenstand heraus zu verlangen; der Käufer ist in diesem Falle zur Herausgabe des Gegenstandes verpflichtet.\n(2) Der Käufer ist verpflichtet, uns bei Pfändungen bezüglich des Kaufgegenstandes oder sonstiger diesbezüglicher Zugriffe oder Zugriffsversuche Dritter bezüglich des Kaufgegenstandes unverzüglich zu benachrichtigen, damit wir unsere Rechte aus dem Eigentumsvorbehalt wahrnehmen können.\n10. Hinweis zum Batteriegesetz (BattG)\nFalls das Angebot Akkus oder Batterien umfasst, sind Sie gesetzlich verpflichtet, gebrauchte Batterien oder Akkus gesondert zu entsorgen. Bitte geben Sie diese an einer kommunalen Sammelstelle oder im Handel vor Ort ab. Batterien und Akkus, die sie von uns erhalten haben, können Sie bei uns unentgeltlich zurückgeben. Batterien oder Akkus, die Schadstoffe enthalten, sind mit dem Symbol einer durchgestrichenen Mülltonne und dem chemischen Symbol des jeweiligen Schadstoffes (z.B. \"Cd\" für Cadmium, \"Pb\" für Blei, \"Hg\" für Quecksilber) gekennzeichnet. Sie finden diese Hinweise auch noch einmal in den Begleitpapieren der Warensendung.\n11. Transportschäden\n(1) Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte sofort bei dem Zusteller und nehmen Sie bitte schnellstmöglich Kontakt mit uns auf.\n(2) Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Gewährleistungsansprüche keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. dem Transportversicherer geltend machen zu können.\n12. Datenschutz\nIn Bezug auf unsere Regelungen zum Datenschutz verweisen wir auf unsere ausführliche Datenschutzerklärung, die Sie auch jederzeit über das Service-Menü erreichen.\n13. Urheberrechtshinweis\nDie auf unseren Internetseiten eingestellten Fotos und die von uns erstellten Texte sind urheberrechtlich geschützt. Das unbefugte Kopieren und Veröffentlichen hiervon (auch nur auszugsweise) wird gem. § 97 UrhG strafrechtlich und zivilrechtlich verfolgt.\n14. Gerichtsstand\nFür alle wechselseitigen aus dem Vertragsverhältnis unmittelbar oder mittelbar resultierenden Streitigkeiten der Vertragspartner wird Münster als ausschließlicher Gerichtsstand vereinbart, sofern es sich bei den Vertragspartnern um Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermögen handelt.\n15. Salvatorische Klausel\nSollten einzelne Bestimmungen des Vertrages mit dem Kunden einschließlich dieser AGB ganz oder teilweise unwirksam sein bzw. unwirksam werden oder die Vereinbarungen eine Lücke enthalten, so wird hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt.\n\n"
+}

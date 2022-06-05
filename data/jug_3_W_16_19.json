@@ -1,0 +1,431 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 48,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 54,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ehegatten",
+            "end": 157,
+            "start": 148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 169,
+            "start": 158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2258",
+            "end": 205,
+            "start": 201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 214,
+            "start": 206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 377,
+            "start": 376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 390,
+            "start": 379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Testamentsauslegung",
+            "end": 411,
+            "start": 392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hausratsvermächtnis",
+            "end": 597,
+            "start": 578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 608,
+            "start": 598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 668,
+            "start": 666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 679,
+            "start": 669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8037",
+            "end": 698,
+            "start": 694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 704,
+            "start": 699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 845,
+            "start": 831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 892,
+            "start": 882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 951,
+            "start": 940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 959,
+            "start": 953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 961,
+            "start": 960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 964,
+            "start": 963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 1136,
+            "start": 1131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1139,
+            "start": 1138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingesetzt",
+            "end": 1290,
+            "start": 1280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1293,
+            "start": 1292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "will",
+            "end": 1515,
+            "start": 1511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1519,
+            "start": 1518,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1686,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1791,
+            "start": 1788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 1795,
+            "start": 1793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1798,
+            "start": 1797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 1855,
+            "start": 1849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1858,
+            "start": 1857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeordnet",
+            "end": 2096,
+            "start": 2085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergebens",
+            "end": 2142,
+            "start": 2133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2145,
+            "start": 2144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 2281,
+            "start": 2272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wolle",
+            "end": 2386,
+            "start": 2381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 2657,
+            "start": 2651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusondern",
+            "end": 3031,
+            "start": 3019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3034,
+            "start": 3033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 3234,
+            "start": 3230,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3450,
+            "start": 3449,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3656,
+            "start": 3655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 3799,
+            "start": 3798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 4117,
+            "start": 4113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4120,
+            "start": 4119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4416,
+            "start": 4410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4484,
+            "start": 4479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 4620,
+            "start": 4613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewusst",
+            "end": 4739,
+            "start": 4732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 4786,
+            "start": 4779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4790,
+            "start": 4788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5088,
+            "start": 5085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 5224,
+            "start": 5217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5228,
+            "start": 5226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5319,
+            "start": 5316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 5433,
+            "start": 5427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 5438,
+            "start": 5435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5442,
+            "start": 5440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 5568,
+            "start": 5565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5572,
+            "start": 5570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 5805,
+            "start": 5802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 5809,
+            "start": 5807,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6009,
+            "start": 6008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 6385,
+            "start": 6380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 6389,
+            "start": 6387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6393,
+            "start": 6391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FamFG",
+            "end": 6437,
+            "start": 6432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6441,
+            "start": 6439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6540,
+            "start": 6537,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG Bamberg, Beschluss v. 06.05.2019 – 3 W 16/19\nTitel:\nAbgrenzung zwischen Erbeinsetzung und einem Auswahl- bzw. Hausratsvermächtnis\nzugunsten des Ehegatten\nNormenkette:\nBGB § 1932, § 2154, § 2156, § 2258\nLeitsatz:\nZur Auslegung einer testamentarischen Verfügung, wonach die bedachte Ehefrau „aus dem Besitz“\ndes Erblassers „nehmen oder behalten kann, was immer sie auch will“.\nSchlagworte:\nTestamentsauslegung: Abgrenzung zwischen Erbeinsetzung und einem Auswahl- bzw.\nHausratsvermächtnis zugunsten des Ehegatten, Testamentsauslegung, Widerruf, Vermächtnis,\nErbeineinsetzung, Hausratsvermächtnis\nVorinstanz:\nAG Aschaffenburg, Beschluss vom 23.01.2019 – 562 VI 643/18\nFundstelle:\nBeckRS 2019, 8037\nTenor\n1. Die Beschwerde der Beteiligten zu 4 gegen den Beschluss des Amtsgerichts Aschaffenburg vom\n23.01.2019 wird auf ihre Kosten zurückgewiesen.\n2. Die Rechtsbeschwerde wird nicht zugelassen.\n3. Der Beschwerdewert wird auf 450.000,- Euro festgesetzt.\nGründe\nI.\n1\nDie Beteiligten zu 1 bis 3 sind die drei Enkeltöchter, die Beteiligte zu 4 und Antragsgegnerin ist die vierte\nEhefrau des Erblassers, die er am xx.xx.2014 geheiratet hatte.\n2\nMit notariellem Testament vom 28.05.2013 (Bl. 36 f. d.A.) hatte der Erblasser die Beteiligten zu 1 bis 3 als\nMiterbinnen zu gleichen Teilen eingesetzt.\n3\nMit handschriftlicher Erklärung vom 30.04.2017 (Bl. 38 d.A.) hatte der Erblasser verfügt, „daß nach meinem\nTode meine Ehefrau H. (= die Antragsgegnerin) aus meinem Besitz nehmen oder behalten kann, was\nimmer sie auch will.“\n4\nDas Amtsgericht hat mit Beschluss vom 23.01.2019 für festgestellt erachtet, dass die Beteiligten zu 1 - 3\njeweils Miterbinnen zu einem Drittel sind (Bl. 107 ff. d.A.). Hiergegen richtet sich die Beschwerde der\nBeteiligten zu 4, der das Nachlaßgericht nicht abgeholfen hat.\nII.\n5\nDie zulässige Beschwerde bleibt in der Sache ohne Erfolg.\n6\nZu Recht und auch mit zutreffender Begründung hat das Amtsgericht die Anordnung des Erblassers vom\n30.04.2017 nicht als Widerruf im Sinne des § 2258 BGB, sondern als testamentarisches Vermächtnis\nzugunsten der Antragsgegnerin eingeordnet. Dagegen wendet sich die Beschwerde vergebens.\n7\n1. Das Testament vom 30.04.2017 enthält keine Erbeineinsetzung der Beteiligten zu 4. Dagegen spricht\nbereits der Wortlaut der Verfügung. Danach soll die Beteiligte zu 4 „aus“ dem Besitz nehmen oder behalten“\nkönnen, was immer sie auch wolle. Selbst wenn man der Beschwerde folgend „Besitz“ mit „Eigentum“\ngleichsetzen würde, erschließt sich daraus kein fassbarer Anhaltspunkt dafür, dass die Übertragung des\ngesamten Vermögens oder wenigstens eines substantiellen Teils des Vermögens gewollt gewesen sein\nkönnte. Vielmehr sollte der Beteiligten zu 4 offenkundig nur die Berechtigung eingeräumt werden, einzelne\nGegenstände oder auch eine funktionale Sachgesamtheit von Gegenständen ihrer (freien) Wahl aus einer\nbestimmten bzw. im Wege der weiteren Auslegung noch näher zu konkretisierenden Besitz- bzw.\nNutzungssphäre zu „(ent-)nehmen oder (zu) behalten“, sprich für sich auszusondern.\n8\nAuch der sonstige Inhalt der Verfügung gibt nichts für eine Erbeineinsetzung her. Eine solche ist dadurch\ngekennzeichnet, dass der Erbe in die Stellung des Erblassers in jeder Hinsicht einrücken soll. Wichtiges\nIndiz hierfür ist, wer nach dem Erblasserwillen den Nachlass zu regeln und hierüber zu verfügen sowie die\nNachlassschulden - insbesondere auch die Beerdigungskosten - zu tilgen hat (BayObLG FamRZ 86, 835).\nNach der Lebenserfahrung will der Erblasser nämlich regelmäßig, dass auch die Erfüllung von\nNachlassverbindlichkeiten vom Erben übernommen wird (vgl. BayObLG NJW-RR 03, 656, OLG Schleswig\nFamRZ 2016, 406). Im vorliegenden Fall soll die Beteiligte zu 4 jedoch „nur“ aus „dem Besitz“ dasjenige\nnehmen oder behalten können, „was immer sie auch wolle“. Eine solche - gegenstandsbezogen zudem sehr\nvage umschriebene - Einräumung einer kombinierten Auswahl- und Aussonderungsbefugnis ist alles andere\nals die umfassende (insbesondere auch dingliche) Übertragung einer Rechtsposition, wie sie für die\nRegulierung aller Nachlassverbindlichkeiten unbedingt erforderlich wäre.\n9\n2. Zu berücksichtigen ist weiter, dass der Erblasser bereits vor dem Testament vom 28.05.2013 zwei\nnotarielle Testamente, nämlich vom 04.03.1997 (Bl. 28 ff. d.A.) und vom 11.06.2003 (Bl. 26 ff d.A.) errichtet\nhatte, in denen jeweils explizit frühere Verfügungen von Todes wegen widerrufen wurden. Im Testament\nvom 30.04.2017 findet sich ein solcher Widerruf nicht. Der Senat verkennt nicht, dass es sich hierbei,\nanders als bei den genannten Verfügungen, um ein privatschriftliches Testament handelt. Die Möglichkeit,\neinen Widerruf klarstellend in ein Testament aufzunehmen, war dem Erblasser aber offenkundig bewusst.\nEr hat davon definitiv nicht Gebrauch gemacht.\n10\n3. Zutreffend weist das Amtsgericht darauf hin, dass der Erblasser den Aspekt der Altersversorgung der\nBeteiligten zu 4 jedenfalls in seiner späteren Verfügung vom 30.04.2017 nochmals ausdrücklich\nberücksichtigt hatte, weswegen eine Anhörung der zu diesem Aspekt angeboten Zeugen nicht geboten ist.\nOb der Beteiligten zu 4 darüber hinaus eine Rente als Witwe des Erblassers zusteht oder nicht, kann\ndemgegenüber dahingestellt bleiben.\n11\n4. Ebenso kann auf sich beruhen, ob das Amtsgericht gegen die Hinweispflicht verstoßen hat. Denn die\nBeschwerdebegründung enthält dazu kein neues Vorbringen, das zu einer anderen Beurteilung führen\nkönnte.\nIII.\n12\nLediglich ergänzend - und ohne dass es hierauf in der Erbscheinsfrage selbst noch ankommt - weist der\nSenat auf folgendes hin:\n13\nDas Testament vom 30.04.2017 deutet sowohl nach dem Wortlaut als auch nach seiner\nRegelungsintention, soweit erkennbar, auf ein sog. Hausratsvermächtnis - in Anlehnung an das Institut des\nsog. Voraus des Ehegatten (§ 1932 BGB) - hin.\n14\nDanach hätte die Auswahl der Gegenstände durch die Antragsgegnerin als Vermächtnisnehmerin erfolgen\n(vgl. § 2154 BGB) - und zwar nach billigem Ermessen (§ 2156 Abs. 2 BGB in entsprechender Anwendung).\nDas Vermächtnis dürfte sich vorrangig bzw. ausschließlich auf diejenigen Gegenstände erstrecken, die zu\nLebzeiten des Erblassers entweder der gemeinsamen Haushaltsführung der Ehegatten gedient hatten (vgl.\nPalandt, 78. Auflage, Rn. 5 zu § 1932 BGB) oder aber im wesentlichen der alleinigen persönlichen Besitzbzw.\nNutzungssphäre der Beteiligten zu 4 zugeordnet gewesen waren.\nIV.\n15\nDie Kostenentscheidung folgt aus § 84 FamFG.\n16\nDie Voraussetzungen für die Zulassung der Rechtsbeschwerde nach § 70 Abs. 2 FamFG liegen nicht vor.\n\n"
+}

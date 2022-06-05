@@ -1,0 +1,653 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bestimmungen",
+            "end": 28,
+            "start": 16,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 190,
+            "start": 186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 273,
+            "start": 266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 391,
+            "start": 389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprachen",
+            "end": 446,
+            "start": 438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Englisch",
+            "end": 465,
+            "start": 457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 670,
+            "start": 664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 892,
+            "start": 885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1012,
+            "start": 1008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 1048,
+            "start": 1038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1160,
+            "start": 1157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbreiten",
+            "end": 1277,
+            "start": 1265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auswählen",
+            "end": 1376,
+            "start": 1367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 1693,
+            "start": 1686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1763,
+            "start": 1757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsangebot",
+            "end": 1912,
+            "start": 1897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellbestätigung",
+            "end": 1984,
+            "start": 1966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2054,
+            "start": 2051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 2215,
+            "start": 2207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 2302,
+            "start": 2294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 2326,
+            "start": 2309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturhinweis",
+            "end": 2344,
+            "start": 2328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 2467,
+            "start": 2456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrufen",
+            "end": 2596,
+            "start": 2588,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2753,
+            "start": 2752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 2777,
+            "start": 2760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturhinweis",
+            "end": 2795,
+            "start": 2779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 2887,
+            "start": 2876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeiten",
+            "end": 2981,
+            "start": 2959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 3081,
+            "start": 3074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 3105,
+            "start": 3088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodex",
+            "end": 3122,
+            "start": 3107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterworfen",
+            "end": 3174,
+            "start": 3163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 3186,
+            "start": 3184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3225,
+            "start": 3212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuern",
+            "end": 3388,
+            "start": 3381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherung",
+            "end": 3553,
+            "start": 3541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3639,
+            "start": 3637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3755,
+            "start": 3753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3858,
+            "start": 3852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 3991,
+            "start": 3980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4083,
+            "start": 4078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4315,
+            "start": 4312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 4341,
+            "start": 4322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4507,
+            "start": 4505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4598,
+            "start": 4596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 4678,
+            "start": 4672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 4806,
+            "start": 4795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 4961,
+            "start": 4955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 5115,
+            "start": 5109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 5303,
+            "start": 5296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 5328,
+            "start": 5310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 5400,
+            "start": 5392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbrauchen",
+            "end": 5632,
+            "start": 5621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annimmt",
+            "end": 6055,
+            "start": 6048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandbedingungen",
+            "end": 6092,
+            "start": 6074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Österreich",
+            "end": 6306,
+            "start": 6296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandwege",
+            "end": 6457,
+            "start": 6446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 6576,
+            "start": 6573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufgegenstandes",
+            "end": 6651,
+            "start": 6635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsstörungen",
+            "end": 6748,
+            "start": 6730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 7046,
+            "start": 7042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 7224,
+            "start": 7220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerät",
+            "end": 7325,
+            "start": 7320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 7528,
+            "start": 7514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 7602,
+            "start": 7593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeitraum",
+            "end": 7936,
+            "start": 7928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 7960,
+            "start": 7944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehört",
+            "end": 8141,
+            "start": 8135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 8287,
+            "start": 8274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 8345,
+            "start": 8339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 8507,
+            "start": 8501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzubewahren",
+            "end": 8541,
+            "start": 8528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 8801,
+            "start": 8791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 9001,
+            "start": 8996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 9023,
+            "start": 9009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 9144,
+            "start": 9142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 9353,
+            "start": 9346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 9522,
+            "start": 9507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ablieferung",
+            "end": 9651,
+            "start": 9640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 9895,
+            "start": 9891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10010,
+            "start": 9996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 10102,
+            "start": 10098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 10348,
+            "start": 10344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzeigen",
+            "end": 10475,
+            "start": 10467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10553,
+            "start": 10539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mangelanzeige",
+            "end": 10626,
+            "start": 10613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Originalverpackung",
+            "end": 10652,
+            "start": 10634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 10871,
+            "start": 10865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 11102,
+            "start": 11098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 11117,
+            "start": 11110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 11368,
+            "start": 11361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11568,
+            "start": 11562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 11781,
+            "start": 11774,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12139,
+            "start": 12138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12388,
+            "start": 12384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 12512,
+            "start": 12502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 12630,
+            "start": 12616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 12657,
+            "start": 12638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 12710,
+            "start": 12699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 13020,
+            "start": 13016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 13167,
+            "start": 13158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 13380,
+            "start": 13378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 13556,
+            "start": 13552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 13667,
+            "start": 13658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerruf",
+            "end": 13683,
+            "start": 13675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 13702,
+            "start": 13684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 13717,
+            "start": 13703,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1. Allgemeine Bestimmungen\n(1) Nachfolgende Bestimmungen gelten für Verträge zwischen Gamingoase.de und dem Kunden (Verbraucher und Unternehmer), soweit nicht etwas anderes vereinbart wird. Maßgeblich ist die im jeweiligen Zeitpunkt des Vertragsschlusses geltende Fassung. Entgegenstehende Einkaufsbedingungen gewerblicher Kunden bedürfen zu ihrer Geltung der Anerkennung von Gamingoase.de. Der Vertragsschluss erfolgt in den folgenden Sprachen: Deutsch, Englisch.\n(2) Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt. Kaufmann ist, wer ein Handelsgewerbe betreibt, oder wer aus anderen Rechtsgründen im HGB als Kaufmann eingeordnet wird.\n§ 2. Vertragsschluss im Onlineshop\nDie im Online-Shop von Gamingoase.de dargestellten Produkte und Leistungen stellen keine bindenden Angebote dar; es handelt sich vielmehr um die Aufforderung an den Kunden, Gamingoase.de ein verbindliches Angebot zu unterbreiten. Durch Anklicken des Buttons „In den Warenkorb\" kann der Kunde einzelne Artikel zum Kauf auswählen. Nach Klicken auf den Button „Zur Kasse\" kann der Kunde den Inhalt des Warenkorbs, d.h. die von ihm ausgewählten Artikel für die Bestellung, noch einmal auf Eingabefehler überprüfen und ausgewählte Artikel durch Anklicken des Kästchens „entfernen\" und durch Klick auf den Button „aktualisieren\" aus der Liste löschen. Weiter Angaben können durch Klicken auf \"Bearbeiten\" geändert werden. Mit dem Abschicken der Bestellung durch Klick auf die Schaltfläche „Zahlungspflichtig bestellen\" erklärt der Kunde verbindlich sein Vertragsangebot. Gamingoase.de versendet daraufhin eine automatische Bestellbestätigung. Diese Bestätigung stellt noch keine Annahme des Vertragsangebots dar. Gamingoase.de kann die Bestellung durch Zusendung einer Auftragsbestätigung per E-Mail oder durch Zugang der Ware beim Kunden innerhalb von fünf Tagen annehmen. Bei fruchtlosem Fristablauf ist der Kunde nicht mehr an sein Vertragsangebot gebunden.\n§ 3. Kundeninformation: Korrekturhinweis\nIhre Bestellung mit Einzelheiten zum abgeschlossenen Vertrag (z.B. Art des Produkts, Preis, etc.) wird von uns gespeichert. Die AGB senden wir Ihnen per Mail zu, Sie können die AGB alternativ nach Vertragsschluss jederzeit über unsere Website aufrufen. Als registrierter Kunde können Sie auf Ihre vergangenen Bestellungen über den Kunden Log-in-Bereich zugreifen (https://www.gamingoase.de/de/customer/login).\n§ 4. Kundeninformation: Korrekturhinweis\nSie können Ihre Eingaben vor Abgabe der Bestellung jederzeit mit der Löschtaste berichtigen. Wir informieren Sie auf dem Weg durch den Bestellprozess über weitere Korrekturmöglichkeiten. Den Bestellprozess können Sie auch jederzeit durch Schließen des Browser-Fensters komplett beenden.\n§ 5. Kundeninformation: Verhaltenskodex\nWir haben uns folgendem Verhaltenskodex unterworfen: www.ehi.de\n§ 6. Preise, Liefer- und Versandkosten\n(1) Die in den Angeboten angeführten Preise sind ausnahmslos Endpreise - d.h. Sie beinhalten sämtliche Preisbestandteile einschließlich etwaig anfallender Steuern.\n(2) Soweit nicht im Einzelfall etwas anderes vereinbart ist, gelten die Preise ohne Verpackung, Fracht, Porto und - sofern der Kunde Unternehmer ist - Versicherung. Bei der Versendung der Artikel fallen daher zusätzliche Liefer- und Versandkosten an. Die Versandkosten hängen vom Versandziel, der Artikelmenge und der Versandart der vom Kunden bestellten Ware(n) ab. Die Versandkosten können pauschal vereinbart oder aufgrund einer konkreten Berechnung bestimmt werden. Über die Einzelheiten können Sie sich unter Liefer- und Versandkosten (https://www.gamingoase.de/de/Versandbedingungen) informieren.\n(3) Der Kunde versichert, die richtige und vollständige Lieferanschrift angegeben zu haben. Sollte es aufgrund fehlerhafter Adressdaten zu zusätzlichen Kosten bei der Versendung kommen - etwa erneut anfallende Versandkosten -, so hat der Kunde diese zu ersetzen, wenn er schuldhaft nicht die richtige Adresse angegeben hat.\n§ 7. Zahlungsbedingungen\n(1) Für Lieferungen innerhalb Deutschlands bietet Gamingoase.de Vorauskasse (per Überweisung, PayPal, Kreditkarte, AmazonPay oder Sofortüberweisung) und Nachnahme an. Für Lieferungen ins Ausland bietet der Verkäufer Vorauskasse als Zahlungsmöglichkeiten an. Ist Vorauskasse vereinbart, ist die Zahlung sofort nach Vertragsschluss fällig. Über die Einzelheiten können Sie sich unter Zahlugnsbedingungen (https://www.gamingoase.de/de/zahlungsbedingungen) informieren.\n(2) Ein Kunde, der dreimal bei Gamingoase.de per Vorauskasse oder Nachnahme bezahlt hat, kann auch auf Rechnung bestellen und nach Erhalt der Ware zahlen. Beim Kauf auf Rechnung ist der Rechnungsbetrag an dem in der Rechnung genannten Kalendertag (10 Kalendertage nach dem Rechnungsdatum) zur Zahlung fällig.\n(3) Ist der Kunde Unternehmer, hat er bei Nichtzahlung ab dem 14. Tag nach Fälligkeit und Zugang der Rechnung Verzugszinsen in Höhe von 8 Prozentpunkten über den Basiszinssatz zu leisten.\n§ 8. Eigentumsvorbehalt\n(1) Bis zu ihrer vollständigen Bezahlung bleibt die Ware unser Eigentum.\n(2) Wenn der Kunde Unternehmer ist, darf er die unter Eigentumsvorbehalt gelieferten Waren im Rahmen seines ordnungsmäßigen Geschäftsbetriebes verarbeiten und veräußern, bzw. zur Erbringung einer Lieferung und Leistung verbrauchen. Für den Fall der Veräußerung oder des Verbrauches zur Erbringung einer Lieferung und Leistung der unter Eigentumsvorbehalt gelieferten Waren sind sich die Vertragsparteien darüber einig, dass der Kunde bereits im Voraus seine Entgeltforderungen aus der Weiterveräußerung oder der Erbringung der Lieferung und Leistung gegenüber den Endabnehmern an die Firma Gamingoase.de abtritt, welche die Abtretung schon jetzt annimmt.\n§ 9. Liefer- und Versandbedingungen\n(1) Bestellungen und Lieferungen sind grundsätzlich nur möglich innerhalb Deutschlands, Belgien, Italien, Frankreich, Niederlande, Polen, Portugal, Rumänien, Slowakei, Spanien, Tschechische Republik und Österreich.\n(2) Die Lieferung der Artikel erfolgt, wenn nicht im Einzelfall etwas anderes vereinbart ist, grundsätzlich gegen Vorauskasse und auf dem Versandwege.\n(3) Teillieferungen sind nur zulässig, soweit sie dem Kunden zumutbar sind oder der Kunde ausdrücklich zugestimmt hat. Unzumutbar sind etwa Teillieferungen eines einheitlichen Kaufgegenstandes. Teillieferungen haben keinen Einfluss auf die Rechte des Kunden aufgrund von Leistungsstörungen.\n(4) Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache geht bei Unternehmern mit der Übergabe an diese selbst oder eine empfangsberechtigte Person, im Fall des Versendungskaufs bereits mit der Auslieferung der Ware an eine geeignete Transportperson über. Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache mit der Übergabe der Ware an den Verbraucher auf diesen über. Hinsichtlich der Gefahrtragung steht es der Übergabe gleich, falls der Kunde in Annahmeverzug gerät.\n(5) Macht höhere Gewalt (Naturkatastrophen, Krieg, Bürgerkrieg, Terroranschlag) die Lieferung oder eine sonstige Leistung dauerhaft unmöglich, ist eine Leistungspflicht von Gamingoase.de ausgeschlossen. Bereits gezahlte Beträge werden von Gamingoase.de unverzüglich erstattet.\n(6) Im Falle der Nichteinhaltung von Lieferfristen aufgrund vorübergehender Leistungshindernisse, die auf höhere Gewalt (z.B. Krieg, innere Unruhen, Naturkatastrophen) oder auf ähnliche Ereignisse (z.B. Streik oder Aussperrung) zurückzuführen sind, verlängern sich die Fristen um einen dem Leistungshindernis entsprechenden Zeitraum.\n§ 10. Transportschäden\n(1) Die nachfolgenden Absätze 2 bis 4 gelten, wenn der Abschluss des Kaufvertrags nicht nur für Gamingoase.de, sondern auch für den Kunden zum Betrieb seines Handelsgewerbes gehört. Durch die folgenden Regelungen zu Transportschäden werden Rechte und Ansprüche von Kunden, insbesondere wegen Mängelhaftung, nicht eingeschränkt.\n(2) Lieferungen sind im Beisein des Zustellers zu prüfen. Im Fall von äußerlich erkennbaren Transportschäden ist der Kunde verpflichtet, diese auf den Versandpapieren zu vermerken und vom Zusteller quittieren zu lassen; die Verpackung ist aufzubewahren.\n(3) War der (teilweise) Verlust oder die Beschädigung bei Annahme äußerlich nicht erkennbar, wird der Kunde gebeten, dies Gamingoase.de unverzüglich, spätestens jedoch innerhalb von 14 Tagen nach Kenntnisnahme von dem Verlust bzw. der Beschädigung anzuzeigen.\n(4) Der Kunde wird Gamingoase.de nach besten Kräften unterstützen, soweit Gamingoase.de diese Ansprüche gegenüber dem betreffenden Transportunternehmen bzw. einer Transportversicherung geltend macht.\n§ 11. Gewährleistung\n(1) Dem Kunden stehen wegen eines anfänglichen Sachmangels die gesetzlichen Gewährleistungsrechte gegen Gamingoase.de zu. Macht der Kunde Nacherfüllung geltend, ist er auf Verlangen von Gamingoase.de verpflichtet, die Kaufsache zur Überprüfung der erhobenen Mängelrüge für eine entsprechende Untersuchung zur Verfügung zu stellen.\n(2) Gegenüber Unternehmern leistet Gamingoase.de für Mängel der Kaufsache im Rahmen der Nacherfüllung nach eigener Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n(3) Handelt es sich bei um Gebrauchtartikel, beträgt die Verjährungsfrist für die Mängelansprüche ein Jahr ab deren Ablieferung. Eine damit verbundene Verjährungserleichterung gilt nicht, soweit Gamingoase.de nach § 10 Absatz 1 dieser AGB haftet oder es um das dingliche Recht eines Dritten geht, aufgrund dessen die Herausgabe des Liefergegenstandes verlangt werden kann.\n(4) Beim Verkauf gebrauchter Sachen sind die Ansprüche und Rechte eines Unternehmers wegen Mängeln ausgeschlossen; dies gilt auch für Mängel, die nach Vertragsschluss und vor Gefahrübergang entstanden sind. Vorstehender Ausschluss der Gewährleistung gilt indes nicht, soweit Gamingoase.de nach § 10 Absatz 1 dieser AGB haftet oder es um das dingliche Recht eines Dritten geht, aufgrund dessen die Herausgabe des Liefergegenstandes verlangt werden kann.\n(5) Offensichtliche Mängel sind durch Unternehmer innerhalb einer Frist von 10 Tagen ab Empfang der Ware in Textform anzeigen; ansonsten ist die Geltendmachung des Gewährleistungsanspruchs ausgeschlossen. Es genügt zur Fristwahrung die rechtzeitige Absendung der Mangelanzeige.\n§ 12. Originalverpackung\nDer Kunde wird durch Gamingoase.de gebeten, bei der Rücksendung der Ware und des Zubehörs nach Möglichkeit die Originalverpackung zu verwenden, auch wenn diese durch eine Öffnung zur Warenprüfung beschädigt sein sollte. Der Kunde ist dazu nicht verpflichtet und erfährt durch die Nichtbeachtung keinen Rechtsverlust, kann aber u.a. durch die Verwendung der Originalverpackung sicherstellen, dass die Ware für die Rücksendung sorgfältig verpackt wird.\n§ 13. Haftung\n(1) Gamingoase.de haftet für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung von Gamingoase.de, deren gesetzlichen Vertreter oder ihrer Erfüllungsgehilfen beruhen. Darüber hinaus haftet Gamingoase.de für gegebene Garantien sowie für Schäden, die von der Haftung nach zwingenden gesetzlichen Vorschriften, etwa dem Produkthaftungsgesetz (ProdHaftG) umfasst werden. Davon abgesehen haftet Gamingoase.de für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung sowie Arglist von ihr, ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen.\n(2) Für Schäden, die durch einfache Fahrlässigkeit verursacht werden und nicht unter Absatz 1 Sätze 1 und 2 fallen, haftet Gamingoase.de, soweit die Fahrlässigkeit die Verletzung solcher Vertragspflichten betrifft, deren Einhaltung die Durchführung des Vertrags erst ermöglichen und auf deren Erfüllung der Käufer deshalb vertrauen darf (Kardinalpflichten); dabei beschränkt sich die Haftung gegenüber Unternehmern jedoch auf den vorhersehbaren, vertragstypischen, unmittelbaren Durchschnittsschaden, so dass insbesondere mittelbare Schäden (z.B. entgangener Gewinn) sowie Folgeschäden ausgeschlossen sind. Die Höhe des Schadens ist gegenüber Unternehmern auf den Wert beschränkt, der dem dreifachen Wert der Lieferung entspricht.\n(3) Eine weitergehende Haftung ist ohne Rücksicht auf die Rechtsnatur des geltend gemachten Anspruchs ausgeschlossen.\n§ 14. Schlussbestimmungen\n(1) Es gilt das Recht der Bundesrepublik Deutschland. Bei Verbrauchern, die den Vertrag nicht zu beruflichen oder gewerblichen Zwecken abschließen, gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Verbraucher schützende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird. Die Bestimmungen des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenkauf (UN-Kaufrecht) finden keine Anwendung.\n(2) Ist der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist Gerichtsstand für alle Streitigkeiten aus diesem Vertrag der Geschäftssitz von Gamingoase.de. Dasselbe gilt, wenn der Kunde keinen allgemeinen Gerichtsstand in Deutschland hat oder Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt sind. Die Befugnis, auch das Gericht an einem anderen gesetzlichen Gerichtsstand anzurufen bleibt hiervon unberührt.\n§ 15. Widerruf\nWiderrufsbelehrung\nMusterformular\n\n"
+}

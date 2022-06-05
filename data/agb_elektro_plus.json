@@ -1,0 +1,587 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bestimmungen",
+            "end": 44,
+            "start": 32,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträge",
+            "end": 201,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 288,
+            "start": 277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 495,
+            "start": 489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 750,
+            "start": 743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 804,
+            "start": 793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 837,
+            "start": 830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1155,
+            "start": 1151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 1308,
+            "start": 1299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 1385,
+            "start": 1362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1507,
+            "start": 1504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbreiten",
+            "end": 1640,
+            "start": 1628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1793,
+            "start": 1791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1899,
+            "start": 1889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 2032,
+            "start": 2022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2145,
+            "start": 2137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 2182,
+            "start": 2175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 2240,
+            "start": 2229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesendet",
+            "end": 2378,
+            "start": 2368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2475,
+            "start": 2469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belehrung",
+            "end": 2509,
+            "start": 2500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2528,
+            "start": 2510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 2543,
+            "start": 2529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgaberecht",
+            "end": 2574,
+            "start": 2561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzugeben",
+            "end": 2830,
+            "start": 2817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 2902,
+            "start": 2889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 3040,
+            "start": 3036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 3171,
+            "start": 3167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzusenden",
+            "end": 3321,
+            "start": 3307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendung",
+            "end": 3445,
+            "start": 3434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfährt",
+            "end": 3583,
+            "start": 3575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3814,
+            "start": 3811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3847,
+            "start": 3828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 3975,
+            "start": 3963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 4166,
+            "start": 4162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 4288,
+            "start": 4275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufbar",
+            "end": 4394,
+            "start": 4386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmethoden",
+            "end": 4510,
+            "start": 4494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 4624,
+            "start": 4621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 4876,
+            "start": 4870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 4948,
+            "start": 4938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportunternehmen",
+            "end": 5163,
+            "start": 5143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 5286,
+            "start": 5280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandbedingungen",
+            "end": 5321,
+            "start": 5303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferanschrift",
+            "end": 5476,
+            "start": 5461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 5532,
+            "start": 5525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebeten",
+            "end": 5597,
+            "start": 5590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 5875,
+            "start": 5864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 6136,
+            "start": 6125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6450,
+            "start": 6446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6654,
+            "start": 6650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerät",
+            "end": 6772,
+            "start": 6767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6795,
+            "start": 6777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6908,
+            "start": 6905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 6944,
+            "start": 6928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7150,
+            "start": 7144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 7314,
+            "start": 7305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 7413,
+            "start": 7410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 7475,
+            "start": 7465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 7715,
+            "start": 7709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzubewahren",
+            "end": 7766,
+            "start": 7753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 8145,
+            "start": 8139,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8195,
+            "start": 8194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 8280,
+            "start": 8278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 8427,
+            "start": 8421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8558,
+            "start": 8554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verschleiß",
+            "end": 8611,
+            "start": 8601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 8798,
+            "start": 8785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 8927,
+            "start": 8923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 9164,
+            "start": 9158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 9310,
+            "start": 9295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 9426,
+            "start": 9420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 9540,
+            "start": 9534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 9790,
+            "start": 9786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 9953,
+            "start": 9944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 10106,
+            "start": 10096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10184,
+            "start": 10170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mangelanzeige",
+            "end": 10254,
+            "start": 10241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbestimmungen",
+            "end": 10280,
+            "start": 10260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 10623,
+            "start": 10616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 10839,
+            "start": 10830,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11244,
+            "start": 11243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 11345,
+            "start": 11338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 11624,
+            "start": 11617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 11676,
+            "start": 11662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 11695,
+            "start": 11682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PLUS",
+            "end": 11919,
+            "start": 11915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12115,
+            "start": 12111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 12244,
+            "start": 12235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Plattform",
+            "end": 12288,
+            "start": 12279,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12847,
+            "start": 12846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszufüllen",
+            "end": 12978,
+            "start": 12967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeführt",
+            "end": 13136,
+            "start": 13126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherschlichtung",
+            "end": 13164,
+            "start": 13142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 13308,
+            "start": 13296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieterkennzeichnung",
+            "end": 13335,
+            "start": 13314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 13345,
+            "start": 13336,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich / Allgemeine Bestimmungen\n1.1 Die nachstehenden Allgemeinen Geschäftsbedingungen (AGB) gelten für die über den Online-Shop zwischen ELEKTRO-PLUS und dem Kunden geschlossenen Verträge.\n1.2 Kunden im Sinne der vorliegenden AGB sind sowohl Verbraucher als auch Unternehmer.\n1.2.1 Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.\n1.2.2 Unternehmer im Sinne dieser AGB ist jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, mit der in Geschäftsbeziehung getreten wird und die in Ausübung einer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n1.3 Es gilt das Recht der Bundesrepublik Deutschland. Die Vertragssprache ist deutsch.\n1.3.1 Bei Verbrauchern, die den Vertrag nicht zu beruflichen oder gewerblichen Zwecken abschließen, gilt die Rechtswahl nach Ziffer 1.3 dieser AGB nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n1.3.2 Die Bestimmungen des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenkauf (UN-Kaufrecht) finden keine Anwendung.\n2. Zustandekommen des Vertrages / Vertragssprache / Vertragstextspeicherung\n2.1 Die innerhalb des Online-Shops aufgeführten Produkte und Leistungen stellen keine ELEKTRO-PLUS bindenden Angebote dar; es handelt sich vielmehr um die Aufforderung an den Kunden, ein verbindliches Angebot durch Abgabe einer Bestellung zu unterbreiten.\n2.2 Durch Absendung der Bestellung aus dem virtuellen „Warenkorb“ gibt der Kunde eine verbindliche Bestellung über die in diesem enthaltenen Artikel ab. Den Zugang dieser Bestellung wird ELEKTRO-PLUS dem Kunden unverzüglich in Textform per E-Mail bestätigen.\n2.3 ELEKTRO-PLUS ist berechtigt, das Vertragsangebot des Kunden innerhalb von drei Werktagen nach Eingang der Bestellung anzunehmen. Der Vertrag mit dem Kunden kommt erst mit der ausdrücklichen Annahme der Bestellung durch ELEKTRO-PLUS zustande.\n2.4 Die Vertragssprache ist deutsch.\n2.5 Der Vertragstext wird durch ELEKTRO-PLUS gespeichert. Die Bestelldaten mitsamt den Vertragsbestimmungen einschließlich der vorliegenden AGB werden dem Kunden gesondert in Textform zugesendet. Die AGB können auch über die Website im Online-Shop abgerufen und im PDF heruntergeladen werden.\n3. Widerrufsrecht und -belehrung\nWiderrufsbelehrung\nMusterformular\n4. Vertragliches Rückgaberecht\n4.1 Unbeschadet des in Ziff. 3 geregelten Widerrufsrechts bietet ELEKTRO-PLUS dem Kunden in dessen Eigenschaft als Verbraucher die Möglichkeit, gekaufte Artikel innerhalb von 30 Tagen nach Erhalt der Ware gemäß den nachfolgenden Bestimmungen zurückzugeben.\n4.2 Zum Zwecke der Rückgabe hat der Kunde eine Anmeldung durchzuführen. Die unter Ziff. 4.1 angeführte Frist ist eingehalten, wenn die Rückgabe rechtzeitig per eMail unter info@elektro-plus.de angemeldet wird.\n4.3 Die Möglichkeit zur Rückgabe besteht nicht bei reduzierter Ware sowie im Übrigen nur bei unbenutzter und unverschmutzter Ware.\n4.4 Warenlieferungen sind zum Zwecke der Rückgabe unter Verwendung eines renommierten Transportdienstleistungsunternehmens (z.B. DHL) zurückzusenden. Unfreie Warensendungen zum Zwecke der Rückgabe werden zwar angenommen, jedoch trägt der Kunde diese Kosten der Rücksendung. Der Kunde hat jedoch die Möglichkeit einer kostenlosen Rücksendung von Paketen, sofern er nach Maßgabe von Ziff. 4.5 dieser AGB verfährt.\n4.5 Die im Zusammenhang mit einer Rückgabe entstehenden Rücksendekosten von Pakten übernimmt ELEKTRO-PLUS dergestalt, als der Kunde die von ELEKTRO-PLUS zuvor übersandte kostenlose Paketmarke (DHL) für die Rücksendung genutzt hat.\n5. Preise / Zahlungsbedingungen\n5.1 Alle Preise stellen Endpreise dar – d.h. sie beinhalten sämtliche Preisbestandteile einschließlich anfallender Umsatzsteuer.\n5.1.1 Im Einzelfall können bei grenzüberschreitenden Lieferungen weitere Steuern (z.B. im Fall eines innergemeinschaftlichen Erwerbs) und/oder Abgaben (z.B. Zölle) vom Kunden zu zahlen sein.\n5.1.2 Soweit nicht im Einzelfall etwas anderes vereinbart ist, gelten die Kaufpreise zuzüglich Liefer- und Versandkosten; deren Höhe oder nähere Einzelheiten zur Berechnung dieser sind über den Online-Shop unmittelbar abrufbar.\n5.2 ELEKTRO-PLUS akzeptiert die auf der Website angeführten und dem Kunden zur Auswahl gestellten Zahlungsmethoden. Der Kunde wählt die von ihm bevorzugte Zahlungsart unter den zur Verfügung stehenden Zahlungsmethoden selbst aus.\n5.2.1 Im Fall einer Zahlung durch Banküberweisung oder PayPal verpflichtet sich der Kunde, den Kaufpreis zuzüglich anfallender Liefer- und Versandkosten spätestens sieben Tage nach Erhalt der ihm mitgeteilten Zahlungsaufforderung ohne Abzug zu zahlen. Die Kontodaten werden zusammen mit der Zahlungsaufforderung mitgeteilt.\n5.2.2 Im Fall einer Lieferung gegen Nachnahme erfolgt die Zahlung des Kaufpreises zuzüglich anfallender Liefer- und Versandkosten zum Zeitpunkt der Anlieferung an das den Versand durchführende Transportunternehmen.\n5.3 Der Kunde kann ein Zurückbehaltungsrecht nur ausüben, wenn sein Gegenanspruch auf demselben Vertragsverhältnis beruht.\n6. Liefer- und Versandbedingungen\n6.1 Die Lieferung der Ware erfolgt, sofern nichts anderes mit dem Kunden vereinbart ist, auf dem Versandwege an die vom Kunden mitgeteilte Lieferanschrift. Eine vom Kunden veranlasste Selbstabholung ist möglich; es wird insoweit um die Vereinbarung eines Abholtermins gebeten.\n6.1.1 Der Versand der vom Kunden gekauften Artikel erfolgt im Fall einer Zahlung durch Banküberweisung oder PayPal innerhalb von fünf Werktagen nach Zahlungseingang, es sei denn, im Zusammenhang mit dem Artikelangebot wird auf eine längere Lieferfrist ausdrücklich hingewiesen.\n6.1.2 Im Fall einer Nachnahmelieferung erfolgt der Versand der gekauften Artikel innerhalb von fünf Werktagen nach dem Zustandekommen des Vertrages, es sei denn, im Zusammenhang mit dem Artikelangebot wird auf eine längere Lieferfrist ausdrücklich hingewiesen.\n6.2.1 Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache geht bei Lieferungen an Unternehmer mit der Übergabe an diese selbst oder eine empfangsberechtigte Person, im Fall des Versendungskaufs bereits mit der Auslieferung der Ware an eine geeignete Transportperson über.\n6.2.2 Bei Lieferungen an Verbraucher geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache immer mit der Übergabe der Ware an den Verbraucher auf diesen über.\n6.2.3 Im Hinblick auf die Gefahrtragung steht es der Übergabe gleich, wenn der Kunde in den Verzug der Annahme gerät.\n7. Eigentumsvorbehalt\nELEKTRO-PLUS behält sich das Eigentum an den verkauften Sachen bis zur vollständigen Zahlung des Kaufpreises vor.\n8. Mitteilung von Transportschäden\nDer Kunde wird ELEKTRO-PLUS im Fall von Transportschäden nach besten Kräften unterstützen, soweit Ansprüche gegenüber dem betreffenden Transportunternehmen bzw. Transportversicherung geltend gemacht werden. Etwaige Rechte und Ansprüche des Kunden, insbesondere dessen Rechte bei Mängeln der Sache, bleiben von den Regelungen der Ziffern 8.1 und 8.2 dieser AGB unberührt; diese beinhalten daher auch keine Ausschlussfrist für Rechte des Kunden gemäß Ziffer 9 dieser AGB.\n8.1 Der Kunde wird die gelieferte Ware bei Erhalt überprüfen. Bei äußerlich erkennbaren Transportschäden ist für den Fall, dass die Lieferung trotzdem angenommen wird, schon bei Annahme der Lieferung der Schaden auf den jeweiligen Versanddokumenten zu vermerken und vom Zusteller quittieren zu lassen; die Verpackung ist durch den Kunden aufzubewahren.\n8.2 Ist der (teilweise) Verlust oder die Beschädigung äußerlich nicht erkennbar, hat der Kunde dies innerhalb von fünf Tagen nach Ablieferung gegenüber ELEKTRO-PLUS oder binnen sieben Tagen nach Ablieferung gegenüber dem Transportunternehmen anzuzeigen, um so zu gewährleisten, dass etwaige Ansprüche gegenüber dem Transportunternehmen rechtzeitig geltend gemacht werden können.\n9. Rechte bei Mängeln der Sache (Gewährleistung)\nKunden stehen beim Kauf von Waren gesetzliche Mängelhaftungsrechte für die Waren  zu. Als Kunde haben Sie deshalb bei Mängeln der Sache das Recht, Gewährleistungsrechte unter Beachtung der nachstehenden Regelungen geltend zu machen.\n9.1 Keine Gewährleistung besteht bei Schäden, die durch eine unsachgemäße Verwendung oder Behandlung des Artikels entstanden sind. Gleiches gilt für so genannten gewollten Verschleiß.\n9.2 Ist die Kaufsache mangelhaft, hat der Kunde, wenn und soweit die Voraussetzungen der gesetzlichen Vorschriften zu den Rechten bei Mängeln vorliegen, einen Anspruch auf Nacherfüllung.\n9.2.1 Verbraucher haben insoweit die Wahl, ob die Nacherfüllung entweder durch Nachbesserung oder Ersatzlieferung erfolgen soll. ELEKTRO-PLUS bleibt jedoch berechtigt, die Art der gewählten Nacherfüllung zu verweigern, wenn sie nur mit unverhältnismäßigen Kosten möglich ist und die andere Art der Nacherfüllung ohne erhebliche Nachteile für den Verbraucher bleibt.\n9.2.2 Gegenüber Unternehmern leistet ELEKTRO-PLUS für Mängel der Ware zunächst nach eigener Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n9.3 Ansprüche und Rechte eines Unternehmers wegen Mängeln verjähren ein Jahr nach Ablieferung der Ware beim Kunden; Ansprüche und Rechte eines Verbrauchers wegen Mängeln verjähren zwei Jahre nach Ablieferung der Ware beim Kunden. Mit diesen Fristen verbundene Verjährungserleichterungen gelten nicht, soweit ELEKTRO-PLUS nach Ziffer 9 dieser AGB haftet oder es um das dingliche Recht eines Dritten geht, aufgrund dessen die Herausgabe des Liefergegenstandes verlangt werden kann.\n9.4 Die in §§ 478, 479 BGB bestimmten Rückgriffsansprüche von Unternehmern bleiben von den Regelungen der Ziffern 9.1 bis einschließlich 9.3 dieser AGB unberührt.\n9.5 Offensichtliche Mängel sind durch Kaufleute innerhalb einer Frist von zwei Wochen ab Empfang der Ware über obig aufgeführte Kontaktdaten anzuzeigen; ansonsten ist die Geltendmachung des Gewährleistungsanspruchs ausgeschlossen. Zur Fristwahrung genügt die rechtzeitige Absendung der Mangelanzeige.\n10. Haftungsbestimmungen\n10.1 Nach den gesetzlichen Bestimmungen haftet ELEKTRO-PLUS uneingeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung beruhen sowie für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung sowie Arglist beruhen. Darüber hinaus haftet ELEKTRO-PLUS uneingeschränkt für Schäden, die von der Haftung nach zwingenden gesetzlichen Vorschriften, wie dem Produkthaftungsgesetz, umfasst werden sowie im Fall der Übernahme von Garantien.\n10.2 Für solche Schäden, die nicht von Ziffer 10.1 erfasst werden und die durch einfache oder leichte Fahrlässigkeit verursacht werden, haftet ELEKTROPLUS, soweit diese Fahrlässigkeit die Verletzung von Vertragspflichten betrifft, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (sog. Kardinalpflichten). Dabei beschränkt sich die Haftung von ELEKTRO-PLUS auf die vertragstypischen vorhersehbaren Schäden\n10.3 Im Falle leicht fahrlässiger Verletzungen solcher Vertragspflichten, die weder von Ziffer 10.1 noch Ziffer 10.2 erfasst werden (sog. Unwesentliche Vertragspflichten) haftet ELEKTRO-PLUS gegenüber Verbrauchern – dies begrenzt auf die vertragstypischen vorhersehbaren Schäden.\n10.4 Eine weitergehende Haftung ist ausgeschlossen.\n11. Gerichtsstand\nIst der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag der Geschäftssitz von ELEKTRO-PLUS. Dasselbe gilt, wenn der Kunde Unternehmer ist und keinen allgemeinen Gerichtsstand in Deutschland hat oder Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt sind. Die Befugnis von ELEKTRO-PLUS, auch das Gericht an einem anderen gesetzlichen Gerichtsstand anzurufen, bleibt hiervon unberührt. \n12. Online-Streitbeilegung / OS-Plattform\nDie Europäische Kommission stellt nach der Verordnung (EU) Nr. 524/2013 über eine interaktive Website, auf die in allen Amtssprachen der Organe der Europäischen Union elektronisch zugegriffen werden kann, eine Europäische Plattform zur Beilegung von Streitigkeiten zwischen in der Europäischen Union wohnhaften Verbrauchern und in der Europäischen Union niedergelassenen Unternehmern zur Verfügung, die sich aus dem Online-Verkauf von Waren oder der Online-Erbringung von Dienstleistungen ergeben (sog. OS-Plattform / URL: https://ec.europa.eu/consumers/odr).\nUm eine Beschwerde auf dieser sog. OS-Plattform einzureichen, haben Verbraucher ein elektronisches Beschwerdeformular auszufüllen. Die einzelnen Informationen, die beim Einreichen einer Beschwerde obligatorisch anzugeben sind, werden im Anhang der Verordnung (EU) Nr. 524/2013 aufgeführt.\n13. Verbraucherschlichtung\nELEKTRO-PLUS ist grundsätzlich nicht bereit und verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n14. Anbieterkennzeichnung\nAnschrift\n\n"
+}

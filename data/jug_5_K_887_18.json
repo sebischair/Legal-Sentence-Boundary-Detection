@@ -1,0 +1,941 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 467,
+            "start": 458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 479,
+            "start": 468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 894,
+            "start": 885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 905,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5908",
+            "end": 924,
+            "start": 920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 930,
+            "start": 925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 959,
+            "start": 949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1016,
+            "start": 1010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1049,
+            "start": 1039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1061,
+            "start": 1051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1063,
+            "start": 1062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 1324,
+            "start": 1320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1327,
+            "start": 1326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlagt",
+            "end": 1432,
+            "start": 1423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tätigkeit",
+            "end": 1600,
+            "start": 1591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1603,
+            "start": 1602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angestellt",
+            "end": 1680,
+            "start": 1670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätig",
+            "end": 1864,
+            "start": 1859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungskammer",
+            "end": 2122,
+            "start": 2105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2014",
+            "end": 2211,
+            "start": 2207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rentenversicherung",
+            "end": 2361,
+            "start": 2343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 2514,
+            "start": 2513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterworfen",
+            "end": 2668,
+            "start": 2657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2671,
+            "start": 2670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderausgaben",
+            "end": 2899,
+            "start": 2885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 3009,
+            "start": 3005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 3040,
+            "start": 3035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 3638,
+            "start": 3633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3874,
+            "start": 3872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 4146,
+            "start": 4141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 4231,
+            "start": 4220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4235,
+            "start": 4234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorsorgeaufwendungen",
+            "end": 4473,
+            "start": 4453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4476,
+            "start": 4475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herab",
+            "end": 4625,
+            "start": 4620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 4815,
+            "start": 4810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuteilen",
+            "end": 5181,
+            "start": 5170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5184,
+            "start": 5183,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5397,
+            "start": 5396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handele",
+            "end": 5595,
+            "start": 5588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergebe",
+            "end": 5853,
+            "start": 5847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5856,
+            "start": 5855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 6081,
+            "start": 6076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehe",
+            "end": 6524,
+            "start": 6511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6527,
+            "start": 6526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuweise",
+            "end": 6976,
+            "start": 6969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6980,
+            "start": 6978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auswirkung",
+            "end": 7052,
+            "start": 7042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7352,
+            "start": 7350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 7507,
+            "start": 7500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7511,
+            "start": 7509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 7915,
+            "start": 7912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7919,
+            "start": 7917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 8019,
+            "start": 8012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 8252,
+            "start": 8245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Progressionsvorbehalts",
+            "end": 8500,
+            "start": 8478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 8599,
+            "start": 8598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8603,
+            "start": 8601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 9410,
+            "start": 9406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9414,
+            "start": 9412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 9460,
+            "start": 9450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9464,
+            "start": 9462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einspruchsentscheidung",
+            "end": 9555,
+            "start": 9533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgrundlage",
+            "end": 9692,
+            "start": 9677,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9913,
+            "start": 9912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9917,
+            "start": 9915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 10136,
+            "start": 10128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10140,
+            "start": 10138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 10411,
+            "start": 10401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeit",
+            "end": 10442,
+            "start": 10436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 10717,
+            "start": 10709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10825,
+            "start": 10819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 10830,
+            "start": 10829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "und",
+            "end": 11546,
+            "start": 11543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11784,
+            "start": 11780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 11788,
+            "start": 11786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12083,
+            "start": 12079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sichern",
+            "end": 12283,
+            "start": 12276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12496,
+            "start": 12492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 12500,
+            "start": 12498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lautet",
+            "end": 12543,
+            "start": 12537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 12653,
+            "start": 12644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12838,
+            "start": 12835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 12904,
+            "start": 12894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12985,
+            "start": 12981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auch",
+            "end": 13011,
+            "start": 13007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 13016,
+            "start": 13015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialversicherung",
+            "end": 13111,
+            "start": 13093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 13116,
+            "start": 13115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 13337,
+            "start": 13331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungspflicht",
+            "end": 13527,
+            "start": 13507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 13897,
+            "start": 13886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 14038,
+            "start": 14028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 14043,
+            "start": 14042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14183,
+            "start": 14179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 14204,
+            "start": 14185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 14207,
+            "start": 14205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 14233,
+            "start": 14222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 14236,
+            "start": 14235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 14240,
+            "start": 14238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 14412,
+            "start": 14397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 14416,
+            "start": 14414,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14679,
+            "start": 14678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 14811,
+            "start": 14805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auslöst",
+            "end": 15056,
+            "start": 15049,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15208,
+            "start": 15207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 15212,
+            "start": 15210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 15323,
+            "start": 15316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steuerfrei",
+            "end": 15443,
+            "start": 15433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VI",
+            "end": 15542,
+            "start": 15540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungswerk",
+            "end": 15700,
+            "start": 15685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 15970,
+            "start": 15955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pensionskassen",
+            "end": 16209,
+            "start": 16195,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16415,
+            "start": 16414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 16549,
+            "start": 16543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auswirkung",
+            "end": 16820,
+            "start": 16810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streitig",
+            "end": 16875,
+            "start": 16867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 16879,
+            "start": 16877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 16883,
+            "start": 16881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 17059,
+            "start": 17044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 17063,
+            "start": 17061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 17118,
+            "start": 17114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 17122,
+            "start": 17120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 17528,
+            "start": 17524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 17719,
+            "start": 17715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 17723,
+            "start": 17721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beträge",
+            "end": 17847,
+            "start": 17840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 17916,
+            "start": 17908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abzug",
+            "end": 18020,
+            "start": 18015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 18157,
+            "start": 18155,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18312,
+            "start": 18311,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18484,
+            "start": 18483,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18683,
+            "start": 18682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 18687,
+            "start": 18685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geboten",
+            "end": 18801,
+            "start": 18794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 18805,
+            "start": 18803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 18887,
+            "start": 18879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 19278,
+            "start": 19272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betroffen",
+            "end": 19407,
+            "start": 19398,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19531,
+            "start": 19530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 19535,
+            "start": 19533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 19659,
+            "start": 19653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19804,
+            "start": 19798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19808,
+            "start": 19806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 20025,
+            "start": 20019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 20029,
+            "start": 20027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 20060,
+            "start": 20050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 20065,
+            "start": 20062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 20069,
+            "start": 20067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 20119,
+            "start": 20116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 20123,
+            "start": 20121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 20156,
+            "start": 20146,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20354,
+            "start": 20353,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20723,
+            "start": 20722,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 13.02.2019 – 5 K 887/18\nTitel:\nRentenversicherung, Einkommen, Leistungen, Arbeitgeber, Werbungskosten,\nBeitragsbemessungsgrenze, Sozialversicherung, Einkommensteuerbescheid,\nBerechnung, Arbeit, Revision, Heimatland, Pflichtversicherung, Auslegung,\ngesetzlichen Rentenversicherung, Bundesrepublik Deutschland, Rechtsprechung des\nBFH, Krankenversicherung, Arbeitnehmer, Versicherungspflicht, Mitgliedstaat,\nBescheid, Unfall, steuerfreie Einnahmen\nSchlagworte:\nRentenversicherung, Einkommen, Leistungen, Arbeitgeber, Werbungskosten, Beitragsbemessungsgrenze,\nSozialversicherung, Einkommensteuerbescheid, Berechnung, Arbeit, Revision, Heimatland,\nPflichtversicherung, Auslegung, gesetzlichen Rentenversicherung, Bundesrepublik Deutschland,\nRechtsprechung des BFH, Krankenversicherung, Arbeitnehmer, Versicherungspflicht, Mitgliedstaat,\nBescheid, Unfall, steuerfreie Einnahmen\nFundstelle:\nBeckRS 2019, 5908\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens haben die Kläger zu tragen.\n3. Die Revision wird zugelassen.\nTatbestand\n1\nStreitig ist, ob Versorgungsbeiträge zu einem inländischen Versorgungswerk, die im Zusammenhang mit\ngem. Art. 15 Abs. 1 DBA Österreich steuerfreien ausländischen Einkünften stehen, im Rahmen des\nProgressionsvorbehalts wegen Art. 45 AEUV zu berücksichtigen sind.\n2\nDie verheirateten Kläger wurden für die Streitjahre 2012 und 2014 zusammen zur Einkommensteuer\nveranlagt. Neben Einkünften aus nichtselbständiger Tätigkeit erzielten sie Einkünfte aus Vermietung und\nVerpachtung sowie Einkünfte aus gewerblicher bzw. selbständiger Tätigkeit.\n3\nDer Kläger ist Architekt und war bei der X GmbH als Projektleiter angestellt. Er war im Jahr 2012 an 47\nTagen (22%) in Deutschland und an 166 Tagen (78%) in Österreich und im Jahr 2014 an 37 Tagen (16%) in\nDeutschland und an 191 Tagen (84%) in Österreich tätig. Der von der gesetzlichen Rentenversicherung\nbefreite Kläger leistete in den Jahren 2012 und 2014 jeweils Versorgungsbeiträge i. H. v. 11.700 €\n(einschließlich des Arbeitgeberanteils) an die Bayer. Architektenversorgung als Teil der Bayer.\nVersorgungskammer. Der Arbeitgeberanteil belief sich auf 5.644 € im Jahr 2012 und auf 5.670 € im Jahr\n2014. Nach den Regelungen des Versorgungswerks galten die Pflichtbeitragssätze und die\nBeitragsbemessungsgrenze wie in der gesetzlichen Rentenversicherung. Für das Jahr 2012 beliefen sich\nder Beitragssatz auf 19,6% und die Beitragsbemessungsgrenze auf 67.200 € sowie für das Jahr 2014 auf\n18,9% und 71.400 €. Der Arbeitslohn (2012: 90.480 €; 2014: 94.560 €) wurde in voller Höhe durch den\nArbeitgeber als steuerpflichtig behandelt und der Lohnsteuer unterworfen.\n4\nIn seiner österreichischen Einkommensteuererklärung 2012 erklärte der Kläger Beiträge zu Versicherungen,\nPensionskassen und freiwilliger Höherversicherung in der gesetzlichen Pensionskasse i. H. v. 5.763,61 €\nals Sonderausgaben. Mit Einkommensteuerbescheid 2012 vom 02.04.2013 setzte das Finanzamt 1 die\nEinkommensteuer auf 15.501 € fest. Es berechnete diese wie folgt:\n„Einkünfte aus nichtselbständiger Arbeit 63.096,00 € Werbungskosten -506,31 € sonstige Werbungskosten -\n12.745,73 € Gesamtbetrag der Einkünfte 49.843,96 € Sonderausgaben (§ 18 EStG 1988)\n¼ der Aufwendungen für Personenversicherungen etc. -348,33 € Steuerberatungskosten -1.104,00 €\nEinkommen 48.391,63 €\nIn den deutschen Einkommensteuererklärungen·2012 und 2014 beantragten die Kläger, den Arbeitslohn\nnachträglich steuerfrei zu stellen, da der Kläger sich an mehr als 183 Tagen im jeweiligen Kalenderjahr in\nÖsterreich aufgehalten habe und die Einkünfte dort entsprechend versteuert worden seien. Bei der\nDurchführung der Einkommensteuerveranlagungen entsprach das Finanzamt diesem Anliegen\n(steuerpflichtiger Lohn: 17.268 €; steuerfrei: 60.976 € zzgl. Bonus i. H. v. 12.240 €), wich aber\nverschiedenen Punkten von der Erklärung ab. U. a. wurden die Beitragszahlungen des Klägers an das\nVersorgungswerk nur zu 22% berücksichtigt, da die Aufwendungen im wirtschaftlichen Zusammenhang mit\nsteuerfreien Einnahmen stünden und somit gem. § 10 Abs. 2 Satz 1 Nr. 1 EStG nicht als Sonderausgaben\nabziehbar seien. Die Einkommensteuer 2012 wurde mit Bescheid vom 19.02.2014 auf 38.447 €\nfestgesetzt.“\n5\nGegen die Einkommensteuerbescheide 2012 vom 19.02.2014 und 2014 vom 14.10.2015 legten die Kläger,\nvertreten durch den Prozessbevollmächtigten, jeweils fristgerecht Einspruch ein und wandten sich gegen\ndie Kürzung der Vorsorgeaufwendungen.\n6\nMit Einspruchsentscheidung vom 18.06.2018 setzte das Finanzamt die Einkommensteuer 2012 auf 38.385\n€ und die Einkommensteuer 2014 auf 57.971 € herab. Zur Begründung wurde ausgeführt, dass die\nWerbungskosten bei den Einkünften des Klägers aus nichtselbständiger Arbeit auf die steuerpflichtigen und\nsteuerfreien Einkünfte aufzuteilen seien. Auch der Arbeitslohn für das Jahr 2014 (94.560 €) sei - mit\nAusnahme einer darin enthaltenen direkt dem steuerfreien Teil der Einkünfte zuordenbaren Bonuszahlung i.\nH. v. 16.200 € - entsprechend der Zahl der tatsächlichen Arbeitstage in steuerpflichtige (12.716 €) und\nsteuerfreie (65.644 € zzgl. der Bonuszahlung i. H. v. 16.200 €) Gehaltsbestandteile aufzuteilen.\n7\nVorsorgeaufwendungen (Sonderausgaben), die mit steuerfreien Einnahmen in unmittelbarem\nwirtschaftlichen Zusammenhang stünden, seien grundsätzlich nicht als Sonderausgaben abziehbar (§ 10\nAbs. 2 Satz 1 Nr. 1 EStG). Ein unmittelbarer wirtschaftlicher Zusammenhang von Vorsorgeaufwendungen\nmit steuerfreien Einnahmen i. S. d. § 10 Abs. 2 Satz 1 Nr. 1 EStG bestehe nur dann, wenn es sich um\nPflichtbeiträge handele. Bei steuerfreien und steuerpflichtigen Arbeitslohnteilen sei nur der Anteil der\nSozialversicherungsbeiträge zu berücksichtigen, der sich nach dem Verhältnis des steuerpflichtigen\nArbeitslohns zum gesamten Arbeitslohn bis zur Beitragsbemessungsgrenze ergebe.\n8\nIm Fall des Klägers seien die Pflichtbeiträge, weil die Beitragsbemessungsgrenze nicht überschritten sei,\nnur in Höhe des Verhältnisses des steuerpflichtigen Arbeitslohns zum gesamten Arbeitslohn zu\nberücksichtigen wie folgt: 2012 2014 berufsständische Versorgungseinrichtung Anteil Arbeitnehmer 1.692 €\n1.185 € Anteil Arbeitgeber 1.691 € 1.184 € Zwar habe der EuGH mit Urteil vom 22.06.2017 in der\nRechtssache C-20/16 „Bechtel“ entschieden, dass die Arbeitnehmerfreizügigkeit gem. Artikel 45 AEUV bei\nder Freistellung der in einem anderen Mitgliedsstaat erzielten Einkünfte durch ein\nDoppelbesteuerungsabkommen einem Ausschluss des Sonderausgabenabzugs entgegenstehe.\n9\nNach einem BMF-Schreiben vom 11.12.2017 (IV C 3-S 2221/14/10005:003, BStBl I 2017, 1624) seien\nVorsorgeaufwendungen jedoch nur zu berücksichtigen, wenn der Beschäftigungsstaat keinerlei Abzug der\nmit den steuerfreien Einnahmen in unmittelbarem wirtschaftlichen Zusammenhang stehenden Beiträge im\nBesteuerungsverfahren zulasse und auch das Doppelbesteuerungsabkommen die Berücksichtigung der\npersönlichen Abzüge nicht dem Beschäftigungsstaat zuweise.\n10\nIm vorliegenden Fall bleibe die Rechtsprechung des EuGH ohne Auswirkung. Zwar werde die Tätigkeit in\neinem Mitgliedsstaat der Europäischen Union, nämlich in Österreich ausgeübt und die Einnahmen seien\nnach einem Doppelbesteuerungsabkommen im Inland steuerfrei gestellt, jedoch lasse der\nBeschäftigungsstaat einen Abzug der betreffenden Beträge im Besteuerungsverfahren zu. Eine anteilige\nKürzung der Aufwendungen, soweit sie in unmittelbarem wirtschaftlichen Zusammenhang mit steuerfreien\nEinnahmen stehe, sei zu Recht erfolgt.\n11\nBei der Berechnung der Einkommensteuer bezog das Finanzamt aufgrund des Progressionsvorbehalts\ngem. § 32b EStG ausländische Einkünfte, die nicht der inländischen Steuer unterliegen, i. H. v. 73.212 €\nabzüglich sonstiger Werbungskosten i. H. v. 2.198 € mit 71.014 € (2012) und i. H v. 81.844 € abzüglich\nsonstiger Werbungskosten i. H. v. 1.728 € mit 80.116 € (2014) in die Berechnung des Steuersatzes ein.\n12\nHiergegen haben die Kläger, vertreten durch den Prozessbevollmächtigten, fristgerecht Klage erhoben. Sie\nhaben zunächst die Berücksichtigung der Beiträge des Klägers zum Architektenversorgungswerk, soweit\ndiese den auf Österreich entfallenden Einkünften zugeordnet worden sind, als Sonderausgaben gem. § 10\nAbs. 1 Nr. 2 EStG begehrt. Im Hinblick auf die Berücksichtigung der Beiträge zum Versorgungswerk als\nWerbungskosten im Rahmen der österreichischen Einkommensteuerveranlagung begehren sie nun nur\nnoch eine Berücksichtigung dieser Beträge im Rahmen des Progressionsvorbehalts. Sie halten diese\neuroparechtlich für geboten und berufen sich auf die EuGH-Entscheidung „Bechtel“.\n13\nDie Kläger beantragen,\nden Einkommensteuerbescheid 2012 vom 19.02.2014 in Gestalt der Einspruchsentscheidung vom\n18.06.2018 dahingehend abzuändern, dass die Einkommensteuer 2012 unter einer geänderten Berechnung\ndes Progressionsvorbehalts, wonach die bisher unberücksichtigten Beiträge zur bayerischen\nArchitektenversorgung i. H. v. 8.317 € mindernd berücksichtigt werden, herabgesetzt wird, und den\nEinkommensteuerbescheid 2014 vom 18.09.2015 in Gestalt des Änderungsbescheides vom 02.06.2016\nund der Einspruchsentscheidung vom 18.06.2018 dahingehend abzuändern, dass die Einkommensteuer\n2014 unter einer geänderten Berechnung des Progressionsvorbehalts, wonach die bisher\nunberücksichtigten Beiträge zur bayerischen Architektenversorgung i. H. v. 9.331 € mindernd berücksichtigt\nwerden, herabgesetzt wird.\n14\nDas Finanzamt beantragt,\ndie Klage abzuweisen.\n15\nEs verweist auf seine Ausführungen zum EuGH-Urteil „Bechtel“ in der Einspruchsentscheidung. Auch für\ndie zuletzt noch begehrte Berücksichtigung der Beiträge im Rahmen des Progressionsvorbehalts fehle es\nan einer Rechtsgrundlage. § 32b EStG sehe lediglich eine Berücksichtigung von Einkünften, nicht aber von\nSonderausgaben vor (BFH-Urteile vom 03.11.2010 I R 73/09, BFH/NV 2011, 773; und vom 18.04.2012 X R\n62/09, BFHE 237, 434, BStBl II 2012, 721).\n16\nAuf den Inhalt der im Klageverfahren eingereichten Schriftsätze, der dem Senat vorliegenden\nEinkommensteuer- und Rechtsbehelfsakten und der Niederschrift über die mündliche Verhandlung am\n13.02.2019 wird Bezug genommen.\n17\nDas Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung\nder Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (DBA Österreich)\nvom 24.08.2000 (BGBl II 2002, 735) enthält folgende hier relevante Regelungen:\nArt. 15 Unselbständige Arbeit\n(1) Vorbehaltlich der Artikel 16 bis 20 dürfen Gehälter, Löhne und ähnliche Vergütungen, die eine in einem\nVertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden,\nes sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so dürfen die\ndafür bezogenen Vergütungen im anderen Staat besteuert werden. […]\n(7) Beiträge, die für eine in einem Vertragsstaat unselbständig tätige Person an eine in dem anderen\nVertragsstaat errichtete und dort steuerlich anerkannte Einrichtung der Krankheits- und Altersvorsorge\ngeleistet werden, sind in dem erstgenannten Staat bei der Ermittlung des von der Person zu versteuernden\nEinkommens in der gleichen Weise, unter den gleichen Bedingungen und Einschränkungen zu behandeln\nwie Beiträge an in diesem erstgenannten Staat steuerlich anerkannte Einrichtungen der Krankheits- und\nAltersvorsorge, sofern\na) die Person unmittelbar vor Aufnahme ihrer Tätigkeit nicht in diesem Staat ansässig war und bereits\nBeiträge an die Einrichtungen der Krankheits- und Altersvorsorge entrichtete, und\nb) die zuständige Behörde dieses Vertragsstaats festgestellt hat, dass die Einrichtung der Krankheits- und\nAltersvorsorge allgemein denjenigen Einrichtungen entspricht, die in diesem Staat als solche für steuerliche\nZwecke anerkannt sind.\n18\nFür die Zwecke dieses Absatzes\na) bedeutet „Einrichtung der Krankheitsvorsorge“ jede Einrichtung, bei der die unselbständig tätige Person\nund ihre Angehörigen im Fall einer krankheitsbedingten vorübergehenden Unterbrechung ihrer\nunselbständigen Arbeit zum Empfang von Leistungen berechtigt sind;\nb) bedeutet „Einrichtung der Altersvorsorge“ eine Einrichtung, an der die Person teilnimmt, um sich im\nHinblick auf die in diesem Absatz erwähnte unselbständige Arbeit Ruhestandseinkünfte zu sichern;\nc) ist eine „Einrichtung der Krankheits- und Altersvorsorge“ in einem Staat für steuerliche Zwecke\nanerkannt, wenn hinsichtlich der an diese Einrichtungen geleisteten Beiträge Steuerentlastungen zu\ngewähren sind.\n19\n§ 16 des österreichischen EStG 1988 lautet:\n(1) Werbungskosten sind die Aufwendungen oder Ausgaben zur Erwerbung, Sicherung oder Erhaltung der\nEinnahmen. Aufwendungen und Ausgaben für den Erwerb oder Wertminderungen von Wirtschaftsgütern\nsind nur insoweit als Werbungskosten abzugsfähig, als dies im Folgenden ausdrücklich zugelassen ist.\nHinsichtlich der durchlaufenden Posten ist § 4 Abs. 3 anzuwenden. Werbungskosten sind bei der\nEinkunftsart abzuziehen, bei der sie erwachsen sind. Werbungskosten sind auch: […]\n4. a) Beiträge des Versicherten zur Pflichtversicherung in der gesetzlichen Sozialversicherung. […]\ne) Pflichtbeiträge zu Versorgungs- und Unterstützungseinrichtungen der Kammern der selbständig\nErwerbstätigen, soweit diese Einrichtungen der Kranken-, Unfall-, Alters-, Invaliditäts- und\nHinterbliebenenversorgung dienen; weiters Beiträge zu einer inländischen gesetzlichen\nKrankenversicherung sowie Beiträge zu einer Krankenversicherung auf Grund einer in- oder ausländischen\ngesetzlichen Versicherungspflicht. Beiträge zu Einrichtungen, die der Krankenversorgung dienen, Beiträge\nzu inländischen gesetzlichen Krankenversicherungen sowie Beiträge zu einer Krankenversicherung auf\nGrund einer in- oder ausländischen gesetzlichen Versicherungspflicht sind nur insoweit abzugsfähig, als sie\nder Höhe nach insgesamt Pflichtbeiträgen in der gesetzlichen Sozialversicherung entsprechen.\nf) Beiträge von Arbeitnehmern zu einer ausländischen Pflichtversicherung, die einer inländischen\ngesetzlichen Sozialversicherung entspricht. […]\nh) Beiträge von Arbeitnehmern zu ausländischen Pensionskassen, die auf Grund einer ausländischen\ngesetzlichen Verpflichtung zu leisten sind.\nEntscheidungsgründe\n20\nDie Klage ist unbegründet.\nI.\n21\nDie Beiträge des Klägers zum Versorgungswerk sind, soweit sie mit steuerfreien Einkünften im\nunmittelbaren Zusammenhang stehen, nicht als Sonderausgaben zu berücksichtigen.\n22\n1. Beiträge zu berufsständischen Versorgungswerken, die den gesetzlichen Rentenversicherungen\nvergleichbare Leistungen erbringen, sind zwar als sog. Vorsorgeaufwendungen nach den Regelungen des §\n10 EStG als Sonderausgaben abziehbar (vgl. § 10 Abs. 1 Nr. 2 EStG). Sie dürfen aber nach § 10 Abs. 2 Nr.\n1 EStG nicht in unmittelbarem wirtschaftlichen Zusammenhang mit steuerfreien Einnahmen stehen. Ein\nunmittelbarer wirtschaftlicher Zusammenhang zwischen Einnahmen und Aufwendungen besteht, wenn ein\nSteuerpflichtiger steuerfreie Einnahmen erzielt und dieser Tatbestand gleichzeitig Pflichtbeiträge an einen\nSozialversicherungsträger auslöst. In diesem Fall geht die Steuerbefreiung dem Sonderausgabenabzug\nlogisch vor (Urteil des FG Rheinland-Pfalz vom 23.01.2017 5 K 1463/14, EFG 2017, 1080).\n23\n2. Der unmittelbare wirtschaftliche Zusammenhang im Sinne des § 10 Abs. 2 Nr. 1 EStG ist im Streitfall\ngegeben. Der durch die Tätigkeit in Österreich erzielte Arbeitslohn ist nach Art. 15 Abs. 1 DBA Österreich im\nInland steuerfrei. Die Verpflichtung des Klägers zur Leistung von Pflichtbeiträgen folgt aus § 1 Satz 1 Nr. 1\nSGB VI; seine Freistellung von der gesetzlichen Rentenversicherung erfolgt lediglich aufgrund der\nentsprechenden Mitgliedschaft im berufsständischen Versorgungswerk. Nach § 16 Abs. 1 Nr. 4 Buch. h des\nösterreichischen EStG sind Beiträge von Arbeitnehmern zu - aus österreichischer Sicht - ausländischen\nPensionskassen, die auf Grund einer ausländischen gesetzlichen Verpflichtung zu leisten sind, als\nWerbungskosten zu berücksichtigen. Dies entspricht Art. 15 Abs. 7 DBA Österreich, wonach Leistungen des\nin Österreich tätigen Arbeitnehmers an Versorgungswerke im Heimatland Deutschland in Österreich so\nberücksichtigt werden wie Zahlungen an österreichische Pensionskassen. Dies gilt nach Ansicht der\nösterreichischen Finanzverwaltung auch für Zahlungen an gesetzliche Pflichtversicherungen (öBMF vom\n19.07.2004, EAS 2478; Stefaner in Wassermeyer, DBA Österreich Art. 15 Rn. 25). Im Streitfall sind die\nBeiträge zum Versorgungswerk auch tatsächlich in der Position „sonstige Werbungskosten“ berücksichtigt\nworden. Eine europarechtskonforme Auslegung des § 10 Abs. 2 EStG für den Fall, dass ein\nSteuerpflichtiger weder im Tätigkeitsstaat noch im Inland seine Vorsorgeaufwendungen geltend machen\nkann, hat daher auf die Anwendung dieser Vorschrift im vorliegenden Fall keine Auswirkung. Dies ist\nzwischen den Beteiligten nicht mehr streitig.\nII.\n24\nDie Beiträge zum Versorgungswerk sind, soweit sie auf die steuerfreien österreichischen Einkünfte\nentfallen, auch nicht im Rahmen des Progressionsvorbehalts zu berücksichtigen.\n25\n1. Dies ergibt sich nach der Systematik des § 32b EStG.\n26\na) Nach § 32b Abs. 2 ist der besondere Steuersatz nach Absatz 1 dieser Vorschrift der Steuersatz, der sich\nergibt, wenn bei der Berechnung der Einkommensteuer das nach § 32a Abs. 1 zu versteuernde Einkommen\nvermehrt oder vermindert wird um - im Fall des Abs. 1 Nr. 2 bis 5 - die dort bezeichneten Einkünfte, wobei\ndie darin enthaltenen außerordentlichen Einkünfte mit einem Fünftel zu berücksichtigen sind.\nAusgangspunkt ist also bereits das zu versteuernde Einkommen gem. § 32a Abs. 1 i. V. m. § 2 Abs. 5 Satz\n1 EStG, von dem die Sonderausgaben bereits gem. § 2 Abs. 4 EStG abgezogen worden sind.\n27\nb) Die Erhöhung erfolgt um die gem. § 32b Abs. 1 Nr. 3 EStG aufgrund eines\nDoppelbesteuerungsabkommens steuerfreien Beträge; dies ist gem. Art. 23 Abs. 1 Buchst. c DBA\nÖsterreich auch zulässig. Von diesen Einnahmen kommen gem. § 32b Abs. 2 Nr. 2 Satz 2 Buchst. b EStG\nnur Werbungskosten zum Abzug. Die Beiträge zum Versorgungswerk dienen dem allgemeinen Interesse an\neiner Alterssicherung und decken kein berufsspezifisches Risiko ab. Es handelt sich daher nach der\nmaßgeblichen Qualifikation durch das deutsche EStG - anders als in Österreich - um Sonderausgaben (§\n10 Abs. 1 Nr. 2 EStG). Sonderausgaben zählen nicht zu den Einkünften, sondern werden erst im Anschluss\nan die Ermittlung der Einkünfte vom Gesamtbetrag der Einkünfte abgezogen (§ 2 Abs. 4 EStG). Das\nschließt ihre Berücksichtigung im Rahmen des Progressionsvorbehalts aus (BFH-Urteile vom 03.11.2010 I\nR 73/09, BFH/NV 2011, 773; und vom 18.04.2012 X R 62/09, BFHE 237, 434, BStBl II 2012, 721).\n28\n2. Eine abweichende Auslegung, die zu einer Berücksichtigung führen würde, ist auch europarechtlich nicht\ngeboten.\n29\na) Eine solche Auslegung kommt schon aus systematischen Gründen nicht in Betracht. Selbst wenn die\nNichtberücksichtigung von Sozialbeiträgen, die mit ausländischen Einkünften im unmittelbaren\nZusammenhang stehen, nach der Rechtsprechung des EuGH geboten sein sollte, würde diese nach dem\ndeutschen EStG bereits eine Stufe zuvor, nämlich bei der Auslegung von § 10 Abs. 2 Satz 1 Nr. 1 EStG und\ndem daraus folgenden Sonderausgabenabzug gem. § 2 Abs. 4 EStG zum Tragen kommen. Der\nProgressionsvorbehalt und die von ihm geregelte Besteuerung der übrigen inländischen Einkünfte wäre\nhiervon nicht betroffen. Eine solche Auslegung des § 10 Abs. 2 Satz 1 Nr. 1 EStG ist im Streitfall jedoch\nnicht geboten (s. o. unter I. der Gründe).\n30\nb) Auch aus tatsächlichen Gründen fehlt es an einer Benachteiligung, die zu einer Verletzung von Art. 45\nAEUV führen könnte. Im Streitfall waren die Versorgungsbeiträge in Österreich als Werbungskosten zu\nberücksichtigen und sind auch tatsächlich berücksichtigt worden.\n31\nIm Rahmen der Berechnung des Steuersatzes gem. § 32b Abs. 2 EStG sind die Versorgungsbeiträge,\nsoweit sie mit den steuerfreien österreichischen Einkünften im Zusammenhang stehen, daher zu Recht\nnicht abgezogen worden.\n32\nDie Klage war daher abzuweisen.\nIII.\n33\nDie Kostenentscheidung folgt aus § 135 Abs. 1 FGO.\nIV.\n34\nDie Revision wird zugelassen. Der Zusammenhang zwischen der Steuerfreiheit ausländischer Einkünfte\nund der Berücksichtigung darauf entfallender Sozialabgaben ist Gegenstand mehrerer Revisionsverfahren\n(X R 23/17 und X R 25/18). Auch wenn im vorliegenden Fall eine Berücksichtigung nicht mehr im Wege des\nSonderausgabenabzugs, sondern nur noch bei der Berechnung des Steuersatzes gem. § 32b Abs. 2 EStG\nbeantragt worden ist, ist nicht auszuschließen, dass die weitere Entwicklung der Rechtsprechung des BFH\nAuswirkungen auf das vorliegende Klageverfahren entfalten könnte (§ 115 Abs. 2 Nr. 2 FGO).\n\n"
+}

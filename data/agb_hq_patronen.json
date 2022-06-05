@@ -1,0 +1,917 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Begriffsbestimmungen",
+            "end": 37,
+            "start": 17,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 221,
+            "start": 214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 428,
+            "start": 422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 673,
+            "start": 666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 756,
+            "start": 745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 819,
+            "start": 816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestimmt",
+            "end": 960,
+            "start": 950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 981,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugeben",
+            "end": 1172,
+            "start": 1163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1437,
+            "start": 1434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1556,
+            "start": 1554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1652,
+            "start": 1642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 1813,
+            "start": 1806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 2013,
+            "start": 2010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschaffen",
+            "end": 2102,
+            "start": 2092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 2167,
+            "start": 2152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 2286,
+            "start": 2276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesandt",
+            "end": 2497,
+            "start": 2488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2521,
+            "start": 2503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2643,
+            "start": 2640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2807,
+            "start": 2804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3232,
+            "start": 3229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veräußern",
+            "end": 3328,
+            "start": 3319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwachsen",
+            "end": 3479,
+            "start": 3470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3517,
+            "start": 3515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermächtigt",
+            "end": 3597,
+            "start": 3587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerät",
+            "end": 3775,
+            "start": 3770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 3992,
+            "start": 3982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufer",
+            "end": 4065,
+            "start": 4056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergütung",
+            "end": 4080,
+            "start": 4071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 4121,
+            "start": 4114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 4178,
+            "start": 4169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 4281,
+            "start": 4272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 4348,
+            "start": 4339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 4495,
+            "start": 4489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsverzug",
+            "end": 4552,
+            "start": 4538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinsen",
+            "end": 4670,
+            "start": 4661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinsen",
+            "end": 4788,
+            "start": 4779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Euro",
+            "end": 4904,
+            "start": 4900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 5027,
+            "start": 5019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 5132,
+            "start": 5126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5287,
+            "start": 5284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 5450,
+            "start": 5444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 5622,
+            "start": 5613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 5741,
+            "start": 5735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmöglichkeiten",
+            "end": 5768,
+            "start": 5747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 5906,
+            "start": 5899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bonitätsprüfung",
+            "end": 6041,
+            "start": 6026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 6123,
+            "start": 6116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesperrt",
+            "end": 6221,
+            "start": 6213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anmelden",
+            "end": 6298,
+            "start": 6290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 6376,
+            "start": 6375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandunternehmen",
+            "end": 6453,
+            "start": 6435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 6567,
+            "start": 6556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Webseite",
+            "end": 6750,
+            "start": 6742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versand",
+            "end": 6763,
+            "start": 6756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Länder",
+            "end": 6862,
+            "start": 6856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angegeben",
+            "end": 6973,
+            "start": 6964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 7074,
+            "start": 7073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Überweisung",
+            "end": 7184,
+            "start": 7173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsanweisung",
+            "end": 7278,
+            "start": 7261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 7359,
+            "start": 7349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werktag",
+            "end": 7537,
+            "start": 7530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Webseite",
+            "end": 7708,
+            "start": 7700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werktag",
+            "end": 7888,
+            "start": 7881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 8004,
+            "start": 8001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8149,
+            "start": 8146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungszeit",
+            "end": 8294,
+            "start": 8281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrkosten",
+            "end": 8357,
+            "start": 8347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 8377,
+            "start": 8363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 8573,
+            "start": 8569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 8887,
+            "start": 8883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8967,
+            "start": 8964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 8987,
+            "start": 8973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 9103,
+            "start": 9099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 9217,
+            "start": 9208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 9262,
+            "start": 9253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 9367,
+            "start": 9358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 9595,
+            "start": 9589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 9728,
+            "start": 9713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 9937,
+            "start": 9928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10066,
+            "start": 10064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durfte",
+            "end": 10291,
+            "start": 10285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 10409,
+            "start": 10406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzeigen",
+            "end": 10555,
+            "start": 10547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10635,
+            "start": 10621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitteilung",
+            "end": 10703,
+            "start": 10693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "HGB",
+            "end": 10733,
+            "start": 10730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 10862,
+            "start": 10852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 10992,
+            "start": 10989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 11076,
+            "start": 11072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 11163,
+            "start": 11154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 11259,
+            "start": 11255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 11570,
+            "start": 11567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 11654,
+            "start": 11645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 11779,
+            "start": 11776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 11916,
+            "start": 11911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 11963,
+            "start": 11954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 11977,
+            "start": 11969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 12074,
+            "start": 12066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 12211,
+            "start": 12204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 12317,
+            "start": 12311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 12370,
+            "start": 12357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 12463,
+            "start": 12450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 12665,
+            "start": 12662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 12733,
+            "start": 12727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufer",
+            "end": 12878,
+            "start": 12869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersenden",
+            "end": 13048,
+            "start": 13038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersenden",
+            "end": 13156,
+            "start": 13146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 13327,
+            "start": 13319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 13385,
+            "start": 13380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 13448,
+            "start": 13444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "selbst",
+            "end": 13768,
+            "start": 13762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 13968,
+            "start": 13954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzen",
+            "end": 14061,
+            "start": 14052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 14088,
+            "start": 14080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 14276,
+            "start": 14269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 14423,
+            "start": 14420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wiederverkäufer",
+            "end": 14462,
+            "start": 14447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 14560,
+            "start": 14546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorbehalt",
+            "end": 14639,
+            "start": 14630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 14807,
+            "start": 14797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkungen",
+            "end": 14836,
+            "start": 14814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Durchschnittsschaden",
+            "end": 15008,
+            "start": 14988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufers",
+            "end": 15153,
+            "start": 15143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 15249,
+            "start": 15232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 15337,
+            "start": 15331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 15466,
+            "start": 15463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 15672,
+            "start": 15668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftung",
+            "end": 15792,
+            "start": 15778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 16007,
+            "start": 16001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shops",
+            "end": 16093,
+            "start": 16088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 16240,
+            "start": 16226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigen",
+            "end": 16290,
+            "start": 16285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sperren",
+            "end": 16437,
+            "start": 16430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 16484,
+            "start": 16469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 16633,
+            "start": 16620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 16813,
+            "start": 16807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "odr",
+            "end": 16909,
+            "start": 16906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 16934,
+            "start": 16915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 16987,
+            "start": 16976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17274,
+            "start": 17270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 17333,
+            "start": 17324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 17368,
+            "start": 17359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17668,
+            "start": 17665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verklagen",
+            "end": 17779,
+            "start": 17770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 17870,
+            "start": 17861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 17997,
+            "start": 17985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verständnis",
+            "end": 18032,
+            "start": 18021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lösung",
+            "end": 18166,
+            "start": 18160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telefonnummer",
+            "end": 18254,
+            "start": 18241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "0",
+            "end": 18269,
+            "start": 18268,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Allgemeines, Begriffsbestimmungen\n(1) Die folgenden Allgemeinen Geschäftsbedingungen (AGB) gelten für die Geschäftsbeziehung zwischen dem Verkäufer und dem Kunden in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.\n(2) Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbstständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer i. S. d. Geschäftsbedingungen sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die bei Abschluss des Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handeln. Kunden i. S. d. Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.\n(3) Individuelle Vertragsabreden haben Vorrang vor diesen AGB. Abweichende, entgegenstehende oder ergänzende AGB werden nicht Vertragsbestandteil, es sei denn, ihrer Geltung wird ausdrücklich zugestimmt.\n§ 2 Vertragsschluss\n(1) Die Präsentation der Waren auf der Webseite des Verkäufers stellt kein Angebot im Rechtssinne dar, sondern lediglich eine Aufforderung an den Kunden, ein Angebot im Rechtssinne abzugeben. Die bestellten Waren können aufgrund der technisch bedingten Darstellungsmöglichkeiten geringfügig im Rahmen des Zumutbaren von den im Internet dargestellten Waren abweichen, insbesondere kann es hierbei zu farblichen Abweichungen kommen, soweit dies zumutbar ist.\n(2) Durch Anklicken des Buttons „Kaufen“ geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab.\n(3) Der Verkäufer wird den Zugang der Bestellung des Kunden unverzüglich per E-Mail bestätigen.\n(4) Der Vertragsschluss erfolgt unter dem Vorbehalt, im Falle nicht richtiger oder nicht ordnungsgemäßer Selbstbelieferung, nicht oder nur teilweise zu leisten. Dies gilt nur für den Fall, dass die Nichtlieferung nicht von dem Verkäufer zu vertreten ist und dieser mit der gebotenen Sorgfalt ein konkretes Deckungsgeschäft mit dem Zulieferer abgeschlossen hat. Der Verkäufer wird alle zumutbaren Anstrengungen unternehmen, um die Ware zu beschaffen. Andernfalls wird die Gegenleistung unverzüglich zurückerstattet. Im Falle der Nichtverfügbarkeit oder der nur teilweisen Verfügbarkeit der Ware wird der Kunde unverzüglich informiert.\n(5) Sofern der Kunde die Ware auf elektronischem Wege bestellt, wird der Vertragstext vom Verkäufer gespeichert und dem Kunden nebst den rechtswirksam einbezogenen AGB per E-Mail nach Vertragsschluss zugesandt.\n§ 3 Eigentumsvorbehalt\n(1) Bei Verbrauchern behält sich der Verkäufer das Eigentum an der Ware bis zur vollständigen Zahlung des Kaufpreises vor. Bei Unternehmern behält sich der Verkäufer das Eigentum an der Ware bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung vor.\n(2) Bei vertragswidrigem Verhalten des Kunden, insbesondere bei Zahlungsverzug, bei falschen Angaben des Kunden über seine Kreditwürdigkeit oder wenn ein Antrag auf Eröffnung des Insolvenzverfahrens gestellt wird, ist der Verkäufer – gegebenenfalls nach Fristsetzung - berechtigt, vom Vertrag zurückzutreten und die Ware heraus zu verlangen, sofern der Kunde die Gegenleistung noch nicht oder nicht vollständig erbracht hat.\n(3) Der Unternehmer ist berechtigt, die Ware im ordentlichen Geschäftsgang weiter zu veräußern. Er tritt dem Verkäufer bereits jetzt alle Forderungen i. H. d. Rechnungsbetrags ab, die ihm durch die Weiterveräußerung gegen einen Dritten erwachsen. Der Verkäufer nimmt die Abtretung an. Nach der Abtretung ist der Unternehmer zur Einziehung der Forderung ermächtigt. Der Verkäufer behält sich vor, die Forderung selbst einzuziehen, sobald der Unternehmer seinen Zahlungsverpflichtungen nicht ordnungsgemäß nachkommt und in Zahlungsverzug gerät.\n(4) Der Verkäufer verpflichtet sich, die ihm zustehenden Sicherheiten auf Verlangen des Kunden insoweit freizugeben, als der realisierbare Wert der Sicherheiten die zu sichernde Forderung um mehr als 10 % übersteigt. Die Auswahl der freizugebenden Sicherheiten obliegt dabei dem Verkäufer.\n§ 4 Vergütung\n(1) Der angegebene Kaufpreis ist bindend. Im Kaufpreis ist die gesetzliche Umsatzsteuer enthalten. Die beim Versand zusätzlich anfallenden Versandkosten sind in der Übersicht Zahlung/Versand enthalten. Kosten für Verpackung sind in den Versandkosten bereits enthalten.\n(2) Der Kunde verpflichtet sich, innerhalb von 7 Tagen nach Erhalt der Auftragsbestätigung per E-Mail bzw. der Rechnung den Gesamtpreis zu zahlen. Nach Ablauf der Frist kommt der Kunde in Zahlungsverzug. Der Verbraucher hat während des Verzugs die Geldschuld i. H. v. 5 Prozentpunkten über dem Basiszinssatz zu verzinsen. Der Unternehmer hat während des Verzugs die Geldschuld i. H. v. 9 Prozentpunkten über dem Basiszinssatz zu verzinsen. Der Unternehmer schuldet bei Verzug mit einer Entgeltforderung außerdem eine pauschale Zahlung in Höhe von 40 Euro. Dies gilt auch, wenn sich der Unternehmer mit einer Abschlagszahlung oder einer sonstigen Ratenzahlung in Verzug befindet. Gegenüber dem Unternehmer behält sich der Verkäufer vor, einen höheren Verzugsschaden geltend zu machen. Die Pauschale nach Satz 5 wird auf einen geschuldeten Schadensersatzanspruch angerechnet, soweit der Schaden in Kosten der Rechtsverfolgung begründet ist.\n(3) Der Kunde hat ein Recht zur Aufrechnung nur, wenn seine Gegenansprüche rechtskräftig festgestellt, anerkannt oder durch den Verkäufer nicht bestritten wurden. Das Recht des Käufers zur Aufrechnung mit vertraglichen und sonstigen Ansprüchen aus der Anbahnung oder Durchführung dieses Vertragsverhältnisses bleibt hiervon unberührt. Der Kunde kann ein Zurückbehaltungsrecht nur ausüben, wenn sein Gegenanspruch auf demselben Vertragsverhältnis beruht.\n§ 5 Zahlungsmöglichkeiten\n(1) Die Kunden können den Kaufpreis per Vorkasse/Banküberweisung, Sofortüberweisung, PayPal, Lastschrift, Rechnung oder Nachnahme leisten.\n(2) Bei Neukunden steht die Zahlungsmöglichkeit auf Rechnung unter dem Vorbehalt einer erfolgreichen Adressdaten- und Bonitätsprüfung. Die Zahlungsmöglichkeit Rechnung ist zunächst nur bei der Erstbestellung möglich. Bis zum Ausgleich der Rechnung ist diese Zahlungsmöglichkeit dann für Folgebestellungen gesperrt.\n(3) Bei Zahlung per PayPal muss der Kunde sich unter www.paypal.de anmelden. Es gelten die Nutzungsbedingungen von paypal.de [PayPal Nutzungsbedingungen]\n(4) Bei Zahlung per Nachnahme zahlt der Kunde direkt beim Versandunternehmen.\n(5) Bei Zahlung per Bankeinzug wird der Verkäufer den Käufer 7 Werktage im Voraus über die Abbuchung informieren.\n(6) Informationen zu den ggf. anfallenden Kosten des ausgewählten Zahlungsmittels finden Sie in unseren Kundeninformationen und in der Übersicht Zahlung/Versand auf unserer Webseite.\n§ 6 Versand\n(1) Der Verkäufer liefert ausschließlich in die in der Übersicht Zahlung/Versandangegebenen Länder.\n(2) Der Lieferzeitraum für Lieferungen innerhalb Deutschlands wird auf der jeweiligen Angebotsseite angegeben. Der Beginn der Lieferfrist bestimmt sich (abhängig von der gewählten Zahlungsart) nach Abs. 3 bis 5.\n(3) Bei Zahlung per Vorkasse/Banküberweisung beginnt die Lieferfrist einen Tag nach Tätigung der Überweisung. Bei Zahlung per PayPal beginnt die Lieferfrist einen Tag nach Tätigung der Zahlungsanweisung. Bei allen anderen Zahlungsarten beginnt die Frist einen Tag nach der Bestellung. Bei einer Bestellung Werktags bis 15:30 Uhr beginnt die Lieferfrist bei einer Zahlung per Sofortüberweisung, PayPal, Lastschrift, Rechnung oder Nachnahme noch am selben Werktag.\n(4) Informationen zur Lieferzeit bei einer Lieferung in andere Länder finden Sie in unseren Kundeninformationen und in der Übersicht Zahlung/Versand auf unserer Webseite.\n(5) Fällt der Fristbeginn oder das Fristende auf einen Samstag, Sonntag oder einen gesetzlichen Feiertag, so verschieben sich Fristbeginn bzw. Fristende auf den folgenden Werktag.\n(6) Hinsichtlich des Vorbehalts ordnungsgemäßer Selbstbelieferung verweist der Verkäufer auf § 2 Abs. 4 dieser AGB.\n(7) Der Verkäufer ist zur Teillieferung berechtigt, soweit eine Teillieferung unter Berücksichtigung seiner Interessen dem Kunden zuzumuten ist. Dies hat keinen Einfluss auf den Vertragsinhalt, insbesondere auf die vom Verkäufer geschuldete Leistung oder auf die vereinbarte Leistungszeit. Dem Kunden entstehen durch die Teillieferung keine Mehrkosten.\n§ 7 Gefahrübergang\n(1) Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware auch beim Versendungskauf mit der Übergabe der Ware auf den Verbraucher über.\n(2) Bei Unternehmern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur, den Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt auf den Unternehmer über.\n(3) Der Übergabe steht es gleich, wenn der Kunde mit der Annahme in Verzug ist.\n§ 8 Gewährleistung\n(1) Dem Kunden steht ein gesetzliches Gewährleistungsrecht zu, welches nach den §§ 8, 9 dieser AGB modifiziert wird.\n(2) Bestellte Waren können im Rahmen des Zumutbaren geringfügig von den im Internet abgebildeten Waren abweichen. Es wird auf § 2 Abs. 1 dieser AGB verwiesen.\n(3) Verbraucher haben die Wahl, ob sie Nacherfüllung durch Nachbesserung oder Ersatzlieferung verlangen. Der Verkäufer ist berechtigt, die Art der gewählten Nacherfüllung zu verweigern, wenn sie nur mit unverhältnismäßigen Kosten möglich ist und die andere Art der Nacherfüllung ohne erhebliche Nachteile für den Verbraucher bleibt. Bei Unternehmen leistet der Verkäufer für Mängel der Ware zunächst nach seiner Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n(4) Schlägt die Nacherfüllung fehl, kann der Kunde grds. nach seiner Wahl Herabsetzung des Kaufpreises (Minderung), Rückgängigmachung des Vertrags (Rücktritt) oder Schadensersatz statt der Leistung verlangen. Bei nur unerheblichen Mängeln steht dem Kunden – unter Berücksichtigung der beiderseitigen Interessen – kein Rücktrittsrecht zu. Anstelle des Schadensersatzes statt der Leistung kann der Kunde den Ersatz vergeblicher Aufwendungen im Rahmen des § 284 BGB verlangen, die er im Vertrauen auf den Erhalt der Ware gemacht hat und billigerweise machen durfte. Wählt der Kunde Schadensersatz statt der Leistung, so gelten die Haftungsbeschränkungen gemäß § 10 Abs. 1 dieser AGB.\n(5) Unternehmer müssen dem Verkäufer offensichtliche Mängel der gelieferten Ware innerhalb einer Frist von 2 Wochen ab Empfang der Ware anzeigen; andernfalls ist die Geltendmachung des Gewährleistungsanspruchs ausgeschlossen. Zur Fristwahrung genügt die rechtzeitige Absendung bzw. Mitteilung. Für Kaufleute gilt § 377 HGB.\n(6) Ist der Kunde Unternehmer, gilt als Beschaffenheit der Ware grds. nur die Produktbeschreibung des Verkäufers als vereinbart. Öffentliche Äußerungen, Anpreisung oder Werbung des Herstellers stellen daneben keine vertragsmäßige Beschaffenheit der Ware dar.\n(7) Die Gewährleistungsfrist für Verbraucher beträgt 2 Jahre ab Lieferung der Ware. Abweichend davon beträgt die Gewährleistungsfrist für Unternehmer 1 Jahr ab Lieferung. Bei gebrauchten Sachen beträgt die Gewährleistungsfrist ebenfalls 1 Jahr ab Lieferung der Ware. Die einjährige Gewährleistungsfrist gilt nicht, wenn dem Verkäufer grobes Verschulden vorwerfbar ist, ferner nicht im Falle von dem Verkäufer zurechenbaren Körper- und Gesundheitsschäden und bei Verlust des Lebens des Kunden, im Falle einer Garantie sowie im Fall des Lieferregresses gemäß der §§ 478, 479 BGB. Die Haftung des Verkäufers nach dem Produkthaftungsgesetz bleibt hiervon unberührt.\n(8) Abweichend von Abs. 7 gilt die regelmäßige Verjährungsfrist, wenn der Verkäufer einen Mangel arglistig verschwiegen hat.\n(9) Der Verkäufer gibt gegenüber dem Kunden keine Garantien im Rechtssinne ab, sofern nicht ausdrücklich etwas anderes vereinbart wurde. Herstellergarantien bleiben hiervon unberührt.\n§ 9 Garantie\n(1) Der Verkäufer gewährt auf bei ihm gekaufte Druckerpatronen und Toner eine 3-jährige Garantie. Der Verkäufer gewährt auf bei ihm gekaufte Toner eine 10-jährige Garantie, sofern es sich um Toner mit dem Hinweis \"HQ-Premium\" handelt.\n(2) Neben der Garantie bestehen im Falle eines Mangels die gesetzlichen Gewährleistungsrechte des Kunden. Diese werden durch die Garantie nicht eingeschränkt. Im Rahmen der gesetzlichen Gewährleistung hat der Kunde zunächst Anspruch auf Nacherfüllung. Schlägt diese fehl, kann der Kunde grundsätzlich Herabsetzung des Kaufpreises (Minderung), Rückgängigmachung des Vertrags (Rücktritt) oder Schadensersatz statt der Leistung verlangen, vgl. § 8 der AGB.\n(3) Die dreijährige Frist beginnt mit Eingang der Ware beim Kunden. Maßgeblich für die Fristwahrung ist der Eingang der Mitteilung des Mangels und der Kopie der Rechnung/des Kaufbelegs gem. Abs. 4 beim Verkäufer.\n(4) Zur Ausübung der Garantie hat der Kunde dem Verkäufer den Mangel schriftlich oder in Textform mitzuteilen sowie eine Kopie der Rechnung/des Kaufbelegs zu übersenden. Nach vorheriger Rücksprache hat der Kunde anschließend die mangelhafte Ware an den Verkäufer zu übersenden. Bei Vorliegen eines Garantiefalles wird der Verkäufer das Produkt nach seiner Wahl unentgeltlich instandsetzen oder durch einwandfreie Teile ganz oder teilweise ersetzen. Versandkosten entstehen dem Kunden in diesem Falle nicht. Ausgetauschte Teile gehen in das Eigentum des Verkäufers über.\n(5) Ausgeschlossen von der Garantie sind Schäden, die auf eine nicht fachgerechte Installation oder Montage, Veränderungen an der Ware, Fehlgebrauch, mangelnde Pflege oder Nichtbeachtung von Bedienungs- oder Montageanleitungen zurückzuführen sind. Die Garantie ist beschränkt auf Schäden an der gelieferten Ware selbst. Die Erstattung von Aufwendungen ggf. für Aus- und Einbau, Überprüfung entsprechender Teile sowie Forderungen nach entgangenem Gewinn und Schadensersatz sind von der Garantie ebenfalls ausgeschlossen. Tritt ein Garantiefall ein, hat der Kunde alles zu unternehmen, um den Schaden zu begrenzen.\n§ 10 Geld-zurück-Garantie\n(1) Unabhängig von dem gesetzlich zustehenden Widerrufsrecht bietet der Verkäufer folgendes, freiwilliges Rückgaberecht an, sofern es sich um Produkte mit dem Hinweis \"HQ-Premium\" handelt. Dieses Rückgaberecht beschränkt nicht die gesetzlichen Rechte des Kunden und somit auch nicht das gesetzliche Widerrufsrecht des Verbrauchers ein.\n§ 11 Rabattausschluss Wiederverkäufer\nWiederverkäufer sind von Rabattaktionen, z.B. über Preissuchmaschinen im Internet, ausgeschlossen. Der Vertragsschluss zu dem vergünstigten Preis erfolgt unter diesem Vorbehalt. Handelt es sich bei dem Besteller um einen Wiederverkäufer, der über einen Link auf die Angebotsseite eines Produkts gelangt ist, erfolgt keine Annahme der Bestellung.\n§ 12 Haftungsbeschränkungen\n(1) Bei leicht fahrlässigen Pflichtverletzungen beschränkt sich die Haftung auf den nach Art der Ware vorhersehbaren, vertragstypischen, unmittelbaren Durchschnittsschaden. Dies gilt auch bei leicht fahrlässigen Pflichtverletzungen der gesetzlichen Vertreter oder Verrichtungs- bzw. Erfüllungsgehilfen des Verkäufers. Der Verkäufer haftet nicht bei leicht fahrlässiger Verletzung unwesentlicher Vertragspflichten. Er haftet hingegen für die Verletzung vertragswesentlicher Rechtspositionen des Kunden. Vertragswesentliche Rechtspositionen sind solche, die der Vertrag dem Kunden nach dem Vertragsinhalt und -zweck zu gewähren hat. Der Verkäufer haftet ferner für die Verletzung von Verpflichtungen, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde vertrauen darf.\n(2) Die vorstehenden Haftungsbeschränkungen betreffen nicht Ansprüche des Kunden aus Garantien und/oder Produkthaftung. Weiter gelten die Haftungsbeschränkungen nicht bei Arglist, bei Verletzung vertragswesentlicher Pflichten sowie bei dem Verkäufer zurechenbaren Körper- und Gesundheitsschäden bzw. bei Verlust des Lebens des Kunden.\n(3) Der Verkäufer haftet nur für eigene Inhalte auf der Webseite seines Online-Shops. Soweit mit Links der Zugang zu anderen Webseiten ermöglicht wird, ist der Verkäufer für die dort enthaltenen fremden Inhalte nicht verantwortlich. Er macht sich die fremden Inhalte nicht zu Eigen. Sofern der Verkäufer Kenntnis von rechtswidrigen Inhalten auf externen Webseiten erhält, wird er den Zugang zu diesen Seiten unverzüglich sperren.\n§ 13 Informationen zur Online-Streitbeilegung\n(1) Die EU-Kommission wird im ersten Quartal 2016 eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. \"OS-Plattform\") bereitstellen. Die OS-Plattform soll als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten betreffend vertragliche Verpflichtungen, die aus Online-Kaufverträgen erwachsen, dienen. Erreichbar wird die OS-Plattform unter folgendem Link sein: https://ec.europa.eu/consumers/odr\n§ 14 Schlussbestimmungen\n(1) Es gilt das Recht der Bundesrepublik Deutschland. Bei Verbrauchern, die den Vertrag nicht zu beruflichen oder gewerblichen Zwecken abschließen, gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird. Die Bestimmungen des UN-Kaufrechts finden keine Anwendung. § 20 Abs. 8 TDSG bleibt unberührt.\n(2) Ist der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder ein öffentlichrechtliches Sondervermögen, ist Gerichtsstand für alle Streitigkeiten aus diesem Vertrag das an dem Geschäftssitz des Verkäufers zuständige Gericht, sofern nicht ein ausschließlicher Gerichtsstand gegeben ist. Der Verkäufer ist jedoch auch berechtigt, den Kaufmann an seinem Wohn- oder Geschäftssitzgericht zu verklagen. Die Zuständigkeit aufgrund eines ausschließlichen Gerichtsstands bleibt hiervon unberührt.\n(3) Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbaucherschlichtungsstelle teilzunehmen. Hierfür bitten wir um Verständnis. Sollten Sie dennoch einmal Grund zur Beanstandung haben, finden unsere Mitarbeiter sehr gerne eine für Sie zufriedenstellende Lösung. Kontakt zu unseren Mitarbeitern erhalten Sie [hier] oder unter folgender Telefonnummer: 040 303 742 0\n\n"
+}

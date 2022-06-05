@@ -1,0 +1,923 @@
+{
+    "Annotations": [
+        {
+            "annotation": "16",
+            "end": 47,
+            "start": 45,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zolltarif",
+            "end": 173,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 185,
+            "start": 174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standfuß",
+            "end": 220,
+            "start": 212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 231,
+            "start": 221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42108",
+            "end": 251,
+            "start": 246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 257,
+            "start": 252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 286,
+            "start": 276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 335,
+            "start": 327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 356,
+            "start": 337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 358,
+            "start": 357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 361,
+            "start": 360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standfuß",
+            "end": 449,
+            "start": 441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 452,
+            "start": 451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertreibt",
+            "end": 625,
+            "start": 616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 907,
+            "start": 905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 910,
+            "start": 909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umschließt",
+            "end": 1066,
+            "start": 1056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angebracht",
+            "end": 1155,
+            "start": 1145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1365,
+            "start": 1361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1577,
+            "start": 1573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1580,
+            "start": 1579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 1729,
+            "start": 1727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 1898,
+            "start": 1893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heraufgesetzt",
+            "end": 1986,
+            "start": 1973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1989,
+            "start": 1988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 2101,
+            "start": 2096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geändert",
+            "end": 2163,
+            "start": 2155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 2381,
+            "start": 2376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2384,
+            "start": 2383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2718,
+            "start": 2713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2866,
+            "start": 2863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modem",
+            "end": 3161,
+            "start": 3156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 3390,
+            "start": 3383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3393,
+            "start": 3392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 3546,
+            "start": 3532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telekommunikation",
+            "end": 3636,
+            "start": 3619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhöhe",
+            "end": 3780,
+            "start": 3774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telekommunikation",
+            "end": 3832,
+            "start": 3815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "meine",
+            "end": 4003,
+            "start": 3998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinke",
+            "end": 4072,
+            "start": 4067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhöhten",
+            "end": 4160,
+            "start": 4152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4163,
+            "start": 4162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tarifauffassung",
+            "end": 4258,
+            "start": 4243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 4423,
+            "start": 4416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügten",
+            "end": 4521,
+            "start": 4512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 4635,
+            "start": 4629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4814,
+            "start": 4810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diene",
+            "end": 4950,
+            "start": 4945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktion",
+            "end": 5012,
+            "start": 5004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standfuß",
+            "end": 5137,
+            "start": 5129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sticks",
+            "end": 5225,
+            "start": 5219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5329,
+            "start": 5323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 5382,
+            "start": 5379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sticks",
+            "end": 5441,
+            "start": 5435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Speichermedium",
+            "end": 5495,
+            "start": 5481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8523",
+            "end": 5597,
+            "start": 5593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellte",
+            "end": 5737,
+            "start": 5727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenspeicherung",
+            "end": 5795,
+            "start": 5779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KN",
+            "end": 5876,
+            "start": 5874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 6034,
+            "start": 6029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 6140,
+            "start": 6130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 6308,
+            "start": 6302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 6392,
+            "start": 6382,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6586,
+            "start": 6585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 6783,
+            "start": 6778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureihen",
+            "end": 6841,
+            "start": 6830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6844,
+            "start": 6843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 6976,
+            "start": 6966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6980,
+            "start": 6978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 7085,
+            "start": 7075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7089,
+            "start": 7087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 7334,
+            "start": 7325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 7338,
+            "start": 7336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7342,
+            "start": 7340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 7368,
+            "start": 7357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7372,
+            "start": 7370,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7574,
+            "start": 7573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7735,
+            "start": 7732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7914,
+            "start": 7911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7918,
+            "start": 7916,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8213,
+            "start": 8212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 8602,
+            "start": 8595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahres",
+            "end": 8671,
+            "start": 8665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8675,
+            "start": 8673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeführt",
+            "end": 8752,
+            "start": 8742,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8989,
+            "start": 8988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8993,
+            "start": 8991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureihen",
+            "end": 9107,
+            "start": 9096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 9111,
+            "start": 9109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9480,
+            "start": 9476,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9614,
+            "start": 9613,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9963,
+            "start": 9962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9967,
+            "start": 9965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 10150,
+            "start": 10146,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10632,
+            "start": 10631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10636,
+            "start": 10634,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10824,
+            "start": 10823,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11113,
+            "start": 11112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11117,
+            "start": 11115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zutreffend",
+            "end": 11273,
+            "start": 11263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 11277,
+            "start": 11275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschlussstücken",
+            "end": 11389,
+            "start": 11373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versehen",
+            "end": 11507,
+            "start": 11499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 11640,
+            "start": 11639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 11644,
+            "start": 11642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 11767,
+            "start": 11759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 11771,
+            "start": 11769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 11954,
+            "start": 11953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 12041,
+            "start": 12039,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12181,
+            "start": 12180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 12217,
+            "start": 12213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 12221,
+            "start": 12219,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12380,
+            "start": 12379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwendung",
+            "end": 12506,
+            "start": 12496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 12687,
+            "start": 12678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12921,
+            "start": 12918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwendung",
+            "end": 12996,
+            "start": 12986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglicht",
+            "end": 13094,
+            "start": 13084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 13098,
+            "start": 13096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschluss",
+            "end": 13313,
+            "start": 13304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 13486,
+            "start": 13479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweisen",
+            "end": 13634,
+            "start": 13625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 13638,
+            "start": 13636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4210",
+            "end": 13844,
+            "start": 13840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 13989,
+            "start": 13988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 13993,
+            "start": 13991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14155,
+            "start": 14149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erleichtern",
+            "end": 14256,
+            "start": 14245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14434,
+            "start": 14430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 14654,
+            "start": 14650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Signals",
+            "end": 14777,
+            "start": 14770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 14781,
+            "start": 14779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinweg",
+            "end": 14897,
+            "start": 14891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 15099,
+            "start": 15090,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15288,
+            "start": 15287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telekommunikation",
+            "end": 15544,
+            "start": 15527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattfanden",
+            "end": 15649,
+            "start": 15638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15881,
+            "start": 15875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 15885,
+            "start": 15883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 16179,
+            "start": 16170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kabel",
+            "end": 16241,
+            "start": 16236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingesetzt",
+            "end": 16301,
+            "start": 16291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16535,
+            "start": 16532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 16539,
+            "start": 16537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 16668,
+            "start": 16659,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16865,
+            "start": 16864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beeinflussen",
+            "end": 17081,
+            "start": 17069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 17085,
+            "start": 17083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureihen",
+            "end": 17256,
+            "start": 17245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 17260,
+            "start": 17258,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17342,
+            "start": 17341,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 29.11.2018 – 14 K 1039/16\nTitel:\nBundesfinanzhof, Telekommunikation, Befähigung zum Richteramt,\nSteuerbevollmächtigte, Einreihungsverordnung, Zolltarif\nSchlagworte:\nZolltarif, USB-Kabel mit Standfuß\nFundstelle:\nBeckRS 2018, 42108\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens trägt die Klägerin.\nEntscheidungsgründe\nI.\n1\nDie Beteiligten streiten über die zolltarifliche Einreihung von USB-Kabeln mit Standfuß.\n2\nDie Klägerin ist eine Gesellschaft mit beschränkter Haftung (GmbH), die u.a. elektronische, mechanische\nund elektromechanische Bauteile entwickelt, produziert und vertreibt. In der Zeit zwischen dem 17. Februar\n2012 und dem 08. Mai 2012 meldete sie aus China kommende Waren unter der Bezeichnung „USB-Kabel\nmit Anschlussstücken“ und der Codenr.: 8544 4210 000 der Kombinierten Nomenklatur (KN; Drittlandszoll:\n0%) zur Überführung in den freien Verkehr an.\n3\nDie eingeführten Waren bestehen aus einem halbkugelförmigen Kunststoffgehäuse, das eine Metallplatte\nzur Beschwerung und eine Leiterplatte (PCB) umschließt. In der Mitte der Halbkugel ist eine nach oben\nweisende Buchse des Typs USB-A angebracht. Das Kunststoffgehäuse ist seitlich mit einem ca. 90 cm\nlangen Kabel verbunden, an dessen Ende ein Stecker des Typs USB-A montiert ist, mit dem das\nKunststoffgehäuse an einen Computer angeschlossen werden kann. Das Kunststoffgehäuse dient als\nStandfuß zur Aufnahme eines WLAN-Adapters, mit dem eine kabellose Verbindung zwischen einem WLANRouter\nund einem Computer oder zwischen mehreren Computern hergestellt werden kann.\n4\nAm 12. August 2014 ordnete das beklagte Hauptzollamt (HZA) für den Zeitraum 12. August 2011 bis 12.\nAugust 2014 eine Zollprüfung bei der Klägerin an. Der Prüfer kam zu der Auffassung, dass die o.g. Waren\nunzutreffend eingereiht worden seien und tatsächlich der Codenr.: 8544 4290 900 (Zollsatz: 3,3%)\nzugewiesen seien. Bei dem Einfuhrvorgang vom 08. Mai 2012 wurde zudem der Zollwert auf … €\nheraufgesetzt.\n5\nDas HZA erließ daraufhin am 27. Januar 2015 einen Abgabenbescheid, mit dem insgesamt … € Zoll\nnacherhoben wurde. Die Festsetzung der Einfuhrumsatzsteuer wurde nicht geändert. Gegen den Bescheid\nvom 27. Januar 2015 legte die Klägerin mit Schreiben ihres Bevollmächtigten vom 14. Februar 2015\nEinspruch ein, der mit Einspruchsentscheidung vom 10. März 2016 als unbegründet zurückgewiesen wurde.\n6\nIhre Klage vom 12. April 2016 begründet die Klägerin im Wesentlichen damit, dass die\nstreitgegenständlichen Waren ihrer Ansicht nach der Codenr.: 8544 4210 000 („andere elektronische Leiter,\nfür eine Spannung von 1000 V oder weniger, mit Anschlussstücken versehen, von der für die\nTelekommunikation verwendeten Art“) zuzuordnen seien. Der Zolltarif enthalte keine näheren Ausführungen\ndazu, was unter dem Begriff „von der für die Telekommunikation verwendeten Art“ zu verstehen sei. Die\nErläuterungen zur KN führten diesbezüglich unter Rn. 03.3 aus, dass hierunter auch elektrische Leiter zu\nverstehen seien, die mit in Telekommunikationsnetzwerken verwendeten Anschlussstücken versehen seien,\nz.B. zur Verbindung einer automatischen Datenverarbeitungsmaschine mit einem Modem. Weder der\nWortlaut der Position noch die Erläuterungen zur KN oder zum Harmonisierten System der Bezeichnung\nund Codierung der Waren (HS) setzten indes voraus, dass aktive elektrische Bauteile in der Ware\nvorhanden sein müssten.\n7\nWeil die Ware bereits der Codenr.: 8544 4210 zugeordnet werden könne, sei die vom HZA vertretene\nEintarifierung in die Codenr.: 8544 4290 ausgeschlossen. Der USB-Standfuß erfülle das besondere\nKriterium der Verwendung in der Telekommunikation. Er sei derart konzipiert, dass er durch die eingebaute\nPlatine die Empfangs- und Übertragungsleistung des eingesteckten USB-WLAN-Sticks erhöhe. WLANTechnologie\nsei eine Art der Telekommunikation. Entscheidend sei allein, ob der zu bewertende elektrische\nLeiter der Telekommunikation diene und nicht, ob er über aktive elektrische Bauteile verfüge, wie das HZA\nmeine. Der vom HZA gezogene Vergleich mit Kopfhörern für Smartphones hinke. Diese Waren verfügten\nnicht über besondere Bauteile, die die Empfangsleistung erhöhten.\n8\nDie Einreihungsverordnung (EU) Nr. 1112/2012 vom 23. November 2012 stütze ihre Tarifauffassung. Schon\ndie Beschreibung der von der Verordnung erfassten Waren ließe erhebliche Zweifel aufkommen, ob\nhierunter auch die streitgegenständlichen Waren fallen könnten. Denn die Verordnung erfasse nur solche\nUSB-Kabel, die an beiden Enden über USB-Stecker verfügten. Außerdem sollten die von der Verordnung\nerfassten Waren allein der Datenübertragung zwischen zwei Geräten dienen. Die hier zu beurteilende Ware\nverfüge über einen Standfuß, der mithilfe der eingebauten Platine direkten Einfluss auf die\nEmpfangsleistung des eingesteckten WLAN-USB-Sticks habe. Dieser Standfuß stelle kein Anschlussstück\ni.S.d. genannten Verordnung dar, weil er nicht lediglich der Verbindung zweier Geräte diene. Der WLANUSB-\nStick besitze ohne USB-Anschluss keine Funktion. Er empfange die auf einem Computer\ngespeicherten Daten selbst nur drahtlos mit Hilfe der Verstärkung durch den USB-Standfuß. Dieser diene\nsamt Kabel dem Empfang und Senden von Daten mit Hilfe des WLAN-USB-Sticks. Mit der auf dem\nStandfuß angebrachten Buchse könne keine Verbindung mit einem Gerät hergestellt werden. Zudem stelle\nder WLAN-USB-Stick auch kein Gerät dar. Der USB-Standfuß ermögliche das Einstecken von USB-Sticks.\nEin handelsüblicher USB-Stick sei ein Speichermedium. Dabei handele es sich nicht um ein Gerät, sondern\num eine Aufzeichnungsvorrichtung der Position 8523. Für sie sei typisch, dass sie selbst zwischen\nAufzeichnungs- oder Lesegeräten getauscht werden könnte, selbst jedoch kein Gerät darstellte. Zwar diene\nder WLAN-USB-Stick nicht der Datenspeicherung. Jedoch handele es sich offensichtlich nicht um ein Gerät\ndes Kapitels 84 der KN. Selbst wenn man den WLAN-USB-Stick als Gerät des Kapitels 85 ansähe, fände\ndennoch keine Datenübertragung zwischen dem Computer und dem WLAN-USB-Stick statt; vielmehr\nwürden die Daten zwischen den beiden über das WLAN miteinander verbundenen Computern übertragen.\nDer WLAN-USB-Stick diene nur als Datenmittler, der Daten nur empfangen oder versenden könne, ohne\ndiese jedoch selbst aufbe- oder verarbeiten oder speichern zu können. Sei der WLAN-USB-Stick nur\nDatenmittler, würden an ihn auch keine Daten übertragen; vielmehr diene er gemeinsam mit dem USBStandfuß\nsamt Kabel der Datenübertragung von einem Computer zu einem anderen Computer mit den\nMitteln der drahtlosen Telekommunikationstechnologie (WLAN). Die streitgegenständliche Ware nutze als\nspeziell für den WLAN-Betrieb konzipierte Ware die Mittel der Telekommunikation, denn die maßgebliche\nDatenübertragung finde zwischen zwei Computern statt. Damit sei die Ware in die Codenr.: 8544 4210\neinzureihen.\n9\nDie Klägerin beantragt, den Bescheid vom 27. Januar 2015 und die dazu ergangene\nEinspruchsentscheidung vom 10. März 2016 aufzuheben.\n10\nDas HZA beantragt unter Verweis auf die Ausführungen in der Einspruchsentscheidung, die Klage\nabzuweisen.\n11\nWegen der Einzelheiten des Sachverhalts und des Vorbringens der Beteiligten wird auf die eingereichten\nSchriftsätze, auf die vorgelegten Unterlagen und Akten sowie auf das Protokoll über die mündliche\nVerhandlung vom 29. November 2018 verwiesen.\nII.\n12\nDie Klage ist unbegründet.\n13\n1. Rechtsgrundlage für den Bescheid vom 27. Januar 2015 ist Art. 220 Abs. 1 Satz 1 der Verordnung -\nEWG - Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften\n(ZK). Danach hat eine Nacherhebung zu erfolgen, wenn der einer Zollschuld entsprechende Abgabenbetrag\nnicht nach den Art. 218 und 219 ZK buchmäßig erfasst worden ist. Dies war vorliegend der Fall, weil die\nWaren aufgrund einer unzutreffenden Tarifierung zunächst zollfrei belassen wurden, obwohl tatsächlich ein\nZollsatz von 3,3% anzuwenden ist.\n14\nGrundlage des Zolltarifs der EU ist die KN in Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom\n23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif\n(Amtsblatt der Europäischen Gemeinschaften - ABlEG Nr. L 256/1; im Folgenden: VO Nr. 2658/87). Nach\nArt. 12 Abs. 1 der VO Nr. 2658/87 in der durch die Verordnung (EG) Nr. 254/2000 des Rates vom 31.\nJanuar 2000 (ABlEG L 28/16) geänderten Fassung veröffentlicht die Kommission jährlich in Form einer\nVerordnung die vollständige Fassung der KN zusammen mit den Zollsätzen, wie sie sich aus den vom Rat\nder Europäischen Union (EU) oder von der Kommission beschlossenen Maßnahmen ergeben. Diese\nVerordnung gilt jeweils ab dem 1. Januar des folgenden Jahres.\n15\nDie Klägerin hat die hier zu beurteilenden Waren im Frühjahr 2012 eingeführt. Dementsprechend richtet\nsich die zolltarifliche Einreihung nach der KN in der Fassung der Durchführungsverordnung (EU) Nr.\n1006/2011 der Kommission vom 27. September 2011 zur Änderung von Anhang I der VO Nr. 2658/87 (ABl\nEUNr. L 282/1).\n16\nDie streitgegenständlichen USB-Kabel mit Standfuß sind in die Codenr.: 8544 4290 900 (Zollsatz: 3,3%)\neinzureihen.\n17\nDas entscheidende Kriterium für die zollrechtliche Tarifierung von Waren ist nach der ständigen\nRechtsprechung des Gerichtshofs der Europäischen Union (EuGH) und des Bundesfinanzhofs (BFH)\nallgemein in deren objektiven Merkmalen und Eigenschaften zu suchen, wie sie im Wortlaut der Positionen\nder KN und den Anmerkungen zu den Abschnitten oder Kapiteln festgelegt sind. Bei der Einreihung von\nWaren in die KN gelten zudem die Allgemeinen Vorschriften für die Auslegung der Kombinierten\nNomenklatur (AV). Daneben gibt es nach dem Übereinkommen zum Harmonisierten System Erläuterungen\n(ErlHS) und Einreihungsavise (Tarifavise), die ebenso wie die Erläuterungen zur KN ein wichtiges, wenn\nauch nicht verbindliches Erkenntnismittel für die Auslegung der einzelnen Tarifpositionen sind (BFH-Urteil\nvom 21. Februar 2017 VII R 2/15, BFH/NV 2017, 1066 m.w.N.).\n18\nAuf den Verwendungszweck einer Ware darf nur abgestellt werden, wenn im Wortlaut der Bestimmungen\noder in den Erläuterungen dazu ausdrücklich auf dieses Kriterium Bezug genommen wird. Voraussetzung\nist dabei, dass der Verwendungszweck der Ware innewohnt, was sich anhand der objektiven Merkmale und\nEigenschaften der Ware beurteilen lassen muss (ständige Rechtsprechung des EuGH und des BFH; vgl.\nEuGH-Urteile vom 12. April 2018 C-227/17, ECLI:ECLI:EU:C:2018:247, Zeitschrift für Zölle und\nVerbrauchsteuern - ZfZ - 2018, 200 und vom 25. Juli 2018 C-445/17, ECLI:ECLI:EU:C:2018:609; BFH-Urteil\nvom 07. August 2018 VII R 20/17, ECLI:DE:BFH:2018:U.070818.VIIR20.17.0).\n19\nMaßgebend für die Tarifierung ist der Zustand, in dem die Ware zur Zollabfertigung gestellt wird (EuGHUrteil\nvom 27. September 2007 C-208/06, Medion und Canon, BFH/NV 2008, Beilage 1, 52). Kommt es für\ndie Einreihung einer Ware in eine Pos. oder Unterpos. der KN auf ihren Verwendungszweck an, so muss\ndie ausschließliche oder hauptsächliche Verwendungseignung im Augenblick der Zollabfertigung erkennbar\nsein (BFH-Beschluss vom 24. Oktober 2002 VII B 17/02, BFH/NV 2003, 216).\n20\nAusgehend von diesen Grundsätzen hält der Senat die vom HZA vorgenommene Einreihung des USBKabels\nmit Standfuß in die Codenr.: 8544 4290 900 für zutreffend.\n21\nDie Pos. 8544 umfasst „Isolierte (…) Drähte, Kabel (…) und andere elektrische Leiter, auch mit\nAnschlussstücken; Kabel aus optischen, einzeln umhüllten Fasern, auch elektrische Leiter enthaltend oder\nmit Anschlussstücken versehen. Die Unterpos. 8544 42 betrifft „andere elektrische Leiter, für eine\nSpannung von 1000 V oder weniger mit Anschlussstücken versehen“.\n22\nEine Einreihung in die von der Klägerin angemeldeten Unterpos. 8544 4210 kommt aus den folgenden\nGründen nicht in Betracht.\n23\nDie Unterpos. 8544 4210 umfasst „andere elektrische Leiter, für eine Spannung von 1000 V oder weniger\nmit Anschlussstücken versehen von der für die Telekommunikation verwendeten Art“; sie stellt also ihrem\nWortlaut nach auf einen bestimmten Verwendungszweck der Ware ab. Ein tarifliches Einreihungskriterium\nkann der Verwendungszweck aber nur sein, wenn er der Ware innewohnt (EuGH in\nECLI:ECLI:EU:C:2018:247). Dies ist vorliegend nicht der Fall.\n24\nOb der Verwendungszweck einer Ware innewohnt, muss sich anhand ihrer objektiven Merkmale und\nEigenschaften beurteilen lassen (EuGH in ECLI:ECLI:EU:C:2018:247). Entscheidend ist die ausschließliche\noder hauptsächliche Verwendungseignung der Ware und nicht deren tatsächliche Verwendung. Der\nUmstand, dass das USB-Kabel mit Standfuß nach seiner Überführung in den freien Verkehr (nur)\nzusammen mit dem X-WLAN USB-Stick vertrieben wird, ist deshalb nicht von Bedeutung. Keinen\nentscheidenden Einfluss hat auch die von der Klägerin angeführte Tatsache, dass das Logo der Firma, die\ndas USB-Kabel zusammen mit dem WLAN-Stick vertreibt, für den Abfertigungsbeamten sichtbar auf dem\nStandfuß angebracht ist. Das Logo gibt zwar einen Hinweis auf die geplante tatsächliche Verwendung; es\nist aber kein Beschaffenheitsmerkmal, das die Verwendung für die Telekommunikation ermöglicht.\n25\nNach ihren - im Zeitpunkt der Zollabfertigung erkennbaren - objektiven Merkmalen und Eigenschaften dient\ndie streitgegenständliche Ware als Anschluss- bzw. Verlängerungskabel für Apparate mit USB-A-Steck-\nAnschluss. Dabei kann es sich z.B. um einen sog. WLAN-Stick aber auch um einen USB-Speicher-Stick\noder um jede andere Ware mit USB-A-SteckAnschluss (z.B. Maus, Tastatur usw.) handeln. Insoweit\nunterscheidet sich die streitgegenständliche Ware von Telekommunikationsverkabelungen, die häufig\ngenormte RJ-Steckverbindungen aufweisen.\n26\nElektrische Leiter, die verschiedene Apparate verbinden und - wie hier - mit anderen als in\nTelekommunikationsverkabelungen verwendeten Anschlussstücken versehen sind, gehören nicht zur\nUnterpos. 8544 4210. Dieses Auslegungsergebnis deckt sich mit den seit 27. Juni 2012 geltenden\nErläuterungen zur KN (ErlKN) zu Unterpos. 8544 4210 RZn 03.3 und 04.1.\n27\nUnabhängig davon werden die USB-Verlängerung mit Standfuß selbst dann nicht „für“ die\nTelekommunikation verwendet, wenn sie mit einem WLAN-Stick verbunden werden. Bei einem solchen\nEinsatz mag die streitgegenständliche Ware zwar die Telekommunikation erleichtern; möglich ist die\nKommunikation aber auch ohne den Einsatz des USB-Kabels und ohne Standfuß, indem der WLAN-Stick\nunmittelbar mit einem USB-Anschluss des Computers verbunden wird. Das USB-Kabel erhöht den Komfort\ndes Nutzers, weil der WLAN-Stick nicht direkt am Gehäuse des Computers angesteckt werden muss,\nsondern an einer ggf. leichter zugänglichen Stelle am Arbeitsplatz aufgestellt werden kann. Außerdem gibt\nder Standfuß dem WLAN-Stick Halt und die Positionsveränderung bringt u.U. Vorteile beim Empfang des\nSignals.\n28\nTelekommunikation bezeichnet zwar ganz allgemein den Austausch von Informationen über eine räumliche\nDistanz hinweg. Allerdings ist nicht jeglicher Datenaustausch, sondern nur ein solcher, der unter\nVerwendung von Telekommunikationstechnologie stattfindet, als „Telekommunikation“ i.S.d. Unterpos. 8544\n4210 anzusehen. Dieses Begriffsverständnis entspricht auch der Tarifauffassung der Kommission in der\nDurchführungsverordnung (EU) Nr. 1112/2012 vom 23. November 2012 (ABl. L 329 vom 29. November\n2012, 9). Ausweislich der im Anhang zur Verordnung enthaltenen Begründung gilt die Datenübertragung\nzwischen zwei Geräten, bei der keine Telekommunikationstechnologie, z.B. Ethernet, verwendet ist, für die\nZwecke der Unterpos. 8544 4210 nicht als Telekommunikation. Einreihungsverordnungen sind zwar nur auf\nEinfuhren anwendbar, die nach ihrem Inkrafttreten stattfanden. Um aber dem mit solchen Verordnungen\nverfolgten Ziel einer einheitlichen Anwendung der KN und einer Gleichbehandlung der\nWirtschaftsteilnehmer Rechnung zu tragen, können sie als Hilfsmittel zur Auslegung der KN herangezogen\nwerden.\n29\nVon der o.g. Begriffsbestimmung ausgehend dient zwar der WLAN-Stick, mit dem eine kabellose\nVerbindung zwischen einem WLAN-Router und einem Computer oder zwischen mehreren Computern\nhergestellt werden kann, der Telekommunikation, weil er typische Telekommunikationstechnologie (WLAN)\nverwendet. Dies gilt aber nicht für das streitgegenständliche USB-Kabel. Dieses wird zwar u.a. zusammen\nmit WLAN-Technik eingesetzt; die Übertragung der kabellos über den WLAN-Stick empfangenen Daten auf\nden Computer funktioniert aber über USB-Technik, die in der Regel dem Verbinden/Aufladen von Geräten\ndient, aber keine typische Telekommunikationstechnologie ist.\n30\nOb und ggf. welchen Einfluss die Standfüße auf die Übertragungsgeschwindigkeit haben, ist für die\nEinreihung nicht von Bedeutung. Von der Unterpos. 8544 4210 sind nur solche Kabel erfasst, die speziell\nfür die Telekommunikation im o.g. Sinne zum Einsatz kommen (vgl. Urteil des FG Hamburg vom 17. August\n2011 4 K 27/11, n.v.). USB-Kabel, die - wie hier - auch zusammen mit Telekommunikationstechnologie\nverwendet werden können, fallen selbst dann nicht unter die Unterpos. 8544 4210, wenn sie die\nInformationsübertragung günstig beeinflussen.\n31\nWeil eine Einreihung in die Unterpos. 8544 4210 ausgeschlossen ist, ist die Ware in die Unterpos. 8544\n4290 „andere“ und in die Codenr. 8544 4290 900 „andere“ einzureihen.\n32\n2. Die Kostenentscheidung beruht auf § 135 Abs. 1 der Finanzgerichtsordnung (FGO).\n\n"
+}

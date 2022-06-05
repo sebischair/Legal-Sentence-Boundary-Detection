@@ -1,0 +1,437 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 31,
+            "start": 16,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegen",
+            "end": 181,
+            "start": 175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 220,
+            "start": 215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 304,
+            "start": 291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 419,
+            "start": 411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herunterladen",
+            "end": 526,
+            "start": 513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehbar",
+            "end": 661,
+            "start": 652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 779,
+            "start": 770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 915,
+            "start": 909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 1068,
+            "start": 1061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 1139,
+            "start": 1132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shop",
+            "end": 1206,
+            "start": 1202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüft",
+            "end": 1360,
+            "start": 1351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "html",
+            "end": 1467,
+            "start": 1463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 1504,
+            "start": 1489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Potsdam",
+            "end": 1618,
+            "start": 1611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1771,
+            "start": 1769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1975,
+            "start": 1965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 2039,
+            "start": 2030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2140,
+            "start": 2132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2221,
+            "start": 2215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 2419,
+            "start": 2408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 2696,
+            "start": 2689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 2800,
+            "start": 2797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Website",
+            "end": 2900,
+            "start": 2893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zölle",
+            "end": 2937,
+            "start": 2932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angegeben",
+            "end": 3040,
+            "start": 3031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 3136,
+            "start": 3131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewalt",
+            "end": 3466,
+            "start": 3460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 3551,
+            "start": 3542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3665,
+            "start": 3660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 3862,
+            "start": 3858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4154,
+            "start": 4150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfallen",
+            "end": 4253,
+            "start": 4245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 4337,
+            "start": 4331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Website",
+            "end": 4524,
+            "start": 4517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4556,
+            "start": 4538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 4697,
+            "start": 4689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuschließen",
+            "end": 4758,
+            "start": 4744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenversandes",
+            "end": 4886,
+            "start": 4872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 4984,
+            "start": 4976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 5064,
+            "start": 5056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 5099,
+            "start": 5088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 5118,
+            "start": 5100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftung",
+            "end": 5135,
+            "start": 5122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 5329,
+            "start": 5322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahre",
+            "end": 5394,
+            "start": 5389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 5575,
+            "start": 5567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellers",
+            "end": 5679,
+            "start": 5668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 5810,
+            "start": 5806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 6109,
+            "start": 6105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftungsgesetz",
+            "end": 6181,
+            "start": 6160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 6300,
+            "start": 6296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Website",
+            "end": 6467,
+            "start": 6460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 6479,
+            "start": 6472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 6973,
+            "start": 6967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 7228,
+            "start": 7224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sinne",
+            "end": 7327,
+            "start": 7322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 7484,
+            "start": 7474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 7609,
+            "start": 7606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 7735,
+            "start": 7717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendaten",
+            "end": 7751,
+            "start": 7740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7872,
+            "start": 7866,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8019,
+            "start": 8018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 8147,
+            "start": 8141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Website",
+            "end": 8259,
+            "start": 8252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 8296,
+            "start": 8283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 8421,
+            "start": 8410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 8575,
+            "start": 8566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 8909,
+            "start": 8905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 9150,
+            "start": 9140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 9206,
+            "start": 9200,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§1 Allgemeines, Geltungsbereich\n1.1. Wir liefern ausschließlich zu den nachfolgenden Allgemeinen Geschäftsbedingungen, die sämtlichen mit uns geschlossenen Verträgen zugrunde liegen. Mündliche Nebenabreden bestehen nicht. Dem formularmäßigen Hinweis auf Geschäftsbedingungen des Kunden wird widersprochen.\n1.2. Sie können diese Allgemeinen Geschäftsbedingungen jederzeit auf unserer Shopseite www.mp3-player.de einsehen. Sie können dieses Dokument ausdrucken, speichern oder am Ende dieser Seite auch in PDF-Form herunterladen.\n1.3. Ihre konkreten Bestelldaten werden bei uns gespeichert und sind über einen passwortgeschützten direkten Zugang (Login) einsehbar. Hier können Sie Daten über Ihre abgeschlossenen, offenen und kürzlich versandten Bestellungen einsehen und verwalten. Der Kunde verpflichtet sich, die persönlichen Zugangsdaten vertraulich zu behandeln und keinem unbefugten Dritten zugänglich zu machen.\n1.4. Sie erhalten außerdem nach der Bestellung eine automatische Bestelleingangsbestätigungs-E-Mail, die noch einmal die Daten Ihrer Bestellung enthält.\n1.5. Der Vertragsschluss erfolgt ausschliesslich in deutscher Sprache.\n1.6. mp3-player.de trägt das Gütesiegel EHI Geprüfter Online-Shop. Um dieses Siegel zu erhalten, werden wir regelmäßig von der EHI Retail Institute GmbH auf die Einhaltung der Kriterien des EHI-Verhaltenskodex überprüft. Sie können den Verhaltenskodex unter diesem Link einsehen: www.shopinfo.net/haendler/kriterien/index.html.\n§2 Vertragspartner, Vertragsschluss\n2.1. Ihr Vertragspartner ist die Firma mp3-player.de - Inh. Stefan Grünewald e.K., Gartenstr. 2-12, 14482 Potsdam.\n2.2. Durch die Bestellung der gewünschten Waren per Internet, Telefon oder e-Mail gibt der Kunde ein verbindliches Angebot auf Kaufvertragsabschluss ab. Wir sind berechtigt, dieses Angebot innerhalb von 14 Kalendertagen mit Übersendung einer Auftragsbestätigung an den Kunden, die den Vertragsabschluss darstellt, oder durch Zustellung der Ware anzunehmen. Nach Ablauf der 14tägigen Frist gilt das Angebot als abgelehnt. Über Produkte, die nicht in der Versandbestätigung aufgeführt sind, kommt kein Kaufvertrag zustande.\n2.3. Es gelten die zum Zeitpunkt der Bestellung im Internet aufgeführten Preise. Die angegebenen Preise sind Endpreise, das heißt, sie beinhalten die jeweils gültige gesetzliche Mehrwertsteuer und sonstige Preisbestandteile zzgl. Versandkosten wie im Bestellvorgang ersichtlich.\n2.4. Sie bestellen in unserem Shop, indem Sie 1) Artikel in den Warenkorb legen 2) Ihre Liefer- und Zahlungsdaten eingeben 3) Ihre E-Mail-Adresse angeben 4) auf der Kontrollseite die Richtigkeit Ihrer Angaben bestätigen 5) am Ende auf den Button \"Bestellung absenden\" klicken. Die Information über den Zeitpunkt des Vertragsschlusses finden Sie im entsprechenden Abschnitt in AGB. Mehr Infos zum Bestellvorgang finden Sie unter dem Servicepunkt \"So bestellen Sie\" auf der Website.\n§3 Lieferung, Gefahrübergang, Zölle\n3.1. Zu jedem Artikel wird die Zeit bis zur Übergabe an den Logistiker in der Produktanzeige angegeben. Zu dieser Zeit kommt noch die Paketlaufzeit von 1 bis 3 Werktagen innerhalb Deutschlands hinzu.\n3.2. Die Lieferzeit verlängert sich angemessen bei Maßnahmen im Rahmen von Arbeitsausfällen, insbesondere Streik und Aussperrung sowie weiteren von uns nicht zu vertretenden Umständen, wie gesetzlicher oder behördlicher Anordnung (z.B. Import- und Exportbeschränkungen) oder in Fällen von Lieferverzögerungen durch höhere Gewalt. Beginn und Ende derartiger Hindernisse werden wir dem Kunden unverzüglich mitteilen.\n3.3. Bei Lieferverzögerungen werden Sie umgehend informiert, sobald wir Kenntnis von der Lieferverzögerung haben.\n3.4. Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware auch beim Versendungskauf mit der Übergabe der Ware an den Verbraucher über. Bei Unternehmern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt auf den Unternehmer über.\n3.5. Bei Wareneinfuhren in Länder außerhalb der EU können Einfuhrabgaben (Steuern/Zölle) anfallen. Diese variieren in verschiedenen Zollgebieten und sind vom Kunden selbst zu tragen.\n3.6. Die Versandkosten, Gebühren für verschiedene Zahlungsweisen und eine Übersicht, in welche Länder eine Lieferung erfolgen kann, entnehmen Sie bitte dem Punkt Versand auf der Website.\n§4 Zahlung, Eigentumsvorbehalt\n4.1 Die Zahlung kann mittels Vorkasse, Sofortüberweisung, PayPal, Kreditkarte, Nachnahme oder Ratenzahlung bei einem Kreditinstitut erfolgen. Wir behalten uns vor, einzelne Zahlungsarten auszuschließen. Bei Kreditkartenzahlung erfolgt die Belastung Ihrer Karte durch unseren Abrechnungspartner Anschrift am Tag des Warenversandes. Kunden mit Wohnsitz außerhalb der Bundesrepublik Deutschland können nicht per Nachnahme bezahlen.\n4.2. Bis zur vollständigen Bezahlung bleibt die gelieferte Ware unser Eigentum.\n§5 Widerrufsrecht für Verbraucher\nWiderrufsbelehrung\n§6 Mängelhaftung\n6.1 Die Ansprüche des Kunden bei Mängeln richten sich nach den gesetzlichen Bestimmungen innerhalb der gesetzlichen Fristen, soweit sich nicht durch nachstehende Regelungen Abweichungen ergeben. Die gesetzliche Gewährleistungsfrist beträgt derzeit zwei Jahre.\n6.2. Schäden, die durch unsachgemäße oder vertragswidrige Maßnahmen des Kunden, bei Aufstellung, Anschluss, Bedienung oder Lagerung hervorgerufen werden, begründen keinen Anspruch. Die Unsachgemäßheit und Vertragswidrigkeit bestimmt sich insbesondere nach den Angaben des Herstellers.\n6.3. Bei Kauf einer gebrauchten Sache verjähren die Ansprüche des Kunden bei Mängeln mit Ablauf von einem Jahr ab Erhalt der Ware. Die Verkürzung der Gewährleistungsfrist auf ein Jahr gilt nicht, wenn die Ersatzpflicht auf einen Körper- oder Gesundheitsschaden wegen eines vom Verkäufer zu vertretenen Mangels oder auf vorsätzliches Verhalten oder grobe Fahrlässigkeit des Verkäufers oder seiner Erfüllungsgehilfen gestützt wird. Unbeschadet dessen haftet der Verkäufer nach dem Produkthaftungsgesetz.\n6.4. Ist der Kunde Unternehmer, so verjähren seine Ansprüche bei Mängeln mit Ablauf von einem Jahr ab Erhalt der Ware.\n6.5. Bitte beachten Sie unsere Ausführungen zu Herstellergarantien und Unterschieden zur gesetzlichen Gewährleistung unter dem Punkt Reparaturservice auf der Website.\n§7 Haftung\nWir haften für Schadenersatzansprüche aus Gewährleistung und sonstigen Rechtsgründen - insbesondere Ansprüche aus unerlaubter Handlung, Organisationsverschulden, Verschulden bei Vertragsabschluss oder etwaigen anderen verschuldungsabhängigen Ansprüchen aus Pflichtverletzungen - nur, soweit uns oder unseren Erfüllungsgehilfen Vorsatz oder grobe Fahrlässigkeit zur Last fällt oder der Schaden auf einer Verletzung vertragswesentlicher Pflichten oder Ansprüchen des Produkthaftungsrechts beruht. Vertragswesentliche Pflichten im Sinne dieser Allgemeinen Geschäftsbedingungen sind Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf. Die Lieferung einer mangelfreien Sache gilt nicht als vertragswesentliche Pflicht in diesem Sinne. Der vorstehende Haftungsausschluss für Fälle einfacher Fahrlässigkeit gilt nicht bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit; sowie im Fall der Übernahme einer Beschaffenheitsgarantie oder des arglistigen Verschweigens eines Mangels i.S.v. § 444 BGB. In diesen Fällen haften wir auch bei einfacher Fahrlässigkeit unserer gesetzlichen Vertreter oder unserer Erfüllungsgehilfen.\n§8 Kundendaten\nWir weisen Sie darauf hin, dass Ihre für die Geschäftsabwicklung notwendigen Bestell- und Adressdaten gespeichert werden. Eine Speicherung und Verwendung Ihrer Daten erfolgt im Rahmen der Auftragsabwicklung (auch durch Übermittlung an die eingesetzten Versandpartner). Wir geben Ihre personenbezogenen Daten, einschließlich Ihrer Haus-Adresse und E-Mail-Adresse, ansonsten nicht an Dritte weiter. Weitere Informationen zum Datenschutz finden unter dem Servicepunkt Datenschutz und Sicherheit auf der Website.\n§9 Anwendbares Recht, Gerichtsstand\n9.1. Für sämtliche Rechtsgeschäfte oder andere rechtlichen Beziehungen mit uns gilt das Recht der Bundesrepublik Deutschland. Das UN-Kaufrecht (CISG) sowie etwaige sonstige zwischenstaatliche Übereinkommen, auch nach ihrer Übernahme in das deutsche Recht, finden keine Anwendung. Bei Verträgen zu einem Zweck, der nicht der beruflichen oder gewerblichen Tätigkeit des Berechtigten (Verbrauchers) zugerechnet werden kann, gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n9.2. Im Geschäftsverkehr mit Kaufleuten und mit juristischen Personen des öffentlichen Rechts wird als Gerichtsstand für alle aus dem Vertrag sich ergebenden Rechtsstreitigkeiten, einschließlich Wechsel- und Scheckklagen Potsdam vereinbart. Wir sind auch berechtigt, am Sitz des Kunden zu klagen.\n\n"
+}

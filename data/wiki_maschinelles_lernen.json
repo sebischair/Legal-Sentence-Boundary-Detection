@@ -1,0 +1,383 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Lernen",
+            "end": 19,
+            "start": 13,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfahrung",
+            "end": 118,
+            "start": 109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verallgemeinern",
+            "end": 224,
+            "start": 209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lerndaten",
+            "end": 469,
+            "start": 460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 333,
+            "start": 327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "overfitting",
+            "end": 622,
+            "start": 611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systeme",
+            "end": 875,
+            "start": 868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 695,
+            "start": 688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geht",
+            "end": 1050,
+            "start": 1046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 1346,
+            "start": 1337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1110,
+            "start": 1104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansätze",
+            "end": 1390,
+            "start": 1383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 1490,
+            "start": 1485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlauben",
+            "end": 1826,
+            "start": 1818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "repräsentiert",
+            "end": 1866,
+            "start": 1853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschieden",
+            "end": 1970,
+            "start": 1957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2028,
+            "start": 2027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 2107,
+            "start": 2097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansätze",
+            "end": 2132,
+            "start": 2125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Algorithmen",
+            "end": 2188,
+            "start": 2177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "learning",
+            "end": 2409,
+            "start": 2401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einteilen",
+            "end": 2298,
+            "start": 2289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 2431,
+            "start": 2425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausgaben",
+            "end": 2511,
+            "start": 2503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herzustellen",
+            "end": 2785,
+            "start": 2773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 2610,
+            "start": 2604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassifizierung",
+            "end": 2862,
+            "start": 2847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Handschrifterkennung",
+            "end": 2916,
+            "start": 2896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3045,
+            "start": 3039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekannt",
+            "end": 3182,
+            "start": 3175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Menschen",
+            "end": 3512,
+            "start": 3504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maximieren",
+            "end": 3464,
+            "start": 3454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halten",
+            "end": 3811,
+            "start": 3805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfragen",
+            "end": 3659,
+            "start": 3651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 3837,
+            "start": 3831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 4186,
+            "start": 4173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 4453,
+            "start": 4446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglicht",
+            "end": 4036,
+            "start": 4026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einteilt",
+            "end": 4281,
+            "start": 4273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kategorisierung",
+            "end": 4857,
+            "start": 4842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausmachen",
+            "end": 4650,
+            "start": 4641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 5636,
+            "start": 5628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiedergibt",
+            "end": 5027,
+            "start": 5017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 5258,
+            "start": 5248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "HMMs",
+            "end": 4746,
+            "start": 4742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehen",
+            "end": 5494,
+            "start": 5489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "inkrementell",
+            "end": 5570,
+            "start": 5558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 5650,
+            "start": 5642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Learning",
+            "end": 5707,
+            "start": 5699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "implementiert",
+            "end": 5834,
+            "start": 5821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Algorithmen",
+            "end": 6000,
+            "start": 5989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mining",
+            "end": 6166,
+            "start": 6160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 6274,
+            "start": 6268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 6508,
+            "start": 6499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Theano",
+            "end": 6664,
+            "start": 6658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 6749,
+            "start": 6741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "implementiert",
+            "end": 6861,
+            "start": 6848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Python",
+            "end": 6987,
+            "start": 6981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Edition",
+            "end": 7137,
+            "start": 7130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SciPy",
+            "end": 7251,
+            "start": 7246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Methoden",
+            "end": 7313,
+            "start": 7305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 7418,
+            "start": 7412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernalgorithmen",
+            "end": 7511,
+            "start": 7496,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Maschinelles Lernen\r\nMaschinelles Lernen ist ein Oberbegriff für die „künstliche“ Generierung von Wissen aus Erfahrung: Ein künstliches System lernt aus Beispielen und kann diese nach Beendigung der Lernphase verallgemeinern. Dazu bauen Algorithmen beim maschinellen Lernen ein statistisches Modell auf, das auf Trainingsdaten beruht. Das heißt, es werden nicht einfach die Beispiele auswendig gelernt, sondern es „erkennt“ Muster und Gesetzmäßigkeiten in den Lerndaten. So kann das System auch unbekannte Daten beurteilen (Lerntransfer) oder aber am Lernen unbekannter Daten scheitern (Überanpassung; englisch overfitting).[1][2] Aus dem weiten Spektrum möglicher Anwendungen seien hier genannt: automatisierte Diagnose­verfahren, Erkennung von Kreditkartenbetrug, Aktienmarkt­analysen, Klassifikation von Nukleotidsequenzen, Sprach- und Texterkennung sowie autonome Systeme.\r\nDas Thema ist eng verwandt mit „Knowledge Discovery in Databases“ und „Data-Mining“, bei dem es jedoch vorwiegend um das Finden von neuen Mustern und Gesetzmäßigkeiten geht. Viele Algorithmen können für beide Zwecke verwendet werden. Außerdem können Methoden der „Knowledge Discovery in Databases“ genutzt werden, um Lerndaten für „maschinelles Lernen“ zu produzieren oder vorzuverarbeiten, und Algorithmen aus dem maschinellen Lernen finden beim Data-Mining Anwendung.\r\nSymbolische und nicht-symbolische Ansätze\r\nBeim maschinellen Lernen spielen Art und Mächtigkeit der Wissensrepräsentation eine wichtige Rolle. Man unterscheidet zwischen symbolischen Ansätzen, in denen das Wissen – sowohl die Beispiele als auch die induzierten Regeln – explizit repräsentiert ist, und nicht-symbolischen Ansätzen, wie neuronalen Netzen, denen zwar ein berechenbares Verhalten „antrainiert“ wird, die jedoch keinen Einblick in die erlernten Lösungswege erlauben; hier ist Wissen implizit repräsentiert.[3]\r\nBei den symbolischen Ansätzen werden aussagenlogische und prädikatenlogische Systeme unterschieden. Vertreter der ersteren sind ID3 und sein Nachfolger C4.5. Letztere werden im Bereich der induktiven logischen Programmierung entwickelt.\r\nAlgorithmische Ansätze\r\nDie praktische Umsetzung geschieht mittels Algorithmen. Verschiedene Algorithmen aus dem Bereich des maschinellen Lernens lassen sich grob in zwei Gruppen einteilen:[4] überwachtes Lernen (englisch supervised learning) und unüberwachtes Lernen (englisch unsupervised learning).\r\nÜberwachtes Lernen\r\nDer Algorithmus lernt eine Funktion aus gegebenen Paaren von Ein- und Ausgaben. Dabei stellt während des Lernens ein „Lehrer“ den korrekten Funktionswert zu einer Eingabe bereit. Ziel beim überwachten Lernen ist, dass dem Netz nach mehreren Rechengängen mit unterschiedlichen Ein- und Ausgaben die Fähigkeit antrainiert wird, Assoziationen herzustellen. Ein Teilgebiet des überwachten Lernens ist die automatische Klassifizierung. Ein Anwendungsbeispiel wäre die Handschrifterkennung.\r\nEs lassen sich noch einige Unterkategorien für Überwachtes Lernen identifizieren, die in der Literatur häufiger erwähnt werden:\r\n    Teilüberwachtes Lernen (englisch semi-supervised learning) Nur für einen Teil der Eingaben sind die dazugehörigen Ausgaben bekannt.[5]\r\n    Bestärkendes Lernen (englisch reinforcement learning) Der Algorithmus lernt durch Belohnung und Bestrafung eine Taktik, wie in potenziell auftretenden Situationen zu handeln ist, um den Nutzen des Agenten (d. h. des Systems, zu dem die Lernkomponente gehört) zu maximieren. Dies ist die häufigste Lernform eines Menschen.\r\n    Aktives Lernen (englisch active learning) Der Algorithmus hat die Möglichkeit für einen Teil der Eingaben die korrekten Ausgaben zu erfragen. Dabei muss der Algorithmus die Fragen bestimmen, welche einen hohen Informationsgewinn versprechen, um die Anzahl der Fragen möglichst klein zu halten.[6]\r\nUnüberwachtes Lernen\r\nDer Algorithmus erzeugt für eine gegebene Menge von Eingaben ein statistisches Modell, das die Eingaben beschreibt und erkannte Kategorien und Zusammenhänge enthält und somit Vorhersagen ermöglicht. Dabei gibt es Clustering-Verfahren, die die Daten in mehrere Kategorien einteilen, die sich durch charakteristische Muster voneinander unterscheiden. Das Netz erstellt somit selbständig Klassifikatoren, nach denen es die Eingabemuster einteilt. Ein wichtiger Algorithmus in diesem Zusammenhang ist der EM-Algorithmus, der iterativ die Parameter eines Modells so festlegt, dass es die gesehenen Daten optimal erklärt. Er legt dabei das Vorhandensein nicht beobachtbarer Kategorien zugrunde und schätzt abwechselnd die Zugehörigkeit der Daten zu einer der Kategorien und die Parameter, die die Kategorien ausmachen. Eine Anwendung des EM-Algorithmus findet sich beispielsweise in den Hidden Markov Models (HMMs). Andere Methoden des unüberwachten Lernens, z. B. Hauptkomponentenanalyse, verzichten auf die Kategorisierung. Sie zielen darauf ab, die beobachteten Daten in eine einfachere Repräsentation zu übersetzen, die sie trotz drastisch reduzierter Information möglichst genau wiedergibt.\r\nDes Weiteren unterscheidet man zwischen Batch-Lernen, bei dem alle Eingabe/Ausgabe-Paare gleichzeitig vorhanden sind, und kontinuierlichem (sequentiellem) Lernen, bei dem sich die Struktur des Netzes zeitlich versetzt entwickelt.\r\nAußerdem unterscheidet man zwischen Off-line-Lernen, bei dem alle Daten gespeichert sind und somit wiederholbar zugreifbar sind, und On-line-Lernen, bei dem die Daten nach einmaligem Ausführen und Anpassen der Gewichte verloren gehen. Batch Training ist immer off-line, On-line-Training ist immer inkrementell. Inkrementelles Lernen kann jedoch on-line oder off-line erfolgen.[7]\r\nSoftware\r\n    Caffe ist eine Programmbibliothek für Deep Learning.\r\n    Deeplearning4j ist eine in Java programmierte Open-Source-Software[8], die ein künstliches neuronales Netz implementiert.\r\n    ELKI ist eine in Java programmierte Open-Source-Software mit Schwerpunkt auf unüberwachtem Lernen und mit Indexunterstützung zur Beschleunigung von Algorithmen.\r\n    GNU R ist eine auf vielen Plattformen verfügbare, freie Statistiksoftware mit Erweiterungen zum maschinellen Lernen (z. B. rpart, randomForest) und Data-Mining.\r\n    MATLAB ist eine proprietäre Software mit Bibliotheken und Benutzeroberflächen für maschinelles Lernen.\r\n    ML.NET ist eine freie Machine-Learning-Bibliothek von Microsoft für .NET-Sprachen. Bestandteil davon ist Infer.NET, das ein plattformübergreifendes Open-Source-Framework für statistische Modellierung und Online-Lernen darstellt.[9]\r\n    Keras bietet eine einheitliche Schnittstelle für verschiedene Backends, darunter TensorFlow, Microsoft Cognitive Toolkit (vormals CNTK) und Theano.\r\n    KNIME ist eine Open-Source-Datamining-, Workflow- und Data-Pipelining-Software.\r\n    OpenNN ist eine in C++ geschriebene Programmbibliothek, die ein künstliches neuronales Netz implementiert.\r\n    PyTorch ist eine auf Maschinelles Lernen ausgerichtete Open-Source-Programmbibliothek für die Programmiersprache Python.\r\n    RapidMiner ist eine operatorbasierte graphische Oberfläche für maschinelles Lernen mit kommerziellem Support, aber auch einer Community-Edition.\r\n    Scikit-learn benutzt die numerischen und wissenschaftlichen Open-Source-Python-Bibliotheken NumPy und SciPy.\r\n    Shogun ist eine Open-Source-Toolbox für Kernel-Methoden.\r\n    TensorFlow ist eine von Google entwickelte Open-Source-Software-Bibliothek für maschinelles Lernen.\r\n    WEKA ist eine auf Java basierende Open-Source-Software mit zahlreichen Lernalgorithmen.\n"
+}

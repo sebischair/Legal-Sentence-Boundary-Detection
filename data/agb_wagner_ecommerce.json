@@ -1,0 +1,803 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Liefergebiet",
+            "end": 52,
+            "start": 40,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 270,
+            "start": 263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 510,
+            "start": 506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 785,
+            "start": 778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 878,
+            "start": 867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Europas",
+            "end": 936,
+            "start": 929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktseite",
+            "end": 1061,
+            "start": 1049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 1139,
+            "start": 1138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargestellt",
+            "end": 1228,
+            "start": 1217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 1370,
+            "start": 1366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 1435,
+            "start": 1428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieterinformation",
+            "end": 1475,
+            "start": 1456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1655,
+            "start": 1646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1789,
+            "start": 1786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 1930,
+            "start": 1921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2009,
+            "start": 2006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2117,
+            "start": 2114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 2315,
+            "start": 2305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2358,
+            "start": 2350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 2412,
+            "start": 2403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 2449,
+            "start": 2435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 2498,
+            "start": 2487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2517,
+            "start": 2499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsformular",
+            "end": 2537,
+            "start": 2520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 2552,
+            "start": 2538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fälligkeit",
+            "end": 2620,
+            "start": 2610,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2829,
+            "start": 2828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkostenübersicht",
+            "end": 2927,
+            "start": 2905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 3055,
+            "start": 3046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 3106,
+            "start": 3096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 3178,
+            "start": 3175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 3349,
+            "start": 3340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 3607,
+            "start": 3598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Plattform",
+            "end": 3674,
+            "start": 3665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VSBG",
+            "end": 3753,
+            "start": 3749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 3900,
+            "start": 3894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 3980,
+            "start": 3968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 4118,
+            "start": 4112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konfliktlösung",
+            "end": 4192,
+            "start": 4178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichte",
+            "end": 4323,
+            "start": 4315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abholzeiten",
+            "end": 4357,
+            "start": 4346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abholen",
+            "end": 4447,
+            "start": 4440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 4520,
+            "start": 4517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4681,
+            "start": 4675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 4747,
+            "start": 4739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4845,
+            "start": 4841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 4939,
+            "start": 4930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandfertigkeit",
+            "end": 5072,
+            "start": 5055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regellieferzeit",
+            "end": 5236,
+            "start": 5221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lagerhaltungsverknüpfung",
+            "end": 5322,
+            "start": 5298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5547,
+            "start": 5541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 5739,
+            "start": 5731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 5845,
+            "start": 5840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abholen",
+            "end": 5958,
+            "start": 5951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 6039,
+            "start": 6033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferzeiten",
+            "end": 6066,
+            "start": 6054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeliefert",
+            "end": 6145,
+            "start": 6133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 6179,
+            "start": 6174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 6397,
+            "start": 6394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 6468,
+            "start": 6460,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6590,
+            "start": 6589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 6658,
+            "start": 6654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angibt",
+            "end": 6794,
+            "start": 6788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regellieferzeit",
+            "end": 6958,
+            "start": 6943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lagerhaltungsverknüpfung",
+            "end": 7044,
+            "start": 7020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7255,
+            "start": 7249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 7434,
+            "start": 7426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 7598,
+            "start": 7593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umgehend",
+            "end": 7769,
+            "start": 7761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entschuldigen",
+            "end": 7855,
+            "start": 7842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 8022,
+            "start": 8020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 8133,
+            "start": 8130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 8190,
+            "start": 8180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 8274,
+            "start": 8259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 8296,
+            "start": 8278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8388,
+            "start": 8385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8753,
+            "start": 8750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragbar",
+            "end": 8818,
+            "start": 8807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellergarantie",
+            "end": 8857,
+            "start": 8839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 8954,
+            "start": 8933,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9106,
+            "start": 9105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 9190,
+            "start": 9181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücktritt",
+            "end": 9204,
+            "start": 9195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 9563,
+            "start": 9553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufpreises",
+            "end": 9831,
+            "start": 9820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 10034,
+            "start": 10024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkung",
+            "end": 10059,
+            "start": 10039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 10154,
+            "start": 10142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 10174,
+            "start": 10156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 10305,
+            "start": 10287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsumfang",
+            "end": 10326,
+            "start": 10312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 10608,
+            "start": 10598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 10723,
+            "start": 10705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgenommen",
+            "end": 10840,
+            "start": 10829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 11213,
+            "start": 11203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 11360,
+            "start": 11355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einfluss",
+            "end": 11507,
+            "start": 11499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 11656,
+            "start": 11650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11976,
+            "start": 11972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweist",
+            "end": 12300,
+            "start": 12292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 12339,
+            "start": 12326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 12403,
+            "start": 12393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 12726,
+            "start": 12722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 12987,
+            "start": 12978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextes",
+            "end": 13035,
+            "start": 13021,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13201,
+            "start": 13200,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13228,
+            "start": 13227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 13325,
+            "start": 13321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 13496,
+            "start": 13485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hausmüll",
+            "end": 13539,
+            "start": 13531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bringen",
+            "end": 13635,
+            "start": 13628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schicken",
+            "end": 13759,
+            "start": 13751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13832,
+            "start": 13826,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13883,
+            "start": 13882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fallen",
+            "end": 14017,
+            "start": 14011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 14147,
+            "start": 14144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verboten",
+            "end": 14351,
+            "start": 14343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 14515,
+            "start": 14502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 14663,
+            "start": 14657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veröffentlicht",
+            "end": 14749,
+            "start": 14735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 14784,
+            "start": 14775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14923,
+            "start": 14917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heißt",
+            "end": 15082,
+            "start": 15077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 15374,
+            "start": 15368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 15445,
+            "start": 15442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annahmestellen",
+            "end": 15812,
+            "start": 15798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15964,
+            "start": 15960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 16102,
+            "start": 16095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgabezeitraum",
+            "end": 16230,
+            "start": 16214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 16359,
+            "start": 16352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 16379,
+            "start": 16376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 16468,
+            "start": 16458,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16687,
+            "start": 16686,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Allgemeines, Geltungsbereich der AGB, Liefergebiet\n1.1 Alle Lieferungen und Leistungen der Wagner eCommerce Group GmbH erfolgen ausschließlich auf der Grundlage der nachfolgenden Allgemeinen Geschäftsbedingungen in ihrer, zum Zeitpunkt der Bestellung, gültigen Fassung.\n1.2 Verbraucher im Sinne der Geschäftsbedingungen sind natürliche Personen, die Verträge mit der Wagner eCommerce Group GmbH zu einem Zweck abschließen, der weder ihrer gewerblichen noch ihrer beruflichen Tätigkeit zugerechnet werden kann.\n1.3 Unternehmer im Sinne der Geschäftsbedingungen sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die bei Vertragsschluss mit der Wagner eCommerce Group GmbH in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handeln.\n1.4 Kunde im Sinne dieser Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.\n1.5 Wir liefern in verschiedene Länder innerhalb Europas. Das jeweilige Liefergebiet und die anfallenden Versandkosten entnehmen Sie bitte dem konkreten Produkt auf der Produktseite. Sie finden es auf der jeweiligen Produktseite unter dem Link \"Versandkosten\". Dort sind die entstehenden Versandkosten in einer Tabelle nach dem Zielland dargestellt. Bei Lieferungen per Spedition auf deutsche Inseln fallen eventuell zusätzliche Gebühren an, die ebenfalls unter diesem Link ersichtlich sind.\nDer Vertragsschluss erfolgt ausschließlich in deutscher Sprache.\n2 Vertragsschluss, Anbieterinformation\n2.1 Die Angebote auf unserer Internetseite www.ElektroshopWagner.de stellen unverbindliche Aufforderungen an den Kunden dar, bei der Wagner eCommerce Group GmbH Waren zu bestellen.\n2.2 Die Bestellung (Internet, E-Mail, Telefon, Fax oder Postweg) des Kunden stellt ein verbindliches Vertragsangebot seinerseits dar.\n2.3 Der Zugang dieser Bestellung wird von der Wagner eCommerce Group GmbH unverzüglich durch eine automatische Bestellbestätigung bestätigt. Dadurch erhalten Sie Sicherheit, dass Ihre Bestellung bei uns eingegangen ist. Die Bestellbestätigung stellt noch keine Annahme Ihres Angebotes durch die Wagner eCommerce Group GmbH dar.\n2.4 Ihr Bestellangebot wird von der Wagner eCommerce Group GmbH manuell innerhalb von zwei Tagen entweder durch eine zweite E-Mail(Auftragsbestätigung), oder durch Auslieferung der Ware angenommen. Erst damit kommt ein Kaufvertrag zustande.\n2.5 Der Kaufvertrag kommt zustande mit der Anschrift\n2.6 Informationen zum Bestellvorgang\n3 Gesetzliche Widerrufsbelehrung für Verbraucher\nWiderrufsbelehrung\n4 Widerrufsformular\nMusterformular\n5 Kaufpreis, Versandkosten, Zahlungsarten, Zusatzkosten, Fälligkeit\n5.1 Alle auf der Internetseite www.ElektroshopWagner.de angegebenen Preise enthalten bereits die gesetzliche Umsatzsteuer (entweder nach deutschem oder österreichischen Umsatzsteuergesetz, je nach Lieferland). Alle angegebenen Preise sind zuzüglich Versandkosten entsprechend unserer Versandkostenübersicht. Die Versandkosten werden vor Vertragsschluss bereits beim jeweiligen Produkt dem Kunden, innerhalb der Bestellmaske, angezeigt. Es gelten die Preise zum Zeitpunkt der Bestellung.\n5.2 Der Kunde wählt die Art der Zahlung innerhalb der Bestellmaske aus. Soweit durch die gewählte Zahlungsart Zusatzkosten (Gebühren wie z.B. Nachnahmegebühr, PayPal Gebühr) anfallen, wird dies dem Kunden im Rahmen der Bestellmaske angezeigt. Als Zahlungsarten stehen die Vorauskasse per Überweisung oder Direkt-Überweisung mit \"Sofort\", Barzahlung bei Selbstabholung oder bei Nachnahmeversendung, Kreditkartenzahlung, Zahlung per PayPal, Zahlung per Paydirekt oder Bezahlen mit Amazon zur Verfügung.\n6 Alternative Streitbeilegung in Verbrauchersachen - OS Plattform\nHinweis zur Alternativen Streitbeilegung gemäß § 14 Abs.1 ODR-VO und § 36 VSBG:\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter https://ec.europa.eu/consumers/odr/ finden. Wir sind bereit, an einem außergerichtlichen Schichtungsverfahren teilzunehmen.\nVerbraucher haben die Möglichkeit Konflikte aus Verbraucherverträgen durch Anrufung einer außergerichtliche Schlichtungsstelle zu klären. Es handelt sich dabei um eine alternative Möglichkeit zur Konfliktlösung. Die Durchführung eines Schlichtungsverfahrens ist keine zwingende Voraussetzung für das Anrufen zuständiger ordentlicher Gerichte.\n7 Selbstabholung und Abholzeiten\n7.1 Sie können die Ware auf Wunsch auch in 63667 Nidda in der Ludwigstraße selbst abholen. Im Rahmen des Bestellvorganges wählen Sie die Option Selbstabholung aus. Bevor Sie Ihre Bestellung durch den Button \"Bestellung abschicken\" abschließen, wird Ihnen angezeigt, wann Sie die Ware voraussichtlich in Nidda abholen können. Sie können Ihre Ware bei Abholung bar oder mit EC-Karte bezahlen.\n7.2 Bei der Selbstabholung stehen die Waren zur Abholung bereit, sobald diese versandfertig sind. Das Datum der Versandfertigkeit wird Ihnen bei jedem Produkt bereits im Onlineshop angezeigt. Dieser aktuelle Lieferstatus gibt die voraussichtliche Lieferzeit in ca. Werktagen an und damit die Dauer bis zur Versandfertigkeit. Wir ermitteln diese Zeiten unter Berücksichtigung der uns mitgeteilten Lagerbestände zum Zeitpunkt der Produktanzeige sowie der durchschnittlichen Regellieferzeit. Es besteht nicht in allen Fällen eine automatische Echtzeit-Lagerhaltungsverknüpfung. Aufgrund von kurzfristigen und unerwarteten Änderungen der Lagerbestände bei Elektroshop Wagner sowie dessen Vorlieferanten (Hersteller, Lieferanten) können diese voraussichtlichen Lieferzeiten nicht immer garantiert werden. Wir teilen Ihnen diese voraussichtliche Lieferzeit ebenfalls in unserer ersten Bestätigungsmail mit, ohne dass uns hierüber von unserem Vorlieferanten eine Bestätigung im Einzelfall vorliegt.\nSie erhalten außerdem von uns eine zusätzliche E-Mail, wenn Ihre Ware in Nidda zur Abholung bereit steht. Dann können Sie die Ware während unserer Öffnungszeiten (Mo-Fr: 8 bis - 18 Uhr) in unserem Shop vor Ort abholen. Unser Team von Elektroshop Wagner freut sich, Sie persönlich begrüßen zu dürfen.\n8 Lieferung, Lieferzeiten\n8.1 Alle Waren werden entweder per Spedition oder per Paketdienst ausgeliefert. Die Zustellzeiten sind wie folgt: Die Anlieferung von Speditionen erfolgt an den Werktagen von Montag bis Freitag von ca. 08:00 Uhr bis ca. 16:00 Uhr. Die Zustellung von Paketdiensten erfolgt von Montag bis Samstag von ca. 08:00 Uhr bis ca. 17:00 Uhr. Eine Auslieferung/Zustellung an Feiertagen kann leider nicht erfolgen. Die Lieferung durch die Spedition erfolgt bis Bordsteinkante (sofern kein weiterer Vertrage-Service hinzu gebucht wurde). Weitere Informationen zu unseren Vertrage-Services finden Sie hier.\n8.2 In unserem Online-Shop finden Sie zu jedem Produktangebot einen aktuellen Lieferstatus, der die Lieferzeit in ca. Werktagen angibt. Wir ermitteln diese Zeiten unter Berücksichtigung der uns mitgeteilten Lagerbestände zum Zeitpunkt der Produktanzeige sowie der durchschnittlichen Regellieferzeit. Es besteht nicht in allen Fällen eine automatische Echtzeit-Lagerhaltungsverknüpfung. Aufgrund von kurzfristigen und unerwarteten Änderungen der Lagerbestände bei Elektroshop Wagner sowie dessen Vorlieferanten (Hersteller, Lieferanten) können diese ca. Lieferzeiten nicht immer garantiert werden. Wir teilen Ihnen diese ca. Lieferzeit ebenfalls in unserer ersten Bestätigungsmail mit, ohne dass uns hierüber von unserem Vorlieferanten eine Bestätigung im Einzelfall vorliegt. Bei Bestellungen mit der Zahlungsoption Vorkasse, bezieht sich die im Online-Shop angegebene ca. Lieferzeit auf den Zeitpunkt des Zahlungseingangs auf unser Konto. Sollten wir von unseren Vorlieferanten über etwaige Lieferverzögerungen, Lagerbestandsabweichungen oder Irrtümer in Kenntnis gesetzt werden, informieren wir Sie umgehend. Für hierdurch entstehende Unannehmlichkeiten möchten wir uns bei Ihnen entschuldigen. Sollten Sie unter diesen Umständen nicht auf die Ausführungen Ihrer Bestellung warten wollen, bieten wir Ihnen selbstverständlich die Stornierung Ihrer Bestellung an. Bei Nichtverfügbarkeit der Ware verweisen wir daneben auf unser im Einzelfall bestehendes Rücktrittsrecht hin. Auch in diesem Falle werden Sie unverzüglich informiert. Eventuell bereits geleistete Zahlungen werden dann umgehend an Sie zurückerstattet.\n9 Eigentumsvorbehalt\n9.1 Wir behalten uns das Eigentum an der Ware bis zur vollständigen Bezahlung derselben vor.\n9.2 Sind Sie Unternehmer und tätigen Ihre Bestellung in Ausübung Ihrer gewerblichen oder selbständigen beruflichen Tätigkeit, eine juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, behalten wir uns das Eigentum an der Kaufsache bis zum Ausgleich aller noch offenen Forderungen aus der Geschäftsverbindung mit dem Besteller vor; Die entsprechenden Sicherungsrechte sind auf Dritte übertragbar.\n10 Gewährleistung, Herstellergarantie\n10.1 Für die in unserem Shop angebotenen Artikel bestehen die gesetzlichen Gewährleistungsrechte.\n10.2 Bei einem Gewährleistungsfall wenden Sie sich bitte an unsere Kundenbetreuung (Tel. 06043 4031-100 oder per E-Mail an: info@elektroshopwagner.de).\n10.3 Eine vom Hersteller des Gerätes zugesagte Herstellergarantie bleibt unberührt.\n11 Rücktritt\nFalls die Wagner eCommerce Group GmbH ohne eigenes Verschulden zur Lieferung der bestellten Ware nicht in der Lage ist, weil der Lieferant, bei welchem eben diese Sache seitens der Wagner eCommerce Group GmbH bestellt wird, seine vertragliche Verpflichtungen nicht erfüllt, ist die Wagner eCommerce Group GmbH dem Besteller gegenüber zum Rücktritt berechtigt. In diesem Fall wird der Besteller unverzüglich darüber informiert, dass das bestellte Produkt nicht zur Verfügung steht und, sofern die Zahlungsweise Vorauskasse gewählt und der Kaufpreis bereits gezahlt wurde, erfolgt unverzüglich eine Erstattung dieses Kaufpreises. Bei einer, von der Wagner eCommerce Group GmbH schuldhaft herbeigeführten, Nichtbelieferung der bestellten Ware durch den Lieferanten, ist die Wagner eCommerce Group GmbH nicht zum Rücktritt berechtigt.\n12 Haftungsbeschränkung\n12.1 Die Wagner eCommerce Group GmbH haftet uneingeschränkt nach den gesetzlichen Bestimmungen: Sonderbestimmungen. Dies gilt für jede Art des Verschuldens der Wagner eCommerce Group GmbH, ihrer gesetzlichen Vertreter oder der Erfüllungsgehilfen.\n12.2 Haftungsumfang: Bei leicht fahrlässigen Pflichtverletzungen beschränkt sich unsere Haftung auf den vorhersehbaren, vertragstypischen, unmittelbaren Durchschnittsschadenes sei denn es handelt sich um Schadensersatzansprüche des Kunden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Dies gilt auch bei leicht fahrlässigen Pflichtverletzungen unserer gesetzlichen Vertreter oder Erfüllungsgehilfen.\nVon dieser Begrenzung des Haftungsumfanges sind die zwingenden Vorschriften des Produkthaftungsgesetzes ausgenommen.\n12.3 Bei direkten oder indirekten Verweisen auf fremde Webseiten (\"Hyperlinks\"), die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern. Der Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.\n13 Anzuwendendes Recht, Gerichtsstand\n13.1 Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\n13.2 Bei Kunden, die den Vertrag zu einem Zweck schließen, der nicht der beruflichen oder gewerblichen Tätigkeit zugerechnet werden kann (Verbraucher) gilt diese Rechtswahl nur insoweit, als dadurch nicht der durch zwingende Bestimmungen des Rechts des Staates, in dem er seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n13.3 Für alle Streitigkeiten aus dem Vertragsverhältnis ist, wenn der Besteller Kaufmann, eine juristische Person des öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen ist, das Gericht des Hauptsitzes der Wagner eCommerce Group GmbH zuständig.\n14 Datenschutz, Speicherung des Vertragstextes\nDie Datenverarbeitung erfolgt nach Maßgabe des geltenden Bundesdatenschutzgesetzes (BDSG), der Datenschutz-Grundverordnung (DSGVO) sowie des Telemediengesetzes (TMG).\n15 Batteriegesetz (BattG)\nIm Lieferumfang vieler Geräte befinden sich Batterien oder Akkus, die zum Betrieb notwendig sind. Im Zusammenhang mit dem Verkauf dieser Batterien oder Akkus sind wir als Vertreiber gemäß dem Batteriegesetz (BattG) verpflichtet unsere Kunden auf folgendes hinzuweisen: Altbatterien dürfen nicht in den Hausmüll. Verbraucher sind gesetzlich verpflichtet Batterien zu einer geeigneten Sammelstelle zu bringen. Sie können ihre gebrauchten Batterien auch an unser Versandlager (Elektroshop Wagner, Ludwigstr. 43, 63667 Nidda) schicken. Altbatterien enthalten wertvolle Rohstoffe, die wieder verwertet werden.\n16 Elektro- und Elektronikgerätegesetz (ElektroG)\nIm Warensortiment der Wagner eCommerce Group GmbH befinden sich auch Elektrogeräte (z.B. Küchengeräte), die unter das ElektroG fallen. Das Symbol für die getrennte Sammlung von Elektro- und Elektronikgeräten stellt eine durchgestrichene Abfalltonne auf Rädern dar. Die Entsorgung dieser Elektrogeräte im Hausmüll ist nach dem ElektroG (Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten), verboten!\nDie Wagner eCommerce Group GmbH hat Interseroh damit beauftragt, die bundesweite Rücknahme von Elektro- und Elektronikaltgeräten gemäß § 17 ElektroG durchzuführen. Interseroh betreibt zu diesem Zweck ein flächendeckendes Netzwerk an Rücknahmestellen, an denen Sie ausgediente Altgeräte kostenlos abgeben können. Die Rücknahmestellen sind unter www.interseroh.de/weee-annahmestellen veröffentlicht.\nBitte beachten Sie dazu Folgendes: Kleingeräte (= keine äußere Geräteabmessung größer als 25 cm) dürfen in haushaltsüblichen Mengen an den Rücknahmestellen abgegeben werden. Großgeräte (= mindestens eine äußere Geräteabmessung größer als 25 cm) dürfen im Tausch, \"Alt gegen Neu\" an den Rücknahmestellen abgegeben werden - das heißt: Kaufen Sie ein Neugerät bei der Wagner eCommerce Group GmbH, dürfen Sie ein Altgerät, das im Wesentlichen die gleichen Funktionen wie das Neugerät erfüllt, an einer der Rücknahmestellen abgeben, sofern Sie den Kauf des Neugerätes gegenüber der Rücknahmestelle entsprechend nachweisen können. Um diesen Nachweis erbringen zu können, gehen Sie bitte wie folgt vor: Übermitteln Sie Ihren Rückgabewunsch unter Angabe der Geräteart für das abzugebende Altgerät (Kühlgerät, Waschmaschine, Elektroherd, Fernseher, etc.) bitte zusammen mit einer Kopie der Rechnung für das erworbene Neugerät per E-Mail an Interseroh, unter weeeannahmestellen@interseroh.com oder nutzen Sie dafür das Formular unter www.interseroh.de/weee-annahmestellen. Interseroh prüft anhand der von Ihnen übermittelten Daten, ob Sie zur Abgabe eines Altgerätes an einer der Interseroh-Rücknahmestellen berechtigt sind. Ist dies der Fall, stellt Interseroh Ihnen ebenfalls per E-Mail einen Beleg zur Verfügung, der mindestens folgende Informationen enthält: Kaufdatum + Geräteart des Neugerätes, Interseroh-Vertragsnummer des Auftraggebers, Interseroh-Logo, möglicher Rückgabezeitraum\nMit dem ausgestellten Beleg können Sie nun Ihr Altgerät an einer der Interseroh-Rücknahmestellen in Ihrer Nähe kostenlos abgeben. Bitte beachten Sie: Bei fehlendem Beleg ist die Rücknahmestelle nicht verpflichtet, das Altgerät anzunehmen! Die Rücknahmestelle kann auch die Annahme von Altgeräten ablehnen, die aufgrund einer Verunreinigung eine Gefahr für die Gesundheit und Sicherheit von Menschen darstellen (vgl. § 17 Abs. 4 i.V.m. § 13 Abs. 5 ElektroG).\n\n"
+}

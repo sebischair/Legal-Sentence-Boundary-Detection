@@ -1,0 +1,2363 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Abschnitt",
+            "end": 16,
+            "start": 7,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 66,
+            "start": 60,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialgesetzbuchs",
+            "end": 101,
+            "start": 84,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestalten",
+            "end": 285,
+            "start": 276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugleichen",
+            "end": 694,
+            "start": 681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 913,
+            "start": 907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 933,
+            "start": 927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 1022,
+            "start": 1016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 1231,
+            "start": 1227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 1375,
+            "start": 1367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1468,
+            "start": 1462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsförderung",
+            "end": 1504,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 1738,
+            "start": 1732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitgebers",
+            "end": 2105,
+            "start": 2093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialversicherung",
+            "end": 2129,
+            "start": 2111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialversicherung",
+            "end": 2216,
+            "start": 2198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Alter",
+            "end": 2654,
+            "start": 2649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherten",
+            "end": 2745,
+            "start": 2733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheitsschäden",
+            "end": 2795,
+            "start": 2777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgung",
+            "end": 3203,
+            "start": 3193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschädigten",
+            "end": 3307,
+            "start": 3295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Familienaufwands",
+            "end": 3343,
+            "start": 3327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Belastungen",
+            "end": 3476,
+            "start": 3465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohnung",
+            "end": 3518,
+            "start": 3511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufwendungen",
+            "end": 3690,
+            "start": 3678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jugendhilfe",
+            "end": 3719,
+            "start": 3708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 3871,
+            "start": 3865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzen",
+            "end": 3982,
+            "start": 3974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialhilfe",
+            "end": 3999,
+            "start": 3988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sichert",
+            "end": 4433,
+            "start": 4426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitwirken",
+            "end": 4499,
+            "start": 4490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Menschen",
+            "end": 4535,
+            "start": 4527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mildern",
+            "end": 4921,
+            "start": 4914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mindern",
+            "end": 5170,
+            "start": 5163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sichern",
+            "end": 5267,
+            "start": 5260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sowie",
+            "end": 5454,
+            "start": 5449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenzuwirken",
+            "end": 5519,
+            "start": 5503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 5538,
+            "start": 5529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einweisungsvorschriften",
+            "end": 5562,
+            "start": 5539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 5575,
+            "start": 5570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsträger",
+            "end": 5629,
+            "start": 5614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsarten",
+            "end": 5649,
+            "start": 5635,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5776,
+            "start": 5775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistungen",
+            "end": 5848,
+            "start": 5832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsträger",
+            "end": 5870,
+            "start": 5855,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6001,
+            "start": 6000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzbuchs",
+            "end": 6094,
+            "start": 6083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 6114,
+            "start": 6113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufklärung",
+            "end": 6130,
+            "start": 6120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuklären",
+            "end": 6381,
+            "start": 6370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beratung",
+            "end": 6396,
+            "start": 6388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzbuch",
+            "end": 6483,
+            "start": 6473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6618,
+            "start": 6614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auskunft",
+            "end": 6633,
+            "start": 6625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 6862,
+            "start": 6854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7132,
+            "start": 7129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicherzustellen",
+            "end": 7340,
+            "start": 7325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 7533,
+            "start": 7525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellung",
+            "end": 7554,
+            "start": 7540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 7636,
+            "start": 7629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengenommen",
+            "end": 7853,
+            "start": 7837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzuleiten",
+            "end": 8135,
+            "start": 8121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8301,
+            "start": 8298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8465,
+            "start": 8459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialleistungen",
+            "end": 8503,
+            "start": 8487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhält",
+            "end": 8678,
+            "start": 8672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 8822,
+            "start": 8816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "und",
+            "end": 8972,
+            "start": 8969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9139,
+            "start": 9133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommunizieren",
+            "end": 9466,
+            "start": 9453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 9621,
+            "start": 9615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 9712,
+            "start": 9700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 9732,
+            "start": 9731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 9875,
+            "start": 9863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzen",
+            "end": 10132,
+            "start": 10124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "achten",
+            "end": 10228,
+            "start": 10222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 10337,
+            "start": 10328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzbuchs",
+            "end": 10432,
+            "start": 10421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 10511,
+            "start": 10502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 10526,
+            "start": 10521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsträger",
+            "end": 10583,
+            "start": 10568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausbildungsförderung",
+            "end": 10624,
+            "start": 10604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10769,
+            "start": 10763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesausbildungsförderungsgesetzes",
+            "end": 10923,
+            "start": 10888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsförderung",
+            "end": 10961,
+            "start": 10945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11036,
+            "start": 11030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzgeld",
+            "end": 11503,
+            "start": 11490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeit",
+            "end": 11609,
+            "start": 11603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsuchende",
+            "end": 11665,
+            "start": 11651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebensunterhalts",
+            "end": 11851,
+            "start": 11835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12058,
+            "start": 12054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 12170,
+            "start": 12161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ruhestand",
+            "end": 12250,
+            "start": 12241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12383,
+            "start": 12377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersteilzeitarbeit",
+            "end": 12736,
+            "start": 12716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeit",
+            "end": 12842,
+            "start": 12836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 12848,
+            "start": 12846,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12862,
+            "start": 12861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Krankenversicherung",
+            "end": 12915,
+            "start": 12896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13006,
+            "start": 13000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwangerschaftsabbruch",
+            "end": 13776,
+            "start": 13753,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13794,
+            "start": 13793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzkassen",
+            "end": 14038,
+            "start": 14026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegeversicherung",
+            "end": 14088,
+            "start": 14070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14174,
+            "start": 14168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflege",
+            "end": 14549,
+            "start": 14543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegekassen",
+            "end": 14620,
+            "start": 14608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwangerschaftsabbrüchen",
+            "end": 14668,
+            "start": 14643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14928,
+            "start": 14922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 14948,
+            "start": 14947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzkassen",
+            "end": 15192,
+            "start": 15180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unfallversicherung",
+            "end": 15245,
+            "start": 15227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15335,
+            "start": 15329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landwirte",
+            "end": 15979,
+            "start": 15970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bahn",
+            "end": 16372,
+            "start": 16368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landwirte",
+            "end": 16474,
+            "start": 16465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16613,
+            "start": 16607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landwirtschaft",
+            "end": 17625,
+            "start": 17611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Alterskasse",
+            "end": 18062,
+            "start": 18051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheitsschäden",
+            "end": 18113,
+            "start": 18095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18217,
+            "start": 18211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohnraumbeschaffung",
+            "end": 18644,
+            "start": 18625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsstellen",
+            "end": 18755,
+            "start": 18737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 18876,
+            "start": 18867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mit",
+            "end": 18989,
+            "start": 18986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 19108,
+            "start": 19099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betreuungsgeld",
+            "end": 19209,
+            "start": 19195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 19399,
+            "start": 19394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19531,
+            "start": 19525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19659,
+            "start": 19653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 19890,
+            "start": 19881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohngeld",
+            "end": 19905,
+            "start": 19897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20065,
+            "start": 20059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behörden",
+            "end": 20127,
+            "start": 20119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jugendhilfe",
+            "end": 20172,
+            "start": 20161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20254,
+            "start": 20248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Volljährige",
+            "end": 20612,
+            "start": 20601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 20782,
+            "start": 20774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 20803,
+            "start": 20802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialhilfe",
+            "end": 20835,
+            "start": 20824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20905,
+            "start": 20899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterstützung",
+            "end": 21209,
+            "start": 21196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 21420,
+            "start": 21412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eingliederungshilfe",
+            "end": 21462,
+            "start": 21443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21540,
+            "start": 21534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behörden",
+            "end": 21774,
+            "start": 21766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Menschen",
+            "end": 21844,
+            "start": 21836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsleben",
+            "end": 23891,
+            "start": 23879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Integrationsämter",
+            "end": 23998,
+            "start": 23981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 24017,
+            "start": 24008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzbuchs",
+            "end": 24093,
+            "start": 24082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 24106,
+            "start": 24101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundsätze",
+            "end": 24128,
+            "start": 24118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geltungsbereich",
+            "end": 24149,
+            "start": 24134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 24295,
+            "start": 24290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 24370,
+            "start": 24361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 24529,
+            "start": 24525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweilt",
+            "end": 24708,
+            "start": 24700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzes",
+            "end": 24737,
+            "start": 24729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuläßt",
+            "end": 24923,
+            "start": 24917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vereinbarungen",
+            "end": 24964,
+            "start": 24950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nichtig",
+            "end": 25106,
+            "start": 25099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichten",
+            "end": 25152,
+            "start": 25143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehen",
+            "end": 25502,
+            "start": 25488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 25611,
+            "start": 25607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichten",
+            "end": 25655,
+            "start": 25646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 26079,
+            "start": 26073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 26249,
+            "start": 26245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 26391,
+            "start": 26385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 26595,
+            "start": 26583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebenspartnerschaften",
+            "end": 26624,
+            "start": 26603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebenspartnerschaftsgesetz",
+            "end": 26738,
+            "start": 26712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Benachteiligungsverbot",
+            "end": 26768,
+            "start": 26746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26918,
+            "start": 26912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 27117,
+            "start": 27113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichten",
+            "end": 27160,
+            "start": 27151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 27497,
+            "start": 27487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeteilt",
+            "end": 27605,
+            "start": 27595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialgeheimnis",
+            "end": 27627,
+            "start": 27612,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27802,
+            "start": 27801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28007,
+            "start": 28001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28214,
+            "start": 28208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrnehmen",
+            "end": 29038,
+            "start": 29028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahren",
+            "end": 29156,
+            "start": 29150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 29694,
+            "start": 29690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29984,
+            "start": 29981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 30174,
+            "start": 30165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialdaten",
+            "end": 30443,
+            "start": 30432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 30509,
+            "start": 30503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 30618,
+            "start": 30612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 30773,
+            "start": 30767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 31178,
+            "start": 31174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 31269,
+            "start": 31258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Buches",
+            "end": 31438,
+            "start": 31432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittstaaten",
+            "end": 31714,
+            "start": 31702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 31665,
+            "start": 31659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Handlungsfähigkeit",
+            "end": 31739,
+            "start": 31721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegennehmen",
+            "end": 31882,
+            "start": 31868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterrichten",
+            "end": 32008,
+            "start": 31996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 32169,
+            "start": 32163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertreters",
+            "end": 32319,
+            "start": 32309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kommunikation",
+            "end": 32354,
+            "start": 32341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eröffnet",
+            "end": 32465,
+            "start": 32457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 32636,
+            "start": 32630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 32763,
+            "start": 32760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 32932,
+            "start": 32924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 33161,
+            "start": 33157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzes",
+            "end": 33313,
+            "start": 33305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 33617,
+            "start": 33612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 33638,
+            "start": 33637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 33942,
+            "start": 33929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 34008,
+            "start": 34006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 34229,
+            "start": 34221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 34438,
+            "start": 34432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewirkt",
+            "end": 34629,
+            "start": 34622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterschriftsfeld",
+            "end": 34752,
+            "start": 34735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schriftstück",
+            "end": 35172,
+            "start": 35160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicherstellen",
+            "end": 35607,
+            "start": 35594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 35715,
+            "start": 35706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Organisationen",
+            "end": 35862,
+            "start": 35848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 35902,
+            "start": 35892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 36051,
+            "start": 36045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 36074,
+            "start": 36065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 36134,
+            "start": 36132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstreckt",
+            "end": 36276,
+            "start": 36267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 36291,
+            "start": 36286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsrechts",
+            "end": 36322,
+            "start": 36307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsanspruch",
+            "end": 36342,
+            "start": 36328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 36551,
+            "start": 36544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermessensleistungen",
+            "end": 36577,
+            "start": 36558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuhalten",
+            "end": 36821,
+            "start": 36810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 36884,
+            "start": 36876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 37083,
+            "start": 37077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 37113,
+            "start": 37104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 37248,
+            "start": 37239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 37441,
+            "start": 37438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fälligkeit",
+            "end": 37458,
+            "start": 37448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 37596,
+            "start": 37590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 37617,
+            "start": 37616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschüsse",
+            "end": 37633,
+            "start": 37623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 37880,
+            "start": 37872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 37956,
+            "start": 37947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antrags",
+            "end": 38054,
+            "start": 38047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzurechnen",
+            "end": 38119,
+            "start": 38108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 38236,
+            "start": 38224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 38363,
+            "start": 38351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungen",
+            "end": 38391,
+            "start": 38381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 38667,
+            "start": 38659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 38746,
+            "start": 38737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antrags",
+            "end": 38852,
+            "start": 38845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 38926,
+            "start": 38914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 39032,
+            "start": 39030,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 39051,
+            "start": 39050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzinsung",
+            "end": 39067,
+            "start": 39057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinsen",
+            "end": 39257,
+            "start": 39248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistung",
+            "end": 39531,
+            "start": 39523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährung",
+            "end": 39653,
+            "start": 39643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 39636,
+            "start": 39631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 39771,
+            "start": 39767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinngemäß",
+            "end": 39920,
+            "start": 39911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehemmt",
+            "end": 40047,
+            "start": 40040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerspruch",
+            "end": 40150,
+            "start": 40139,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40169,
+            "start": 40168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzicht",
+            "end": 40183,
+            "start": 40175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 40304,
+            "start": 40298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 40379,
+            "start": 40373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 40515,
+            "start": 40509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geldleistungen",
+            "end": 40551,
+            "start": 40537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 40571,
+            "start": 40570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 41191,
+            "start": 41185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geldinstitut",
+            "end": 41377,
+            "start": 41365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterhaltspflicht",
+            "end": 41431,
+            "start": 41414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommt",
+            "end": 41727,
+            "start": 41718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 42019,
+            "start": 42013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kindergeld",
+            "end": 42286,
+            "start": 42276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 42420,
+            "start": 42413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterhält",
+            "end": 42686,
+            "start": 42677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterbringung",
+            "end": 42721,
+            "start": 42708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragen",
+            "end": 43130,
+            "start": 43120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 43298,
+            "start": 43292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 43339,
+            "start": 43330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterbringung",
+            "end": 43375,
+            "start": 43362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überleiten",
+            "end": 43695,
+            "start": 43685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfällt",
+            "end": 44005,
+            "start": 43997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 44194,
+            "start": 44187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufrechnung",
+            "end": 44212,
+            "start": 44201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 44414,
+            "start": 44410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 44879,
+            "start": 44875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 44900,
+            "start": 44899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verrechnung",
+            "end": 44917,
+            "start": 44906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 45158,
+            "start": 45155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verpfändung",
+            "end": 45192,
+            "start": 45181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 45284,
+            "start": 45278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 45604,
+            "start": 45600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 45747,
+            "start": 45742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigen",
+            "end": 45992,
+            "start": 45981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 46190,
+            "start": 46187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 46433,
+            "start": 46428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 46693,
+            "start": 46681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 46781,
+            "start": 46775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pfändung",
+            "end": 46796,
+            "start": 46788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 46871,
+            "start": 46865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 47204,
+            "start": 47194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 48151,
+            "start": 48145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 48447,
+            "start": 48443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 48468,
+            "start": 48467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfällt",
+            "end": 48721,
+            "start": 48713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 49043,
+            "start": 49035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 49375,
+            "start": 49369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 49447,
+            "start": 49435,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 49467,
+            "start": 49466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderrechtsnachfolge",
+            "end": 49494,
+            "start": 49473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 49914,
+            "start": 49912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 49839,
+            "start": 49835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 50318,
+            "start": 50314,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 50539,
+            "start": 50538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 50935,
+            "start": 50932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderrechtsnachfolgers",
+            "end": 50990,
+            "start": 50967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichten",
+            "end": 51172,
+            "start": 51162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergegangen",
+            "end": 51263,
+            "start": 51251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 51346,
+            "start": 51341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsträger",
+            "end": 51566,
+            "start": 51551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erben",
+            "end": 51608,
+            "start": 51603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 51725,
+            "start": 51717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 51746,
+            "start": 51745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vererbung",
+            "end": 51761,
+            "start": 51752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 52016,
+            "start": 52010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vererbt",
+            "end": 51942,
+            "start": 51935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsnachfolge",
+            "end": 52052,
+            "start": 52037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berechtigten",
+            "end": 52132,
+            "start": 52120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 52302,
+            "start": 52299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52317,
+            "start": 52312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsberechtigten",
+            "end": 52354,
+            "start": 52333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatsachen",
+            "end": 52380,
+            "start": 52371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzustimmen",
+            "end": 52618,
+            "start": 52607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 52799,
+            "start": 52788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzustimmen",
+            "end": 52939,
+            "start": 52928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 53013,
+            "start": 53010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 53137,
+            "start": 53131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fußnote",
+            "end": 53146,
+            "start": 53139,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 53200,
+            "start": 53199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erscheinen",
+            "end": 53229,
+            "start": 53219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 53472,
+            "start": 53462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Untersuchungen",
+            "end": 53493,
+            "start": 53479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 53731,
+            "start": 53727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fußnote",
+            "end": 53740,
+            "start": 53733,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 53794,
+            "start": 53793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Heilbehandlung",
+            "end": 53814,
+            "start": 53800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 54110,
+            "start": 54106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsleben",
+            "end": 54156,
+            "start": 54144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 54625,
+            "start": 54619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitwirkung",
+            "end": 54654,
+            "start": 54644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 54864,
+            "start": 54860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 54958,
+            "start": 54954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 55119,
+            "start": 55115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 55285,
+            "start": 55281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 55340,
+            "start": 55336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 55443,
+            "start": 55437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 55712,
+            "start": 55706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fußnote",
+            "end": 55721,
+            "start": 55714,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 55854,
+            "start": 55853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufwendungsersatz",
+            "end": 55878,
+            "start": 55861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 56081,
+            "start": 56073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 56199,
+            "start": 56193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkennt",
+            "end": 56348,
+            "start": 56339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitwirkung",
+            "end": 56382,
+            "start": 56372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 56794,
+            "start": 56790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschwert",
+            "end": 56949,
+            "start": 56940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entziehen",
+            "end": 57586,
+            "start": 57577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 57862,
+            "start": 57859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fußnote",
+            "end": 57871,
+            "start": 57864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 57891,
+            "start": 57890,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 57945,
+            "start": 57944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitwirkung",
+            "end": 57976,
+            "start": 57966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 58182,
+            "start": 58173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fußnote",
+            "end": 58191,
+            "start": 58184,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 58245,
+            "start": 58244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 58263,
+            "start": 58254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussvorschriften",
+            "end": 58298,
+            "start": 58279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzbuches",
+            "end": 58339,
+            "start": 58327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teile",
+            "end": 58504,
+            "start": 58499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwangerschaftskonfliktgesetzes",
+            "end": 59719,
+            "start": 59687,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 59739,
+            "start": 59738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 59765,
+            "start": 59758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 59785,
+            "start": 59784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen",
+            "end": 59977,
+            "start": 59967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährungsrecht",
+            "end": 60027,
+            "start": 60011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 60216,
+            "start": 60209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pfändung",
+            "end": 60287,
+            "start": 60279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 60438,
+            "start": 60432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 60459,
+            "start": 60458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teilhabe",
+            "end": 21712,
+            "start": 21704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugleichen",
+            "end": 48052,
+            "start": 48039,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Erster Abschnitt\nAufgaben des Sozialgesetzbuchs und soziale Rechte\n§ 1 Aufgaben des Sozialgesetzbuchs\n(1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit\nSozialleistungen einschließlich sozialer und erzieherischer Hilfen gestalten. Es soll dazu beitragen,\nein menschenwürdiges Dasein zu sichern,\ngleiche Voraussetzungen für die freie Entfaltung der Persönlichkeit, insbesondere auch für junge Menschen, zu\nschaffen,\ndie Familie zu schützen und zu fördern,\nden Erwerb des Lebensunterhalts durch eine frei gewählte Tätigkeit zu ermöglichen und\nbesondere Belastungen des Lebens, auch durch Hilfe zur Selbsthilfe, abzuwenden oder auszugleichen.\n(2) Das Recht des Sozialgesetzbuchs soll auch dazu beitragen, daß die zur Erfüllung der in Absatz 1 genannten\nAufgaben erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur Verfügung stehen.\n§ 2 Soziale Rechte\n(1) Der Erfüllung der in § 1 genannten Aufgaben dienen die nachfolgenden sozialen Rechte. Aus ihnen können\nAnsprüche nur insoweit geltend gemacht oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch\ndie Vorschriften der besonderen Teile dieses Gesetzbuchs im einzelnen bestimmt sind.\n(2) Die nachfolgenden sozialen Rechte sind bei der Auslegung der Vorschriften dieses Gesetzbuchs und bei der\nAusübung von Ermessen zu beachten; dabei ist sicherzustellen, daß die sozialen Rechte möglichst weitgehend\nverwirklicht werden.\n§ 3 Bildungs- und Arbeitsförderung\n(1) Wer an einer Ausbildung teilnimmt, die seiner Neigung, Eignung und Leistung entspricht, hat ein Recht\nauf individuelle Förderung seiner Ausbildung, wenn ihm die hierfür erforderlichen Mittel nicht anderweitig zur\nVerfügung stehen.\n(2) Wer am Arbeitsleben teilnimmt oder teilnehmen will, hat ein Recht auf\n1.\n Beratung bei der Wahl des Bildungswegs und des Berufs,\n2.\n individuelle Förderung seiner beruflichen Weiterbildung,\n3.\n Hilfe zur Erlangung und Erhaltung eines angemessenen Arbeitsplatzes und\n4.\n wirtschaftliche Sicherung bei Arbeitslosigkeit und bei Zahlungsunfähigkeit des Arbeitgebers.\n§ 4 Sozialversicherung\n(1) Jeder hat im Rahmen dieses Gesetzbuchs ein Recht auf Zugang zur Sozialversicherung.\n(2) Wer in der Sozialversicherung versichert ist, hat im Rahmen der gesetzlichen Kranken-, Pflege-, Unfall- und\nRentenversicherung einschließlich der Alterssicherung der Landwirte ein Recht auf\n1.\n die notwendigen Maßnahmen zum Schutz, zur Erhaltung, zur Besserung und zur Wiederherstellung der\nGesundheit und der Leistungsfähigkeit und\n2.\n wirtschaftliche Sicherung bei Krankheit, Mutterschaft, Minderung der Erwerbsfähigkeit und Alter.\nEin Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen eines Versicherten.\n§ 5 Soziale Entschädigung bei Gesundheitsschäden\nWer einen Gesundheitsschaden erleidet, für dessen Folgen die staatliche Gemeinschaft in Abgeltung eines\nbesonderen Opfers oder aus anderen Gründen nach versorgungsrechtlichen Grundsätzen einsteht, hat ein Recht\nauf\n- Seite 4 von 23 -\n1.\n die notwendigen Maßnahmen zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und\nder Leistungsfähigkeit und\n2.\n angemessene wirtschaftliche Versorgung.\nEin Recht auf angemessene wirtschaftliche Versorgung haben auch die Hinterbliebenen eines Beschädigten.\n§ 6 Minderung des Familienaufwands\nWer Kindern Unterhalt zu leisten hat oder leistet, hat ein Recht auf Minderung der dadurch entstehenden\nwirtschaftlichen Belastungen.\n§ 7 Zuschuß für eine angemessene Wohnung\nWer für eine angemessene Wohnung Aufwendungen erbringen muß, die ihm nicht zugemutet werden können,\nhat ein Recht auf Zuschuß zur Miete oder zu vergleichbaren Aufwendungen.\n§ 8 Kinder- und Jugendhilfe\nJunge Menschen und Personensorgeberechtigte haben im Rahmen dieses Gesetzbuchs ein Recht, Leistungen\nder öffentlichen Jugendhilfe in Anspruch zu nehmen. Sie sollen die Entwicklung junger Menschen fördern und die\nErziehung in der Familie unterstützen und ergänzen.\n§ 9 Sozialhilfe\nWer nicht in der Lage ist, aus eigenen Kräften seinen Lebensunterhalt zu bestreiten oder in besonderen\nLebenslagen sich selbst zu helfen, und auch von anderer Seite keine ausreichende Hilfe erhält, hat ein Recht auf\npersönliche und wirtschaftliche Hilfe, die seinem besonderen Bedarf entspricht, ihn zur Selbsthilfe befähigt, die\nTeilnahme am Leben in der Gemeinschaft ermöglicht und die Führung eines menschenwürdigen Lebens sichert.\nHierbei müssen Leistungsberechtigte nach ihren Kräften mitwirken.\n§ 10 Teilhabe behinderter Menschen\nMenschen, die körperlich, geistig oder seelisch behindert sind oder denen eine solche Behinderung droht, haben\nunabhängig von der Ursache der Behinderung zur Förderung ihrer Selbstbestimmung und gleichberechtigten\nTeilhabe ein Recht auf Hilfe, die notwendig ist, um\n1.\n die Behinderung abzuwenden, zu beseitigen, zu mindern, ihre Verschlimmerung zu verhüten oder ihre\nFolgen zu mildern,\n2.\n Einschränkungen der Erwerbsfähigkeit oder Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern\noder eine Verschlimmerung zu verhüten sowie den vorzeitigen Bezug von Sozialleistungen zu vermeiden\noder laufende Sozialleistungen zu mindern,\n3.\n ihnen einen ihren Neigungen und Fähigkeiten entsprechenden Platz im Arbeitsleben zu sichern,\n4.\n ihre Entwicklung zu fördern und ihre Teilhabe am Leben in der Gesellschaft und eine möglichst selbständige\nund selbstbestimmte Lebensführung zu ermöglichen oder zu erleichtern sowie\n5.\n Benachteiligungen auf Grund der Behinderung entgegenzuwirken.\nZweiter Abschnitt\nEinweisungsvorschriften\nErster Titel\nAllgemeines über Sozialleistungen und Leistungsträger\n§ 11 Leistungsarten\nGegenstand der sozialen Rechte sind die in diesem Gesetzbuch vorgesehenen Dienst-, Sach- und Geldleistungen\n(Sozialleistungen). Die persönliche und erzieherische Hilfe gehört zu den Dienstleistungen.\n§ 12 Leistungsträger\nZuständig für die Sozialleistungen sind die in den §§ 18 bis 29 genannten Körperschaften, Anstalten und\nBehörden (Leistungsträger). Die Abgrenzung ihrer Zuständigkeit ergibt sich aus den besonderen Teilen dieses\nGesetzbuchs.\n- Seite 5 von 23 -\n§ 13 Aufklärung\nDie Leistungsträger, ihre Verbände und die sonstigen in diesem Gesetzbuch genannten öffentlich-rechtlichen\nVereinigungen sind verpflichtet, im Rahmen ihrer Zuständigkeit die Bevölkerung über die Rechte und Pflichten\nnach diesem Gesetzbuch aufzuklären.\n§ 14 Beratung\nJeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach diesem Gesetzbuch. Zuständig für die\nBeratung sind die Leistungsträger, denen gegenüber die Rechte geltend zu machen oder die Pflichten zu erfüllen\nsind.\n§ 15 Auskunft\n(1) Die nach Landesrecht zuständigen Stellen, die Träger der gesetzlichen Krankenversicherung und der sozialen\nPflegeversicherung sind verpflichtet, über alle sozialen Angelegenheiten nach diesem Gesetzbuch Auskünfte zu\nerteilen.\n(2) Die Auskunftspflicht erstreckt sich auf die Benennung der für die Sozialleistungen zuständigen\nLeistungsträger sowie auf alle Sach- und Rechtsfragen, die für die Auskunftsuchenden von Bedeutung sein\nkönnen und zu deren Beantwortung die Auskunftsstelle imstande ist.\n(3) Die Auskunftsstellen sind verpflichtet, untereinander und mit den anderen Leistungsträgern mit dem Ziel\nzusammenzuarbeiten, eine möglichst umfassende Auskunftserteilung durch eine Stelle sicherzustellen.\n(4) Die Träger der gesetzlichen Rentenversicherung sollen über Möglichkeiten zum Aufbau einer staatlich\ngeförderten zusätzlichen Altersvorsorge produkt- und anbieterneutral Auskünfte erteilen.\n§ 16 Antragstellung\n(1) Anträge auf Sozialleistungen sind beim zuständigen Leistungsträger zu stellen. Sie werden auch von allen\nanderen Leistungsträgern, von allen Gemeinden und bei Personen, die sich im Ausland aufhalten, auch von den\namtlichen Vertretungen der Bundesrepublik Deutschland im Ausland entgegengenommen.\n(2) Anträge, die bei einem unzuständigen Leistungsträger, bei einer für die Sozialleistung nicht zuständigen\nGemeinde oder bei einer amtlichen Vertretung der Bundesrepublik Deutschland im Ausland gestellt werden,\nsind unverzüglich an den zuständigen Leistungsträger weiterzuleiten. Ist die Sozialleistung von einem Antrag\nabhängig, gilt der Antrag als zu dem Zeitpunkt gestellt, in dem er bei einer der in Satz 1 genannten Stellen\neingegangen ist.\n(3) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß unverzüglich klare und sachdienliche Anträge\ngestellt und unvollständige Angaben ergänzt werden.\n§ 17 Ausführung der Sozialleistungen\n(1) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß\n1.\n jeder Berechtigte die ihm zustehenden Sozialleistungen in zeitgemäßer Weise, umfassend und zügig erhält,\n2.\n die zur Ausführung von Sozialleistungen erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und\nausreichend zur Verfügung stehen,\n3.\n der Zugang zu den Sozialleistungen möglichst einfach gestaltet wird, insbesondere durch Verwendung\nallgemein verständlicher Antragsvordrucke und\n4.\n ihre Verwaltungs- und Dienstgebäude frei von Zugangs- und Kommunikationsbarrieren sind und\nSozialleistungen in barrierefreien Räumen und Anlagen ausgeführt werden.\n(2) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen haben das Recht, bei der\nAusführung von Sozialleistungen, insbesondere auch bei ärztlichen Untersuchungen und Behandlungen,\nin Deutscher Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere geeignete\nKommunikationshilfen zu kommunizieren. Die für die Sozialleistung zuständigen Leistungsträger sind\nverpflichtet, die durch die Verwendung der Kommunikationshilfen entstehenden Kosten zu tragen. § 5 der\nKommunikationshilfenverordnung in der jeweils geltenden Fassung gilt entsprechend.\n- Seite 6 von 23 -\n(2a) § 11 des Behindertengleichstellungsgesetzes gilt in seiner jeweils geltenden Fassung bei der Ausführung von\nSozialleistungen entsprechend.\n(3) In der Zusammenarbeit mit gemeinnützigen und freien Einrichtungen und Organisationen wirken die\nLeistungsträger darauf hin, daß sich ihre Tätigkeit und die der genannten Einrichtungen und Organisationen\nzum Wohl der Leistungsempfänger wirksam ergänzen. Sie haben dabei deren Selbständigkeit in Zielsetzung\nund Durchführung ihrer Aufgaben zu achten. Die Nachprüfung zweckentsprechender Verwendung bei der\nInanspruchnahme öffentlicher Mittel bleibt unberührt. Im übrigen ergibt sich ihr Verhältnis zueinander aus den\nbesonderen Teilen dieses Gesetzbuchs; § 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches findet keine\nAnwendung.\nZweiter Titel\nEinzelne Sozialleistungen und zuständige Leistungsträger\n§ 18 Leistungen der Ausbildungsförderung\n(1) Nach dem Recht der Ausbildungsförderung können Zuschüsse und Darlehen für den Lebensunterhalt und die\nAusbildung in Anspruch genommen werden.\n(2) Zuständig sind die Ämter und die Landesämter für Ausbildungsförderung nach Maßgabe der §§ 39, 40, 40a\nund 45 des Bundesausbildungsförderungsgesetzes.\n§ 19 Leistungen der Arbeitsförderung\n(1) Nach dem Recht der Arbeitsförderung können in Anspruch genommen werden:\n1.\n Berufsberatung und Arbeitsmarktberatung,\n2.\n Ausbildungsvermittlung und Arbeitsvermittlung,\n3.\n Leistungen\na)\n zur Aktivierung und beruflichen Eingliederung,\nb)\n zur Berufswahl und Berufsausbildung,\nc)\n zur beruflichen Weiterbildung,\nd)\n zur Aufnahme einer Erwerbstätigkeit,\ne)\n zum Verbleib in Beschäftigung,\nf)\n der Teilhabe behinderter Menschen am Arbeitsleben,\n4.\n Arbeitslosengeld, Teilarbeitslosengeld, Arbeitslosengeld bei Weiterbildung und Insolvenzgeld.\n(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit.\n§ 19a Leistungen der Grundsicherung für Arbeitsuchende\n(1) Nach dem Recht der Grundsicherung für Arbeitsuchende können in Anspruch genommen werden\n1.\n Leistungen zur Eingliederung in Arbeit,\n2.\n Leistungen zur Sicherung des Lebensunterhalts.\n(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit, sowie\ndie kreisfreien Städte und Kreise, soweit durch Landesrecht nicht andere Träger bestimmt sind. In den Fällen des\n§ 6a des Zweiten Buches ist abweichend von Satz 1 der zugelassene kommunale Träger zuständig.\n§ 19b Leistungen bei gleitendem Übergang älterer Arbeitnehmer in den Ruhestand\n(1) Nach dem Recht der Förderung eines gleitenden Übergangs älterer Arbeitnehmer in den Ruhestand können in\nAnspruch genommen werden:\n1.\n Erstattung der Beiträge zur Höherversicherung in der gesetzlichen Rentenversicherung und der nicht auf\ndas Arbeitsentgelt entfallenden Beiträge zur gesetzlichen Rentenversicherung für ältere Arbeitnehmer, die\nihre Arbeitszeit verkürzt haben.\n- Seite 7 von 23 -\n2.\n Erstattung der Aufstockungsbeträge zum Arbeitsentgelt für die Altersteilzeitarbeit.\n(2) Zuständig sind die Agenturen für Arbeit und die sonstigen Dienststellen der Bundesagentur für Arbeit.\n§ 20\n(weggefallen)\n§ 21 Leistungen der gesetzlichen Krankenversicherung\n(1) Nach dem Recht der gesetzlichen Krankenversicherung können in Anspruch genommen werden:\n1.\n Leistungen zur Förderung der Gesundheit, zur Verhütung und zur Früherkennung von Krankheiten,\n2.\n bei Krankheit Krankenbehandlung, insbesondere\na)\n ärztliche und zahnärztliche Behandlung,\nb)\n Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln,\nc)\n häusliche Krankenpflege und Haushaltshilfe,\nd)\n Krankenhausbehandlung,\ne)\n medizinische und ergänzende Leistungen zur Rehabilitation,\nf)\n Betriebshilfe für Landwirte,\ng)\n Krankengeld,\n3.\nbei Schwangerschaft und Mutterschaft ärztliche Betreuung, Hebammenhilfe, stationäre Entbindung,\nhäusliche Pflege, Haushaltshilfe, Betriebshilfe für Landwirte, Mutterschaftsgeld,\n4.\nHilfe zur Familienplanung und Leistungen bei durch Krankheit erforderlicher Sterilisation und bei nicht\nrechtswidrigem Schwangerschaftsabbruch.\n5.\n(weggefallen)\n(2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die Sozialversicherung für Landwirtschaft,\nForsten und Gartenbau als landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung Knappschaft-\nBahn-See und die Ersatzkassen.\n§ 21a Leistungen der sozialen Pflegeversicherung\n(1) Nach dem Recht der sozialen Pflegeversicherung können in Anspruch genommen werden:\n1.\n Leistungen bei häuslicher Pflege:\na)\n Pflegesachleistung,\nb)\n Pflegegeld für selbst beschaffte Pflegehilfen,\nc)\n häusliche Pflege bei Verhinderung der Pflegeperson,\nd)\n Pflegehilfsmittel und technische Hilfen,\n2.\nteilstationäre Pflege und Kurzzeitpflege,\n3.\nLeistungen für Pflegepersonen, insbesondere\na)\n soziale Sicherung und\nb)\n Pflegekurse,\n4.\nvollstationäre Pflege.\n(2) Zuständig sind die bei den Krankenkassen errichteten Pflegekassen.\n§ 21b Leistungen bei Schwangerschaftsabbrüchen\n(1) Nach dem Fünften Abschnitt des Schwangerschaftskonfliktgesetzes können bei einem nicht rechtswidrigen\noder unter den Voraussetzungen des § 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruch einer\nSchwangerschaft Leistungen in Anspruch genommen werden.\n- Seite 8 von 23 -\n(2) Zuständig sind die Orts-, Betriebs- und Innungskrankenkassen, die Sozialversicherung für Landwirtschaft,\nForsten und Gartenbau als landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung Knappschaft-\nBahn-See und die Ersatzkassen.\n§ 22 Leistungen der gesetzlichen Unfallversicherung\n(1) Nach dem Recht der gesetzlichen Unfallversicherung können in Anspruch genommen werden:\n1.\n Maßnahmen zur Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten\nGesundheitsgefahren und zur Ersten Hilfe sowie Maßnahmen zur Früherkennung von Berufskrankheiten und\narbeitsbedingten Gesundheitsgefahren,\n2.\n Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben und andere Leistungen zur Erhaltung, Besserung\nund Wiederherstellung der Erwerbsfähigkeit sowie zur Erleichterung der Verletzungsfolgen einschließlich\nwirtschaftlicher Hilfen,\n3.\n Renten wegen Minderung der Erwerbsfähigkeit,\n4.\n Renten an Hinterbliebene, Sterbegeld und Beihilfen,\n5.\n Rentenabfindungen,\n6.\n Haushaltshilfe,\n7.\n Betriebshilfe für Landwirte.\n(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung für Landwirtschaft, Forsten\nund Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverbände, die\nFeuerwehr-Unfallkassen, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den\nLandes- und kommunalen Bereich und die Unfallversicherung Bund und Bahn.\n§ 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der\nLandwirte\n(1) Nach dem Recht der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte\nkönnen in Anspruch genommen werden:\n1.\n in der gesetzlichen Rentenversicherung:\na)\n Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Teilhabe\nam Arbeitsleben, Leistungen zur Nachsorge sowie sonstige Leistungen zur Teilhabe einschließlich\nwirtschaftlicher Hilfen,\nb)\n Renten wegen Alters, Renten wegen verminderter Erwerbsfähigkeit und\nKnappschaftsausgleichsleistung,\nc)\n Renten wegen Todes,\nd)\n Witwen- und Witwerrentenabfindungen sowie Beitragserstattungen,\ne)\n Zuschüsse zu den Aufwendungen für die Krankenversicherung,\nf)\n Leistungen für Kindererziehung,\n2.\nin der Alterssicherung der Landwirte:\na)\n Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Nachsorge\nsowie ergänzende und sonstige Leistungen zur Teilhabe einschließlich Betriebs- oder Haushaltshilfe,\nb)\n Renten wegen Erwerbsminderung und Alters,\nc)\n Renten wegen Todes,\nd)\n Beitragszuschüsse,\ne)\n Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der\nLandwirtschaft.\n(2) Zuständig sind\n- Seite 9 von 23 -\n1.\nin der allgemeinen Rentenversicherung die Regionalträger, die Deutsche Rentenversicherung Bund und die\nDeutsche Rentenversicherung Knappschaft-Bahn-See,\n2.\nin der knappschaftlichen Rentenversicherung die Deutsche Rentenversicherung Knappschaft-Bahn-See,\n3.\nin der Alterssicherung der Landwirte die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als\nlandwirtschaftliche Alterskasse.\n§ 24 Versorgungsleistungen bei Gesundheitsschäden\n(1) Nach dem Recht der sozialen Entschädigung bei Gesundheitsschäden können in Anspruch genommen\nwerden:\n1.\n Heil- und Krankenbehandlung sowie andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der\nLeistungsfähigkeit einschließlich wirtschaftlicher Hilfen,\n2.\n besondere Hilfen im Einzelfall einschließlich Leistungen zur Teilhabe am Arbeitsleben,\n3.\n Renten wegen anerkannten Schädigungsfolgen,\n4.\n Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,\n5.\n Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.\n(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen\nVersorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie\ndie Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die\nTräger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des\nSoldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.\n§ 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und\nBetreuungsgeld\n(1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in Anspruch genommen werden, wenn nicht\nder Familienleistungsausgleich nach § 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem\nBundeskindergeldgesetz können auch der Kinderzuschlag und Leistungen für Bildung und Teilhabe in Anspruch\ngenommen werden.\n(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann Elterngeld und Betreuungsgeld in\nAnspruch genommen werden.\n(3) Für die Ausführung des Absatzes 1 sind die nach § 7 des Bundeskindergeldgesetzes bestimmten Stellen\nund für die Ausführung des Absatzes 2 die nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten\nStellen zuständig.\n§ 26 Wohngeld\n(1) Nach dem Wohngeldrecht kann als Zuschuß zur Miete oder als Zuschuß zu den Aufwendungen für den\neigengenutzten Wohnraum Wohngeld in Anspruch genommen werden.\n(2) Zuständig sind die durch Landesrecht bestimmten Behörden.\n§ 27 Leistungen der Kinder- und Jugendhilfe\n(1) Nach dem Recht der Kinder- und Jugendhilfe können in Anspruch genommen werden:\n1.\n Angebote der Jugendarbeit, der Jugendsozialarbeit und des erzieherischen Jugendschutzes,\n2.\n Angebote zur Förderung der Erziehung in der Familie,\n3.\n Angebote zur Förderung von Kindern in Tageseinrichtungen und in Tagespflege,\n4.\n Hilfe zur Erziehung, Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche sowie Hilfe für junge\nVolljährige.\n(2) Zuständig sind die Kreise und die kreisfreien Städte, nach Maßgabe des Landesrechts auch kreisangehörige\nGemeinden; sie arbeiten mit der freien Jugendhilfe zusammen.\n- Seite 10 von 23 -\n§ 28 Leistungen der Sozialhilfe\n(1) Nach dem Recht der Sozialhilfe können in Anspruch genommen werden:\n1.\n Hilfe zum Lebensunterhalt,\n1a.\n Grundsicherung im Alter und bei Erwerbsminderung,\n2.\n Hilfen zur Gesundheit,\n3.\n (weggefallen)\n4.\n Hilfe zur Pflege,\n5.\n Hilfe zur Überwindung besonderer sozialer Schwierigkeiten,\n6.\n Hilfe in anderen Lebenslagen\nsowie die jeweils gebotene Beratung und Unterstützung.\n(2) Zuständig sind die Kreise und kreisfreien Städte, die überörtlichen Träger der Sozialhilfe und für besondere\nAufgaben die Gesundheitsämter; sie arbeiten mit den Trägern der freien Wohlfahrtspflege zusammen.\n§ 28a Leistungen der Eingliederungshilfe\n(1) Nach dem Recht der Eingliederungshilfe können in Anspruch genommen werden:\n1.\n Leistungen zur medizinischen Rehabilitation,\n2.\n Leistungen zur Teilhabe am Arbeitsleben,\n3.\n Leistungen zur Teilhabe an Bildung,\n4.\n Leistungen zur Sozialen Teilhabe.\n(2) Zuständig sind die durch Landesrecht bestimmten Behörden.\n§ 29 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen\n(1) Nach dem Recht der Rehabilitation und Teilhabe behinderter Menschen können in Anspruch genommen\nwerden\n1.\n Leistungen zur medizinischen Rehabilitation, insbesondere\na)\n Frühförderung behinderter und von Behinderung bedrohter Kinder,\nb)\n ärztliche und zahnärztliche Behandlung,\nc)\n Arznei- und Verbandmittel sowie Heilmittel einschließlich physikalischer, Sprach- und\nBeschäftigungstherapie,\nd)\n Körperersatzstücke, orthopädische und andere Hilfsmittel,\ne)\n Belastungserprobung und Arbeitstherapie,\n2.\nLeistungen zur Teilhabe am Arbeitsleben, insbesondere\na)\n Hilfen zum Erhalten oder Erlangen eines Arbeitsplatzes,\nb)\n Berufsvorbereitung, berufliche Anpassung, Ausbildung und Weiterbildung,\nc)\n sonstige Hilfen zur Förderung der Teilhabe am Arbeitsleben,\n2a.\nLeistungen zur Teilhabe an Bildung, insbesondere\na)\n Hilfen zur Schulbildung, insbesondere im Rahmen der allgemeinen Schulpflicht und zum Besuch\nweiterführender Schulen einschließlich der Vorbereitung hierzu,\nb)\n Hilfen zur schulischen Berufsausbildung,\nc)\n Hilfen zur Hochschulbildung,\nd)\n Hilfen zur schulischen beruflichen Weiterbildung,\n3.\nLeistungen zur Sozialen Teilhabe, insbesondere\n- Seite 11 von 23 -\na)\nLeistungen für Wohnraum,\nb)\nAssistenzleistungen,\nc)\nheilpädagogische Leistungen,\nd)\nLeistungen zur Betreuung in einer Pflegefamilie,\ne)\nLeistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten,\nf)\nLeistungen zur Förderung der Verständigung,\ng)\nLeistungen zur Mobilität,\nh)\nHilfsmittel,\n4.\nunterhaltssichernde und andere ergänzende Leistungen, insbesondere\na)\n Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder\nUnterhaltsbeihilfe,\nb)\n Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung sowie zur\nBundesagentur für Arbeit,\nc)\n Reisekosten,\nd)\n Haushalts- oder Betriebshilfe und Kinderbetreuungskosten,\ne)\n Rehabilitationssport und Funktionstraining,\n5.\nbesondere Leistungen und sonstige Hilfen zur Teilhabe schwerbehinderter Menschen am Leben in der\nGesellschaft, insbesondere am Arbeitsleben.\n(2) Zuständig sind die in den §§ 19 bis 24, 27 und 28 genannten Leistungsträger und die Integrationsämter.\nDritter Abschnitt\nGemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs\nErster Titel\nAllgemeine Grundsätze\n§ 30 Geltungsbereich\n(1) Die Vorschriften dieses Gesetzbuchs gelten für alle Personen, die ihren Wohnsitz oder gewöhnlichen\nAufenthalt in seinem Geltungsbereich haben.\n(2) Regelungen des über- und zwischenstaatlichen Rechts bleiben unberührt.\n(3) Einen Wohnsitz hat jemand dort, wo er eine Wohnung unter Umständen innehat, die darauf schließen\nlassen, daß er die Wohnung beibehalten und benutzen wird. Den gewöhnlichen Aufenthalt hat jemand dort, wo\ner sich unter Umständen aufhält, die erkennen lassen, daß er an diesem Ort oder in diesem Gebiet nicht nur\nvorübergehend verweilt.\n§ 31 Vorbehalt des Gesetzes\nRechte und Pflichten in den Sozialleistungsbereichen dieses Gesetzbuchs dürfen nur begründet, festgestellt,\ngeändert oder aufgehoben werden, soweit ein Gesetz es vorschreibt oder zuläßt.\n§ 32 Verbot nachteiliger Vereinbarungen\nPrivatrechtliche Vereinbarungen, die zum Nachteil des Sozialleistungsberechtigten von Vorschriften dieses\nGesetzbuchs abweichen, sind nichtig.\n§ 33 Ausgestaltung von Rechten und Pflichten\nIst der Inhalt von Rechten oder Pflichten nach Art oder Umfang nicht im einzelnen bestimmt, sind bei ihrer\nAusgestaltung die persönlichen Verhältnisse des Berechtigten oder Verpflichteten, sein Bedarf und seine\nLeistungsfähigkeit sowie die örtlichen Verhältnisse zu berücksichtigen, soweit Rechtsvorschriften nicht\n- Seite 12 von 23 -\nentgegenstehen. Dabei soll den Wünschen des Berechtigten oder Verpflichteten entsprochen werden, soweit sie\nangemessen sind.\n§ 33a Altersabhängige Rechte und Pflichten\n(1) Sind Rechte oder Pflichten davon abhängig, daß eine bestimmte Altersgrenze erreicht oder nicht\nüberschritten ist, ist das Geburtsdatum maßgebend, das sich aus der ersten Angabe des Berechtigten oder\nVerpflichteten oder seiner Angehörigen gegenüber einem Sozialleistungsträger oder, soweit es sich um\neine Angabe im Rahmen des Dritten oder Sechsten Abschnitts des Vierten Buches handelt, gegenüber dem\nArbeitgeber ergibt.\n(2) Von einem nach Absatz 1 maßgebenden Geburtsdatum darf nur abgewichen werden, wenn der zuständige\nLeistungsträger feststellt, daß\n1.\n ein Schreibfehler vorliegt oder\n2.\n sich aus einer Urkunde, deren Original vor dem Zeitpunkt der Angabe nach Absatz 1 ausgestellt worden ist,\nein anderes Geburtsdatum ergibt.\n(3) Die Absätze 1 und 2 gelten für Geburtsdaten, die Bestandteil der Versicherungsnummer oder eines anderen\nin den Sozialleistungsbereichen dieses Gesetzbuchs verwendeten Kennzeichens sind, entsprechend.\n§ 33b Lebenspartnerschaften\nLebenspartnerschaften im Sinne dieses Gesetzbuches sind Lebenspartnerschaften nach dem\nLebenspartnerschaftsgesetz.\n§ 33c Benachteiligungsverbot\nBei der Inanspruchnahme sozialer Rechte darf niemand aus Gründen der Rasse, wegen der ethnischen Herkunft\noder einer Behinderung benachteiligt werden. Ansprüche können nur insoweit geltend gemacht oder hergeleitet\nwerden, als deren Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile dieses Gesetzbuchs\nim Einzelnen bestimmt sind.\n§ 34 Begrenzung von Rechten und Pflichten\n(1) Soweit Rechte und Pflichten nach diesem Gesetzbuch ein familienrechtliches Rechtsverhältnis voraussetzen,\nreicht ein Rechtsverhältnis, das gemäß Internationalem Privatrecht dem Recht eines anderen Staats unterliegt\nund nach diesem Recht besteht, nur aus, wenn es dem Rechtsverhältnis im Geltungsbereich dieses Gesetzbuchs\nentspricht.\n(2) Ansprüche mehrerer Ehegatten auf Witwenrente oder Witwerrente werden anteilig und endgültig aufgeteilt.\n§ 35 Sozialgeheimnis\n(1) Jeder hat Anspruch darauf, dass die ihn betreffenden Sozialdaten (§ 67 Absatz 2 Zehntes Buch) von den\nLeistungsträgern nicht unbefugt verarbeitet werden (Sozialgeheimnis). Die Wahrung des Sozialgeheimnisses\numfasst die Verpflichtung, auch innerhalb des Leistungsträgers sicherzustellen, dass die Sozialdaten nur\nBefugten zugänglich sind oder nur an diese weitergegeben werden. Sozialdaten der Beschäftigten und\nihrer Angehörigen dürfen Personen, die Personalentscheidungen treffen oder daran mitwirken können,\nweder zugänglich sein noch von Zugriffsberechtigten weitergegeben werden. Der Anspruch richtet sich\nauch gegen die Verbände der Leistungsträger, die Arbeitsgemeinschaften der Leistungsträger und ihrer\nVerbände, die Datenstelle der Rentenversicherung, die in diesem Gesetzbuch genannten öffentlich-rechtlichen\nVereinigungen, Integrationsfachdienste, die Künstlersozialkasse, die Deutsche Post AG, soweit sie mit der\nBerechnung oder Auszahlung von Sozialleistungen betraut ist, die Behörden der Zollverwaltung, soweit sie\nAufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes und § 66 des Zehnten Buches durchführen, die\nVersicherungsämter und Gemeindebehörden sowie die anerkannten Adoptionsvermittlungsstellen (§ 2 Absatz\n2 des Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem Gesetzbuch wahrnehmen, und die\nStellen, die Aufgaben nach § 67c Absatz 3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach\nBeendigung ihrer Tätigkeit bei den genannten Stellen das Sozialgeheimnis zu wahren.\n(2) Die Vorschriften des Zweiten Kapitels des Zehnten Buches und der übrigen Bücher des Sozialgesetzbuches\nregeln die Verarbeitung von Sozialdaten abschließend, soweit nicht die Verordnung (EU) 2016/679 des\nEuropäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der\n- Seite 13 von 23 -\nVerarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/\nEG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) unmittelbar\ngilt. Für die Verarbeitungen von Sozialdaten im Rahmen von nicht in den Anwendungsbereich der Verordnung\n(EU) 2016/679 fallenden Tätigkeiten finden die Verordnung (EU) 2016/679 und dieses Gesetz entsprechende\nAnwendung, soweit nicht in diesem oder einem anderen Gesetz Abweichendes geregelt ist.\n(2a) Die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufs- oder besonderen\nAmtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unberührt.\n(3) Soweit eine Übermittlung von Sozialdaten nicht zulässig ist, besteht keine Auskunftspflicht, keine\nZeugnispflicht und keine Pflicht zur Vorlegung oder Auslieferung von Schriftstücken, nicht automatisierten\nDateisystemen und automatisiert verarbeiteten Sozialdaten.\n(4) Betriebs- und Geschäftsgeheimnisse stehen Sozialdaten gleich.\n(5) Sozialdaten Verstorbener dürfen nach Maßgabe des Zweiten Kapitels des Zehnten Buches verarbeitet\nwerden. Sie dürfen außerdem verarbeitet werden, wenn schutzwürdige Interessen des Verstorbenen oder seiner\nAngehörigen dadurch nicht beeinträchtigt werden können.\n(6) Die Absätze 1 bis 5 finden neben den in Absatz 1 genannten Stellen auch Anwendung auf solche\nVerantwortliche oder deren Auftragsverarbeiter,\n1.\n die Sozialdaten im Inland verarbeiten, sofern die Verarbeitung nicht im Rahmen einer Niederlassung in\neinem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens\nüber den Europäischen Wirtschaftsraum erfolgt, oder\n2.\n die Sozialdaten im Rahmen der Tätigkeiten einer inländischen Niederlassung verarbeiten.\nSofern die Absätze 1 bis 5 nicht gemäß Satz 1 anzuwenden sind, gelten für den Verantwortlichen oder dessen\nAuftragsverarbeiter nur die §§ 81 bis 81c des Zehnten Buches.\n(7) Bei der Verarbeitung zu Zwecken gemäß Artikel 2 der Verordnung (EU) 2016/679 stehen die Vertragsstaaten\ndes Abkommens über den Europäischen Wirtschaftsraum und die Schweiz den Mitgliedstaaten der Europäischen\nUnion gleich. Andere Staaten gelten insoweit als Drittstaaten.\n§ 36 Handlungsfähigkeit\n(1) Wer das fünfzehnte Lebensjahr vollendet hat, kann Anträge auf Sozialleistungen stellen und verfolgen sowie\nSozialleistungen entgegennehmen. Der Leistungsträger soll den gesetzlichen Vertreter über die Antragstellung\nund die erbrachten Sozialleistungen unterrichten.\n(2) Die Handlungsfähigkeit nach Absatz 1 Satz 1 kann vom gesetzlichen Vertreter durch schriftliche Erklärung\ngegenüber dem Leistungsträger eingeschränkt werden. Die Rücknahme von Anträgen, der Verzicht auf\nSozialleistungen und die Entgegennahme von Darlehen bedürfen der Zustimmung des gesetzlichen Vertreters.\n§ 36a Elektronische Kommunikation\n(1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.\n(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas\nanderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein\nelektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit\neinem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die\nBehörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch ersetzt werden\n1.\n durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem\nEingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird;\n2.\n bei Anträgen und Anzeigen durch Versendung eines elektronischen Dokuments an die Behörde mit der\nVersandart nach § 5 Absatz 5 des De-Mail-Gesetzes;\n3.\n bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörden durch\nVersendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des\nakkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt;\n- Seite 14 von 23 -\n4.\n durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des\nBundesrates festgelegt werden, welche den Datenübermittler (Absender der Daten) authentifizieren und\ndie Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten; der IT-\nPlanungsrat gibt Empfehlungen zu geeigneten Verfahren ab.\nIn den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein sicherer\nIdentitätsnachweis nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes\nerfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch\nmit der elektronischen Gesundheitskarte nach § 291 Absatz 2a des Fünften Buches elektronisch nachgewiesen\nwerden.\n(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein\nUnterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die\nelektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.\n(3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt\nsie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich\nmit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht\nbearbeiten, übermittelt sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück.\n(4) Die Träger der Sozialversicherung einschließlich der Bundesagentur für Arbeit, ihre Verbände und\nArbeitsgemeinschaften verwenden unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit\nim jeweiligen Sozialleistungsbereich Vertrauensdienste, die eine gemeinsame und bundeseinheitliche\nKommunikation und Übermittlung der Daten und die Überprüfbarkeit der qualifizierten elektronischen Signatur\nauf Dauer sicherstellen. Diese Träger sollen über ihren jeweiligen Bereich hinaus Vertrauensdienste im Sinne des\nSatzes 1 verwenden. Die Sätze 1 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften und\ndem Elften Buch und die von ihnen gebildeten Organisationen.\n§ 37 Vorbehalt abweichender Regelungen\nDas Erste und Zehnte Buch gelten für alle Sozialleistungsbereiche dieses Gesetzbuchs, soweit sich aus den\nübrigen Büchern nichts Abweichendes ergibt; § 68 bleibt unberührt. Der Vorbehalt gilt nicht für die §§ 1 bis 17\nund 31 bis 36. Das Zweite Kapitel des Zehnten Buches geht dessen Erstem Kapitel vor, soweit sich die Ermittlung\ndes Sachverhaltes auf Sozialdaten erstreckt.\nZweiter Titel\nGrundsätze des Leistungsrechts\n§ 38 Rechtsanspruch\nAuf Sozialleistungen besteht ein Anspruch, soweit nicht nach den besonderen Teilen dieses Gesetzbuchs die\nLeistungsträger ermächtigt sind, bei der Entscheidung über die Leistung nach ihrem Ermessen zu handeln.\n§ 39 Ermessensleistungen\n(1) Sind die Leistungsträger ermächtigt, bei der Entscheidung über Sozialleistungen nach ihrem Ermessen zu\nhandeln, haben sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die gesetzlichen\nGrenzen des Ermessens einzuhalten. Auf pflichtgemäße Ausübung des Ermessens besteht ein Anspruch.\n(2) Für Ermessensleistungen gelten die Vorschriften über Sozialleistungen, auf die ein Anspruch besteht,\nentsprechend, soweit sich aus den Vorschriften dieses Gesetzbuchs nichts Abweichendes ergibt.\n§ 40 Entstehen der Ansprüche\n(1) Ansprüche auf Sozialleistungen entstehen, sobald ihre im Gesetz oder auf Grund eines Gesetzes bestimmten\nVoraussetzungen vorliegen.\n(2) Bei Ermessensleistungen ist der Zeitpunkt maßgebend, in dem die Entscheidung über die Leistung\nbekanntgegeben wird, es sei denn, daß in der Entscheidung ein anderer Zeitpunkt bestimmt ist.\n§ 41 Fälligkeit\nSoweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden Ansprüche auf\nSozialleistungen mit ihrem Entstehen fällig.\n- Seite 15 von 23 -\n§ 42 Vorschüsse\n(1) Besteht ein Anspruch auf Geldleistungen dem Grunde nach und ist zur Feststellung seiner Höhe\nvoraussichtlich längere Zeit erforderlich, kann der zuständige Leistungsträger Vorschüsse zahlen, deren Höhe\ner nach pflichtgemäßem Ermessen bestimmt. Er hat Vorschüsse nach Satz 1 zu zahlen, wenn der Berechtigte\nes beantragt; die Vorschußzahlung beginnt spätestens nach Ablauf eines Kalendermonats nach Eingang des\nAntrags.\n(2) Die Vorschüsse sind auf die zustehende Leistung anzurechnen. Soweit sie diese übersteigen, sind sie vom\nEmpfänger zu erstatten. § 50 Abs. 4 des Zehnten Buches gilt entsprechend.\n(3) Für die Stundung, Niederschlagung und den Erlaß des Erstattungsanspruchs gilt § 76 Abs. 2 des Vierten\nBuches entsprechend.\n§ 43 Vorläufige Leistungen\n(1) Besteht ein Anspruch auf Sozialleistungen und ist zwischen mehreren Leistungsträgern streitig, wer zur\nLeistung verpflichtet ist, kann der unter ihnen zuerst angegangene Leistungsträger vorläufig Leistungen\nerbringen, deren Umfang er nach pflichtgemäßen Ermessen bestimmt. Er hat Leistungen nach Satz 1 zu\nerbringen, wenn der Berechtigte es beantragt; die vorläufigen Leistungen beginnen spätestens nach Ablauf eines\nKalendermonats nach Eingang des Antrags.\n(2) Für die Leistungen nach Absatz 1 gilt § 42 Abs. 2 und 3 entsprechend. Ein Erstattungsanspruch gegen den\nEmpfänger steht nur dem zur Leistung verpflichteten Leistungsträger zu.\n(3) (weggefallen)\n§ 44 Verzinsung\n(1) Ansprüche auf Geldleistungen sind nach Ablauf eines Kalendermonats nach dem Eintritt ihrer Fälligkeit bis\nzum Ablauf des Kalendermonats vor der Zahlung mit vier vom Hundert zu verzinsen.\n(2) Die Verzinsung beginnt frühestens nach Ablauf von sechs Kalendermonaten nach Eingang des vollständigen\nLeistungsantrags beim zuständigen Leistungsträger, beim Fehlen eines Antrags nach Ablauf eines\nKalendermonats nach der Bekanntgabe der Entscheidung über die Leistung.\n(3) Verzinst werden volle Euro-Beträge. Dabei ist der Kalendermonat mit dreißig Tagen zugrunde zu legen.\n§ 45 Verjährung\n(1) Ansprüche auf Sozialleistungen verjähren in vier Jahren nach Ablauf des Kalenderjahrs, in dem sie entstanden\nsind.\n(2) Für die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verjährung gelten die\nVorschriften des Bürgerlichen Gesetzbuchs sinngemäß.\n(3) Die Verjährung wird auch durch schriftlichen Antrag auf die Sozialleistung oder durch Erhebung eines\nWiderspruchs gehemmt. Die Hemmung endet sechs Monate nach Bekanntgabe der Entscheidung über den\nAntrag oder den Widerspruch.\n(4) (weggefallen)\n§ 46 Verzicht\n(1) Auf Ansprüche auf Sozialleistungen kann durch schriftliche Erklärung gegenüber dem Leistungsträger\nverzichtet werden; der Verzicht kann jederzeit mit Wirkung für die Zukunft widerrufen werden.\n(2) Der Verzicht ist unwirksam, soweit durch ihn andere Personen oder Leistungsträger belastet oder\nRechtsvorschriften umgangen werden.\n§ 47 Auszahlung von Geldleistungen\n- Seite 16 von 23 -\n(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, sollen Geldleistungen\nkostenfrei auf ein Konto des Empfängers bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des\nEuropäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der\nGeschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr.\n924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt, überwiesen oder, wenn der Empfänger es verlangt, kostenfrei an\nseinen Wohnsitz innerhalb des Geltungsbereiches dieser Verordnung übermittelt werden.\n(2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung trägt der\nLeistungsträger die Kosten bis zu dem von ihm mit der Zahlung beauftragten Geldinstitut.\n§ 48 Auszahlung bei Verletzung der Unterhaltspflicht\n(1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können\nin angemessener Höhe an den Ehegatten, den Lebenspartner oder die Kinder des Leistungsberechtigten\nausgezahlt werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld,\nKinderzuschläge und vergleichbare Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die bei der\nFestsetzung der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages, der sich bei entsprechender\nAnwendung des § 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der\nKindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines\nBetrages zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. Die\nAuszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten, dem Lebenspartner oder den\nKindern Unterhalt gewährt.\n(2) Absatz 1 Satz 1, 2 und 4 gilt entsprechend, wenn unter Berücksichtigung von Kindern, denen gegenüber\nder Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden und der\nLeistungsberechtigte diese Kinder nicht unterhält.\n§ 49 Auszahlung bei Unterbringung\n(1) Ist ein Leistungsberechtigter auf Grund richterlicher Anordnung länger als einen Kalendermonat in einer\nAnstalt oder Einrichtung untergebracht, sind laufende Geldleistungen, die der Sicherung des Lebensunterhalts\nzu dienen bestimmt sind, an die Unterhaltsberechtigten auszuzahlen, soweit der Leistungsberechtigte kraft\nGesetzes unterhaltspflichtig ist und er oder die Unterhaltsberechtigten es beantragen.\n(2) Absatz 1 gilt entsprechend, wenn für Kinder, denen gegenüber der Leistungsberechtigte nicht kraft Gesetzes\nunterhaltspflichtig ist, Geldleistungen erbracht werden.\n(3) § 48 Abs. 1 Satz 4 bleibt unberührt.\n§ 50 Überleitung bei Unterbringung\n(1) Ist der Leistungsberechtigte untergebracht (§ 49 Abs. 1), kann die Stelle, der die Kosten der Unterbringung\nzur Last fallen, seine Ansprüche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen\nbestimmt sind, durch schriftliche Anzeige an den zuständigen Leistungsträger auf sich überleiten.\n(2) Die Anzeige bewirkt den Anspruchsübergang nur insoweit, als die Leistung nicht an Unterhaltsberechtigte\noder die in § 49 Abs. 2 genannten Kinder zu zahlen ist, der Leistungsberechtigte die Kosten der Unterbringung zu\nerstatten hat und die Leistung auf den für die Erstattung maßgebenden Zeitraum entfällt.\n(3) Die Absätze 1 und 2 gelten entsprechend, wenn für ein Kind (§ 56 Abs. 1 Satz 1 Nr. 2, Abs. 2), das\nuntergebracht ist (§ 49 Abs. 1), ein Anspruch auf eine laufende Geldleistung besteht.\n§ 51 Aufrechnung\n(1) Gegen Ansprüche auf Geldleistungen kann der zuständige Leistungsträger mit Ansprüchen gegen den\nBerechtigten aufrechnen, soweit die Ansprüche auf Geldleistungen nach § 54 Abs. 2 und 4 pfändbar sind.\n(2) Mit Ansprüchen auf Erstattung zu Unrecht erbrachter Sozialleistungen und mit Beitragsansprüchen nach\ndiesem Gesetzbuch kann der zuständige Leistungsträger gegen Ansprüche auf laufende Geldleistungen bis zu\nderen Hälfte aufrechnen, wenn der Leistungsberechtigte nicht nachweist, dass er dadurch hilfebedürftig im\nSinne der Vorschriften des Zwölften Buches über die Hilfe zum Lebensunterhalt oder der Grundsicherung für\nArbeitsuchende nach dem Zweiten Buch wird.\n- Seite 17 von 23 -\n§ 52 Verrechnung\nDer für eine Geldleistung zuständige Leistungsträger kann mit Ermächtigung eines anderen Leistungsträgers\ndessen Ansprüche gegen den Berechtigten mit der ihm obliegenden Geldleistung verrechnen, soweit nach § 51\ndie Aufrechnung zulässig ist.\n§ 53 Übertragung und Verpfändung\n(1) Ansprüche auf Dienst- und Sachleistungen können weder übertragen noch verpfändet werden.\n(2) Ansprüche auf Geldleistungen können übertragen und verpfändet werden\n1.\n zur Erfüllung oder zur Sicherung von Ansprüchen auf Rückzahlung von Darlehen und auf Erstattung von\nAufwendungen, die im Vorgriff auf fällig gewordene Sozialleistungen zu einer angemessenen Lebensführung\ngegeben oder gemacht worden sind oder,\n2.\n wenn der zuständige Leistungsträger feststellt, daß die Übertragung oder Verpfändung im\nwohlverstandenen Interesse des Berechtigten liegt.\n(3) Ansprüche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind,\nkönnen in anderen Fällen übertragen und verpfändet werden, soweit sie den für Arbeitseinkommen geltenden\nunpfändbaren Betrag übersteigen.\n(4) Der Leistungsträger ist zur Auszahlung an den neuen Gläubiger nicht vor Ablauf des Monats verpflichtet, der\ndem Monat folgt, in dem er von der Übertragung oder Verpfändung Kenntnis erlangt hat.\n(5) Eine Übertragung oder Verpfändung von Ansprüchen auf Geldleistungen steht einer Aufrechnung oder\nVerrechnung auch dann nicht entgegen, wenn der Leistungsträger beim Erwerb des Anspruchs von der\nÜbertragung oder Verpfändung Kenntnis hatte.\n(6) Soweit bei einer Übertragung oder Verpfändung Geldleistungen zu Unrecht erbracht worden sind, sind\nsowohl der Leistungsberechtigte als auch der neue Gläubiger als Gesamtschuldner dem Leistungsträger zur\nErstattung des entsprechenden Betrages verpflichtet. Der Leistungsträger hat den Erstattungsanspruch durch\nVerwaltungsakt geltend zu machen.\n§ 54 Pfändung\n(1) Ansprüche auf Dienst- und Sachleistungen können nicht gepfändet werden.\n(2) Ansprüche auf einmalige Geldleistungen können nur gepfändet werden, soweit nach den Umständen des\nFalles, insbesondere nach den Einkommens- und Vermögensverhältnissen des Leistungsberechtigten, der Art\ndes beizutreibenden Anspruchs sowie der Höhe und der Zweckbestimmung der Geldleistung, die Pfändung der\nBilligkeit entspricht.\n(3) Unpfändbar sind Ansprüche auf\n1.\n Elterngeld und Betreuungsgeld bis zur Höhe der nach § 10 des Bundeselterngeld- und Elternzeitgesetzes\nanrechnungsfreien Beträge sowie dem Erziehungsgeld vergleichbare Leistungen der Länder,\n2.\n Mutterschaftsgeld nach § 19 Absatz 1 des Mutterschutzgesetzes, soweit das Mutterschaftsgeld nicht\naus einer Teilzeitbeschäftigung während der Elternzeit herrührt, bis zur Höhe des Elterngeldes nach § 2\ndes Bundeselterngeld- und Elternzeitgesetzes, soweit es die anrechnungsfreien Beträge nach § 10 des\nBundeselterngeld- und Elternzeitgesetzes nicht übersteigt,\n2a.\n Wohngeld, soweit nicht die Pfändung wegen Ansprüchen erfolgt, die Gegenstand der §§ 9 und 10 des\nWohngeldgesetzes sind,\n3.\n Geldleistungen, die dafür bestimmt sind, den durch einen Körper- oder Gesundheitsschaden bedingten\nMehraufwand auszugleichen.\n(4) Im übrigen können Ansprüche auf laufende Geldleistungen wie Arbeitseinkommen gepfändet werden.\n(5) Ein Anspruch des Leistungsberechtigten auf Geldleistungen für Kinder (§ 48 Abs. 1 Satz 2) kann nur wegen\ngesetzlicher Unterhaltsansprüche eines Kindes, das bei der Festsetzung der Geldleistungen berücksichtigt wird,\ngepfändet werden. Für die Höhe des pfändbaren Betrages bei Kindergeld gilt:\n- Seite 18 von 23 -\n1.\nGehört das unterhaltsberechtigte Kind zum Kreis der Kinder, für die dem Leistungsberechtigten Kindergeld\ngezahlt wird, so ist eine Pfändung bis zu dem Betrag möglich, der bei gleichmäßiger Verteilung des\nKindergeldes auf jedes dieser Kinder entfällt. Ist das Kindergeld durch die Berücksichtigung eines weiteren\nKindes erhöht, für das einer dritten Person Kindergeld oder dieser oder dem Leistungsberechtigten eine\nandere Geldleistung für Kinder zusteht, so bleibt der Erhöhungsbetrag bei der Bestimmung des pfändbaren\nBetrages des Kindergeldes nach Satz 1 außer Betracht.\n2.\nDer Erhöhungsbetrag (Nummer 1 Satz 2) ist zugunsten jedes bei der Festsetzung des Kindergeldes\nberücksichtigten unterhaltsberechtigten Kindes zu dem Anteil pfändbar, der sich bei gleichmäßiger\nVerteilung auf alle Kinder, die bei der Festsetzung des Kindergeldes zugunsten des Leistungsberechtigten\nberücksichtigt werden, ergibt.\n(6) In den Fällen der Absätze 2, 4 und 5 gilt § 53 Abs. 6 entsprechend.\n§ 55 (weggefallen)\n§ 56 Sonderrechtsnachfolge\n(1) Fällige Ansprüche auf laufende Geldleistungen stehen beim Tod des Berechtigten nacheinander\n1.\n dem Ehegatten,\n1a.\n dem Lebenspartner,\n2.\n den Kindern,\n3.\n den Eltern,\n4.\n dem Haushaltsführer\nzu, wenn diese mit dem Berechtigten zur Zeit seines Todes in einem gemeinsamen Haushalt gelebt haben oder\nvon ihm wesentlich unterhalten worden sind. Mehreren Personen einer Gruppe stehen die Ansprüche zu gleichen\nTeilen zu.\n(2) Als Kinder im Sinne des Absatzes 1 Satz 1 Nr. 2 gelten auch\n1.\n Stiefkinder und Enkel, die in den Haushalt des Berechtigten aufgenommen sind,\n2.\n Pflegekinder (Personen, die mit dem Berechtigten durch ein auf längere Dauer angelegtes Pflegeverhältnis\nmit häuslicher Gemeinschaft wie Kinder mit Eltern verbunden sind),\n3.\n Geschwister des Berechtigten, die in seinen Haushalt aufgenommen worden sind.\n(3) Als Eltern im Sinne des Absatzes 1 Satz 1 Nr. 3 gelten auch\n1.\n sonstige Verwandte der geraden aufsteigenden Linie,\n2.\n Stiefeltern,\n3.\n Pflegeeltern (Personen, die den Berechtigten als Pflegekind aufgenommen haben).\n(4) Haushaltsführer im Sinne des Absatzes 1 Satz 1 Nr. 4 ist derjenige Verwandte oder Verschwägerte, der an\nStelle des verstorbenen oder geschiedenen oder an der Führung des Haushalts aus gesundheitlichen Gründen\ndauernd gehinderten Ehegatten oder Lebenspartners den Haushalt des Berechtigten mindestens ein Jahr lang\nvor dessen Tod geführt hat und von diesem überwiegend unterhalten worden ist.\n§ 57 Verzicht und Haftung des Sonderrechtsnachfolgers\n(1) Der nach § 56 Berechtigte kann auf die Sonderrechtsnachfolge innerhalb von sechs Wochen nach ihrer\nKenntnis durch schriftliche Erklärung gegenüber dem Leistungsträger verzichten. Verzichtet er innerhalb\ndieser Frist, gelten die Ansprüche als auf ihn nicht übergegangen. Sie stehen den Personen zu, die ohne den\nVerzichtenden nach § 56 berechtigt wären.\n(2) Soweit Ansprüche auf den Sonderrechtsnachfolger übergegangen sind, haftet er für die nach diesem\nGesetzbuch bestehenden Verbindlichkeiten des Verstorbenen gegenüber dem für die Ansprüche zuständigen\nLeistungsträger. Insoweit entfällt eine Haftung des Erben. Eine Aufrechnung und Verrechnung nach den §§ 51\nund 52 ist ohne die dort genannten Beschränkungen der Höhe zulässig.\n- Seite 19 von 23 -\n§ 58 Vererbung\nSoweit fällige Ansprüche auf Geldleistungen nicht nach den §§ 56 und 57 einem Sonderrechtsnachfolger\nzustehen, werden sie nach den Vorschriften des Bürgerlichen Gesetzbuchs vererbt. Der Fiskus als gesetzlicher\nErbe kann die Ansprüche nicht geltend machen.\n§ 59 Ausschluß der Rechtsnachfolge\nAnsprüche auf Dienst- und Sachleistungen erlöschen mit dem Tod des Berechtigten. Ansprüche auf\nGeldleistungen erlöschen nur, wenn sie im Zeitpunkt des Todes des Berechtigten weder festgestellt sind noch ein\nVerwaltungsverfahren über sie anhängig ist.\nDritter Titel\nMitwirkung des Leistungsberechtigten\n§ 60 Angabe von Tatsachen\n(1) Wer Sozialleistungen beantragt oder erhält, hat\n1.\n alle Tatsachen anzugeben, die für die Leistung erheblich sind, und auf Verlangen des zuständigen\nLeistungsträgers der Erteilung der erforderlichen Auskünfte durch Dritte zuzustimmen,\n2.\n Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit\nder Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen,\n3.\n Beweismittel zu bezeichnen und auf Verlangen des zuständigen Leistungsträgers Beweisurkunden\nvorzulegen oder ihrer Vorlage zuzustimmen.\nSatz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten hat.\n(2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese\nbenutzt werden.\nFußnote\n(+++ § 60: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)\n§ 61 Persönliches Erscheinen\nWer Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers zur mündlichen\nErörterung des Antrags oder zur Vornahme anderer für die Entscheidung über die Leistung notwendiger\nMaßnahmen persönlich erscheinen.\n§ 62 Untersuchungen\nWer Sozialleistungen beantragt oder erhält, soll sich auf Verlangen des zuständigen Leistungsträgers ärztlichen\nund psychologischen Untersuchungsmaßnahmen unterziehen, soweit diese für die Entscheidung über die\nLeistung erforderlich sind.\nFußnote\n(+++ § 62: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)\n§ 63 Heilbehandlung\nWer wegen Krankheit oder Behinderung Sozialleistungen beantragt oder erhält, soll sich auf Verlangen des\nzuständigen Leistungsträgers einer Heilbehandlung unterziehen, wenn zu erwarten ist, daß sie eine Besserung\nseines Gesundheitszustands herbeiführen oder eine Verschlechterung verhindern wird.\n§ 64 Leistungen zur Teilhabe am Arbeitsleben\nWer wegen Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit\nSozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers an Leistungen zur\nTeilhabe am Arbeitsleben teilnehmen, wenn bei angemessener Berücksichtigung seiner beruflichen Neigung und\n- Seite 20 von 23 -\nseiner Leistungsfähigkeit zu erwarten ist, daß sie seine Erwerbs- oder Vermittlungsfähigkeit auf Dauer fördern\noder erhalten werden.\n§ 65 Grenzen der Mitwirkung\n(1) Die Mitwirkungspflichten nach den §§ 60 bis 64 bestehen nicht, soweit\n1.\n ihre Erfüllung nicht in einem angemessenen Verhältnis zu der in Anspruch genommenen Sozialleistung oder\nihrer Erstattung steht oder\n2.\n ihre Erfüllung dem Betroffenen aus einem wichtigen Grund nicht zugemutet werden kann oder\n3.\n der Leistungsträger sich durch einen geringeren Aufwand als der Antragsteller oder Leistungsberechtigte\ndie erforderlichen Kenntnisse selbst beschaffen kann.\n(2) Behandlungen und Untersuchungen,\n1.\n bei denen im Einzelfall ein Schaden für Leben oder Gesundheit nicht mit hoher Wahrscheinlichkeit\nausgeschlossen werden kann,\n2.\n die mit erheblichen Schmerzen verbunden sind oder\n3.\n die einen erheblichen Eingriff in die körperliche Unversehrtheit bedeuten,\nkönnen abgelehnt werden.\n(3) Angaben, die dem Antragsteller, dem Leistungsberechtigten oder ihnen nahestehende Personen (§\n383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer\nOrdnungswidrigkeit verfolgt zu werden, können verweigert werden.\nFußnote\n(+++ § 65: Zur Anwendung vgl. § 42f Abs. SGB 8 +++) (+++ § 65 Abs. 1 u. 3: Zur Anwendung vgl. § 8 Abs. 1a\nBEEG F. v. 18.12.2014 +++)\n§ 65a Aufwendungsersatz\n(1) Wer einem Verlangen des zuständigen Leistungsträgers nach den §§ 61 oder 62 nachkommt, kann auf Antrag\nErsatz seiner notwendigen Auslagen und seines Verdienstausfalls in angemessenem Umfang erhalten. Bei einem\nVerlangen des zuständigen Leistungsträgers nach § 61 sollen Aufwendungen nur in Härtefällen ersetzt werden.\n(2) Absatz 1 gilt auch, wenn der zuständige Leistungsträger ein persönliches Erscheinen oder eine Untersuchung\nnachträglich als notwendig anerkennt.\n§ 66 Folgen fehlender Mitwirkung\n(1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält, seinen Mitwirkungspflichten nach den\n§§ 60 bis 62, 65 nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, kann\nder Leistungsträger ohne weitere Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder\nteilweise versagen oder entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen sind. Dies gilt\nentsprechend, wenn der Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des\nSachverhalts erheblich erschwert.\n(2) Kommt derjenige, der eine Sozialleistung wegen Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen\nGefährdung oder Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit\nbeantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 62 bis 65 nicht nach und ist unter Würdigung\naller Umstände mit Wahrscheinlichkeit anzunehmen, daß deshalb die Fähigkeit zur selbständigen Lebensführung,\ndie Arbeits-, Erwerbs- oder Vermittlungsfähigkeit beeinträchtigt oder nicht verbessert wird, kann der\nLeistungsträger die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen.\n(3) Sozialleistungen dürfen wegen fehlender Mitwirkung nur versagt oder entzogen werden, nachdem der\nLeistungsberechtigte auf diese Folge schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht\ninnerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.\nFußnote\n- Seite 21 von 23 -\n(+++ § 66: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)\n§ 67 Nachholung der Mitwirkung\nWird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen vor, kann der Leistungsträger\nSozialleistungen, die er nach § 66 versagt oder entzogen hat, nachträglich ganz oder teilweise erbringen.\nFußnote\n(+++ § 67: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)\nVierter Abschnitt\nÜbergangs- und Schlussvorschriften\n§ 68 Besondere Teile dieses Gesetzbuches\nBis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden Gesetze mit den zu ihrer Ergänzung und\nÄnderung erlassenen Gesetzen als dessen besondere Teile:\n1.\n das Bundesausbildungsförderungsgesetz,\n2.\n (aufgehoben)\n3.\n die Reichsversicherungsordnung,\n4.\n das Gesetz über die Alterssicherung der Landwirte,\n5.\n (weggefallen)\n6.\n das Zweite Gesetz über die Krankenversicherung der Landwirte,\n7.\n das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere\na)\n §§ 80 bis 83a des Soldatenversorgungsgesetzes,\nb)\n § 59 Abs. 1 des Bundesgrenzschutzgesetzes,\nc)\n § 47 des Zivildienstgesetzes,\nd)\n § 60 des Infektionsschutzgesetzes,\ne)\n §§ 4 und 5 des Häftlingshilfegesetzes,\nf)\n § 1 des Opferentschädigungsgesetzes,\ng)\n §§ 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes,\nh)\n §§ 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,\ndie entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgesetzes vorsehen,\n8.\n das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung,\n9.\n das Bundeskindergeldgesetz,\n10.\n das Wohngeldgesetz,\n11.\n (weggefallen)\n12.\n das Adoptionsvermittlungsgesetz,\n13.\n (aufgehoben)\n14.\n das Unterhaltsvorschussgesetz,\n15.\n der Erste, Zweite und Dritte Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,\n16.\n das Altersteilzeitgesetz,\n17.\n der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes.\n18.\n (weggefallen)\n§ 69 Stadtstaaten-Klausel\n- Seite 22 von 23 -\nDie Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die Vorschriften dieses Buches über die\nZuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.\n§ 70 Überleitungsvorschrift zum Verjährungsrecht\nArtikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gilt entsprechend bei der\nAnwendung des § 45 Abs. 2 und 3 in der seit dem 1. Januar 2002 geltenden Fassung.\n§ 71 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung\n§ 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden, soweit diese nach dem 30. März 2005 ganz\noder teilweise zu Unrecht erbracht werden.\n- Seite 23 von 23 -\n"
+}

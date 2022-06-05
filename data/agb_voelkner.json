@@ -1,0 +1,503 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Vertragspartner",
+            "end": 37,
+            "start": 22,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgedruckt",
+            "end": 255,
+            "start": 245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EHI",
+            "end": 392,
+            "start": 389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 485,
+            "start": 482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 750,
+            "start": 743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 769,
+            "start": 754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 908,
+            "start": 905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1158,
+            "start": 1152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1282,
+            "start": 1274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1360,
+            "start": 1358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1483,
+            "start": 1473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1682,
+            "start": 1679,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1868,
+            "start": 1867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2142,
+            "start": 2134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2281,
+            "start": 2273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2436,
+            "start": 2428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestelldaten",
+            "end": 2452,
+            "start": 2440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersandt",
+            "end": 2533,
+            "start": 2524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2724,
+            "start": 2718,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2775,
+            "start": 2774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 2793,
+            "start": 2779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2818,
+            "start": 2800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrechts",
+            "end": 2881,
+            "start": 2866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3175,
+            "start": 3171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 3228,
+            "start": 3219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 3248,
+            "start": 3230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Speichermedien",
+            "end": 3291,
+            "start": 3277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hinweise",
+            "end": 3420,
+            "start": 3412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 3494,
+            "start": 3480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 3596,
+            "start": 3591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3692,
+            "start": 3688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 3847,
+            "start": 3836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Retourenschein",
+            "end": 3913,
+            "start": 3899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3941,
+            "start": 3928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shop",
+            "end": 4113,
+            "start": 4109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 4169,
+            "start": 4159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geliefert",
+            "end": 4305,
+            "start": 4296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4553,
+            "start": 4547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 4677,
+            "start": 4671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachgeliefert",
+            "end": 4818,
+            "start": 4805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 4927,
+            "start": 4920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 4958,
+            "start": 4939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 5087,
+            "start": 5073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 5175,
+            "start": 5169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 5288,
+            "start": 5277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 5409,
+            "start": 5395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5672,
+            "start": 5669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 5803,
+            "start": 5795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 6008,
+            "start": 5995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6026,
+            "start": 6012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 6219,
+            "start": 6216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 6398,
+            "start": 6386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 6528,
+            "start": 6522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 6632,
+            "start": 6613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 6781,
+            "start": 6767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6966,
+            "start": 6960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 7163,
+            "start": 7157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 7183,
+            "start": 7165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 7272,
+            "start": 7264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantiebestimmungen",
+            "end": 7355,
+            "start": 7335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 7366,
+            "start": 7359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7762,
+            "start": 7759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 8239,
+            "start": 8235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 8300,
+            "start": 8286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datensicherung",
+            "end": 8318,
+            "start": 8304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 8445,
+            "start": 8437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 8519,
+            "start": 8505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 8626,
+            "start": 8621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind.Ist",
+            "end": 8726,
+            "start": 8718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 8876,
+            "start": 8865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendeschein",
+            "end": 8943,
+            "start": 8928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 8966,
+            "start": 8948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 9029,
+            "start": 9021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 9082,
+            "start": 9075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 9226,
+            "start": 9217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 9346,
+            "start": 9332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9836,
+            "start": 9833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 10053,
+            "start": 10046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 10073,
+            "start": 10058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 10182,
+            "start": 10176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 10317,
+            "start": 10311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Impressum",
+            "end": 10342,
+            "start": 10333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 10352,
+            "start": 10343,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Geltungsbereich und Vertragspartner\n1.1. Vertragspartner für alle Bestellungen ist die Re-In Retail International GmbH, nachfolgend bezeichnet als \"Re-In\". Die ladungsfähige Anschrift und weitere Kontaktdaten sind am Ende dieser AGB unter §13 abgedruckt. Voelkner ist ein geprüfter Online-Shop, wir haben uns folgenden Verhaltenskodizes unterworfen: Trusted Shops Gütesiegel, Gütesiegel EHI\n1.2. Kunden im Sinne dieser Allgemeinen Geschäftsbedingungen sind Privatkunden gemäß §13 BGB.\n1.3. Für alle gegenseitigen Ansprüche aus und im Zusammenhang mit einem Vertragsabschluss zwischen dem Kunden und Re-In gelten stets diese Allgemeinen Geschäftsbedingungen für Privatkunden in ihrer zum Zeitpunkt des jeweiligen Vertragsabschlusses gültigen Fassung.\n2 Vertragsschluss\n2.1. Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen.\n2.2. Der Vertrag wird in deutscher Sprache abgeschlossen und kommt durch Annahme der Kundenbestellung durch Re-In zustande. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung ab. Die Bestätigung des Zugangs der Bestellung erfolgt per automatisierter eMail unmittelbar nach dem Absenden der Bestellung. Die Annahme Ihrer Bestellung erfolgt durch Versand einer Annahmeerklärung in separater E-Mail oder durch Auslieferung der Ware innerhalb von 2 Werktagen, wobei der Zugang beim Kunden maßgeblich ist. Werden als Fristen Werktage angegeben, so verstehen sich darunter alle Wochentage mit Ausnahme von Samstagen, Sonntagen und gesetzlichen Feiertagen an unserem Sitz in Nürnberg (Bayern).\n2.3. Ein bindender Vertrag kann auch bereits zuvor wie folgt zustande kommen: Wenn Sie die Zahlungsart Vorauskasse gewählt haben, kommt der Vertrag durch den unverzüglichen Versand der Bestellbestätigung per eMail oder durch Aufforderung zur Zahlung im Onlineshop zustande. Wenn Sie die Zahlungsart PayPal gewählt haben, kommt der Vertrag zum Zeitpunkt Ihrer Bestätigung der Zahlungsanweisung an PayPal zustande. Wenn Sie die Zahlungsart Sofortüberweisung gewählt haben, kommt der Vertrag zum Zeitpunkt der Bestätigung der Zahlungsanweisung an die SOFORT AG zustande.\n3 Bestelldaten\nDie Bestelldaten werden zusammen mit den AGB in der Bestellbestätigung übersandt. Der Vertragstext wird gespeichert und kann im Kundenkonto im Onlineshop eingesehen oder, sofern kein Kundenkonto eingerichtet wurde, telefonisch unter der Nr. 0911/32689888 abgefragt werden. Erreichbarkeit: Mo. – Fr., 8:00 – 19:00 Uhr (MEZ).\n4 Widerrufsrecht \n4.1. Widerrufsbelehrung\n4.2. Ausschluss bzw. vorzeitiges Erlöschen des Widerrufsrechts. Das Widerrufsrecht besteht nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind. Das Widerrufsrecht erlischt vorzeitig bei Verträgen: Sonderbestimmungen\n4.3. Weitere Hinweise bzgl. Speichermedien: Bitte beachten Sie vor der Rückgabe von Geräten mit Speichermedien (z.B. Festplatten, USBSticks, Handys etc.) folgende Hinweise: Für die Sicherung der Daten sind Sie grundsätzlich selbst verantwortlich. Bitte legen Sie entsprechende Sicherungskopien an bzw. löschen Sie enthaltene personenbezogene Daten. Dies ist insbesondere dann von Bedeutung, wenn personenbezogene Daten Dritter gespeichert sind. Ist eine Löschung aufgrund eines Defekts nicht möglich, so bitten wir Sie, uns ausdrücklich auf das Vorhandensein von personenbezogenen Daten hinzuweisen. Bitte vermerken Sie dies klar ersichtlich auf dem Retourenschein.\n5 Lieferung, Versandkosten\n5.1. Informationen zu den Lieferzeiten und den aktuellen Versandkosten erfahren Sie auf der Seite Liefermöglichkeiten und bei den Hinweisen zu den Angeboten im Online-Shop. Bei Lieferverzögerungen werden Sie umgehend informiert.\n5.2. Artikel, bei denen ein Sperrgutzuschlag für den Transport erhoben wird, werden grundsätzlich nur bis zur Bordsteinkante geliefert. Ein Transport bis in die Wohn- oder Geschäftsräume kann dann nur bei Produkten erfolgen, die mit einem entsprechenden Hinweis auf der Produktdetailseite gekennzeichnet sind und muss in der Bestellübersicht als Zubehör gesondert mitbestellt werden.\n5.3. Vorbehaltlich einer korrekten und rechtzeitigen Selbstbelieferung wird Re-In für eine schnelle Lieferung Sorge tragen. Sollte nur ein Teil der Bestellung nicht sofort lieferbar sein, werden die restlichen Waren ohne Berechnung von Versandkosten nachgeliefert.\n5.4. Lieferungen erfolgen nur innerhalb Deutschlands, eine Selbstabholung der Ware ist leider nicht möglich.\n6 Preise, Zahlungsbedingungen\n6.1. Die Preisangaben im Privatkundenbereich des Onlineshops sind Endpreise und enthalten die gültige gesetzliche Mehrwertsteuer.\n6.2. Bei Bestellungen gelten die im Warenkorb bzw. die an der Kasse angezeigten Preise.\n6.3. Auf der Rechnung werden neben dem Nettopreis für die Ware die Preise für ergänzende Leistungen ausgewiesen: Verpackung, Versand, Premium-Versand, etc. sowie die jeweils zum Zeitpunkt der Rechnungsstellung gültige Mehrwertsteuer.\n6.4. In Zusammenarbeit mit Klarna bieten wir Ihnen den Rechnungskauf und den Ratenkauf als Zahlungsoption an. Bitte beachten Sie, dass Klarna Rechnung und Klarna Ratenkauf nur für Verbraucher verfügbar sind und dass die Zahlung jeweils an Klarna zu erfolgen hat.\n6.5. Die weiteren Zahlungsarten und deren Bedingungen im Einzelnen können Sie im Online-Shop auf der Seite Zahlungsarten einsehen.\n6.6. Re-In behält sich zur Absicherung des Bonitätsrisikos im Einzelfall vor, bestimmte Zahlungsarten auszuschließen und erbetene Lieferungen nur gegen Vorauszahlung, oder Sofortüberweisung durchzuführen.\n7 Gewährleistung\n7.1. Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\n7.2. Soweit nicht nachstehend ausdrücklich anders vereinbart, gilt das gesetzliche Mängelhaftungsrecht.\n7.3. Bei gebrauchten Waren gilt: wenn der Mangel nach Ablauf eines Jahres ab Ablieferung der Ware auftritt, sind die Mängelansprüche ausgeschlossen. Mängel, die innerhalb eines Jahres ab Ablieferung der Ware auftreten, können im Rahmen der gesetzlichen Verjährungsfrist von zwei Jahren ab Ablieferung der Ware geltend gemacht werden.\n7.4. Die vorstehenden Einschränkungen und Fristverkürzungen gelten nicht für Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden: Sonderbestimmungen\n7.5. Unabhängig von der Gewährleistung gilt die jeweils vom Hersteller gewährte Garantie. Die Einzelheiten entnehmen Sie bitte den jeweils beigefügten Garantiebestimmungen.\n8 Haftung\n8.1. Für Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränktbei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung,bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\n8.2. Bei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n9 Datensicherung\nVor der Rückgabe von Geräten mit Speichermedien (z.B. Festplatten, USB-Sticks, Handys etc.) sind folgende Hinweise zu beachten: Für die Sicherung der Daten sind Sie grundsätzlich selbst verantwortlich. Bitte legen Sie sich entsprechende Sicherungskopien an bzw. löschen Sie enthaltene personenbezogene Daten. Dies ist insbesondere dann von Bedeutung, wenn personenbezogene Daten Dritter gespeichert sind.Ist eine Löschung aufgrund eines Defekts nicht möglich, so bitten wir Sie, uns ausdrücklich auf das Vorhandensein von personenbezogenen Daten hinzuweisen. Bitte vermerken Sie dies klar ersichtlich auf dem Rücksendeschein.\n10 Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\n11 Rechtswahl, Gerichtsstand, Salvatorische Klausel\n11.1. Auf die Rechtsverhältnisse zwischen Re-In und deren Kunden sowie auf die jeweiligen Geschäftsbedingungen findet deutsches Recht Anwendung. Die Anwendung des UN-Übereinkommens über Verträge über den internationalen Warenkauf vom 11.04.1988 ist ausgeschlossen.\n11.2. Die Bestimmungen der Ziffer 11.1. lassen zwingende Regelungen des Rechts des Staates, in dem der Kunde seinen gewöhnlichen Aufenthalt hat, unberührt, wenn und soweit der Kunde einen Kaufvertrag abgeschlossen hat, der nicht überwiegend der beruflichen oder gewerblichen Tätigkeit des Kunden zugerechnet werden kann (Verbrauchervertrag) und wenn der Kunde die zum Abschluss des Kaufvertrags erforderlichen Rechtshandlungen in dem Staat seines gewöhnlichen Aufenthaltes vorgenommen hat.\n11.3. Sollten einzelne Bestimmungen dieses Vertrages ganz oder teilweise nicht rechtswirksam sein oder ihre Rechtswirksamkeit später verlieren, so wird hierdurch die Gültigkeit des Vertrages im Übrigen nicht berührt.\n12 Streitbeilegung\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.\n13 Anschrift, Impressum\nAnschrift\n\n"
+}

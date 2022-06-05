@@ -1,0 +1,611 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltung",
+            "end": 10,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 161,
+            "start": 159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 276,
+            "start": 271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 296,
+            "start": 281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 306,
+            "start": 297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 326,
+            "start": 311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 363,
+            "start": 352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einverstanden",
+            "end": 578,
+            "start": 565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 795,
+            "start": 792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1021,
+            "start": 1011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 1203,
+            "start": 1195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 1319,
+            "start": 1309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1564,
+            "start": 1556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 1746,
+            "start": 1734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenverfügbarkeit",
+            "end": 1769,
+            "start": 1751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 1944,
+            "start": 1939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 1980,
+            "start": 1970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rückerstattet",
+            "end": 2055,
+            "start": 2042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2330,
+            "start": 2326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2438,
+            "start": 2431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 2465,
+            "start": 2456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 2632,
+            "start": 2627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuholen",
+            "end": 2740,
+            "start": 2731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegen",
+            "end": 2954,
+            "start": 2946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 3188,
+            "start": 3174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 3307,
+            "start": 3298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3638,
+            "start": 3632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 3757,
+            "start": 3750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 3769,
+            "start": 3762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 3903,
+            "start": 3889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 4002,
+            "start": 3993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbrauchern",
+            "end": 4116,
+            "start": 4104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 4154,
+            "start": 4147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagen",
+            "end": 4229,
+            "start": 4224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 4382,
+            "start": 4376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebühren",
+            "end": 4450,
+            "start": 4442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsanbieter",
+            "end": 4577,
+            "start": 4561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsdienstleisters",
+            "end": 4662,
+            "start": 4640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzierung",
+            "end": 4679,
+            "start": 4667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 4939,
+            "start": 4931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 5017,
+            "start": 5011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzierungsanfrage",
+            "end": 5256,
+            "start": 5236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 5510,
+            "start": 5505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 5640,
+            "start": 5630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterlagen",
+            "end": 5792,
+            "start": 5782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 5913,
+            "start": 5907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 6085,
+            "start": 6080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 6237,
+            "start": 6227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 6480,
+            "start": 6475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6503,
+            "start": 6485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MediaMarkt",
+            "end": 6592,
+            "start": 6582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abnehmer",
+            "end": 6633,
+            "start": 6625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkauft",
+            "end": 6729,
+            "start": 6721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 6793,
+            "start": 6784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 6963,
+            "start": 6953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenkkarten",
+            "end": 6998,
+            "start": 6984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7148,
+            "start": 7142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7305,
+            "start": 7302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweist",
+            "end": 7657,
+            "start": 7649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzutragen",
+            "end": 7791,
+            "start": 7780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 7919,
+            "start": 7914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernehmen",
+            "end": 8246,
+            "start": 8236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstößt",
+            "end": 8598,
+            "start": 8590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8804,
+            "start": 8801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbrauchers",
+            "end": 8841,
+            "start": 8829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 9131,
+            "start": 9129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 9155,
+            "start": 9137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 9174,
+            "start": 9160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 9235,
+            "start": 9226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 9255,
+            "start": 9237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 9367,
+            "start": 9358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9534,
+            "start": 9530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 9632,
+            "start": 9623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9853,
+            "start": 9850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuwickeln",
+            "end": 10081,
+            "start": 10070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10352,
+            "start": 10346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umgekehrt",
+            "end": 10496,
+            "start": 10487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10509,
+            "start": 10502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10573,
+            "start": 10559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 10881,
+            "start": 10874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 11101,
+            "start": 11097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 11371,
+            "start": 11361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11529,
+            "start": 11523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 11633,
+            "start": 11624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelansprüche",
+            "end": 11654,
+            "start": 11639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 11749,
+            "start": 11745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 11958,
+            "start": 11952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 12086,
+            "start": 12077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 12309,
+            "start": 12305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 12599,
+            "start": 12592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 12740,
+            "start": 12731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 12838,
+            "start": 12827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 12863,
+            "start": 12844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 12994,
+            "start": 12984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MediaMarkt",
+            "end": 13279,
+            "start": 13269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbindlich",
+            "end": 13392,
+            "start": 13381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 13486,
+            "start": 13474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 13604,
+            "start": 13594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 13669,
+            "start": 13668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 13739,
+            "start": 13730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 13862,
+            "start": 13850,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltung\nDiese Allgemeinen Geschäftsbedingungen gelten für die Bestellung von Waren und Dienstleistungen aus dem Sortiment von MediaMarkt auf www.mediamarkt.de. Für den Download von digitalen Inhalten auf www.mediamarkt.de gelten diese Allgemeinen Geschäftsbedingungen nicht.\n2. Vertragspartner\nAnschrift \n3. Vertragsschluss\n(1) Das Liefergebiet ist Deutschland.\n(2) Durch Klicken auf den Button „Jetzt kaufen“ gibt der Kunde ein verbindliches Angebot zum Kauf der im Warenkorb befindlichen Ware ab und ist mit der Geltung dieser Allgemeinen Geschäftsbedingungen einverstanden.\n(3) Die nach Absenden der Bestellung automatisch versendete Bestellbestätigung bestätigt den Inhalt und den Zugang der Bestellung des Kunden bei MediaMarkt, stellt aber noch keine Annahme des Angebots des Kunden dar.\n(4) Ein Vertrag kommt erst durch die Annahmeerklärung von MediaMarkt zustande, die mit einer gesonderten E-Mail (Auftragsbestätigung oder Versandbestätigung) versendet wird, spätestens jedoch durch den Versand der Bestellung. MediaMarkt wird die Annahme entweder durch Versenden einer Versandbestätigung oder durch Versand der Ware innerhalb von fünf Werktagen ab Eingang der Bestellung des Kunden erklären. Gibt MediaMarkt innerhalb dieser Frist keine Annahmeerklärung ab, wurde die Bestellung des Kunden nicht angenommen.\n(5) Erwirbt der Kunde zusammen mit einem Mobilfunkgerät auch einen Mobilfunkvertrag, kommt der Kaufvertrag über das Mobilfunkgerät unter der aufschiebenden Bedingung des Zustandekommens des Mobilfunkvertrages mit dem Mobilfunkanbieter zustande. Kommt der Mobilfunkvertrag nicht zustande und hat der Kunde das Mobilfunkgerät bereits in seinem Besitz, ist der Kunde zur unverzüglichen Rückgabe des Mobilfunkgerätes verpflichtet.\n4. Warenverfügbarkeit\n(1) Ist zum Zeitpunkt der Bestellung bestellte Ware nicht verfügbar, behält sich MediaMarkt vor, die Bestellung der Ware nicht anzunehmen, so dass kein Vertrag zustande kommt. Hierüber wird der Kunde informiert. Bereits geleistete Zahlungen werden dem Kunden unverzüglich rückerstattet.\n(2) Absatz 1 gilt entsprechend, wenn nach Bestellung und vor Auslieferung der bestellte Artikel von der Freiwilligen Selbstkontrolle der Filmwirtschaft als „FSK 18“ oder von der Unterhaltungssoftware Selbstkontrolle der Computerspielewirtschaft als „USK 18“ eingestuft wird. Denn in diesem Fall ist aus technischen Gründen eine Altersverifikation nach Bestellung nicht mehr möglich.\n5. Abholung und Lieferung\n(1) Bei Lieferung der Bestellung an einen vom Kunden ausgewählten MediaMarkt zur Abholung wird der Kunde benachrichtigt, wenn die Bestellung zur Abholung bereit steht. Der Kunde ist verpflichtet, die Bestellung innerhalb von 10 Tagen ab Erhalt der Benachrichtigung abzuholen. Zur Abholung muss der Kunde die Rechnung, die Bestellbestätigung oder die Abholbenachrichtigung sowie einen von einer Behörde ausgestellten Ausweis mit Foto (z.B. Pass, Personalausweis oder Führerschein) vorlegen. Holt der Kunde die Bestellung nach Ablauf von 10 Tagen ab Erhalt der ersten Benachrichtigung zur Abholung nicht ab, behält sich MediaMarkt das Recht vor, aus Gründen der Minimierung von Lagerungskosten vom Kaufvertrag zurückzutreten. In diesem Fall erhält der Kunde eine Gutschrift über den bezahlten Kaufpreis in der Form der ursprünglichen Bezahlung.\n(2) Ware, die in der Produktbeschreibung mit „FSK 18“ oder „USK 18“ gekennzeichnet ist, kann sowohl bei Abholung im MediaMarkt als auch bei Lieferung nur vom Besteller der Ware persönlich unter Vorlage eines von einer Behörde ausgestellten Ausweises mit Foto (z.B. Pass, Personalausweis oder Führerschein) entgegengenommen werden. Eine Aushändigung an einen Bevollmächtigten oder eine Lieferung an eine Packstation ist bei dieser Ware nicht möglich.\n6. Zahlung\n(1) Alle Preise auf www.mediamarkt.de sind in Euro und verstehen sich einschließlich der jeweils gültigen gesetzlichen Mehrwertsteuer.\n(2) Dem Kunden stehen die beim Abschluss des Bestellprozesses angezeigten Zahlarten zur Verfügung.\n(3) Kauf auf Rechnung bietet MediaMarkt in Zusammenarbeit mit Klarna (www.klarna.de) an, jedoch nur Verbrauchern. Die Zahlung ist an Klarna zu leisten. Der Kunde bekommt zuerst die Ware und hat eine Zahlungsfrist von 14 Tagen. Die vollständigen AGB von Klarna zum Rechnungskauf sind unter https://cdn.klarna.com/1.0/shared/content/legal/terms/40479/de_de/invoice?fee=0 zu finden. MediaMarkt erhebt beim Kauf auf Rechnung mit Klarna keine Gebühren.\n(4) Die eingegebenen Daten werden nicht bei MediaMarkt gespeichert, jedoch ggf. beim jeweiligen ausgewählten Zahlungsanbieter. Es gelten hierfür die jeweiligen Datenschutzbestimmungen des Zahlungsdienstleisters.\n7. Finanzierung\n(1) Wählt der Kunde eine Finanzierung als Zahlart, kommt bei erfolgreichem Abschluss der entsprechende Darlehensvertrag des Kunden mit der BNP Paribas S.A. Niederlassung Deutschland, Schwanthalerstraße 31, 80336 München (nachfolgend „Consors Finanz“) zustande. MediaMarkt wird bei diesem Darlehensvertrag nicht Vertragspartner des Kunden.\n(2) Nach Eingabe der Daten des Kunden prüft die Consors Finanz auf Basis der eingegebenen Daten vorläufig die Bonität des Kunden und erteilt während des Bestellprozesses eine vorläufige Genehmigung oder Ablehnung der Finanzierungsanfrage. Ist die Finanzierung vorläufig genehmigt, muss der Kunde die angezeigten Dokumente ausdrucken und ein Identifikationsverfahren durchführen, indem er sich entweder in einer Post-Filiale oder einem MediaMarkt mit Hilfe seines Ausweises legitimieren lässt. Die Einzelheiten über die notwendigen Schritte werden dem Kunden in den angezeigten Dokumenten von der Consors Finanz mitgeteilt. Die Consors Finanz trifft die endgültige Entscheidung über die Darlehenszusage auf Basis der vom Kunden gemachten Angaben und eingereichten Unterlagen.\n(3) Wird die Finanzierungsanfrage von der Consors Finanz vorläufig abgelehnt, kann der Kunde eine andere Zahlart wählen. Lehnt die Consors Finanz die Finanzierungsanfrage des Kunden endgültig ab, wird MediaMarkt die Bestellung des Kunden nicht bestätigen, so dass kein Vertrag zustande kommt.\n(4) MediaMarkt reserviert die Kundenbestellung bis zu einer endgültigen Darlehenszusage der Consors Finanz, längstens jedoch für 10 Tage ab Bestellung. Reicht der Kunde den unterzeichneten Darlehensvertrag im Original nicht innerhalb dieser Frist bei der Consors Finanz ein, wird MediaMarkt die Warenbestellung des Kunden nicht bestätigen, so dass kein Kaufvertrag über die Ware zustande kommt.\n8. Eigentumsvorbehalt\nBis zur vollständigen Bezahlung verbleibt die gelieferte Ware im Eigentum von MediaMarkt.\n9. Kein Verkauf an gewerbliche Abnehmer\nDie im Shop angebotene Ware wird nur an Verbraucher und Unternehmer als Endverbraucher verkauft. Die gewerbliche Weiterveräußerung von Ware ist nicht gestattet. MediaMarkt behält sich daher vor, Vertragsangebote, die den Anschein erwecken, zum Zwecke des gewerblichen Weiterverkaufs der Ware abgegeben zu werden, nicht anzunehmen.\n10. Bestellung von Geschenkkarten\n(1) Geschenkkarten können sowohl mit einem Standardmotiv als auch mit einem personalisierten Bildmotiv sowie als Mobile Geschenkkarte bestellt werden. Zudem kann als Option die Anbringung eines QR-Codes auf der Geschenkkarte ausgewählt werden, mit dem der Zugang zu einem persönlichen Grußvideo möglich ist. Der Kunde verpflichtet sich, zur Bestellung einer personalisierten Geschenkkarte kein Bild-, Audio-/Video- oder Textmaterial (\"Material\") zu verwenden, das Rechte Dritter, insbesondere Urheber-, Marken- oder Persönlichkeitsrechte, verletzt oder das gegen geltende Gesetze verstößt, insbesondere pornografische oder politisch radikale Inhalte aufweist. Ebenso verpflichtet sich der Kunde, in frei zu beschriftende Textfelder keine beleidigenden oder ehrverletzenden Inhalte einzutragen. Eine rechtliche Überprüfung auf bestehende Rechte Dritter an dem vom Kunden eingesetzten Material führt MediaMarkt nicht durch.\n(2) Der Kunde verpflichtet sich, MediaMarkt vollumfänglich von sämtlichen Ansprüchen Dritter in Bezug auf das vom Kunden verwendete Material und/oder die vom Kunden eingefügten Textinhalte freizustellen und sämtliche dadurch entstehende Kosten, einschließlich der Kosten der Verteidigung gegen solche Ansprüche, zu übernehmen.\n(3) MediaMarkt behält sich vor, die Bearbeitung von Material zu verweigern, (a) wenn das Material dazu geeignet ist, dem Ansehen von MediaMarkt in der Öffentlichkeit zu schaden, (b) wenn an dem vom Kunden genutzten Material erkennbar Rechte Dritter bestehen oder (c) wenn die Darstellung oder Verbreitung des Materials gegen geltende Gesetze verstößt. MediaMarkt erstattet in diesen Fällen dem Kunden den aufgeladenen Geldbetrag zurück, behält sich jedoch Schadensersatzansprüche gegenüber dem Kunden z.B. wegen der Herstellungskosten der Geschenkkarte vor.\n11. Widerrufsrecht des Verbrauchers\n(1) Ist der Kunde eine natürliche Person, die ein Rechtsgeschäft zu einem Zweck abschließt, der überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann (Verbraucher), steht dem Kunden ein Widerrufsrecht gemäß § 312g i. V. m. § 355 BGB zu.\n(2) Widerrufsbelehrung\n(4) Musterformular\n(5) Das Widerrufsrecht besteht nicht bei folgenden Verträgen: Sonderbestimmungen\n(6) Bei einem Widerruf der gesamten Bestellung wird dem Kunden die Versandkostenpauschale vollständig erstattet. Bei einem Widerruf eines Teils einer Bestellung wird die Versandkostenpauschale nur erstattet, wenn auf die widerrufene Ware tatsächlich Versandkosten entfallen sind. Auf welche Waren Versandkosten entfallen, wird dem Kunden zum Zeitpunkt der Bestellung angezeigt. Versandkosten werden insoweit nicht erstattet, als sie dem Kunden zusätzlich entstanden sind, weil er sich für eine andere Art der Lieferung als die von MediaMarkt angebotene günstigste Standardlieferung entschieden hat.\n(7) Zusätzlich zu den in dieser Ziffer bestimmten Rechten hat der Kunde die Möglichkeit, den Widerruf einer Bestellung auch persönlich in jedem MediaMarkt in Deutschland innerhalb der Widerrufsfrist zu erklären und abzuwickeln.\n(8) Hat der Kunde ein Mobilfunkgerät in Verbindung mit dem Abschluss eines neuen Mobilfunkvertrages, einer Vertragsverlängerung oder sonstigen Mobilfunkleistung erworben, so können Mobilfunkvertrag und Kaufvertrag über das Mobilfunkgerät nur gemeinsam widerrufen werden. Widerruft der Kunde den Mobilfunkvertrag, so erklärt er gleichzeitig auch den Widerruf des Kaufvertrages über das Mobilfunkgerät und umgekehrt.\n12. Haftung\n(1) Ansprüche des Kunden auf Schadensersatz sind ausgeschlossen. Hiervon ausgenommen sind Schadensersatzansprüche des Kunden aus der Verletzung des Lebens, des Körpers, der Gesundheit, sowie die Haftung für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung von MediaMarkt, seiner gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf. Bei der leicht fahrlässigen Verletzung dieser Vertragspflichten haftet MediaMarkt nur für den vertragstypischen, vorhersehbaren Schaden, es sei denn, es handelt sich um Schadensersatzansprüche des Kunden aus einer Verletzung des Lebens, des Körpers oder der Gesundheit.\n(2) Absatz 1 gilt auch zu Gunsten der gesetzlichen Vertreter und Erfüllungsgehilfen von MediaMarkt, wenn Ansprüche direkt gegen diese geltend gemacht werden.\n(3) Die Vorschriften des Produkthaftungsgesetzes sowie des Bundesdatenschutzgesetzes bleiben unberührt.\n13. Mängelansprüche\n(1) Für Verbraucher gilt die gesetzliche Verjährungsfrist von zwei Jahren ab Übergabe der Ware.\n(2) Während der Verjährungsfrist für Mängelansprüche kann der Kunde seine Ansprüche wegen Mängeln der Ware neben der Geltendmachung gegenüber MediaMarkt auch in jedem MediaMarkt in Deutschland geltend machen. Alle Informationen über die Abwicklung von Mängelansprüchen stehen im Bereich „Mein Konto“ auf www.mediamarkt.de zur Verfügung.\n(3) Ist der Kunde Unternehmer, d.h. handelt der Kunde bei seiner Bestellung in Ausübung seiner gewerblichen oder selbständigen beruflichen Tätigkeit, verjähren Mängelansprüche innerhalb von 12 Monaten ab Übergabe der Ware. Hiervon ausgenommen sind Ansprüche wegen der Verletzung von Leben, Körper oder Gesundheit, die auf einer fahrlässigen Pflichtverletzung von MediaMarkt oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen von MediaMarkt beruhen.\n(4) Die gesetzlichen Mängelansprüche des Kunden bleiben im Falle des Bestehens oder Erwerbs einer Garantie für die bestellte Ware unberührt.\n(5) Die Abtretung von Mängelansprüchen ist ausgeschlossen, es sei denn der Kunde ist Verbraucher.\n14. Schlussbestimmungen\n(1) Diese Allgemeinen Geschäftsbedingungen unterliegen dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.\n(2) Sofern es sich beim Kunden um einen Kaufmann, eine juristische Person des öffentlichen Rechts oder um ein öffentlich-rechtliches Sondervermögen handelt, ist Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen dem Kunden und MediaMarkt der Sitz von MediaMarkt.\n(3) Der Vertrag bleibt auch bei rechtlicher Unwirksamkeit einzelner Punkte in seinen übrigen Teilen verbindlich. An die Stelle der unwirksamen Punkte treten, soweit vorhanden, die gesetzlichen Vorschriften.\n(4) Der Vertragstext wird nach Vertragsschluss vom Händler nicht gespeichert und ist für den Kunden nicht zugänglich. Einzelne Transaktionen findet der Kunde im Bereich „Mein Konto“.\n(5) Für den Vertragsschluss steht die deutsche Sprache zur Verfügung.\n(6) Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor Verbraucherschlichtungsstellen teilzunehmen.\n\n"
+}

@@ -1,0 +1,1889 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsübergang",
+            "end": 118,
+            "start": 102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 131,
+            "start": 119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 165,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 175,
+            "start": 174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 194,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 223,
+            "start": 222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 232,
+            "start": 224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 432,
+            "start": 429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebs",
+            "end": 550,
+            "start": 542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsübergang",
+            "end": 732,
+            "start": 716,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 752,
+            "start": 751,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 761,
+            "start": 760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagwort",
+            "end": 772,
+            "start": 762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsnachfolge",
+            "end": 791,
+            "start": 774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 802,
+            "start": 792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 857,
+            "start": 855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 869,
+            "start": 858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1511",
+            "end": 885,
+            "start": 881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41288",
+            "end": 904,
+            "start": 899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41288",
+            "end": 920,
+            "start": 915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 926,
+            "start": 921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 1018,
+            "start": 1008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1276,
+            "start": 1273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1317,
+            "start": 1307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1366,
+            "start": 1352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1452,
+            "start": 1451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1486,
+            "start": 1476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1498,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1500,
+            "start": 1499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnisses",
+            "end": 1564,
+            "start": 1544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1567,
+            "start": 1566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 1663,
+            "start": 1658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 1701,
+            "start": 1690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1704,
+            "start": 1703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsvertrag",
+            "end": 1785,
+            "start": 1771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingestellt",
+            "end": 1894,
+            "start": 1883,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2007,
+            "start": 2006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2010,
+            "start": 2009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2014",
+            "end": 2191,
+            "start": 2187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 2383,
+            "start": 2375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemietet",
+            "end": 2428,
+            "start": 2418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2431,
+            "start": 2430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegründet",
+            "end": 2612,
+            "start": 2603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2615,
+            "start": 2614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsvertrag",
+            "end": 2739,
+            "start": 2725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 2815,
+            "start": 2814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2819,
+            "start": 2818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 3011,
+            "start": 3007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3014,
+            "start": 3013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergehen",
+            "end": 3190,
+            "start": 3181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3193,
+            "start": 3192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 3401,
+            "start": 3396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3405,
+            "start": 3403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ende",
+            "end": 3619,
+            "start": 3615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3623,
+            "start": 3621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 3761,
+            "start": 3760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 3869,
+            "start": 3865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 3873,
+            "start": 3871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 3945,
+            "start": 3941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 3949,
+            "start": 3947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ende",
+            "end": 4189,
+            "start": 4185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4193,
+            "start": 4191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschlossen",
+            "end": 4248,
+            "start": 4237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4252,
+            "start": 4250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbestehe",
+            "end": 4559,
+            "start": 4548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 4563,
+            "start": 4561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbestehe",
+            "end": 4827,
+            "start": 4816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 4831,
+            "start": 4829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 4887,
+            "start": 4877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 4891,
+            "start": 4889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 4987,
+            "start": 4983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 4991,
+            "start": 4989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nichtig",
+            "end": 5102,
+            "start": 5095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5223,
+            "start": 5216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 5227,
+            "start": 5225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5296,
+            "start": 5289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 5376,
+            "start": 5369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 5498,
+            "start": 5490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5548,
+            "start": 5541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 5552,
+            "start": 5550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5690,
+            "start": 5684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5730,
+            "start": 5724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "e",
+            "end": 5729,
+            "start": 5728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5830,
+            "start": 5824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5914,
+            "start": 5908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 5918,
+            "start": 5916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6070,
+            "start": 6064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6139,
+            "start": 6133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekündigt",
+            "end": 6479,
+            "start": 6470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 6483,
+            "start": 6481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsauftrag",
+            "end": 6592,
+            "start": 6574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 6771,
+            "start": 6766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 6847,
+            "start": 6842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 6915,
+            "start": 6906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6996,
+            "start": 6990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7152,
+            "start": 7146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 7156,
+            "start": 7154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrieben",
+            "end": 7196,
+            "start": 7187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 7200,
+            "start": 7198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingesetzt",
+            "end": 7505,
+            "start": 7495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 7509,
+            "start": 7507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 7648,
+            "start": 7638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 7679,
+            "start": 7669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 7741,
+            "start": 7735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 7745,
+            "start": 7743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 7813,
+            "start": 7799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 7817,
+            "start": 7815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 7889,
+            "start": 7882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 7893,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 8053,
+            "start": 8045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erledigt",
+            "end": 8184,
+            "start": 8176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 8286,
+            "start": 8279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 8290,
+            "start": 8288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrieben",
+            "end": 8406,
+            "start": 8397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 8563,
+            "start": 8557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 8763,
+            "start": 8757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 8888,
+            "start": 8883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9022,
+            "start": 9016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehangen",
+            "end": 9102,
+            "start": 9094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 9106,
+            "start": 9104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9356,
+            "start": 9353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 9360,
+            "start": 9358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 9509,
+            "start": 9503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 9513,
+            "start": 9511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 9674,
+            "start": 9666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 9678,
+            "start": 9676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 9722,
+            "start": 9709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 9743,
+            "start": 9724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 9746,
+            "start": 9744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 9772,
+            "start": 9764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 9923,
+            "start": 9918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 9927,
+            "start": 9925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 9968,
+            "start": 9959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 9972,
+            "start": 9970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10112,
+            "start": 10109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10207,
+            "start": 10204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlag",
+            "end": 10345,
+            "start": 10339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschlossen",
+            "end": 10455,
+            "start": 10444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertreten",
+            "end": 10504,
+            "start": 10495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemeinsam",
+            "end": 10742,
+            "start": 10733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 10746,
+            "start": 10744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 10836,
+            "start": 10827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1995",
+            "end": 10911,
+            "start": 10907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10999,
+            "start": 10996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landarztzentrums",
+            "end": 11172,
+            "start": 11156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 11176,
+            "start": 11174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergegangen",
+            "end": 11318,
+            "start": 11306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2013",
+            "end": 11448,
+            "start": 11444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 11572,
+            "start": 11569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverträge",
+            "end": 11615,
+            "start": 11600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 11619,
+            "start": 11617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stünde",
+            "end": 11744,
+            "start": 11738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 11865,
+            "start": 11854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 11869,
+            "start": 11867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 11960,
+            "start": 11954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12150,
+            "start": 12147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 12219,
+            "start": 12208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigen",
+            "end": 12330,
+            "start": 12317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 12334,
+            "start": 12332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12510,
+            "start": 12507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 12514,
+            "start": 12512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 12540,
+            "start": 12533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 12544,
+            "start": 12542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12590,
+            "start": 12587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 12722,
+            "start": 12719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 12726,
+            "start": 12724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 12802,
+            "start": 12799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 12928,
+            "start": 12926,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13419,
+            "start": 13418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 13423,
+            "start": 13421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortführt",
+            "end": 13737,
+            "start": 13728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13878,
+            "start": 13875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zweck",
+            "end": 14072,
+            "start": 14067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 14252,
+            "start": 14250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14407,
+            "start": 14401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tätigkeiten",
+            "end": 14884,
+            "start": 14873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15015,
+            "start": 15009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 15249,
+            "start": 15239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängen",
+            "end": 15428,
+            "start": 15420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernimmt",
+            "end": 15679,
+            "start": 15670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auftragsnachfolge",
+            "end": 15845,
+            "start": 15828,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16268,
+            "start": 16267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überganges",
+            "end": 16448,
+            "start": 16438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 16684,
+            "start": 16675,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16908,
+            "start": 16907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 16912,
+            "start": 16910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 16997,
+            "start": 16984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 17001,
+            "start": 16999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beweispflichtig",
+            "end": 17107,
+            "start": 17092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 17111,
+            "start": 17109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 17269,
+            "start": 17265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17594,
+            "start": 17591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 17743,
+            "start": 17740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 17747,
+            "start": 17745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrieb",
+            "end": 17809,
+            "start": 17802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 17878,
+            "start": 17873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teilbetriebe",
+            "end": 17913,
+            "start": 17901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 17917,
+            "start": 17915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 18132,
+            "start": 18128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 18136,
+            "start": 18134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsarztsitzen",
+            "end": 18285,
+            "start": 18267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 18484,
+            "start": 18478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 18488,
+            "start": 18486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ortsbezogen",
+            "end": 18597,
+            "start": 18586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18644,
+            "start": 18638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einheit",
+            "end": 18719,
+            "start": 18712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 18723,
+            "start": 18721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 18867,
+            "start": 18862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 19048,
+            "start": 19045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 19336,
+            "start": 19331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 19602,
+            "start": 19594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 19606,
+            "start": 19604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelte",
+            "end": 19760,
+            "start": 19752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 19764,
+            "start": 19762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unwirksam",
+            "end": 19916,
+            "start": 19907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzuordnen",
+            "end": 19969,
+            "start": 19959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20050,
+            "start": 20044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortgeführt",
+            "end": 20146,
+            "start": 20135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 20150,
+            "start": 20148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stillgelegt",
+            "end": 20192,
+            "start": 20181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 20196,
+            "start": 20194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 20359,
+            "start": 20356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 20363,
+            "start": 20361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versorgen",
+            "end": 20436,
+            "start": 20427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Organisation",
+            "end": 20528,
+            "start": 20516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erledigen",
+            "end": 20636,
+            "start": 20627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 20749,
+            "start": 20737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 20850,
+            "start": 20844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 20998,
+            "start": 20994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 21002,
+            "start": 21000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitarbeiter",
+            "end": 21134,
+            "start": 21123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21373,
+            "start": 21370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 21377,
+            "start": 21375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 21608,
+            "start": 21604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrieben",
+            "end": 21667,
+            "start": 21658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 21671,
+            "start": 21669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 21800,
+            "start": 21793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 21804,
+            "start": 21802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 21828,
+            "start": 21824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 21832,
+            "start": 21830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 21934,
+            "start": 21929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ärzte",
+            "end": 21986,
+            "start": 21981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "X",
+            "end": 22140,
+            "start": 22139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 22145,
+            "start": 22143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestreitet",
+            "end": 22231,
+            "start": 22221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 22235,
+            "start": 22233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 22325,
+            "start": 22319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 22329,
+            "start": 22327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitarbeiter",
+            "end": 22408,
+            "start": 22397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 22550,
+            "start": 22543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 22554,
+            "start": 22552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "allein",
+            "end": 22692,
+            "start": 22686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 22696,
+            "start": 22694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 22827,
+            "start": 22816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 22831,
+            "start": 22829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 22959,
+            "start": 22954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 23042,
+            "start": 23038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 23230,
+            "start": 23227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "71",
+            "end": 23234,
+            "start": 23232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 23497,
+            "start": 23488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "72",
+            "end": 23501,
+            "start": 23499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 23664,
+            "start": 23655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "73",
+            "end": 23668,
+            "start": 23666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 23755,
+            "start": 23749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengetreten",
+            "end": 23815,
+            "start": 23799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 23988,
+            "start": 23985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "74",
+            "end": 23992,
+            "start": 23990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 24167,
+            "start": 24160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 24330,
+            "start": 24319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrags",
+            "end": 24391,
+            "start": 24383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgegeben",
+            "end": 24440,
+            "start": 24427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 24523,
+            "start": 24510,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24673,
+            "start": 24672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "75",
+            "end": 24677,
+            "start": 24675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KSchG",
+            "end": 24737,
+            "start": 24732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KSchG",
+            "end": 24868,
+            "start": 24863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "76",
+            "end": 24872,
+            "start": 24870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 24992,
+            "start": 24986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "77",
+            "end": 24996,
+            "start": 24994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebs",
+            "end": 25137,
+            "start": 25129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "78",
+            "end": 25141,
+            "start": 25139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfallen",
+            "end": 25234,
+            "start": 25225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "79",
+            "end": 25238,
+            "start": 25236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 25421,
+            "start": 25410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "koordinieren",
+            "end": 25577,
+            "start": 25565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "80",
+            "end": 25581,
+            "start": 25579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 25756,
+            "start": 25750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 25945,
+            "start": 25939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "81",
+            "end": 25949,
+            "start": 25947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 26034,
+            "start": 26027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "82",
+            "end": 26038,
+            "start": 26036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 26196,
+            "start": 26193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "83",
+            "end": 26200,
+            "start": 26198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 26262,
+            "start": 26260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 26355,
+            "start": 26348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "84",
+            "end": 26359,
+            "start": 26357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26395,
+            "start": 26389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "85",
+            "end": 26399,
+            "start": 26397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeworfen",
+            "end": 26570,
+            "start": 26559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengetreten",
+            "end": 26629,
+            "start": 26613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelegen",
+            "end": 26742,
+            "start": 26735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 26819,
+            "start": 26814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 26974,
+            "start": 26971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "86",
+            "end": 26978,
+            "start": 26976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 27039,
+            "start": 27035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "87",
+            "end": 27043,
+            "start": 27041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 27117,
+            "start": 27107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "88",
+            "end": 27121,
+            "start": 27119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 27173,
+            "start": 27170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "89",
+            "end": 27177,
+            "start": 27175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einlegen",
+            "end": 27233,
+            "start": 27225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 27443,
+            "start": 27433,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 06.11.2018 – 7 Sa 206/18\nTitel:\nBestand eines Arbeitsverhältnisses nach dem Betriebsübergang\nNormenketten:\nBGB § 613 a Abs. 4, § 626 Abs. 1\nKSchG § 1\nSGB V § 103 Abs. 4\nBetrVG § 4 Abs. 1 S. 1 Nr. 2\nLeitsatz:\nWerden unterschiedliche Arztpraxen aufgrund einer überörtlichen Berufsausübungsgemeinschaft\ngemeinschaftlich verwaltet, koordiniert und organisiert, bilden sie einen Betrieb im Sinne des § 613\na BGB. Wird die überörtliche Berufsausübungsgemeinschaft aufgelöst, führt dies zu einer\nStilllegung des bisherigen Betriebs. Werden Praxen lediglich einzeln durch einen der bereits tätigen\nÄrzte oder eine neue überörtliche Berufsausübungsgemeinschaft fortgeführt, liegt darin kein (Teil-\n)Betriebsübergang. (Rn. 53 – 55 und ) (Rn. 71)\nSchlagwort:\nBetriebsnachfolge\nVorinstanz:\nArbG Bayreuth, Endurteil vom 03.05.2018 – 4 Ca 932/17\nFundstellen:\nNWB 2019, 1511\nBeckRS 2018, 41288\nLSK 2018, 41288\nTenor\nI. Das Endurteil des Arbeitsgerichts Bayreuth - Kammer Hof - vom 03.05.2018 wird abgeändert.\n1. Es wird festgestellt, dass das Arbeitsverhältnis zwischen den Parteien durch die Kündigung der\nBeklagten vom 27.11.2017 nicht mit sofortiger Wirkung beendet worden ist, sondern darüber hinaus bis\n30.06.2018 zu unveränderten Bedingungen fortbestanden hat.\n2. Im Übrigen wird die Klage abgewiesen.\nII. Im Übrigen wird die Berufung zurückgewiesen.\nIII. Von den Kosten des Rechtsstreits trägt die Beklagte 1/3, die Klägerin trägt 2/3.\nIV. Die Revision wird zugelassen.\nTatbestand\n1\nDie Parteien streiten um den Bestand eines Arbeitsverhältnisses.\n2\nDer Ehemann der Klägerin, Herr Dr. A., betrieb Arztpraxen in S-Stadt, in E-Stadt und in F-Stadt. Die\nKlägerin war bei ihm beschäftigt.\n3\nUnter dem 28.03.2013 schlossen die Klägerin und ihr Ehemann einen Arbeitsvertrag. Nach dessen § 1\nwurde die Klägerin mit Wirkung ab 01.04.2013 als Managerin des Landarztzentrums eingestellt. Wegen des\nWortlauts des Arbeitsvertrags im Einzelnen wird auf die vorgelegte Kopie Bezug genommen (Bl. 61 d.A.).\n4\nMit Vertrag vom 14.11.2013 schlossen Herr Dr. A., Herr Dr. B. und Herr Dipl. med. C. einen Vertrag über die\nErrichtung einer überörtlichen Berufsausübungsgemeinschaft ab 01.01.2014. Gemäß § 2 des Vertrags\nwurde die überörtliche Berufsausübungsgemeinschaft in den Praxisräumen in S-Stadt (Musterstraße 1), in\nE-Stadt (Muster Weg 1) und in F-Stadt (Andere Straße 1) ausgeübt. Die Praxisräume waren von Dr. A.\nangemietet.\n5\nZum 01.04.2016 wurde eine überörtliche Berufsausübungsgemeinschaft in Form einer Gesellschaft des\nbürgerlichen Rechts zwischen Dr. A., Dr. B. und Dipl. med. C. und Dr. D. gegründet.\n6\nAm 01.04.2016 schlossen die Klägerin und die zuletzt genannte überörtliche Berufsausübungsgemeinschaft\neinen Arbeitsvertrag. Für die überörtliche Berufsausübungsgemeinschaft unterzeichnete Herr Dr. A..\n7\nGemäß Beschluss des Zulassungsausschusses Ärzte Oberfranken vom 31.05.2017 (Bl. 43 d.A.) endete die\nMitwirkung von Herrn Dr. D. in der überörtlichen Berufsausübungsgemeinschaft zum 30.11.2016.\n8\nUnter dem 18.05.2017 schlossen Herr Dr. A. und Herr C. einen Praxisübernahmevertrag (Bl. 85 ff d.A.).\nDanach sollte die Praxis in S-Stadt zum 01.06.2017 auf Herrn C. übergehen.\n9\nMit Bescheid vom 29.05.2017 (Bl. 218 d.A.) erteilte die Kassenärztliche Vereinigung Bayerns Herrn C. die\nGenehmigung zur Erbringung vertragsärztlicher Leistungen in der Filiale in der Musterstraße in S-Stadt.\n10\nAm selben Tag fasste der Zulassungsausschuss Ärzte Oberfranken den Beschluss, dass die Mitwirkung\nvon Herrn Dr. A. in der überörtlichen Berufsausübungsgemeinschaft mit Herrn C. und Herrn Dr. B. zum\n31.05.2017 ende.\n11\nMit Schreiben vom 27.11.2017 an die Klägerin erklärte die Beklagte die Anfechtung „eines mit Ihnen etwa\nbestehenden Arbeitsverhältnisses“. Gleichzeitig kündigte sie das Arbeitsverhältnis vorsorglich fristlos,\nhilfsweise ordentlich zum 31.12.2017.\n12\nDie Gemeinde E-Stadt kündigte die Praxisräume in E-Stadt zum 31.12.2017.\n13\nIn seiner Sitzung am 06.12.2017 beschloss der Zulassungsausschuss Ärzte Oberfranken, dass die\ngemeinschaftliche Ausübung vertragsärztlicher Tätigkeit in der Berufsausübungsgemeinschaft zwischen\nHerrn C. und Herrn Dr. B. zum 31.12.2017 ende.\n14\nDie Praxis in S-Stadt wurde zum 31.12.2017 geschlossen.\n15\nDie Klägerin erhob am 15.12.2017 die vorliegende Klage zum Arbeitsgericht Bayreuth - Kammer Hof -, mit\nder sie sich gegen die Kündigung vom 27.11.2017 wendete und die Feststellung begehrte, dass das\nArbeitsverhältnis zwischen den Parteien über den 31.12.2017 hinaus zu unveränderten Bedingungen\nfortbestehe.\n16\nDas Arbeitsgericht stellte mit Endurteil vom 03.05.2018 fest, dass das Arbeitsverhältnis zwischen den\nParteien durch die Kündigung der Beklagten vom 27.11.2017 nicht aufgelöst worden sei, sondern über den\n31.12.2017 hinaus zu unveränderten Bedingungen fortbestehe.\n17\nDas Urteil wurde der Beklagten am 23.05.2018 zugestellt.\n18\nDie Beklagte legte gegen das Urteil am 08.06.2018 Berufung ein und begründete sie am 20.07.2018.\n19\nDie Beklagte macht geltend, ein etwaiger Arbeitsvertrag mit der Klägerin sei gemäß den §§ 117, 134 BGB\nnichtig. Herr Dr. A. sei zum Abschluss des Arbeitsvertrags weder gesellschaftsvertraglich noch\nrechtsgeschäftlich befugt gewesen.\n20\nDie Beklagte führt aus, der Hauptbetriebssitz sei in S-Stadt gewesen. Vom Hauptbetriebssitz aus seien\nSteuerung, Organisation und Verwaltung erfolgt. Ärzte und sonstiges Praxispersonal seien an den\neinzelnen Standorten in wechselnder Zusammensetzung zum Einsatz gekommen. Mieter aller Praxisräume\nsei Herr Dr. A. gewesen.\n21\nDie Beklagte macht geltend, Herr Dr. A. habe seine Praxis in die Gesellschaft eingebracht und habe sie\ndeshalb gar nicht verkaufen können. Der Vertrag sei nicht umgesetzt worden. Die dort in Bezug\ngenommenen Anlagen (Inventar, Dauerschuldverhältnisse) seien nie erstellt worden. Die\nRechnungsabgrenzung sei nicht durchgeführt, ein Kaufpreis nicht gezahlt worden.\n22\nDie Beklagte macht geltend, mit Gesellschafterbeschluss vom 07.11.2017 sei die überörtliche\nBerufsausübungsgemeinschaft zum 31.12.2017 aufgelöst worden. Die Arbeitsverhältnisse mit allen\nMitarbeitern seien beendet worden. Bereits vorher hätten selbst gekündigt der angestellte Arzt G., der Arzt\nim Praktikum H. und die Praxismanagerin I. Sie, die Beklagte, habe Frau J., Frau K., Herrn Alexander L.,\nHerrn Constantin M., Frau N., Frau O., Frau P., Frau Q., Frau R., Frau S., der Klägerin sowie den\nAuszubildenden Frau T., Frau U., Frau V. und Frau W. gekündigt.\n23\nDr. B. betreibe in F-Stadt seit Januar 2018 allein eine Kleinstpraxis mit einem hälftigen Versorgungsauftrag.\nHerr C. habe mit Dr. med. Franziska X. zum 01.01.2018 eine neue Gesellschaft des bürgerlichen Rechts\ngegründet und betreibe mit ihr eine Praxis in der Muster Straße 2 in Y-Stadt. Diese Gesellschaft unterhalte\nFilialpraxen in Z-Stadt, F-Stadt und E-Stadt. In E-Stadt werde ein EKG-Gerät aus der Praxis in S-Stadt\nverwendet. Die übrige Einrichtung aus S-Stadt sei dort verblieben oder sei entsorgt worden. Die sächlichen\nBetriebsmittel aus der Praxis in E-Stadt habe sich Dr. A. angeeignet, die jetzt dort betriebene Praxis sei\nkomplett neu ausgestattet worden.\n24\nIn S-Stadt werde keine Praxis betrieben.\n25\nDie in der alten überörtlichen Berufsausübungsgemeinschaft als sog. erste Kraft tätige Frau K. sei in der\nneuen überörtlichen Berufsausübungsgemeinschaft als einfache Arzthelferin tätig, hauptsächlich bei Frau\nDr. X. in Y-Stadt. Frau N. sei Frau Dr. X. zugeordnet und werde an allen Standorten eingesetzt.\n26\nDie Beklagte beantragt,\nI. Das Urteil des Arbeitsgericht Bayreuth - Kammer Hof - Az. 4 Ca 932/27, verkündet am 03.05.2018, wird\nabgeändert.\nII. Die Klage wird abgewiesen.\nIII. Die Klägerin hat die Kosten beider Rechtszüge zu tragen.\n27\nDie Klägerin beantragt,\ndie Berufung kostenpflichtig zurückzuweisen.\n28\nDie Klägerin macht geltend, sie sei seit 01.12.1985 beschäftigt gewesen.\n29\nSie sei für das Personal in allen drei Betriebsstätten zuständig gewesen und habe an den Vormittagen\ninsbesondere in der Praxis in E-Stadt Tätigkeiten erbracht. Gegen 15:00 Uhr sei sie nach S-Stadt gefahren\nund habe mit der damaligen Schülerin, Frau W., Aufgaben einer Arzthelferin erledigt. Sie sei in allen Praxen\nvertretungsweise bei Krankheit und Urlaub der Mitarbeiterinnen tätig gewesen.\n30\nDie Klägerin führt aus, die Praxen in E-Stadt und F-Stadt würden von den Gesellschaftern C. und B. weiter\nbetrieben. Sämtliche materiellen und immateriellen Betriebsmittel, vor allem Praxisinventar und\nPatientenkarteien der drei Praxen seien den Beklagten übergeben worden. Die neue GbR des Dr. C. nutze\ndiese in vollem Umfang, ebenso wie den anderen Betriebsteil in F-Stadt der dortige Dr. B.. Patienten,\nMitarbeiterinnen und Lieferanten seien ebenfalls übernommen worden. Von Dr. B. und von Herrn C. würden\ndie Patienten behandelt, die schon zuvor Patienten der Gemeinschaftspraxis gewesen seien. Die Patienten,\ndie in S-Stadt behandelt worden seien, seien durch ein Schild an der Praxis in S-Stadt nach E-Stadt\numgeleitet worden. Das Schild habe jedenfalls bis April 2018 an der Praxistür in S-Stadt gehangen.\n31\nDie Klägerin macht geltend, es handele sich daher um einen Teilbetriebsübergang auf den Gesellschafter\nDr. B. und einen weiteren Teilbetriebsübergang auf den Gesellschafter C., wobei der Betriebsteil C. in\ndessen neuer GbR mit Dr. X. aufgegangen sei.\n32\nIn E-Stadt würden bei Herrn C. weiterbeschäftigt die Mitarbeiterinnen Frau K., Frau N., Frau Q. und Frau\nW.. Frau O. arbeite bei Herrn Dr. B. weiter.\n33\nWegen des weitergehenden Vorbringens der Parteien in tatsächlicher und rechtlicher Hinsicht wird auf die\nzwischen ihnen gewechselten Schriftsätze Bezug genommen.\n34\nEine Beweisaufnahme hat nicht stattgefunden.\nEntscheidungsgründe\n35\nDie Berufung ist zulässig. Sie ist statthaft, § 64 Absatz 1 und Absatz 2 c) ArbGG, sowie form- und\nfristgerecht eingelegt und begründet worden, § 66 Absatz 1 Satz 1 und 2 ArbGG.\n36\nDie Berufung ist nur teilweise begründet.\n37\nDem Arbeitsgericht ist zunächst darin zuzustimmen, dass zwischen der Beklagten und der Klägerin ein\nArbeitsverhältnis zustande gekommen ist. Dabei kann dahinstehen, ob der Arbeitsvertrag vom 01.04.2016\nwirksam abgeschlossen worden ist. Zweifel hieran bestehen deshalb, weil eine wirksame Vertretung der\nüberörtlichen Berufsausübungsgemeinschaft möglicherweise nicht vorlag. Der Arbeitsvertrag wurde\nzwischen der Klägerin und der überörtlichen Berufsausübungsgemeinschaft geschlossen. Letztere war\ndabei durch Herrn Dr. A. vertreten. Gemäß § 7 des Vertrags über die Errichtung einer überörtlichen\nBerufsausübungsgemeinschaft vom 14.11.2013 erfolgte die rechtsgeschäftliche Vertretung der\nüberörtlichen Berufsausübungsgemeinschaft durch alle drei Gesellschafter gemeinsam.\n38\nDurch den Arbeitsvertrag vom 01.04.2016 wurde ein Arbeitsverhältnis indes nicht begründet. Ein\nArbeitsverhältnis mit Herrn Dr. A. bestand mindestens seit 01.01.1995. Dies ergibt sich aus dem\nArbeitsvertrag vom 25.10.2005, den die Klägerin vorgelegt hat. Nach den ebenfalls von der Klägerin\nvorgelegten Arbeitsverträgen vom 18.07.2011 und 28.03.2013 erfolgte ihre Beschäftigung ab 16.07.2011\nals Managerin des Landarztzentrums.\n39\nDas Arbeitsverhältnis zwischen der Klägerin und Herrn Dr. A. ist zum 01.01.2014 auf die überörtliche\nBerufsausübungsgemeinschaft übergegangen. Dies ergibt sich bereits aus § 4 des Vertrags über die\nErrichtung einer überörtlichen Berufsausübungsgemeinschaft vom 14.11.2013. Danach trat die überörtliche\nBerufsausübungsgemeinschaft in alle am 01.01.2014 für die Einzelpraxis laufenden Verträge ein. Hierunter\nfallen auch die Arbeitsverträge.\n40\nEine Anfechtung des Arbeitsvertrags würde somit nicht dazu führen, dass der Bestand des\nArbeitsverhältnisses in Frage stünde. Ob die darin vereinbarte Vergütung für die Beklagte bindend,\ninsbesondere angemessen ist, war hier nicht zu entscheiden.\n41\nDas Arbeitsverhältnis ist nicht durch die fristlose Kündigung der Beklagten beendet worden. Es liegen keine\nTatsachen vor, die eine Fortsetzung des Arbeitsverhältnisses auch nur bis zum Ende der Kündigungsfrist\nals für die Beklagte unzumutbar erscheinen lassen, § 626 Absatz 1 BGB. Insbesondere hat die Beklagte\nderartige Tatsachen nicht vorgetragen. Soweit sie sich auf betriebsbedingte Gründe beruft, können diese\neine fristlose Kündigung nicht rechtfertigen.\n42\nDas Arbeitsverhältnis zwischen den Parteien ist allerdings durch die ordentliche, auf betriebliche Gründe\ngestützte Kündigung vom 27.11.2017 beendet worden, § 620 Absatz 2 BGB.\n43\nDie Kündigung ist wirksam.\n44\nSie verstößt nicht gegen § 613 a Absatz 4 BGB. Insbesondere liegt entgegen der Auffassung der Klägerin\nweder ein Übergang des gesamten Betriebs noch eines Teils des Betriebs vor.\n45\nBetriebsveräußerung und Betriebsstilllegung schließen sich systematisch aus. Dabei kommt es auf das\ntatsächliche Vorliegen des Kündigungsgrundes und nicht auf die vom Arbeitgeber gegebene Begründung\nan. Eine vom Arbeitgeber mit einer Stilllegungsabsicht begründete Kündigung ist nur dann sozial\ngerechtfertigt, wenn sich die geplante Maßnahme objektiv als Betriebsstilllegung und nicht als\nBetriebsveräußerung darstellt, weil etwa die für die Fortführung des Betriebes wesentlichen Gegenstände\neinem Dritten überlassen werden sollten, der Veräußerer diesen Vorgang aber rechtlich unzutreffend als\nBetriebsstilllegung wertet (Bundesarbeitsgericht - Urteil vom 16.02.2012 - 8 AZR 693/10; juris).\n46\nNach ständiger Rechtsprechung des Bundesarbeitsgerichts sowie des Europäischen Gerichtshofs, der das\nerkennende Gericht folgt, liegt ein Betriebsübergang oder Betriebsteilübergang iSd § 613 a Absatz 1 vor,\nwenn ein neuer Rechtsträger eine bestehende wirtschaftliche Einheit unter Wahrung ihrer Identität fortführt.\nDabei muss es um eine auf Dauer angelegte Einheit gehen, deren Tätigkeit nicht auf die Ausführung eines\nbestimmten Vorhabens beschränkt ist. Um eine solche Einheit handelt es sich bei jeder hinreichend\nstrukturierten und selbständigen Gesamtheit von Personen und Sachen zur Ausübung einer wirtschaftlichen\nTätigkeit mit eigenem Zweck. Den für das Vorliegen eines Übergangs maßgebenden Kriterien kommt je\nnach der ausgeübten Tätigkeit und je nach den Produktions- oder Betriebsmethoden unterschiedliches\nGewicht zu. Bei der Prüfung, ob eine solche Einheit ihre Identität bewahrt, müssen sämtliche den\nbetreffenden Vorgang kennzeichnenden Tatsachen berücksichtigt werden. Dazu gehören namentlich die Art\ndes Unternehmens oder Betriebs, der etwaige Übergang der materiellen Betriebsmittel wie Gebäude und\nbewegliche Güter, der Wert der immateriellen Aktiva im Zeitpunkt des Übergangs, die etwaige Übernahme\nder Hauptbelegschaft durch den neuen Inhaber, der etwaige Übergang der Kundschaft sowie der Grad der\nÄhnlichkeit zwischen den vor und nach dem Übergang verrichteten Tätigkeiten und die Dauer einer\neventuellen Unterbrechung dieser Tätigkeiten. Diese Umstände sind jedoch nur Teilaspekte der\nvorzunehmenden Gesamtbewertung und dürfen deshalb nicht isoliert betrachtet werden. Kommt es im\nWesentlichen auf die menschliche Arbeitskraft an, kann eine strukturierte Gesamtheit von Arbeitnehmern\ntrotz des Fehlens nennenswerter materieller oder immaterieller Vermögenswerte eine wirtschaftliche Einheit\ndarstellen. Wenn eine Einheit ohne nennenswerte Vermögenswerte funktioniert, kann die Wahrung ihrer\nIdentität nach ihrer Übernahme nicht von der Übernahme derartiger Vermögenswerte abhängen. Die\nWahrung der Identität der wirtschaftlichen Einheit ist in diesem Fall anzunehmen, wenn der neue\nBetriebsinhaber nicht nur die betreffende Tätigkeit weiterführt, sondern auch einen nach Zahl und\nSachkunde wesentlichen Teil des Personals übernimmt. Hingegen stellt die bloße Fortführung der Tätigkeit\ndurch einen anderen (Funktionsnachfolge) ebenso wenig einen Betriebsübergang dar wie die reine\nAuftragsnachfolge. Fehlten nennenswerte materielle oder immaterielle Vermögenswerte oder wurden sie\nnicht übernommen, so ist von einer Wahrung der Identität der wirtschaftlichen Einheit dann auszugehen,\nwenn der neue Betriebsinhaber nicht nur die betreffende Tätigkeit weiterführt, sondern auch einen nach\nZahl und Sachkunde wesentlichen Teil des Personals übernimmt (vgl. Bundesarbeitsgericht ‒ Urteil vom\n19.03.2015 ‒ 8 AZR 150/14; juris). Nur wenn vor einem behaupteten Übergang eine wirtschaftliche Einheit\nbesteht, stellt sich die Frage der Wahrung ihrer Identität und damit die Frage eines\nBetriebs(teil)überganges. Auch für eine zutreffende Bewertung der Übernahme von Personal im Rahmen\neiner vorzunehmenden Gesamtbewertung ist es von ausschlaggebender Bedeutung, die Identität einer\ngegebenenfalls bestehenden wirtschaftlichen Einheit zu bestimmen. Die Kriterien Zahl und Sachkunde des\nweiterbeschäftigten Personals stehen nicht beziehungslos nebeneinander, sondern beeinflussen sich\nwechselseitig (vgl. Bundesarbeitsgericht ‒ Urteil vom 22.01.2015 ‒ 8 AZR 139/14; juris).\n47\nGemessen an diesen Kriterien hat vorliegend ein Betriebsübergang nicht stattgefunden.\n48\nDie Klägerin ist für die Tatsachen, die einen Betriebsübergang begründen, darlegungs- und beweispflichtig.\n49\nAus dem Sachvortrag der Klägerin ergibt sich bereits nicht, inwiefern ein Betrieb als Ganzes oder ein\nTeilbetrieb auf welchen Erwerber übergegangen sein soll. So macht die Klägerin sowohl geltend, der\nursprüngliche Betrieb sei übergegangen, als sie sich auch darauf beruft, es habe einen\nTeilbetriebsübergang auf den Gesellschafter Dr. B. und einen Teilbetriebsübergang auf den Gesellschafter\nC. gegeben, wobei der Betriebsteil C. in dessen neuer GbR mit Frau Dr. X. aufgegangen sei. Aus dem\nVorbringen der Klägerin ergibt sich indes weder, dass überhaupt Teilbetriebe vorgelegen haben, noch,\nwelchem Teilbetrieb sie zuzuordnen war.\n50\nNach Auffassung des erkennenden Gerichts gab es einen Betrieb. Dieser bestand aus den Betriebsstätten\nS-Stadt, E-Stadt und F-Stadt. Dagegen gab es keine Teilbetriebe.\n51\nEin Teilbetrieb setzt in Anlehnung an § 4 Absatz 1 Satz 1 Ziffer 2 BetrVG eine selbständige abtrennbare\norganisatorische Einheit voraus, mit der innerhalb des betrieblichen Gesamtzweckes ein Teilzweck verfolgt\nwird.\n52\nZweck der überörtlichen Berufsausübungsgemeinschaft war die gemeinsame Ausübung vertragsärztlicher\nTätigkeit an unterschiedlichen Vertragsarztsitzen. Zu diesem Zweck wurde die überörtliche\nBerufsausübungsgemeinschaft gegründet, wie sich aus dem Genehmigungsbeschluss des\nZulassungsausschusses Ärzte Oberfranken vom 26.02.2014 (Bl. 209 d.A.) ergibt.\n53\nZwar erfolgte die Betreuung der Patienten, bedingt durch den räumlichen Abstand der Praxen, eher\nortsbezogen. Insofern kann ein Teilzweck angenommen werden. Die einzelnen Praxen bildeten indes keine\neigene organisatorische Einheit.\n54\nNach dem nicht bestrittenen Vorbringen der Beklagten befand sich der Hauptbetriebssitz der überörtlichen\nBerufsausübungsgemeinschaft in S-Stadt. Dies wird im Übrigen durch den o.g. Beschluss des\nZulassungsausschusses Ärzte Oberfranken bestätigt, wonach der Vertragsarztsitz S-Stadt als\nHauptbetriebsstätte gewählt worden sei. Die Klägerin bestreitet auch nicht, dass vom Hauptbetriebssitz aus\nSteuerung, Organisation und Verwaltung der überörtlichen Berufsausübungsgemeinschaft erfolgten und\nÄrzte und sonstiges Praxispersonal an den einzelnen Standorten in wechselnder Zusammensetzung zum\nEinsatz gekommen seien. Vielmehr führt sie selbst aus, sie sei für das Personal in allen drei Betriebsstätten\nzuständig gewesen, habe in E-Stadt und in S-Stadt Tätigkeiten erbracht und sei in allen Praxen\nvertretungsweise bei Krankheit und Urlaub der Mitarbeiterinnen zum Einsatz gekommen.\n55\nEs ist somit nicht feststellbar, dass es sich bei den einzelnen Praxen in S-Stadt, E-Stadt und F-Stadt um\nabtrennbare organisatorische Einheiten handelte.\n56\nSelbst wenn es sich bei den drei Praxen um drei Teilbetriebe gehandelt hätte, wäre die Kündigung der\nKlägerin nicht nach § 613 a Absatz 4 BGB unwirksam. Die Klägerin wäre keinem der drei Praxen\nzuzuordnen. Eine solche Zuordnung könnte allenfalls zum Hauptsitz S-Stadt angenommen werden. Diese\nPraxis ist indes unstreitig zum 31.12.2017 stillgelegt worden und wird nicht fortgeführt.\n57\nDer ursprüngliche Betrieb ist stillgelegt.\n58\nEine überörtliche Berufsausübungsgemeinschaft, mit der mehrere Ärzte gemeinsam vertragsärztliche\nTätigkeiten ausüben, stellt einen betriebsmittelarmen Betrieb dar.\n59\nEine Arztpraxis ist darauf gerichtet, Patienten medizinisch zu versorgen. Hierzu bedarf es neben der im\nVordergrund stehenden ärztlichen Leistung einer Organisation. So sind Mitarbeiter erforderlich, die\nmedizinisch-technische wie auch verwaltungsmäßige Aufgaben erledigen. Ferner sind bestimmte\nRäumlichkeiten wie Wartezimmer, Untersuchungszimmer, Behandlungsräume, Labor erforderlich. Daneben\ngehören zu einer Arztpraxis medizinische Geräte, die der Untersuchung und Behandlung dienen.\nSchließlich bedarf der Betrieb einer Arztpraxis einer Büroausstattung, mit der die verwaltungstechnische\nAbwicklung der Behandlungen erfolgen kann.\n60\nIm Mittelpunkt einer Arztpraxis steht die Betreuung der Patienten durch die Ärzte und die nichtärztlichen\nmedizinischen Mitarbeiter. Gerade wie im vorliegenden Fall kommt dazu, dass, anders als beispielsweise in\neiner Universitätsklinik, der persönliche Bezug zwischen Patient und Arzt groß ist und das Verhältnis Arzt-\nPatient von einem besonderen Vertrauen geprägt ist.\n61\nWie das Bundesarbeitsgericht in seiner Entscheidung vom 22.06.2012 (8 AZR 107/10; juris) ausführt, kann\ndies zwar anders sein, wenn die Praxis vor allem wegen der medizinischen Untersuchungs- bzw.\nBehandlungsgeräte aufgesucht wird. Eine solche Praxis hat die Beklagte indes nicht betrieben.\n62\nDanach setzt ein Betriebsübergang voraus, dass eine Fortführung der Arztpraxen mit einem wesentlichen\nTeil des Personals erfolgt.\n63\nDies ist nicht der Fall.\n64\nVon den ursprünglich drei Praxen werden lediglich zwei fortgeführt, die in E-Stadt und die in F-Stadt. Dies\nerfolgt indes nicht durch die beklagten Ärzte. Vielmehr führt Dr. B. die Praxis in F-Stadt allein fort, Herr C.\ndie Praxis in E-Stadt in einer überörtlichen Berufsausübungsgemeinschaft mit Frau Dr. X..\n65\nDies ergibt sich aus dem Sachvortrag der Beklagten, den die Klägerin nicht bestreitet.\n66\nDas nichtärztliche Personal ist von keinem der beiden Ärzte überwiegend übernommen worden.\n67\nNach dem Vorbringen der Klägerin beschäftigte die Beklagte über 10 Mitarbeiter. Die Beklagte hat\nausgeführt, zum Zeitpunkt der Kündigung seien neben der Klägerin 10 Arbeitnehmer und vier\nAuszubildende beschäftigt gewesen.\n68\nVon diesen wird nach dem Vorbringen der Klägerin Frau O. beschäftigt, allerdings nicht von den Beklagten,\nsondern von Herrn Dr. B. allein.\n69\nDie Klägerin trägt darüber hinaus vor, Frau K., Frau N., Frau Q. und Frau W. würden von Herrn C. in der\nPraxis in Berg beschäftigt.\n70\nDie Beklagte führt selbst aus, dass Frau K. und Frau N. in der neuen überörtlichen\nBerufsausübungsgemeinschaft angestellt seien. Aus seinem Sachvortrag ergibt sich außerdem, dass Frau\nW. weiter ausgebildet wird. Zu dem Vorbringen, es sei auch Frau Q. übernommen worden, hat sich die\nBeklagte nicht geäußert, der diesbezügliche Sachvortrag der Klägerin gilt daher als zugestanden, § 138\nAbsatz 4 ZPO.\n71\nAuch wenn man danach davon ausgeht, dass in der überörtlichen Berufsausübungsgemeinschaft zwischen\nHerrn C. und Frau Dr. X. drei der ehemaligen Mitarbeiter und eine Auszubildende weiterbeschäftigt werden,\ngenügt dies nicht, um einen Betriebsübergang zu begründen.\n72\nSoweit sich die Klägerin auf den Praxisübernahmevertrag zwischen Herrn Dr. A. und Herrn C. vom\n18.05.2017 beruft, kann dies einen Betriebsübergang nicht begründen.\n73\nDie Beklagte wendet hiergegen ein, der Praxisübernahmevertrag sei nie umgesetzt worden. Die Klägerin ist\ndiesem Sachvortrag nicht entgegengetreten. Insbesondere hat sie nicht vorgetragen, dass es eine Anlage\nim Sinne der Ziffer 7.1 des Übernahmevertrags gegeben habe, in der ihr Arbeitsverhältnis aufgeführt\ngewesen sei.\n74\nEin Betriebsübergang im Sinne des § 613 a Absatz 1 BGB hätte es aufgrund des Übernahmevertrags nicht\nohne ausdrückliche Regelung der Übernahme der Arbeitsverhältnisse gegeben. Der Vertrag diente\nersichtlich dazu, Herrn C. unter sozialrechtlichen Gesichtspunkten die Weiterführung der Praxis als\nNachfolger von Herrn Dr. A. zu ermöglichen. Dies ergibt sich aus den Ziffern 11.2 und 11.3 des Vertrags.\nHerr Dr. A. hatte seine Zulassung zurückgegeben. Es war daher ein Nachbesetzungsverfahren gemäß §\n103 Absatz 4 SGB V durchzuführen. In diesen Fällen führt der Verkauf einer Praxis nicht zu einem\nBetriebsübergang (Bundesarbeitsgericht - Urteil vom 22.06.2011 - 8 AZR 107/10; juris).\n75\nDie Kündigung ist sozial gerechtfertigt, § 1 Absatz 1 KSchG. Es liegen dringende betriebliche Gründe vor,\ndie einer Weiterbeschäftigung der Klägerin entgegenstehen, § 1 Absatz 2 Satz 1 KSchG.\n76\nDer Betrieb der Beklagten, so wie er sich nach den obigen Ausführungen darstellt, ist zum 31.12.2017\nstillgelegt worden.\n77\nAuch wenn sowohl Herr Dr. B. als auch Herr C. weiterhin als Ärzte tätig sind, geschieht dies dennoch nicht\nim Rahmen des bisherigen Betriebs.\n78\nInfolge der Stilllegung des Betriebs ist der Beschäftigungsbedarf für die Klägerin entfallen.\n79\nDie Klägerin war, wie sich aus den von ihr vorgelegten Arbeitsverträgen vom 18.07.2011, 28.03.2013 und\n01.04.2016 ergibt, ab 16.07.2011 als Managerin des Landarztzentrums beschäftigt. Mit dem Wegfall der\nüberörtlichen Berufsausübungsgemeinschaft entfiel auch die Notwendigkeit, die verschiedenen Praxen zu\norganisieren und zu koordinieren.\n80\nSoweit sich die Klägerin darauf beruft, die Beklagte habe eine soziale Auswahl vornehmen müssen, ist dem\nzwar im Grundsatz zuzustimmen, wie sich aus § 1 Absatz 3 KSchG ergibt. Zum einen hat die Beklagte\nindes allen Arbeitnehmern gekündigt, zum anderen hätte die Klägerin vortragen müssen, wer mit ihr\nvergleichbar war und wer vor ihr hätte gekündigt werden müssen.\n81\nDie Kündigung erweist sich somit unter allen rechtlichen Gesichtspunkten als wirksam.\n82\nAufgrund der seit mindestens 01.01.1995 bestehenden Beschäftigungsdauer beträgt die Kündigungsfrist\nsieben Monate zum Monatsende, § 622 Absatz 2 Ziffer 7 BGB.\n83\nDas Kündigungsschreiben ging der Klägerin im November 2017 zu. Die Klägerin macht zwar geltend, der\nZugang der Kündigung sei erst im Dezember 2017 gewesen.\n84\nDem kann indes nicht gefolgt werden.\n85\nDie Beklagte führt aus, Herr C. habe das Kündigungsschreiben im Beisein von Frau W. am 27.11.2017 in\nden zur Wohnanschrift der Klägerin gehörenden Briefkasten eingeworfen. Dem ist die Klägerin nicht\nsubstantiiert entgegengetreten. Die Klägerin hat hierzu lediglich ausgeführt, das Kündigungsschreiben habe\nam 02.12.2017 im Briefkasten gelegen. Dies schließt nicht aus, dass das Schreiben am 27.11.2017\neingeworfen wurde. Insbesondere ergibt sich daraus nicht, dass die Klägerin den Briefkasten vor dem\n02.02.2017 kontrollierte und ein Brief der Beklagten nicht vorhanden war.\n86\nDas Arbeitsverhältnis endete somit mit Ablauf des 30.06.2018.\n87\nInsoweit war das Ersturteil abzuändern und die Klage teilweise abzuweisen.\n88\nDie Kostenentscheidung beruht auf § 91 Absatz 1 ZPO.\n89\nDie Klägerin kann gegen dieses Urteil Revision einlegen. Die Revision wurde gemäß § 72 Absatz 2 Ziffer 1\nArbGG wegen der Frage, wie der Betriebsbegriff in Fällen der vorliegenden Art (ärztliche überörtliche\nBerufsausübungsgemeinschaft) zu definieren ist, zugelassen.\n\n"
+}

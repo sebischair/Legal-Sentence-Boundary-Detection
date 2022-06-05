@@ -1,0 +1,311 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kundeninformationen",
+            "end": 40,
+            "start": 21,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 234,
+            "start": 228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 345,
+            "start": 336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 378,
+            "start": 371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 399,
+            "start": 384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 497,
+            "start": 491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 562,
+            "start": 557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 672,
+            "start": 669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 787,
+            "start": 785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 875,
+            "start": 868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1015,
+            "start": 1012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1143,
+            "start": 1133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1281,
+            "start": 1273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1386,
+            "start": 1378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1474,
+            "start": 1466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextes",
+            "end": 1529,
+            "start": 1515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 1649,
+            "start": 1638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrufen",
+            "end": 1771,
+            "start": 1763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugreifen",
+            "end": 1914,
+            "start": 1905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturhinweis",
+            "end": 1955,
+            "start": 1939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 2047,
+            "start": 2036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeiten",
+            "end": 2141,
+            "start": 2119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 2241,
+            "start": 2234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodex",
+            "end": 2281,
+            "start": 2266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 2345,
+            "start": 2343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2368,
+            "start": 2350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2441,
+            "start": 2433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährung",
+            "end": 2494,
+            "start": 2484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 2531,
+            "start": 2511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 2591,
+            "start": 2571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebrauchtware",
+            "end": 2693,
+            "start": 2680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "laufen",
+            "end": 2799,
+            "start": 2793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 2872,
+            "start": 2868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 3023,
+            "start": 3017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3263,
+            "start": 3258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fristen",
+            "end": 3330,
+            "start": 3323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Frist",
+            "end": 3418,
+            "start": 3413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmern",
+            "end": 3502,
+            "start": 3490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 3603,
+            "start": 3589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 3660,
+            "start": 3651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 3680,
+            "start": 3662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkung",
+            "end": 3705,
+            "start": 3685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 3980,
+            "start": 3971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertreter",
+            "end": 4081,
+            "start": 4072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 4226,
+            "start": 4215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 4311,
+            "start": 4300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 4345,
+            "start": 4332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4467,
+            "start": 4463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherinformation",
+            "end": 4496,
+            "start": 4474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegungsverfahren",
+            "end": 4547,
+            "start": 4522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 4676,
+            "start": 4664,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich, Kundeninformationen\nDie folgenden allgemeinen Geschäftsbedingungen (AGB) regeln das Vertragsverhältnis zwischen ukw24 GmbH (screenmaxx.com) und den Verbrauchern und Unternehmern, die über unseren Shop Waren kaufen. Entgegenstehende oder von unseren Geschäftsbedingungen abweichende Bedingungen werden von uns nicht anerkannt. Die Vertragssprache ist Deutsch.\n§ 2 Vertragsschluss\n(1) Die Angebote im Internet stellen eine unverbindliche Aufforderung an Sie dar, Waren zu kaufen.\n(2) Sie können ein oder mehrere Produkte in den Warenkorb legen. Im Laufe des Bestellprozesses geben Sie Ihre Daten und Wünsche bzgl. Zahlungsart, Liefermodalitäten etc. ein. Erst mit dem Anklicken des Bestellbuttons geben Sie ein verbindliches Angebot auf Abschluss eines Kaufvertrags ab. Sie können eine verbindliche Bestellung aber auch telefonisch oder per Telefax abgeben. Die unverzüglich per E-Mail bzw. per Telefax erfolgende Zugangsbestätigung Ihrer Bestellung stellt noch keine Annahme des Kaufangebots dar.\n(3) Wir sind berechtigt, Ihr Angebot innerhalb von 2 Werktagen unter Zusendung einer Auftragsbestätigung per E-Mail anzunehmen. Nach fruchtlosem Ablauf der in Satz 1 genannten Frist gilt Ihr Angebot als abgelehnt, d.h. Sie sind nicht länger an Ihr Angebot gebunden. Bei einer telefonischen Bestellung kommt der Kaufvertrag zustande, wenn wir Ihr Angebot sofort annehmen. Wird das Angebot nicht sofort angenommen, dann sind Sie auch nicht mehr daran gebunden.\n§ 3 Kundeninformation: Speicherung des Vertragstextes\nIhre Bestellung mit Einzelheiten zum geschlossenen Vertrag (z.B. Art des Produkts, Preis etc.) wird von uns gespeichert. Die AGB schicken wir Ihnen zu, Sie können die AGB aber auch nach Vertragsschluss jederzeit über unsere Webseite aufrufen. Als registrierter Kunde können Sie auf Ihre vergangenen Bestellungen über den Kunden LogIn-Bereich (www.screenmaxx.com/users/login) zugreifen.\n§ 4 Kundeninformation: Korrekturhinweis\nSie können Ihre Eingaben vor Abgabe der Bestellung jederzeit mit der Löschtaste berichtigen. Wir informieren Sie auf dem Weg durch den Bestellprozess über weitere Korrekturmöglichkeiten. Den Bestellprozess können Sie auch jederzeit durch Schließen des Browser-Fensters komplett beenden.\n§ 5 Kundeninformation: Verhaltenskodex\nWir haben uns folgendem Verhaltenskodex unterworfen: www.ehi.de\n§ 6 Eigentumsvorbehalt\nDer Kaufgegenstand bleibt bis zur vollständigen Bezahlung unser Eigentum.\n§ 7 Gesetzliche Mängelhaftungsrechte und Verjährung\n(1) Gesetzliche Mängelhaftungsrechte: Für unsere Waren bestehen gesetzliche Mängelhaftungsrechte.\n(2) Einschränkung der Mängelhaftungsrechte (Gewährleistung) gegenüber Verbrauchern bei Gebrauchtware. Für Ihre Mängelansprüche bestehen zwei Fristen, die beide ab Ablieferung der Gebrauchtware an Sie laufen. Die Haftungsfrist für Mängel verkürzen wir von zwei Jahren auf ein Jahr. Mängel, die innerhalb dieser Haftungsfrist auftreten, können Sie aber bis zum Ablauf der gesetzlichen Verjährungsfrist von zwei Jahren geltend machen. Von der Verkürzung der Haftungsfrist ausgenommen sind Schadensersatzansprüche, Ansprüche wegen Mängeln, die wir arglistig verschwiegen haben, und Ansprüche aus einer Garantie, die wir ggf. für die Beschaffenheit der Sache übernommen haben. Für diese ausgenommenen Ansprüche gelten die gesetzlichen Fristen. Bei Vorliegen einer Garantiefrist gilt zugunsten des Garantienehmers die längere Frist.\n(3) Einschränkung der Mängelhaftungsrechte (Gewährleistung) gegenüber Unternehmern: Ihre Gewährleistungsansprüche wegen Mängeln der Kaufsache verjähren in einem Jahr ab Gefahrübergang. Von dieser Regelung ausgenommen sind folgende Ansprüche: Sonderbestimmungen\n§ 8 Haftungsbeschränkung\nWir schließen die Haftung für leicht fahrlässige Pflichtverletzungen aus, sofern diese keine vertragswesentlichen Pflichten, Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, Garantien oder Ansprüche nach dem Produkthaftungsgesetz (ProdHaftG) betreffen. Gleiches gilt für Pflichtverletzungen unserer Erfüllungsgehilfen und unserer gesetzlichen Vertreter. Zu den vertragswesentlichen Pflichten gehört insbesondere die Pflicht, Ihnen die Sache zu übergeben und Ihnen das Eigentum daran zu verschaffen. Weiterhin haben wir Ihnen die Sache frei von Sach- und Rechtsmängeln zu verschaffen.\n§ 9 Kaufmännischer Gerichtsstand\nAusschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag ist unser Geschäftssitz, wenn Sie Kaufmann sind.\n§ 10 Verbraucherinformation: Nichtteilnahme an einem Streitbeilegungsverfahren\nWir sind weder bereit noch verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\n"
+}

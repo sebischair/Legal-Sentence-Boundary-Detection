@@ -1,0 +1,485 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Fassung",
+            "end": 230,
+            "start": 223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geltung",
+            "end": 7,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 313,
+            "start": 307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausdrucken",
+            "end": 436,
+            "start": 426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsverhältnis",
+            "end": 456,
+            "start": 438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 501,
+            "start": 492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 555,
+            "start": 548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freibleibend",
+            "end": 658,
+            "start": 646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsabschluss",
+            "end": 876,
+            "start": 859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschickt",
+            "end": 1147,
+            "start": 1137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1096,
+            "start": 1088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 752,
+            "start": 749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Euro",
+            "end": 800,
+            "start": 796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 1035,
+            "start": 1026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1268,
+            "start": 1262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 1436,
+            "start": 1430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Firmenstandort",
+            "end": 1493,
+            "start": 1479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 1525,
+            "start": 1506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 1615,
+            "start": 1607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 1696,
+            "start": 1689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 1755,
+            "start": 1754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 1852,
+            "start": 1842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 1919,
+            "start": 1912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 2073,
+            "start": 2065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 1976,
+            "start": 1964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Österreichs",
+            "end": 2189,
+            "start": 2178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2440,
+            "start": 2438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2261,
+            "start": 2255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shop",
+            "end": 2143,
+            "start": 2139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ungültig",
+            "end": 2370,
+            "start": 2362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nach",
+            "end": 2707,
+            "start": 2703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shop",
+            "end": 2510,
+            "start": 2506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 2601,
+            "start": 2593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bankomatkasse",
+            "end": 2992,
+            "start": 2979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 3096,
+            "start": 3090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufsache",
+            "end": 3126,
+            "start": 3117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellerangaben",
+            "end": 3241,
+            "start": 3224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vereinbarung",
+            "end": 3295,
+            "start": 3283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 3328,
+            "start": 3314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 3347,
+            "start": 3329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 3357,
+            "start": 3348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferanschrift",
+            "end": 3434,
+            "start": 3419,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3523,
+            "start": 3522,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3598,
+            "start": 3597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuführen",
+            "end": 3669,
+            "start": 3658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3755,
+            "start": 3749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewähr",
+            "end": 3986,
+            "start": 3980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3821,
+            "start": 3812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagen",
+            "end": 4117,
+            "start": 4112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuhalten",
+            "end": 3903,
+            "start": 3892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4386,
+            "start": 4382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4630,
+            "start": 4612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besteller",
+            "end": 4811,
+            "start": 4802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 4986,
+            "start": 4975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 5037,
+            "start": 5031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigern",
+            "end": 5243,
+            "start": 5233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzunehmen",
+            "end": 5296,
+            "start": 5285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 5441,
+            "start": 5432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "melden",
+            "end": 5511,
+            "start": 5505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagen",
+            "end": 5651,
+            "start": 5646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 5930,
+            "start": 5921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 5667,
+            "start": 5653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 5869,
+            "start": 5862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "0815",
+            "end": 6125,
+            "start": 6121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellers",
+            "end": 6229,
+            "start": 6218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 6238,
+            "start": 6231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6371,
+            "start": 6366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 6486,
+            "start": 6468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sorgen",
+            "end": 6551,
+            "start": 6545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verursacht",
+            "end": 6801,
+            "start": 6791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klauseln",
+            "end": 6822,
+            "start": 6814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sich",
+            "end": 6957,
+            "start": 6953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzt",
+            "end": 7039,
+            "start": 7032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 7074,
+            "start": 7069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstände",
+            "end": 7116,
+            "start": 7102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegen",
+            "end": 7299,
+            "start": 7293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 7408,
+            "start": 7403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 7657,
+            "start": 7643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstiges",
+            "end": 7668,
+            "start": 7659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 7770,
+            "start": 7758,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Geltung\nLieferungen und Leistungen durch die 0815 Online Handel GmbH (kurz 0815) erfolgen ausschließlich auf Grundlage der nachfolgenden Allgemeinen Geschäftsbedingungen (AGB) in ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Abweichende Regelungen werden nur wirksam, wenn sie schriftlich vereinbart wurden. Der Kunde kann die jeweils gültige Fassung der AGB auf der Internet-Seite von 0815 einsehen, herunterladen und ausdrucken.\nVertragsverhältnis\nVertragspartner sind der Kunde und Anschrift.\nVertrags-, Bestell- und Geschäftssprache ist Deutsch.\nAngaben in unseren Preislisten, Anzeigen, Werbeunterlagen und Internet-Seiten sind stets freibleibend. Wir behalten uns die jederzeitigen Änderungen der darin enthaltenen Angaben ausdrücklich vor. Die Verrechnung erfolgt ausschließlich in Euro.\nBestellungen des Kunden gelten lediglich als Angebot zum Vertragsabschluss. Bestellungen, die über unsere Internet-Seiten aufgegeben werden, gelten als, im Zeitpunkt des Eingangs der elektronischen Bestellnachricht, bei uns erstattet. 0815 kann ein Angebot binnen 7 Werktagen ab Zugang annehmen. Bestellbestätigungen werden per E-Mail verschickt.\nTrotz sorgfältiger Recherche aller Informationen können Irrtümer oder Schreibfehler nicht absolut ausgeschlossen werden. Außerdem handelt es sich bei den auf www.0815.eu dargestellten Produktbildern um Symbolbilder, die nicht zwingend den aktuell lieferbaren Produkten entsprechen müssen.\nErfüllungsort für alle Geschäfte ist der Firmenstandort.\nPreise und Zahlungsbedingungen\nMit Zahlung auf Rechnung bieten wir die Möglichkeit die Ware erst nach Erhalt zu bezahlen. Diese Zahlungsmöglichkeit wird nach einer erfolgreichen Bonitätsprüfung gewährt: siehe Datenschutz \"Bonitätsprüfung nach Zahlartenauswahl\". Wir behalten uns das Recht vor, die Belieferung auf Rechnung ohne Angabe von Gründen abzulehnen. Diese Zahlungsmöglichkeit ist nur für Kunden ab 18 Jahren möglich.\nAngeführte Preise verstehen sich inklusive Umsatzsteuer. Kosten für Verpackung und Versand werden gesondert in Form einer Pauschale in Rechnung gestellt. Diese entnehmen Sie bitte der Rubrik \"Versandkosten\" in unserem Shop.\nAlle Preise gelten nur innerhalb Österreichs. Maßgeblich sind immer die zum Zeitpunkt der Bestellung gültigen Preise. Mit Aktualisierung der Internetseite von 0815 werden alle bisherigen Preise und Angaben über Waren ungültig.\nFür Verpackung, Versand und Versicherung fallen gesonderte Kosten an. Diese entnehmen Sie bitte der Rubrik \"Versandkosten\" in unserem Shop.\nAb einem Bestellwert von € 50,– werden die Versandkosten zum Kunden seitens 0815 erlassen. Fällt bei einer Bestelländerung der Gesamtbetrag auf unter €50,–, verrechnet 0815 die Versandkosten nach.\nDie Zahlung erfolgt im Fall eines Versands der Ware nach der Wahl des Kunden per Vorauskasse oder per elektronischer Zahlung mittels Kreditkarte oder Banküberweisung (Sofort/Klarna). Bei einer Abholung der Ware in einem Ladengeschäft erfolgt die Zahlung in Bar oder per Bankomatkasse.\nBei kostenpflichtigen Überweisungen (z.B.: aus der Schweiz) sind die Spesen vom Auftraggeber zu tragen.\nBeschaffenheit der Kaufsache\nDie dem Vertrag zugrundeliegende Beschaffenheit der Kaufsache ergibt sich ausschließlich aus den Herstellerangaben. Abweichungen bedürfen der schriftlichen Vereinbarung.\nRücktritts- bzw. Widerrufsrecht\nWiderrufsbelehrung\nLieferung\nDer Versand der Ware erfolgt an die vom Besteller angegebene Lieferanschrift.\nBeachten Sie, der Versand von Großgeräten erfolgt nur bis zur Gehsteigkante (Bordstein).\nLieferungen erfolgen per Post oder Spedition (DHL Fracht bei Großgeräten).\n0815 ist in zumutbarem Umfang berechtigt, Teillieferungen auszuführen. Bestellungen können auch durch konzernmäßig verbundene Unternehmen ausgeführt werden. Die Stellung von 0815 als Vertragspartner bleibt davon unberührt.\n0815 ist bemüht, die bekanntgegebenen Liefertermine nach Möglichkeit einzuhalten. Im Übrigen aber sind Liefertermine, auch wenn diese bestätigt wurden, ohne Gewähr.\nLieferungen von 0815 erfolgen im Normalfall innerhalb von 5 Werktagen, jedoch spätestens nach der gesetzlichen Frist von 30 Tagen.\nBeim Versand der Ware bei Verbrauchergeschäften geht die Gefahr für den Verlust oder die Beschädigung der Ware erst auf den Verbraucher über, sobald die Ware an den Verbraucher oder an einen von diesem bestimmten, vom Beförderer verschiedenen Dritten abgeliefert wird. Hat aber der Verbraucher selbst den Beförderungsvertrag geschlossen, ohne dabei eine unsererseits vorgeschlagene Auswahlmöglichkeit zu nützen, so geht die Gefahr bereits mit der Aushändigung der Ware an den Beförderer über.\nEigentumsvorbehalt\nLieferungen von 0815 erfolgen immer unter dem ausdrücklichen Vorbehalt des Eigentums an der gelieferten Ware bis zur vollständigen Bezahlung der Lieferforderung durch den Besteller.\nVor vollständiger Bezahlung der Rechnung ist es dem Besteller untersagt, die Ware zu verpfänden, sicherungsweise zu übereignen oder Dritten sonstige Rechte daran einzuräumen.\nTransportschäden, Untersuchungspflicht des Kunden\nWerden Waren mit offensichtlichen Schäden an der Verpackung oder am Inhalt angeliefert, so hat der Kunde dies sofort beim Spediteur/Frachtdienst/Postmitarbeiter zu reklamieren und die Annahme zu verweigern. Zudem ist unverzüglich mit 0815 Kontakt aufzunehmen.\nNachträglich gemeldete, offensichtliche Transportschäden werden ohne Vermerk beim Spediteur/Frachtdienst/Postmitarbeiter seitens 0815 abgelehnt!\nVerborgene Mängel sind unverzüglich nach Entdecken an 0815 zu melden.\nPakete mit äußerlichen Schäden müssen innerhalb von 1 Tag beim nächsten Postamt reklamiert werden, verdeckte Schäden innerhalb von 7 Tagen.\nGewährleistung\nDie Gewährleistungsansprüche des Kunden gegen 0815 bei Mängeln der gelieferten Ware richten sich nach den gesetzlichen Bestimmungen, soweit sich nicht durch nachstehende Regelungen Abweichungen ergeben. Die Gewährleistungsfrist endet 24 Monate nach der Lieferung.\nSchäden, die durch unsachgemäße oder vertragswidrige Maßnahmen des Kunden bei Aufstellung, Anschluss, Bedienung oder Lagerung der Ware hervorgerufen werden, begründen keinen Anspruch gegen 0815. Die Unsachgemäßheit und Vertragswidrigkeit bestimmt sich insbesondere nach den Angaben des Herstellers.\nHaftung\n0815 haftet für Sachschäden nur dann, wenn 0815 oder ihre Erfüllungsgehilfen diese vorsätzlich oder grob fahrlässig verursacht haben. Für Schäden an der Person haftet 0815 bei jeder schuldhaften Verursachung durch 0815 oder ihre Erfüllungsgehilfen.\nEs obliegt dem Kunden, für die Sicherung seiner Daten zu sorgen. 0815 haftet nicht für Datenverlust des Kunden auf bei 0815 gekauften Speichermedien (Computer, Notebooks, Festplatten, Speichermedien, etc.), es sei denn, 0815 oder ihre Erfüllungsgehilfen haben den Datenverlust zumindest grob fahrlässig verursacht.\nUnwirksame Klauseln\nSollten eine oder mehrere Regelungen dieser AGB unwirksam sein, so zieht dies nicht die Unwirksamkeit des gesamten Vertrages nach sich. Die unwirksame Regelung wird durch die einschlägige gesetzliche Regelung ersetzt.\nGerichtsstand und geltendes Recht\nEs gelten die gesetzlichen Gerichtsstände. Zuständig ist daher das Gericht, in dessen Sprengel der Wohnsitz, der gewöhnliche Aufenthalt oder der Ort der Beschäftigung des Konsumenten liegt, sofern diese in Deutschland liegen.\nDiese AGB und die unter diesen AGB abzuschließenden Verträge unterliegen österreichischem materiellem Recht. Für Konsumenten iSd Art 5 EVÜ gelten deren nationale zwingende konsumentenschutzrechtliche Bestimmungen, es sei denn, die jeweiligen österreichischen Bestimmungen sind für den Konsumenten günstiger Die Geltung des UN-Kaufrechts wird ausgeschlossen.\nSonstiges\nWir verpflichten uns, in Streitfällen am Schlichtungsverfahren des Internet-Ombudsmannes teilzunehmen.\n\n\n\n\n\n"
+}

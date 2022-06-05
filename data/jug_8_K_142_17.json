@@ -1,0 +1,1181 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 45,
+            "start": 43,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 51,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuerpflichtiger",
+            "end": 216,
+            "start": 199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 228,
+            "start": 217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besteuerung",
+            "end": 285,
+            "start": 274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 297,
+            "start": 286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "587",
+            "end": 312,
+            "start": 309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4255",
+            "end": 330,
+            "start": 326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4255",
+            "end": 345,
+            "start": 341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 351,
+            "start": 346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 380,
+            "start": 370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 427,
+            "start": 417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 460,
+            "start": 450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 481,
+            "start": 462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 483,
+            "start": 482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 486,
+            "start": 485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 741,
+            "start": 738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 744,
+            "start": 743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitgeber",
+            "end": 824,
+            "start": 813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 908,
+            "start": 897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 911,
+            "start": 910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 1108,
+            "start": 1105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 1243,
+            "start": 1234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 1369,
+            "start": 1360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterzeichnet",
+            "end": 1469,
+            "start": 1456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einverständnisses",
+            "end": 1677,
+            "start": 1660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1822,
+            "start": 1814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1825,
+            "start": 1824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2257,
+            "start": 2254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einverstanden",
+            "end": 2321,
+            "start": 2308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2564,
+            "start": 2561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2014",
+            "end": 2718,
+            "start": 2714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2721,
+            "start": 2720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2887,
+            "start": 2885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 3129,
+            "start": 3124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3132,
+            "start": 3131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermitteln",
+            "end": 3280,
+            "start": 3269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureichen",
+            "end": 3462,
+            "start": 3450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lohnabzugsbeträge",
+            "end": 4047,
+            "start": 4030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 4127,
+            "start": 4121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 4532,
+            "start": 4528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4535,
+            "start": 4534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 4772,
+            "start": 4766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4970,
+            "start": 4967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 5114,
+            "start": 5107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5283,
+            "start": 5277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 5372,
+            "start": 5371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewechselt",
+            "end": 5499,
+            "start": 5489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 5589,
+            "start": 5577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5592,
+            "start": 5591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 5769,
+            "start": 5763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgefordert",
+            "end": 6019,
+            "start": 6007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 6296,
+            "start": 6291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6462,
+            "start": 6459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 6578,
+            "start": 6572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 6826,
+            "start": 6821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6829,
+            "start": 6828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 6879,
+            "start": 6876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7092,
+            "start": 7089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezogen",
+            "end": 7176,
+            "start": 7169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7293,
+            "start": 7290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 7439,
+            "start": 7430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfallen",
+            "end": 7524,
+            "start": 7515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermeiden",
+            "end": 7841,
+            "start": 7832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrauensschutz",
+            "end": 7952,
+            "start": 7936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 8166,
+            "start": 8160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 8301,
+            "start": 8300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 8355,
+            "start": 8347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8359,
+            "start": 8357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingereicht",
+            "end": 8433,
+            "start": 8422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 8594,
+            "start": 8590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anmeldungen",
+            "end": 8790,
+            "start": 8779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8794,
+            "start": 8792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 9168,
+            "start": 9158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9172,
+            "start": 9170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 9220,
+            "start": 9210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9224,
+            "start": 9222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einspruchsentscheidung",
+            "end": 9300,
+            "start": 9278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 9472,
+            "start": 9466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 9637,
+            "start": 9632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vordruck",
+            "end": 9760,
+            "start": 9752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9764,
+            "start": 9762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 9919,
+            "start": 9911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 9923,
+            "start": 9921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9927,
+            "start": 9925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 9953,
+            "start": 9942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9957,
+            "start": 9955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgenommen",
+            "end": 10014,
+            "start": 10000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10184,
+            "start": 10182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeschlossen",
+            "end": 10374,
+            "start": 10361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 10615,
+            "start": 10611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 10811,
+            "start": 10801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10815,
+            "start": 10813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhandlung",
+            "end": 10955,
+            "start": 10944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 11183,
+            "start": 11174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 11187,
+            "start": 11185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgegangen",
+            "end": 11406,
+            "start": 11395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehen",
+            "end": 11643,
+            "start": 11635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsschutzes",
+            "end": 11784,
+            "start": 11770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 11788,
+            "start": 11786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 11920,
+            "start": 11911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11924,
+            "start": 11922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugeben",
+            "end": 12140,
+            "start": 12131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustimmt",
+            "end": 12397,
+            "start": 12389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12401,
+            "start": 12399,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12638,
+            "start": 12637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 12792,
+            "start": 12788,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13037,
+            "start": 13036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgestellt",
+            "end": 13204,
+            "start": 13194,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13731,
+            "start": 13730,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13911,
+            "start": 13910,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14277,
+            "start": 14276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 14281,
+            "start": 14279,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14912,
+            "start": 14911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 14916,
+            "start": 14914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 15108,
+            "start": 15102,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15282,
+            "start": 15281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 15286,
+            "start": 15284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 15608,
+            "start": 15605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 15612,
+            "start": 15610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 15860,
+            "start": 15855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 15864,
+            "start": 15862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 16041,
+            "start": 16035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 16219,
+            "start": 16210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 16441,
+            "start": 16429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 16637,
+            "start": 16632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbleibt",
+            "end": 16980,
+            "start": 16969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 17107,
+            "start": 17099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 17292,
+            "start": 17286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 17517,
+            "start": 17512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 17892,
+            "start": 17886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 18085,
+            "start": 18078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 18089,
+            "start": 18087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschlägig",
+            "end": 18461,
+            "start": 18450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 18465,
+            "start": 18463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 18636,
+            "start": 18630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 18845,
+            "start": 18835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterzeichnet",
+            "end": 19030,
+            "start": 19017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermerkt",
+            "end": 19111,
+            "start": 19103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 19283,
+            "start": 19279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 19496,
+            "start": 19486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 19500,
+            "start": 19498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhält",
+            "end": 19709,
+            "start": 19703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gescheitert",
+            "end": 19940,
+            "start": 19929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 20140,
+            "start": 20135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustünde",
+            "end": 20323,
+            "start": 20315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 20327,
+            "start": 20325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Senates",
+            "end": 20698,
+            "start": 20691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzamt",
+            "end": 20901,
+            "start": 20892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 21270,
+            "start": 21265,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21438,
+            "start": 21437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21603,
+            "start": 21600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auffassung",
+            "end": 21822,
+            "start": 21812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 21826,
+            "start": 21824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 21936,
+            "start": 21926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 21940,
+            "start": 21938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzamts",
+            "end": 22030,
+            "start": 22020,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22227,
+            "start": 22226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 22417,
+            "start": 22407,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22650,
+            "start": 22649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 22654,
+            "start": 22652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 22894,
+            "start": 22888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheint",
+            "end": 23000,
+            "start": 22991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 23138,
+            "start": 23130,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23595,
+            "start": 23594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steueranmeldung",
+            "end": 23692,
+            "start": 23677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 23696,
+            "start": 23694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 23822,
+            "start": 23810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 23826,
+            "start": 23824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingereicht",
+            "end": 23920,
+            "start": 23909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 24143,
+            "start": 24140,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24535,
+            "start": 24534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 24819,
+            "start": 24808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwirken",
+            "end": 25175,
+            "start": 25167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 25179,
+            "start": 25177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entschuldbar",
+            "end": 25287,
+            "start": 25275,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25534,
+            "start": 25533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 25684,
+            "start": 25679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzbar",
+            "end": 25734,
+            "start": 25725,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25917,
+            "start": 25916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 25921,
+            "start": 25919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 26094,
+            "start": 26089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 26415,
+            "start": 26411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 26479,
+            "start": 26476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 26574,
+            "start": 26569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 26997,
+            "start": 26992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 27001,
+            "start": 26999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 27073,
+            "start": 27063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuer",
+            "end": 27143,
+            "start": 27137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 27280,
+            "start": 27269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 27345,
+            "start": 27336,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27444,
+            "start": 27443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 27448,
+            "start": 27446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 27502,
+            "start": 27499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 27506,
+            "start": 27504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27691,
+            "start": 27690,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 15.02.2019 – 8 K 142/17\nTitel:\nZuständigkeitsvereinbarung, Verspätungszuschlag, Lohnsteueranmeldung,\nUnzuständiges Finanzamt, Zuständigkeit - Finanzamt, Örtliche Zuständigkeit,\nSteuerpflichtiger\nSchlagworte:\nAbgabenordnung, Zuständigkeitsvereinbarung, Besteuerung\nFundstellen:\nEFG 2019, 587\nBeckRS 2019, 4255\nLSK 2019, 4255\nTenor\n1. Die Klage wird abgewiesen.\n2. Der Kläger trägt die Kosten des Verfahrens.\n3. Die Revision wird zugelassen.\nEntscheidungsgründe\nI.\n1\nStreitig ist die Rechtmäßigkeit der Festsetzung von Verspätungszuschlägen zur Lohnsteuer für die\nAnmeldezeiträume Februar bis Juni 2015, insbesondere, ob der Beklagte (das Finanzamt A) für die\nFestsetzung der Lohnsteuern des Klägers örtlich zuständig war.\n2\nDer Kläger ist mit seiner Betriebsstätte im Bezirk des Finanzamts A Arbeitgeber. Die Ehefrau des Klägers\nwar bis zum 31. Dezember 2001 beim Finanzamt A beschäftigt.\n3\nDas Finanzamt A und das Finanzamt B schlossen am 26./31. Mai 1994 eine Zuständigkeitsvereinbarung,\nwonach das Finanzamt B ab sofort für die Personen- und Betriebssteuern der Eheleute zuständig war. Zur\nBegründung wurde in der Vereinbarung auf die Amtsangehörigkeit der Ehefrau beim Finanzamt A und den\nWunsch der Eheleute verwiesen. Der Kläger und seine Ehefrau hatten den Abschluss der\nZuständigkeitsvereinbarung mit Schreiben vom 28. Januar 1994 beantragt. Die Zuständigkeitsvereinbarung\nwurde von den Amtsleitern der beteiligten Finanzämter unterzeichnet. Vor dem Abschluss dieser\nVereinbarung scheiterte das Bestreben des Finanzamts A, mit anderen Finanzämtern eine entsprechende\nZuständigkeitsvereinbarung abzuschließen, wegen deren fehlenden Einverständnisses. Erst nach\nEinschalten der übergeordneten damaligen Oberfinanzdirektion München kam die\nZuständigkeitsvereinbarung vom 26./31. Mai 1994 zustande.\n4\nMit Schreiben vom 25. November 2013 teilte das Finanzamt B dem Kläger und seiner Ehefrau mit, dass\nwegen der Beendigung des Angestelltenverhältnisses der Ehefrau des Klägers beim Finanzamt A und des\nzwischenzeitlich eingetretenen Wechsels der mit dem Besteuerungsverfahren betrauten Amtsträger der\nGrund für die im Jahre 1994 getroffene Zuständigkeitsvereinbarung entfallen und § 27 der Abgabenordnung\n(AO) nicht mehr anwendbar sei; hiermit waren der Kläger und seine Ehefrau nicht einverstanden. Das\nBayerische Landesamt für Steuern forderte mit Schreiben vom 28. April 2014 das Finanzamt A auf, die\nBesteuerung der Eheleute zu übernehmen und legte seine Rechtsauffassung dem Kläger und seiner\nEhefrau mit Schreiben vom 10. Juli 2014 dar; dies bestätigte auch das damalige Bayerische\nStaatsministerium der Finanzen, für Landesentwicklung und Heimat (StMFLH) mit Schreiben vom 6.\nOktober 2014.\n5\nDemgemäß teilte das Finanzamt A dem Kläger und seiner Ehefrau unter anderem für Zwecke der\nAnmeldung der Lohnsteuer eine auf das Finanzamt A lautende Steuernummer zu. Das Finanzamt B teilte\ndem Kläger und seiner Frau am 30. Juli 2014 zudem mit, dass es deren bei ihm als unzuständigem\nFinanzamt eingereichte Schreiben nicht mehr an das zuständige Finanzamt A weiterleiten, sondern\nunbearbeitet ablegen werde.\n6\nMit Schreiben vom 4. November 2014 forderte das Finanzamt A den Antragsteller auf, die\nLohnsteueranmeldungen nunmehr dem Finanzamt A zu übermitteln. Am 23. Februar 2015 forderte das\nFinanzamt A den Kläger nochmals schriftlich auf, die sein Unternehmen betreffenden\nLohnsteueranmeldungen elektronisch beim Finanzamt A einzureichen. Sämtlichen Aufforderungen kam der\nKläger nicht nach und gab die monatlichen Lohnsteueranmeldungen weiterhin ausschließlich beim\nFinanzamt B ab - bis Mai 2014 gemäß § 41a Abs. 1 Satz 2 Einkommensteuergesetz (EStG) nach amtlich\nvorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe der\nSteuerdatenübermittlungsverordnung, ab Juni 2014 auf aus dem Computersystem des Klägers erstellten\nFormularen, also nicht durch elektronische Übermittlung, sondern durch die Einreichung von Aufstellungen\nüber die Gesamtsumme der abzuführenden Lohnsteuern und sonstigen Lohnabzugsbeträge. Die\neingereichten Unterlagen leitete das Finanzamt B an das Finanzamt A weiter. Das Finanzamt A schätzte\nauf der Grundlage der erhaltenen Unterlagen die Lohnsteuern für die Anmeldezeiträume Februar 2015 bis\nJuni 2015 i.H.v. 921,62 € (Februar 2015), 242,66 € (März 2015), 345,50 € (April 2015), 586,39 € (Mai 2015)\nund 376,06 € (Juni 2015) und setzte Verspätungszuschläge i.H.v. 20 € (jeweils für Februar und März 2015),\n25 € (April 2015) und 30 € (jeweils für Mai und Juni 2015) fest.\n7\nDie hiergegen fristgerecht jeweils per Fax eingelegten Einsprüche wies das Finanzamt A mit\nEinspruchsentscheidung vom 4. September 2015 betreffend Verspätungszuschläge zur Lohnsteuer für\nFebruar 2015 bis Juni 2015 als unbegründet zurück. Zur Begründung führte das Finanzamt A aus, es sei für\ndie Festsetzung der Lohnsteuer örtlich zuständig, da die ursprünglich bestehende\nZuständigkeitsvereinbarung zulässigerweise beendet worden sei. Die Zuständigkeitsvereinbarung gemäß §\n27 AO sei ein verwaltungsinterner Organisationsakt, auf den kein Anspruch des Steuerpflichtigen bestehe.\nDer der Zuständigkeitsvereinbarung zu Grunde liegende Sachverhalt habe sich maßgebend verändert,\nweshalb die Vereinbarung für die Zukunft habe widerrufen werden können. Die Ehefrau des Klägers sei seit\nJanuar 2002 nicht mehr Amtsangehörige des Finanzamts A; ebenso hätten zwischenzeitlich das mit den\nSteuerangelegenheiten des Klägers befasste Personal und die Amtsleitung gewechselt. Für die Aufhebung\nder Vereinbarung sei die Zustimmung des Betroffenen nicht erforderlich.\n8\nDie Festsetzung von Verspätungszuschlägen rechtfertigte das Finanzamt A im Veranlagungs- bzw.\nEinspruchsverfahren damit, dass die Voraussetzungen des § 152 AO vorgelegen hätten. Das Finanzamt A\nhabe den Steuerpflichtigen mehrfach auf den Wegfall der Zuständigkeitsvereinbarung sowie die damit\nverbundene (neuerliche) örtliche Zuständigkeit hingewiesen und ihn zur Abgabe der\nLohnsteueranmeldungen beim Finanzamt A aufgefordert. Dem sei der Kläger nicht nachgekommen, was\nbei der Ermessensausübung zur Festsetzung der Verspätungszuschläge im Lohnsteuer-\nAnmeldungsverfahren besonders schwer wiege, da dadurch die zeitnahe Abwicklung des\nMassenverfahrens der Lohnsteueranmeldungen nachhaltig gestört werde. Der Kläger könne sich\ninsbesondere nicht darauf berufen, dass ohne sein Verschulden die Datenfernübertragung nach amtlich\nvorgeschriebenen Datensatz gescheitert sei; er hätte lediglich die Daten seines Computerprogramms auf\ndie neue Zuständigkeit des Finanzamts A umstellen müssen. Bei der Bemessung der Höhe der\nVerspätungszuschläge habe das Finanzamt A negativ zu werten gehabt, dass - entgegen anderslautender\nAufforderungen des Finanzamts - bereits seit Juni 2014 korrekte Lohnsteuer-Anmeldungen nicht\nabgegeben worden seien.\n9\nAm 6. September 2015 reichte der Kläger Klage ein. Darin vertritt er die Auffassung, die\nEinspruchsentscheidung vom 4. September 2015 sei schon deshalb ersatzlos aufzuheben, da Einspruch\ngegen die Festsetzung der Verspätungszuschläge nicht eingereicht worden sei. Der Einspruch habe sich\nlediglich auf die Unzuständigkeit des Finanzamts A bezogen. Insoweit sei er der Auffassung, dass das\nFinanzamt A für die Festsetzung der Lohnsteuer nicht örtlich zuständig sei. Wegen der in der Vergangenheit\ngetroffenen Zuständigkeitsvereinbarung sei alleine das Finanzamt B für seine sämtlichen Steuern örtlich\nzuständig. Die Gründe für den Fortbestand der Zuständigkeitsvereinbarung seien nicht entfallen. Beim\nFinanzamt A seien weiterhin Beamte beschäftigt, die mit seiner Ehefrau aus ihrer früheren Tätigkeit beim\nFinanzamt A persönlich bekannt seien, weshalb eine örtliche Zuständigkeit des Finanzamts B geboten sei,\num jeglichen Korruptionsverdacht, unliebsame Erlebnisse und „Streitereien und Schikanen“ zu vermeiden.\nFür den Fortbestand der Zuständigkeitsvereinbarung aus dem Jahre 1994 bestehe auch weiterhin\nVertrauensschutz. Zudem könne sich die Steuerverwaltung nicht einseitig von der\nZuständigkeitsvereinbarung lösen, da es sich um einen Vertrag handele, dem seinerzeit auch er - der\nKläger - und seine Ehefrau hätten zustimmen müssen. Aus diesem Grunde sei er auch nicht verpflichtet,\ndem aus seiner Sicht örtlich unzuständigen Finanzamt A „Rede und Antwort zu stehen“. Dem stünden\nDatenschutz und Schweigepflicht entgegen.\n10\nEr habe daher zu Recht Lohnsteueranmeldungen beim Finanzamt B eingereicht. Eine elektronische\nÜbermittlung der Anmeldungen sei nicht möglich, da das Finanzamt A durch dessen Maßnahmen sein (des\nKlägers) Programm „völlig zerstört“ habe. Die eingereichten Papier-Formblätter, die sich aus den von ihm\nverwendeten Programmen „Quicklohn“ und „Lexware“ ergeben hätten, genügten den gesetzlichen\nAnforderungen zur Abgabe der Anmeldungen.\n11\nDer Kläger beantragt sinngemäß,\ndie Bescheide über die Festsetzung eines Verspätungszuschlags zur Lohnsteuer vom 30. April 2015 (für\nFebruar 2015), vom 4. Mai 2015 (für März 2015), vom 3. Juni 2015 (für April 2015), vom 3. Juli 2015 (für\nMai 2015) und 4. August 2015 (für Juni 2015), jeweils in Gestalt der Einspruchsentscheidung vom 4.\nSeptember 2015, ersatzlos aufzuheben.\n12\nDas Finanzamt A beantragt,\ndie Klage abzulehnen.\n13\nEs verweist zur Begründung seiner Auffassung auf die Einspruchsentscheidung. Ergänzend führt es aus, es\nhabe die Einsprüche zutreffend als solche gegen den Verspätungszuschlag ausgelegt, da sie sich jeweils\nauf den gesamten Bescheid bezogen hätten. Dem Kläger wäre eine elektronische Übermittlung der\nLohnsteueranmeldungen ohne weiteres möglich gewesen, wenn er sein Programm auf das Finanzamt A\numgestellt hätte. Die vom Kläger in Papierform eingereichten Anmeldungen seien nicht vergleichbar mit\ndem amtlich vorgeschriebenen Vordruck.\n14\nWegen des Sachverhalts im Einzelnen wird auf die von den Beteiligten eingereichten Schriftsätze, auf die\nvorgelegten Unterlagen und Akten … Bezug genommen.\nII.\n15\nDie Klage ist unbegründet.\n16\n1. Der Kläger hat die Klage nicht wirksam zurückgenommen. Die Ausführungen des Klägers, insbesondere\nin seinen Schriftsätzen vom 12., 27. und 30. Juli 2018, lassen die Annahme einer eindeutigen\nKlagerücknahmeerklärung nicht zu. Der Kläger vertritt darin zwar offenbar die Auffassung, das\nstreitgegenständliche Verfahren sei aufgrund des Urteil des Bundesfinanzhofs (BFH) vom 30. November\n2016 V R 48/15 abgeschlossen. Er verkennt dabei jedoch, dass dieses BFH-Urteil nicht den Streitfall betrifft,\nweshalb die Ausführungen des Klägers rechtsschutzgewährend (vgl. Herbert in: Gräber, FGO, Rn. 41 vor §\n33 FGO) nicht als Klagerücknahmeerklärung auslegbar sind. Auf Hinweis des Gerichts vom 30. Juli 2018\nhat der Kläger im Schriftsatz vom 1. August 2018 ebenfalls von einer eindeutigen Rücknahmeerklärung\nabgesehen und eine solche als „erübrigt“ betrachtet.\n17\n2. Der Senat entscheidet in Anbetracht des geringen Streitwerts der Klage gem. § 94a\nFinanzgerichtsordnung (FGO) ohne mündliche Verhandlung. Die Beteiligten haben dem hierzu ergangenen\nHinweis des Gerichts vom 30. Januar 2019 mit ihren Schriftsätzen vom 9. Februar 2019 und 11. Februar\n2019 weder widersprochen noch Durchführung einer mündlichen Verhandlung beantragt.\n18\n3. Das Finanzamt A ist in der Einspruchsentscheidung vom 4. September 2015 zutreffend vom Vorliegen\nvon Einsprüchen gegen die Festsetzungen von Verspätungszuschlägen zur Lohnsteuer für Februar bis Juni\n2015 ausgegangen. Nach dem Inhalt der beim Finanzamt eingegangenen Einspruchsschreiben sollten sich\ndie Einsprüche erkennbar (auch) auf die mit der jeweiligen Lohnsteuerfestsetzung verbundenen Bescheide\nzur Festsetzung von Verspätungszuschlägen beziehen. Diese Auslegung der Einspruchsschreiben steht\nüberdies insbesondere in Einklang mit dem Erfordernis der Beachtung effektiven Rechtsschutzes.\n19\n4. Das Finanzamt A war im Rahmen des Lohnsteuerverfahrens für die Festsetzung der streitigen\nVerspätungszuschläge örtlich zuständig.\n20\na) Gemäß § 17 AO i.V.m. § 41a Abs. 1 Satz 1 Nr. 1 EStG hat der Arbeitgeber bei dem Finanzamt, in dessen\nBezirk sich die Betriebstätte befindet - dies ist das beklagte Finanzamt -, die Lohnsteueranmeldungen\nabzugeben. Hiervon abweichend kann eine (an sich örtlich unzuständige) Finanzbehörde gem. § 27 Satz 1\nAO die Besteuerung im Einvernehmen mit der Finanzbehörde übernehmen, die nach den Vorschriften der\nSteuergesetze örtlich zuständig ist, wenn der Betroffene zustimmt.\n21\nAnders als die Vorgängervorschrift (§ 78 Abs. 1 der Reichsabgabenordnung -RAO-) setzt § 27 AO\nausdrücklich die Zustimmung des Betroffenen voraus (vgl. Bundesfinanzhof - BFH - Urteil vom 13.\nDezember 2001 III R 13/00, BStBl II 2002, 406). Die Vorschrift enthält hingegen nicht mehr die\nEinschränkung des § 78 Abs. 1 RAO, dass die Vereinbarung zwischen den Finanzbehörden zweckmäßig\nsein muss. Der ursprüngliche Entwurf der AO sah vor, dass eine solche Vereinbarung getroffen werden\nkann, wenn der Betroffene zustimmt oder wenn dies unter Wahrung der Interessen der Betroffenen der\nVerwaltungsvereinfachung dient (BT-Drucks. 7/79, S. 22). Auf Vorschlag des Finanzausschusses des\nDeutschen Bundestages wurde dann aber in der endgültigen Fassung ausschließlich auf die Zustimmung\ndes Betroffenen abgestellt. Da die Zuständigkeit der Finanzgerichte an die der entscheidenden\nFinanzbehörde anknüpft, erschien dem Ausschuss eine Zuständigkeitsvereinbarung ohne Zustimmung des\nBetroffenen im Hinblick auf den gesetzlichen Richter nach Art. 101 des Grundgesetzes (GG) als bedenklich\n(BT-Drucks. 7/4292, Seite 17; solche Bedenken im Hinblick auf die Vorgängerregelung § 78 RAO später\nverwerfend: Beschluss des Bundesverfassungsgerichts (BVerfG) vom 31. Januar 1978 2 BvR 535/75,\nHöchstrichterliche Finanzrechtsprechung -HFR- 1978, Nr. 304). Im Rahmen des Gesetzgebungsverfahrens\nwurde bei Zustimmung des Betroffenen kein Erfordernis für eine Zweckmäßigkeit gesehen (BT-Drucks. 7/79\ni.V.m. BT-Drucks. VI/1982, Seite 108). Insgesamt dient die Möglichkeit der Zuständigkeitsvereinbarung laut\nden Gesetzesmaterialien der Verwaltungsvereinfachung, weshalb sie laut der im Gesetzgebungsverfahren\ninsoweit unverändert gebliebenen Gesetzesbegründung als Vereinbarung zwischen den beteiligten\nFinanzbehörden ausgestaltet ist (vergleiche BT-Drucks. 7/79, S. 93 i.V.m. BT-Drs. VI/1982, Seite 108).\n22\nAnwendungsfälle der Vorschrift des § 27 AO sind z. B. die Beibehaltung der bisherigen Zuständigkeit bei\nWohnsitzverlegung des Steuerpflichtigen für die vorangegangenen Jahre (BT-Drucks. VI/1982, Seite 108)\nund bei Begründung eines zusätzlichen ausländischen Wohnsitzes (BT-Drucks. 15/1562, Seite 55), die\nKlarstellung der örtlichen Zuständigkeit, die mehrfache Zuständigkeit (Sunder-Plassmann, in:\nHübschmann/Hepp/Spitaler, AO/FGO, § 27 AO Rn 14 m. w. Beispielen) und die Ermöglichung einer\nZuständigkeitsregelung bei Amtsangehörigen des zuständigen Finanzamtes (Schmieszek in\nBeermann/Gosch, AO, Stand: September 2015, § 27 Rn 6).\n23\nMit Wirkung zum 1. Januar 2004 sind durch das Zweite Gesetz zur Änderung steuerrechtlicher Vorschriften\nvom 15. Dezember 2003 (BGBl I 2003, 2645) die Sätze 2 bis 4 in § 27 AO eingefügt worden; danach gilt die\nZustimmung des Steuerpflichtigen unter den dort genannten Voraussetzungen als erteilt (FG München,\nUrteil vom 17. November 2015 14 K 2326/15, EFG 2016, 523).\n24\nb) Durch die Erklärungen des Finanzamts B und des beklagten Finanzamts zur Beendigung der\nZuständigkeitsvereinbarung ist diese (spätestens) mit Wirkung vom Juli 2014 entfallen, weshalb jedenfalls\nfür die streitgegenständlichen Bescheide die örtliche Zuständigkeit des Finanzamts gemäß § 41a Abs. 1\nSatz 1 EStG gegeben war.\n25\naa) Die Aufhebung einer gemäß § 27 AO begründeten Zuständigkeitsvereinbarung bedarf nicht der\nZustimmung des Steuerpflichtigen, der dem Abschluss der Zuständigkeitsvereinbarung zwischen den\nbeteiligten Finanzämtern als Betroffener zugestimmt hatte.\n26\nNach dem Wortlaut des § 27 AO setzt eine Zuständigkeitsvereinbarung das Einvernehmen zwischen der\nörtlich zuständigen und der die Besteuerung übernehmenden Finanzbehörde voraus. Entsprechend der\nGesetzesbegründung ist im Wortlaut der Vorschrift verankert, dass die Anwendung des § 27 AO eine\nVereinbarung zwischen den beteiligten Finanzbehörden darstellt. Zwar ist im Hinblick auf die oben\ngenannten und im Gesetzgebungsverfahren für erforderlich gehaltenen Anforderungen des Art. 101 GG für\nden Übergang der örtlichen Zuständigkeit die Zustimmung des Betroffenen erforderlich. Unmittelbar\nBeteiligter der Zuständigkeitsvereinbarung ist er nach dem - den Steuerpflichtigen insoweit differenzierend\nausdrücklich als Betroffenen bezeichnenden - Gesetzeswortlaut gerade nicht. Demgemäß obliegt es alleine\nden beteiligten Finanzbehörden darüber zu befinden, ob die Zuständigkeit gemäß § 27 AO auf eine andere\nals die nach den gesetzlichen Grundsätzen an sich örtlich zuständige Behörde übergeht oder -\ngegebenenfalls auch entgegen der Zustimmung/des Antrags des Steuerpflichtigen - ein\nZuständigkeitswechsel unterbleibt. An einen Antrag des Steuerpflichtigen bzw. dessen Zustimmung zur\nAnwendung des § 27 AO sind die Finanzbehörden nicht gebunden. Nichts Anderes gilt grundsätzlich im\nUmkehrschluss bei Aufhebung einer bestehenden Zuständigkeitsvereinbarung, die demnach grundsätzlich\nkeiner Zustimmung des Steuerpflichtigen bedarf. Bereits dem Wortlaut nach, wonach die übernehmende\nBehörde nicht im Wege einer Zuständigkeitsvereinbarung zur örtlich zuständigen Behörde wird, umfasst §\n27 AO den Fall einer Aufhebung einer Zuständigkeitsvereinbarung nicht. In diesem Fall erfolgt vielmehr die\nRückkehr zur gesetzlich vorgesehenen örtlichen Zuständigkeit, weshalb die im Gesetzgebungsverfahren\nmaßgeblichen Erwägungen, das Abweichen von der gesetzlichen örtlichen Zuständigkeit von der\nZustimmung des Steuerpflichtigen abhängig zu machen, für den umgekehrten Fall der Beendigung einer\nZuständigkeitsvereinbarung gerade nicht gelten. Die vom Gesetzgeber für relevant erachteten Grundsätze\ndes gesetzlichen Richters gemäß Art. 101 GG werden wegen der Rückkehr zur gesetzlichen örtlichen\nZuständigkeit gerade nicht mehr berührt.\n27\nDa es sich nach der vom Senat vertretenen Auffassung bei einer Zuständigkeitsvereinbarung nicht um ein\nVertrags- bzw. vertragsähnliches Verhältnis zwischen Finanzbehörde und Steuerpflichtigem handelt, sind\nbei der Frage der Aufhebung der Zuständigkeitsvereinbarung die Grundsätze des Wegfalls der\nGeschäftsgrundlage (§ 313 Bürgerliches Gesetzbuch -BGB-) nicht einschlägig.\n28\nbb) Die Zuständigkeitsvereinbarung ist im Streitfall nicht als öffentlich-rechtlicher Vertrag im Sinne der §§ 54\nff Verwaltungsverfahrensgesetz (VwVfG) geschlossen worden. Dies ergibt sich bereits aus der Form der in\nStreit stehenden Vereinbarung, die mangels Unterschrift des Klägers als Vertragspartner auf der Urkunde\nnicht §§ 57, 62 Satz 2 VwVfG i. V. m. § 126 BGB entspricht. Die Zuständigkeitsvereinbarung wurde im\nStreitfall - so wie es das Gesetz in § 27 AO vorsieht - ausschließlich von den jeweiligen Amtsleitern der\nbeteiligten Finanzämter unterzeichnet. Der Kläger war folgerichtig auf der Vereinbarung nicht als Beteiligter\nvermerkt. Es bedarf daher im Streitfall keiner Entscheidung des Senates zu der Frage, ob ausnahmsweise\nein Vertrag der Finanzbehörde mit dem Steuerpflichtigen zulässig gewesen wäre. Ebensowenig bedarf es\neiner Entscheidung, ob die Beendigung der Zuständigkeitsvereinbarung den Voraussetzungen der\nAnpassung des Vertragsinhalts eines öffentlich-rechtlichen Vertrages gemäß § 60 VwVfG entspricht.\n29\nDer Kläger konnte im Streitfall auch nicht aus sonstigen Umständen darauf schließen, dass er beim\nZustandekommen einer Zuständigkeitsvereinbarung eine einem Vertragspartner vergleichbare\nRechtsposition erhält. Vor dem Abschluss der in Streit stehenden Zuständigkeitsvereinbarung waren die\nBemühungen des Finanzamts A, mit anderen Finanzämtern eine Zuständigkeitsvereinbarung einzugehen,\nan deren einseitiger ablehnender Haltung gescheitert; dem Kläger wurde bereits seinerzeit dargelegt, dass\ner zwar eine Zuständigkeitsregelung anregen/beantragen könne, eine solche aber nur zwischen den\nbeteiligten Finanzbehörden vereinbart werden könne. Der Kläger konnte demnach nicht davon ausgehen,\ndass ihm ein Anspruch oder eine vergleichbare Rechtsposition auf Abschluss bzw. Fortbestand einer\nZuständigkeitsvereinbarung zustünde.\n30\ncc) Ob ein Widerruf der Vereinbarung durch eine Finanzbehörde (gegen den Willen des Stpfl.) bei\nunverändertem Sachverhalt - wegen Verstoßes gegen Treu und Glauben - nicht zulässig ist (so: Horn in:\nSchwarz/Pahlke, AO/FGO, § 27 AO Rn. 9; Sunder-Plassmann in: Hübschmann/Hepp/Spitaler, AO/FGO, §\n27 AO Rn. 22) bedarf im Streitfall ebenfalls keiner Entscheidung des Senates. Anlass für die\nZuständigkeitsvereinbarung im Jahre 1994 war die Beschäftigung der Ehefrau des Klägers bei dem u. a. für\ndie Lohnsteuerfestsetzung nach § 41a EStG örtlich zuständigen beklagten Finanzamt. Nach der\nBeendigung des Anstellungsverhältnisses Ende 2001 und dem Eintreten der weiteren im Schreiben des\nFinanzamts B vom 25. November 2013 erläuterten Umstände ergab sich eine Änderung des die\nZuständigkeitsvereinbarung tragenden Sachverhalts, weshalb in der Aufhebung der\nZuständigkeitsvereinbarung auf Seiten des Finanzamts kein widersprüchliches Verhalten liegt. Das Verbot\ndes „venire contra factum proprium“ gilt zwar auch im Steuerrecht (vgl. z.B. BFH-Urteil vom 12. Februar\n2015 V R 28/14, BStBl II 2017, 10, unter II.2.c aa). Ein derartiges Verhalten liegt aber nicht vor, wenn der\nGrund für eine Zuständigkeitsvereinbarung nach § 27 AO - wie hier - bereits vor vielen Jahren entfallen ist;\nder erkennende Senat teilt insoweit die vom BFH in dem ebenfalls die Beteiligten dieses Rechtsstreits in\nSachen Umsatzsteuer betreffenden Urteil vom 30. November 2016 V R 48/15, BFH/NV 2017, 265,\nvertretene Auffassung.\n31\n5. Die vom Finanzamt gemäß § 152 AO festgesetzten streitgegenständlichen Verspätungszuschläge sind\nrechtmäßig.\n32\nDie Festsetzung eines Verspätungszuschlages ist eine Ermessensentscheidung des Finanzamts. Das\nFinanzgericht hat zunächst uneingeschränkt zu prüfen, ob die rechtlichen Voraussetzungen des\nVerspätungszuschlags vorgelegen haben (BFH-Urteil vom 11. Juni 1997 X R 14/95, BStBl II 1997, 642). Im\nÜbrigen kann das Gericht die Ermessensentscheidung des Finanzamts lediglich im Rahmen des § 102\nFGO auf Ermessensfehler wie Ermessensüberschreitung oder Ermessensfehlgebrauch überprüfen. Für die\ngerichtliche Ermessensüberprüfung sind diejenigen tatsächlichen Verhältnisse maßgebend, die der Behörde\nim Zeitpunkt der letzten Ermessensausübung bekannt sind (BFH-Urteil vom 26. März 1991 VII R 66/90,\nBStBl. II 1991, 545).\n33\nGemäß § 152 Abs. 1 Satz 1 AO in der im streitigen Zeitraum geltenden Fassung kann gegen denjenigen,\nder seiner Verpflichtung zur Abgabe einer Steuererklärung nicht oder nicht fristgemäß nachkommt, ein\nVerspätungszuschlag festgesetzt werden. Von der Festsetzung eines Verspätungszuschlags ist abzusehen,\nwenn die Versäumnis entschuldbar erscheint. Gemäß § 152 Abs. 2 Satz 1 AO darf der\nVerspätungszuschlag 10% der festgesetzten Steuer nicht übersteigen und höchstens 25.000 € betragen.\nBei der Bemessung des Verspätungszuschlags sind neben seinem Zweck, den Steuerpflichtigen zur\nrechtzeitigen Abgabe der Steuererklärung anzuhalten, die Dauer der Fristüberschreitung, die Höhe des sich\naus der Steuerfestsetzung ergebenen Zahlungsanspruchs, die aus der verspäteten Abgabe der\nSteuererklärung gezogenen Vorteile sowie das Verschulden und die wirtschaftliche Leistungsfähigkeit des\nSteuerpflichtigen zu berücksichtigen (§ 152 Abs. 2 Satz 2 AO). Steuererklärung im Sinne des § 152 AO ist\ngemäß § 150 Abs. 1 Satz 3 AO auch die Steueranmeldung.\n34\na) Der Kläger war im Streitfall gemäß § 41a Abs. 1 Satz 1 EStG zur Einreichung monatlicher\nLohnsteueranmeldungen verpflichtet.\n35\nb) Der Kläger hat die Lohnsteueranmeldungen für den streitigen Zeitraum verspätet eingereicht. Hat der\nSteuerpflichtige die Erklärung weder auf dem amtlich vorgeschriebenen Vordruck noch auf einem privaten\nFormularnachdruck, sondern durch ein einfaches Schreiben abgegeben, so liegt keine gültige\nSteuererklärung vor; es kann grundsätzlich ein Verspätungszuschlag festgesetzt werden (Finanzgericht\n(FG) Nürnberg vom 31. Januar 1990 V 67/89, EFG 1990, 339). Dasselbe gilt, wenn der Steuerpflichtige\nentgegen seiner Verpflichtung zur Abgabe einer elektronischen Steuererklärung die jeweilige\nSteuererklärung auf einem Papier-Formular einreicht (BFH-Beschluss vom 15. Dezember 2015 V B 102/15,\nBFH/NV 2016, 373). Es bedarf daher im Streitfall keiner abschließenden Entscheidung des Senates, ob die\nbeim Finanzamt B - trotz dessen Hinweises, eingehende Schreiben des Klägers nicht mehr an das\nFinanzamt A weiterzuleiten - in Papierform eingereichten Erklärungen dem amtlichen Vordruck\nentsprechen; denn der Kläger ist seiner Verpflichtung, die Anmeldungen elektronisch zu übermitteln, nicht\nnachgekommen, ohne seiner Obliegenheit zu genügen, eine positive Entscheidung des Finanzamts über\neinen sog. Härtefallantrag im Sinne des § 150 VIII AO auf einen zwischenzeitlichen (befristeten) Dispens\nvon der elektronischen Steuererklärungspflicht zu erwirken.\n36\nc) Die verspätete bzw. im Streitfall nicht erfolgte Abgabe der Lohnsteueranmeldungen ist nicht entschuldbar.\nDas Versäumnis ist regelmäßig dann nicht entschuldbar, wenn die Erklärung wiederholt nicht oder verspätet\nabgegeben wurde oder eine antragsgemäß bewilligte Fristverlängerung (§ 109 AO) nicht eingehalten wurde\n(AEAO Nr. 3, BStBl. I 2017, 51 [56]); außerdem dann nicht, wenn der Steuerpflichtige bereits gemahnt\nworden war oder, wenn er schon in früheren Jahren Verspätungszuschläge erhalten hatte. Defekte EDVAnlagen\nsind reparabel oder ersetzbar. Auf den Ausfall von Arbeitskraft oder Technik kann man sich nicht\nmonatelang oder gar jahrelang berufen (vgl. Seer in: Tipke/Kruse, AO/FGO, 151. Lieferung 02.2018, § 152\nAO, Rn. 18).\n37\nIm Streitfall haben die Steuerbehörden den Kläger bereits im November 2013 darauf hingewiesen, dass\nwieder das örtlich zuständige Finanzamt die Besteuerung übernehmen werde. Nach der Bestätigung dieser\nEntscheidung durch das StMFLH im Oktober 2014 forderte das Finanzamt A den Kläger mit Schreiben vom\nNovember 2014 auf, künftig Lohnsteueranmeldungen dort einzureichen und wiederholte diese Aufforderung\nnochmals für die Lohnsteueranmeldungen ab Februar 2015 mit Schreiben vom 23. Februar 2015. Dem kam\nder Kläger bislang nicht nach, was er zu vertreten hat. Der Einwand, das Finanzamt A habe das Programm\ndes Klägers „zerstört“, entschuldigt ihn nicht. Der Kläger hätte lediglich - gegebenenfalls unter Zuhilfenahme\neines Steuerberaters - die Programmeinstellungen auf die wieder maßgebliche örtliche Zuständigkeit des\nFinanzamts A anpassen müssen, um eine elektronische Übermittlung zu ermöglichen, zumal das Finanzamt\nden Kläger mit der Mitteilung der neuen Steuernummer darauf hingewiesen hatte, dass gegebenenfalls\nentsprechende technische Anpassungen erforderlich wären.\n38\nd) Der Höhe nach sind die festgesetzten Verspätungszuschläge rechtmäßig. Sie belaufen sich auf 2,2% bis\n8,0% der jeweils festgesetzten Steuer. Innerhalb seiner Ermessensgrenzen ist die Ermessensausübung des\nFinanzamts nach den obigen Grundsätzen gerichtlich nicht zu beanstanden. Das Finanzamt hat seine\nErmessensausübung hinreichend begründet. Auf die zutreffenden Ausführungen in der\nEinspruchsentscheidung wird verwiesen (§ 105 Abs. 5 FGO).\n39\n6. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n40\n7. Die Revision war zuzulassen, da die Frage, unter welchen Voraussetzungen eine\nZuständigkeitsvereinbarung nach § 27 AO entfällt, grundsätzliche Bedeutung hat (§ 115 Abs. 2 Nr. 1 FGO).\n\n"
+}

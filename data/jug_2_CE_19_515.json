@@ -1,0 +1,581 @@
+{
+    "Annotations": [
+        {
+            "annotation": "515",
+            "end": 50,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebäuden",
+            "end": 116,
+            "start": 108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 128,
+            "start": 117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 149,
+            "start": 148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 159,
+            "start": 150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegenüberliegt",
+            "end": 331,
+            "start": 317,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 340,
+            "start": 339,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 366,
+            "start": 365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfallen",
+            "end": 609,
+            "start": 600,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 618,
+            "start": 617,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 644,
+            "start": 643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 834,
+            "start": 828,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 843,
+            "start": 842,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 869,
+            "start": 868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 1144,
+            "start": 1138,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1154,
+            "start": 1153,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1180,
+            "start": 1179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1192,
+            "start": 1181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderfall",
+            "end": 1316,
+            "start": 1306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1327,
+            "start": 1317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5763",
+            "end": 1383,
+            "start": 1379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1394,
+            "start": 1384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8675",
+            "end": 1413,
+            "start": 1409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1419,
+            "start": 1414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1457,
+            "start": 1443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beigeladenen",
+            "end": 1584,
+            "start": 1572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1632,
+            "start": 1621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1640,
+            "start": 1634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ü",
+            "end": 1637,
+            "start": 1636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1642,
+            "start": 1641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 1727,
+            "start": 1718,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1854,
+            "start": 1853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1857,
+            "start": 1856,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1992,
+            "start": 1991,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2268,
+            "start": 2267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2271,
+            "start": 2270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwarten",
+            "end": 2408,
+            "start": 2400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berufen",
+            "end": 2506,
+            "start": 2499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2509,
+            "start": 2508,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2702,
+            "start": 2701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Außenwand",
+            "end": 2814,
+            "start": 2805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 2914,
+            "start": 2904,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3065,
+            "start": 3064,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3135,
+            "start": 3134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3138,
+            "start": 3137,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3463,
+            "start": 3462,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3843,
+            "start": 3842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3846,
+            "start": 3845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebaut",
+            "end": 4001,
+            "start": 3995,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4277,
+            "start": 4276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angebaut",
+            "end": 4522,
+            "start": 4514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 4619,
+            "start": 4613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4622,
+            "start": 4621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4915,
+            "start": 4911,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5293,
+            "start": 5292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 5523,
+            "start": 5520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 5625,
+            "start": 5618,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5996,
+            "start": 5995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 6226,
+            "start": 6222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bauten",
+            "end": 6345,
+            "start": 6339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6348,
+            "start": 6347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 6633,
+            "start": 6627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweist",
+            "end": 6818,
+            "start": 6810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 7010,
+            "start": 7007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechten",
+            "end": 7212,
+            "start": 7205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7215,
+            "start": 7214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 7461,
+            "start": 7455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 7761,
+            "start": 7751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 8016,
+            "start": 8010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8020,
+            "start": 8018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 8220,
+            "start": 8214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8441,
+            "start": 8438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 8556,
+            "start": 8553,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8948,
+            "start": 8947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Außenwände",
+            "end": 9050,
+            "start": 9040,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9265,
+            "start": 9264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweisen",
+            "end": 9381,
+            "start": 9372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 9783,
+            "start": 9779,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9912,
+            "start": 9911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Außenwänden",
+            "end": 10040,
+            "start": 10029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichte",
+            "end": 10283,
+            "start": 10274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 10390,
+            "start": 10383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 10394,
+            "start": 10392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgen",
+            "end": 10663,
+            "start": 10657,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11007,
+            "start": 11006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BayBO",
+            "end": 11223,
+            "start": 11218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angebaut",
+            "end": 11348,
+            "start": 11340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 11524,
+            "start": 11521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzustellen",
+            "end": 11677,
+            "start": 11664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Außenwandteil",
+            "end": 11802,
+            "start": 11789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 11806,
+            "start": 11804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 11863,
+            "start": 11859,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12122,
+            "start": 12121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 12126,
+            "start": 12124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 12203,
+            "start": 12200,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VGH München, Beschluss v. 06.05.2019 – 2 CE 19.515\nTitel:\nBerufung auf 16 m-Privileg bei aneinandergebauten Gebäuden\nNormenkette:\nBayBO Art. 6 Abs. 6\nLeitsätze:\n1. Grundsätzlich kann eine Verkürzung einer Abstandsflächentiefe nur den Nachbarn in seinen\nRechten verletzen, dessen Grundstück der betreffenden Außenwand gegenüberliegt. (Rn. 5)\n(redaktioneller Leitsatz)\n2. Beim sog. 16 m-Privileg kann sich der Nachbar auch darauf berufen, dass durch eine Verkürzung\nder Abstandsflächentiefen an den abgewandten Gebäudeseiten zugleich die gesetzlichen\nVoraussetzungen des Art. 6 Abs. 6 S. 1 Hs. 1 BayBO entfallen. (Rn. 5) (redaktioneller Leitsatz)\n3. Für das Vorliegen von aneinander gebauten Gebäuden iSd Art. 6 Abs. 6 S. 3 BayBO ist\nerforderlich, dass diese im Wesentlichen profilgleich an der Grundstücksgrenze aneinandergebaut\nwerden. (Rn. 7) (redaktioneller Leitsatz)\n4. Die Vorschrift des Art. 6 Abs. 6 S. 3 BayBO soll - insbesondere für Doppelhäuser - verhindern,\ndass mit Hilfe des 16 m-Privilegs Baukörper entstehen, die eine Außenwandlänge von bis zu 32 m\naufweisen, jedoch gleichwohl das 16 m-Privileg für sich in Anspruch nehmen können. (Rn. 10)\n(redaktioneller Leitsatz)\nSchlagworte:\nAbstandsflächentiefe, 16 m-Privileg, Außenwand an der Grundstücksgrenze, aneinandergebaute Gebäude,\nDoppelhaus, Sonderfall\nVorinstanz:\nVG München, Beschluss vom 07.02.2019 – M 29 E1 18.5763\nFundstelle:\nBeckRS 2019, 8675\nTenor\nI. Die Beschwerde wird zurückgewiesen.\nII. Der Antragsteller trägt die Kosten des Beschwerdeverfahrens einschließlich der außergerichtlichen\nKosten der Beigeladenen.\nIII. Der Streitwert auf 3.750 Euro festgesetzt.\nGründe\n1\nDie zulässige Beschwerde des Antragsstellers (§ 146 Abs. 1 VwGO) ist nicht begründet. Die dargelegten\nBeschwerdegründe rechtfertigen keine Abänderung der erstgerichtlichen Entscheidung (§ 146 Abs. 4 Satz 6\nVwGO).\n2\nEs fehlt vorliegend bereits an der Glaubhaftmachung des erforderlichen Anordnungsanspruchs (§ 123 Abs.\n3 VwGO i.V.m. § 920 Abs. 2 ZPO). Die Voraussetzungen für die Anordnung einer Baueinstellung nach Art.\n75 Abs. 1 Satz 1 BayBO durch die Bauaufsichtsbehörde liegen nach einer einem Eilverfahren wie diesem\nangemessenen summarischen Prüfung nicht vor (vgl. BVerfG, B.v. 24.2.2009 - 1 BvR 165/09 - NVwZ\n2009,581).\n3\nEin Verstoß gegen das grundsätzlich nachbarschützende Abstandsflächenrecht nach Art. 6 BayBO durch\ndas Bauvorhaben ist nicht zu erwarten. Die Beigeladene kann sich hier auf das sogenannte 16 m-Privileg\nnach Art. 6 Abs. 6 BayBO berufen.\n4\nHiernach genügt vor zwei Außenwänden von nicht mehr als 16 m Länge als Tiefe der Abstandsflächen die\nHälfte der nach Art. 6 Abs. 5 erforderlichen Tiefe, mindestens jedoch 3 m (Satz 1 Halbs. 1). Wird ein\nGebäude mit einer Außenwand an eine Grundstücksgrenze gebaut, gilt Satz 1 nur noch für eine\nAußenwand; wird ein Gebäude mit zwei Außenwänden an Grundstücksgrenzen gebaut, so ist Satz 1 nicht\nanzuwenden; Grundstücksgrenzen zu öffentlichen Verkehrsflächen, öffentlichen Grünflächen und\nöffentlichen Wasserflächen bleiben hierbei unberücksichtigt (Satz 2). Aneinandergebaute Gebäude sind wie\nein Gebäude zu behandeln (Satz 3).\n5\nGrundsätzlich kann eine Verkürzung einer Abstandsflächentiefe nur den Nachbarn in seinen Rechten\nverletzen, dessen Grundstück der betreffenden Außenwand gegenüberliegt (vgl. BayVGH, Großer Senat,\nB.v. 17.4.2000 - Gr. S. 1/1999 - 14 B 97.2901 - VGH n.F. 53, 89/95 f.; BayVGH, U.v. 29.10.2015 - 2 B\n15.1431 - BayVBl 2016, 414). Für das sogenannte 16 m-Privileg ist jedoch entschieden, dass sich der\nNachbar auch darauf berufen kann, dass durch eine Verkürzung der Abstandsflächentiefen an den\nabgewandten Gebäudeseiten zugleich die gesetzlichen Voraussetzungen des Art. 6 Abs. 6 Satz 1 Halbs. 1\nBayBO entfallen (vgl. BayVGH, Großer Senat, B.v. 17.4.2000 - Gr. S. 1/1999 - 14 B 97.2901 - VGH n.F. 53,\n89/96).\n6\n1. Vorliegend wird das Gebäude der Beigeladenen nicht im Sinn von Art. 6 Abs. 6 Satz 2 Halbs. 1 BayBO\nmit einer Außenwand an eine Grundstücksgrenze gebaut. Denn Voraussetzung hierfür wäre eine\noberirdische, ein Gebäude nach außen gegenüber dem Freien abschließende Wand (vgl. Schwarzer/König,\nBayerische Bauordnung, 4. Auflage 2012, Art. 6 Rn. 30, 91; Dhom in Simon/Busse, Bayerische\nBauordnung, Stand: Oktober 2018, Art. 6 Rn. 8). Hier wird jedoch das Gebäude der Beigeladenen nicht mit\neiner freistehenden Wand an der Grundstücksgrenze zum Nachbargrundstück errichtet, sondern auf einer\nLänge von ca. 9 m an das Gebäude auf dem Grundstück FlNr. 1219 deckungsgleich angebaut. Damit kann\ndie Beigeladene das sogenannte 16 m-Privileg vor zwei Außenwänden in Anspruch nehmen.\n7\nMit dem Anbau an das Gebäude auf dem Grundstück FlNr. 1219 sind angesichts des Bestandsgebäudes\nauf den Grundstück FlNr. 1219 und des geplanten Bauvorhabens der Beigeladenen keine\naneinandergebauten Gebäude im Sinn von Art. 6 Abs. 6 Satz 3 BayBO gegeben, die wie ein Gebäude zu\nbehandeln sind. Denn für das Vorliegen von aneinander gebauten Gebäuden in diesem Sinn ist erforderlich,\ndass diese im Wesentlichen profilgleich, beispielsweise Doppelhaushälften, an der Grundstücksgrenze,\naneinandergebaut werden (vgl. BayVGH, Großer Senat, B.v. 21.5.1990 - Gr. S. 2/1989 - 2 B 88.2884 - VGH\nn.F. 43,88; Schwarzer/König, Bayerische Bauordnung, 4. Auflage 2012, Art. 6 Rn. 92). Hier sind jedoch das\nBestandsgebäude auf dem Grundstück FlNr. 1219 und das Bauvorhaben der Beigeladenen nach Süden hin\nüber eine Länge von mehr als 11 m nicht aneinandergebaut, sondern halten einen Abstand zueinander von\n6 m ein. Damit ist aber auch kein Doppelhaus im Sinn der Rechtsprechung des Bundesverwaltungsgerichts\ngegeben. Hiernach müssen die einzelnen Häuser eines Doppelhauses an der gemeinsamen Grenze\nqualitativ und quantitativ in wechselseitig verträglicher und abgestimmter Weise so aneinandergebaut und\nauch im Übrigen so aufeinander abgestimmt sein, dass das von ihnen gebildete Gesamtgebäude als\nbauliche Einheit erscheint (vgl. BVerwG, U.v. 24.2.2000 - 4 C 12.98 - BVerwGE 110, 355). Dies ist hier\naufgrund der Tatsache, dass das Gebäude auf dem Grundstück FlNr. 1219 und das Bauvorhaben der\nBeigeladenen bei einer Gesamtlänge von mehr als 20 m nur auf einer Länge von 9 m aneinandergebaut\nwerden, nicht der Fall. Bei den nicht aneinander gebauten Gebäudeteilen handelt es sich auch jeweils um\nmassive bis zu zweigeschossige Bauten.\n8\nNachdem das Bauvorhaben der Beigeladenen nach Norden und nach Süden hin jeweils die volle\nAbstandsflächentiefe von 1 H gemäß Art. 6 Abs. 5 Satz 1 BayBO einhält, kann es nach Osten und nach\nWesten das sogenannte 16 m-Privileg nach Art. 6 Abs. 6 Satz 1 Halbs. 1 BayBO in Anspruch nehmen. Zum\nGrundstück FlNr. 1219 hin besitzt die abstandsflächenrelevante Außenwand eine Länge von 11,70 m,\nwährend sie zum Grundstück des Antragstellers hin eine solche von 15,99 m aufweist. Unschädlich ist\ninsoweit, dass die Antragsgegnerin im Baugenehmigungsbescheid vom 26. Juni 2018 zum Grundstück\nFlNr. 1219 hin eine Abweichung nach Art. 63 Abs. 1 Satz 1 Bay BO zugelassen hat. Nachdem die\nBeigeladene das sogenannte 16 m-Privileg zum Grundstück FlNr. 1219 hin in Anspruch nehmen kann, geht\ndiese Abweichung ins Leere und verletzt damit nicht den Antragsteller in seinen Rechten.\n9\n2. Selbst wenn man der Auffassung des Antragstellers folgen wollte, dass hier aneinandergebaute Gebäude\nim Sinn von Art. 6 Abs. 6 Satz 3 BayBO vorliegen und damit wie ein Gebäude zu behandeln seien, verhilft\ndies seinem Begehren nicht zum Erfolg. Denn für das Gebäude auf dem Grundstück FlNr. 1219 wurde zum\nGrundstück der Beigeladenen hin nicht das sogenannte 16 m-Privileg nach Art. 6 Abs. 6 Satz 1 Halbs. 1\nBayBO in Anspruch genommen, sondern mit der Baugenehmigung vom 17. Juli 2000 eine Abweichung\ngemäß Art. 70 Abs. 1 BayBO a.F. zugelassen. Zur O …straße hin hält das Gebäude auf dem Grundstück\nFlNr. 1219 die erforderlichen Abstandsflächentiefen ein, da sie sich insoweit gemäß Art. 6 Abs. 2 Satz 2\nBayBO auch auf die öffentlichen Verkehrs- und Grünflächen bis zu deren Mitte erstrecken dürfen.\n10\nDamit dürfte auch in diesem Fall das Bauvorhaben der Beigeladenen gegenüber dem Grundstück des\nAntragsstellers das sogenannte 16 m-Privileg nach Art. 6 Abs. 6 Satz 1 Halbs. 1 BayBO in Anspruch\nnehmen. Dem stünde auch nicht entgegen, dass die Antragsgegnerin mit Bescheid vom 26. Juni 2018 eine\nAbweichung wegen Nichteinhaltung erforderlicher Abstandsflächen nach Osten zum Nachbargrundstück\nFlNr. 1219 hin zugelassen hat. Denn die Rechtsprechung zum sogenannten 16 m-Privileg geht ersichtlich\nvon einem Gebäude mit vier Außenwänden aus. Die Vorschrift des Art. 6 Abs. 6 Satz 3 BayBO soll -\ninsbesondere für Doppelhäuser - verhindern, dass mit Hilfe des 16 m-Privilegs Baukörper entstehen, die\neine Außenwandlänge von bis zu 32 m aufweisen, jedoch gleichwohl das 16 m-Privileg für sich in Anspruch\nnehmen können (vgl. Dirnberger in Jäde/Dirnberger/Bauer/Weiß, Die neue Bayerische Bauordnung, Stand:\nOktober 2018, Art. 6 Rn. 187). Demnach hat ein Gebäude im Regelfall - auch wenn es Vor- oder\nRücksprünge aufweist - vier Außenwände. Abweichungen sind denkbar, wenn ein Gebäude aus mehreren\nzusammengefügten Gebäudeteilen besteht (vgl. Dirnberger in Jäde/Dirnberger/Bauer/ Weiß, Die neue\nBayerische Bauordnung, Stand: Oktober 2018, Art. 6 Rn. 195). Vorliegend würden die aneinandergebauten\nGebäude im Sinn von Art. 6 Abs. 6 Satz 3 BayBO sechs Außenwände aufweisen. Für diesen Fall wäre\njedoch die Anwendung des 16 m-Privilegs nach Art. 6 Abs. 6 Satz 1 Halbs. 1 BayBO dahingehend zu\nmodifizieren, dass für die zu nicht aneinandergebauten Gebäuden weisenden Außenwände dieses Privileg\nin Anspruch genommen werden kann, während im inneren Bereich der (teilweise) aneinander gebauten\nGebäude auch mit Abweichungen nach Art. 63 Abs. 1 Satz 1 BayBO gearbeitet werden kann. Dies\nwiderspräche nicht der Entscheidung des Großen Senats (B.v. vom 17.4 2000, Gr. S. 1/1999 - 14 B\n97.2901 - VGH n.F. 53, 89). Denn dieser Beschluss befasste sich mit der Baugenehmigung zur Errichtung\neines Doppelhauses mit regelmäßigen vier Außenwänden. Dabei hielt das Gebäude an seiner Westseite als\nAbstandsflächentiefe das Maß einer vollen Wandhöhe (1 H) ein, während an den drei übrigen, jeweils\nweniger als 16 m langen Gebäudeseiten die Abstandsflächentiefe nur das Maß von 0,5 H erreichte. Die\nSituation des vorliegenden Sonderfalls würde mithin von dieser Entscheidung ersichtlich nicht erfasst.\n11\nSoweit der Antragsteller behauptet, das Bauvorhaben weise gegenüber dem Grundstück FlNr. 1219 eine\neinheitliche Gebäudeseite aus einem nördlichen und südlichen Teil auf, die eine einheitliche Außenwand im\nSinn von Art. 6 Abs. 6 BayBO darstelle, ist dem nicht zu folgen. Denn maßgeblich für die Ermittlung der\nLänge einer Außenwand im Sinn von Art. 6 Abs. 6 BayBO sind nur die abstandsflächenrelevanten\nAußenwandteile (vgl. BayVGH, Gr. S. B.v. 21.4.1986 - Gr. S. 1/85 - 15 B 84 A 2534 - VGH n.F. 39, 9;\nDirnberger in Jäde/Dirnberger/Bauer/Weiß, Die neue Bayerische Bauordnung, Stand: Oktober 2018, Art. 6\nRn. 198). Vorliegend handelt es sich beim nördlichen Teil der zum Grundstück FlNr. 1219 gerichteten\nGebäudeseite des Vorhabens der Beigeladenen nicht um eine abstandsflächenrelevante Außenwand im\nSinn von Art. 6 Abs. 6 BayBO. Denn er wurde gemäß Art. 6 Abs. 1 Satz 3 BayBO deckungsgleich an das\nBestandsgebäude auf dem Grundstück FlNr. 1219 angebaut. Im Übrigen liegt hier nicht ein flacheres\nAbknicken als 90° im Sinn der Entscheidung des Großen Senats (B.v. 21.4.1986 - Gr. S. 1/85 - 14 B 84\nA.2534 - VGH n.F. 39, 9/15) vor. Vielmehr ist zwischen dem nördlichen und südlichen Teil der zum\nGrundstück FlNr. 1219 gerichteten Gebäudeseite ein Abknicken um genau 90° festzustellen. Damit handelt\nes sich bei dem südlichen Teil um einen abstandsflächenrechtlich selbstständig zu betrachtenden\nAußenwandteil.\n12\nDie Kostenentscheidung ergibt sich aus § 154 Abs. 2 VwGO. Es entspricht der Billigkeit im Sinn von § 162\nAbs. 3 VwGO, die außergerichtlichen Kosten der Beigeladenen ebenfalls dem Antragsteller aufzuerlegen,\nweil diese selbst einen Antrag gestellt und damit ein Kostenrisiko auf sich genommen hat (§ 154 Abs. 3\nVwGO).\n13\nDie Streitwertfestsetzung beruht auf §§ 47, 52 Abs. 1, § 53 Abs. 2 Nr. 1 GKG.\n\n"
+}

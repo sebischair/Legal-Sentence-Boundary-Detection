@@ -1,0 +1,995 @@
+{
+    "Annotations": [
+        {
+            "annotation": "1428",
+            "end": 50,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wiederverfüllungsarbeiten",
+            "end": 115,
+            "start": 90,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 128,
+            "start": 116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 152,
+            "start": 151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "75",
+            "end": 166,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 180,
+            "start": 178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 192,
+            "start": 181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Illegalität",
+            "end": 376,
+            "start": 365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 387,
+            "start": 377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9097",
+            "end": 406,
+            "start": 402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 412,
+            "start": 407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 441,
+            "start": 431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 499,
+            "start": 493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 568,
+            "start": 555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 747,
+            "start": 740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 759,
+            "start": 749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 761,
+            "start": 760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwangsgeldern",
+            "end": 999,
+            "start": 986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1002,
+            "start": 1001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sandabbauunternehmen",
+            "end": 1112,
+            "start": 1092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1115,
+            "start": 1114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genehmigt",
+            "end": 1251,
+            "start": 1242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1254,
+            "start": 1253,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1505,
+            "start": 1504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1686,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzufüllen",
+            "end": 2543,
+            "start": 2532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2865,
+            "start": 2862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "NN",
+            "end": 3018,
+            "start": 3016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgebend",
+            "end": 3111,
+            "start": 3102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeordnet",
+            "end": 3211,
+            "start": 3201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angedroht",
+            "end": 3497,
+            "start": 3488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3500,
+            "start": 3499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 3742,
+            "start": 3737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ordnung",
+            "end": 3953,
+            "start": 3946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgebeutet",
+            "end": 4291,
+            "start": 4280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 4523,
+            "start": 4513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 4667,
+            "start": 4659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeführt",
+            "end": 4849,
+            "start": 4839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hergestellt",
+            "end": 5015,
+            "start": 5004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachbargrundstücke",
+            "end": 5228,
+            "start": 5210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbrechen",
+            "end": 5067,
+            "start": 5057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachtet",
+            "end": 4970,
+            "start": 4962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Absturzgefahr",
+            "end": 5403,
+            "start": 5390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 5587,
+            "start": 5584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 5761,
+            "start": 5754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 5901,
+            "start": 5893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 6147,
+            "start": 6140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 6226,
+            "start": 6219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 6641,
+            "start": 6631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6872,
+            "start": 6870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6986,
+            "start": 6984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeführt",
+            "end": 7210,
+            "start": 7200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 7335,
+            "start": 7328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 7338,
+            "start": 7337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 7426,
+            "start": 7416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7429,
+            "start": 7428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragen",
+            "end": 7566,
+            "start": 7556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 7569,
+            "start": 7568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 7631,
+            "start": 7621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7633,
+            "start": 7632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 7773,
+            "start": 7760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unklar",
+            "end": 7850,
+            "start": 7844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebe",
+            "end": 7939,
+            "start": 7935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 8326,
+            "start": 8321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 8552,
+            "start": 8546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuträfen",
+            "end": 8665,
+            "start": 8657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8669,
+            "start": 8667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 8726,
+            "start": 8717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8730,
+            "start": 8728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 8751,
+            "start": 8741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8755,
+            "start": 8753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 9013,
+            "start": 9005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 8958,
+            "start": 8952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9017,
+            "start": 9015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 9069,
+            "start": 9064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 9155,
+            "start": 9146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9159,
+            "start": 9157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 9244,
+            "start": 9236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 9265,
+            "start": 9246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9268,
+            "start": 9266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 9317,
+            "start": 9306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9321,
+            "start": 9319,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9443,
+            "start": 9442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 9447,
+            "start": 9445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 9583,
+            "start": 9573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9587,
+            "start": 9585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 10085,
+            "start": 10078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BayAbgrG",
+            "end": 10180,
+            "start": 10172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bodenschätzen",
+            "end": 10290,
+            "start": 10277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10294,
+            "start": 10292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 10459,
+            "start": 10446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BayAbgrG",
+            "end": 9750,
+            "start": 9742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 10569,
+            "start": 10558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 10463,
+            "start": 10461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geboten",
+            "end": 10721,
+            "start": 10714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 10725,
+            "start": 10723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stützen",
+            "end": 10951,
+            "start": 10944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleichbar",
+            "end": 11098,
+            "start": 11086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 11334,
+            "start": 11331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweisen",
+            "end": 11435,
+            "start": 11426,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11974,
+            "start": 11973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 11978,
+            "start": 11976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 12195,
+            "start": 12190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 12382,
+            "start": 12377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebe",
+            "end": 12571,
+            "start": 12567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 12711,
+            "start": 12707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 12808,
+            "start": 12798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12940,
+            "start": 12937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 13049,
+            "start": 13046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "cm",
+            "end": 13114,
+            "start": 13112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 13229,
+            "start": 13223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bewertung",
+            "end": 13505,
+            "start": 13496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13682,
+            "start": 13679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13936,
+            "start": 13933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 13978,
+            "start": 13971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 14055,
+            "start": 14046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 14059,
+            "start": 14057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingehalten",
+            "end": 14266,
+            "start": 14255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeräumt",
+            "end": 14346,
+            "start": 14336,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14553,
+            "start": 14552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 14557,
+            "start": 14555,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14838,
+            "start": 14837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 14842,
+            "start": 14840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 15017,
+            "start": 15007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15249,
+            "start": 15245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 15253,
+            "start": 15251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermessen",
+            "end": 15401,
+            "start": 15393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 15513,
+            "start": 15503,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15766,
+            "start": 15765,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15933,
+            "start": 15932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 16093,
+            "start": 16082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 16097,
+            "start": 16095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 16311,
+            "start": 16301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 16315,
+            "start": 16313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BayAbgrG",
+            "end": 16406,
+            "start": 16398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2012",
+            "end": 16532,
+            "start": 16528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichten",
+            "end": 16653,
+            "start": 16644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 16796,
+            "start": 16784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 16800,
+            "start": 16798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 17112,
+            "start": 17102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfüllungsarbeiten",
+            "end": 17203,
+            "start": 17184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 17372,
+            "start": 17368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundwassers",
+            "end": 17431,
+            "start": 17419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 17743,
+            "start": 17735,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18174,
+            "start": 18173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18316,
+            "start": 18310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 18491,
+            "start": 18488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 18631,
+            "start": 18628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 18853,
+            "start": 18844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abbau",
+            "end": 19017,
+            "start": 19012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 19021,
+            "start": 19019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermessensentscheidungen",
+            "end": 19127,
+            "start": 19104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 19228,
+            "start": 19215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 19329,
+            "start": 19321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 19414,
+            "start": 19403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19418,
+            "start": 19416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwZVG",
+            "end": 19660,
+            "start": 19655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "formuliert",
+            "end": 19819,
+            "start": 19809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19823,
+            "start": 19821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 20021,
+            "start": 20011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 20025,
+            "start": 20023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 20167,
+            "start": 20161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 20085,
+            "start": 20081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 20308,
+            "start": 20305,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VG Augsburg, Urteil v. 09.05.2019 – Au 5 K 18.1428\nTitel:\nEinstellung der Abgrabungs- und Wiederverfüllungsarbeiten\nNormenketten:\nBayAbgrG Art. 4 Abs. 2\nBayBO Art. 75\nVwZVG Art. 36\nSchlagworte:\nKiesgrube, Einstellung der Abgrabungs- und Wiederverfüllungsarbeiten, Androhung von Zwangsgeldern,\nZwangsgeldandrohung, Wiederverfüllung, Abgrabung, Einstellung, formelle Illegalität\nFundstelle:\nBeckRS 2019, 9097\nTenor\nI. Die Klage wird abgewiesen.\nII. Die Klägerin hat die Kosten des Verfahrens zu tragen.\nIII. Das Urteil ist hinsichtlich der Kosten vorläufig vollstreckbar. Die Klägerin darf die Vollstreckung durch\nSicherheitsleistung in Höhe des zu vollstreckenden Betrags abwenden, wenn nicht die Beklagte vorher\nSicherheit in gleicher Höhe leistet.\nTatbestand\n1\nDie Klägerin wendet sich mit der Klage gegen die Einstellung ihrer Abgrabungs- und\nWiederverfüllungsarbeiten sowie gegen weitere Anordnungen hinsichtlich der Verfüllung einer Kiesgrube\nund die damit verbundene Androhung von Zwangsgeldern.\n2\nDie Klägerin betreibt u.a. auf dem Grundstück Fl.Nr. ... der Gemarkung ... ein Kies- und\nSandabbauunternehmen.\n3\nMit Bescheid vom 20. November 2012 wurde der Klägerin der Kies- und Sandabbau auf dem Grundstück\nFl.Nr. ... der Gemarkung ... genehmigt.\n4\nMit Bescheid vom 12. Juli 2018 hat das Landratsamt ... (nachfolgend: Landratsamt) die sofortige Einstellung\ndes Kies- und Sandabbaus einschließlich der Wiederverfüllung auf dem Grundstück Fl.Nr. ... der\nGemarkung ... angeordnet (Nr. 1 des Bescheides). Davon ausgenommen seien die Arbeiten zur Herstellung\nder notwendigen Grenzabstände und Böschungswinkel entsprechend der genehmigten Abbaupläne (siehe\nAnordnungspunkte Nr. 2 und 3). In Nr. 2 des Bescheides wurde die Klägerin verpflichtet, zur\nGrundstücksgrenze des nördlichen Nachbargrundstücks Fl.Nr. ... der Gemarkung ... sowie zur\nGrundstücksgrenze des südlichen Wegegrundstücks Fl.Nr. ... entlang der jeweiligen gesamten\nGrundstücksgrenze innerhalb von zwei Wochen nach Zustellung dieses Bescheides auf dem\nBaugrundstück Fl.Nr. ... der Gemarkung ... einen fünf Meter breiten Sicherheits- und Abstandsstreifen mit\neinem daran anschließenden Böschungswinkel von 45 Grad (Nordseite) und 36 Grad (Südseite zur\nWegefläche) bis auf das vorhandene ursprüngliche natürliche Geländeniveau der angrenzenden\nNachbarflurnummern mit Bodenmaterial maximal der Zuordnungsklasse Z0 nach dem Leitfaden zu den\nEckpunkten - Anforderungen an die Verfüllung von Gruben und Brüchen sowie Tagebauen - unter\nBeachtung der Nr. 3 dieses Bescheides aufzufüllen. In Nr. 3 des Bescheides wurde die Klägerin verpflichtet,\nim Bereich der Abbausohle, welche tiefer als nach den genehmigten Bauvorlagen ausgeführt worden sei,\nausschließlich nur örtliches Kiesmaterial zu verfüllen, soweit dies zur Herstellung der unter der Nr. 2\nangeordneten Abstände und Böschungswinkel erforderlich ist. Die maximal zulässige Abbausohle steige\nausgehend von der westlichen Grundstücksgrenze Fl.Nr. ... von umgerechnet ca. 454,50 m ü. NN auf\n457,00 m ü. NN. Die entsprechenden Abbautiefenvorgaben aus den genehmigten Bauvorlagen seien hier\nmaßgebend. In Nr. 4 des Bescheides wurde die sofortige Vollziehung der Nrn. 1 bis 3 des Bescheides\nangeordnet. In Nr. 5 des Bescheides wurde für den Fall der Nichterfüllung des Anordnungspunktes Nr. 1 ein\nZwangsgeld in Höhe von 5.000,00 EUR, für den Anordnungspunkt Nr. 2 ein Zwangsgeld in Höhe von\n3.000,00 EUR und für den Anordnungspunkt Nr. 3 ein Zwangsgeld in Höhe von 4.000,00 EUR angedroht.\n5\nZur Begründung ist ausgeführt, dass der Kies- und Sandabbau auf dem oben genannten Grundstück in\nAbweichung von den mit Bescheid vom 20. November 2012 genehmigten Abbauplänen, Bauvorlagen und\nden dazu festgesetzten Auflagen vorgenommen werde. Die ausgeübten Abgrabungsarbeiten gefährdeten\naufgrund der nicht eingehaltenen Abstände zu den Nachbargrundstücken und insbesondere der\nfestgelegten Böschungswinkel zudem die öffentliche Sicherheit und Ordnung. Die Abbausohle werde mit\neiner Tiefe von 454,38 bis 453,18 m ü. NN statt der für den Grundstücksbereich entsprechend den\ngenehmigten Plänen angegebenen und für die Fl.Nr. ... umgerechneten und zu übertragenden ca. 454,5 m\nü. NN (Westgrenze) - 457,00 m ü. NN (Ostgrenze) ausgeführt und damit mindestens 0,62 m - 1,82 m tiefer\nausgebeutet. In Hinblick auf den in östlicher Richtung ansteigenden Grundwasserschwankungsbereich\neinschließlich des erforderlichen Schutzabstandes von 2 m bis auf 457,00 m ü. NN sei von noch größeren\nÜberschreitungen der Abbautiefe auszugehen. Auf das hydrogeologische Gutachten der ... GmbH vom 24.\nJanuar 2012, welches Bestandteil der genehmigten Bauvorlagen sei, werde Bezug genommen. Die\nfestgelegten Abstände von 5 m zu den Nachbargrundstücken würden nicht eingehalten und der Abbau\ndirekt bis zur Grundstücksgrenze der Nachbargrundstücke ohne Abstände ausgeführt. Die festgesetzten\nAbbauböschungswinkel 45 Grad (auf der Nordseite) und 36 Grad (auf der Südseite) würden nicht beachtet.\nEs würden senkrechte Abbauwände hergestellt. Teilweise würden die Abbauwände bereits einbrechen. Der\nAbbau widerspreche gravierend den genehmigten Bauvorlagen sowie den Regeln der Technik und\nBaukunst und gefährde die Standsicherheit der Nachbargrundstücke. Es bestehe eine erhebliche\nGefährdung für die öffentliche Sicherheit und Ordnung, insbesondere für das Leben und die Gesundheit von\nPersonen durch eine massive Absturzgefahr. Der Abbau finde aufgrund der Nichtbeachtung der\nAbbausohle zusätzlich im Schwankungsbereich zum höchsten Grundwasserstand statt und stelle damit\neinen wasserrechtlichen Nassabbau dar. Damit würden neben den planabweichenden und rechtswidrigen\nAbbautätigkeiten ohne Sicherheitsabstände und Böschungswinkel auch wasserrechtliche\nZulassungstatbestände erfüllt. Zudem sei bei einem Nassabbau nach den Regelungen des Leitfadens zu\nden Eckpunkten eine Wiederverfüllung grundsätzlich nicht mehr zulässig. Zur Behebung der aus dem\nrechtswidrig ausgeübten Kiesabbau resultierenden erheblichen Abstands- und Sicherheitsmängel sowie\nzum Schutz der Standsicherheit der angrenzenden Nachbargrundstücke sei auch die Anordnung unter Nr. 2\nzu treffen gewesen. Zum Schutz des Grundwassers sei die Anordnung unter Nr. 3 vorzunehmen gewesen.\nDie jeweilige Höhe der festgesetzten Zwangsgelder sei unter Berücksichtigung des wirtschaftlichen\nInteresses der Bauherrin an der Baumaßnahme im Hinblick auf die Bedeutung dieser Angelegenheit, der\nzugrundeliegenden erheblichen abgrabungs- und sicherheitsrechtlichen Verstöße, sowie der rechtswidrigen\nGefährdungslage für das Nachbareigentum und Personen zur schnellen und durchsetzungsfähigen\nBehebung angemessen. Die zur Behebung der Abstands- und Böschungsmängel gesetzte Frist sei im\nHinblick auf die bestehende Gefährdungslage und den Umfang der notwendigen Maßnahmen angemessen\nund lasse eine ordnungsgemäße und fachgerechte Ausführung zu. Dem Landratsamt stehe bei der\nAuswahl des für den rechtswidrigen Zustand Verantwortlichen ein Auswahlermessen zu. Im vorliegenden\nFall werde die Abgrabung nach den getroffenen Feststellungen vor Ort von der Firma ... GbR Kiesbetrieb\nund Erdbau als Rechtsnachfolgerin der ursprünglich den Abgrabungsantrag stellenden Firma ... ausgeführt.\nDie Anordnung sei deshalb in Anwendung des Störerauswahlermessens an die Bauherrin und\nHandlungsstörerin zu richten gewesen.\n6\nDer Bescheid wurde der Klägerin laut Postzustellungsurkunde am 17. Juli 2018 zugestellt.\n7\nMit Schreiben vom 17. August 2018, bei Gericht per Telefax eingegangen am 17. August 2018 ließ die\nKlägerin Klage erheben und beantragen,\n8\nden Bescheid des Beklagten vom 12. Juli 2018, Az., aufzuheben\n9\nZur Begründung wird ausgeführt, dass der Beklagte zwar behaupte, die Überschreitung der Abbautiefe von\n0,62 m bis 1,82 m habe stattgefunden. Wie die Ermittlung dieses Maßes zustande gekommen sei, bleibe\njedoch unklar. Das Landratsamt gehe selbst davon aus, dass es keinen entsprechenden Höhenfixpunkt\ngebe. Abgesehen davon habe für das Grundwasser keine Gefahr bestanden, da eine zwischenzeitlich in\nAuftrag gegebene hydrogeologische Stellungnahme zur Abbautiefe zu dem Schluss komme, dass im\nöstlichen Bereich des Abbaugrundstückes statt einer Abbautiefe von 475 m ü. NN eine Vertiefung auf 455ü. NN möglich sei und dabei der höchste Grundwasserstand immer noch um zwei Meter überdeckt werde.\nBerücksichtige man dies, so befänden sich die von der Klägerin vorgenommenen Abgrabungen selbst dann\nnicht im Zwei-Meter-Schutzbereich, wenn die behauptete Überschreitung der Abbautiefe um 1,82 m\ntatsächlich zutreffen sollte. Auch Probeschürfe bis zu der Tiefe von 455 m ü. NN hätten ergeben, dass die\nAnnahmen der Stellungnahme zuträfen.\n10\nDie Beklagte hat in der mündlichen Verhandlung beantragt,\n11\ndie Klage abzuweisen.\n12\nEin von der Klägerin ebenfalls angestrengtes Verfahren vorläufigen Rechtsschutzes (Az. Au 5 S 18.1472)\nblieb mit Beschluss des Bayerischen Verwaltungsgerichts Augsburg vom 26. September 2018 ohne Erfolg.\nAuf die Gründe diese Entscheidung wird Bezug genommen.\n13\nAm 9. Mai 2019 fand die mündliche Verhandlung statt. Für den Hergang der Sitzung wird auf die hierüber\ngefertigte Niederschrift verwiesen.\n14\nErgänzend wird auf die vorgelegten Behördenakten und die Gerichtsakte Bezug genommen.\nEntscheidungsgründe\n15\nDie zulässige Klage ist in der Sache unbegründet.\n16\nDer Bescheid vom 12. Juli 2018 ist rechtmäßig und verletzt die Klägerin nicht in ihren Rechten (§ 113 Abs. 1\nSatz 1 VwGO).\n17\n1. Die Verfügung in Ziffer 1 des Bescheides zur Einstellung des Kies- und Sandabbaus einschließlich der\nWiederverfüllung ist rechtmäßig.\n18\na) Rechtsgrundlage der Einstellungsverfügung in Ziffer 1 des angefochtenen Bescheides ist die\nabgrabungsrechtliche Generalklausel in Art. 4 Abs. 2 Satz 2 BayAbgrG. Gemäß Art. 4 Abs. 2 Satz 1 und 2\nBayAbgrG wachen die Abgrabungsbehörden darüber, dass die öffentlich-rechtlichen Vorschriften, die für\nAnlagen nach Art. 1 BayAbgrG gelten, sowie die auf Grund dieser Vorschriften erlassenen Anordnungen\neingehalten werden, und können in Wahrnehmung dieser Aufgaben die erforderlichen Maßnahmen treffen.\nDie streitgegenständliche Kiesgrube der Klägerin ist eine Anlage im Sinne des Art. 1 BayAbgrG. Es handelt\nsich hierbei um eine Abgrabung zur Gewinnung von nicht dem Bergrecht unterliegenden Bodenschätzen.\n19\nb) Die Voraussetzungen der Norm sind vorliegend erfüllt, da die Abgrabungsarbeiten in der ausgeübten Art\nund Weise öffentlich-rechtlichen Vorschriften widersprechen.\n20\nZum einen sind die Abgrabungsarbeiten formell illegal, da sie nicht der Genehmigungssituation\nentsprechen. Zum anderen ist aufgrund der sicherheitsrechtlichen Bedenken in Bezug auf die\nStandsicherheit und den Schutz des Grundwassers ein Einschreiten geboten.\n21\nBereits die formelle Illegalität der vorliegenden, über die genehmigte Planung hinausgehenden\nAbgrabungsarbeiten reicht aus, um ein auf Art. 4 Abs. 2 Satz 2 BayAbgrG gestütztes\nabgrabungsaufsichtliches Einschreiten zu stützen. Das abgrabungsaufsichtliche Einschreiten gemäß Art. 4\nAbs. 2 Satz 2 BayAbgrG ist hierbei mit einer Baueinstellung nach Art. 75 BayBO vergleichbar. Bereits der\nEntstehungsgeschichte des BayAbgrG lässt sich die enge Beziehung zum Bauordnungsrecht entnehmen,\nda die Materie des Abgrabungsrechts, vor der Schaffung des BayAbgrG im Jahre 1999, in der Bayerischen\nBauordnung geregelt war. Hinzukommt, dass die BayBO und das BayAbgrG im Grundsatz dieselbe Struktur\nund Systematik aufweisen. Dies spricht dafür, dass sämtliche Maßnahmen, für deren Erlass in den Art. 75\nund 76 BayBO Sonderbefugnisnormen bestehen, im Abgrabungsrecht über die abgrabungsrechtliche\nGeneralklausel erlassen werden können und zudem die hinsichtlich der Art. 75 und Art. 76 BayBO\nentwickelten Grundsätze, vorbehaltlich etwaiger abgrabungsrechtlicher Besonderheiten, auf die\nKonstellation des abgrabungsaufsichtlichen Einschreitens nach Art. 4 Abs. 2 Satz 2 BayAbgrG übertragen\nwerden können (VG München, U.v. 16.2.2017 - M 11 K 16.3938 - juris Rn. 21).\n22\nDem Genehmigungsbescheid vom 20. November 2012 und den genehmigten Eingabeplänen ist zu\nentnehmen, dass eine Abbautiefe von 457,00 m ü. NN im östlichen Bereich und 453,00 m ü. NN im\nwestlichen Bereich genehmigt wurde. Aus den vom Landratsamt vorgenommenen Baukontrollen ergibt sich,\ndass die genehmigte Abbautiefe auf dem Grundstück mit der Fl.Nr. ... um mindestens 0,62 m bis 1,82 m\nüberschritten wurde. Zuletzt wurde von Klägerseite angezweifelt, wie die Ermittlung dieses Maßes\nüberhaupt stattgefunden habe, da das Landratsamt selbst davon ausgehe, dass es keinen festen\nHöhenfixpunkt gebe. In der mündlichen Verhandlung hat der Baukontrolleur aber nachvollziehbar dargelegt,\nwie die Abbautiefe in derartigen Fällen gemessen wird. Dabei werde die in den Planunterlagen\neingezeichnete Geländeoberkante als Bezugshöhe festgelegt. Das umliegende Baufeld könne dann als\nBezugspunkt für die Gerätehöhe herangezogen werden, da es vorliegend sehr eben gestaltet ist. Mit Hilfe\nvon Winkelmessungen und dem Sinussatz könne dann festgestellt werden, wie tief die Abbausohle sei. Der\nSchwankungsbereich der Messung liege dabei bei bis zu 20 cm. Damit steht zur Überzeugung des Gerichts\nfest, dass die im Bescheid festgelegten Abbautiefen überschritten wurden. Die von der Klägerin vorgelegte\nneue hydrogeologische Stellungnahme vom 13. November 2018, in der an der NE-Ecke des\nstreitgegenständlichen Grundstücks eine Abbautiefe von 455 m ü. NN anstatt 457 m ü. NN für zulässig\nerachtet wird, ändert nichts an der rechtlichen Bewertung. Rechtliche Grundlage für die Abgrabungsarbeiten\nbildet die bestandskräftige Abgrabungsgenehmigung mit den dort festgelegten Abbautiefen, an die sich die\nKlägerin zu halten hat. Außerdem ist in Ziffer 6.9 des Bescheides vom 20. November 2012 ausdrücklich\ngeregelt, dass bei neuen Erkenntnissen zum höchsten Grundwasserstand die Abbautiefe nach Abstimmung\nmit dem Landratsamt/Wasser-wirtschaftsamt zu korrigieren und anzupassen ist. Eine solche Abstimmung ist\nnicht erfolgt. Im Übrigen wurde das neue Gutachten auch erst nach Bescheiderlass vorgelegt.\n23\nDes Weiteren wurde die Auflage Nr. 6.13 des Bescheides vom 20. November 2012 hinsichtlich der\nBöschungswinkel von maximal 36 Grad zum Feldweg und maximal 45 Grad zu den Nachbargrundstücken\nnicht eingehalten. Dies hat die Klägerin nochmals in der mündlichen Verhandlung selbst eingeräumt. Damit\nliegt ein Verstoß gegen eine bestandskräftige Auflage vor, der ebenfalls zu der Anordnung einer Einstellung\nder Abgrabungsarbeiten berechtigt (vgl. VG München, B.v. 2.12.2010 - M 1 S 10.4478 - juris).\n24\nDa die durchgeführten Abgrabungsarbeiten aufgrund der Abweichung von der Genehmigungslage formell\nillegal waren, konnte die Einstellungsverfügung auf der Grundlage des Art. 4 Abs. 2 Satz 2 BayAbgrG\nerlassen werden (vgl. VG München - U.v. 16.2.2017 - M 11 K 16.3938 - juris Rn. 21).\n25\nAufgrund der im Raum stehenden sicherheitsrechtlichen Bedenken im Hinblick auf die Standsicherheit ist\nzudem von einer Gefahrenlage für Leib und Leben von Personen auszugehen. Aufgrund des zu steilen\nBöschungswinkels besteht die Gefahr eines Abrutschens bzw. Einsturzes der Böschung und damit eine\nGefährdung von Leib und Leben von Personen, die sich an oder in der Kiesgrube aufhalten bzw. dort tätig\nsind.\n26\nNachdem die Abgrabungsarbeiten der Genehmigungslage widersprechen, entspricht die angeordnete\nEinstellung der Arbeiten auch pflichtgemäßem Ermessen. In der Regel besteht ein öffentliches Interesse,\ndie Fortführung unzulässiger Abgrabungsarbeiten zu verhindern. Wegen der Vergleichbarkeit der\nEinstellung nach BayAbgrG mit der Baueinstellung nach Art. 75 BayBO ist auch im vorliegenden Fall von\neinem intendierten Ermessen auszugehen (vgl. zu Art. 75 BayBO u.a. BayVGH, B.v. 2.8.2000 - 1 ZB\n97.2669 - juris Rn. 5). An die Ermessensüberprüfung sind daher nur geringe Anforderungen zu stellen (vgl.\nDecker in Simon/Busse, Bayerische Bauordnung, Stand: März 2018, Art. 75 Rn. 83 ff.). Anhaltspunkte für\ndas Vorliegen von Ermessensfehlern im Rahmen der eingeschränkten gerichtlichen Überprüfung nach §\n114 VwGO sind im Übrigen nicht ersichtlich.\n27\n2. Die in Ziffer 2 des angefochtenen Bescheides enthaltene Anordnung, einen fünf Meter breiten\nSicherheits- bzw. Abstandsstreifen mit einem Böschungswinkel von 45 bzw. 36 Grad anzubringen, ist\nebenfalls rechtmäßig.\n28\nRechtsgrundlage hierfür ist ebenfalls die Generalklausel des Art. 4 Abs. 2 Satz 2 BayAbgrG. Die Anordnung\ndient der Einhaltung der Genehmigungslage und Erfüllung der Auflage Nr. 6.13 im Bescheid vom 20.\nNovember 2012. Es handelt sich demzufolge um eine Konkretisierung der bereits aus dem\nbestandskräftigen Bescheid bestehenden Pflichten. Diese im angefochtenen Bescheid konkretisierte\nVerpflichtung war aufgrund der rechtswidrigen Situation und der Gefahrenlage auch erforderlich.\n29\nDie in Ziffer 3 des angefochtenen Bescheides enthaltene Anordnung, im Bereich der Abbausohle, welche\ntiefer als nach dem genehmigten Bauvorlagen ausgeführt worden sei, ausschließlich nur örtliches\nKiesmaterial zu verfüllen, soweit dies für die Verfüllung nach Ziffer 2 erforderlich ist, ist ebenfalls\nrechtmäßig. Sie konkretisiert die Art der Ausführung der in Ziffer 2 angeordneten Verfüllungsarbeiten.\nBereits in Nr. 6.15 der Genehmigung vom 20. November 2012 wurde festgelegt, dass nur örtlich anfallender\nAbraum sowie unbedenkliches Bodenmaterial verfüllt werden darf. Zudem dient die Verpflichtung dem\nSchutz des Grundwassers. Da aufgrund der von der Genehmigungslage abweichenden Abbautiefe die\nEinhaltung des Abstands vom 2 m zum höchsten Grundwasserstand (vgl. Auflage Nr. 6.9 des Bescheids\nvom 20. November 2012) nicht mehr gewährleistet war, durfte zum Schutz des Grundwassers nur eine\nVerfüllung mit örtlichem Kiesmaterial erfolgen. Die Einhaltung des gemäß des Eckpunktepapiers des\nBayerischen Staatsministeriums für Landesentwicklung und Umweltfragen erforderlichen Abstandes von 2\nm zum höchsten Grundwasserstand ist nach den Aussagen des hydrogeologischen Gutachtens vom 24.\nJanuar 2012, das Bestandteil der Abgrabungsgenehmigung ist, nur bei einer Einhaltung des Niveaus von\n457 m ü. NN im Osten und 453 m ü. NN im Westen gewährleistet (S. 7 des Gutachtens). In der Abbausohle,\ndie den Abstand von 2 m zum höchsten Grundwasserstand nicht wahrt, darf deshalb kein ortsfremdes\nMaterial verfüllt werden. Das hydrogeologische Gutachten vom 13. November 2018, auf das die Klägerin\nsich nunmehr bezieht, lag zum einen zum maßgeblichen Zeitpunkt des Bescheiderlasses noch nicht vor.\nZudem sieht es in der SW-Ecke nunmehr ein Niveau von 455 m ü. NN und damit sogar eine geringere\nAbbautiefe als im Genehmigungsbescheid vor. Dies lässt Rückschlüsse auf den Schwankungsbereich des\nGrundwassers zu und rechtfertigt es, die im Bescheid auf Grundlage des damaligen hydrogeologischen\nGutachtens festgesetzten Werte weiterhin als verbindlich anzusehen. Alleine die bestandskräftige\nAbgrabungsgenehmigung vom 20. November 2012 mit den dort festgelegten Abbautiefen gewährt deshalb\nder Klägerin die Befugnis zum Abbau.\n30\nAuch bei den Anordnungen in den Ziffern 2 und 3 des Bescheides handelt es sich um\nErmessensentscheidungen. Der gerichtliche Prüfungsumfang ist hinsichtlich des Ermessens nach § 114\nSatz 1 VwGO eingeschränkt. Die Notwendigkeit einer Ermessensbetätigung wurde vom Landratsamt\nerkannt und das Ermessen ausgeübt. Für das Vorliegen von Ermessensfehlern ist weder etwas vorgetragen\nnoch ersichtlich.\n31\n3. Die in Ziffer 5 des Bescheides enthaltenen Zwangsgeldandrohungen für den jeweiligen Fall der\nNichterfüllung der in den Ziffern 1 bis 3 des Bescheides angeordneten Verpflichtungen genügen den\nrechtlichen Anforderungen der Art. 31, 36 VwZVG. Die Zwangsgeldandrohungen sind nach den einzelnen\nVerpflichtungen aus den jeweiligen Ziffern des Bescheides differenziert und hinreichend bestimmt formuliert.\n32\nDie Höhe der jeweiligen angedrohten Zwangsgelder hält sich in dem in Art. 31 Abs. 2 VwZVG eröffneten\nRahmen und ist auch im Hinblick auf die wirtschaftliche Bedeutung der Verpflichtungen angemessen.\n33\n4. Die Kostenentscheidung ergibt sich aus § 154 Abs. 1 VwGO. Als im Verfahren unterlegen hat die\nKlägerin die Kosten des Verfahrens zu tragen. Der Ausspruch hinsichtlich der vorläufigen Vollstreckbarkeit\nder Kostenentscheidung ergibt sich aus §§ 167 Abs. 2 VwGO, 708 Nr. 11, 711 ZPO.\n\n\n"
+}

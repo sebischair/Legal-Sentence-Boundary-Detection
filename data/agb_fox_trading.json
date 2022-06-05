@@ -1,0 +1,419 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bestimmungen",
+            "end": 29,
+            "start": 17,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 202,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 328,
+            "start": 315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 569,
+            "start": 565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 791,
+            "start": 784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 825,
+            "start": 816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Waren",
+            "end": 880,
+            "start": 875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 989,
+            "start": 980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 1088,
+            "start": 1081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 1311,
+            "start": 1302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 1376,
+            "start": 1361,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1633,
+            "start": 1632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1740,
+            "start": 1732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 1836,
+            "start": 1821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unverbindlich",
+            "end": 1913,
+            "start": 1900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2051,
+            "start": 2045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "automatisiert",
+            "end": 2220,
+            "start": 2207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2432,
+            "start": 2428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsarten",
+            "end": 2491,
+            "start": 2478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BillSAFE",
+            "end": 2523,
+            "start": 2515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2569,
+            "start": 2551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 2694,
+            "start": 2687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2777,
+            "start": 2769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 2790,
+            "start": 2783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 2905,
+            "start": 2895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fällen",
+            "end": 3165,
+            "start": 3159,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3322,
+            "start": 3321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 3488,
+            "start": 3478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 3913,
+            "start": 3907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 4046,
+            "start": 4032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4204,
+            "start": 4198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistung",
+            "end": 4336,
+            "start": 4322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 4382,
+            "start": 4369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 4411,
+            "start": 4406,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4634,
+            "start": 4633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4898,
+            "start": 4894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5084,
+            "start": 5081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 5196,
+            "start": 5187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 5273,
+            "start": 5264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufers",
+            "end": 5302,
+            "start": 5292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 5312,
+            "start": 5303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 5362,
+            "start": 5353,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5547,
+            "start": 5546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 5592,
+            "start": 5569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 5625,
+            "start": 5618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 5692,
+            "start": 5681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5864,
+            "start": 5858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersandt",
+            "end": 6073,
+            "start": 6064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 6287,
+            "start": 6281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodizes",
+            "end": 6309,
+            "start": 6292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unter",
+            "end": 6423,
+            "start": 6418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "pdf",
+            "end": 6517,
+            "start": 6514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistung",
+            "end": 6570,
+            "start": 6556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Internetseite",
+            "end": 6722,
+            "start": 6709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmodalitäten",
+            "end": 6757,
+            "start": 6738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 6862,
+            "start": 6859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuern",
+            "end": 6942,
+            "start": 6935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 7012,
+            "start": 7003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7311,
+            "start": 7308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 7504,
+            "start": 7493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 7656,
+            "start": 7650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 7678,
+            "start": 7661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artikelbeschreibung",
+            "end": 7910,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 8212,
+            "start": 8205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8389,
+            "start": 8384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 8426,
+            "start": 8407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 8481,
+            "start": 8461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 8706,
+            "start": 8695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsansprüche",
+            "end": 8807,
+            "start": 8783,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Grundlegende Bestimmungen\n(1) Die nachstehenden Geschäftsbedingungen gelten für alle Verträge, die Sie mit uns als Anbieter (Fox Trading GmbH) über die Internetseite www.parfuemfuerdich.de schließen. Soweit nicht anders vereinbart, wird der Einbeziehung gegebenenfalls von Ihnen verwendeter eigener Bedingungen widersprochen.\n(2) Verbraucher im Sinne der nachstehenden Regelungen ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist jede natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer selbständigen beruflichen oder gewerblichen Tätigkeit handelt.\n§ 2 Zustandekommen des Vertrages\n(1) Gegenstand des Vertrages ist der Verkauf von Waren.\nUnsere Angebote im Internet sind unverbindlich und kein verbindliches Angebot zum Abschluss eines Vertrages.\n(2) Sie können ein verbindliches Kaufangebot (Bestellung) über das Online-Warenkorbsystem abgeben.\n(3)  Soweit Sie das Bezahl-System „Amazon Payments“ nutzen, erhalten Sie von Amazon.de eine automatische E-Mail, die entweder die durch Sie erfolgte Autorisierung einer Zahlung  oder den Eingang Ihrer Bestellung bestätigt. Diese E-Mail von Amazon.de führt noch nicht zum Vertragsschluss.\n(4) Die Annahme des Angebots (und damit der Vertragsabschluss) erfolgt unverzüglich nach Bestellung durch Bestätigung in Textform (z.B. E-Mail), in welcher Ihnen die Ausführung der Bestellung oder Auslieferung der Ware bestätigt wird (Auftragsbestätigung).\nSollten Sie keine entsprechende Nachricht erhalten haben, sind Sie nicht mehr an Ihre Bestellung gebunden. Gegebenenfalls bereits erbrachte Leistungen werden in diesem Fall unverzüglich zurückerstattet.\n(5) Ihre Anfragen zur Erstellung eines Angebotes sind für Sie unverbindlich. Wir unterbreiten Ihnen hierzu ein verbindliches Angebot in Textform (z.B. per E-Mail), welches Sie innerhalb von 5 Tagen annehmen können.\n(6) Die Abwicklung der Bestellung und Übermittlung aller im Zusammenhang mit dem Vertragsschluss erforderlichen Informationen erfolgt per E-Mail zum Teil automatisiert. Sie haben deshalb sicherzustellen, dass die von Ihnen bei uns hinterlegte E-Mail-Adresse zutreffend ist, der Empfang der E-Mails technisch sichergestellt und insbesondere nicht durch SPAM-Filter verhindert wird.\n§ 3 Besondere Vereinbarungen zu angebotenen Zahlungsarten\n(1) Rechnungskauf über BillSAFE\n§ 4 Zurückbehaltungsrecht, Eigentumsvorbehalt\n(1) Ein Zurückbehaltungsrecht können Sie nur ausüben, soweit es sich um Forderungen aus demselben Vertragsverhältnis handelt.\n(2)  Die Ware bleibt bis zur vollständigen Zahlung des Kaufpreises unser Eigentum.\n§ 5 Haftung\n(1)  Wir haften jeweils uneingeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Weiter haften wir ohne Einschränkung in allen Fällen des Vorsatzes und grober Fahrlässigkeit, bei arglistigem Verschweigen eines Mangels, bei Übernahme der Garantie für die Beschaffenheit des Kaufgegenstandes und in allen anderen gesetzlich geregelten Fällen.\n(2) Die Haftung für Mängel im Rahmen der gesetzlichen Gewährleistung richtet sich nach der entsprechenden Regelung in unseren Kundeninformationen (Teil II).\n(3) Sofern wesentliche Vertragspflichten betroffen sind, ist unsere Haftung bei leichter Fahrlässigkeit auf den vertragstypischen, vorhersehbaren Schaden beschränkt. Wesentliche Vertragspflichten sind wesentliche Pflichten, die sich aus der Natur des Vertrages ergeben und deren Verletzung die Erreichung des Vertragszweckes gefährden würde sowie Pflichten, die der Vertrag uns nach seinem Inhalt zur Erreichung des Vertragszwecks auferlegt, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst möglich machen und auf deren Einhaltung Sie regelmäßig vertrauen dürfen.\n(4)  Bei der Verletzung unwesentlicher Vertragspflichten ist die Haftung bei leicht fahrlässigen Pflichtverletzungen ausgeschlossen.\n(5)  Die Datenkommunikation über das Internet kann nach dem derzeitigen Stand der Technik nicht fehlerfrei und/oder jederzeit verfügbar gewährleistet werden. Wir haften insoweit weder für die ständige noch ununterbrochene Verfügbarkeit der Webseite und der dort angebotenen Dienstleistung.\n§ 6 Rechtswahl, Erfüllungsort, Gerichtsstand\n(1)  Es gilt deutsches Recht. Bei Verbrauchern gilt diese Rechtswahl nur, soweit hierdurch der durch zwingende Bestimmungen des Rechts des Staates des gewöhnlichen Aufenthaltes des Verbrauchers gewährte Schutz nicht entzogen wird (Günstigkeitsprinzip).\n(2)  Erfüllungsort für alle Leistungen aus den mit uns bestehenden Geschäftsbeziehungen sowie Gerichtsstand ist unser Sitz, soweit Sie nicht Verbraucher, sondern Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen sind. Dasselbe gilt, wenn Sie keinen allgemeinen Gerichtsstand in Deutschland oder der EU haben oder der Wohnsitz oder gewöhnliche Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist. Die Befugnis, auch das Gericht an einem anderen gesetzlichen Gerichtsstand anzurufen, bleibt hiervon unberührt.\n(3)  Die Bestimmungen des UN-Kaufrechts finden ausdrücklich keine Anwendung.\n1. Identität des Verkäufers\nAnschrift\n2. Informationen zum Zustandekommen des Vertrages\nDie technischen Schritte zum Vertragsschluss, der Vertragsschluss selbst und die Korrekturmöglichkeiten erfolgen nach Maßgabe des § 2 unserer Allgemeinen Geschäftsbedingungen (Teil I.).\n3. Vertragssprache, Vertragstextspeicherung\n3.1. Vertragssprache ist deutsch.\n3.2. Der vollständige Vertragstext wird von uns nicht gespeichert. Vor Absenden der Bestellung über das Online - Warenkorbsystem  können die Vertragsdaten über die Druckfunktion des Browsers ausgedruckt oder elektronisch gesichert werden. Nach Zugang der Bestellung bei uns werden die Bestelldaten, die gesetzlich vorgeschriebenen Informationen bei Fernabsatzverträgen und die Allgemeinen Geschäftsbedingungen nochmals per E-Mail an Sie übersandt.\n3.3. Bei Angebotsanfragen außerhalb des Online-Warenkorbsystems erhalten Sie alle Vertragsdaten im Rahmen eines verbindlichen Angebotes per E-Mail übersandt, welche Sie ausdrucken oder elektronisch sichern können.\n4. Verhaltenskodizes\n4.1. Wir haben uns den Käufersiegel-Qualitätskriterien der Händlerbund Management AG unterworfen, einsehbar unter: http://www.haendlerbund.de/images/content/kaeufersiegel/kaeufersiegel-qualitatskriterien.pdf\n5. Wesentliche Merkmale der Ware oder Dienstleistung\nDie wesentlichen Merkmale der Ware und/oder Dienstleistung finden sich in der Artikelbeschreibung und den ergänzenden Angaben auf unserer Internetseite.\n6. Preise und Zahlungsmodalitäten\n6.1. Die in den jeweiligen Angeboten angeführten Preise sowie die Versandkosten stellen Gesamtpreise dar. Sie beinhalten alle Preisbestandteile einschließlich aller anfallenden Steuern.\n6.2. Die anfallenden Versandkosten sind nicht im Kaufpreis enthalten. Sie sind über eine entsprechend bezeichnete Schaltfläche auf unserer Internetpräsenz oder in der jeweiligen Artikelbeschreibung aufrufbar, werden im Laufe des Bestellvorganges gesondert ausgewiesen und sind von Ihnen zusätzlich zu tragen, soweit nicht die versandkostenfreie Lieferung zugesagt ist.\n6.3. Die Ihnen zur Verfügung stehenden Zahlungsarten sind unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder in der jeweiligen Artikelbeschreibung ausgewiesen.\n6.4. Soweit bei den einzelnen Zahlungsarten nicht anders angegeben, sind die Zahlungsansprüche aus dem geschlossenen Vertrag sofort zur Zahlung fällig.\n7. Lieferbedingungen\n7.1. Die Lieferbedingungen, der Liefertermin sowie gegebenenfalls bestehende Lieferbeschränkungen finden sich unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder in der jeweiligen Artikelbeschreibung.\n7.2. Soweit Sie Verbraucher sind ist gesetzlich geregelt, dass die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache während der Versendung erst mit der Übergabe der Ware an Sie übergeht, unabhängig davon, ob die Versendung versichert oder unversichert erfolgt. Dies gilt nicht, wenn Sie eigenständig ein nicht vom Unternehmer benanntes Transportunternehmen oder eine sonst zur Ausführung der Versendung bestimmte Person beauftragt haben.\n8. Gesetzliches Mängelhaftungsrecht\n8.1. Es bestehen die gesetzlichen Mängelhaftungsrechte.\n8.2. Als Verbraucher werden Sie gebeten, die Ware bei Lieferung umgehend auf Vollständigkeit, offensichtliche Mängel und Transportschäden zu überprüfen und uns sowie dem Spediteur Beanstandungen schnellstmöglich mitzuteilen. Kommen Sie dem nicht nach, hat dies keine Auswirkung auf Ihre gesetzlichen Gewährleistungsansprüche.\n\n"
+}

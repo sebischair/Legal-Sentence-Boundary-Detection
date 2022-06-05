@@ -1,0 +1,695 @@
+{
+    "Annotations": [
+        {
+            "annotation": "ER",
+            "end": 55,
+            "start": 53,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 61,
+            "start": 56,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sanktionsregelungen",
+            "end": 109,
+            "start": 90,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 122,
+            "start": 110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 154,
+            "start": 153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "193",
+            "end": 189,
+            "start": 186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 199,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 317,
+            "start": 312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 370,
+            "start": 368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 542,
+            "start": 541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 681,
+            "start": 678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 694,
+            "start": 683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 887,
+            "start": 880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 898,
+            "start": 888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8777",
+            "end": 917,
+            "start": 913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 923,
+            "start": 918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeordnet",
+            "end": 1032,
+            "start": 1022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1130,
+            "start": 1124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1138,
+            "start": 1132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1140,
+            "start": 1139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1143,
+            "start": 1142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1298,
+            "start": 1293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1301,
+            "start": 1300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewilligt",
+            "end": 1495,
+            "start": 1486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 1564,
+            "start": 1550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehoben",
+            "end": 1671,
+            "start": 1662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgemeldet",
+            "end": 1850,
+            "start": 1840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1853,
+            "start": 1852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 2028,
+            "start": 2025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 2196,
+            "start": 2193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 2365,
+            "start": 2362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2368,
+            "start": 2367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 2555,
+            "start": 2545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellers",
+            "end": 2730,
+            "start": 2716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entzogen",
+            "end": 2844,
+            "start": 2836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 2878,
+            "start": 2873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 2961,
+            "start": 2957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 2986,
+            "start": 2978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 3049,
+            "start": 3042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgebracht",
+            "end": 3134,
+            "start": 3123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 3197,
+            "start": 3194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3200,
+            "start": 3199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerspruchs",
+            "end": 3338,
+            "start": 3326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 3438,
+            "start": 3432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3490,
+            "start": 3484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3538,
+            "start": 3532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugegangen",
+            "end": 3602,
+            "start": 3592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3718,
+            "start": 3715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3834,
+            "start": 3831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geändert",
+            "end": 3930,
+            "start": 3922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrnehmen",
+            "end": 4111,
+            "start": 4101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4114,
+            "start": 4113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4317,
+            "start": 4314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgenommen",
+            "end": 4402,
+            "start": 4391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stromschulden",
+            "end": 4524,
+            "start": 4511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4592,
+            "start": 4587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4595,
+            "start": 4594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuordnen",
+            "end": 4723,
+            "start": 4713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4726,
+            "start": 4725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 4777,
+            "start": 4767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4780,
+            "start": 4779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 4951,
+            "start": 4944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 5067,
+            "start": 5061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschehen",
+            "end": 5117,
+            "start": 5108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5165,
+            "start": 5159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5169,
+            "start": 5167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5173,
+            "start": 5171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 5312,
+            "start": 5304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5438,
+            "start": 5434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5442,
+            "start": 5440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5657,
+            "start": 5654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interessenabwägung",
+            "end": 5757,
+            "start": 5739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 5997,
+            "start": 5985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6118,
+            "start": 6116,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6336,
+            "start": 6335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6340,
+            "start": 6338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einräumt",
+            "end": 6624,
+            "start": 6616,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6944,
+            "start": 6943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6948,
+            "start": 6946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 7202,
+            "start": 7201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entziehung",
+            "end": 7255,
+            "start": 7245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7259,
+            "start": 7257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 7483,
+            "start": 7482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 7702,
+            "start": 7696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7706,
+            "start": 7704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 7846,
+            "start": 7845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 7934,
+            "start": 7925,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8161,
+            "start": 8160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8165,
+            "start": 8163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 8244,
+            "start": 8243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 8504,
+            "start": 8495,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8672,
+            "start": 8671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 8891,
+            "start": 8881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wege",
+            "end": 9034,
+            "start": 9030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 9038,
+            "start": 9036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entziehung",
+            "end": 9092,
+            "start": 9082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 9279,
+            "start": 9278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 9358,
+            "start": 9354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9362,
+            "start": 9360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 9462,
+            "start": 9455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 9599,
+            "start": 9590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 9729,
+            "start": 9722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 9884,
+            "start": 9879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügbarkeit",
+            "end": 10001,
+            "start": 9988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 10108,
+            "start": 10103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 10242,
+            "start": 10241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuordnen",
+            "end": 10314,
+            "start": 10304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10318,
+            "start": 10316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesetzt",
+            "end": 10418,
+            "start": 10408,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10926,
+            "start": 10925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 11057,
+            "start": 11055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 11200,
+            "start": 11192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11204,
+            "start": 11202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 11283,
+            "start": 11280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "G",
+            "end": 11282,
+            "start": 11281,
+            "type": "SBD"
+        }
+    ],
+    "Text": "SG München, Beschluss v. 18.04.2019 – S 46 AS 785/19 ER\nTitel:\nMitwirkungspflichten neben Sanktionsregelungen\nNormenketten:\nSGB I § 39, § 61, § 138 Abs. 5\nSGG § 86b Abs. 1 S. 1 Nr. 2, § 193\nLeitsätze:\n1. Die Sanktionsregelungen nach §§ 31 ff SGB II verdrängen die Vorschriften zur Mitwirkung nach §§\n60 ff SGB I nicht. Dies gilt auch für Meldesanktionen nach § 32 SGB II.\n2. Eine Entziehung von Arbeitslosengeld II hat u. a. gemäß § 66 SGB I Abs. 1 S. 1 SGB I zur\nVoraussetzung, dass \"die Voraussetzungen der Leistung nicht nachgewiesen sind\". Aus einem\ndreimaligen unentschuldigten Meldeversäumnis folgt nicht automatisch, dass die Hilfebedürftigkeit\nnicht (mehr) nachgewiesen ist.\nSchlagworte:\nEntziehung, Meldeversäumnis, Mitwirkung, persönliches Erscheinen, Sanktion, Versagung,\nArbeitslosengeld, Sofortvollzug, aufschiebende Wirkung, Ermessen, ernstliche Zweifel, Jobcenter, Zahlung\nFundstelle:\nBeckRS 2019, 8777\nTenor\nI. Die aufschiebende Wirkung des Widerspruchs gegen den Entziehungsbescheid vom 7. März 2019 wird\nangeordnet.\nII. Der Antragsgegner hat die notwendigen außergerichtlichen Kosten des Antragstellers zu tragen.\nGründe\nI.\n1\nDer Antragsteller wendet sich im Eilverfahren gegen einen Bescheid, mit dem Arbeitslosengeld II nach § 66\nSGB I wegen mangelnder Mitwirkung entzogen wurde.\n2\nDem 1981 geborenen Antragsteller wurde mit Bescheid vom 29.11.2018 Arbeitslosengeld II für die Zeit von\nOktober 2018 bis einschließlich September 2019 in Höhe von monatlich 986,- Euro bewilligt. Die\ntatsächliche Miete von 570,- Euro war als Bedarf berücksichtigt. Mit Änderungsbescheid vom 13.12.2018\nwurde die Leistung ab Januar 2019 auf monatlich 994,- Euro angehoben. Im Februar 2017 hatte er eine\nselbständige Tätigkeit (Betreuung von Veranstaltungen, Einbau Fenster/Türen/Regale, Auf- und Abbau von\nZelten, Durchführung von Umzügen) abgemeldet.\n3\nMit Bescheid vom 16.01.2019 erfolgte eine Sanktion in Höhe von 10% des Regelbedarfs, weil der\nAntragsteller zum Meldetermin am 20.12.2018 ohne Begründung nicht erschienen war. Mit Bescheid vom\n11.02.2019 erfolgte eine weitere Sanktion in Höhe von 10% des Regelbedarfs, weil der Antragsteller zum\nMeldetermin am 16.01.2019 nicht erschienen war. Mit Bescheid vom 27.02.2019 erfolgte nochmals eine\nSanktion in Höhe von 10% des Regelbedarfs, weil der Antragsteller zum Meldetermin am 30.01.2019 nicht\nerschienen war.\n4\nMit Schreiben vom 27.02.2019 wurde der Antragsteller aufgefordert, am 07.03.2019 gemäß § 61 SGB I zur\nAbklärung der Hilfebedürftigkeit als Anspruchsvoraussetzung persönlich zu erscheinen. Aufgrund der drei\nvorangegangenen Sanktionen wegen Meldeversäumnissen bestünden erhebliche Zweifel an der\nHilfsbedürftigkeit und der Leistungsberechtigung des Antragstellers. Wenn der Antragsteller nicht erscheine,\nwürden die Leistungen wegen fehlender Mitwirkung zum 31.03.2019 entzogen. Der Antragsteller erschien\nnicht. Mit Bescheid vom 07.03.2019 einzog der Antragsgegner die Leistungen ab 31.03.2019. Ermessen\nwerde ausgeübt. Der Antragsgegner sei verpflichtet, wirtschaftlich zu handeln. Gesichtspunkte zu Gunsten\ndes Antragstellers seien weder erkennbar noch vorgebracht. Der Antragsteller legte dagegen am\n22.03.2019 Widerspruch ein.\n5\nAm 04.04.2019 stellte der Antragsteller beim Sozialgericht München einen Antrag auf Anordnung der\naufschiebenden Wirkung des Widerspruchs. Eilbedürftigkeit liege vor, der Antragsteller könne die Miete\nnicht bezahlen und kein Essen kaufen. Der Antragsteller sei vorher nicht angehört worden. Das Ermessen\nsei nicht richtig ausgeübt worden. Das Aufforderungsschreiben vom 27.02.2019 sei nicht zugegangen. Auf\nNachfrage des Gerichts räumte der Antragsteller ein, dass ihm das Schreiben vom 27.02.2019 doch\nzugegangen sei. Eine Entziehung nach § 66 SGB I sei nicht möglich, weil § 32 SGB II eine vorrangige und\nspeziellere Vorschrift sei. Durch das Versäumen der Meldetermine habe sich an den\nLeistungsvoraussetzungen nichts geändert. Der Antragsteller sei nach Trennung von seiner Familie\npsychischen ein tiefes Loch gefallen und könne nur die allernotwendigsten Dinge tun, nicht aber einen\nMeldetermin wahrnehmen.\n6\nAus dem im Eilverfahren vorgelegten Kontoauszug ergibt sich, dass der Antragsteller am 01.02.2019 von\nseinem Konto 370,- Euro abgehoben hat und am selben Tag 420,- Euro auf dasselbe Konto eingezahlt hat.\nAnschließend hat er zwei Überweisungen in Höhe von zusammen 411,16 Euro vorgenommen. Es handelt\nsich um eine Zahlung an die Bahn (laut Antragsteller wegen Schwarzfahrens) und eine Zahlung auf\nStromschulden. Abhebungen für den Lebensunterhalt erfolgten im Februar 2019 nicht.\n7\nDer Antragsteller beantragt,\ndie aufschiebende Wirkung des Widerspruchs gegen den Entziehungsbescheid vom 07.03.2019\nanzuordnen.\n8\nDer Antragsgegner beantragt, den Antrag abzulehnen.\n9\nDer Antragsgegner verweist auf, dass nach der Rechtsprechung des BSG, Urteil vom 29.04.2015, B 14 AS\n19/14 R, nicht beliebig viele Meldesanktionen verhängt werden könnten. Nach einer Mehrzahl erfolgloser\nEinladungen müsse das Jobcenter die Sachlage überprüfen und seine Strategie ändern. Dies sei durch den\nEntziehungsbescheid geschehen. Das Ermessen sei ordnungsgemäß ausgeübt worden.\nII.\n10\nDie aufschiebende Wirkung des Widerspruchs ist anzuordnen, weil erhebliche Zweifel an der\nRechtmäßigkeit des Entziehungsbescheids bestehen. Dies hat zur Folge, dass die ursprünglich bewilligten\nLeistungen, jedoch vermindert um die Sanktionsabzüge, auszuzahlen sind.\n11\nStatthaft ist ein Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs gemäß § 86b Abs. 1\nS. 1 Nr. 2 Sozialgerichtsgesetz (SGG), weil die Entziehung aufgrund von § 39 Nr. 1 SGB II sofort vollziehbar\nist. Die Entscheidung steht im Ermessen des Gerichts und erfolgt auf Grundlage einer Interessenabwägung.\nAbzuwägen sind das private Interesse des Antragstellers, vom Vollzug des Verwaltungsaktes bis zum\nrechtskräftigen Abschluss des Verfahrens verschont zu bleiben und das öffentliche Interesse an der\nVollziehung der behördlichen Entscheidung. Im Rahmen dieser Abwägung kommt den Erfolgsaussichten\ndes Rechtsbehelfs in der Hauptsache eine wesentliche Bedeutung zu. Daneben ist von Bedeutung, ob eine\nDringlichkeit für das im Eilverfahren geltend gemachte Anliegen vorliegt (BayLSG, Beschluss vom\n13.02.2015, L 7 AS 23/15 B ER; BayLSG, Beschluss vom 07.01.2015, L 16 AS 734/14 B ER).\n12\nDabei ist die Wertung des § 39 SGB II zu berücksichtigen, wonach der Gesetzgeber aufgrund einer\ntypisierenden Abwägung der Individual- und öffentlichen Interessen dem öffentlichen Interesse am\nSofortvollzug prinzipiell Vorrang gegenüber entgegenstehenden privaten Interessen einräumt. Eine\nAbweichung von diesem Regel-Ausnahmeverhältnis kommt nur in Betracht, wenn ernstliche Zweifel an der\nRechtmäßigkeit der angefochtenen Bescheide bestehen oder wenn ausnahmsweise besondere private\nInteressen überwiegen (Meyer-Ladewig, SGG, 12. Auflage 2017, § 86b Rn. 12c; Bay LSG vom 13.02.2015,\nL 7 AS 23/15 B ER).\n13\nEs bestehen erhebliche Zweifel an der Rechtmäßigkeit des Entziehungsbescheids, weil das\nNichterscheinen zu drei Meldeterminen allein nicht bewirkt, dass die Leistungsvoraussetzungen nicht (mehr)\nnachgewiesen sind im Sinn von § 66 Abs. 1 S. 1 a. E. SGB I. Es fehlt also an einer Voraussetzung der\nEntziehung.\n14\nEntgegen der wohl herrschenden Meinung (vgl. Eicher, SGB II, 4. Auflage 2017, § 32 Rn. 6 mit weiteren\nNachweisen) verdrängt die Regelung der Meldesanktion nach § 32 SGB II nicht die Mitwirkungsregelungen\nnach §§ 60 ff SGB I. Auch die Obliegenheit zum persönlichen Erscheinen nach § 61 SGB I kann im SGB II\neingefordert werden und, bei Vorliegen der Voraussetzungen des § 66 SGB I, ggf. zu einer Versagung oder\nEntziehung der Leistungen führen.\n15\nDie Sanktionsregeln nach §§ 31 ff SGB II verdrängen die Regelungen nach §§ 60 ff SGB I nicht als\nSpezialvorschriften im Sinn von § 37 SGB I. Die allgemeinen Mitwirkungsvorschriften sind neben den\nSanktionsvorschriften anwendbar. Es handelt sich um zwei Rechtsinstitute mit unterschiedlichen\nVoraussetzungen, Rechtscharakter und Folgen (BSG, Urteil vom 14.05.2014, B 11 AL 8/13 R, dort Rn. 28;\nBayLSG, Beschluss vom 31.08.2012, L 7 AS 601/12 B ER, Rn. 40).\n16\nDas gilt auch für die Aufforderung zum persönlichen Erscheinen nach § 61 SGB I. Das BSG hat a.a.O.\nentschieden, dass ein dreimaliges unentschuldigtes Fernbleiben vom Meldetermin einen Wegfall der\nVerfügbarkeit nach § 138 Abs. 5 SGB III und damit eine Aufhebung der Bewilligung von Arbeitslosengeld\nnach SGB III nicht automatisch begründet. Die Behörde könne aber alternativ nach §§ 61, 60 SGB I\nvorgehen, weil die Regelungen zur Meldepflicht nach § 309 SGB III dies nicht ausschließen (BSG, a.a.O.,\nRn. 28). Vor dem Hintergrund, dass ein Meldeversäumnis im SGB III mit einer Sperrzeit von einer Woche\nsanktioniert werden kann (§ 159 Abs. 1 S. 2 Nr. 6, Abs. 6 SGB III) lässt sich diese Rechtsprechung auf das\nSGB II übertragen: Eine Sanktion von 10% des Regelbedarfs für drei Monate nach § 32 SGB II steht einer\nAnwendung von §§ 61, 66 SGB I nicht grundsätzlich im Wege.\n17\nEs fehlt jedoch an einer Voraussetzung der Entziehung. Die Leistungsentziehung setzt gemäß § 66 Abs. 1\nSatz 1 a. E. SGB I unter anderem voraus, dass infolge der fehlenden Mitwirkung „die Voraussetzungen der\nLeistung nicht nachgewiesen sind“. Dies soll hier laut Antragsgegner die Hilfebedürftigkeit nach § 9 SGB II\nsein.\n18\nDrei Meldeversäumnisse sind nicht automatisch ein Grund, die Hilfebedürftigkeit in Frage zu stellen. Eine\nderartige enge Verbindung dieses Verhaltens zur Grundvoraussetzung der existenzsichernden Leistungen\nim SGB II ist nicht erkennbar. Das BSG hat a.a.O. festgestellt, dass eine derartige Verbindung zur\nVerfügbarkeit im Sinn von § 138 Abs. 5 SGB III nicht besteht. Diese Leistungsvoraussetzung für das\nArbeitslosengeld im SGB III, die mit dem Nichterscheinen beim Meldetermin eng verknüpft ist, gibt es im\nSGB II nicht. Die Voraussetzung der Hilfebedürftigkeit nach § 9 SGB II hat mit Meldeterminen weniger zu\ntun als die Verfügbarkeit. Der Schluss, bei drei versäumten Meldeterminen sei die Hilfebedürftigkeit nicht\nnachgewiesen, trägt nicht. Dann fehlt die Entziehungsvoraussetzung, dass wegen mangelnder Mitwirkung\n„die Voraussetzungen der Leistung nicht nachgewiesen sind“. Deshalb ist die aufschiebende Wirkung des\nWiderspruchs hier anzuordnen.\n19\nDer Antragsgegner ist einem dauerhaften Nichterscheinen des Antragstellers nicht hilflos ausgesetzt. Er\nkann, in Hinblick auf den Vortrag des Antragstellers, dass er psychisch so angeschlagen sei, dass er einen\nMeldetermin nicht aushalte, eine Überprüfung der Erwerbsfähigkeit veranlassen durch Anforderung\nmedizinischer Unterlagen, Schweigepflichtentbindungen und Untersuchungen (zu den besonderen\nAnforderungen an das Ermessen bei einer Entziehung in dieser speziellen Situation vgl. Bay LSG,\nBeschluss vom 31.08.2012, L 7 AS 601/12 B ER, und LSG Berlin-BB, Beschluss vom 19.09.2018, S 34 AS\n1650/18 B ER). Er kann auch Hausbesuche veranlassen, um festzustellen, ob der Antragsteller ohne\nZustimmung ortsabwesend ist, § 7 Abs. 4a SGB II. Wenn weitere Anhaltspunkte für ein Fehlen der\nHilfebedürftigkeit hinzutreten, kommt auch eine Leistungsentziehung nach § 66 SGB I in Betracht.\n20\nDie Kostenentscheidung beruht auf einer entsprechenden Anwendung von § 193 SGG.\n\n"
+}

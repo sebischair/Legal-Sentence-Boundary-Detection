@@ -1,0 +1,2183 @@
+{
+    "Annotations": [
+        {
+            "annotation": "SAMSUNG",
+            "end": 53,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 140,
+            "start": 137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 386,
+            "start": 380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 443,
+            "start": 436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 583,
+            "start": 574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 695,
+            "start": 686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 987,
+            "start": 981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuholen",
+            "end": 1094,
+            "start": 1084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 1138,
+            "start": 1133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritten",
+            "end": 1271,
+            "start": 1264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 1558,
+            "start": 1552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 1685,
+            "start": 1670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 1727,
+            "start": 1722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 1915,
+            "start": 1906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 2104,
+            "start": 2097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 2311,
+            "start": 2304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2485,
+            "start": 2482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATENSCHUTZRICHTLINIEN",
+            "end": 2517,
+            "start": 2495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 2556,
+            "start": 2552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 2849,
+            "start": 2843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfassen",
+            "end": 3036,
+            "start": 3028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3287,
+            "start": 3282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "pp",
+            "end": 3394,
+            "start": 3392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuholen",
+            "end": 3479,
+            "start": 3469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3776,
+            "start": 3773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WIR",
+            "end": 3803,
+            "start": 3800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arten",
+            "end": 3884,
+            "start": 3879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 3924,
+            "start": 3919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeben",
+            "end": 3993,
+            "start": 3982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 4150,
+            "start": 4143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4385,
+            "start": 4379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4584,
+            "start": 4578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 4735,
+            "start": 4724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erleichtern",
+            "end": 4912,
+            "start": 4901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränken",
+            "end": 4999,
+            "start": 4987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Diensten",
+            "end": 5037,
+            "start": 5029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfassen",
+            "end": 5198,
+            "start": 5190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "synchronisieren",
+            "end": 7057,
+            "start": 7042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 7153,
+            "start": 7146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7887,
+            "start": 7881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilen",
+            "end": 8151,
+            "start": 8145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 8182,
+            "start": 8177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8305,
+            "start": 8300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittanbietern",
+            "end": 8340,
+            "start": 8326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittanbietern",
+            "end": 8583,
+            "start": 8569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Analytics",
+            "end": 8679,
+            "start": 8670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 8829,
+            "start": 8819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diagnostizieren",
+            "end": 9153,
+            "start": 9138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "partners",
+            "end": 9317,
+            "start": 9309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Optionen",
+            "end": 9333,
+            "start": 9325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9527,
+            "start": 9521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränken",
+            "end": 9614,
+            "start": 9602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9772,
+            "start": 9766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellen",
+            "end": 9901,
+            "start": 9892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konzipiert",
+            "end": 10000,
+            "start": 9990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 10027,
+            "start": 10022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecke",
+            "end": 10087,
+            "start": 10081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 10178,
+            "start": 10171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktion",
+            "end": 10280,
+            "start": 10272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 10474,
+            "start": 10462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 10731,
+            "start": 10719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustimmung",
+            "end": 10856,
+            "start": 10846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11215,
+            "start": 11209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 11377,
+            "start": 11365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräte",
+            "end": 11467,
+            "start": 11461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozessen",
+            "end": 11525,
+            "start": 11516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 11682,
+            "start": 11676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bieten",
+            "end": 11837,
+            "start": 11831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 12014,
+            "start": 12005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12215,
+            "start": 12211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahlmöglichkeiten",
+            "end": 12279,
+            "start": 12262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RECHTE",
+            "end": 12343,
+            "start": 12337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecken",
+            "end": 12488,
+            "start": 12481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 12740,
+            "start": 12727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineplattformen",
+            "end": 13003,
+            "start": 12986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 13082,
+            "start": 13078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Direktmarketingkommunikationen",
+            "end": 13192,
+            "start": 13162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufnehmen",
+            "end": 13369,
+            "start": 13360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schicken",
+            "end": 13633,
+            "start": 13625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 13679,
+            "start": 13667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 13924,
+            "start": 13915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 14139,
+            "start": 14132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 14185,
+            "start": 14173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Samsung",
+            "end": 14260,
+            "start": 14253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommunizieren",
+            "end": 14446,
+            "start": 14433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 14492,
+            "start": 14480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 14776,
+            "start": 14765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuführen",
+            "end": 14855,
+            "start": 14844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 14901,
+            "start": 14889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Samsung",
+            "end": 14976,
+            "start": 14969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 15044,
+            "start": 15033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 15090,
+            "start": 15078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Samsung",
+            "end": 15165,
+            "start": 15158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 15231,
+            "start": 15228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 15277,
+            "start": 15265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 15515,
+            "start": 15505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erheben",
+            "end": 15801,
+            "start": 15794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 15847,
+            "start": 15835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermarkten",
+            "end": 15984,
+            "start": 15974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 16261,
+            "start": 16248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 16307,
+            "start": 16295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 16571,
+            "start": 16568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 16617,
+            "start": 16605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 16767,
+            "start": 16760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzereinstellungen",
+            "end": 17040,
+            "start": 17021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 17086,
+            "start": 17074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustimmung",
+            "end": 17133,
+            "start": 17123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bringen",
+            "end": 17310,
+            "start": 17303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 17356,
+            "start": 17344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustimmung",
+            "end": 17403,
+            "start": 17393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 17474,
+            "start": 17469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 17520,
+            "start": 17508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustimmung",
+            "end": 17567,
+            "start": 17557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behörden",
+            "end": 17665,
+            "start": 17657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 17711,
+            "start": 17699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 17773,
+            "start": 17761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 17879,
+            "start": 17868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 18114,
+            "start": 18109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 18257,
+            "start": 18246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erläutern",
+            "end": 18432,
+            "start": 18423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WEITER",
+            "end": 18468,
+            "start": 18462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "helfen",
+            "end": 18657,
+            "start": 18651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 18837,
+            "start": 18826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzen",
+            "end": 18927,
+            "start": 18919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftspartner",
+            "end": 18949,
+            "start": 18933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 19071,
+            "start": 19056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 19280,
+            "start": 19274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 19361,
+            "start": 19356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleister",
+            "end": 19380,
+            "start": 19367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "senden",
+            "end": 19828,
+            "start": 19822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 19895,
+            "start": 19890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 19980,
+            "start": 19968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offenzulegen",
+            "end": 20138,
+            "start": 20126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfordern",
+            "end": 20353,
+            "start": 20344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmenstransaktionen",
+            "end": 20420,
+            "start": 20395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 20587,
+            "start": 20581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 20669,
+            "start": 20666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfordern",
+            "end": 20877,
+            "start": 20868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 20906,
+            "start": 20901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ernst",
+            "end": 20940,
+            "start": 20935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 21095,
+            "start": 21082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicher",
+            "end": 21267,
+            "start": 21261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 21302,
+            "start": 21297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 21509,
+            "start": 21506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 21593,
+            "start": 21582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 21766,
+            "start": 21762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Japan",
+            "end": 22124,
+            "start": 22119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 22277,
+            "start": 22270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 22447,
+            "start": 22434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 22592,
+            "start": 22589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KONTAKT",
+            "end": 22636,
+            "start": 22629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RECHTE",
+            "end": 22649,
+            "start": 22643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ihnen",
+            "end": 22692,
+            "start": 22687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigieren",
+            "end": 22850,
+            "start": 22839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenportabilität",
+            "end": 23167,
+            "start": 23150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 23322,
+            "start": 23316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 23524,
+            "start": 23518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecken",
+            "end": 23602,
+            "start": 23595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 23699,
+            "start": 23696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KONTAKT",
+            "end": 23728,
+            "start": 23721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "COOKIES",
+            "end": 23737,
+            "start": 23730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "speichern",
+            "end": 23870,
+            "start": 23861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkannt",
+            "end": 24006,
+            "start": 23999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenschaften",
+            "end": 24051,
+            "start": 24038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AUF",
+            "end": 24112,
+            "start": 24109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 24233,
+            "start": 24230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24350,
+            "start": 24344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24492,
+            "start": 24486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 24583,
+            "start": 24568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 24692,
+            "start": 24680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schutzmassnahmen",
+            "end": 24896,
+            "start": 24880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WIR",
+            "end": 24942,
+            "start": 24939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitgestellt",
+            "end": 25052,
+            "start": 25038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfassen",
+            "end": 25176,
+            "start": 25168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontrolliert",
+            "end": 25236,
+            "start": 25224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 25365,
+            "start": 25354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einwilligen",
+            "end": 25583,
+            "start": 25572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KONTAKT",
+            "end": 25592,
+            "start": 25585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 25753,
+            "start": 25746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufnehmen",
+            "end": 25825,
+            "start": 25816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verantwortlicher",
+            "end": 25843,
+            "start": 25827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ltd",
+            "end": 25872,
+            "start": 25869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gu",
+            "end": 25903,
+            "start": 25901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korea",
+            "end": 25951,
+            "start": 25946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 26200,
+            "start": 26196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "desk",
+            "end": 26337,
+            "start": 26333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufnehmen",
+            "end": 26409,
+            "start": 26400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Europa",
+            "end": 26445,
+            "start": 26439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Limited",
+            "end": 26478,
+            "start": 26471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "0PS",
+            "end": 26541,
+            "start": 26538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstösst",
+            "end": 26731,
+            "start": 26722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "612080",
+            "end": 26874,
+            "start": 26868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "TV",
+            "end": 26930,
+            "start": 26928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bieten",
+            "end": 27200,
+            "start": 27194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 27375,
+            "start": 27364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "TV",
+            "end": 27481,
+            "start": 27479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufen",
+            "end": 27568,
+            "start": 27561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufen",
+            "end": 27778,
+            "start": 27771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 27895,
+            "start": 27889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzeigen",
+            "end": 27983,
+            "start": 27975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 28128,
+            "start": 28118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 28186,
+            "start": 28183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anzeigeinformationsdienste",
+            "end": 28461,
+            "start": 28435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 28544,
+            "start": 28539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "TV",
+            "end": 28695,
+            "start": 28693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Videoinhalten",
+            "end": 28822,
+            "start": 28809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identifizieren",
+            "end": 29082,
+            "start": 29068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anzeigeinformationsdienste",
+            "end": 29110,
+            "start": 29084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29314,
+            "start": 29311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angewiesen",
+            "end": 29515,
+            "start": 29505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeit",
+            "end": 29684,
+            "start": 29680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 29796,
+            "start": 29787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tuner",
+            "end": 29949,
+            "start": 29944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 30120,
+            "start": 30108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesammelt",
+            "end": 30243,
+            "start": 30234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 30518,
+            "start": 30515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfassen",
+            "end": 30684,
+            "start": 30676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kanada",
+            "end": 30772,
+            "start": 30766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 30996,
+            "start": 30992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 31149,
+            "start": 31142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 31319,
+            "start": 31306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 31555,
+            "start": 31552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 31730,
+            "start": 31726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 31771,
+            "start": 31764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 32167,
+            "start": 32157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenquellen",
+            "end": 32575,
+            "start": 32563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Technologien",
+            "end": 32692,
+            "start": 32680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 32852,
+            "start": 32846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 32997,
+            "start": 32989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 33091,
+            "start": 33079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängen",
+            "end": 33355,
+            "start": 33347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 33528,
+            "start": 33515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "basieren",
+            "end": 33616,
+            "start": 33608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergänzung",
+            "end": 33741,
+            "start": 33732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PSID",
+            "end": 33747,
+            "start": 33743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verknüpft",
+            "end": 33999,
+            "start": 33990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksetzen",
+            "end": 34089,
+            "start": 34077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 34270,
+            "start": 34260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgerichtet",
+            "end": 34415,
+            "start": 34403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spracherkennung",
+            "end": 34432,
+            "start": 34417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steuern",
+            "end": 34509,
+            "start": 34502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steuern",
+            "end": 34600,
+            "start": 34593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "um",
+            "end": 34881,
+            "start": 34879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 35054,
+            "start": 35048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprechen",
+            "end": 35350,
+            "start": 35342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 35453,
+            "start": 35447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 35557,
+            "start": 35545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 35626,
+            "start": 35617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergänzung",
+            "end": 35772,
+            "start": 35763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittanbieter",
+            "end": 35787,
+            "start": 35774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstes",
+            "end": 36145,
+            "start": 36137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 36239,
+            "start": 36225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 36390,
+            "start": 36384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktionen",
+            "end": 36420,
+            "start": 36410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 36565,
+            "start": 36559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 36657,
+            "start": 36653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 36764,
+            "start": 36753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprachdienst",
+            "end": 36900,
+            "start": 36888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 37068,
+            "start": 37059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwarten",
+            "end": 37318,
+            "start": 37310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 37412,
+            "start": 37406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bildschirm",
+            "end": 37535,
+            "start": 37525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprachdienstes",
+            "end": 37790,
+            "start": 37776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügbar",
+            "end": 37870,
+            "start": 37861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 38097,
+            "start": 38092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 38175,
+            "start": 38170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WIR",
+            "end": 38202,
+            "start": 38199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 38280,
+            "start": 38277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Art",
+            "end": 38346,
+            "start": 38343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "optional",
+            "end": 38384,
+            "start": 38376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ID",
+            "end": 38615,
+            "start": 38613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprachdienstinteraktionen",
+            "end": 38642,
+            "start": 38617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 39576,
+            "start": 39561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 39950,
+            "start": 39944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 39973,
+            "start": 39968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kennungen",
+            "end": 40226,
+            "start": 40217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Suchvorgänge",
+            "end": 40650,
+            "start": 40638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 40678,
+            "start": 40673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reagieren",
+            "end": 40871,
+            "start": 40862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 40960,
+            "start": 40954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 41220,
+            "start": 41216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reagieren",
+            "end": 41493,
+            "start": 41484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktionen",
+            "end": 41850,
+            "start": 41840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 41960,
+            "start": 41949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 42105,
+            "start": 42095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzusetzen",
+            "end": 42321,
+            "start": 42308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittanbietern",
+            "end": 42543,
+            "start": 42529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittanbietern",
+            "end": 42609,
+            "start": 42595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 42760,
+            "start": 42750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diagnostizieren",
+            "end": 43058,
+            "start": 43043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecken",
+            "end": 43162,
+            "start": 43155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 43272,
+            "start": 43260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 43496,
+            "start": 43490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 43864,
+            "start": 43857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 44022,
+            "start": 44012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 44516,
+            "start": 44513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 44690,
+            "start": 44683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 44844,
+            "start": 44831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WAHLMÖGLICHKEITEN",
+            "end": 44868,
+            "start": 44851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 44939,
+            "start": 44927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 45012,
+            "start": 45006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahlmöglichkeiten",
+            "end": 45134,
+            "start": 45117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 45368,
+            "start": 45365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATENSCHUTZERKLÄRUNG",
+            "end": 45414,
+            "start": 45394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisiert",
+            "end": 45588,
+            "start": 45576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 45805,
+            "start": 45800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 45923,
+            "start": 45919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 46030,
+            "start": 46019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Service",
+            "end": 46180,
+            "start": 46173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 46450,
+            "start": 46446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügbar",
+            "end": 46530,
+            "start": 46521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 46822,
+            "start": 46817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 46900,
+            "start": 46895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SERVICE",
+            "end": 46925,
+            "start": 46918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 47276,
+            "start": 47266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritten",
+            "end": 47688,
+            "start": 47681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 47812,
+            "start": 47803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 47972,
+            "start": 47966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 48117,
+            "start": 48109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PSID",
+            "end": 48345,
+            "start": 48341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksetzen",
+            "end": 48465,
+            "start": 48453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WIR",
+            "end": 48492,
+            "start": 48489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräten",
+            "end": 48571,
+            "start": 48564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräteinformationen",
+            "end": 48635,
+            "start": 48616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kennungen",
+            "end": 48802,
+            "start": 48793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Protokollinformationen",
+            "end": 48844,
+            "start": 48822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräten",
+            "end": 49069,
+            "start": 49062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anzeigeinformationen",
+            "end": 49092,
+            "start": 49072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anzeigeverlauf",
+            "end": 49130,
+            "start": 49116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeit",
+            "end": 49311,
+            "start": 49307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Technologien",
+            "end": 49428,
+            "start": 49416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 49456,
+            "start": 49443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersgruppe",
+            "end": 49587,
+            "start": 49575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 49724,
+            "start": 49722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 49934,
+            "start": 49928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 50180,
+            "start": 50174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 50207,
+            "start": 50202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecke",
+            "end": 50280,
+            "start": 50274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 50321,
+            "start": 50318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Service",
+            "end": 50393,
+            "start": 50386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 50582,
+            "start": 50578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reagieren",
+            "end": 50628,
+            "start": 50619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktionen",
+            "end": 50988,
+            "start": 50978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 51138,
+            "start": 51128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzusetzen",
+            "end": 51356,
+            "start": 51343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecken",
+            "end": 51460,
+            "start": 51453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 51570,
+            "start": 51558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Authentifizierung",
+            "end": 51757,
+            "start": 51740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 52273,
+            "start": 52263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 52758,
+            "start": 52752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 52932,
+            "start": 52925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 53085,
+            "start": 53072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "WAHLMÖGLICHKEITEN",
+            "end": 53109,
+            "start": 53092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksetzen",
+            "end": 53173,
+            "start": 53161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 53319,
+            "start": 53309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 53418,
+            "start": 53414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 53522,
+            "start": 53510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängen",
+            "end": 53788,
+            "start": 53780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 53965,
+            "start": 53952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "basieren",
+            "end": 54053,
+            "start": 54045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisiert",
+            "end": 54278,
+            "start": 54266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 54495,
+            "start": 54490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "privacy",
+            "end": 54666,
+            "start": 54659,
+            "type": "SBD"
+        }
+    ],
+    "Text": "ZUSAMMENFASSUNG DER DATENSCHUTZRICHTLINIE VON SAMSUNG\nSamsung Electronics Co., Ltd. weiss, wie wichtig der Datenschutz für unsere Kunden ist. Wir möchten sicherstellen, dass Sie verstehen, wie wir Ihre personenbezogenen Daten über all unsere Samsung Geräte und Dienste, von Mobiltelefonen und Tablets bis hin zu TV-Geräten, Haushaltsgeräten, Onlinediensten und mehr, erfassen und nutzen.\nDiese Datenschutzrichtlinie gilt für all unsere Dienste. Soweit erforderlich, stellen wir auch zusätzliche Informationen über den Datenschutz im Zusammenhang mit bestimmten Diensten zur Verfügung.\nAuf unserer Webseite stehen Ihnen auch Services und Dienste der Samsung Electronics GmbH (\"SEG\") zur Verfügung. Verantwortlicher für die Erhebung und Verarbeitung Ihrer personenbezogenen Daten ist in diesen Fällen die SEG und die Datenverarbeitung erfolgt auf Grundlage des Datenschutzhinweises der SEG, auf den Sie bei Inanspruchnahme und Nutzung der jeweiligen Services und Dienste hingewiesen werden.\nDiese Datenschutzrichtline dient Ihrer Information und nicht dazu, eine Einwilligung von Ihnen einzuholen.\nÜBERSICHT ÜBER DIE PERSONENBEZOGENEN DATEN\nWir erfassen personenbezogene Daten, die Sie uns direkt bereitstellen, Daten über Ihre Nutzung unserer Dienste und Daten von Dritten. Wir verwenden diese Daten, um Ihnen Dienste zur Verfügung zu stellen, um zu verstehen, wie Sie unsere Dienste nutzen, sodass wir Ihre Benutzererfahrung verbessern und personalisieren können, und um die relevantesten Apps, Technologien und Inhalte für unsere Kunden entwickeln zu können. Ausserdem verwenden wir personenbezogene Daten, um auf Ihre Interessen zugeschnittene personalisierte Werbung bereitzustellen.\nWEITERGABE IHRER PERSONENBEZOGENEN DATEN\nWir geben Ihre personenbezogenen Daten an angeschlossene Unternehmen von Samsung Electronics sowie an Unternehmen weiter, die im Auftrag von Samsung Electronics Dienstleistungen erbringen. Ausserdem geben wir Ihre personenbezogenen Daten an Mobilfunkbetreiber und  Versicherungsunternehmen weiter, die Ihnen die von Ihnen gewünschten Produkte und Dienste zur Verfügung stellen. Sofern Ihre separate Einwilligung vorliegt, können die Geschäftspartner Ihre Daten verwenden, um Ihnen Informationen zu Produkten und Diensten zur Verfügung zu stellen, die für Sie interessant sein könnten. Wir geben personenbezogene Daten an Vollzugsbehörden weiter, wenn dies gesetzlich vorgeschrieben oder zum Schutz von Samsung Electronics und seinen Nutzern erforderlich ist.\nSAMSUNG DATENSCHUTZRICHTLINIEN\nDatum des Inkrafttretens: 4. Juni 2019\nDiese Datenschutzrichtlinie gilt für alle Geräte und Dienste von Samsung, von Mobiltelefonen und Tablets bis hin zu TV-Geräten, Haushaltsgeräten, Onlinediensten und mehr (gemeinsam als „Dienste“ bezeichnet).\nWir bitten Sie, die Datenschutzrichtlinie regelmässig auf Aktualisierungen zu prüfen. Wir aktualisieren diese Datenschutzrichtlinie von Zeit zu Zeit, um Änderungen in unseren Datenschutzpraktiken in Bezug auf die Dienste oder Änderungen des anwendbaren Rechts zu erfassen. Wir benachrichtigen Sie im Voraus über jegliche wesentlichen Änderungen unserer Datenschutzrichtlinie über einen Hinweis auf unserer Website oder auf Ihrem Gerät und geben zu Beginn der Datenschutzrichtlinie an, wann diese zuletzt aktualisiert wurde. Die aktuelle Version der Datenschutzrichtlinie finden Sie hier: https://account.samsung.com/membership/pp.\nDiese Datenschutzrichtline dient nicht dazu, eine Einwilligung von Ihnen einzuholen. Gegebenenfalls holen wir Ihr separates Einverständnis ein, um Daten zu sammeln oder informieren Sie separat darüber, wie wir Ihre personenbezogenen Daten auf eine Weise erfassen, die nicht in der Datenschutzrichtlinie beschrieben ist, wenn dies für bestimmte zusätzliche Dienste erforderlich ist.\nWELCHE DATEN ERFASSEN WIR?\nSamsung Electronics erfasst Ihre personenbezogenen Daten auf verschiedene Arten.\nVon Ihnen direkt bereitgestellte Daten\nManche Dienste ermöglichen es Ihnen, Daten direkt an uns weitergeben. Zum Beispiel:\nWenn Sie bei uns ein Konto oder Profil erstellen, bitten wir Sie um folgende Angaben: Ihren Namen, Ihr Geburtsdatum oder Ihrer E-Mail-Adresse.\nWenn Sie ein Produkt oder einen bezahlten Dienst bei uns bestellen, bitten wir Sie um Ihrem Namen, Ihrer Adresse, Ihren Kontaktinformationen und Ihren Versand- und Zahlungsinformationen, damit wir Ihre Bestellung bearbeiten zu können.\nWenn Sie sich an unseren Kundendienst wenden, benötigen wir Informationen zur Verifizierung Ihrer Identität und des Produkts, bei dem es in Ihrer Anfrage geht, um Ihnen eine Antwort geben zu können.\nWenn Sie mit unseren Kundendienstmitarbeitern oder anderen Servicemitarbeitern kommunizieren, wird Ihre Kommunikation über unsere Systeme übermittelt.\nWenn Sie Ihre Kontakte freigeben, erfassen wir deren Telefonnummern und sonstige Kontaktinformationen, um das Teilen von Dateien und die Nachrichtenübermittlung zu erleichtern. Sie können diese Funktionen in den Geräteeinstellungen deaktivieren oder einschränken.\nDaten über Ihre Nutzung von Diensten\nNeben den von Ihnen bereitgestellten Daten werden wir über die Software auf Ihren Geräten und auf anderen Wegen Daten über Ihre Nutzung unserer Dienste erfassen. Wir erfassen folgende Daten:\nGeräteinformationen\nIhr Hardwaremodell, Geräte-Hardwareinformationen, IMEI-Nummer und sonstige eindeutige Gerätekennungen, Telefonnummer, Seriennummer, Modellcode, Zugangserfassung, die aktuelle Softwareversion, MCC (Mobile Country Code), MNC (Mobile Network Code), die MAC-Adresse, IP-Adresse, Daten zu Cookies und Pixeln, Abonnementdaten, Betriebssystemversionen und Einstellungen der Geräte, mit denen Sie auf die Dienste zugreifen.\nAnmeldeinformationen\nDiagnosebezogene, technische, fehlerbezogene und nutzungsbezogene Daten, wie zum Beispiel Uhrzeit und Dauer Ihrer Nutzung der Dienste, Suchbegriffe, die Sie im Zusammenhang mit einem bestimmten Dienst von Samsung auf Ihrem Gerät eingeben, und alle Informationen, die wir in Cookies auf Ihrem Gerät speichern.\nStandortinformationen\nDas GPS-Signal Ihres Geräts oder Informationen über nahe gelegene Wi-Fi-Zugangspunkte und Mobilfunkmasten, die an uns übertragen werden, wenn Sie bestimmte Dienste nutzen und die Standortfunktion aktiviert ist.\nSprachinformationen\nAufzeichnungen Ihrer Stimme, die wir erstellen und auf unseren Servern speichern, wenn Sie diese Funktion aktivieren und Sprachbefehle zur Steuerung eines Dienstes verwenden oder wenn Sie Kontakt mit unserem Kundendienst aufnehmen. Bitte beachten Sie folgendes: Wenn wir mit einem externen Dienstleister arbeiten, der in unserem Namen Sprache in Text umwandelt, empfängt und speichert dieser Anbieter gegebenenfalls bestimmte Sprachbefehle gemäss dem zwischen uns und unserem vertrauenswürdigen externen Dienstleister geschlossenen Vertrag.\nSamsung-Tastaturdaten\nDie von Ihnen getippten Wörter bei der Verwendung der Textvorerkennungsfunktion. Diese Funktion kann Ihnen im Zusammenhang mit Ihrem Samsung-Konto angeboten werden, um Daten zur Verwendung auf Ihren anderen Samsung-Mobilgeräten zu synchronisieren. Sie können die erfassten Daten jederzeit in den Einstellungen für die Textvorerkennung löschen.\nAnzeigeinformationen\nDie Netzwerke, Sender, besuchten Websites und die auf Ihren Geräten gesehenen Sendungen sowie die für deren Betrachtung aufgewendete Zeit.\nSonstige Daten über Ihre Nutzung von Diensten, die von Ihnen verwendeten Apps, die von Ihnen besuchten Websites, die von Ihnen abgerufenen Inhalte und die Elemente eines Dienstes, auf die Sie klickenÖffentliche, aus handelsüblichen Quellen zugängliche oder geteilte Informationen\nWir erfassen öffentliche oder aus handelsüblichen Quellen zugängliche Informationen, einschliesslich Informationen von sozialen Netzwerken, die Sie nutzen, und kombinieren diese mit anderen Informationen über Sie, damit wir Ihre Bedürfnisse, Interessen und Präferenzen besser verstehen können. Ausserdem erfassen wir Informationen über Sie, die andere Personen, die unsere Dienste nutzen, bereitstellen, wie zum Beispiel Ihren Namen und Kontaktinformationen, die andere Personen verwenden, um Ihnen eine Nachricht zu senden oder Dateien mit Ihnen zu teilen.\nAndere von uns erfasste Daten\nWir erheben auch andere Daten über Sie, Ihre Geräte oder Ihre Nutzung von Diensten, zu deren Erhebung Sie zugestimmt haben.\nAnalysedienste von Drittanbietern\nÜber bestimmte Dienste erfassen wir personenbezogene Daten über Ihre Onlineaktivitäten auf Websites und verbundenen Geräten im Zeitablauf sowie mit diversen Websites, Geräten, Apps und anderen Onlinefunktionen und -diensten von Drittanbietern. Wir verwenden für die Dienste Analysedienste von Drittanbietern, wie etwa von Google Analytics. Die Dienstleister, die diese Analysedienste verwalten, unterstützen uns dabei, Ihre Nutzung der Dienste zu analysieren und die Dienste zu verbessern. Die Informationen, die wir erhalten, geben wir an diese Anbieter weiter oder sie werden direkt von diesen Anbietern und anderen relevanten Dritten erfasst, welche die Daten nutzen, um beispielsweise die Nutzung der Dienste auszuwerten, die Verwaltung der Dienste zu unterstützen oder technische Probleme zu diagnostizieren. Weitere Informationen über Google Analytics finden Sie auf http://www.google.com/analytics/learn/privacy.html und https://www.google.com/policies/privacy/partners/.\nIhre Optionen\nSie können sich dazu entscheiden, uns bestimmte Arten von Daten nicht zur Verfügung zu stellen, wie zum Beispiel Informationen, die bei der Registrierung eines Samsung-Kontos angefordert werden. In manchen Fällen kann dies Ihre Möglichkeit zur Nutzung einiger Dienste einschränken. Wir werden unser Bestes tun, diese Einschränkungen zu erläutern, wenn wir Sie nach Ihren Daten fragen, sodass Sie eine fundierte Entscheidung treffen können. Beispielsweise bietet Ihnen Samsung Cloud die Möglichkeit, Ihre Daten zu sichern und einen Wiederherstellungspunkt zu erstellen. Samsung Cloud wurde jedoch nicht für die Speicherung oder Verarbeitung sensibler Daten konzipiert.\nWIE NUTZEN WIR IHRE DATEN?\nWir nutzen die von uns erfassten Daten für folgende Zwecke:\n    zur Unterstützung bei der Registrierung von Ihnen oder Ihrem Gerät für unsere Dienste\n    zur Bereitstellung eines von Ihnen gewünschten Dienstes oder einer von Ihnen gewünschten Funktion\n    zur Bereitstellung von kundenspezifischen Inhalten und personalisierten Diensten aufgrund Ihrer früheren Aktivitäten in unseren Diensten mit ihrer gesonderten Zustimmung, falls erforderlich\n    zur Bereitstellung von personalisierten Werbeanzeigen, Aktionen und Angeboten, die Sie interessieren könnten, auf unseren Websites, den Websites Dritter und Onlineplattformen, wie Social Media Seiten mit ihrer gesonderten Zustimmung, falls erforderlich\n    zur Bereitstellung von Aktionen und Angeboten durch Direktmarketingkommunikationen, nur mit Ihrer gesonderten Zustimmung\n    zur Analyse unserer Produkte und Dienste, um unsere Kunden besser zu verstehen, um Ihnen die Mitteilungen, Dienste und Erfahrungen bieten können, das heißt, um informierte Entscheidungen betreffend das Design unserer Geräte und die Auswahl von Inhalten von Samsung und Drittparteien, die über unsere Geräte und Dienste abgerufen werden, treffen zu können;\n    zur Einholung Ihrer Meinungen zu unseren Produkten und Diensten und zur Durchführung von Kundenumfragen mit Ihrer gesonderten Zustimmung, falls erforderlich\n    zur Bereitstellung von Software-Updates, Wartungsdiensten und Support für Ihre Geräte\n    zur Einhaltung von Gesetzen und rechtlichen Prozessen\n    zum Schutz der Rechte, des Eigentums oder der Sicherheit von Samsung Electronics oder unseren angeschlossenen Unternehmen, Geschäftspartnern oder Kunden\nWir nutzen und kombinieren die Daten, die wir über unsere Dienste, Geräte oder andere Quellen über Sie erfassen, um Ihnen eine bessere Erfahrung zu bieten. Beispielsweise nutzen wir Ihre Samsung-Kontodetails nicht nur für den Dienst, für den Sie sich registriert haben, sondern auch für andere Dienste, die Samsung-Konten verwenden. Ausserdem nutzen wir die Daten, die Sie direkt oder über andere Quellen wie oben beschrieben bereitstellen, um Inhalte bereitzustellen, die Ihnen gefallen könnten oder die für Sie personalisiert sind.\nBezüglich Ihrer Daten haben Sie verschiedene Wahlmöglichkeiten. Weitere Informationen dazu finden Sie im Abschnitt IHRE RECHTE.\n[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]\nSamsung verarbeitet personenbezogene Daten zu den oben beschriebenen Zwecken. Die rechtliche Grundlage von Samsung für die Verarbeitung personenbezogener Daten bildet eine Verarbeitung, die:\n(i)    dafür sorgt, dass wir unsere Versprechen Ihnen gegenüber einhalten können, zum Beispiel indem wir Ihnen einen Dienst bereitstellen\n(ii)   unsere geschäftlichen Interessen unterstützt (zum Beispiel bezüglich der Verwaltung unserer Geschäftsbeziehung mit Ihnen und der Verbesserung des Kundendienstes), einschliesslich Mitteilungen auf unserer Website, den Websites Dritter und Onlineplattformen\n(iii)  die Einhaltung von Gesetzen und rechtlichen Prozessen sicherstellt oder\n(iv)  auf Ihrem gesonderten Einverständnis beruht (zum Beispiel zum Senden von Direktmarketingkommunikationen). Wenn Sie Ihr Einverständnis geben, können Sie dieses jederzeit widerrufen, indem Sie wie im Abschnitt KONTAKT dieser Datenschutzrichtlinie dargelegt mit uns Kontakt aufnehmen.\nDetails zu den rechtlichen Grundlagen für den jeweiligen Verarbeitungszweck finden Sie in der folgenden Übersicht:\n    Um Sie zu identifizieren und authentifizieren, damit Sie die Dienste nutzen können, einschließlich um Ihnen eine Willkommens-E-Mail zu schicken\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für die Erfüllung des Vertrags zwischen Ihnen und Samsung und für unsere berechtigten Interessen, die es beinhalten, Ihnen die Dienste zur Verfügung zu stellen, die Dienste zu verbessern und die Beziehung mit Ihnen zu verwalten\n    Um Ihnen die Dienste oder Informationen, die Sie angefragt haben, oder die Produkte und Dienstleistungen, die Sie bestellt haben (Abonnements oder andere Produkte und Dienstleistungen), zur Verfügung zu stellen\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für die Erfüllung des Vertrags zwischen Ihnen und Samsung\n    Um mit Ihnen bezüglich Produkten oder Dienstleistungen, die Sie erworben haben, oder bezüglich Änderungen an der Samsung.com Webseite oder der Datenschutzrichtlinie zu kommunizieren\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für die Erfüllung des Vertrags zwischen Ihnen und Samsung und für unsere berechtigten Interessen, die es beinhalten, Ihnen die Dienste zur Verfügung zu stellen und Sie mit aktuellen Informationen darüber zu versorgen, wie wir Ihre personenbezogenen Daten verarbeiten\n    Um eine Bestellung, die Sie getätigt haben, zu bestätigen oder auszuführen\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für die Erfüllung des Vertrags zwischen Ihnen und Samsung\n    Um Sie über einen Preis, den Sie gewonnen haben, zu informieren\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für die Erfüllung des Vertrags zwischen Ihnen und Samsung\n    Zur Beobachtung oder Verbesserung der Nutzung von Samsung.com\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für unsere berechtigten Interessen, um Ihnen weiterhin relevante und auf Sie zugeschnittene Informationen über unsere Produkte und Dienste zur Verfügung zu stellen und um Ihre Erfahrung auf unserer Webseite zu verbessern\n    Um die Werbung und Inhalte, die Sie sehen, zu personalisieren, indem wir Informationen nutzen, die Sie uns zur Verfügung stellen, in Kombination mit Informationen über Sie, die wir über Ihre Nutzung unserer Produkte und Dienstleistungen wie in dieser Richtlinie beschrieben erheben\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für unsere berechtigten Interessen, um unsere Podukte weiterhin in effizienter und personalisierter Weise zu vermarkten\n    Um die Werbung und Inhalte, die Sie sehen, zu personalisieren, indem wir die oben beschriebenen kombinierten Informationen nutzen, zusammen mit Informationen, die vertrauenswürdige Dritte als Teil ihrer Dienstleistungen für uns verarbeiten, um Werbekampagnen durchzuführen\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für unsere berechtigten Interessen, um unsere Produkte weiterhin in effizienter und personalisierter Weise zu vermarkten, oder auf Grundlage Ihrer gesonderten Zustimmung\n    Zur Überwachung der Einhaltung unser Nutzungsbedingungen für Samsung.com\n    Hauptrechtsgrundlage für die Verarbeitung\n    Erforderlich für unsere berechtigten Interessen, um sicherzustellen, dass wir Ihnen relevante und angemessene Informationen zur Verfügung stellen\n    Zum Versand von Werbematerial oder besonderen Angeboten zu Samsung sowie im Namen unserer Marketing-Partner oder ihrer jeweiligen verbunden Unternehmen und Tochtergesellschaften und anderer Dritter per E-Mail oder Push-Nachricht, abhängig von Ihren Nutzereinstellungen\n    Hauptrechtsgrundlage für die Verarbeitung\n    Auf Grundlage Ihrer gesonderten Zustimmung\n    Um Kunden per E-Mail Umfragen zuzusenden, um die Zufriedenheit, Nutzungsgewohnheiten und Wege zur Verbesserung unserer Produkte und Dienstleistungen in Erfahrung zu bringen\n    Hauptrechtsgrundlage für die Verarbeitung\n    Auf Grundlage Ihrer gesonderten Zustimmung\n    Um Kunden zu kontaktieren, die an einer Umfrage teilgenommen haben\n    Hauptrechtsgrundlage für die Verarbeitung\n    Auf Grundlage Ihrer gesonderten Zustimmung\n    Für die Einhaltung anwendbarer Buchführungsregeln und für zwingende Offenlegungen an Behörden\n    Hauptrechtsgrundlage für die Verarbeitung\n    Einhaltung einer rechtlichen Pflicht, soweit erforderlich\nSamsung Electronics Co., Ltd. ist der Verantwortliche Ihrer personenbezogenen Daten, wie oben beschrieben. Für bestimmte Direktmarketingmitteilungen und bestimmte personalisierte Werbung in Europa ist auch das im Vereinigten Königreich ansässige Unternehmen Samsung Electronics (UK) Limited der Verantwortliche Ihrer personenbezogenen Daten. Ihre personenbezogenen Daten werden auch von einigen unserer europäischen Samsung-Tochtergesellschaften in den jeweiligen Ländern verarbeitet. Im Einzelfall stellt die europäische Samsung-Tochtergesellschaft eine eigene lokale Datenschutzrichtlinie auf ihrer Website zur Verfügung, um diesen Sachverhalt zu erläutern.\nAN WEN GEBEN WIR IHRE DATEN WEITER?\nWir geben Ihre Daten intern innerhalb unseres Unternehmens weiter, jedoch nur an jene, die diese benötigen, um entsprechend Dienste bereitzustellen oder Ihnen bei Ihren Anliegen zu helfen.\nAusserdem geben wir Ihre Daten an folgende Unternehmen weiter, jedoch nur in dem Masse, wie es für die Erbringung unserer Dienste erforderlich ist:\n    Angeschlossene Unternehmen:\n    andere Unternehmen der Samsung Electronics Gruppe, die wir beherrschen oder besitzen.\n    Geschäftspartner:\n    Partner, mit denen wir zusammenarbeiten, um Ihnen die von Ihnen angeforderten oder gekauften Dienste bereitzustellen. Wenn Sie sich beispielsweise entscheiden, ein Produkt auf unserer Webseite zu erwerben, kooperieren wir mit einer Bank, damit Sie einen unserer Dienste für schnellere und effizientere Zahlungen nutzen können. Diese Geschäftspartner kontrollieren und verwalten Ihre personenbezogenen Daten.\n    Dienstleister:\n    Sorgfältig ausgewählte Unternehmen, die in unserem Namen Dienste zur Verfügung stellen, zum Beispiel Unternehmen, die uns bei Reparaturen, Kundenkontaktzentren, Kundenbetreuungsaktivitäten, Werbung (einschliesslich personalisierter Werbung auf unseren Websites, den Websites Dritter oder Onlineplattformen), bei der Durchführung von Umfragen zur Kundenzufriedenheit oder bei der Rechnungsabwicklung helfen oder E-Mails in unserem Namen senden. Diese Anbieter verpflichten sich ebenfalls zum Schutz Ihrer Daten.\n    Andere Parteien, soweit gesetzlich oder zum Schutz unserer Dienste erforderlich:\n    Es kann beispielsweise aufgrund eines Gesetzes, eines Rechtsverfahrens oder einer Verfügung von einer Behörde erforderlich sein, Ihre Daten offenzulegen. Diese Parteien können Ihre Daten auch für Zwecke der Strafverfolgung, der nationalen Sicherheit, der Terrorismusbekämpfung oder aus anderen Gründen im Zusammenhang mit der öffentlichen Sicherheit von uns anfordern.\n    Andere Parteien im Zusammenhang mit Unternehmenstransaktionen:\n    Wir geben Ihre Daten gegebenenfalls im Rahmen einer Fusion oder Übertragung, eines Erwerbs oder einer Veräusserung oder im Falle eines Konkurses an Dritte weiter.\n    Andere Parteien mit Ihrer gesonderten Zustimmung oder auf Ihre Anweisung hin:\n    Neben den in dieser Datenschutzrichtlinie beschriebenen Offenlegungen geben wir gegebenenfalls Daten über Sie an Dritte weiter, wenn Sie einer solchen Weitergabe gesondert zustimmen oder diese anfordern.\nWIE SCHÜTZEN WIR IHRE DATEN?\nWir nehmen den Datenschutz ernst. Wir haben physische und technische Schutzmassnahmen ergriffen (und halten diese aufrecht), um die Sicherheit der von uns erfassten Daten zu gewährleisten. Auch wenn wir angemessene Schritte zum Schutz Ihrer Daten ergreifen, sind Websites, Internetübertragungen, Computersysteme oder Drahtlosverbindungen nie vollkommen sicher. \nWOHIN ÜBERMITTELN WIR IHRE DATEN?\nIhre Nutzung unserer Dienste schliesst die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten innerhalb und ausserhalb des Landes Ihres Wohnsitzes im Einklang mit dieser Richtlinie ein. Insbesondere werden Ihre personenbezogenen Daten in die Republik Korea übermittelt. Beachten Sie, dass Datenschutz- und andere Gesetze von Ländern, in die Ihre Daten gegebenenfalls übermittelt werden, eventuell nicht so umfassend wie die Ihres Landes sind.\n[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]\nAusserdem umfasst Ihre Nutzung der Dienste auch die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten in folgende Ländern: Länder im Europäischen Wirtschaftsraum, die Vereinigten Staaten von Amerika, China, Singapur, Vietnam, Indien, Kanada, die Philippinen und Japan. Wir werden unter Einhaltung geltender Gesetze angemessene Massnahmen ergreifen, um sicherzustellen, dass Ihre personenbezogenen Daten geschützt bleiben. Zu solchen Massnahmen gehört die Verwendung von Standardvertragsklauseln, um bei der Übertragung von Daten ausserhalb des EWR einen angemessenen Schutz zu gewährleisten. Für weitere Informationen oder wenn Sie eine Kopie der bestehenden vertraglichen Vereinbarungen anfordern möchten, wenden Sie sich bitte an uns. Beachten Sie hierbei den Abschnitt KONTAKT.\nIHRE RECHTE\nIhre personenbezogenen Daten gehören Ihnen. Sie haben das Recht, Auskunft über die von uns erfassten Daten zu erhalten, das Recht von uns zu verlangen diese Daten zu löschen oder Fehler zu korrigieren. Ausserdem haben Sie das Recht uns aufzufordern, die Verarbeitung, Weitergabe oder Übermittlung Ihrer personenbezogenen Daten einzuschränken oder zu begrenzen sowie Ihnen die von uns über Sie erfassten personenbezogenen Daten bereitzustellen, damit Sie sie für Ihre eigenen Zwecke verwenden können (Datenportabilität). Die Aufforderung, Ihre personenbezogenen Daten zu löschen, kann jedoch auch zu einem Verlust des Zugangs zu den von uns bereitgestellten Diensten führen. Bitte beachten Sie, dass bestimmte personenbezogene Daten unter Einhaltung geltender Gesetze für eine gewisse weitere Zeit in den Datensätzen und Archiven von Samsung Electronics enthalten sein können. Samsung Electronics nutzt diese Daten jedoch nicht zu geschäftlichen Zwecken.\nFür Anfragen bezüglich Ihrer Rechte oder sonstige Anfragen nehmen Sie bitte mit uns Kontakt auf. Siehe den Abschnitt KONTAKT.\nCOOKIES\nCookies sind kleine Dateien, die Daten auf Ihrem Computer, Ihrem Fernsehgerät, Ihrem Mobiltelefon oder einem anderen Gerät speichern. Dank der Cookies auf Ihrem Gerät werden Sie auf verschiedenen Websites, in Diensten, auf Geräten und/oder in Browser-Sitzungen erkannt. Cookies haben viele nützliche Eigenschaften. Weitere Informationen\nWIE LANGE BEWAHREN WIR IHRE DATEN AUF?\nWir speichern Ihre personenbezogenen Daten nicht länger, als es für den Zweck, zu dem sie erfasst wurden, notwendig ist. Das bedeutet, dass Daten in unseren Systemen vernichtet oder gelöscht werden, wenn sie nicht länger benötigt werden.\nWir ergreifen angemessene Massnahmen, um sicherzustellen, dass Ihre Daten entsprechend der folgenden Logik verarbeitet und aufbewahrt werden:\n1.   Für die Dauer, die die Daten verwendet werden, um Ihnen einen Dienst bereitzustellen\n2.   Wie laut geltendem Recht, Vertrag oder im Hinblick auf unsere gesetzlichen Verpflichtungen erforderlich\n3.   Nur so lange, wie es für den Zweck notwendig ist, zu dem die Daten erfasst wurden, oder länger, wenn dies aus Vertrag, geltendem Recht erforderlich ist, unter Anwendung angemessener Schutzmassnahmen.\nWELCHE DIENSTE VON DRITTANBIETERN NUTZEN WIR?\nBestimmte Inhalte, Werbung oder Funktionalitäten im Rahmen unserer Dienste werden von Dritten bereitgestellt. Diese Dritten verwenden Cookies, Beacons, Zählpixel und andere Tools, um Daten zu Ihrer Nutzung dieser Dienste zu erfassen. Diese Dritten werden nicht direkt von Samsung kontrolliert. Daher empfehlen wir Ihnen, sich ihre Datenschutzrichtlinien durchzulesen, um sich über deren Nutzung Ihrer Daten zu informieren.\nFür einige Apps und Dienste, einschliesslich sozialer Netzwerke, erhalten und speichern wir Anmeldeinformationen sowie andere Daten, in deren Weitergabe Sie bei der Verbindung mit diesen Apps und Diensten einwilligen.\nKONTAKT\nSie können mit uns Kontakt aufnehmen, um Ihre Präferenzen zu aktualisieren, Ihre Daten zu berichtigen, eine Anfrage zu übermitteln oder um uns Fragen zu stellen.\nAusserdem können Sie unter folgender Adresse mit uns Kontakt aufnehmen:\nVerantwortlicher\nSamsung Electronics Co., Ltd.\n129, Samsung-ro, Yeongtong-gu,\nSuwon-si, Gyeonggi-do 16677, Republic of Korea\n[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]\nSamsung Electronics hat Niederlassungen in ganz Europa, sodass wir sicherstellen können, dass Ihre Anfrage oder Frage vom in Ihrer Region ansässigen Datenschutzteam beantwortet wird.\nDie einfachste Art, mit uns Kontakt aufzunehmen, bietet unsere Seite für Datenschutz-Support unter https://www.samsung.com/request-desk.\nAusserdem können Sie unter folgender Adresse mit uns Kontakt aufnehmen:\nDatenschutzbeauftragter für Europa\nSamsung Electronics (UK) Limited\nSamsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS\nSie können eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen, wenn Sie der Ansicht sind, dass unsere Verarbeitung Ihrer personenbezogenen Daten gegen geltendes Recht verstösst. Die Kontaktangaben für sämtliche EU-Aufsichtsbehörden finden Sie unter https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.\nSAMSUNG DATENSCHUTZRICHTLINIE – ERGÄNZUNG FÜR SMART TV\nDer Smart TV-Dienst von Samsung bietet eine Reihe von Funktionen, die verbesserte Videoinhalte, personalisiertes Fernsehen, Filme, Verbindungen zu sozialen Netzwerkdiensten und die Steuerung Ihres Smart TV sowie Interaktion mit diesem mithilfe von Sprachbefehlen bieten. Wir erfassen, nutzen, teilen und speichern Informationen über Ihr Smart TV und die mit Ihrem Smart TV verbundenen Geräte wie in der Samsung Datenschutzrichtlinie beschrieben. Diese Ergänzung bietet weitere Informationen zu den Datenschutzpraktiken einiger Funktionen des Smart TV.\nMit dem Smart TV können Sie Videos und andere Inhalte ganz einfach finden und abrufen. So können Sie beispielsweise Informationen über Livesendungen Ihres Kabel- oder Satellitenanbieters sowie On-Demand-Videoinhalte von Drittanbietern über durchsuchbare Programmführer auf Ihrem Smart TV abrufen.\nBei Livesendungen stellen wir teilweise mithilfe Ihrer Postleitzahl fest, welche Inhalte Ihnen zur Verfügung stehen. Darüber hinaus können Sie mit dem Smart TV andere Smart TV-Inhalte finden und anzeigen. Dazu zeigen wir Ihnen Programme und Inhalte, die Sie wahrscheinlich interessieren, oder bieten zusätzliche Dienste, die Ihr Erlebnis verbessern. Unsere Empfehlungen und zusätzlichen Dienste beruhen auf:\nInformationen über Inhalte, die Sie über Samsung-Anwendungen auf Ihrem Smart TV oder anderen Geräten angeschaut, gekauft, heruntergeladen oder gestreamt haben (weitere Informationen zu TV-Anzeigeinformationen finden Sie weiter unten im Abschnitt „Anzeigeinformationsdienste“);\nInformationen über Anwendungen, auf die Sie über Ihr Smart TV zugegriffen haben;\nInformationen über Ihre Klicks auf die Schaltflächen „Gefällt mir“, „Gefällt mir nicht“, „Jetzt ansehen“ und anderen Schaltflächen auf Ihrem Smart TV;\nSchlagwörtern, die Sie in die Suchfunktion Ihres Smart TV eingeben, unter anderem bei der Suche nach bestimmten Videoinhalten;\nsonstigen Nutzungs- und Geräteinformationen Ihres Smart TV, unter anderem Informationen wie IP-Adresse, Protokolldaten und Informationen, die Ihre Hardware- oder Softwarekonfiguration, Browser-Informationen und die von Ihnen angefragten Seiten identifizieren.\nAnzeigeinformationsdienste\nDiese Ergänzung gilt zusammen mit der Samsung Datenschutzrichtlinie, die auch für die Nutzung von personalisierten Smart TV-Diensten gilt und unter https://account.samsung.com/membership/pp verfügbar ist.\nDamit wir Ihnen ein auf Sie zugeschnittenes Smart TV Erlebnis bieten können, sind einige unserer Funktionen und Dienste auf Ihrem TV-Anzeigeverlauf und Ihren Smart TV-Nutzungsinformationen angewiesen.\nIhr TV-Anzeigeverlauf enthält Informationen über Netze, Sender, besuchte Websites und auf dem Smart TV gesehene Sendungen sowie Angaben zu der dafür aufgewendeten Zeit.\nWir können zur Erhebung dieser Daten die automatische Inhaltserkennung (ACR) und andere Technologien verwenden. Ihr Smart TV ermöglicht die Bestimmung der gesehenen Programme durch Übermittlung von Audio- und Video-Ausschnitten bzw. von Informationen vom TV-Tuner.\nSie können Ihre Datenschutzeinstellungen jederzeit im Einstellungsmenü ändern und eine bestimmte Funktion oder einen bestimmten Dienst nach eigenem Ermessen deaktivieren. In diesem Fall wird Ihr TV-Anzeigeverlauf nicht mehr für diese bestimmte Funktion oder diesen bestimmten Dienst gesammelt.\n[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]\nIhre Nutzung unserer Dienste schliesst die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten ausserhalb des Landes Ihres Wohnsitzes, in der Republik Korea, gemäss dieser Richtlinie ein. Ausserdem kann Ihre Nutzung der Dienste gegebenenfalls auch die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten in folgenden Länder umfassen: Länder im Europäischen Wirtschaftsraum, die Vereinigten Staaten von Amerika und Kanada. Beachten Sie, dass Datenschutz- und andere Gesetze von Ländern ausserhalb des Europäischen Wirtschaftsraums (EWR), in die Ihre Daten gegebenenfalls übermittelt werden, eventuell nicht so umfassend wie die Ihres Landes sind. Wir werden unter Einhaltung geltender Gesetze angemessene Massnahmen ergreifen, um sicherzustellen, dass Ihre personenbezogenen Daten geschützt bleiben. Zu solchen Massnahmen gehört die Verwendung von Standardvertragsklauseln, um bei der Übertragung von Daten ausserhalb des EWR einen angemessenen Schutz zu gewährleisten. Für weitere Informationen oder wenn Sie ein Exemplar der bestehenden vertraglichen Vereinbarungen anfordern möchten, nehmen Sie bitte über unsere Seite für Datenschutz-Support (https://www.samsung.com/request-desk) mit uns Kontakt auf.\nDenken Sie daran, dass die Wahl Ihrer Datenschutzeinstellung die Verfügbarkeit oder Qualität dieses bestimmten auf Anzeigeinformationen beruhenden Dienstes beeinflussen kann.\nServices für interessenbasierte Werbung\nDie Services für interessenbasierte Werbung („IBA-Services“) dienen dazu, Ihnen nützliche, interaktive und interessenbasierte Werbung zu Produkten und Diensten von Samsung und Dritten auf Ihrem Samsung Smart TV oder über verschiedene Plattformen oder Geräte von Samsung und Dritten, einschliesslich linearer Werbespots, im Internet und auf Mobilgeräten und Tablets bereitzustellen und anzuzeigen.\nUm die Werbung auf Ihren Geräten für Sie relevanter zu gestalten, nutzt der IBA-Service Ihren TV-Anzeigeverlauf (einschliesslich Informationen zu den Netzwerken, Kanälen, besuchten Websites und Programmen, die auf Ihrem Samsung Smart TV angezeigt wurden, und zu der dafür aufgewendeten Zeit), Samsung Smart TV-Nutzungsinformationen und weitere statistische Daten aus vertrauenswürdigen dritten Datenquellen. Wir verwenden zur Erhebung Ihres TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien.\nAnhand der oben genannten Informationen erstellen wir Gruppen von Samsung Smart TV-Besitzern mit ähnlichen Interessen, die wir dann für den IBA-Service nutzen. Die Gruppen, denen Ihr Samsung Smart TV zugeordnet ist, und damit die erhaltene Werbung werden anhand der oben genannten Informationen bestimmt.\nSie können den IBA-Service jederzeit im Einstellungsmenü Ihres Samsung Smart TV deaktivieren.\nDenken Sie daran, dass die Wahl Ihrer Datenschutzeinstellung für den IBA-Service keine Auswirkungen darauf hat, ob Sie andere Arten von Werbung und Marketing erhalten, die nicht von Ihrem TV-Anzeigeverlauf oder den Samsung Smart TV-Nutzungsinformationen abhängen. Diese anderen Arten von Werbung und Marketing basieren auf anderen Informationen wie dem generalisierten Standort und sonstigen geschätzten oder abgeleiteten Informationen. Diese sind möglicherweise weniger relevant, da sie nicht auf Ihren Interessen basieren.\nWeitere Informationen zu den IBA-Services finden Sie in der Datenschutzerklärung für IBA-Services unten in dieser Ergänzung.\nPSID\nDer Anzeigeverlauf und die Nutzungsdaten Ihres Smart TV werden zur Bereitstellung von interessenbasierter Werbung mit einer zufällig erstellten, nicht permanenten und zurücksetzbaren Gerätekennung, der personalisierten Dienst-ID oder „PSID“, verknüpft.\nSie können Ihre PSID jederzeit über das Einstellungsmenü auf Ihrem Smart TV zurücksetzen; die Verknüpfung Ihres Smart TV-Anzeigeverlaufs und Ihrer Smart TV-Nutzungsdaten in Bezug auf interessenbasierte Werbung mit der früheren PSID wird nach dem Zurücksetzen aufgehoben. Wenn Sie Ihre PSID zurücksetzen, ist die Qualität der interessenbasierten Werbung möglicherweise nicht optimal auf Ihre Interessen ausgerichtet.\nSpracherkennung\nSie können Ihr Smart TV und viele seiner Funktionen per Sprachbefehl steuern.\nWenn Sie die Spracherkennung aktivieren, können Sie Ihr Smart TV mit Ihrer Stimme steuern. Um die Spracherkennungsfunktion zur Verfügung stellen zu können, werden Ihre Sprachbefehle (sowie andere Informationen über Ihr Gerät, einschliesslich Gerätekennung) an uns übertragen und wir wandeln Ihre Sprachbefehle zur Bereitstellung der Spracherkennungsfunktionen in Text um. Darüber hinaus kann Samsung mit ihrer gesonderten Zustimmung Sprachbefehle und damit verknüpfte Texte sammeln, sodass wir diese Funktionen evaluieren und verbessern können. Samsung sammelt Ihre Sprachbefehle, wenn Sie eine spezifische Anfrage an das Smart TV richten, indem Sie die Aktivierungstaste auf der Fernbedienung oder auf Ihrem Bildschirm drücken oder ein Weck Wort (z. B. „Hi, Bixby“) sagen und in das Mikrofon an der Fernbedienung oder am Smart TV sprechen.\nWenn Sie die Spracherkennung nicht aktivieren, können Sie die Spracherkennungsfunktionen nicht nutzen.\nSie können die Datenerfassung durch die Spracherkennung jederzeit im Menü „Einstellungen“ deaktivieren. So können Sie die Spracherkennungsfunktionen jedoch nicht verwenden.\nWeitere Informationen zur Spracherkennung finden Sie in der Datenschutzerklärung für den Spracherkennungsdienst weiter unten in dieser Ergänzung.\nDrittanbieter\nWenn Sie ein Video ansehen oder Anwendungen oder Inhalte abrufen, die von einem Dritten angeboten werden, sammelt oder empfängt dieser Anbieter Informationen über Ihr Smart TV (z. B. dessen IP-Adresse und Gerätekennung), die angefragte Transaktion (z. B. Ihre Anfrage zum Erwerb oder zur Ausleihe des Videos) und Ihre Nutzung der Anwendung oder des Dienstes. Samsung ist nicht für Datenschutz- oder Sicherheitspraktiken dieses Anbieters verantwortlich. Sie sollten umsichtig vorgehen und die Datenschutzerklärungen lesen, die für die von Ihnen verwendeten Websites und Dienste von Drittanbietern gelten.\nLandesspezifische Funktionen\nBeachten Sie, dass eine oder mehrere der Funktionen in dieser Ergänzung für das Smart TV in Ihrem Land gegebenenfalls nicht zur Verfügung stehen.\nDATENSCHUTZERKLÄRUNG FÜR DEN SPRACHERKENNUNGSDIENST\nDatum des Inkrafttretens: 4. Juni 2019\nSamsung Electronics und seine angeschlossenen Unternehmen respektieren Ihre Bedenken zum Thema Datenschutz. Diese Datenschutzerklärung gilt für die personenbezogenen Daten, die wir im Rahmen des Spracherkennungsdienstes erheben („Sprachdienst“).\nDer Sprachdienst stellt Nutzern Funktionen für die rein sprachbasierte Suche und Anzeige von Inhalten und die Verwaltung ihrer Samsung-Produktumgebung zur Verfügung. Zu den Funktionen zählen die Verarbeitung der natürlichen Sprache bei der Inhaltssuche und Diensten für die Samsung Smart TV-Steuerung, Internet, Wetterinformationen und sonstige Dienste, die Nutzer heute von ihren Samsung Smart TV-Geräten erwarten.\nJe nach ausgewählter Sprache können Sie die erweiterte Spracherkennungsfunktion Bixby nutzen. Ob Bixby aktiviert ist, erkennen Sie an den Symbolen, Bannern und sonstigen Hinweisen auf dem Samsung Smart TV-Bildschirm.Diese Datenschutzerklärung informiert Sie ausführlich und konkret darüber, wie Ihre personenbezogenen Daten im Zusammenhang mit dem Sprachdienst verwendet werden, und gilt zusammen mit der Samsung Datenschutzrichtlinie für Ihre Nutzung des Sprachdienstes. Diese Richtlinie ist unter https://account.samsung.com/membership/pp verfügbar.\nIn dieser Datenschutzerklärung beschreiben wir, welche Art von Daten über den Sprachdienst erfasst werden, wie wir die Daten verwenden dürfen und welche Möglichkeiten Sie im Zusammenhang mit unserer Verwendung der Daten haben. Samsung ist der Verantwortliche für die Verarbeitung personenbezogener Daten.\nWELCHE DATEN ERFASSEN WIR?\nWir erfassen mithilfe des Sprachdienstes verschiedene Informationen über Sie. Die von uns erhaltenen personenbezogenen Daten sindfolgender Art:\nSamsung-Kontoinformationen (optional). Wenn Sie sich auf Ihrem Smart TV mit Ihrem Samsung-Konto anmelden, erfassen wir Informationen zu Ihrem Samsung-Konto, mit dem Sie auf den Sprachdienst zugreifen,  nämlich Ihren Namen, Ihre E-Mail-Adresse und die Samsung-Konto-ID.\nSprachdienstinteraktionen. Wir erfassen Daten, die Sie über Ihre Interaktionen mit den Diensten mit dem Sprachdienst austauschen, darunter Aufnahmen Ihrer Sprachbefehle (wie etwa Ihre Fragen, Anfragen und Anweisungen), Ihre Bilder und sonstige Eingaben sowie die Ihrerseits von den Diensten erhaltenen Daten (wie etwa Reaktionen, Antworten und Inhalte). Wir erfassen auch andere Daten im Zusammenhang mit Ihrer Verwendung des Sprachdienstes, einschliesslich der Daten (wie Daten im Zusammenhang mit den von Ihnen verwendeten Apps, den von Ihnen besuchten Websites, Bildern, Musiktiteln, Kalendereinträgen, Lesezeichen und Inhalten sowie Daten von anderen Apps, Websites und Diensten von Samsung und Drittanbietern), die wir von Apps und Diensten von Samsung und Drittanbietern erhalten, auf die über den Sprachdienst zugegriffen wird oder die damit verwendet werden, um Ihnen die Dienste (zum Beispiel Musik-Streaming oder Wetterinformationen) bereitzustellen.\nDaten zum geografischen Standort. Wir können anhand der in Ihrem TV-Gerät gespeicherten Postleitzahlinformationen, die über Ihre IP-Adresse oder durch Ihre Eingabe zu bestimmten Zwecken verfügbar sind, den genauen geografischen Standort Ihres Geräts und andere Daten im Zusammenhang mit Ihrem Standort empfangen und diese Information zur Bereitstellung von Diensten nutzen.\nGeräte- und App-Daten. Wir erfassen durch automatisierte Weise Daten über Ihre für den Sprachdienst aktivierten Geräte, nämlich Gerätemodelle, Betriebssystemversionen, Gerätekonfigurationen und Einstellungen, IP-Adressen und Gerätekennungen sowie andere eindeutige Kennungen. Darüber hinaus erhalten wir Daten darüber, wie, wann und wie lange Sie Ihre für den Sprachdienst aktivierten Geräte verwenden, einschliesslich Ihrer Verwendung des Sprachdienstes sowie Apps und Diensten von Samsung und Drittanbietern auf diesen Geräten (wie z. B. eine Liste von Apps auf Ihren Geräten, die auf Ihren Geräten abgespielte Musik, die von Ihnen besuchten Websites und die von Ihnen durchgeführten Suchvorgänge).\nWIE NUTZEN WIR IHRE DATEN?\nWir nutzen die über den Sprachdienst erfassten Daten, um\nIhnen die Dienste bereitzustellen, u. a. um auf Ihre über den Sprachdienst übermittelten Anfragen, Fragen und Anweisungen zu reagieren;\nSie zu identifizieren und zu authentifizieren, damit Sie den Sprachdienst nutzen können;\nIhre Benutzererfahrung mit dem Sprachdienst mit ihrer gesonderten Zustimmung zu verbessern und anzupassen, wie etwa durch die Bereitstellung von Inhalten und Antworten, die auf unsere Nutzer und deren Art, mit dem Sprachdienst zu interagieren, angepasst sind;\nmit Ihrer gesonderten Zustimmung, mit Ihnen über unsere Produkte und Dienste zu kommunizieren und Ihnen Nachrichten, Inhalte, Ankündigungen, Angebote, Promotionen, Marketinginformationen, Mitteilungen und Werbung bereitzustellen;\nauf Ihre Anfragen und Fragen zu reagieren;\nunser Business zu betreiben, zu beurteilen und zu verbessern (einschliesslich Entwicklung neuer Produkte; Weiterentwicklung und Verbesserung unserer Produkte und Dienste; Verwalten unserer Kommunikation; Analyse unserer Produkte, unserer Kundenbasis und Dienste; Marktforschung; Datenanalysen sowie Buchhaltung, Buchprüfung und anderer interner Funktionen);\nIhnen die Interaktion mit und Verwendung von bestimmten Apps und Diensten von Drittanbietern zu ermöglichen;\nSie vor Betrug und sonstiger krimineller Handlungen, Forderungen und sonstiger Verpflichtungen zu schützen, diese zu erkennen und zu verhindern; sowie\ndie anwendbaren gesetzlichen Vorschriften, relevanten Branchenstandards und unsere Richtlinien, einschliesslich dieser Datenschutzerklärung und der Samsung Datenschutzrichtlinie, einzuhalten und durchzusetzen.\nWir erfasseb über den Sprachdienst personenbezogene Daten über Ihre Onlineaktivitäten auf für den Sprachdienst aktivierten Geräten im Zeitablauf und über diverse Apps, Websites und andere Onlinedienste von Drittanbietern. Wir nutzenbei unseren Diensten Analysedienste von Drittanbietern. Die Anbieter, die diese Analysedienste verwalten, unterstützen uns dabei, Ihre Verwendung der Dienste zu analysieren und unsere Dienste zu verbessern. Die erhaltenen Informationen können an diese Anbieter weitergegeben oder direkt von diesen Anbietern und sonstigen relevanten Dritten erfasst werden, die die Daten nutzen, um die Nutzung der Dienste auszuwerten, die Dienstbereitstellung zu unterstützen oder technische Probleme zu diagnostizieren.\nSamsung verarbeitet personenbezogene Daten zu den in dieser Datenschutzerklärung beschriebenen Zwecken. Die rechtliche Grundlage für die Verarbeitung personenbezogener Daten durch Samsung bildet eine Verarbeitung: die für die Erfüllung des Vertrags zwischen Ihnen und Samsung notwendig ist (beispielsweise um die Dienste an Sie bereitzustellen und Sie zu identifizieren und zu authentifizieren, damit Sie bestimmte Dienste nutzen können); die zur Einhaltung rechtlicher Anforderungen erforderlich ist (beispielsweise zur Erfüllung anwendbarer Buchhaltungsgrundsätze und gegebenenfalls für obligatorische Meldungen an Strafverfolgungsbehörden); oder die für die legitimen Interessen von Samsung nötig ist (beispielsweise zur Verwaltung unserer Geschäftsbeziehung mit Ihnen und zur Verbesserung der Dienste). Eine Verarbeitung auf Grundlage berechtigter Interessen erfolgt nur dann, sofern Ihre Interessen oder Ihre Grundrechte und Grundfreiheiten nicht überwiegen. Darüber hinaus kann eine Verarbeitung auf Grundlage  der gesonderten Zustimmung unserer Kunden erfolgen (z. B. um mit Ihnen bezüglich unserer Produkte und Dienste in Verbindung zu treten und Ihnen Marketinginformationen zukommen zu lassen), die jederzeit widerrufen werden kann, indem sie sich über die Angaben im Abschnitt „Kontakt“ in der Datenschutzrichtlinie von Samsung an uns wenden, ohne dabei die Rechtmässigkeit der Verarbeitung einzuschränken, die vor dem Widerruf stattgefunden hat.\nFür den Abschluss eines Vertrags ist es zwingend erforderlich, dass Sie uns entsprechend der Beschreibung oben personenbezogene Daten zur Verarbeitung zur Verfügung stellen. Wenn Sie uns keine personenbezogenen Daten zur Verfügung stellen, können wir Ihnen nicht alle über den Sprachdienst verfügbaren Funktionen bereitstellen.\nIHRE WAHLMÖGLICHKEITEN\nSie können den Sprachdienst jederzeit im Einstellungsmenü deaktivieren. Allerdings können Sie den Sprachdienst dann möglicherweise nicht nutzen.\nWir bieten Ihnen im Zusammenhang mit den von uns über Sie erhaltenen personenbezogenen Daten bestimmte Wahlmöglichkeiten. Wenn Sie Ihre Präferenzen aktualisieren, die von uns erhaltenen Mitteilungen beschränken oder uns eine Anfrage stellen möchten, wenden Sie sich bitte wie im Abschnitt „Kontakt“ in der Samsung Datenschutzrichtlinie beschrieben an uns\nAKTUALISIERUNGEN UNSERER DATENSCHUTZERKLÄRUNG\nDiese Datenschutzerklärung wird von Zeit zu Zeit bei Änderungen unserer Datenschutzpraktiken in Bezug auf die Dienste oder bei Änderungen des anwendbaren Rechts aktualisiert. Wir benachrichtigen Sie über einen Hinweis auf unserer Website und/oder Ihrem Gerät über jegliche wichtige Änderungen unserer Datenschutzerklärung und geben oben im Hinweis an, wann dieser zuletzt aktualisiert wurde.\nDATENSCHUTZERKLÄRUNG ZUM SERVICE FÜR INTERESSENBASIERTE WERBUNG (IBA-SERVICE)\nDatum des Inkrafttretens: 4. Juni 2019\nSamsung Electronics und seine angeschlossenen Unternehmen respektieren Ihre Bedenken zum Thema Datenschutz. Diese Datenschutzerklärung gilt für die personenbezogenen Daten, die wir im Rahmen der Services für interessenbasierte Werbung erheben („IBA-Service“).\nDiese Datenschutzerklärung informiert Sie ausführlich und konkret darüber, wie Ihre personenbezogenen Daten im Zusammenhang mit dem IBA-Service verwendet werden, und gilt zusammen mit der Samsung Datenschutzrichtlinie, die auch für Ihre Nutzung des IBA-Services gilt. Diese Richtlinie ist unter https://account.samsung.com/membership/pp verfügbar.\nIn dieser Datenschutzerklärung wird beschrieben, welche Informationstypen für die interessenbasierte Werbung genutzt werden, wie wir die Informationen nutzen und welche Wahlmöglichkeiten Sie im Zusammenhang mit unserer Nutzung der Informationen und bei der Geltendmachung Ihrer Rechte haben. Samsung ist der Verantwortliche für die Verarbeitung personenbezogener Daten.\nWAS IST DER IBA-SERVICE?\nDer IBA-Service dient dazu, Ihnen nützliche, interaktive und interessenbasierte Werbung zu Produkten und Services von Samsung und Dritten auf Ihrem Samsung Smart TV oder über verschiedene Plattformen oder Geräte von Samsung und Dritten (einschliesslich linearer Werbespots) im Internet und auf Mobilgeräten und Tablets bereitzustellen und anzuzeigen.\nUm die Werbung auf Ihren Geräten für Sie relevanter zu gestalten, nutzt der IBA-Service Ihren TV-Anzeigeverlauf (einschliesslich Informationen zu den Netzwerken, Sendern, besuchten Websites und Programmen, die auf Ihrem Samsung Smart TV angezeigt wurden, und zu der dafür aufgewendeten Zeit), Samsung Smart TV-Nutzungsinformationen und weitere statistische Daten aus Datenquellen von vertrauenswürdigen Dritten. Wir können zur Erhebung Ihres TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien verwenden.\nAnhand der oben genannten Informationen erstellen wir Gruppen von Samsung Smart TV-Besitzern mit ähnlichen Interessen, die wir dann für den IBA-Service nutzen. Die Gruppen, denen Ihr Samsung Smart TV zugeordnet ist, und damit die erhaltene Werbung werden anhand der oben genannten Informationen bestimmt.\nPSID\nDaten über die Nutzung Ihres Geräts, die zu dem Zweck der Bereitstellung des IBA-Services erfasst werden, werden mit einer zufällig erstellten, nicht permanenten und zurücksetzbaren Kennung verknüpft, der sogenannten PSID. Sie können Ihre PSID wie in dieser Datenschutzerklärung im Abschnitt „Ihre Wahlmöglichkeiten“ beschrieben zurücksetzen.\nWELCHE DATEN ERFASSEN WIR?\nWir erfassen über den IBA-Service verschiedene Informationen zu Ihren Geräten. Folgende Informationstypen werden erfasst:\nGeräteinformationen. Wir erfassen Informationen wie Gerätemodell, Betriebssystemversionen, Konfigurationen und Einstellungen des Geräts, IP-Adresse, Gerätekennungen und weitere Kennungen.\nGerätenutzung und Protokollinformationen. Wir erfassen Informationen dazu, wie, wann und wie lange Sie Ihre Geräte nutzen, darunter auch Ihre Interaktionen mit dem IBA-Service und Geräte-Apps und -Services von Samsung und Dritten (z. B. App-Listen auf Ihren Geräten).\nAnzeigeinformationen. Wir erfassen Ihren TV-Anzeigeverlauf. Ihr TV-Anzeigeverlauf enthält Informationen über Netze, Sender, besuchte Websites und auf dem Samsung Smart TV gesehene Sendungen sowie die für deren Betrachtung aufgewendete Zeit. Wir verwendenzur Erhebung dieses TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien.\nStatistische Informationen. Wir nutzen statistische Informationen zu Ihnen und Ihren Geräten wie den generalisierten Standort und die geschätzte Altersgruppe. Diese statistischen Informationen rufen wir aus handelsüblichen Quellen (im gesetzlich zulässigen Umfang) wie unseren Drittanbietern ab. Wir arbeiten ausschliesslich mit Drittanbietern zusammen, die sicherstellen, dass diese Informationen gemäss den anwendbaren Gesetzen erfasst wurden und zur Nutzung und Weitergabe bereitgestellt werden dürfen.\nAuf den Samsung-Servern gehen Informationen ein, wenn Sie mit dem IBA-Service interagieren, zum Beispiel Informationen zu Ihren Interaktionen mit dem IBA-Service, Ihrem geografischen Standort und den Geräten, über die Sie den IBA-Service nutzen.\nWIE NUTZEN WIR IHRE DATEN?\nWir nutzen die über den IBA-Service erfassten Daten für folgende Zwecke:\nBereitstellung des IBA-Services für Sie;\nVerbesserung und Anpassung Ihrer Benutzererfahrung mit dem IBA-Service;\nmit Ihrer gesonderten Zustimmung, um mit Ihnen über E-Mail- und Push-Nachrichten zu Produkten und Diensten von Samsung und Dritten zu kommunizieren, die auf Ihre Interessenabgestimmt sind;\num auf Ihre Anfragen und Fragen zu reagieren;\num unser Business zu betreiben, zu beurteilen und zu verbessern (einschliesslich Entwicklung neuer Produkte; Weiterentwicklung und Verbesserung unserer Produkte und Dienste; Verwalten unserer Kommunikation; Analyse unserer Produkte, unserer Kundenbasis und Dienste; Marktforschung; Datenanalysen sowie Buchhaltung, Buchprüfung und anderer interner Funktionen); \num Sie vor Betrug und sonstigen kriminellen Handlungen, Forderungen und sonstigen Verpflichtungen zu schützen, diese zu erkennen und zu verhindern; sowie\num die anwendbaren gesetzlichen Vorschriften, relevanten Branchenstandards und unsere Richtlinien, einschliesslich dieser Datenschutzerklärung und der Samsung Datenschutzrichtlinie einzuhalten und durchzusetzen.\nSamsung verarbeitet personenbezogene Daten zu den in dieser Datenschutzerklärung beschriebenen Zwecken. Die rechtliche Grundlage für die Verarbeitung personenbezogener Daten durch Samsung bildet eine Verarbeitung: die für die Erfüllung des Vertrags zwischen Ihnen und Samsung notwendig ist (beispielsweise zur Bereitstellung des IBA-Services für Sie und zu Ihrer Identifikation und Authentifizierung); die zur Einhaltung rechtlicher Anforderungen erforderlich ist (beispielsweise zur Erfüllung anwendbarer Buchhaltungsgrundsätze und für obligatorische Meldungen an Strafverfolgungsbehörden); oder die für die legitimen Interessen von Samsung nötig ist (beispielsweise zur Verwaltung unserer Geschäftsbeziehung mit Ihnen und zur Verbesserung des IBA-Services). Eine Verarbeitung auf Grundlage berechtigter Interessen erfolgt nur dann, sofern Ihre Interessen oder Ihre Grundrechte und Grundfreiheiten nicht überwiegen. Darüber hinaus kann eine Verarbeitung auf Grundlage  der gesonderten Zustimmung unserer Kunden erfolgen (z. B. um mit Ihnen zu unseren Produkten und Services zu kommunizieren und Ihnen Marketinginformationen bereitzustellen), die jederzeit über das Einstellungsmenü widerrufen werden kann, das in dieser Datenschutzerklärung im Abschnitt „Ihre Wahlmöglichkeiten“ angegeben ist, wobei die Rechtmässigkeit der Verarbeitung, der vor dem Widerruf zugestimmt wurde, davon unberührt bleibt.\nFür die Nutzung des IBA-Services ist es zwingend erforderlich, dass Sie uns entsprechend der Beschreibung oben personenbezogene Daten zur Verarbeitung zur Verfügung stellen. Wenn Sie uns keine personenbezogenen Daten zur Verfügung stellen, können wir Ihnen nicht alle über den IBA-Service verfügbaren Funktionen bereitstellen.\nIHRE WAHLMÖGLICHKEITEN\nSie können Ihre PSID jederzeit im Einstellungsmenü zurücksetzen. Durch das Zurücksetzen wird die Verknüpfung Ihres TV-Anzeigeverlaufs und Ihrer Smart TV-Nutzungsinformationen mit der bisherigen PSID aufgehoben. Beachten Sie, dass das Zurücksetzen Ihrer PSID die Qualität des IBA-Services beeinträchtigen kann.\nSie können den IBA-Service ausserdem jederzeit im Einstellungsmenü Ihres Samsung Smart TV deaktivieren.\nBitte beachten Sie, dass die Wahl Ihrer Datenschutzeinstellung für den IBA-Service keine Auswirkungen darauf hat, ob Sie andere Arten von Werbung und Marketing erhalten, die nicht von Ihrem TV-Anzeigeverlauf oder den Samsung Smart TV-Nutzungsinformationen abhängen. Diese anderen Arten von Werbung und Marketing basieren auf anderen Informationen wie dem generalisierten Standort und sonstigen geschätzten oder beeinträchtigten Informationen. Diese sind gegebenenfalls weniger relevant, da sie nicht auf Ihren Interessen basieren.\nAKTUALISIERUNGEN UNSERER DATENSCHUTZERKLÄRUNG\nDiese Datenschutzerklärung wird von Zeit zu Zeit bei Änderungen unserer Datenschutzpraktiken in Bezug auf den IBA-Service oder bei Änderungen des anwendbaren Rechts aktualisiert. Wir benachrichtigen Sie über einen Hinweis auf unserer Website und/oder Ihrem Gerät über jegliche wichtige Änderungen unserer Datenschutzerklärung und geben oben im Hinweis an, wann dieser zuletzt aktualisiert wurde.\nSamsung-Druck- und Kopierprodukte gehören jetzt zur HP-Produktfamilie. Weitere Informationen dazu enthält die HP-Datenschutzerklärung unter: http://www.hp.com/go/privacy.\n\n"
+}

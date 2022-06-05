@@ -1,0 +1,587 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 213,
+            "start": 212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 322,
+            "start": 319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 533,
+            "start": 529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 755,
+            "start": 748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsbestandteil",
+            "end": 854,
+            "start": 835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 875,
+            "start": 860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschlossen",
+            "end": 1007,
+            "start": 996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1142,
+            "start": 1139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1263,
+            "start": 1261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1401,
+            "start": 1398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1547,
+            "start": 1539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belastet",
+            "end": 1679,
+            "start": 1671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1750,
+            "start": 1747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 1874,
+            "start": 1859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 2034,
+            "start": 2027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2207,
+            "start": 2204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendekostenvereinbarung",
+            "end": 2300,
+            "start": 2273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2319,
+            "start": 2301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgaberecht",
+            "end": 2350,
+            "start": 2337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 2498,
+            "start": 2486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 2609,
+            "start": 2603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksendet",
+            "end": 2844,
+            "start": 2832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 3017,
+            "start": 3008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportgefahr",
+            "end": 3054,
+            "start": 3039,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3191,
+            "start": 3190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3531,
+            "start": 3527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltung",
+            "end": 3607,
+            "start": 3592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 3747,
+            "start": 3736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedienen",
+            "end": 3880,
+            "start": 3872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 4001,
+            "start": 3995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tirendo",
+            "end": 4053,
+            "start": 4046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinsen",
+            "end": 4204,
+            "start": 4195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 4316,
+            "start": 4305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 4478,
+            "start": 4472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 4559,
+            "start": 4545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferadresse",
+            "end": 4660,
+            "start": 4647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkten",
+            "end": 4767,
+            "start": 4758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 4957,
+            "start": 4945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorschlagen",
+            "end": 5085,
+            "start": 5074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 5278,
+            "start": 5269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5495,
+            "start": 5492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 5691,
+            "start": 5687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerät",
+            "end": 5796,
+            "start": 5791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5910,
+            "start": 5905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 6080,
+            "start": 6072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6104,
+            "start": 6086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6183,
+            "start": 6180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6375,
+            "start": 6372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6395,
+            "start": 6381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "richten",
+            "end": 6510,
+            "start": 6503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 6618,
+            "start": 6606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6863,
+            "start": 6859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 6965,
+            "start": 6952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 7079,
+            "start": 7075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 7308,
+            "start": 7302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 7434,
+            "start": 7419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 7697,
+            "start": 7688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbestimmungen",
+            "end": 7810,
+            "start": 7790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 7986,
+            "start": 7982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 8232,
+            "start": 8228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Risiko",
+            "end": 8299,
+            "start": 8293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 8514,
+            "start": 8501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 8643,
+            "start": 8633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "passt",
+            "end": 8792,
+            "start": 8787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 8814,
+            "start": 8798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9093,
+            "start": 9087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 9333,
+            "start": 9327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzubewahren",
+            "end": 9367,
+            "start": 9354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9766,
+            "start": 9760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 9929,
+            "start": 9920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 10017,
+            "start": 10014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10031,
+            "start": 10024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 10278,
+            "start": 10269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Täuschung",
+            "end": 10381,
+            "start": 10372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 10532,
+            "start": 10528,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10797,
+            "start": 10796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegrenzt",
+            "end": 10906,
+            "start": 10896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 10993,
+            "start": 10985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 11117,
+            "start": 11103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tirendo",
+            "end": 11271,
+            "start": 11264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 11297,
+            "start": 11278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "helfen",
+            "end": 11379,
+            "start": 11373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelangen.Bitte",
+            "end": 11650,
+            "start": 11636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegungsstellen",
+            "end": 11772,
+            "start": 11749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benutzen",
+            "end": 11911,
+            "start": 11903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EU",
+            "end": 11969,
+            "start": 11967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 12087,
+            "start": 12075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 12215,
+            "start": 12209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 12275,
+            "start": 12272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 12309,
+            "start": 12304,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12552,
+            "start": 12551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12767,
+            "start": 12764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 12891,
+            "start": 12882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 13161,
+            "start": 13154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 13242,
+            "start": 13230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 13363,
+            "start": 13356,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\n1.1 Diese AGB gelten für Einkäufe des Kunden (im Folgenden „Kunde“ oder „Sie“ genannt) auf www.tirendo.de, einem Angebot der Tirendo Deutschland GmbH (im Folgenden „Tirendo“ oder „wir“ genannt). Sämtliche Leistungen, Lieferungen und Angebote von Tirendo erfolgen ausschließlich auf Grundlage dieser AGB.\n1.2 Der Kunde ist Verbraucher, soweit beim Abschluss des Vertrages der Zweck der bestellten Lieferungen und Leistungen nicht seiner gewerblichen oder selbständigen beruflichen Tätigkeit zugerechnet werden kann. Dagegen ist Unternehmer jede natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die beim Abschluss des Vertrags in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n1.3 Abweichende, entgegenstehende oder ergänzende AGB des Kunden werden nicht Vertragsbestandteil.\n§ 2 Vertragsschluss\n2.1 Ein gültiger Kaufvertrag zwischen Tirendo und dem Kunden wird durch die Annahme eines Angebots des Kunden wie folgt geschlossen: Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Buttons „Jetzt kaufen“ geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von fünf Tagen annehmen. Im Falle der Zahlarten SOFORT Überweisung und PayPal wird das Konto des Kunden aufgrund technischer Besonderheiten sofort belastet. Dies stellt jedoch keine Annahme des Kunden-Angebots unsererseits dar. Sollte Tirendo die Kunden-Bestellung nicht liefern können, wird dem Kunden die geleistete Zahlung umgehend zurückerstattet.\n2.2 Eingabefehler können Sie über Tastatur und Maus in den Eingabefeldern berichtigen, bis Sie auf den Bestelldialog abschließenden Bestätigungsbutton klicken. Der Vertragstext wird Ihnen entsprechend der gesetzlichen Bestimmungen zugänglich gemacht, eine darüber hinausgehende Speicherung nach Vertragsschluss nehmen wir nicht vor.\n§ 3 Hinweis auf das gesetzliche Widerrufsrecht für Verbraucher, Rücksendekostenvereinbarung\nWiderrufsbelehrung\n§ 4 Freiwilliges Rückgaberecht\n4.1 Tirendo bietet dem Kunden unabhängig von den gesetzlich bestehenden Rechten ein freiwilliges Rückgaberecht gemäß den nachfolgenden Bestimmungen.\n4.2 Der Kunde kann das freiwillige Rückgaberecht innerhalb von 30 Tagen ab Erhalt der Ware in Anspruch nehmen. Voraussetzung ist, dass der Kunde innerhalb dieser Frist Tirendo hierfür kontaktiert und die Ware vollständig und in ungebrauchtem und unbeschädigtem Zustand an die ihm von Tirendo für die Rücksendung mitgeteilte Adresse zurücksendet.\n4.3 Im Falle einer Rückgabe unter Beachtung der vorstehend genannten Bedingungen erhält der Kunde den schon geleisteten Kaufpreis, nicht jedoch die Versandkosten erstattet. Der Kunde trägt die Transportgefahr.\n4.4 Dieses freiwillige Rückgaberecht beschränkt nicht Ihre gesetzlichen Ansprüche und damit auch nicht Ihr Widerrufsrecht (siehe unten).\n4.5 Ausgenommen von diesem freiwilligen 30-tägigen Rückgaberecht als auch vom gesetzlichen Widerrufsrecht sind Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.\n§ 5 Preise und Versandkosten, Fälligkeit, Zahlung, Verzug, Zurückbehaltung\n5.1 Preise verstehen sich inklusive gesetzlicher Umsatzsteuer und, soweit nicht anders vereinbart, inklusive Versandkosten nach Deutschland.\n5.2 Für die Zahlung können Sie sich ausschließlich der bei der Bestellung vereinbarten und angegebenen Zahlungsmodalitäten bedienen.\n5.3 Sofern nicht anders vereinbart, ist der Kaufpreis spätestens 10 Tage nach Erhalt der Zahlungsaufforderung zu zahlen; maßgeblich ist der Eingang des Betrags bei Tirendo. Sofern der Kunde Unternehmer ist, hat dieser die Geldschuld während des Verzugs in Höhe von 8%-Punkten über dem jeweiligen Basiszinssatz zu verzinsen. Das Recht, einen nachweisbar entstandenen höheren Verzugsschaden geltend zu machen, bleibt Tirendo vorbehalten.\n5.4 Sofern der Kunde Unternehmer ist, kann er ein Zurückbehaltungsrecht nur dann geltend machen, wenn sein Gegenanspruch auf demselben Vertragsverhältnis beruht.\n§ 6 Liefer- und Versandbedingungen, Selbstbelieferungsvorbehalt, Gefahrübergang\n6.1 Sofern nicht anders vereinbart, erfolgt die Lieferung an die vom Kunden angegebene Lieferadresse. Auf der Website finden Sie auf der jeweiligen Produktdetailseite Hinweise zur Verfügbarkeit von Produkten.\n6.2 Wenn das bestellte Produkt nicht verfügbar ist, weil wir mit diesem Produkt von unseren Lieferanten ohne eigenes Verschulden nicht beliefert werden, können wir vom Vertrag zurücktreten. In diesem Fall werden wir Sie unverzüglich informieren und Ihnen ggf. die Lieferung eines vergleichbaren Produktes vorschlagen. Wenn kein vergleichbares Produkt verfügbar ist oder Sie keine Lieferung eines vergleichbaren Produktes wünschen, werden wir Ihnen ggf. bereits erbrachte Gegenleistungen unverzüglich erstatten.\n6.3 Ist der Kunde Unternehmer, geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware auf ihn über, sobald die Sendung an die für den Transport ausführende Person übergeben worden ist.\n6.4 Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware beim Versendungskauf mit der Übergabe der Kaufsache an den Verbraucher auf diesen über.\n6.5 Hinsichtlich der Gefahrtragung steht es der Übergabe gleich, falls der Kunde in Annahmeverzug gerät.\n6.6 Der Kunde versichert, die richtige und vollständige Lieferanschrift bei seiner Bestellung angegeben zu haben. Sollte es aufgrund fehlerhafter Adressdaten zu zusätzlichen Kosten bei der Versendung kommen – etwa erneut anfallende Versandkosten - so hat der Kunde diese zu ersetzen.\n§ 7 Eigentumsvorbehalt\nTirendo behält sich das Eigentum an der Ware bis zur vollständigen Zahlung vor. Sofern der Kunde Unternehmer sein sollte, behält sich Tirendo das Eigentum an der Ware bis zur Erfüllung sämtlicher ihm gegen den Käufer aus der Geschäftsverbindung zustehenden Ansprüche vor.\n§ 8 Gewährleistung\nEtwaige Anfragen und/oder Beanstandungen sind an Tirendo über die im Impressum angeführten Kontaktdaten zu richten. Die Gewährleistung für Sach- und Rechtsmängel richtet sich nach den im Folgenden aufgeführten Bestimmungen.\n8.1 Technisch bedingte Konstruktions- oder Fertigungsänderungen sowie geringfügige Abweichungen in der farblichen Gestaltung bleiben vorbehalten, solange dies für den Käufer zumutbar ist und diese Änderungen und Abweichungen handelsüblich sind.\n8.2 Bei Mängeln an der gelieferten Sache hat der Kunde zunächst nur einen Anspruch auf Nacherfüllung. Verbraucher haben insoweit die Wahl, ob die Nacherfüllung durch Nachbesserung oder Ersatzlieferung erfolgen soll; Tirendo ist jedoch berechtigt, die Art der gewählten Nacherfüllung zu verweigern, wenn sie nur mit unverhältnismäßigen Kosten möglich ist und die andere Art der Nacherfüllung ohne erhebliche Nachteile für den Verbraucher bleibt. Gegenüber Unternehmern leistet Tirendo für Mängel der Ware nach eigener Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n8.3 Ist die Nacherfüllung fehlgeschlagen, kann der Kunde nach seiner Wahl entsprechend den gesetzlichen Vorschriften die Vergütung herabsetzen (Minderung), den Vertrag rückgängig machen (Rücktritt), Schadensersatz oder Ersatz vergeblicher Aufwendungen verlangen. Wählt der Kunde Schadensersatz, gelten diesbezüglich die unter § 10 dieser AGB angeführten Haftungsbestimmungen.\n8.4 Bei neuen Sachen beträgt die Verjährungsfrist für die Rechte eines Verbrauchers bei Mängeln zwei Jahre, für die Rechte eines Unternehmers ein Jahr ab Ablieferung der Ware. Mit diesen Fristen verbundene Verjährungserleichterungen gelten nicht, soweit Tirendo aus anderen Rechtsgründen haftet oder es um das dingliche Recht eines Dritten geht, aufgrund dessen die Herausgabe des Liefergegenstandes verlangt werden kann.\n8.5 Die Nutzung der Internetseiten erfolgt auf Ihr eigenes Risiko. Insbesondere übernehmen wir keine Haftung bezüglich der Ergebnisse, die durch die Nutzung der Internetseiten erzielt werden können, und für die Richtigkeit der im Rahmen der Internetseiten erhaltenen Informationen. Bitte prüfen Sie, ob das über unseren Onlineshop identifizierte Ersatzteil auch tatsächlich dem gesuchten Ersatzteil entspricht. Gegebenenfalls sind ergänzende Informationen notwendig, um sicherzustellen, dass das gewählte Ersatzteil auch in das gewünschte Kraftfahrzeug passt.\n§ 9 Transportschäden\nSofern der Kunde Unternehmer ist, wird der Kunde nach Maßgabe der folgenden Bestimmungen Tirendo im Fall von Transportschäden nach besten Kräften unterstützen, soweit Ansprüche gegenüber dem betreffenden Transportunternehmen bzw. der Transportversicherung geltend gemacht werden.\n9.1 Sofern der Kunde Unternehmer ist, ist er im Fall der Annahme einer Lieferung mit äußerlich erkennbaren Transportschäden verpflichtet, die Schäden auf den jeweiligen Versanddokumenten zu vermerken und vom Zusteller quittieren zu lassen; die Verpackung ist aufzubewahren.\n9.2 Ist der (teilweise) Verlust oder die Beschädigung äußerlich nicht erkennbar, hat der Kunde, sofern er Unternehmer ist, dies innerhalb von fünf Tagen nach Ablieferung gegenüber Tirendo oder binnen sieben Tagen nach Ablieferung gegenüber dem Transportunternehmen anzuzeigen, um zu gewährleisten, dass etwaige Ansprüche gegenüber dem Transportunternehmen rechtzeitig geltend gemacht werden können.\n9.3 Etwaige Rechte und Ansprüche des Kunden, insbesondere dessen Rechte bei Mängeln der Sache, bleiben von den Regelungen der §§ 9.1 und 9.2 dieser AGB unberührt. Diese beinhalten daher keine Ausschlußfrist für Rechte des Kunden gemäß § 8 dieser AGB.\n§ 10 Haftung\n10.1 Tirendo haftet im Fall von Schäden für den/des Kunden (a) aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die durch eine Pflichtverletzung von Tirendo oder eines seiner gesetzlichen Vertreter oder Erfüllungsgehilfen entstehen, (b) nach dem Produkthaftungsgesetz, aus der Übernahme einer Garantie oder wegen arglistiger Täuschung, (c) wenn Tirendo oder seine gesetzlichen Vertreter oder Erfüllungsgehilfen den Schaden vorsätzlich oder grob fahrlässig herbeigeführt haben, und/oder (d) wenn der Schaden durch die Verletzung einer Verpflichtung von Tirendo entstanden ist, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertraut und vertrauen darf (Kardinalpflicht).\n10.2 Tirendo haftet in den Fällen des Absatzes 1, Buchstaben (a), (b) und/oder (c) der Höhe nach unbegrenzt. Im Übrigen ist der Schaden auf den vorhersehbaren, vertragstypischen Schaden begrenzt.\n10.3 In anderen als den in Absatz 1 genannten Fällen ist die Haftung von Tirendo unabhängig vom Rechtsgrund ausgeschlossen.\n10.4 Die Haftungsregelungen in vorstehenden Absätzen gelten auch für eine persönliche Haftung der Organe, Mitarbeiter und Erfüllungsgehilfen von Tirendo.\n§ 11 Schlussbestimmungen\n11.1 Die EU hat ein Online Portal eingerichtet, um unzufriedenen Kunden zu helfen. Bei Beschwerden über Waren oder Dienstleistungen, die Sie bei uns über das Internet gekauft haben, können Sie unter folgender Adresse https://ec.europa.eu/consumers/odr eine neutrale Streitbeilegungsstelle finden, um zu einer außergerichtlichen Lösung zu gelangen.Bitte beachten Sie, für einige Branchen und in einigen Ländern gibt es derzeit (Stand 01.02.2017) keine Streitbeilegungsstellen. Deshalb können Sie als Verbraucher dieses Portal möglicherweise nicht zur Beilegung von Streitigkeiten mit uns in diesen Ländern benutzen. Weitere Informationen finden Sie im Online Portal der EU. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet. Dennoch sind wir zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle grundsätzlich bereit. Für weitere Fragen wenden Sie sich bitte an info@delti.com.\n11.2 Nebenabreden bestehen nicht.\n11.3 Ist der Kunde Kaufmann, eine juristische Person des öffentlichen Rechts oder öffentlich rechtliches Sondervermögen, so ist Erfüllungsort und Gerichtsstand für sämtliche Streitigkeiten aus diesem Vertragsverhältnis Hannover (Deutschland). Dasselbe gilt für den Fall, dass der Kunde Unternehmer ist und keinen allgemeinen Gerichtstand in Deutschland hat oder für den Fall, dass der gewöhnliche Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist. Die Möglichkeit von Tirendo, den Kunden an einem anderen gesetzlichen Gerichtsstand zu verklagen, bleibt hiervon unberührt.\n11.4 Sollten einzelne Bestimmungen dieser allgemeinen Geschäftsbedingungen ganz oder teilweise unwirksam sein oder werden, wird hierdurch die Gültigkeit der übrigen Bestimmungen dieses Vertrages einschließlich der übrigen allgemeinen Geschäftsbedingungen nicht berührt. An die Stelle der unwirksamen Bestimmungen treten die gesetzlichen Bestimmungen. Das gilt auch für den Fall, dass die allgemeinen Geschäftsbedingungen eine nicht vorhergesehene Lücke aufweisen sollten.\n\n"
+}

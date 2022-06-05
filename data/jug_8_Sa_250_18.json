@@ -1,0 +1,1127 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitgeber",
+            "end": 96,
+            "start": 85,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 109,
+            "start": 97,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 155,
+            "start": 153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 177,
+            "start": 176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Orientierungsatz",
+            "end": 194,
+            "start": 178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 448,
+            "start": 444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 461,
+            "start": 450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufrechnung",
+            "end": 575,
+            "start": 564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 586,
+            "start": 576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 641,
+            "start": 639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 652,
+            "start": 642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41129",
+            "end": 672,
+            "start": 667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 678,
+            "start": 673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 868,
+            "start": 854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 907,
+            "start": 897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 919,
+            "start": 909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 921,
+            "start": 920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 1068,
+            "start": 1062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1071,
+            "start": 1070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 1211,
+            "start": 1200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 1400,
+            "start": 1391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 1499,
+            "start": 1491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1502,
+            "start": 1501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stunde",
+            "end": 1577,
+            "start": 1571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachtarbeit",
+            "end": 1714,
+            "start": 1703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Woche",
+            "end": 1744,
+            "start": 1739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaub",
+            "end": 1837,
+            "start": 1831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2073,
+            "start": 2067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2144,
+            "start": 2142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2147,
+            "start": 2146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 2392,
+            "start": 2386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2395,
+            "start": 2394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 2508,
+            "start": 2504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2575,
+            "start": 2573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offenstehen",
+            "end": 2691,
+            "start": 2680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschickt",
+            "end": 2858,
+            "start": 2848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2922,
+            "start": 2916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschickt",
+            "end": 3115,
+            "start": 3105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3210,
+            "start": 3204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anderes",
+            "end": 3264,
+            "start": 3257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugelten",
+            "end": 3383,
+            "start": 3373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 3494,
+            "start": 3489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 3600,
+            "start": 3594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3603,
+            "start": 3602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3733,
+            "start": 3730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekommen",
+            "end": 3839,
+            "start": 3831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitze",
+            "end": 4030,
+            "start": 4023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4324,
+            "start": 4320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 4420,
+            "start": 4413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 4657,
+            "start": 4651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 4817,
+            "start": 4811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgehe",
+            "end": 4913,
+            "start": 4906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Woche",
+            "end": 5014,
+            "start": 5009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5213,
+            "start": 5209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entgeltzahlung",
+            "end": 5343,
+            "start": 5329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergütet",
+            "end": 5686,
+            "start": 5678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 5751,
+            "start": 5738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 5917,
+            "start": 5910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5920,
+            "start": 5919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 6015,
+            "start": 6010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6086,
+            "start": 6084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestanden",
+            "end": 6149,
+            "start": 6138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitstage",
+            "end": 6277,
+            "start": 6266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezwölftelt",
+            "end": 6433,
+            "start": 6422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaub",
+            "end": 6527,
+            "start": 6521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 6748,
+            "start": 6746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitstage",
+            "end": 6836,
+            "start": 6825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6937,
+            "start": 6931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unantastbar",
+            "end": 7027,
+            "start": 7016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitstagen",
+            "end": 7145,
+            "start": 7133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 7235,
+            "start": 7227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuziehen",
+            "end": 7346,
+            "start": 7336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7454,
+            "start": 7448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7663,
+            "start": 7660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 7888,
+            "start": 7883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8117,
+            "start": 8114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 8476,
+            "start": 8471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 8603,
+            "start": 8595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schuld",
+            "end": 8716,
+            "start": 8710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 9022,
+            "start": 9016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9097,
+            "start": 9091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 9370,
+            "start": 9365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 9566,
+            "start": 9560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 9665,
+            "start": 9659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 9753,
+            "start": 9746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingegangen",
+            "end": 9878,
+            "start": 9867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erloschen",
+            "end": 9952,
+            "start": 9943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfallen",
+            "end": 10164,
+            "start": 10155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 10370,
+            "start": 10363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 10373,
+            "start": 10372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tag",
+            "end": 10743,
+            "start": 10740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 10746,
+            "start": 10745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11056,
+            "start": 11050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekündigt",
+            "end": 11160,
+            "start": 11151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11268,
+            "start": 11262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 11345,
+            "start": 11339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalte",
+            "end": 11637,
+            "start": 11630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BUrlG",
+            "end": 11730,
+            "start": 11725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausscheide",
+            "end": 12053,
+            "start": 12043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 12261,
+            "start": 12255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitgeberwechsel",
+            "end": 12430,
+            "start": 12412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 12666,
+            "start": 12660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beträge",
+            "end": 12909,
+            "start": 12902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 12999,
+            "start": 12992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 13139,
+            "start": 13125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 13143,
+            "start": 13141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "daher",
+            "end": 13172,
+            "start": 13167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 13266,
+            "start": 13256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 13296,
+            "start": 13286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreites",
+            "end": 13347,
+            "start": 13333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 13351,
+            "start": 13349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 13401,
+            "start": 13387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 13405,
+            "start": 13403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsgerichts",
+            "end": 13555,
+            "start": 13540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 13559,
+            "start": 13557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 13710,
+            "start": 13702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 13731,
+            "start": 13712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 13733,
+            "start": 13732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 13736,
+            "start": 13734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 13776,
+            "start": 13768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 13780,
+            "start": 13778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 13951,
+            "start": 13948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "B",
+            "end": 13954,
+            "start": 13953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13958,
+            "start": 13956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 13998,
+            "start": 13989,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14154,
+            "start": 14153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlasst",
+            "end": 14261,
+            "start": 14251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 14264,
+            "start": 14263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 14268,
+            "start": 14266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 14423,
+            "start": 14421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14427,
+            "start": 14425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugelten",
+            "end": 14615,
+            "start": 14605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 14758,
+            "start": 14750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 14906,
+            "start": 14900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 15066,
+            "start": 15059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 15294,
+            "start": 15292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 15425,
+            "start": 15419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 15429,
+            "start": 15427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 15433,
+            "start": 15431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesprochen",
+            "end": 15689,
+            "start": 15677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15693,
+            "start": 15691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15888,
+            "start": 15885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 16012,
+            "start": 16008,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16159,
+            "start": 16158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16469,
+            "start": 16463,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16763,
+            "start": 16762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16767,
+            "start": 16765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschritten",
+            "end": 16915,
+            "start": 16901,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17349,
+            "start": 17348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 17354,
+            "start": 17351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 17358,
+            "start": 17356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbleiben",
+            "end": 17479,
+            "start": 17469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 17483,
+            "start": 17481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 17664,
+            "start": 17658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreit",
+            "end": 17833,
+            "start": 17826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17971,
+            "start": 17967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 18157,
+            "start": 18153,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18291,
+            "start": 18290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 18295,
+            "start": 18293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 18483,
+            "start": 18475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 18487,
+            "start": 18485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 18771,
+            "start": 18768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 18775,
+            "start": 18773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 18957,
+            "start": 18953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 19083,
+            "start": 19075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 19258,
+            "start": 19249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 19262,
+            "start": 19260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 19266,
+            "start": 19264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechnen",
+            "end": 19464,
+            "start": 19454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 19759,
+            "start": 19745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 19763,
+            "start": 19761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkannt",
+            "end": 19814,
+            "start": 19807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfallen",
+            "end": 20138,
+            "start": 20129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 20306,
+            "start": 20302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 20310,
+            "start": 20308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "November",
+            "end": 20461,
+            "start": 20453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 20562,
+            "start": 20555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfallen",
+            "end": 20739,
+            "start": 20730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelaufen",
+            "end": 20861,
+            "start": 20851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "C",
+            "end": 20864,
+            "start": 20863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 20868,
+            "start": 20866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 20951,
+            "start": 20948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "D",
+            "end": 20954,
+            "start": 20953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 20958,
+            "start": 20956,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21039,
+            "start": 21038,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 12.10.2018 – 8 Sa 250/18\nTitel:\nUrlaubsanspruch beim neuen Arbeitgeber\nNormenketten:\nBurlG § 3 Abs. 1, § 4, § 5, § 6 Abs. 1, § 13\n(MTV IGZ/DGB) § 6.2.3\nOrientierungsatz:\n§ 6.2.3 des MTV IGZ/DGB , der die Zwölftelquotelung des Urlaubs bei Ausscheiden im Laufe des\nKalenderjahres regelt, ist unwirksam, soweit der gesetzliche Mindesturlaub bei Ausscheiden in der\n2. Jahreshälfte (bei erfüllter Wartezeit) unterschritten wird.\nSchlagworte:\nMindesturlaub, Wartezeit, Urlaubsanspruch, Urlaub, Ausschlussfrist, neuer Arbeitgeber, Arbeitnehmer,\nAufrechnung\nVorinstanz:\nArbG Würzburg, Endurteil vom 24.05.2018 – 2 Ca 145/18\nFundstelle:\nBeckRS 2018, 41129\nTenor\n1. Die Berufung der Beklagten gegen das Endurteil des Arbeitsgerichts Würzburg - Kammer Aschaffenburg\n- vom 24.05.2018, Az. 2 Ca 145/18, wird auf Kosten der Berufungsführerin zurückgewiesen.\n2. Die Revision wird nicht zugelassen.\nTatbestand\n1\nDie Parteien streiten zuletzt im Berufungsverfahren über einen Anspruch des Klägers auf Zahlung von\nUrlaubsabgeltung in Höhe von € 1.241,66 brutto.\n2\nDer Kläger war bei der Beklagten, einem Zeitarbeitsunternehmen, in der Zeit vom 06.03.2017 bis\n31.10.2017 als Maschinenbediener beschäftigt. Im Arbeitsvertrag vom 01.03.2017 wird hinsichtlich der\nUrlaubsregelung auf § 6 IGZ/DGB-Manteltarifvertrag und hinsichtlich des Urlaubsentgelts auf § 6 a des\nManteltarifvertrages verwiesen. Hinsichtlich des weiteren Inhalts des Arbeitsvertrages wird auf Bl. 23 bis 25\nd.A. Bezug genommen.\n3\nDie tarifliche Grundvergütung des Klägers betrug € 11,51 brutto die Stunde. Außerdem erhielt er eine\nübertarifliche Zulage von € 0,49 die Stunde sowie Zuschläge für Samstags-/Sonntags-/Feiertags- und\nNachtarbeit. Es galt eine Fünf-Tage-Woche. In der Zeit von Freitag, den 04.08.2017 bis Freitag, den\n11.08.2017 hatte der Kläger Urlaub. In einem an die Beklagte gerichteten Schreiben des Klägervertreters\nvom 09.01.2018 äußerte dieser u.a. die Ansicht dem Kläger stünden noch zehn Urlaubstage zur Abgeltung\nzu und vier Urlaubstage seien unberechtigterweise gekürzt worden. Die Beklagte lehnte weitere Zahlungen\nmit Schreiben vom 15.01.2018 ab.\n4\nMit seiner am 08.02.2018 beim Arbeitsgericht Würzburg - Kammer Aschaffenburg - eingegangenen Klage\nmachte der Kläger eine Abgeltung von 14 Tagen Resturlaub geltend, die zum Zeitpunkt der Beendigung des\nArbeitsverhältnisses noch bestanden hätten.\n5\nErstinstanzlich trug der Kläger vor, dass er einen Anspruch in Höhe des gesetzlichen Urlaubs nach § 3\nBUrlG habe. Nach Ablauf der Wartezeit stünde ihm der volle Urlaubsanspruch zu. Da er sechs Tage Urlaub\ngenommen habe, würde letztlich ein Resturlaub von vierzehn Tagen zur Abgeltung offenstehen. Im\nZeitraum vom 22.08.2017 bis 25.08.2017 sei er arbeitsunfähig erkrankt gewesen und habe die\nKrankmeldung unverzüglich an Herrn Sebastian A. per WhatsApp verschickt. Die Unterlagen seien\nunverzüglich per Post nachgereicht worden. Im Zeitraum vom 01.09.2017 bis 05.09.2017 bzw. 08.09.2017\nsei er arbeitsunfähig erkrankt gewesen und habe die Krankmeldung ebenfalls unverzüglich an Herrn\nSebastian A. per WhatsApp verschickt. Die Arbeitsunfähigkeitszeiten seien auch der Krankenversicherung\nzeitgleich mitgeteilt worden. Aus deren Bescheinigungen ergebe sich nichts Anderes. Da ihm wegen\nBeendigung des Arbeitsverhältnisses dieser Resturlaub nicht mehr gewährt werden könne, sei er\nabzugelten. Rechtsirrig weise die Beklagte darauf hin, dass Krankheitstage u. a. mit Urlaubstagen\nverrechnet worden seien. Aufgrund seiner Berechnung ergäbe sich somit ein Urlaubsabgeltungsanspruch in\nHöhe von € 1.344,00 brutto.\n6\nDie Beklagte trug erstinstanzlich vor, dass der Kläger ab 01.11.2017 nahtlos in ein neues Arbeitsverhältnis\nübernommen worden sei. Von diesem neuen Arbeitgeber habe der Kläger für das Kalenderjahr 2017 vier\nUrlaubstage gewährt bekommen. In § 6.2 des Manteltarifvertrages IGZ/DGB sei geregelt, dass der\nArbeitnehmer im ersten Jahr des Bestehens des Arbeitsverhältnisses einen Urlaubsanspruch in Höhe von\n24 Arbeitstagen besitze. In § 6.2.3 dieses Manteltarifvertrages sei darüber hinaus geregelt, dass dann,\nwenn der Arbeitnehmer im Laufe eines Kalenderjahres aus dem Unternehmen ausscheide, er für jeden\nvollen Monat des Bestehens des Beschäftigungsverhältnisses Anspruch auf 1/12 des ihm zustehenden\nJahresurlaubes habe. Für sieben volle Monate hätte sich daher ein Urlaubsanspruch von vierzehn\nArbeitstagen ergeben. Hiervon in Abzug zu bringen seien die vom Kläger während des Bestehens des\nArbeitsverhältnisses bereits genommenen sechs Urlaubstage, so dass dem Grunde nach nur acht\nUrlaubstage bei Beendigung des Arbeitsverhältnisses bestanden hätten. Der Kläger hätte auch Gelegenheit\ngehabt, den ihm noch zustehenden Resturlaub in Höhe von vierzehn Tagen bis zur Beendigung des\nArbeitsverhältnisses zu nehmen. Das Rechenwerk des Klägers sei falsch, da dieser zu Unrecht von einer\n40-Stunden-Woche ausgehe. Die Arbeitszeit bemesse sich nach § 3.1.2 des Manteltarifvertrages und\nbetrage 35 Stunden die Woche. Der Kläger habe insbesondere im August 2017 und September 2017\nunentschuldigt gefehlt, da er sich weder arbeitsunfähig krank gemeldet noch rechtzeitig\nArbeitsunfähigkeitsbescheinigen vorgelegt habe. Für die Zeit seines unentschuldigten Fernbleibens von der\nArbeitsstelle habe er grundsätzlich keinen Anspruch auf Entgeltzahlung. Die Beklagte habe die Fehlzeiten\ndes Klägers als Urlaubszeiten in der Lohnbuchhaltung erfasst und für die Zeit vom 04.08. bis 11.08.2017\nsechs Urlaubstage, für die Zeit vom 21.08. bis 25.08.2017 fünf Urlaubstage und für den 01.09.2017 sowie\nfür die Zeit vom 05.09.2017 bis 08.09.2017 weitere fünf Urlaubstage gebucht und Urlaubslohn vergütet.\nDem Inhalt der Abrechnungen habe der Kläger nicht widersprochen. Höchstvorsorglich werde hiermit mit\ndem von der Klägerseite behaupteten Urlaubsabgeltungsanspruch in Höhe des Betrages von € 1.530,89\nbrutto die Aufrechnung erklärt.\n7\nDas Arbeitsgericht gab der Klage mit Urteil vom 24.05.2018 in Höhe von € 1.241,66 brutto statt. Dem Kläger\nstünde ein Urlaubsabgeltungsanspruch für 14 Urlaubstage zu. Dem Kläger haben für das Jahr 2017 20\nUrlaubstage zugestanden. Gemäß § 6 des Arbeitsvertrages in Verbindung mit § 6.2.1 MTV IGB/DGB\nbetrage der Urlaubsanspruch im ersten Jahr 24 Arbeitstage. Grundsätzlich werde der Urlaub bei\nAusscheiden im Laufe eines Kalenderjahres gemäß § 6 des Arbeitsvertrages in Verbindung mit Ziffer 6.2.3\nMTV gezwölftelt. Hiernach ergäben sich für den sieben volle Monate beschäftigten Kläger 14 Arbeitstage\nUrlaub. Da der Kläger jedoch in der zweiten Jahreshälfte nach erfüllter Wartezeit (§ 4 BUrlG)\nausgeschieden sei, stünde ihm gemäß § 5 BUrlG nicht lediglich ein Teilurlaubsanspruch, sondern der volle\ngesetzliche Mindesturlaub zu. Dieser betrage gemäß § 3 BUrlG 24 Werktage, also bei einer 5-Tage-Woche\n20 Arbeitstage. Gemäß § 13 Abs. 1 Satz 1 BUrlG könne von § 3 Abs. 1 BUrlG nicht in Tarifverträgen\nabgewichen werden. Der gesetzliche Mindesturlaub sei demnach auch für die Tarifvertragsparteien\nunantastbar. Nach der Quotelungsregelung in § 6.2.3 MTV bleibe dem Kläger damit der gesetzliche\nMindesturlaub von 20 Arbeitstagen. Unstreitig habe der Kläger in der Zeit vom 04. bis 11.08.2017 sechs\nTage Urlaub genommen. Die Beklagte sei nicht berechtigt, Tage, die sie als unentschuldigtes Fehlen\nbetrachte, vom Urlaub abzuziehen. Selbst wenn der Kläger unentschuldigt gefehlt hätte, dürften diese Tage\nnicht mit Urlaub verrechnet werden. Im Übrigen habe der Kläger durch Vorlage einer\nArbeitsunfähigkeitsbescheinigung nachgewiesen, dass er im Zeitraum vom 22.08. bis 01.09.2017 sowie\nvom 05.09. bis 15.09.2017 arbeitsunfähig erkrankt gewesen sei. Die Beklagte könne den Kläger auch nicht\nauf seinen anteiligen beim neuen Arbeitgeber entstandenen Urlaubsanspruch verweisen und zwar selbst\ndann nicht, wenn der Kläger dort tatsächlich für zwei Monate Urlaub erhalten hätte. § 6 BUrlG führe nicht\ndazu, dass der Urlaubsanspruch gegen den Altarbeitgeber bei Beendigung des Arbeitsverhältnisses in der\nzweiten Jahreshälfte um die Urlaubstage, die in einem neuen Arbeitsverhältnis entstehen, zu kürzen sei.\nDer Anspruch auf Urlaub bestehe nach § 6 Abs. 1 BUrIG nicht, soweit dem Arbeitnehmer für das laufende\nKalenderjahr bereits von einem früheren Arbeitgeber Urlaub gewährt worden sei. Dadurch werde nur der\nAnspruch im neuen Arbeitsverhältnis ganz oder teilweise ausgeschlossen, soweit Urlaubsansprüche bereits\nim früheren Arbeitsverhältnis erfüllt worden seien. § 6 BUrIG schließe nur Urlaubsansprüche im neuen\nArbeitsverhältnis aus, enthalte aber für den umgekehrten Fall keine Regelung. Aus § 6 Abs. 1 BUrIG folge\nauch keine Kürzungsbefugnis des Vorarbeitgebers für seine noch nicht erfüllte Schuld. Sie bleibe von der\nweiteren Entwicklung der Urlaubsansprüche des Arbeitnehmers im neuen Arbeitsverhältnis unberührt Die\nBerechnung für vierzehn abzugeltende Urlaubstage gemäß § 6 des Arbeitsvertrages in Verbindung mit § 6\na MTV IGZ/DGB ergäbe einen Urlaubsabgeltungsanspruch in Höhe von € 1.241,66 brutto. Der\nUrlaubsabgeltungsanspruch sei auch rechtzeitig geltend gemacht worden. Gemäß § 18 des\nArbeitsvertrages in Verbindung mit § 10 MTV IGZ/DGB verfallen Ansprüche aus dem Arbeitsverhältnis,\nwenn sie nicht innerhalb einer Ausschlussfrist von drei Monaten nach Fälligkeit gegenüber der anderen\nVertragspartei schriftlich geltend gemacht worden seien. Bei schriftlicher Ablehnung durch die Gegenpartei\nsind die Ansprüche innerhalb einer weiteren Ausschlussfrist von drei Monaten ab Zugang der schriftlichen\nAblehnung gerichtlich geltend zu machen. Der Urlaubsabgeltungsanspruch werde mit Beendigung des\nArbeitsverhältnisses zum 31.10.2017 fällig. Die Geltendmachung mit Schreiben vom 09.01.2018 sei\ninnerhalb von drei Monaten erfolgt. Die Klage sei am 08.02.2018, also innerhalb von drei Monaten ab\nZugang der schriftlichen Ablehnung, bei Gericht eingegangen. Der Urlaubsabgeltungsanspruch sei auch\nnicht durch Aufrechnung erloschen. Ein etwaiger Rückzahlungsanspruch der Beklagten in Höhe von\n€ 1.530,89 brutto sei zumindest wegen Nichteinhaltung der Ausschlussfrist gemäß § 18 des\nArbeitsvertrages in Verbindung mit § 10 MTV IGZ/DGB verfallen. Erstmals im Schriftsatz vom 08.03.2018,\nbei Gericht eingegangen am 09.03.2018 und damit später als drei Monate nach Fälligkeit, habe die\nBeklagte diesen vermeintlichen Rückzahlungsanspruch geltend gemacht.\n8\nGegen dieses den Prozessvertretern der Beklagten am 08.06.2018 zugestellte Urteil legten diese mit\nSchriftsatz vom 05.07.2018, eingegangen beim Landesarbeitsgericht Nürnberg am selben Tag, Berufung\nein und begründeten diese innerhalb der verlängerten Berufungsbegründungsfrist mit Schriftsatz vom\n29.08.2018, eingegangen beim Landesarbeitsgericht Nürnberg am selben Tag.\n9\nDie Beklagte hält unter weitgehender Wiederholung der erstinstanzlichen Argumentation an ihrer\nAuffassung fest, dass nach § 7 Abs. 4 des BUrlG ein Urlaubsabgeltungsanspruch nur bestünde, soweit\nwegen der Beendigung des Arbeitsverhältnisses der Urlaub ganz oder teilweise nicht mehr gewährt hätte\nwerden können. Unstreitig habe der Kläger mit Schreiben vom 29.09.2017 das Arbeitsverhältnis zum\n31.10.2017 gekündigt. Zwischen dem 29.09. und dem 31.10.2017 hätte der Kläger seinen Urlaubsanspruch\nin Natur realisieren können. Das Arbeitsgericht hätte die Klage bereits aus diesem Grund abweisen\nmüssen. Darüber hinaus regele § 6.2.3 des Manteltarifvertrages unmissverständlich, dass der\nArbeitnehmer, der im Laufe eines Kalenderjahres aus dem Unternehmen ausscheide, für jeden vollen\nMonat des Bestehens des Beschäftigungsverhältnisses lediglich 1/12 des ihm zustehenden Jahresurlaubes\nerhalte. Diese manteltarifvertragliche Regelung stünde auch nicht im Widerspruch zu § 3 Abs. 1 BUrlG. Der\nMTV IGZ/DGB verstoße insoweit auch nicht gegen die Vorschrift des § 13 Abs. 1 in Verbindung mit § 3 Abs.\n1 BUrlG. Die tarifvertragliche Regelung stelle den Mindesturlaubsanspruch nicht in Frage, sondern regele\nnur die Fälle, in denen ein Arbeitnehmer im Laufe eines Kalenderjahres aus dem Arbeitsverhältnis\nausscheide. Der Kläger habe sich auch die in dem seit dem 01.11.2017 aufgenommenen Arbeitsverhältnis\ngewährten Urlaubstage auf den im Arbeitsverhältnis zu der Beklagten aufgelaufenen Urlaubsanspruch\nanrechnen zu lassen. Der Urlaubsanspruch, wie sich aus der in § 1 BUrlG verwendeten Diktion ergebe,\ngelte nur für das Kalenderjahr und zwar unabhängig von einem etwaigen Arbeitgeberwechsel. Die im\nArbeitsverhältnis aufgelaufenen Fehlzeiten, für die der Kläger ohne Rechtsgrund mit den\nLohnabrechnungen für September und Oktober 2017 Gehalt erhalten habe, hätten mit den\nUrlaubsansprüchen des Klägers verrechnet werden können. Wenn die Ansicht des Arbeitsgerichtes\nzutreffend wäre, dass die Fehltage nicht als Urlaubstage hätten abgerechnet werden dürfen, hätte sie\nselbstverständlich einen bereicherungsrechtlichen Anspruch auf Rückerstattung der vorgenannten Beträge.\nMit diesem Rückerstattungsanspruch werde nach wie vor hilfsweise die Aufrechnung erklärt. Die Beklagte\nsei mit der Aufrechnung dieser Ansprüche auch nicht im Sinne der manteltariflich-vertraglichen\nAusschlussfrist ausgeschlossen.\n10\nDie Beklagte beantragt daher:\n1. Das Urteil des Arbeitsgerichts Würzburg (Az.: 2 Ca 145/18) vom 24.05.2018 wird abgeändert.\n2. Die Klage wird abgewiesen.\n3. Der Kläger trägt die Kosten des Rechtsstreites.\n11\nDer Kläger beantragt,\ndie Berufung zurückzuweisen.\n12\nEr verteidigt unter weitgehender Wiederholung seines erstinstanzlichen Vortrags unter Bezugnahme auf die\nUrteilsgründe das Urteil des Arbeitsgerichts.\n13\nWegen der weiteren Einzelheiten des Vortrags der Parteien in der Berufungsinstanz wird auf die zwischen\nihnen gewechselten Schriftsätze Bezug genommen.\nEntscheidungsgründe\nA\n14\nDie Berufung der Beklagten ist zulässig.\n15\nSie ist statthaft, § 64 Abs. 1, 2 b ArbGG, und auch in der gesetzlichen Form und Frist ein-gelegt und\nbegründet worden, §§ 66 Abs. 1, 64 Abs. 6 Satz 1 ArbGG, 519, 520 ZPO.\nB.\n16\nDie Berufung ist jedoch nicht begründet. Die erkennende Kammer folgt der ausführlichen und zutreffenden\nBegründung des Erstgerichts und macht sich dessen Ausführungen zu Eigen (§ 69 Abs. 2 ArbGG). Im\nHinblick auf das Berufungsvorbringen der Parteien sind lediglich noch folgende Ausführungen veranlasst:\nI.\n17\nDem Kläger steht nach § 7 Abs. 4 BUrlG ein Urlaubsabgeltungsanspruch in Höhe des bei Beendigung des\nArbeitsverhältnisses noch offenen Urlaubsanspruches zu.\n18\nDieser zum Zeitpunkt der Beendigung des Arbeitsverhältnisses noch nicht genommene bzw. gewährte\nUrlaub ist als reiner Geldanspruch mit dem Ausscheiden aus dem Arbeitsverhältnis abzugelten. Die\nErfüllung des Urlaubsanspruchs, d.h. die Befreiung von der Arbeitspflicht ist nach Beendigung des\nArbeitsverhältnisses unmöglich geworden. Es kommt insoweit nicht darauf an, ob der Arbeitnehmer den\nUrlaub tatsächlich vor Beendigung des Arbeitsverhältnisses in Natur hätte nehmen können. Es besteht\nkeine Pflicht des Arbeitnehmers, bei einer Eigenkündigung einen Antrag auf Gewährung der noch offenen\nUrlaubstage in der Kündigungsfrist zu stellen. Auf die Frage, ob die Beklagte gegebenenfalls berechtigt\ngewesen wäre, den Kläger nach seiner Kündigung von der weiteren Mitarbeit unter Anrechnung auf die\nbestehenden Urlaubsansprüche freizustellen, kam es vorliegend nicht an. Die Beklagte selbst behauptet\nnicht, dass sie den Kläger aufgefordert hätte, den Urlaub in der Kündigungsfrist in Natur zu nehmen.\nII.\n19\nVöllig zu Recht hat das Erstgericht dem Kläger wegen Beendigung des Arbeitsverhältnisses in der zweiten\nJahreshälfte trotz der Quotelungsregelung des MTV IGZ/DGB den vollen gesetzlichen Mindesturlaub von 20\nArbeitstagen bei einer 5-Tage-Woche zugesprochen.\n20\nZwar regelt § 6.2.3 des MTV die Zwölftelquotelung bei Ausscheiden im Laufe des Kalenderjahres ohne\nRücksicht darauf, ob der Arbeitnehmer in der ersten oder zweiten Jahreshälfte ausgeschieden ist. Eine\nsolche Regelung ist jedoch nur wirksam, als der gesetzliche Mindesturlaub durch die Kürzung nicht\nunterschritten wird. Der gesetzliche Mindesturlaub ist auch für Tarifvertragsparteien unantastbar (BAG;\nUrteil v. 24.10.2000, Az. 9 AZR 610/99, in juris recherchiert). Der gesetzliche Urlaubsanspruch eines\nArbeitnehmers, der nach erfüllter Wartezeit in der zweiten Hälfte eines Kalenderjahres aus dem\nArbeitsverhältnis ausscheidet, kann nach § 13 Abs. 1 Satz 1 in Verbindung mit § 3 Abs. 1 BUrlG selbst\ndurch eine tarifliche Regelung nicht ausgeschlossen oder gemindert werden. Den Arbeitsvertrags- und den\nTarifvertragsparteien ist es nach § 13 BUrlG verwehrt, den gesetzlichen Urlaubsanspruch nach dem\nBundesurlaubsgesetz bei einem Ausscheiden nach erfüllter Wartezeit in der zweiten Hälfte zu kürzen (BAG,\nUrteil v. 09.08.2016, Az. 9 AZR 51/16, in juris recherchiert).\n21\nIm Streitfall wird der gesetzliche Mindesturlaub für das Jahr 2017 von 20 Tagen aufgrund des Ausscheidens\ndes Klägers zum 31.10.2017 unterschritten. Soweit die Kürzungsregelung wegen Verstoßes gegen § 13\nBUrlG in Verbindung mit § 134 BGB und wegen Eingriffs in den gesetzlichen Mindesturlaub unwirksam ist,\nist eine tarifliche Regelung gemäß § 139 BGB insoweit aufrechtzuerhalten, als sie bei einem Ausscheiden in\nder zweiten Jahreshälfte den gesetzlichen Mindesturlaub nicht kürzen würde (BAG, Urteil v. 18.02.2014, 9\nAZR 765/12; v. 12.04.2011, 9 AZR 80/10; in juris recherchiert).\nIII.\n22\nDer Kläger hat für 2017 tatsächlich bei der Beklagten sechs Tage Urlaub genommen, so dass noch 14\nUrlaubstage verbleiben.\n23\n1. Wie das Erstgericht völlig zu Recht ausführt, können - selbst unterstellt der Kläger hätte tatsächlich\nunentschuldigt gefehlt - Fehltage nicht mit Urlaubstagen verrechnet werden. Urlaub wird durch eine\nErklärung des Arbeitgebers gewährt, mit der er den Arbeitnehmer für eine bestimmte Zeit von der\nvertraglich geschuldeten Arbeitsleistung befreit. Der Leistungserfolg tritt ein, wenn der Arbeitnehmer infolge\nder Freistellungserklärung tatsächlich von der Arbeitsleistung befreit wird. Die Freistellungserklärung muss\ndeutlich zu erkennen geben, dass eine Befreiung von der Arbeitspflicht zur Erfüllung des gesetzlichen oder\ntariflichen Anspruchs auf Urlaub erteilt wird. Sonst handelt es sich nicht um eine Urlaubsgewährung\n(Erfurter Kommentar, 18. Auflage, § 7 BUrlG, Rz. 5 ff., mit weiteren Hinweisen).\n24\nFür Zeiten unentschuldigten Fehlens des Arbeitnehmers kann der Arbeitnehmer somit nicht nachträglich\neine entsprechende Freistellungserklärung zur Erfüllung des Urlaubsanspruches erklären.\n25\n2. Ebenfalls völlig zu Recht hat das Erstgericht entschieden, dass die Beklagte den Kläger nicht auf seinen\nanteiligen beim neuen Arbeitgeber entstandenen Urlaubsanspruch verweisen kann, und zwar selbst dann\nnicht, wenn der Kläger dort tatsächlich für zwei Monate Urlaub erhalten hat.\n26\nNach § 6 BUrlG wird nur der Anspruch im neuen Arbeitsverhältnis ganz oder teilweise ausgeschlossen,\nsoweit Urlaubsansprüche bereits im früheren Arbeitsverhältnis erfüllt worden sind. § 6 BUrlG schließt nur\nUrlaubsansprüche im neuen Arbeitsverhältnis aus, enthält aber für den umgekehrten Fall keine Regelung.\nIm alten Arbeitsverhältnis entstandener Urlaubsanspruch bleibt von der weiteren Entwicklung der\nUrlaubsansprüche des Arbeitnehmers in einem neuen Arbeitsverhältnis unberührt.\nIV.\n27\nDie Beklagte kann auch nicht mit einem bereicherungsrechtlichen Anspruch auf Rückerstattung des\ngegebenenfalls mit Lohnabrechnungen für Oktober und November zu viel entrichteten Gehaltes aufrechnen.\nDie Beklagte wäre - selbst unterstellt, der Kläger hätte tatsächlich im August und September unentschuldigt\ngefehlt und für diese Tage keinen Anspruch auf Entgeltfortzahlung im Krankheitsfall - mit der Aufrechnung\ndieser Ansprüche aufgrund der tarifvertraglichen Ausschlussfrist ausgeschlossen.\n28\nDies hat das Erstgericht völlig zutreffend erkannt. Zum Zeitpunkt der Aufrechnungserklärung im Schriftsatz\nvom 08.03.2018, bei Gericht eingegangen am 09.03.2018, waren etwaige Rückforderungsansprüche aus\nungerechtfertigter Bereicherung bereits wegen Nichteinhaltung der tariflichen Ausschlussfrist gemäß § 18\ndes Arbeitsvertrages in Verbindung mit § 10 MTV IGZ/DGB verfallen. Auf eventuelle Unwirksamkeitsgründe\neiner arbeitsvertraglichen Ausschlussfrist war nicht einzugehen, da sich der Verwender auf solche\ngrundsätzlich nicht berufen kann.\n29\nNach eigenem Sachvortrag der Beklagten erfolgte die angeblich unberechtigte Lohnzahlung für Fehltage\nmit den Lohnabrechnungen für Oktober und November. Ein möglicher Rückzahlungsanspruch aus § 812\nBGB wäre somit im Oktober bzw. November fällig gewesen. Zum Zeitpunkt der Aufrechnungserklärung und\nmit der insoweit erstmaligen schriftlichen Geltendmachung entsprechender Rückzahlungsansprüche waren\ndiese jedoch bereits verfallen. Die tarifvertragliche dreimonatige Ausschlussfrist, beginnend mit der\nFälligkeit, war spätestens Ende Februar abgelaufen.\nC.\n30\nDie Kostenentscheidung folgt aus § 64 Abs. 6 ArbGG in Verbindung mit §§ 91, 97 ZPO.\nD.\n31\nGründe, die Revision zuzulassen, sind nicht ersichtlich (vgl. § 72 Abs. 2 ArbGG).\n\n"
+}

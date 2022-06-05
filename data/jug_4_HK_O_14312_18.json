@@ -1,0 +1,1235 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 55,
+            "start": 53,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 61,
+            "start": 56,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Person",
+            "end": 306,
+            "start": 300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 316,
+            "start": 307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fördern",
+            "end": 709,
+            "start": 702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 990,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1432,
+            "start": 1429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1445,
+            "start": 1434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1701,
+            "start": 1691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7496",
+            "end": 1720,
+            "start": 1716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1726,
+            "start": 1721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1755,
+            "start": 1745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 1806,
+            "start": 1793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 1950,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1962,
+            "start": 1952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1964,
+            "start": 1963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2199,
+            "start": 2193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2202,
+            "start": 2201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterhält",
+            "end": 2334,
+            "start": 2325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begleittexten",
+            "end": 2470,
+            "start": 2457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Themen",
+            "end": 2581,
+            "start": 2575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versehen",
+            "end": 2729,
+            "start": 2721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2732,
+            "start": 2731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 2774,
+            "start": 2773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2938,
+            "start": 2934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 3050,
+            "start": 3036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3053,
+            "start": 3052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kleiderständer",
+            "end": 3205,
+            "start": 3191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 3283,
+            "start": 3282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 3415,
+            "start": 3401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3418,
+            "start": 3417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehend",
+            "end": 3572,
+            "start": 3565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 3646,
+            "start": 3645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Firmen",
+            "end": 3757,
+            "start": 3751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3760,
+            "start": 3759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehend",
+            "end": 3925,
+            "start": 3918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4036,
+            "start": 4035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 4179,
+            "start": 4165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4182,
+            "start": 4181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 4322,
+            "start": 4314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4325,
+            "start": 4324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4737,
+            "start": 4734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 4844,
+            "start": 4836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen.Wie",
+            "end": 4939,
+            "start": 4927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Elefanten",
+            "end": 5075,
+            "start": 5066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5078,
+            "start": 5077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "UWG",
+            "end": 5243,
+            "start": 5240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5247,
+            "start": 5245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestritten",
+            "end": 5452,
+            "start": 5442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 5531,
+            "start": 5522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausdruck",
+            "end": 5607,
+            "start": 5599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagten",
+            "end": 5686,
+            "start": 5677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5690,
+            "start": 5688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beweisen",
+            "end": 5868,
+            "start": 5860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprengen",
+            "end": 6068,
+            "start": 6060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6072,
+            "start": 6070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ankomme",
+            "end": 6239,
+            "start": 6232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 6509,
+            "start": 6504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6513,
+            "start": 6511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herstammen",
+            "end": 7025,
+            "start": 7015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7029,
+            "start": 7027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herrsche",
+            "end": 7302,
+            "start": 7294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 7449,
+            "start": 7442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7453,
+            "start": 7451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streiten",
+            "end": 7584,
+            "start": 7576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handele",
+            "end": 7809,
+            "start": 7802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 7881,
+            "start": 7877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7885,
+            "start": 7883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rundfunkstaatsvertrages",
+            "end": 8039,
+            "start": 8016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8043,
+            "start": 8041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anträge",
+            "end": 8086,
+            "start": 8079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kennzeichnen",
+            "end": 9124,
+            "start": 9112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiedergegeben",
+            "end": 9199,
+            "start": 9186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 9203,
+            "start": 9201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiedergegeben",
+            "end": 9981,
+            "start": 9968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 10141,
+            "start": 10135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10145,
+            "start": 10143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 10168,
+            "start": 10159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10171,
+            "start": 10169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klageabweisung",
+            "end": 10186,
+            "start": 10172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 10190,
+            "start": 10188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 10428,
+            "start": 10420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 10498,
+            "start": 10492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geflossen",
+            "end": 10566,
+            "start": 10557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 10570,
+            "start": 10568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekommen",
+            "end": 10690,
+            "start": 10682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verdecken",
+            "end": 10759,
+            "start": 10750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 10763,
+            "start": 10761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 10946,
+            "start": 10938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10950,
+            "start": 10948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagten",
+            "end": 11061,
+            "start": 11052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11314,
+            "start": 11308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stammten",
+            "end": 11488,
+            "start": 11480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 11715,
+            "start": 11710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 11719,
+            "start": 11717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 12001,
+            "start": 11992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 12005,
+            "start": 12003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 12143,
+            "start": 12139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 12484,
+            "start": 12476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 12488,
+            "start": 12486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12690,
+            "start": 12687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 12827,
+            "start": 12816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aussetzen",
+            "end": 13072,
+            "start": 13063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 13076,
+            "start": 13074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 13256,
+            "start": 13248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 13277,
+            "start": 13258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 13280,
+            "start": 13278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13505,
+            "start": 13502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 13534,
+            "start": 13525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 13538,
+            "start": 13536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 13870,
+            "start": 13867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fördern",
+            "end": 14318,
+            "start": 14311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 14322,
+            "start": 14320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 14596,
+            "start": 14593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14826,
+            "start": 14823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 14830,
+            "start": 14828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 15031,
+            "start": 15026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 15035,
+            "start": 15033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 15300,
+            "start": 15295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 15398,
+            "start": 15391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 15628,
+            "start": 15622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 15632,
+            "start": 15630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 15825,
+            "start": 15818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 16170,
+            "start": 16167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 16174,
+            "start": 16172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 16437,
+            "start": 16434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 16441,
+            "start": 16439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "UWG",
+            "end": 16521,
+            "start": 16518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 16525,
+            "start": 16523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16717,
+            "start": 16711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 16721,
+            "start": 16719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenhängt",
+            "end": 17109,
+            "start": 17096,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17475,
+            "start": 17474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 17478,
+            "start": 17476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 17574,
+            "start": 17571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 17690,
+            "start": 17679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 17924,
+            "start": 17918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "präsentiert",
+            "end": 18071,
+            "start": 18060,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18472,
+            "start": 18471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 18476,
+            "start": 18474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 18553,
+            "start": 18542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheint",
+            "end": 18670,
+            "start": 18661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marken",
+            "end": 18726,
+            "start": 18720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbeträger",
+            "end": 18782,
+            "start": 18771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 18886,
+            "start": 18880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Influencern",
+            "end": 19027,
+            "start": 19016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 19031,
+            "start": 19029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handele",
+            "end": 19305,
+            "start": 19298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 19309,
+            "start": 19307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 19593,
+            "start": 19589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 19684,
+            "start": 19681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 19688,
+            "start": 19686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 19979,
+            "start": 19975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 19983,
+            "start": 19981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 20169,
+            "start": 20160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 20173,
+            "start": 20171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesteht",
+            "end": 20397,
+            "start": 20388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 20401,
+            "start": 20399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 20481,
+            "start": 20473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 20782,
+            "start": 20778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Persönlichkeiten",
+            "end": 20934,
+            "start": 20918,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21222,
+            "start": 21221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Follower",
+            "end": 21272,
+            "start": 21264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dahinterstehen",
+            "end": 21629,
+            "start": 21615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 21633,
+            "start": 21631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhalten",
+            "end": 21939,
+            "start": 21929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 21943,
+            "start": 21941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 22019,
+            "start": 22009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 22336,
+            "start": 22333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzen",
+            "end": 22469,
+            "start": 22461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 22473,
+            "start": 22471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wendet",
+            "end": 22817,
+            "start": 22811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zielgruppe",
+            "end": 22985,
+            "start": 22975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 22990,
+            "start": 22988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verdienen",
+            "end": 23553,
+            "start": 23544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 23557,
+            "start": 23555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 23806,
+            "start": 23801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 23810,
+            "start": 23808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsste",
+            "end": 24056,
+            "start": 24050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 24060,
+            "start": 24058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 24207,
+            "start": 24203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 24348,
+            "start": 24340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 24352,
+            "start": 24350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 24550,
+            "start": 24546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 24871,
+            "start": 24866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 24875,
+            "start": 24873,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25231,
+            "start": 25230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 25235,
+            "start": 25233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgte",
+            "end": 25606,
+            "start": 25598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 25610,
+            "start": 25608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kennzeichnen",
+            "end": 25752,
+            "start": 25740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 26033,
+            "start": 26027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 26313,
+            "start": 26309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 26317,
+            "start": 26315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Medien",
+            "end": 26613,
+            "start": 26607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 27127,
+            "start": 27121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgen",
+            "end": 27241,
+            "start": 27235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 27432,
+            "start": 27426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 27684,
+            "start": 27680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 27688,
+            "start": 27686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dient",
+            "end": 28247,
+            "start": 28242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 28251,
+            "start": 28249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 28317,
+            "start": 28307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 28321,
+            "start": 28319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 28403,
+            "start": 28400,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LG München I, Endurteil v. 29.04.2019 – 4 HK O 14312/18\nTitel:\nWerbung, Marke, Kennzeichnung, Bescheid, Vergleich, Beweislast, Unternehmen,\nOrdnungshaft, Medien, Beweisaufnahme, Bekanntheit, Schleichwerbung,\nMeinungsfreiheit, Informationsinteresse, eingetragener Verein, neue Medien,\nAbbildung einer Person\nLeitsätze:\n1. Posts von Influencern auf Instagram, auf denen Produkte gekennzeichnet und mit den\nentsprechenden online-Auftritten der Produkthersteller verlinkt sind, sind in der Regel auch ohne\nGegenleistung der verlinkten Unternehmen geschäftliche Handlungen iSv § 2 I Nr. 1 UWG, weil die\nInfluencer damit sowohl ihre eigenen geschäftlichen Aktivitäten als auch die der verlinkten\nUnternehmen fördern.\n2. Diese Verlinkungen, für die der Produkthersteller keinerlei Gegenleistung gewährt hat und die von\nihm auch nicht beauftragt wurden, verstoßen jedoch dann nicht gegen § 5a VI UWG, wenn sich der\nkommerzielle Zweck der geschäftlichen Handlung unmittelbar aus den Umständen ergibt. Da sich\nder informierte Verbraucher inzwischen daran gewöhnt hat, dass Influencer durch ihre Tätigkeit\nGeld verdienen und sie ihre Posts deshalb nicht aus rein privaten Interessen verfassen, kann die\nAnzahl der Follower und der Umstand, dass es sich um ein öffentliches, mit einem sogenannten\nblauen Haken versehenes Profil eines bekannten Influencers handelt, dazu führen , dass der\nkommerzielle Zweck des Posts ohne weiteres erkennbar ist.\nSchlagworte:\nWerbung, Marke, Kennzeichnung, Bescheid, Vergleich, Beweislast, Unternehmen, Ordnungshaft, Medien,\nBeweisaufnahme, Bekanntheit, Schleichwerbung, Meinungsfreiheit, Informationsinteresse, eingetragener\nVerein, neue Medien, Abbildung einer Person\nFundstelle:\nBeckRS 2019, 7496\nTenor\nI. Die Klage wird abgewiesen.\nII. Der Kläger trägt die Kosten des Rechtsstreits.\nIII. Das Urteil ist hinsichtlich der Kosten gegen Sicherheitsleistung in Höhe von 110% des zu\nvollstreckenden Betrages vorläufig vollstreckbar.\nTatbestand\n1\nDer Kläger ist ein eingetragener Verein, zu dessen satzungsmäßigen Aufgaben die Wahrung der\ngewerblichen Interessen seiner Mitglieder, insbesondere die Achtung darauf gehört, dass die Regeln des\nlauteren Wettbewerbs eingehalten werden.\n2\nDie Beklagte betätigt sich u.a. als Influencerin auf Instagram, wo sie einen mit einem blauen Haken\nverifizierten Account unterhält. Sie hat dort aktuell 485.000 Follower (Abonnennten) und veröffentlicht\nregelmäßig Bilder von sich selbst, oft mit kurzen Begleittexten. Darin beschäftigt sie sich mit Mode, ihrem\nLeben als Mutter eines Kleinkinds, Yoga, Reisen und anderen Themen. Ihre Posts sind teilweise mit\nHinweisen auf die Hersteller der von ihr getragenen Kleidung oder sonstiger im Bild zu sehender\nGegenstände versehen.\n3\nDiese Gegenstände sind teilweise „getagt“. Klickt man auf die entsprechende Stelle im Bild, so erscheint der\nName von einem oder mehreren Unternehmen, von dem die getragenen bzw. abgebildeten Produkte sind.\nKlickt man nunmehr auf den Namen des Unternehmens, so wird man auf den Account des Unternehmens\nweitergeleitet.\n4\nIn dem ersten der streitgegenständlichen Post steht die Beklagte in einem braungestreiften Umstandskleid\nim Gastraums des „G.“ vor einem Kleiderständer. Klickt man diese Abbildung an, erscheinen u.a. die\nNamen von „e.de“ und „g.“. Mit einem weiteren Klick auf diese Abbildung wird der Follower auf die\nInstagram - Seiten der genannten Unternehmen weitergeleitet.\n5\nDer zweite streitgegenständliche Post zeigt die Beklagte in schwarzem Pullover, Bluejeans und schwarzen\nStiefeln vor der Kunstakademie in München stehend. Klickt man auf die Abbildung, so erscheinen die\nFirmennamen „z.“ und „b“. Mit einem weiteren Klick auf die Firmennamen landet man auf den jeweiligen\nInstagram - Accounts dieser Firmen.\n6\nDer dritte streitgegenständliche Post zeigt die Beklagte in einem altrosafarbigen Mantel und Turnschuhen\nsowie blauer Jeans in einem eingezäunten Grundstück stehend. Klickt man diese Abbildung an, erscheinen\ndie Firmennamen in weißer Schrift auf schwarzen Grund „m.“ und „m.“. Klickt man die Firmennamen an,\nwird man auf die Internetseite der jeweils in der Abbildung gemäß Anlage K 6 b genannten Firmen\nweitergeleitet.\n7\nHinsichtlich der konkreten Ausgestaltung der Posts wird auf die Anlagen K 4 a bis K 4 c, K 5 a bis K 5 c und\nK 6 a bis K 6 c Bezug genommen.\n8\nZahlreiche Posts der Beklagten, für die sie nach eigener Einlassung von den verlinkten Unternehmen\nbezahlt wird, kennzeichnet sie mit dem Hinweis „bezahlte Partnerschaft mit Nach Zustellung der\nKlageschrift hat der Kläger im Wege der Klageerweiterung darüber hinaus noch einen Post angegriffen, auf\ndem die Beklagte auf dem Boden sitzend mit einem hellblauen Plüschelefanten zwischen ihren Beinen\nabgebildet ist. Bei dem Elefanten ist im linken Ohr mit roter Schrift auf gelben Grund das Markenzeichen\n„S.“ zu erkennen. Hinsichtlich der konkreten Ausgestaltung des Posts wird auf die Anlage K 8 Bezug\ngenommen.Wie sich aus der Anlage K 9 vorgelegten Internetausdruck ergibt, wirbt die Firma S. auf ihrer\nWebsite ebenfalls mit diesem blauen Elefanten.\n9\nDer Kläger trägt vor, die Posts der Beklagten enthielten kommerzielle Veröffentlichungen und seien ein\nUnterfall der getarnten Werbung im Sinne von § 5 a Abs. 6 UWG.\n10\nDie Einlassung der Beklagten, die hier festzustellende massive Werbung für verschiedene Marken und\nUnternehmen unentgeltlich und ohne jede Veranlassung zu betreiben, werde vom Kläger nachhaltig\nbestritten. Die Beklagte sei Influencerin und erziele aus dieser Tätigkeit hohe Einnahmen. Diese Tätigkeit\nkomme durch die vorgelegten Anlagen plastisch zum Ausdruck. Es handele sich um einen wesentlichen Teil\ndes Geschäftsmodells der Beklagten.\n11\nDer Kläger sehe jedoch davon ab, Zeugen zu benennen, um eine irgendwie geartete direkte Vergütung der\nBeklagten für die streitgegenständlichen Beiträge auf Instagram zu beweisen. Einerseits käme eine solche\nBeweisaufnahme einer unzulässigen Ausforschungs-Beweisaufnahme nahe oder gleich, andererseits\nwürde eine solche „fishing expedition“ den Rahmen des Rechtsstreits sprengen.\n12\nDer Kläger ist der Auffassung, dass es auf eine direkte Vergütung in Form von Geld oder kostenlos\nüberlassenen Produkten vorliegend ohnehin nicht entscheidend ankomme. Maßgeblich sei vielmehr in\nerster Linie, dass die angegriffenen Posts der Beklagten kommerzieller Natur seien und sich dieses für die\nangesprochenen Verkehrskreise weder aus den Umständen unmittelbar ergebe noch durch eine\nsachgerechte Kennzeichnung klargestellt werde.\n13\nAuch wenn die Beklagte diverse Beispiele für Anfragen von Followern zu Kleidungsstücken und\nAccessories vorlege, die sie in etlichen Beiträgen auf Instagram ins Bild gesetzt habe, erkläre dies nicht\nansatzweise plausibel, warum sie sich angesichts dieser Nachfragen dafür entschieden habe, die\nsogenannten „Tap Tags“ zu verwenden und ihre Follower so direkt auf diverse Profile der jeweiligen Marken\nzu leiten, anstatt einfach nur im Text des jeweiligen Beitrags zu erwähnen, wo die diversen Produkte\nherstammen.\n14\nEine ganze Reihe von Mitgliedern des Klägers müssten als Herausgeber von Zeitschriften in traditioneller\nForm als Druckwerke bei der Abgrenzung von redaktionellem Teil und Werbung diese Grenzen sorgfältig\nbeachten, wohingegen im Internetbereich völliger Freestyle herrsche. Es müssten aber gleiche\nBedingungen für alle gelten, weshalb auf die Beiträge im Internet ordnungsgemäß als Werbung\ngekennzeichnet werden müssten.\n15\nAuch der von der Beklagten gezogene Vergleich zu diversen Zeitschriften vermöge nicht für den Standpunkt\nder Beklagten zu streiten. Sie übergehe an diesem Punkt geflissentlich die Tatsache, dass es sich bei\nDruckerzeugnissen unzweifelhaft auch für den unbedarftesten Betrachter sofort erschließe, dass es sich um\neine kommerzielle Veröffentlichung handele. Genau dies sei bei dem Instagram - Profil der Beklagten nicht\nder Fall.\n16\nDie Beklagte verstoße darüber hinaus durch die streitgegenständlichen Posts auch gegen § 6\nTelemediengesetz und gegen § 7 III des Rundfunkstaatsvertrages.\n17\nDer Kläger stellt zuletzt folgende Anträge:\nI. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der Zuwiderhandlung zu verhängenden\nOrdnungsgeldes bis zu € 250.000,00, ersatzweise Ordnungshaft, oder einer Ordnungshaft bis zu sechs\nMonaten, zu vollziehen an der Beklagten, zu unterlassen, im geschäftlichen Verkehr in sozialen Medien,\nbeispielsweise in dem sozialen Medien „Instagram“ unter Abbildung einer Person (Bezeichnung „c.“)\nkommerzielle Inhalte vorzustellen, ohne den kommerziellen Zweck der Veröffentlichung zu verdeutlichen,\nsofern er sich nicht unmittelbar aus den Umständen ergibt, indem dies geschieht wie durch Veröffentlichung\nvon Beiträgen\n- mit der Abbildung einer Person („c.“) = Ansicht,\n- nach Aufruf der 1. Ansicht durch einen Klick des Anzeigens des Namens von einem oder mehreren\nUnternehmen auf der gleichen Seite = 2. Ansicht und\n- durch einen weiteren Klick des Accounts des Unternehmens dessen Name bei der zweiten Ansicht ins Bild\ngekommen ist = 3. Ansicht, ohne die 1. oder 2. Ansicht als kommerzielle Veröffentlichung zu kennzeichnen;\njeweils wenn dies geschieht wie in den Anlagen K 4a - K 6 c wiedergegeben.\nII. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der Zuwiderhandlung zu verhängenden\nOrdnungsgeldes bis zu € 250.000,00, ersatzweise Ordnungshaft, oder einer Ordnungshaft bis zu sechs\nMonaten, zu vollziehen an der Beklagten, es zu unterlassen, im geschäftlichen Verkehr in sozialen Medien,\nbeispielsweise in dem sozialen Medium Instagram kommerzielle Inhalte vorzustellen, ohne den\nkommerziellen Zweck der Veröffentlichung zu verdeutlichen, sofern er sich nicht unmittelbar aus den\nUmständen ergibt, indem dies geschieht wie durch Veröffentlichung des Beitrages\n- mit der Abbildung eines Plüschelefanten mit dem Markenzeichen/S.“ im Ohr, ohne die Abbildung als\nkommerzielle Veröffentlichung zu kennzeichnen, wenn dies geschieht wie in Anlage K 8 wiedergegeben.\nIII. Die Beklagte wird verurteilt, an den Kläger € 178,50 nebst Zinsen in Höhe von 5 Prozentpunkten über\ndem Basiszinssatz seit dem 30. Oktober 2018 zu zahlen.\n18\nDie Beklagte beantragt\n19\nKlageabweisung.\n20\nSie trägt vor und hat bei ihrer persönlichen Einvernahme im einzelnen substantiiert dargelegt, sie habe für\ndie streitgegenständlichen Posts und Tags zu keinem Zeitpunkt Geld oder sonstigen Vorteil wie z. B.\nRabatte oder Zugaben erhalten. Die verlinkten Produkte seien auch nicht kostenlos überlassen worden;\nsonstige geldwerte Gegenleistungen seien ebenfalls nicht geflossen.\n21\nDen geposteten S.-Elefanten habe sie bzw. ihr Sohn zum ersten Geburtstag von ihrer Tante und Cousine\ngeschenkt bekommen. Er habe spontan dazu gedient, das Gesicht ihres Sohnes zu verdecken.\n22\nHinsichtlich der dargelegten Einzelheiten zu den anderen Posts wird auf Seiten 2 bis 3 des Protokolls der\nmündlichen Verhandlung vom 11.02.2019 (Blatt 88/90) der Akten Bezug genommen.\n23\nBei den streitgegenständlichen Postings handele es sich nicht einmal um geschäftliche Handlungen der\nBeklagten. Der Beklagte habe die Markierungen und Verlinkungen in den streitgegenständlichen Beiträgen\nauf Instagram aus reiner Begeisterung auf die jeweiligen Produkte verfasst, um dem Informationsinteresse\nihres Follower-Kreises auf Instagram gerecht zu werden. Wie aus der Anlage K 6 b ersichtlich, trete die\nBeklagte mit ihren Followern regelmäßig in einen Dialog über ihre Outfits und darüber, von welchem\nHersteller diese stammten. Insoweit seien die streitgegenständlichen Postings mitsamt Verlinkungen\nvergleichbar mit dem redaktionellen Teil vieler Modezeitschriften, in denen regelmäßig Hinweise auf die\nHersteller der gezeigten Produkte enthalten seien.\n24\nSelbst wenn man die objektive Eignung zur Förderung des Absatzes oder Bezugs als ausreichend erachte,\nso verbiete es sich aufgrund der in Artikel 5 I GG garantierten Meinungsfreiheit, die Tags und Verlinkungen\nals geschäftlicher Handlungen im Sinne des § 2 I Nr. 1 UWG zu behandeln.\n25\nBei den Tags handele es sich auch nicht um Schleichwerbung, weil die Beklagte kein Entgelt oder eine\nähnliche Gegenleistung erhalten habe. Würde man die Tags als Schleichwerbung qualifizieren, so müsste\nim Übrigen auch in jeder Modezeitschrift, die ihre Leserinnen und Leser mittels Modestrecken über die\nneueste Mode und mit den dazugehörigen Herstellerhinweisen über die jeweiligen Bezugsquellen\ninformiere, durchgängig eine Kennzeichnung als „Werbung“ bzw. „Anzeige“ erfolgen.\n26\nZu berücksichtigen sei auch, dass eine Kennzeichnung als „Werbung“ nur dann in Frage kommen könne,\nwenn der Inhaber des jeweiligen Instagram - Accounts auch tatsächlich Werbeträger des Unternehmens\nsei. Unternehmen würden bekanntermaßen am liebsten selbst entsprechend ihrer individuellen\nMarkenstrategie über ihre Werbeträger entscheiden. Der Influencer, der sich einer vertraglichen\nVereinbarung über einen Einsatz als Werbeträger berühmen und so einen falschen Rechtschein setzen\nwürde, könnte sich unter Umständen Ansprüchen des verlinkten Unternehmens auf Unterlassung\naussetzen.\n27\nZur Ergänzung des Tatbestands wird auf die von den Parteien eingereichten Schriftsätze nebst Anlagen\nund auf das Protokoll der mündlichen Verhandlung vom 11.02.2019 Bezug genommen.\nEntscheidungsgründe\n28\nDie Klage war in vollem Umfang abzuweisen, weil die Beklagte durch die streitgegenständlichen Posts\nweder gegen Vorschriften des Telemediengesetzes (TMG) oder Rundfunkstaatsvertrages, noch gegen § 5a\nAbs. 6 UWG verstoßen hat. Im Einzelnen gilt Folgendes:\n29\n1. Ein Verstoß gegen die § 7 Abs. 3 und 1 Rundfunkstaatsvertrag würde voraussetzen, dass die Beklagte\nfür die streitgegenständlichen Postings von den Unternehmen, die in den Postings genannt werden oder\nerkennbar sind (durch den Steiff-Knopf im Ohr), irgendein Entgelt oder eine ähnliche Gegenleistung für die\nPostings erhalten hat. Gemäß § 2 Abs. 2 Ziff. 7 des Rundfunkstaatsvertrags ist Werbung nämlich jede\nÄußerung bei der Ausübung einer Handels, Gewerbes oder freien Berufs, die im Rundfunk von einem\nöffentlichrechtlichen oder privaten Veranstalter oder einer natürlichen Person entweder gegen Entgelt oder\neine ähnliche Gegenleistung oder als Eigenwerbung gesendet wird, mit dem Ziel, den Absatz von Waren\noder die Erbringung von Dienstleistungen …gegen Entgelt zu fördern.\n30\nDer diesbezüglich darlegungs- und beweisbelastete Kläger hat nicht hinreichend dargelegt und unter\nBeweis gestellt, dass die Beklagte von den verlinkten Unternehmen bzw. von der Firma Steiff für die\nstreitgegenständlichen Posts irgendeine Art von Gegenleistung erhalten hat. Vielmehr hat die Beklagte bei\nihrer Anhörung als Partei im Termin von 11.02.2019 im einzeln nachvollziehbar dargelegt, dass es zu den\nstreitgegenständlichen Posts ohne irgendeine Mitwirkung der genannten Unternehmen gekommen ist.\n31\nDie Posts fallen daher nicht unter die in § 2 Abs. 2 Rundfunkstaatsvertrag normierte Legaldefinition von\nWerbung mit der Folge, dass ein Verstoß gegen § 7 Rundfunkstaatsvertrag nicht in Betracht kommt.\n32\nDer Kläger wäre auch verpflichtet gewesen, im einzelnen durch Benennung der bereits von der Beklagten\n(unter Verwahrung der Beweislast) angebotenen Zeugen der einzelnen Firmen unter Beweis zu stellen,\ndass die streitgegenständlichen Posts nicht unentgeltlich waren. Eine Ausforschung wäre durch das\nAnbieten dieses Beweises einer negativen Tatsache nicht erfolgt. Dadurch, dass der Kläger darauf\nverzichtet hat, die entsprechenden Zeugen als Beweismittel anzugeben, ist er beweisfällig für die Tatsache\ngeblieben, die streitgegenständlichen Posts seien nicht unentgeltlich durchgeführt worden.\n33\n2. Ein Verstoß gegen § 6 Abs. 1 TMG scheitert daran, dass es sich bei den streitgegenständlichen Tags\nund Verlinkungen nicht um kommerzielle Kommunikationen im Sinne von § 6 Abs. 1 TMG handelt. Gemäß\n§ 2 Nr. 5 b TMG, in dem die Begriffe des Gesetzes bestimmt werden, stellen Angaben in Bezug auf Waren\nund Dienstleistungen oder das Erscheinungsbild eines Unternehmens, einer Organisation oder Person, die\nunabhängig und insbesondere ohne finanzielle Gegenleistung gemacht werden, als solche keine Form der\nkommerziellen Kommunikation dar.\n34\nDer Kläger hätte daher, um einen Verstoß gegen das Telemediengesetz erfolgreich rügen zu können,\nebenfalls darlegen und unter Beweis stellen müssen, dass die Beklagte für die streitgegenständlichen Posts\nirgendeine Art von finanzieller Gegenleistung erhalten hat.\n35\n3. Die streitgegenständlichen Posts verstoßen auch nicht gegen § 5 a Abs. 6 UWG:\n36\na) Der Auffassung der Beklagten, bei den streitgegenständlichen Posts handele es sich nicht um\ngeschäftliche Handlungen im Sinne von § 2 Abs. 1 Nr. 1 UWG, kann allerdings nicht gefolgt werden.\n37\nGeschäftliche Handlung im Sinne von § 2 Abs. 1 Nr. 1 UWG ist jedes Verhalten einer Person zugunsten des\neigenen oder eines fremden Unternehmens bei oder nach einem Geschäftsabschluss, das mit der\nFörderung des Absatzes oder des Bezugs von Waren oder Dienstleistungen oder mit dem Abschluss oder\nmit der Durchführung eines Vertrages über Waren oder Dienstleistungen objektiv zusammenhängt. Dies ist\nnach ständiger Rechtsprechung dann der Fall, wenn die Handlung bei einer objektiven Betrachtung darauf\ngerichtet ist, durch Beeinflussung der geschäftlichen Entscheidung der Verbraucher den Absatz oder Bezug\nzu fördern und ein anderes vorrangiges Ziel als die Förderung des Absatzes oder des Bezugs ausscheidet (\nvgl BGH WRP 2016,843 - Im Immobiliensumpf)\n38\nEin solcher objektiver Zusammenhang liegt bei den Posts der Beklagten im doppelter Hinsicht vor: Zum\neinen dienen die streitgegenständlichen Instagram-Posts der Beklagten der Förderung der verlinkten\nUnternehmen. Sowohl die Verlinkungen als auch das deutlich erkennbare Abbilden des Steiff-Elefanten sind\nHandlungen, die den Absatz der präsentierten Produkte steigern und das Image des beworbenen\nHerstellers und dessen Markenname fördern können. Das Interesse an der Marke und den Produkten wird\ndurch die Beklagte geweckt, indem sie die Produkte im Zusammenhang mit ihrer Person präsentiert. Hinzu\nkommt, dass das nähere Kennenlernen des Herstellerunternehmens und der Produktabsatz dadurch\nerleichtert wird, dass der Interessent bei Betätigung der verlinkten Tags auf den jeweiligen Instagram-\nAccount des Herstellers geleitet wird (vgl. auch insoweit auch Kammergericht, Urteil vom 08.01.2019, Az. 5\nO 83/18, und LG Karlsruhe, Urteil vom 21.03.2019, 13 O 38/18 KFH mit weiteren Nachweisen).\n39\nDie Beklagte fördert durch ihre Posts darüber hinaus ihr eigenes Unternehmen. Als Influencerin erzielt sie\nEinkünfte damit, dass sie Produkte vermarktet und dabei trotzdem authentisch erscheint. Sie inszeniert ihr\nLeben mit den dazu passenden Marken. Unternehmer interessieren sich für sie als Werbeträger; umgekehrt\nist auch sie an den Unternehmen interessiert, die für sie als Werbeträger in Betracht kommen. So hat die\nBeklagte bei ihrer Anhörung z. B. ausgeführt, sie gehöre leider nicht zu den von Valentino als Werbeträger\ngewählten Influencern.\n40\nDie Beklagte hat bei ihrer Anhörung den kommerziellen Zweck ihres Auftretens ausdrücklich zugestanden\nund ausgeführt, sie unterhalte deshalb einen mit einem blauen Häkchen bestätigten Account, bei dem\nerkennbar sei, dass es sich nicht um einen rein privaten Account handele.\n41\nb) Nach Auffassung der Kammer ist bei den streitgegenständlichen Posts für die angesprochenen\nVerkehrskreise, zu denen auch die Mitglieder der Kammer gehören, jedoch bereits unmittelbar aus den\nUmständen erkennbar, dass sie geschäftliche Handlungen mit einem kommerziellen Zweck sind. Ein\nVerstoß gegen § 5 a Abs. 6 UWG scheidet daher im vorliegend zu beurteilenden Fall aus.\n42\nDabei ist darauf hinzuweisen, dass sich hier keine allgemeingültigen Aussagen für alle Influencer oder\nBlogger treffen lassen, die ohne weiteres auf jeden anderen Fall übertragen werden können, sondern, weil\nes um die Beurteilung der Umstände geht, jeder Fall einzeln betrachtet werden muss.\n43\nBetrachtet man das Instagram Profil der Beklagten und die streitgegenständlichen Posts, so ist jedoch nach\nAuffassung der Kammer der kommerzielle Zweck aus folgenden Umständen erkennbar:\n44\naa) Bei dem Account der Beklagten handelt es sich aufgrund des am Anfang des Profils gesetzten blauen\nHakens um einen verifizierten Account, den Instagram nur Personen mit einer bestimmten öffentlichen\nBekanntheit zugesteht.\n45\nBekannte Personen neigen aber normalerweise dazu, ihre Privatsphäre zu schützen. Tun sie das nicht,\ndann stecken dahinter kommerzielle Interessen, die letztendlich auch bei Accounts anderer in der\nÖffentlichkeit stehender Personen, auf denen keinerlei Verlinkungen stattfinden, der Grund dafür sind, dass\ndas Berufs- oder manchmal eben auch das Privatleben öffentlich gemacht wird. Social Media dienen\nheutzutage, wenn sie nicht rein privat genutzt werden, in hohem Maße der Imagepflege von bekannten oder\nberühmten Persönlichkeiten. Es kann daher davon ausgegangen werden, dass Accounts, die mit einem\nblauen Haken versehen sind, durchwegs zur Imagepflege und deshalb aus kommerziellen Erwägungen\nbetrieben werden ( und zwar unabhängig davon, ob darauf Verlinkungen zu anderen Unternehmen\nvorgenommen werden oder nicht).\nbb) Die Beklagte hat inzwischen 485.000 Follower. Jedem noch so uninformierten Betrachter des Accounts\nmuss klar sein, dass es sich hierbei nicht um wirkliche Freunde der Beklagten handeln kann und die\nBeklagte die Postings deshalb nicht nur schaltet, um ihre Freunde über ihre Aktivitäten zu informieren und\nsich mit ihnen auszutauschen, sondern dass da andere, nämlich kommerzielle Zwecke dahinterstehen.\n46\nDabei ist auch zu berücksichtigen, dass Instagram - Accounts vor allem von Verbrauchern aufgerufen\nwerden, die sich mehr oder weniger regelmäßig auf diesem Medium bewegen und deshalb informiert\ndarüber sind, dass Social Media nicht nur private sondern oftmals auch kommerziell genutzte Accounts\nbeinhalten.\n47\ncc) Der Account der Beklagten ist öffentlich, d.h. für jedermann zugänglich. Wäre es das Ziel der Beklagten\n(die als Fußballspieler-Ehefrau eine gewisse Bekanntheit besitzt), sich über ihr Instagram Profil nur mit ihren\nFreunden auszutauschen, so hätte sie sich für ein nicht öffentlich zugängliches Profil entschieden, das nur\nvon Personen aufgerufen werden kann, denen sie das gestattet hat. Insoweit ist darauf hinzuweisen, dass\nviele Influencer neben ihrem öffentlich zugänglichen Profil noch ein privates Profil besitzen.\n48\ndd) Soweit in anderen, gegenteiligen Entscheidungen (so z.B. LG Karlsruhe, aaO) auf den Schutz junger,\nzum Teil noch minderjähriger User abgestellt wurde, ist zum einen darauf hinzuweisen, dass sich das\nInstagram-Profil der Beklagten seinem Zuschnitt nach nicht an Kinder oder Jugendliche sondern an junge\nMütter und berufstätige Frauen wendet. Themen wie Reisen mit Kindern und Yoga, mit denen sich die\nBeklagten neben Mode befasst, haben nicht Kinder oder Jugendliche, sondern erwachsene Frauen als\nZielgruppe .\n49\nHinzu kommt, dass nach eigenen Erfahrungen der Kammermitglieder gerade Kinder und Jugendliche sehr\nwohl (und zum Teil sogar noch eher als ältere Mitglieder von Zivilkammern), darüber informiert sind und\nBescheid wissen, dass Influencer und Blogger ihre Tätigkeiten nicht aus reiner Menschenliebe oder aus\nSpaß durchführen sondern dass es sich hierbei um einen relativ neuen aber auch sehr lukrativen Beruf\nhandelt, zu dem sich Kinder und Jugendliche teilweise stark hingezogen fühlen, weil sie meinen, hier sei mit\nrelativ geringem Aufwand viel Geld zu verdienen.\n50\nEs kann daher nicht davon ausgegangen werden, dass Kinder und Jugendliche weniger als ältere\nVerbraucher wissen, dass Instagram-Posts auf öffentlich zugänglichen Profilen bekannter Personen mit\nüber 400.000 Followern einen kommerziellen Zweck haben.\n51\nee) Letztendlich haben weder der Kläger noch die Gerichtsentscheidungen, die einen Verstoß gegen § 5 a\nAbs. 6 UWG als gegeben erachtet haben, darlegen können, wie eine ordnungsgemäße Kennzeichnung der\nstreitgegenständlichen Posts aussehen müsste.\n52\nZwar ist es grundsätzlich nicht Aufgabe des Klägers, dem Beklagten aufzuzeigen, wie er die behauptete\nIrreführung in seiner Werbung vermeiden kann. Die Frage, wie eine ordnungsgemäße Kennzeichnung\naussehen müsste, lässt aber Rückschlüsse darauf zu, ob überhaupt eine Irreführung vorliegt.\n53\nAls Werbung können die Verlinkungen schon deshalb nicht bezeichnet werden, weil bei fehlender\nBeauftragung durch die entsprechenden Unternehmen die Influencer nicht Werbeträger der Unternehmen\nsind. Eine Kennzeichnung als Werbung würde die Irreführung daher nicht beseitigen, sondern verstärken,\ndenn es wäre für die angesprochenen Verkehrskreise nicht mehr erkennbar, wofür die Beklagte nunmehr\neine Gegenleistung erhalten hat, es sich also tatsächlich um bezahlte Werbung für das Unternehmen\nhandelt, und wofür nicht.\n54\nFragwürdig wäre eine solche Kennzeichnung insbesondere deshalb, weil es bereits Influencer gibt, die\naufgrund der Tatsache, dass sie als wichtiger eingestuft werden, wenn sie mehr Werbepartner haben, alles\nabsichtlich als Werbung kennzeichnen, um so den Eindruck zu erwecken, sie hätten bereits Werbeverträge\n( unter dem Slogan „fake it 'till you make it).\n55\nEine Kennzeichnung als „unbezahlte Werbung wegen Markennennung“, wie sie zum Teil auf Instagram\nvorgenommen wird, ist auch nur geringfügig weniger irreführend, denn auch in diesem Fall ist für die\nVerbraucher noch nicht eindeutig erkennbar, ob der entsprechende Post durch das Unternehmen veranlasst\nwurde oder aufgrund einer freien Entscheidung des Influencers erfolgte.\n56\nLetztendlich bliebe als hinreichende Kenntlichmachung des kommerziellen Zwecks wohl nur, den gesamten\nAccount als kommerziell zu kennzeichnen. Dies erfolgt aber bei dem streitgegenständlichen Account nach\nAuffassung der Kammer bereits durch den blauen Haken und die Tatsache, dass Frau Hummels auf ihrem\nöffentlich zugänglichen Profil eine Anzahl von Followern hat, die nicht alle mit ihr persönlich befreundet sein\nkönnen. Aufgrund dieser Tatsachen ist für die Verbraucher ohne weiteres erkennbar, dass es sich bei den\nAccount um einen handelt, der jedenfalls zu Förderung des eigenen Unternehmens ( oder der Marke „C.\nH.“, wie es die Beklagte bei ihrer mündlichen Anhörung genannt hat) betrieben wird.\n57\n4. Hinzu kommt, dass es auch die in Art. 5 I GG verankerte Meinungsfreiheit und das Gebot der\nGleichbehandlung mit den traditionellen Medien, die vom Kläger selbst angeführt wurden, erfordert, die\nBeklagte mit den streitgegenständlichen Posts nicht anderes zu behandeln als konventionelle Medien.\nFrauenzeitschriften, die ähnlich wie Beklagte Mode, Reise und Kinderthemen behandeln und dabei\nProduktempfehlungen abgeben, ohne diese allerdings auf eine Person zuzuschneiden ( wobei auch hier\nneuerdings teilweise Personalisierungen der Zeitschriften, die auf eine bestimmte Person zugeschnitten\nsind und deren Namen tragen, vorgenommen werden), verwenden in ihren Online-Auftritten sehr ähnlich\nwie die Beklagte ebenfalls Verlinkungen und Tags, ohne dies in irgendeiner Weise als Werbung\nkennzeichnen zu müssen. Die Kammer kann insoweit den Ausführungen des Klägers, es müssten gleiche\nBedingungen für alle herrschen, folgen. Frauenzeitschriften kennzeichnen ihre ( im online-Bereich ebenfalls\nmit Verlinkungen versehene) Empfehlungen nur dann als Anzeige, wenn sie von dem Unternehmen\nbeauftragt und bezahlt wurden. Nichts anderes kann für Influencer gelten, die neue Medien nutzen, und sich\ndarin selbst vermarkten, wodurch z.B. Interviews, an denen früher die traditionellen Medien in ihrem\nredaktionellen Teil mit verdient haben, teilweise hinfällig geworden sind.\n58\nDer Einwand des Klägers, bei den traditionellen Medien sei jedoch von vornherein erkennbar, dass es sich\nbei den Zeitschriften um eine kommerzielle Veröffentlichung handele, geht zum einen bei den Online-\nAuftritten der konventionellen Medien teilweise fehl, weil diese sich - abgesehen von der Personalisierung -\nzum Teil nur wenig von Blogs oder Instagram - Auftritten von Influencern unterscheiden, und zum anderen\nist nach Auffassung der Kammer jedenfalls bei den Instagram Account der Beklagten hinreichend\nerkennbar, dass er kommerziellen Zwecken dient.\n59\nDie Klage war daher mit der Kostenfolge des § 91 I ZPO abzuweisen.\n60\nDie Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 Satz 1 ZPO.\n\n"
+}

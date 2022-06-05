@@ -1,0 +1,455 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugenbeweis",
+            "end": 308,
+            "start": 296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 321,
+            "start": 309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32d",
+            "end": 428,
+            "start": 425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 448,
+            "start": 447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 548,
+            "start": 547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 558,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 859,
+            "start": 851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versteuern",
+            "end": 1215,
+            "start": 1205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1458,
+            "start": 1455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1471,
+            "start": 1460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachverhaltsermittlung",
+            "end": 1515,
+            "start": 1493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1526,
+            "start": 1516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1576,
+            "start": 1574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 1588,
+            "start": 1577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "87",
+            "end": 1603,
+            "start": 1601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "267",
+            "end": 1620,
+            "start": 1617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37840",
+            "end": 1639,
+            "start": 1634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37840",
+            "end": 1655,
+            "start": 1650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1661,
+            "start": 1656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1835,
+            "start": 1821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1899,
+            "start": 1893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1907,
+            "start": 1901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1909,
+            "start": 1908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 1942,
+            "start": 1936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1945,
+            "start": 1944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 2067,
+            "start": 2060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 2263,
+            "start": 2253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2354,
+            "start": 2351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2357,
+            "start": 2356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 2443,
+            "start": 2440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2446,
+            "start": 2445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 2664,
+            "start": 2657,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2838,
+            "start": 2837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2841,
+            "start": 2840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 2864,
+            "start": 2860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 3210,
+            "start": 3202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausreichend",
+            "end": 3398,
+            "start": 3387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3670,
+            "start": 3669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4105,
+            "start": 4104,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4271,
+            "start": 4270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4274,
+            "start": 4273,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4835,
+            "start": 4834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 5036,
+            "start": 5034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 5232,
+            "start": 5228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 5411,
+            "start": 5402,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5763,
+            "start": 5762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5766,
+            "start": 5765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "944",
+            "end": 5875,
+            "start": 5872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 6042,
+            "start": 6039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6222,
+            "start": 6216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6225,
+            "start": 6224,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6469,
+            "start": 6468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellen",
+            "end": 6612,
+            "start": 6601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leere",
+            "end": 6745,
+            "start": 6740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6871,
+            "start": 6866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 7110,
+            "start": 7101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7113,
+            "start": 7112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 7260,
+            "start": 7257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7264,
+            "start": 7262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7337,
+            "start": 7334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7341,
+            "start": 7339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 7461,
+            "start": 7453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 7760,
+            "start": 7757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 7915,
+            "start": 7912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 8075,
+            "start": 8072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 8138,
+            "start": 8126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8142,
+            "start": 8140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 8327,
+            "start": 8324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsauffassung",
+            "end": 8459,
+            "start": 8443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8537,
+            "start": 8531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8541,
+            "start": 8539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgesehen",
+            "end": 8626,
+            "start": 8617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 8678,
+            "start": 8675,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BFH München, Beschluss v. 04.12.2018 – IX B 60/18\nTitel:\nKeine grundsätzliche Bedeutung bei Anwendung des Teilabzugsverbots bei\nAuflösungsverlust – Absicht zur Erzielung von Betriebsvermögensmehrungen oder\nEinnahmen – Wahlrecht zwischen Abgeltungssteuer und Teileinkünfteverfahren –\nVerzicht auf Zeugenbeweis\nNormenketten:\nEStG § 3c Abs. 2 Satz 2, § 3 Nr. 40 Buchst. d und e, § 17 Abs. 4, § 32d Abs. 1, § 32d Abs. 2 Nr. 3, § 32d\nAbs. 2 Nr. 3 Satz 4\nFGO § 96 Abs. 1 Satz 1, § 115 Abs. 2 Nr. 1, § 115 Abs. 2 Nr. 2 - 1. Alternative, § 115 Abs. 2 Nr. 3\nLeitsätze:\n1. NV: Es ist höchstrichterlich geklärt und damit nicht mehr von grundsätzlicher Bedeutung, ob und\nwann die in der Folge des JStG 2010 vom 8. Dezember 2010 (BGBl I 2010, 1768) geän-derte Fassung\ndes § 3c Abs. 2 Satz 2 EStG zur Anwendung kommt und den Abzug eines Auflösungsverlusts auf 60\n% begrenzt.\n2. NV: Dabei spielt keine Rolle, ob der Anteilseigner die Ab-sicht hatte, die Option nach § 32d Abs. 2\nNr. 3 EStG für eine im Privatvermögen gehaltene Beteiligung nicht auszuüben und offene oder\nverdeckte Gewinnausschüttungen ausschließlich mit dem Abgeltungssteuersatz nach § 32d Abs. 1\nEStG und nicht auf der Grundlage des § 3 Nr. 40 EStG zu versteuern.\n3. NV: Das FG kann auf die in der mündlichen Verhandlung bean-tragte Zeugenbefragung\nverzichten, wenn die unter Beweis ge-stellte Tatsache nicht streitig und zudem nach der vom FG\nvertretenen Rechtsauffassung nicht entscheidungserheblich ist.\nSchlagworte:\nVeräußerungsgewinn, Sachverhaltsermittlung\nVorinstanz:\nFG München, Urteil vom 19.04.2018 – 11 K 1450/17\nFundstellen:\nEStB 2019, 87\nBFH/NV 2019, 267\nBeckRS 2018, 37840\nLSK 2018, 37840\nTenor\nDie Beschwerde der Kläger wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts\nMünchen vom 19. April 2018 - 11 K 1450/17 wird als unbegründet zurückgewiesen.\nDie Kosten des Beschwerdeverfahrens haben die Kläger zu tragen.\nGründe\n1\nDie Beschwerde hat keinen Erfolg.\n2\nDie Voraussetzungen für eine Zulassung der Revision gemäß § 115 Abs. 2 der Finanzgerichtsordnung\n(FGO) sind nicht gegeben. Die Revision ist weder wegen grundsätzlicher Bedeutung (§ 115 Abs. 2 Nr. 1\nFGO, dazu unter 1.) noch zur Fortbildung des Rechts (§ 115 Abs. 2 Nr. 2 - 1. Alternative FGO, dazu unter\n2.) zuzulassen. Auch der gerügte Verfahrensfehler (§ 115 Abs. 2 Nr. 3 FGO, dazu unter 3.) liegt nicht vor.\n3\n1. Die Rechtssache hat keine grundsätzliche Bedeutung i.S. von § 115 Abs. 2 Nr. 1 FGO.\n4\na) Eine Rechtssache hat grundsätzliche Bedeutung, wenn die für die Beurteilung des Streitfalls\nmaßgebliche Rechtsfrage das Interesse der Allgemeinheit an der einheitlichen Entwicklung und\nHandhabung des Rechts berührt. Die Rechtsfrage muss klärungsbedürftig und in dem angestrebten\nRevisionsverfahren klärungsfähig sein (Gräber/Ratschow, Finanzgerichtsordnung, 8. Aufl., § 115 Rz 23,\nm.w.N.).\n5\nb) Daran fehlt es hier. Es ist höchstrichterlich geklärt und damit nicht mehr von grundsätzlicher Bedeutung,\nob und wann die in der Folge des Jahressteuergesetzes 2010 - JStG 2010 - (vom 8. Dezember 2010, BGBl\nI 2010, 1768) geänderte Fassung des § 3c Abs. 2 des Einkommensteuergesetzes (EStG) zur Anwendung\nkommt und den Abzug eines Auflösungsverlusts auf 60% begrenzt. Denn für die Anwendung des\nTeilabzugsverbots ist allein die Absicht des Steuerpflichtigen zur Erzielung von\nBetriebsvermögensmehrungen oder Einnahmen i.S. des § 3 Nr. 40 EStG ausreichend. Es spielt keine Rolle,\nob die nach § 3 Nr. 40 EStG zu versteuernden Erträge tatsächlich anfallen oder nicht (vgl. Urteile des\nBundesfinanzhofs - BFH - vom 2. September 2014 IX R 43/13, BFHE 247, 203, BStBl II 2015, 257, und vom\n29. Mai 2018 IX R 40/17, BFH/NV 2018, 944). Ausweislich der Gesetzesbegründung, die ausdrücklich auf\ndie vorangegangene Rechtsprechung des BFH im Urteil vom 25. Juni 2009 IX R 42/08, BFHE 225, 445,\nBStBl II 2010, 220 Bezug nimmt, wollte der Gesetzgeber jeden aus einer Beteiligung i.S. des § 17 EStG\nfolgenden Auflösungsgewinn oder - verlust dem Teileinkünfteverfahren unterwerfen, „wenn der\nSteuerpflichtige keinerlei durch seine Beteiligung vermittelte Einnahmen erzielt hat“. Vielmehr sollen „sich\nGewinne und Verluste aus einer Kapitalbeteiligung gleichermaßen nur anteilig auf die Einkommensteuer\nauswirken“ (vgl. BTDrucks 17/2249, S. 50).\n6\nDies ist nicht anders zu entscheiden, wenn der Anteilseigner die Absicht hatte, die Option nach § 32d Abs. 2\nNr. 3 EStG für eine im Privatvermögen gehaltene Beteiligung nicht auszuüben und offene oder verdeckte\nGewinnausschüttungen ausschließlich mit dem Abgeltungssteuersatz nach § 32d Abs. 1 EStG und nicht auf\nder Grundlage des § 3 Nr. 40 EStG zu versteuern (vgl. zur Streitfrage Desens in Herrmann/Heuer/Raupach\n-HHR -, § 3c EStG Rz 90; Förster, GmbH-Rundschau - GmbHR - 2010, 1009, 1016; ders. GmbHR 2011,\n393, 397; Nacke, Finanz-Rundschau 2011, 699, 705). Denn ausweislich des klaren Gesetzeswortlauts des\n§ 3c Abs. 2 Satz 2 EStG kommt es allein auf die „Absicht zur Erzielung von Betriebsvermögensmehrungen\noder Einnahmen im Sinne des § 3 Nr. 40“ EStG an. Einnahmen i.S. des § 3 Nr. 40 EStG sind nach dem\neindeutigen Wortlaut in Buchst. d und e der Vorschrift auch Dividenden i.S. des § 20 Abs. 1 Nr. 1 EStG und\nBezüge i.S. des § 20 Abs. 1 Nr. 2 EStG. Dass der Kläger und Beschwerdeführer (Kläger) die Absicht zur\nErzielung entsprechender Einnahmen hatte, lässt sich den Feststellungen des Finanzgerichts (FG)\neindeutig entnehmen. Ob der Kläger die Einnahmen nach § 20 Abs. 1 Nr. 1 EStG mit dem\nAbgeltungssteuersatz oder dem Teileinkünfteverfahren zu versteuern beabsichtigte, spielt daher keine Rolle\n(so im Ergebnis auch HHR/ Desens, § 3c EStG Rz 90; Glaser, Deutsches Steuerrecht 2011, 1797, 1798 f.;\nRatschow, BFH-PR 2015, 73; Scheunemann/ Dennisen, Betriebs-Berater 2011, 220).\n7\nDieses Ergebnis folgt auch aus den BFH-Urteilen in BFHE 247, 203, BStBl II 2015, 257 und in BFH/NV\n2018, 944. Denn die Entscheidungen betrafen die Jahre 2011 und 2012, in denen dem Steuerpflichtigen die\nWahl zwischen Abgeltungssteuer und Teileinkünfteverfahren eingeräumt war. Ob der Steuerpflichtige\nAusschüttungen mit der Abgeltungssteuer oder dem Teileinkünfteverfahren versteuern wollte, ist vom BFH\nals nicht entscheidungserheblich eingeordnet worden.\n8\nIm Übrigen kann die Ausübung des Wahlrechts zwischen beiden Besteuerungsalternativen ohnehin erst\nnach dem tatsächlichem Zufluss der Einnahmen und spätestens bis zur Abgabe der\nEinkommensteuererklärung erfolgen (§ 32d Abs. 2 Nr. 3 Satz 4 EStG). Vorher ließe sich eine Absicht des\nSteuerpflichtigen, wie er die Einnahmen zu versteuern beabsichtigte, nicht anhand von Indizien feststellen.\nFolgte man daher in diesem Punkt der Argumentation der Kläger, ginge die Gesetzesänderung durch das\nJStG 2010 vollständig ins Leere. Denn bei einnahmelosen Beteiligungen stellt sich die Frage der Ausübung\ndes Wahlrechts in der Einkommensteuererklärung nicht. Der Steuerpflichtige könnte daher immer geltend\nmachen, Dividenden mit dem Abgeltungssteuersatz versteuern zu wollen und so entgegen § 3c Abs. 2 Satz\n2 EStG den Vollabzug des Beteiligungsverlusts bei einnahmelosen Beteiligungen erreichen.\n9\n2. Aus den vorgenannten Gründen scheidet auch eine Zulassung der Revision zur Fortbildung des Rechts\n(§ 115 Abs. 2 Nr. 2 - 1. Alternative FGO) aus.\n10\n3. Der gerügte Verfahrensmangel (§ 115 Abs. 2 Nr. 3 FGO) liegt nicht vor.\n11\na) Das FG hat seine Pflicht zur vollständigen Berücksichtigung des Streitstoffs (§ 96 Abs. 1 Satz 1 FGO)\nnicht verletzt. Das FG konnte auf die in der mündlichen Verhandlung beantragte Zeugenbefragung\nverzichten, weil die unter Beweis gestellte Tatsache - Vorhandensein von Auszahlungsansprüchen der\nGesellschafter - nicht streitig und zudem nach der vom FG vertretenen Rechtsauffassung nicht\nentscheidungserheblich war. Denn ausweislich des Sitzungsprotokolls war zwischen den Beteiligten\nunstreitig, dass der streitige Auflösungsverlust im Jahr 2013 zu berücksichtigen war. Weiter war ebenfalls\nunstreitig, dass von Beginn des Insolvenzverfahrens an nicht mit der Auszahlung von Mitteln der\nGesellschaft an den Kläger zu rechnen war. Eine dahingehende Beweiserhebung war daher nicht\nerforderlich.\n12\nb) Der weiter gehende Vortrag der Kläger, wonach der Kläger eine renditestarke Beteiligung im\nPrivatvermögen vor Augen hatte, stellt sich ebenfalls als nicht entscheidungserheblich dar. Der Hinweis der\nKläger auf die Meinungen in der Fachliteratur richtet sich gegen die vom FG vertretene materielle\nRechtsauffassung. Dieser Vortrag kann nicht zum Gegenstand einer Verfahrensrüge gemacht werden.\n13\n4. Von einer weiter gehenden Begründung wird gemäß § 116 Abs. 5 Satz 2 FGO abgesehen. Die\nKostenentscheidung beruht auf § 135 Abs. 2 FGO.\n\n"
+}

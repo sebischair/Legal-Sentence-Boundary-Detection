@@ -1,0 +1,419 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Vertragsschluss",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 144,
+            "start": 142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 292,
+            "start": 284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 391,
+            "start": 387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 407,
+            "start": 396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzbestimmungen",
+            "end": 504,
+            "start": 481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unter",
+            "end": 560,
+            "start": 555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 573,
+            "start": 562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 587,
+            "start": 577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 728,
+            "start": 719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuschicken",
+            "end": 857,
+            "start": 847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 927,
+            "start": 925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 1014,
+            "start": 1006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rezepteingang",
+            "end": 1098,
+            "start": 1085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 1248,
+            "start": 1242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhältlich",
+            "end": 1395,
+            "start": 1385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebensmitteltiere",
+            "end": 1556,
+            "start": 1539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhältlich",
+            "end": 1656,
+            "start": 1646,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1778,
+            "start": 1777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 1792,
+            "start": 1783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haus",
+            "end": 1876,
+            "start": 1872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 1912,
+            "start": 1902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kosten",
+            "end": 2005,
+            "start": 1999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versandkostenfrei",
+            "end": 2056,
+            "start": 2039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitbestellen",
+            "end": 2147,
+            "start": 2135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Euro",
+            "end": 2264,
+            "start": 2260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesamtwert",
+            "end": 2362,
+            "start": 2352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportunternehmen",
+            "end": 2458,
+            "start": 2438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kühlfahrzeugen",
+            "end": 2592,
+            "start": 2578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 2682,
+            "start": 2671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "quittiert",
+            "end": 2749,
+            "start": 2740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgehändigt",
+            "end": 2838,
+            "start": 2826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 3071,
+            "start": 3064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werten",
+            "end": 3212,
+            "start": 3206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftung",
+            "end": 3230,
+            "start": 3217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 3298,
+            "start": 3286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 3310,
+            "start": 3303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3417,
+            "start": 3398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3461,
+            "start": 3442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Apotheken",
+            "end": 3658,
+            "start": 3649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 3816,
+            "start": 3814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "akzeptiert",
+            "end": 3990,
+            "start": 3980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4150,
+            "start": 4146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 4173,
+            "start": 4155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 4192,
+            "start": 4174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrechts",
+            "end": 4226,
+            "start": 4211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4907,
+            "start": 4903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arzneimittel",
+            "end": 4941,
+            "start": 4929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsorgt",
+            "end": 5137,
+            "start": 5129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5217,
+            "start": 5203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendung",
+            "end": 5233,
+            "start": 5222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aachen",
+            "end": 5317,
+            "start": 5311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksenden",
+            "end": 5422,
+            "start": 5410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 5513,
+            "start": 5504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5606,
+            "start": 5605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 5731,
+            "start": 5724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 5857,
+            "start": 5842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstiges",
+            "end": 5871,
+            "start": 5862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 5904,
+            "start": 5900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6118,
+            "start": 6113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 6302,
+            "start": 6295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 6376,
+            "start": 6364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hinweis",
+            "end": 6400,
+            "start": 6393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 6546,
+            "start": 6545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 6706,
+            "start": 6694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 6831,
+            "start": 6822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "apotheek",
+            "end": 7060,
+            "start": 7052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 7083,
+            "start": 7068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 7094,
+            "start": 7085,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Vertragsschluss\nMit Einstellung der Produkte in den Online-Shop geben wir ein verbindliches Angebot zum Vertragsschluss über diese Artikel ab. Der Vertrag kommt zustande, indem Sie durch Anklicken des Buttons \"Bezahlen & kaufen\" das Angebot über die im Warenkorb enthaltenen Waren annehmen. Unmittelbar nach dem Absenden der Bestellung erhalten Sie noch einmal eine Bestätigung per E-Mail.\n2. Datenschutz\nAlle persönlichen Daten behandeln wir vertraulich und nach den geltenden Datenschutzbestimmungen. Die vollständige Datenschutzerklärung finden Sie unter: Datenschutz\n1. Bestellung\na. Bei der Apotheke DocMorris N.V. (im Folgenden kurz DocMorris genannt) können Sie per Post, per E-Mail, per Telefon oder per Fax bestellen.\nb. Bei Bestellung rezeptpflichtiger Medikamente ist es notwendig, dass Sie uns ein gültiges Original-Rezept per Post zuschicken. Hierfür senden wir Ihnen auf Wunsch gerne kostenlos Freiumschläge zu. Die Annahme der Bestellung kann erst nach erfolgreicher Prüfung des Rezeptes erfolgen. Die Rezeptprüfung erfolgt spätestens vor Ablauf von 2 Werktagen nach Rezepteingang.\nc. Aus Gründen der Arzneimittelsicherheit können für bestimmte Medikamente, wie z.B. Schlaf- oder Schmerzmittel, bestimmte Höchstabgabemengen gelten.\nd. Nach gesetzlichen Vorgaben dürfen folgende Medikamente nicht auf dem Versandweg abgegeben werden und sind daher bei DocMorris nicht erhältlich: Betäubungsmittel laut BTM-Gesetz; Medikamente, für die ein T-Rezept erforderlich ist; Notfall-Kontrazeptiva („Pille danach“); Medikamente für Lebensmitteltiere;\ne. Manche individuell anzufertigende Arzneimittel (Rezepturen) sind bei DocMorris nicht erhältlich. Bitte wenden Sie sich vor Bestellung einer solchen Zubereitung an unseren Kundenservice unter 0800 480 8000 (kostenfrei).\n2. Lieferung\na. Ihre Lieferung verlässt innerhalb von 2 Werktagen nach Bestelleingang unser Haus. Anderenfalls werden Sie informiert. Für eventuelle Nachlieferungen entstehen Ihnen selbstverständlich keine zusätzlichen Kosten.\nb. Alle Rezeptbestellungen sind versandkostenfrei. Rezeptfreie Produkte können Sie hierbei selbstverständlich versandkostenfrei mitbestellen. Wenn Sie ausschließlich rezeptfreie Produkte bestellen, erheben wir einen Versandkostenanteil in Höhe von 2,95 Euro. Dieser Versandkostenanteil entfällt bei Bestellung rezeptfreier Produkte ab 19,- Euro Gesamtwert.\nc. Die zeitnahe Lieferung der Ware erfolgt durch ein von uns beauftragtes Transportunternehmen.\nd. Die Lieferung kühlpflichtiger Medikamente erfolgt bei Bedarf aus Gründen der Arzneimittelsicherheit mit speziellen Kühlfahrzeugen.\ne. Die Zustellung erfolgt an Ihre Wunschadresse innerhalb der Bundesrepublik Deutschland. \nf. Die erfolgreiche Zustellung wird durch Unterschrift quittiert. Aus Gründen der Arzneimittelsicherheit wird Ihre Lieferung nicht an Kinder ausgehändigt.\ng. Aufgrund geltenden Rechts oder entsprechender Vereinbarungen mit den gesetzlichen Krankenkassen können wir berechtigt bzw. verpflichtet sein, für bestimmte Medikamente wirkstoffgleiche Austauschprodukte oder Reimporte zu liefern. Solche Lieferungen entsprechen dem Liefervertrag und sind daher insoweit weder als Falschlieferung noch als mangelhafte Lieferung zu werten.\n3. Mängelhaftung\nLiegt ein Mangel der Ware vor, gelten die gesetzlichen Bestimmungen.\n4. Zahlung\na. Die Zahlungsmodalitäten richten sich nach den zum Zeitpunkt der Bestellung gültigen Zahlungsbedingungen. Diese finden Sie unter Zahlungsbedingungen\nb. Alle Preisangaben und Angebote gelten nur für Versand-Bestellungen bei DocMorris, 52098 Aachen, und für Online-Bestellungen unter www.docmorris.de, nicht aber in stationären DocMorris-Apotheken. Die Preise auf www.docmorris.de können von den Preisen in den gedruckten Werbemitteln abweichen, und gelten nur bei Online-Bestellung unter www.docmorris.de.\nc. Für Mitglieder gesetzlicher Krankenkassen bieten wir bei Vorlage eines Kassenrezeptes die Direktabrechnung mit der Kasse an, sofern diese die Direktabrechnung akzeptiert. Für privat Versicherte legen wir jeder Lieferung einen Zahlungsbeleg bei, der ggf. zur Erstattung bei der privaten Krankenversicherung eingereicht werden kann.\n5. Widerrufsbelehrung\nWiderrufsbelehrung\n6. Ausschluss des Widerrufsrechts\nDas Widerrufsrecht besteht, soweit die Parteien nichts anderes vereinbart haben, u.a. nicht bei folgenden Verträgen: Verträge zur Lieferung von Waren, die schnell verderben können oder deren Verfallsdatum schnell überschritten würde. Verträge zur Lieferung versiegelter Waren, die aus Gründen des Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind, wenn ihre Versiegelung nach der Lieferung entfernt wurde. Verträge zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.\nHierzu gehören auch Arzneimittel. Da wir nicht überprüfen können, ob nach der Lieferung ein sachgemäßer Umgang mit den Medikamenten gewährleistet war, kommen diese nicht mehr in den Handel und werden zu Ihrer Sicherheit entsorgt. Aus diesem Grund ist bei Arzneimitteln die Widerrufsmöglichkeit ausgeschlossen.\n7. Rücksendung\nWarenrücksendungen richten Sie bitte an: Apotheke DocMorris, Postfach, 52098 Aachen. Im Falle eines Widerrufs oder einer Reklamation können Sie die Ware kostenlos an DocMorris zurücksenden. Für die kostenfreie Rücksendung stellen wir Ihnen gerne ein Retourenetikett zur Verfügung. Wenden Sie sich hierzu gegebenenfalls an unser Serviceteam unter 0800 480 8000 (kostenfrei). Das Etikett können Sie auf das Postpaket mit dem zurückzusendenden Artikel kleben und es dann bei Ihrer Postfiliale abgeben. Sobald die Retoure bei uns eingegangen ist, erhalten Sie Ihrem Wunsch entsprechend eine Gutschrift oder eine Ersatzlieferung.\n8. Sonstiges\na. Stand der AGB ist Januar 2018.\nb. Es gelten die jeweils aktuelle Fassung dieser allgemeinen Geschäftsbedingungen und das Recht der Niederlande mit Ausnahme der zwingenden Bestimmungen des Staates, in dem Sie Ihren gewöhnlichen Aufenthalt haben.\nc. Sollte eine Bestimmung dieser allgemeinen Geschäftsbedingungen ganz oder teilweise unwirksam sein oder werden, wird hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Anstelle der unwirksamen Bestimmung gelten die gesetzlichen Vorschriften.\nd. Rechtlicher Hinweis: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.\nWir sind nicht verpflichtet, an einem alternativen Streitbeilegungsverfahren vor einer Streitschlichtungsstelle in der Bundesrepublik Deutschland teilzunehmen. Gerne können Sie sich aber im Streitfall an beschwerdemanagement@docmorris.de wenden, um eine interne Einigung zu erreichen.\nAußerdem ist es möglich, folgende niederländische Schlichtungsstelle anzurufen: Geschillencommissie Openbare Apotheken, Postbus 8018, 5601 KA Eindhoven, Nederland, http://www.apotheek.nl/in-de-apotheek/klachten-over-uw-apotheek\ne. Ihr Vertragspartner: Anschrift\n\n"
+}

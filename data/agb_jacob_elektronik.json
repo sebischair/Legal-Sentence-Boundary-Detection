@@ -1,0 +1,425 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Anbieter",
+            "end": 30,
+            "start": 22,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 196,
+            "start": 189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 402,
+            "start": 398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mengen",
+            "end": 498,
+            "start": 492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 517,
+            "start": 502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 619,
+            "start": 613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 698,
+            "start": 696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 859,
+            "start": 851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1026,
+            "start": 1023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 1283,
+            "start": 1277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 1347,
+            "start": 1338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetzt",
+            "end": 1643,
+            "start": 1632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 1768,
+            "start": 1760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschaffenheitsgarantie",
+            "end": 1873,
+            "start": 1850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 1883,
+            "start": 1877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2043,
+            "start": 2030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kreditkartenzahlung",
+            "end": 2158,
+            "start": 2139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 2240,
+            "start": 2231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2256,
+            "start": 2243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 2323,
+            "start": 2314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansehen",
+            "end": 2427,
+            "start": 2420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstbelieferungsvorbehalt",
+            "end": 2480,
+            "start": 2453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeliefert",
+            "end": 2571,
+            "start": 2559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tage",
+            "end": 2655,
+            "start": 2651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einfluss",
+            "end": 2757,
+            "start": 2749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 2949,
+            "start": 2937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorschlagen",
+            "end": 3077,
+            "start": 3066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 3270,
+            "start": 3261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3293,
+            "start": 3274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeboten",
+            "end": 3473,
+            "start": 3464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestelleingangsbestätigung",
+            "end": 3590,
+            "start": 3564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3687,
+            "start": 3685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klarna",
+            "end": 3726,
+            "start": 3720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmethoden",
+            "end": 3744,
+            "start": 3728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3765,
+            "start": 3747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 3826,
+            "start": 3818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 3969,
+            "start": 3960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 3987,
+            "start": 3973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 4012,
+            "start": 3994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 4763,
+            "start": 4758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verunreinigungen",
+            "end": 4826,
+            "start": 4810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 4961,
+            "start": 4955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umverpackung",
+            "end": 5010,
+            "start": 4998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermeiden",
+            "end": 5259,
+            "start": 5250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 5368,
+            "start": 5365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5484,
+            "start": 5480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzukündigen",
+            "end": 5660,
+            "start": 5648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkte",
+            "end": 5743,
+            "start": 5735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "191",
+            "end": 5873,
+            "start": 5870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 5893,
+            "start": 5877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 6118,
+            "start": 6115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "191",
+            "end": 6188,
+            "start": 6185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 6314,
+            "start": 6302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 6444,
+            "start": 6438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftung",
+            "end": 6462,
+            "start": 6449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftung",
+            "end": 6500,
+            "start": 6487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6519,
+            "start": 6505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 6599,
+            "start": 6595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 6673,
+            "start": 6661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Durchschnittsschaden",
+            "end": 6834,
+            "start": 6814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 6949,
+            "start": 6931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftung",
+            "end": 7035,
+            "start": 7021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 7158,
+            "start": 7148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 7354,
+            "start": 7345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 7422,
+            "start": 7413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitschlichtung",
+            "end": 7444,
+            "start": 7427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 7566,
+            "start": 7554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 7589,
+            "start": 7570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 7709,
+            "start": 7702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 7797,
+            "start": 7785,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Geltungsbereich und Anbieter\nDie unter A.1 bis A.11 genannten Allgemeinen Geschäftsbedingungen gelten für alle Bestellungen, die Verbraucher (§ 13 BGB) über den Online-Shop der Anschrift abgeben.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zwecke abschließt, der überwiegend weder ihrer gewerblichen noch ihrer selbstständigen beruflichen Tätigkeit zugerechnet werden kann.\nDer Verkauf unserer Produkte erfolgt nur für den privaten Gebrauch in haushaltsüblichen Mengen.\n2 Vertragsschluss\nA.2.1. Die Produktdarstellungen im Online-Shop dienen zur Abgabe eines Kaufangebotes durch den Kunden. Mit Anklicken des Buttons „Kaufen“ geben Sie ein verbindliches Kaufangebot ab.\nA.2.2 Wir können die Bestellung durch Versand einer separaten Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von zwei Tagen annehmen. Die Bestätigung des Zugangs der Bestellung erfolgt durch automatisierte E-Mail unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar.\nA.2.3 Sollte unsere Auftragsbestätigung Schreib- oder Druckfehler enthalten oder sollten unserer Preisfestlegung technisch bedingte Übermittlungsfehler zu Grunde liegen, so sind wir zur Anfechtung berechtigt, wobei wir Ihnen unseren Irrtum beweisen müssen. Bereits erfolgte Zahlungen werden Ihnen unverzüglich erstattet. Angaben oder Abbildungen (z.B. Gewichte, Maße, Gebrauchswerte, Belastbarkeit, Toleranzen, Zeichnungen und technische Daten), in Katalogen, Preislisten oder anderem Werbematerial, sind nur annähernd, soweit nicht die Verwendbarkeit zum vertraglichen Zweck eine genaue Übereinstimmung voraussetzt. Offensichtliche Irrtümer, Druck-, Schreib-, Rechen- und Kalkulationsfehler sind unverbindlich und begründen keinen Anspruch. Ein Hinweis auf technische Normen dient der Leistungsbeschreibung und ist keine Beschaffenheitsgarantie.\n3 Preise\nA.3.1 Die auf den Produktseiten genannten Preise enthalten die gesetzliche Mehrwertsteuer und sonstige Preisbestandteile und verstehen sich zzgl. Versandkosten.\nA.3.2 Je nach Zahlungsart können zusätzliche Kosten für Sie anfallen, etwa bei Nachnahme oder Kreditkartenzahlung. Ob das der Fall ist bzw. in welcher Höhe, wird Ihnen im Bestellvorgang angezeigt\n4 Versandkosten\nDie genauen Versandkosten werden Ihnen im Bestellvorgang angezeigt. Eine Übersicht über die Versandkosten können Sie unter https://www.jacob.de/versandkosten.html ansehen.\n5 Lieferbedingungen und Selbstbelieferungsvorbehalt\nA.5.1 Sämtliche Lieferungen werden von uns über einen Lieferdienst versichert ausgeliefert.\nA.5.2 Die Lieferzeit beträgt, sofern nicht beim Angebot anders angegeben, 3-5 Tage. Auf die genaue Bearbeitungszeit des beauftragten Lieferdienstes (z.B. DHL) haben wir keinen Einfluss.\nA.5.3 Wenn das bestellte Produkt nicht verfügbar ist, weil wir mit diesem Produkt von unseren Lieferanten ohne eigenes Verschulden nicht beliefert werden, können wir vom Vertrag zurücktreten. In diesem Fall werden wir Sie unverzüglich informieren und Ihnen ggf. die Lieferung eines vergleichbaren Produktes vorschlagen. Wenn kein vergleichbares Produkt verfügbar ist oder Sie keine Lieferung eines vergleichbaren Produktes wünschen, werden wir Ihnen ggf. bereits erbrachte Gegenleistungen unverzüglich erstatten.\n6 Zahlungsbedingungen\nA.6.1 Die Zahlung erfolgt wahlweise per Vorkasse, Kreditkarte, Amazon Payments, PayPal u.a.. Eventuelle weitere Zahlungsmöglichkeiten werden Ihnen im Bestellvorgang ggf. angeboten.\nA.6.2 Bei Auswahl der Zahlungsart Vorkasse nennen wir Ihnen unsere Bankverbindung in der Bestelleingangsbestätigung.\nA.6.3 In Zusammenarbeit mit Klarna bieten wir für Deutschland die folgenden Zahlungsoptionen an. Die Zahlung erfolgt jeweils an Klarna: Zahlungsmethoden\n7 Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Zahlung unser Eigentum. Vor Übergang des Eigentums ist eine Verpfändung, Sicherungsübereignung, Verarbeitung oder Umgestaltung ohne unsere Zustimmung nicht gestattet.\n8 Widerrufsrecht\nA.8.1 Widerrufsbelehrung\nA.8.2 Das Widerrufsrecht besteht nicht bei Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind, wenn diese nach der Lieferung auf Grund ihrer Beschaffenheit untrennbar mit anderen Gütern vermischt wurden, bei Lieferung versiegelter Waren, die aus Gründen des Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind, wenn ihre Versiegelung nach der Lieferung entfernt wurde, sowie auch nicht bei der Lieferung von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde.\nA.8.3 Bitte vermeiden Sie Beschädigungen und Verunreinigungen. Senden Sie die Ware bitte möglichst in Originalverpackung mit sämtlichem Zubehör und mit allen Verpackungsbestandteilen an uns zurück. Verwenden Sie ggf. eine schützende Umverpackung. Wenn Sie die Originalverpackung nicht mehr besitzen, sorgen Sie bitte mit einer geeigneten Verpackung für einen ausreichenden Schutz vor Transportschäden, um Schadensersatzansprüche wegen Beschädigungen infolge mangelhafter Verpackung zu vermeiden.\nA.8.4 Senden Sie die Ware bitte als frankiertes Paket an uns zurück und bewahren Sie den Einlieferbeleg auf. Wir erstatten Ihnen auch gern auf Wunsch vorab die Portokosten, sofern diese nicht von Ihnen selbst zu tragen sind.\nA.8.5 Bitte kontaktieren Sie uns vor Rücksendung über unser Rücksendeformular, welches Sie unter https://www.jacob.de/reklamation.html finden, um die Rücksendung anzukündigen. Auf diese Weise ermöglichen Sie uns eine schnellstmögliche Zuordnung der Produkte. Alternativ lassen Sie uns bitte eine Email an reklamation@jacob.de zukommen oder senden uns ein Fax an die Nummer 0721/94176-191.\n9 Transportschäden\nWerden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte sofort bei dem Zusteller, und nehmen Sie bitte schnellstmöglich per Email an transportschaden@jacob.de Kontakt zu uns auf. Alternativ senden Sie uns bitte ein Fax an die Nummer 0721/94176-191.\nDie Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Gewährleistungsrechte keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\n10 Mängelhaftung\nEs gilt die gesetzliche Mängelhaftung.\n11 Gewährleistung\nFür gebrauchte Sachen beträgt die Gewährleistungsfrist für Verbraucher ein Jahr. Die Gewährleistung erfolgt im Übrigen nach den gesetzlichen Bestimmungen.\nBei leicht fahrlässigen Pflichtverletzungen beschränkt sich unsere Haftung auf den nach der Art der Ware vorhersehbaren, vertragstypischen Durchschnittsschaden. Dies gilt auch bei leicht fahrlässigen Pflichtverletzungen unserer gesetzlichen Vertreter oder Erfüllungsgehilfen. Die vorstehenden Haftungsbeschränkungen betreffen nicht Ansprüche aus Produkthaftung. Weiter gelten die Haftungsbeschränkungen nicht für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit.\nSoweit neben den Gewährleistungsansprüchen ggf. Garantieansprüche gegen Dritte (z.B. den Hersteller bestehen), unterstützen wir Sie gerne bei der Geltendmachung und Durchsetzung dieser Ansprüche. Ihre gesetzlichen Gewährleistungsansprüche bleiben davon unberührt.\n12 Streitschlichtung\nWir sind nicht bereit und verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen\n13 Schlussbestimmungen\nSollte eine Bestimmung dieser Allgemeinen Geschäftsbedingungen unwirksam sein, so bleibt der Vertrag im Übrigen wirksam. Anstelle der unwirksamen Bestimmung gelten die einschlägigen gesetzlichen Vorschriften.\n\n"
+}

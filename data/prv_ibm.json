@@ -1,0 +1,503 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 24,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 68,
+            "start": 64,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 338,
+            "start": 332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 731,
+            "start": 725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 910,
+            "start": 903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1149,
+            "start": 1143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 1222,
+            "start": 1213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzung",
+            "end": 1389,
+            "start": 1382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einstellungen",
+            "end": 1732,
+            "start": 1719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2074,
+            "start": 2068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Support",
+            "end": 2156,
+            "start": 2149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontaktieren",
+            "end": 2636,
+            "start": 2624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2924,
+            "start": 2918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 3067,
+            "start": 3056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identifizieren",
+            "end": 3287,
+            "start": 3273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3381,
+            "start": 3376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontrollieren",
+            "end": 3479,
+            "start": 3466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Services",
+            "end": 3520,
+            "start": 3512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzuentwickeln",
+            "end": 3904,
+            "start": 3886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlinedatenschutz",
+            "end": 4155,
+            "start": 4138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferanten",
+            "end": 4254,
+            "start": 4243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 4778,
+            "start": 4769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besucherinformation",
+            "end": 4803,
+            "start": 4784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 5070,
+            "start": 5058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marketing",
+            "end": 5085,
+            "start": 5076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ihnen",
+            "end": 5195,
+            "start": 5190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umfrageergebnisse",
+            "end": 5454,
+            "start": 5437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickeln",
+            "end": 5659,
+            "start": 5649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 5958,
+            "start": 5949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlinedatenschutz",
+            "end": 6172,
+            "start": 6155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6528,
+            "start": 6525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 6959,
+            "start": 6947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 7104,
+            "start": 7099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 7146,
+            "start": 7141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 7475,
+            "start": 7462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermitteln",
+            "end": 7711,
+            "start": 7700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7927,
+            "start": 7923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 8141,
+            "start": 8130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 8445,
+            "start": 8437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 8552,
+            "start": 8538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschließen",
+            "end": 8879,
+            "start": 8867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 9009,
+            "start": 9000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 9235,
+            "start": 9229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 9532,
+            "start": 9525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenübermittlung",
+            "end": 9566,
+            "start": 9549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsordnungen",
+            "end": 10152,
+            "start": 10137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritte",
+            "end": 10219,
+            "start": 10213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfordern",
+            "end": 10289,
+            "start": 10280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zertifiziert",
+            "end": 10357,
+            "start": 10345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zertifiziert",
+            "end": 10440,
+            "start": 10428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 10479,
+            "start": 10475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anfang",
+            "end": 10498,
+            "start": 10492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 10540,
+            "start": 10527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 10642,
+            "start": 10629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 10846,
+            "start": 10838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11009,
+            "start": 11003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 11151,
+            "start": 11143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufbewahrungsdauer",
+            "end": 11171,
+            "start": 11153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11600,
+            "start": 11596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufbewahrungsfristen",
+            "end": 11870,
+            "start": 11850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontakt",
+            "end": 11879,
+            "start": 11872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Formulars",
+            "end": 11998,
+            "start": 11989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 12148,
+            "start": 12134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 12399,
+            "start": 12389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3AU",
+            "end": 12726,
+            "start": 12723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verantwortlicher",
+            "end": 12798,
+            "start": 12782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12984,
+            "start": 12978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13204,
+            "start": 13198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 13403,
+            "start": 13398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 13416,
+            "start": 13410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfordern",
+            "end": 13526,
+            "start": 13517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 13588,
+            "start": 13575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anforderungsprozess",
+            "end": 13629,
+            "start": 13610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 13743,
+            "start": 13737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 14055,
+            "start": 14042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzufordern",
+            "end": 14211,
+            "start": 14200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerderecht",
+            "end": 14228,
+            "start": 14213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einlegen",
+            "end": 14395,
+            "start": 14387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Formulars",
+            "end": 14449,
+            "start": 14440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufsichtsbehörde",
+            "end": 14491,
+            "start": 14475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärungen",
+            "end": 14748,
+            "start": 14726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisieren",
+            "end": 14861,
+            "start": 14848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datum",
+            "end": 14979,
+            "start": 14974,
+            "type": "SBD"
+        }
+    ],
+    "Text": "IBM Datenschutzerklärung\nDiese Datenschutzerklärung gilt ab Mai 2018.\nIBM ist sich der Bedeutung des Schutzes Ihrer personenbezogenen Daten bewusst und setzt sich dafür ein, dass diese verantwortungsvoll und in Übereinstimmung mit den geltenden Datenschutzgesetzen in allen Ländern, in denen IBM geschäftlich tätig ist, verarbeitet werden.\nIn dieser Datenschutzerklärung sind die allgemeinen Datenschutzverfahren von IBM beschrieben, die im Hinblick auf die Verarbeitung, einschließlich Erhebung, Verwendung und Weitergabe von personenbezogene Daten von Nutzern und anderen Personen bei unseren Kunden, Business Partnern, Lieferanten und anderen Unternehmen, mit denen IBM eine Geschäftsbeziehung hat oder in Betracht zieht, gelten.\nDiese Datenschutzerklärung wird durch die IBM Erklärung zum Onlinedatenschutz ergänzt, welche weitere Informationen im Onlinekontext, einschließlich Personalbeschaffung, enthält. Darüber hinaus können auch zusätzliche oder spezifischere Informationen über die Erhebung oder Verwendung personenbezogener Daten auf bestimmten Webseiten oder in Verbindung mit einem bestimmten Produkt oder Service bereitgestellt werden.\nWarum und wie werden Ihre personenbezogenen Daten erhoben und verwendet?\nIhre personenbezogenen Daten können von uns für verschiedene Zwecke erhoben werden, wie z. B.:\n    Zugriff auf Webseiten oder andere Onlineservices und deren Nutzung\n    Wenn Sie eine unserer Webseiten öffnen oder einen Onlineservice nutzen, werden Informationen aufgezeichnet, die für den Zugriff, den Betrieb der Webseite und die Einhaltung technischer und rechtlicher Vorgaben in Verbindung mit dem Betrieb unserer Webseite erforderlich sind, wie z. B. Kennwörter, IP-Adresse und Web-Browser-Einstellungen. Es werden auch Informationen über Ihre Aktivitäten während Ihres Besuchs auf der jeweiligen Webseite erhoben, um Ihre Erfahrung auf unseren Webseiten zu personalisieren, beispielsweise Ihre Vorgaben und Einstellungen, und um statistische Daten zu erhalten um unsere Webseiten, Produkte und Services verbessern und weiterentwickeln zu können.\n    Beantwortung Ihrer Anfragen bezüglich Informationen, Bestellung oder Support\n    Wenn Sie uns (online oder offline) in Verbindung mit einer Anfrage bezüglich Informationen, einer Produkt- oder Servicebestellung, der Bereitstellung von Support oder für die Teilnahme an einem Forum oder die Nutzung eines anderen Social-Computing-Tools kontaktieren, erfassen wir die Informationen, die wir benötigen, um Ihre Anfrage zu erfüllen, Ihnen Zugriff auf das entsprechende Produkt oder den Service zu erteilen, Ihnen Support bereitzustellen und Sie zu kontaktieren. So werden beispielsweise Ihr Name und Ihre Kontaktinformationen, Einzelheiten bezüglich Ihrer Anfrage, Ihrer Vereinbarung mit uns und der Erfüllung, Bereitstellung und Abrechnung Ihrer Bestellung erfasst, zudem können Informationen aus Umfragen zur Kundenzufriedenheit einbezogen werden. Diese Informationen werden zu administrativen Zwecken, zum Schutz unserer Rechte und in Verbindung mit unserer Beziehung zu Ihnen gespeichert.\n    Sofern Sie Ihren Namen und Ihre Kontaktinformationen bereitstellen, um sich bezüglich einer solchen Anfrage zu registrieren, kann diese Registrierung dazu dienen, Sie beim Besuch unserer Webseiten zu identifizieren. Für die Bestellung der meisten Services und Produkte müssen Sie eine IBMid registriert haben. Durch die Registrierung können Sie auch Ihre Datenschutzeinstellungen anpassen und kontrollieren.\n    Ihre Nutzung von IBM Cloud-Services\n    Wir erfassen Informationen über Ihre Nutzung von IBM Cloud-Services, um die Ausführung von Produktfunktionen zu aktivieren, Ihre Benutzererfahrung zu verbessern, unsere Interaktion mit Ihnen individuell anzupassen, unsere Kunden über die allgemeine Nutzung der Services zu informieren, Support bereitzustellen und unsere Produkte und Services zu verbessern und weiterzuentwickeln. Einzelheiten in Bezug auf die von IBM genutzten Technologien, die von IBM erfassten personenbezogenen Daten und die Kontrolle oder Sperrung von Überwachungsfunktionen oder das Löschen von Cookies finden Sie in der IBM Erklärung zum Onlinedatenschutz.\n    Kontaktaufnahme mit Mitarbeitern unserer Kunden, potenziellen Kunden, Partner und Lieferanten\n    Im Rahmen unserer Beziehung mit Kunden, potenziellen Kunden, Partnern und Lieferanten stellen uns diese unter anderem auch geschäftsbezogene Kontaktinformationen (z. B. Name, geschäftliche Kontaktdaten, Position oder Titel ihrer Mitarbeiter, Auftragnehmer, Berater und berechtigten Benutzer) zum Zwecke des Vertragsmanagements, der Auftragserfüllung, der Bereitstellung von Produkten und Services, der Bereitstellung von Support, der Abrechnung und des Managements der Services oder der Geschäftsbeziehung zur Verfügung.\n    Besucherinformation\n    Wir registrieren Personen, die unsere Standorte besuchen (Name, Identifikation und geschäftsbezogene Kontaktinformationen) und nutzen Kameraüberwachung aus Sicherheitsgründen und zum Schutz von Personen und Eigentum sowie zur Einhaltung gesetzlicher Bestimmungen.\n    Marketing\n    Die meisten Informationen, die wir über Sie erheben, stammen aus unseren direkten Interaktionen mit Ihnen. Wenn Sie sich für eine Veranstaltung registrieren, können wir Informationen (online oder offline) in Bezug auf die Veranstaltungsorganisation erfassen, aber auch während einer Veranstaltung, wie z. B. die Teilnahme an einzelnen Modulen und Umfrageergebnisse. Wir kombinieren die erfassten personenbezogenen Daten miteinander, um zur Durchführung unserer Geschäftstätigkeit und zu Marketingzwecken zusammengefasste Analysen und Business-Intelligence zu entwickeln. Sie können auswählen, ob Sie Informationen über unsere Produkte und Services per E-Mail, Telefon oder Post erhalten möchten, oder sich für ein Abonnement anmelden. Wenn Sie unsere Webseiten besuchen oder unsere Services verwenden, stellen wir Ihnen ggf. personalisierte Informationen zur Verfügung. Sie können jederzeit dem Erhalt personalisierter Kommunikation widersprechen, indem Sie eine E-Mail an NETSUPP@us.ibm.com senden. Weitere Informationen hierzu finden Sie in der IBM Erklärung zum Onlinedatenschutz.\nWenn wir angeben, dass wir Ihre personenbezogenen Daten in Verbindung mit einer Anfrage, Bestellung, Transaktion oder Vereinbarung (oder der entsprechenden Vorbereitung) verwenden oder um Ihnen Services bereitzustellen, die Sie angefordert haben (z. B. eine Webseite), tun wir dies, weil es für die Erfüllung einer Vereinbarung mit Ihnen erforderlich ist.\nWenn wir angeben, dass wir Ihre personenbezogenen Daten in Verbindung mit Marketing, der Verbesserung oder Entwicklung unserer Produkte oder Services, aus Sicherheitsgründen oder aufgrund von gesetzlichen Bestimmungen, die nicht in Verbindung mit Ihrer Vereinbarung oder Anforderung stehen, verwenden, tun wir dies basierend auf unserem berechtigten Interesse, dem berechtigten Interesse eines Dritten oder mit Ihrer Einwilligung. Wenn personenbezogene Daten erhoben und verwendet werden, die dem EU-Datenschutzrecht unterliegen, kann dies Auswirkungen auf Ihre Rechte haben.\nÜbermittlung von personenbezogenen Daten\nAls weltweit tätiger Konzern, der eine breite Palette an Produkten und Services anbietet, mit grenzüberschreitenden Geschäftsprozessen, Managementstrukturen und technischen Systemen hat IBM globale Richtlinien sowie Standards und Verfahren implementiert, um einen gleichbleibenden Schutz personenbezogener Daten zu gewährleisten. Als weltweit tätiges Unternehmen können wir Ihre personenbezogenen Daten in Übereinstimmung mit dieser Datenschutzerklärung mit unseren Konzerngesellschaften weltweit austauschen und sie an IBM Standorte in anderen Ländern übermitteln.\nZwischen von IBM kontrollierten Konzerngesellschaften wird der Zugriff auf personenbezogene Daten nur erteilt, wenn ein berechtigtes Interesse daran besteht und diese für die entsprechenden Zwecke erforderlich sind. In Einzelfällen arbeitet IBM mit Subunternehmern in verschiedenen Ländern zusammen, um im Namen von IBM personenbezogene Daten zu erheben, zu verwenden, zu analysieren oder in anderer Art und Weise zu verarbeiten.\nSoweit angemessen oder basierend auf Ihrer Einwilligung kann IBM Ihre personenbezogenen Daten gegebenenfalls auch an ausgewählte Partner weitergeben, die uns dabei unterstützen, Ihnen oder dem Unternehmen, für das Sie arbeiten, Produkte oder Services bereitzustellen oder Ihre Anforderungen zu erfüllen. Bei der Auswahl unserer Subunternehmer und Partner werden deren Datenverarbeitungsprozesse berücksichtigt.\nSollte sich IBM dazu entschließen, Unternehmen in bestimmten Ländern zu verkaufen, zu kaufen, zu fusionieren oder anderweitig zu reorganisieren, kann eine derartige Transaktion eine Offenlegung von personenbezogenen Daten an potentielle oder tatsächliche Käufer bzw. das Erhalten solcher Daten von den Verkäufern einschließen. Es ist gängige Praxis bei IBM, bei derartigen Transaktionen einen entsprechenden Schutz der personenbezogenen Daten zu verlangen.\nBeachten Sie bitte, dass es in bestimmten Situationen möglich ist, dass personenbezogene Daten an Behörden auf Grund von gerichtlicher oder behördlicher Anordnung oder zur Einhaltung des Rechtsweges offengelegt werden müssen. Wir können Ihre personenbezogenen Daten auch weitergeben, um die Rechte und das Eigentum von IBM und IBM Business Partnern, Lieferanten, Kunden oder Dritten zu schützen, wenn berechtigter Grund zur Annahme besteht, dass diese Rechte oder dieses Eigentum beeinträchtigt wurden oder werden könnten.\nInternationale Datenübermittlung\nDie internationale Tätigkeit von IBM bringt eine große Anzahl Übermittlungen personenbezogener Daten zwischen verschiedenen IBM Konzerngesellschaften mit sich, sowie an Dritte, die ihren Sitz in den Ländern haben, in denen wir geschäftlich tätig sind. Einige Länder haben Beschränkungen für die Übermittlung personenbezogener Daten umgesetzt, sodass IBM in diesem Zusammenhang verschiedene Maßnahmen ergriffen hat, wie z. B.:\n    Falls erforderlich, nutzt IBM die von der EU-Kommission genehmigten Standardvertragsklauseln oder vergleichbare Vertragsklauseln in anderen Rechtsordnungen. Dies umfasst Datenübertragungen an Lieferanten oder andere Dritte. Hier können Sie eine Kopie der EU-Standardvertragsklauseln anfordern.\n    IBM ist gemäß den APEC Cross Border Privacy Rules zertifiziert.\n    IBM ist gemäß den EU-U.S. und Swiss-U.S. Privacy Shield-Abkommen zertifiziert. Weitere Informationen finden Sie hier.\nZurück zum Anfang\nSicherheit und Qualität von Informationen\nEs ist unser Anliegen, Ihre personenbezogenen Daten zu schützen und ihre Richtigkeit zu gewährleisten. IBM hat angemessene physische, administrative und technische Sicherheitsvorkehrungen implementiert, um Ihre personenbezogenen Daten vor unbefugtem Zugriff, unbefugter Nutzung und Offenlegung zu schützen. Beispielsweise werden bestimmte besonders sensible personenbezogene Daten (z. B. Kreditkartendaten) verschlüsselt, wenn diese über das Internet übertragen werden. Zudem verlangen wir von unseren Lieferanten und Partnern, diese Daten vor unbefugtem Zugriff, unbefugter Nutzung und Offenlegung zu schützen.\nAufbewahrungsdauer\nPersonenbezogene Daten werden nicht länger als notwendig aufbewahrt, um die Zwecke, zu denen sie verarbeitet werden, zu erfüllen, einschließlich der Erfüllung von gesetzlichen oder behördlichen Verpflichtungen (z. B. Prüfung, Abrechnung und gesetzliche Aufbewahrungsfristen), der Abwicklung von Streitfällen und die Begründung, Ausübung oder Verteidigung von Rechtsansprüchen in den Ländern, in denen wir geschäftlich tätig sind.\nDa die Umstände je nach Kontext und Services unterschiedlich sein können, umfassen die in der Erklärung zum Onlinedatenschutz oder einer spezifischen Benachrichtigung enthaltenen Informationen möglicherweise detailliertere Angaben zu den geltenden Aufbewahrungsfristen.\nKontakt\nWenn Sie eine Frage zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter Verwendung dieses Formulars. Ihre Nachricht wird an das entsprechende Mitglied des IBM Datenschutzteams, z. B. Datenschutzbeauftragte oder Mitglieder ihrer Teams, weitergeleitet.\nIm Rahmen der EU-Datenschutz-Grundverordnung (DSGVO) ist die International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, USA, der Verantwortliche für Ihre personenbezogenen Daten, sofern nicht abweichend vereinbart. Sofern die IBM Corp. oder eine von ihr kontrollierte Konzerngesellschaft (die nicht im Europäischen Wirtschaftsraum (EWR) ansässig ist) einen gesetzlichen Vertreter im EWR ernennen muss, ist der Vertreter in all diesen Fällen IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.\nIBM Corp. fungiert in folgenden Situationen nicht als Verantwortlicher:\n    Personenbezogene Daten, die in Verbindung mit einem Vertragsverhältnis oder bei Eingehen eines Vertragsverhältnisses mit einer bestimmten IBM Konzerngesellschaft verarbeitet werden. In diesem Fall ist der Verantwortliche für personenbezogene Daten die IBM Vertragsgesellschaft, welche das jeweilige Unternehmen ist, mit dem Sie oder Ihr Arbeitgeber den Vertrag geschlossen haben oder schließen werden.\n    Personenbezogene Daten, die am physischen Standort einer IBM Konzerngesellschaft erfasst werden. In diesem Fall ist diese Konzerngesellschaft der Verantwortliche für die personenbezogenen Daten.\nIhre Rechte\nSie können Auskunft bezüglich Ihrer personenbezogenen Daten, deren Aktualisierung oder Berichtigung anfordern. Außerdem haben Sie das Recht, Direktwerbung zu widersprechen. Hier kommen Sie zum Anforderungsprozess.\nMöglicherweise haben Sie gemäß dem für Sie geltenden Recht in Bezug auf die Datenverarbeitung zusätzliche Rechte. Falls die Verarbeitung Ihrer personenbezogenen Daten beispielsweise den Regelungen der DSGVO unterliegt und Ihre personenbezogenen Daten basierend auf berechtigtem Interesse verarbeitet werden, sind Sie berechtigt, der Verarbeitung aus Gründen, die sich aus Ihrer besonderen Situation ergeben, zu widersprechen. Im Rahmen der DSGVO haben Sie auch das Recht, die Löschung, Einschränkung der Verarbeitung sowie die Übertragung Ihrer personenbezogenen Daten anzufordern.\nBeschwerderecht\nSollten Sie der Ansicht sein, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die geltenden Datenschutzgesetze verstößt, können Sie eine Beschwerde einlegen:\n    Direkt bei IBM unter Verwendung dieses Formulars.\n    Bei der zuständigen Aufsichtsbehörde. Namen und Kontaktinformationen der zuständigen Aufsichtsbehörden in der Europäischen Union finden Sie unter http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm.\nÄnderungen an IBM Datenschutzerklärungen\nIBM kann diese Datenschutzerklärung sowie andere spezielle Datenschutzerklärungen von Zeit zu Zeit aktualisieren. Wenn Änderungen an dieser Datenschutzerklärung vorgenommen werden, erhält diese Datenschutzerklärung ein neues Datum.\n\n"
+}

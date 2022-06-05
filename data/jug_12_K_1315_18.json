@@ -1,0 +1,629 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 47,
+            "start": 45,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tschechien",
+            "end": 306,
+            "start": 296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 319,
+            "start": 307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 412,
+            "start": 411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 523,
+            "start": 521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 565,
+            "start": 564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 575,
+            "start": 566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 764,
+            "start": 760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 885,
+            "start": 882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1035,
+            "start": 1030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1048,
+            "start": 1037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tschechien",
+            "end": 1301,
+            "start": 1291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1312,
+            "start": 1302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4250",
+            "end": 1331,
+            "start": 1327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1337,
+            "start": 1332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1366,
+            "start": 1356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 1413,
+            "start": 1403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1434,
+            "start": 1415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1436,
+            "start": 1435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägers",
+            "end": 1572,
+            "start": 1565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1575,
+            "start": 1574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1578,
+            "start": 1577,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1683,
+            "start": 1682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 1901,
+            "start": 1896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückkehre",
+            "end": 2147,
+            "start": 2136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2150,
+            "start": 2149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2416,
+            "start": 2415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AA",
+            "end": 2563,
+            "start": 2561,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2704,
+            "start": 2703,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2954,
+            "start": 2953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2957,
+            "start": 2956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3115,
+            "start": 3112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3118,
+            "start": 3117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3279,
+            "start": 3276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 3378,
+            "start": 3367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 3480,
+            "start": 3474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 3604,
+            "start": 3597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlt",
+            "end": 3665,
+            "start": 3658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 3854,
+            "start": 3850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kindergeldberechtigt",
+            "end": 4024,
+            "start": 4004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4027,
+            "start": 4026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 4058,
+            "start": 4053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstütze",
+            "end": 4165,
+            "start": 4154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kindergeldberechtigt",
+            "end": 4221,
+            "start": 4201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehre",
+            "end": 4399,
+            "start": 4392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausland",
+            "end": 4509,
+            "start": 4502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tochter",
+            "end": 4585,
+            "start": 4578,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4824,
+            "start": 4823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4827,
+            "start": 4826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzusetzen",
+            "end": 5081,
+            "start": 5069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5084,
+            "start": 5083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 5129,
+            "start": 5119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5133,
+            "start": 5131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 5306,
+            "start": 5301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5429,
+            "start": 5426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wohnen",
+            "end": 5813,
+            "start": 5807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5909,
+            "start": 5905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6090,
+            "start": 6086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 6152,
+            "start": 6146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 6156,
+            "start": 6154,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6293,
+            "start": 6292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6297,
+            "start": 6295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 6425,
+            "start": 6416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 6429,
+            "start": 6427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6433,
+            "start": 6431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6459,
+            "start": 6448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6463,
+            "start": 6461,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6758,
+            "start": 6757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6762,
+            "start": 6760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anspruchsberechtigt",
+            "end": 6937,
+            "start": 6918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6941,
+            "start": 6939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wohnen",
+            "end": 7714,
+            "start": 7708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7718,
+            "start": 7716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezahlt",
+            "end": 7805,
+            "start": 7798,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7946,
+            "start": 7945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7950,
+            "start": 7948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 8068,
+            "start": 8064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8196,
+            "start": 8193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 8285,
+            "start": 8276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fingiert",
+            "end": 8446,
+            "start": 8438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruchsberechtigung",
+            "end": 8580,
+            "start": 8559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8584,
+            "start": 8582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedstaat",
+            "end": 8730,
+            "start": 8717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8734,
+            "start": 8732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundverordnung",
+            "end": 8906,
+            "start": 8891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9118,
+            "start": 9115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 9122,
+            "start": 9120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedstaats",
+            "end": 9264,
+            "start": 9250,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9710,
+            "start": 9709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9714,
+            "start": 9712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Personen",
+            "end": 9863,
+            "start": 9855,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10084,
+            "start": 10083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruchsberechtigung",
+            "end": 10270,
+            "start": 10249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10274,
+            "start": 10272,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10554,
+            "start": 10553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbleiben",
+            "end": 10782,
+            "start": 10772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10904,
+            "start": 10901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 10979,
+            "start": 10973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10983,
+            "start": 10981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 11127,
+            "start": 11124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 11332,
+            "start": 11317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11336,
+            "start": 11334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 11390,
+            "start": 11387,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 05.02.2019 – 12 K 1315/18\nTitel:\nKindergeld, Verwaltungsakt, Kindesmutter, Kind, Mitgliedstaat, Festsetzung,\nFamilienkasse, Heimerziehung, Haushalt, Einspruch, Kindergeldanspruch,\nLandratsamt, Form, Anspruch, Hilfe zur Erziehung, Anspruch auf Kindergeld, beide\nElternteile, Tschechien\nNormenketten:\nEStG § 32 Abs. 1 Nr. 1; § 62 Abs. 1 Nr. 1, § 63 Abs. 1 Nr. 1, Abs. 1 S. 6, § 64 Abs. 2 S. 1\nVO (EG) Nr. 883/2004 Art. 1 Buchst. z, Art. 2 Abs. 1, Art. 3 Abs. 1 Buchst. j; Art. 11 Abs. 1, Abs. 3, Art. 67;\nVO (EG) Nr. 987/2009 Art. 60 Abs. 1 S. 2\nLeitsätze:\n1. Aus Art. 67 Satz 1 VO Nr. 883/2004 i.V.m. Art. 60 Abs. 1 Satz 2 VO Nr. 987/2009 folgt, dass die\nWohnsituation der Großeltern und der Kindesmutter (fiktiv) in das Inland übertragen wird.\n2. Nach § 64 Abs. 2 Satz 1 EStG wird Kindergeld nur demjenigen gezahlt, der das Kind in seinen\nHaushalt aufgenommen hat.\n3. Entscheidend ist demgemäß, dass das Kind nach der Rückführung nach Tschechien im Dezember\n2017 in den Haushalt der Kindesmutter aufgenommen wurde.\nSchlagworte:\nKindergeld, Verwaltungsakt, Kindesmutter, Kind, Mitgliedstaat, Festsetzung, Familienkasse, Heimerziehung,\nHaushalt, Einspruch, Kindergeldanspruch, Landratsamt, Form, Anspruch, Hilfe zur Erziehung, Anspruch auf\nKindergeld, beide Elternteile, Tschechien\nFundstelle:\nBeckRS 2019, 4250\nTenor\n1. Die Klage wird abgewiesen.\n2. Der Kläger trägt die Kosten des Verfahrens.\nEntscheidungsgründe\n1\nStreitig ist ein Kindergeldanspruch für die in Tschechien im Haushalt der Großeltern (mütterlicherseits)\nlebende Tochter AA des Klägers.\nI.\n2\nDie Familienkasse […] (FK …) leistete an den Kläger Kindergeld für das Kind [… AA] (geboren am […]\n2008). Das Kindergeld wurde aufgrund des Erstattungsanspruchs an das […] - Kreisjugendamt - ab\nSeptember 2017 abgezweigt (Verwaltungsakt vom 19. September 2017; Akte Bl 202), da das\nKreisjugendamt AA in Obhut genommen hatte. Mit Schreiben vom 12. Dezember 2017 teilte das\nLandratsamt der FK … mit, dass die Hilfe zur Erziehung in Form der Heimerziehung für AA zum 22.\nDezember 2017 beendet werde und das Kind in den Haushalt der Kindesmutter nach Tschechien\nzurückkehre.\n3\nDie FK … hob deshalb mit Verwaltungsakt vom 19. Dezember 2017 die Festsetzung des Kindergeldes für\ndas Kind AA gegenüber dem Kläger ab Januar 2018 auf. Die Entscheidung begründete die FK … damit,\ndass das Kind AA in den Haushalt der Mutter aufgenommen worden sei.\n4\nMit Schreiben vom 12. Februar 2018 (KG-A Bl 210), das der FK … per E-Mail übermittelt wurde, beantragte\nder Kläger Kindergeld für seine Tochter AA. Den Antrag begründete er damit, dass AA bei den Großeltern\nwohnhaft sei und fügte eine Bestätigung der Kindesmutter (MAA) bei (KG-A Bl 211). Mit Verwaltungsakt\nvom 19. Februar 2018 lehnte die FK … den Antrag auf Festsetzung von Kindergeld ab Januar 2018 ab, da\ndie Großeltern das Kind AA in ihren Haushalt aufgenommen hätten und deshalb vorrangige\nKindergeldberechtigte seien (KG-A Bl 212).\n5\nDen dagegen gerichteten Einspruch begründete der Kläger damit, dass die Tochter bei den Großeltern in\nTschechien lebe und er deshalb kindergeldberechtigt sei.\n6\nMit Schreiben vom 16. März 2018 wies die Familienkasse [… YYY] (Beklagte) darauf hin, dass sie wegen\ndes Bezuges des Falles zu Tschechien sachlich zuständig sei. Die Beklagte forderte den Kläger - ohne\nErfolg - auf, Name und Adresse der Großeltern mitzuteilen. Mit Einspruchsentscheidung vom 16. April 2018\nwies die Beklagte den Einspruch als unbegründet zurück. Zur Begründung führte die Beklagte aus, dass\neinen Anspruch auf Kindergeld grundsätzlich mehrere Berechtigte haben könnten. Das Kindergeld werde\naber nur an einen Berechtigten bezahlt. Würden mehrere Personen die Voraussetzung der\nKindergeldberechtigung erfüllen, werde das Kindergeld vorrangig an diejenige Person bezahlt, die das Kind\nin seinen Haushalt aufgenommen habe. Da das Kind AA nicht in den Haushalt des Klägers, sondern in den\nHaushalt der Großeltern aufgenommen sei, sei der Kläger jedenfalls nicht vorrangig kindergeldberechtigt.\n7\nDagegen richtet sich die Klage. Zur Begründung trägt der Kläger vor, dass er die Großeltern, bei denen sich\ndas Kind befinde, unterstütze. Deshalb sei er als der Kindsvater kindergeldberechtigt. Auf die richterliche\nAnordnung, den Gegenstand des Klagebegehrens zu bezeichnen, führte der Kläger aus, dass er Kindergeld\nfür seine Tochter AA seit dem 1. Februar 2018 begehre. In Deutschland werde für jede gemeldete Person\nKindergeld gewährt, auch für nicht-deutsche Kinder im Ausland. In seinem Fall sei nicht nur er\nVolksdeutscher, sondern auch seine Tochter. Zur Begründung legt der Kläger zusätzlich eine Bestätigung\nder Kindesmutter vom 1. Februar 2018 darüber vor, dass das gemeinsame Kind AA von den Großeltern […\nGVAA und GMAA] betreut werde und bei ihnen in Tschechien wohne (FG-Akte Bl 20).\n8\nDer Kläger beantragt sinngemäß,\nden Ablehnungsbescheid vom 19. Februar 2018 in Gestalt der Einspruchsentscheidung vom 16. April 2018\naufzuheben und die Beklagte zu verpflichten, Kindergeld für AA für die Zeit von Februar 2018 bis April 2018\nfestzusetzen.\n9\nDie Beklagte beantragt,\ndie Klage abzuweisen.\n10\nZur Begründung verweist die Beklagte auf die Einspruchsentscheidung und weist ergänzend darauf hin,\ndass Streitzeitraum nur die Monate von Februar 2018 bis April 2018 seien. Bereits aus der\nKlagebegründung ergebe sich, dass die Tochter AA in Tschechien im Haushalt der Großeltern\naufgenommen sei. Da ein grenzüberschreitender Sachverhalt vorliege, sei überstaatliches Recht zu\nbeachten, hier insbesondere die EG-Verordnungen 883/2004 sowie 987/2009. Nach Art. 60 EG-Verordnung\n987/2009 sei die Situation der gesamten Familienangehörigen in der Weise zu berücksichtigen, als würden\nalle beteiligten Personen unter die nationalen Rechtsvorschriften fallen und in Deutschland wohnen.\nInsofern könnten im Streitfall beide Elternteile und die Großeltern Kindergeldberechtigte sein. Nach der\nBestimmung des § 64 Abs. 2 Einkommensteuergesetz (EStG) sei aber das Kindergeld nur an denjenigen\nBerechtigten zu zahlen, der das Kind in seinem Haushalt aufgenommen habe. Im Streitfall seien dies die\nGroßeltern und nicht der Kläger.\n11\nMit Beschluss vom 15. Januar 2019 wurde der Rechtsstreit dem Einzelrichter zur Entscheidung übertragen\n(§ 6 Finanzgerichtsordnung <FGO>).\n12\nWegen des weiteren Vorbringens der Beteiligten wird auf die ausgetauschten Schriftsätze und die\nSitzungsniederschrift verwiesen.\nII.\n13\nDie Klage ist unbegründet.\n14\n1. Der Kläger erfüllt - was zwischen den Beteiligten nicht streitig ist - die Anspruchsvoraussetzungen nach §\n62 Abs. 1 Nr. 1 i.V.m. § 63 Abs. 1 Satz 1 Nr. 1, Satz 2, § 32 Abs. 1 Nr. 1, Abs. 3 EStG. Unerheblich ist, dass\ndie Tochter AA ihren Wohnsitz in Tschechien hat (§ 63 Abs. 1 Satz 6 EStG).\n15\n2. Allerdings sind die Großeltern des Kindes und die Kindesmutter nach § 64 Abs. 2 Satz 1 EStG im\nStreitzeitraum von Februar 2018 bis April 2018 vorrangig anspruchsberechtigt.\n16\na) Denn gemäß Art. 67 Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom\n29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (Amtsblatt der Europäischen Union -\nABlEU - 2004 Nr. L 166, S. 1) in der für den Streitzeitraum maßgeblichen Fassung - VO Nr. 883/2004\n(Grundverordnung) - i.V.m. Art. 60 Abs. 1 Satz 2 Verordnung (EG) Nr. 987/2009 des Europäischen\nParlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung\nder Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (ABlEU\n2009 Nr. L 284, S. 1) in der für den Streitzeitraum maßgeblichen Fassung - VO Nr. 987/2009\n(Durchführungsverordnung) - ist zu unterstellen, dass sie mit AA in Deutschland wohnen.\n17\nb) Nach § 64 Abs. 1 EStG wird für jedes Kind nur einem Berechtigten Kindergeld gezahlt. Bei mehreren\nBerechtigten wird das Kindergeld demjenigen gezahlt, der das Kind in seinen Haushalt aufgenommen hat (§\n64 Abs. 2 Satz 1 EStG).\n18\nc) Im Streitfall ergibt sich die Anspruchsberechtigung der Kindesmutter und der Großeltern aus § 62 Abs. 1\nNr. 1 EStG. Zwar liegt der nach § 62 Abs. 1 Nr. 1 EStG erforderliche Inlandswohnsitz der Kindesmutter und\nGroßeltern tatsächlich nicht vor. Es finden jedoch die Vorschriften der VO Nr. 883/2004 und der VO Nr.\n987/2009 Anwendung. Dadurch wird gemäß Art. 67 VO Nr. 883/2004 i.V.m. Art. 60 Abs. 1 Satz 2 VO Nr.\n987/2009 ein Inlandswohnsitz der Großeltern ebenso wie der Kindesmutter fingiert. Zudem erfüllen die\nGroßeltern ebenso wie die Kindesmutter auch die übrigen Voraussetzungen für eine vorrangige\nAnspruchsberechtigung.\n19\n3. Der Anwendungsbereich der VO Nr. 883/2004 (Grundverordnung) ist im Streitfall eröffnet und\nDeutschland ist danach der zuständige Mitgliedstaat.\n20\na) Der Kläger ist deutscher Staatsangehöriger (KG-A Bl 163 f.) und fällt damit nach Art. 2 Abs. 1 VO Nr.\n883/2004 in den persönlichen Anwendungsbereich der Grundverordnung. Ebenso ist das Kindergeld nach\ndem EStG eine Familienleistung i.S. des Art. 1 Buchst. z VO Nr. 883/2004, weshalb auch deren sachlicher\nAnwendungsbereich nach Art. 3 Abs. 1 Buchst. j VO Nr. 883/2004 eröffnet ist.\n21\nb) Gemäß Art. 11 Abs. 1 VO Nr. 883/2004 unterliegen die von der Verordnung erfassten Personen den\nRechtsvorschriften nur eines Mitgliedstaats. Im Streitfall ergibt sich die Anwendung der deutschen\nRechtsvorschriften jedenfalls aus Art. 11 Abs. 3 Buchst. e VO Nr. 883/2004. Aus Art. 67 Satz 1 VO Nr.\n883/2004 i.V.m. Art. 60 Abs. 1 Satz 2 VO Nr. 987/2009 folgt, dass die Wohnsituation der Großeltern und der\nKindesmutter (fiktiv) in das Inland übertragen wird (BFH-Urteile vom 28. April 2016 III R 68/13 BFHE 254,\n20, BStBl II 2016, 776; vom 26. Oktober 2016 III R 27/13, BFH/NV 2017, 299).\n22\nc) Im Streitfall sind die Kindesmutter und die Großeltern im Streitzeitraum von Februar bis April 2018 die\nvorrangig kindergeldberechtigten Personen. Die Kindesmutter und die Großeltern (Großvater oder\nGroßmutter) erfüllen neben dem Wohnsitzerfordernis auch die übrigen Voraussetzungen für einen\nvorrangigen Kindergeldanspruch (§ 63 Abs. 1 Satz 1 Nr. 1 bzw. Nr. 3 EStG). Anders als der Kläger meint,\nist der Umstand, dass der Kläger Unterhaltszahlungen für seine Tochter leistet, nicht entscheidend für eine\ntatsächliche (vorrangige) Anspruchsberechtigung.\n23\nEntscheidend ist vielmehr, dass AA nach der Rückführung nach Tschechien im Dezember 2017 zuerst in\nden Haushalt der Kindesmutter ([…]; lt. Angaben der Kindesmutter MAA, KG-A Bl 152) zurückgekehrt ist\n(Schreiben des Landratsamtes […] vom 12. Dezember 2017; KG-A Bl 205 und Bl 152). Danach ist AA nach\ndem Vortrag des Klägers und der Bestätigung der Kindesmutter in den Haushalt der Großeltern ([…]\naufgenommen worden (FG-Akte Bl 20 f.; KG-A Bl 210 f.) und dort auch bis zum Ende des Streitzeitraum\nverbleiben. Und nach § 64 Abs. 2 Satz 1 EStG wird Kindergeld nur demjenigen gezahlt, der das Kind in\nseinen Haushalt aufgenommen hat. Das ist aber im Zeitraum von Februar 2018 bis April 2018 nicht der\nKläger.\n24\nd) Schließlich kommt es nicht darauf an, ob die Kindesmutter oder die Großeltern selbst einen Antrag auf\nKindergeld in Deutschland gestellt hat. Vielmehr hätte die deutsche Familienkasse einen Antrag des\nKlägers auf Kindergeld auch als solchen zugunsten des Kindergeldanspruchs der Kindesmutter oder der\nGroßmutter/des Großvaters zu berücksichtigen.\n25\n4. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n\n"
+}

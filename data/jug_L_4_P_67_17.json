@@ -1,0 +1,1325 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 47,
+            "start": 45,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beitragsrückständen",
+            "end": 144,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 157,
+            "start": 145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 173,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 205,
+            "start": 204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "110",
+            "end": 218,
+            "start": 215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 240,
+            "start": 239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "b",
+            "end": 252,
+            "start": 251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "k",
+            "end": 264,
+            "start": 263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 274,
+            "start": 265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pfändungsschutz",
+            "end": 334,
+            "start": 319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungsverhältnis",
+            "end": 418,
+            "start": 395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungsvertragsgesetzes",
+            "end": 630,
+            "start": 601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 665,
+            "start": 656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eintritt",
+            "end": 894,
+            "start": 886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pfändungsschutzkontos",
+            "end": 987,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1000,
+            "start": 989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegeversicherung",
+            "end": 1104,
+            "start": 1086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1115,
+            "start": 1105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1166,
+            "start": 1164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1177,
+            "start": 1167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9526",
+            "end": 1196,
+            "start": 1192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1202,
+            "start": 1197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1298,
+            "start": 1284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1352,
+            "start": 1343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1393,
+            "start": 1383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1405,
+            "start": 1395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1407,
+            "start": 1406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streitig",
+            "end": 1589,
+            "start": 1581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PVN",
+            "end": 1710,
+            "start": 1707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 1746,
+            "start": 1741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1749,
+            "start": 1748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 1928,
+            "start": 1925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beitragsrückständen",
+            "end": 2217,
+            "start": 2198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 2280,
+            "start": 2277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2283,
+            "start": 2282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 2506,
+            "start": 2499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuzahlen",
+            "end": 2698,
+            "start": 2687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2701,
+            "start": 2700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 2770,
+            "start": 2760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgerechnet",
+            "end": 2950,
+            "start": 2938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 3038,
+            "start": 3029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3224,
+            "start": 3218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 3278,
+            "start": 3271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3281,
+            "start": 3280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3492,
+            "start": 3489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingereicht",
+            "end": 3630,
+            "start": 3619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3633,
+            "start": 3632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 3787,
+            "start": 3776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 3926,
+            "start": 3921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mehr",
+            "end": 3981,
+            "start": 3977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3984,
+            "start": 3983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4168,
+            "start": 4164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4255,
+            "start": 4249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4294,
+            "start": 4291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4297,
+            "start": 4296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4573,
+            "start": 4567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4767,
+            "start": 4763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4834,
+            "start": 4828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 4879,
+            "start": 4874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4964,
+            "start": 4960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4967,
+            "start": 4966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5039,
+            "start": 5033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5043,
+            "start": 5041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersandt",
+            "end": 5259,
+            "start": 5250,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5368,
+            "start": 5367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 5433,
+            "start": 5430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5663,
+            "start": 5659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5667,
+            "start": 5665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5879,
+            "start": 5873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5934,
+            "start": 5928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6043,
+            "start": 6037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 6145,
+            "start": 6138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 6220,
+            "start": 6211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6338,
+            "start": 6332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6342,
+            "start": 6340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbar",
+            "end": 6542,
+            "start": 6533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Westfalen",
+            "end": 6685,
+            "start": 6676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 6768,
+            "start": 6760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6772,
+            "start": 6770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 6931,
+            "start": 6920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7028,
+            "start": 7022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7032,
+            "start": 7030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 7109,
+            "start": 7100,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7213,
+            "start": 7212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 7255,
+            "start": 7250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 7336,
+            "start": 7331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7340,
+            "start": 7338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprächen",
+            "end": 7702,
+            "start": 7691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7706,
+            "start": 7704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 7888,
+            "start": 7879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "r",
+            "end": 7882,
+            "start": 7881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 7973,
+            "start": 7970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgezahlt",
+            "end": 8024,
+            "start": 8014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8028,
+            "start": 8026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mehr",
+            "end": 8260,
+            "start": 8256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwerbsminderung",
+            "end": 8435,
+            "start": 8419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 8497,
+            "start": 8488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 8501,
+            "start": 8499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 8599,
+            "start": 8596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergeben",
+            "end": 8774,
+            "start": 8765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 8877,
+            "start": 8871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 8927,
+            "start": 8918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8931,
+            "start": 8929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuzahlen",
+            "end": 9155,
+            "start": 9144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 9159,
+            "start": 9157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 9211,
+            "start": 9197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 9215,
+            "start": 9213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 9396,
+            "start": 9387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 9417,
+            "start": 9398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9420,
+            "start": 9418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 9446,
+            "start": 9438,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9603,
+            "start": 9602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 9607,
+            "start": 9605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 9717,
+            "start": 9714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagte",
+            "end": 9810,
+            "start": 9802,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9939,
+            "start": 9938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streitgegenständlich",
+            "end": 10098,
+            "start": 10078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10102,
+            "start": 10100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 10142,
+            "start": 10133,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10246,
+            "start": 10245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 10288,
+            "start": 10277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 10292,
+            "start": 10290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 10473,
+            "start": 10464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegeversicherung",
+            "end": 10579,
+            "start": 10561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 10646,
+            "start": 10642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufrechnung",
+            "end": 10799,
+            "start": 10788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgerechnet",
+            "end": 10869,
+            "start": 10857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verrechnet",
+            "end": 10973,
+            "start": 10963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verrechnet",
+            "end": 11228,
+            "start": 11218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 11496,
+            "start": 11490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 11642,
+            "start": 11632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 11646,
+            "start": 11644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechnen",
+            "end": 11777,
+            "start": 11767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 11781,
+            "start": 11779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruft",
+            "end": 11880,
+            "start": 11874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12010,
+            "start": 12007,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12139,
+            "start": 12138,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12247,
+            "start": 12246,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12440,
+            "start": 12439,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12555,
+            "start": 12554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 12559,
+            "start": 12557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 12694,
+            "start": 12693,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12995,
+            "start": 12994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 13091,
+            "start": 13085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 13095,
+            "start": 13093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungsverhältnis",
+            "end": 13202,
+            "start": 13179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13499,
+            "start": 13493,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14033,
+            "start": 14032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 14065,
+            "start": 14063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 14069,
+            "start": 14067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 14147,
+            "start": 14140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufrechnungsverbot",
+            "end": 14213,
+            "start": 14195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 14298,
+            "start": 14289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 14302,
+            "start": 14300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 14478,
+            "start": 14469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VVG",
+            "end": 14741,
+            "start": 14738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherer",
+            "end": 14888,
+            "start": 14877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 14892,
+            "start": 14890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 15040,
+            "start": 15037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 15175,
+            "start": 15172,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15279,
+            "start": 15278,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15359,
+            "start": 15358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 15363,
+            "start": 15361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15588,
+            "start": 15582,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15834,
+            "start": 15833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemeint",
+            "end": 15888,
+            "start": 15881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16063,
+            "start": 16060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 16175,
+            "start": 16172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 16179,
+            "start": 16177,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16358,
+            "start": 16357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungsverhältnis",
+            "end": 16459,
+            "start": 16436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 16463,
+            "start": 16461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausnahmen",
+            "end": 16615,
+            "start": 16606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgelaufen",
+            "end": 16710,
+            "start": 16699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verrechnen",
+            "end": 16873,
+            "start": 16863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 16877,
+            "start": 16875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 16927,
+            "start": 16919,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17137,
+            "start": 17136,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17444,
+            "start": 17443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 17448,
+            "start": 17446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17724,
+            "start": 17720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 18022,
+            "start": 18015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 18219,
+            "start": 18211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hergestellt",
+            "end": 18365,
+            "start": 18354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18510,
+            "start": 18507,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18573,
+            "start": 18572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 18577,
+            "start": 18575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18725,
+            "start": 18722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 18906,
+            "start": 18902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "errechnete",
+            "end": 19268,
+            "start": 19258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweisen",
+            "end": 19360,
+            "start": 19351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 19606,
+            "start": 19601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 19669,
+            "start": 19661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 19758,
+            "start": 19752,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19998,
+            "start": 19997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 20002,
+            "start": 20000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beitragszahlungen",
+            "end": 20178,
+            "start": 20161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufrechnungszulässigkeit",
+            "end": 20337,
+            "start": 20313,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20447,
+            "start": 20446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Krankenbehandlung",
+            "end": 20595,
+            "start": 20578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 20599,
+            "start": 20597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 20771,
+            "start": 20763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beitragsrückstandes",
+            "end": 21257,
+            "start": 21238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eintritt",
+            "end": 21592,
+            "start": 21584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 21730,
+            "start": 21722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 22011,
+            "start": 22006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 22015,
+            "start": 22013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 22231,
+            "start": 22226,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22399,
+            "start": 22398,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22643,
+            "start": 22642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 22832,
+            "start": 22829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 22894,
+            "start": 22880,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23215,
+            "start": 23214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 23219,
+            "start": 23217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 23257,
+            "start": 23243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 23261,
+            "start": 23259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 23305,
+            "start": 23302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 23379,
+            "start": 23376,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LSG München, Urteil v. 28.03.2019 – L 4 P 67/17\nTitel:\nPrivate Pflegeversicherung - Aufrechnung gegen Pflegegeldanspruch mit\nBeitragsrückständen\nNormenketten:\nBGB § 394 S. 2\nSGB I § 51\nSGB I § 54 III Nr. 3\nSGB XI § 110\nVVG § 193 Abs. 6 S. 5\nZPO § 850 b\nZPO § 850 k\nLeitsätze:\n1. Pflegegeld unterliegt grundsätzlich dem Pfändungsschutz. Dies gilt auch für Pflegegeldleistungen\naus einem privaten Versicherungsverhältnis.\n2. Die Aufrechnung durch den Versicherer richtet sich bei der privaten Pflegeversicherung nach den\nVorschriften des Bürgerlichen Gesetzbuchs, ergänzt vor allem durch Regelungen des\nVersicherungsvertragsgesetzes. § 51 SGB I findet keine Anwendung.\n3. Private Krankenkassen können gegen Pflegegeldansprüche geschuldete Beiträge bzw.\nBeitragsrückstände aufrechnen, sofern keine Hilfebedürftigkeit im Sinne des Zweiten oder Zwölften\nBuchs Sozialgesetzbuch vorliegt oder eintritt.\n4. Ein Aufrechnungsverbot ergibt sich nicht aus der Einrichtung eines Pfändungsschutzkontos.\nSchlagworte:\nAufrechnungsverbot, Beiträge, Hilfebedürftigkeit, Pfändbarkeit, Pflegegeld, Private Pflegeversicherung\nVorinstanz:\nSG Würzburg, Urteil vom 20.09.2017 – S 13 P 66/17\nFundstelle:\nBeckRS 2019, 9526\nTenor\nI. Die Berufung gegen das Urteil des Sozialgerichts Würzburg vom 20.09.2017 wird zurückgewiesen.\nII. Außergerichtliche Kosten sind nicht zu erstatten.\nIII. Die Revision wird nicht zugelassen.\nTatbestand\n1\nZwischen den Beteiligten ist die Rechtmäßigkeit einer Aufrechnung durch die Beklagte und\nBerufungsbeklagte mit dem monatlichen Pflegegeld der Klägerin und Berufungsklägerin streitig. Es besteht\neine private Pflegepflichtversicherung unter der Versicherungsnummer …-A mit dem Tarif PV mit Tarifstufe\nPVN. Ein Beihilfeanspruch besteht nicht.\n2\nAusweislich eines Medicproof-Gutachtens vom 13.02.2017 liegen bei der Klägerin seit 01.01.2017 die\nVoraussetzungen zur Gewährung von Leistungen entsprechend dem Pflegegrad II vor. Daraufhin teilte die\nBeklagte in einem Schreiben vom 18.04.2017 der Klägerin mit, dass ihr aufgrund des Medicproof-\nGutachtens ein monatliches Pflegegeld in Höhe von 316,00 EUR zustehe, dass aber auch gleichzeitig\ndieses Pflegegeld verrechnet werde mit entsprechenden Beitragsrückständen. Diese beliefen sich zum\n30.06.2017 auf insgesamt 1.676,67 EUR.\n3\nNachdem die Klägerin mehrfach versucht hatte, die Beklagte zur Auszahlung des ent-sprechenden\nmonatlichen Pflegegeldes zu bewegen, hat die Klägerin mit Schreiben vom 10.05.2017 Klage zum\nSozialgericht Würzburg (SG) erhoben. Zuletzt hat sie in der mündlichen Verhandlung am 20.09.2017 den\nAntrag gestellt, die Beklagte zu verpflichten, ihr ab 01.01.2017 ein monatliches Pflegegeld in Höhe von\n316,00 EUR auszuzahlen.\n4\nDas Sozialgericht hat die Klage mit Urteil vom 20.09.2017 abgewiesen. Die Beklagte habe zu Recht gemäß\n§ 394 S. 2 Bürgerliches Gesetzbuch (BGB) gegenüber dem Anspruch der Klägerin auf Pflegegeld mit dem\nAnspruch aus Beitragsrückständen aufgerechnet. Unstreitig hätten zum 30.06.2017 Beitragsrückstände in\nHöhe von 1.676,67 EUR bestanden. Ausweislich des § 394 Satz 2 BGB könnten gegen die aus Hilfskassen,\nworunter die Pflegekasse falle, zu beziehenden Hebungen die entsprechenden geschuldeten Beiträge\naufgerechnet werden. Exakt diese Fallkonstellation sei vorliegend gegeben.\n5\nGegen das am 29.09.2017 zugestellte Urteil hat die Klägerin am 25.10.2017 Berufung zum Bayer.\nLandessozialgericht (LSG) eingelegt, mit der sie ihren Antrag aus dem erstinstanzlichen Verfahren\nweiterverfolgt hat. Sie hat umfangreiche Schreiben und Unterlagen zu ihren Lebensumständen, ihrem\nGesundheitszustand und ihrer finanziellen Lage eingereicht.\n6\nDer Senat hat auf eine Entscheidung des Landessozialgerichts (LSG) für das Land Nordrhein-Westfalen\nvom 25.01.2018 (Az.: L 5 P 81/16 - juris) hingewiesen. Die Beklagte hat hierzu mitgeteilt, dass die\nAuszahlung des Pflegegeldes jeden Monat mit dem aktuellen Beitragsrückstand verrechnet werde. Aktuell\nbestünden somit keine Beitragsrückstände mehr.\n7\nDie Stadt S. hat mit Schreiben vom 12.11.2018 mitgeteilt, dass die Klägerin bis einschließlich 31.07.2016\nLeistungen der Grundsicherung im Alter und bei Erwerbsminderung erhalten habe. Die Leistungen seien\nzum 31.07.2016 wegen ausreichenden Einkommens eingestellt worden. Ein Neuantrag liege aktuell nicht\nvor.\n8\nIn der mündlichen Verhandlung vom 22.11.2018 hat der Senat im Hinblick auf § 193 Abs. 6 S. 5\nVersicherungsvertragsgesetz (VVG) zu bedenken gegeben, dass Leistungen nach dem Zwölften Buch\nSozialgesetzbuch (SGB XII) gemäß Auskunft der Stadt S. nur bis 31.07.2016 bezogen wurden. Mit\nBeschluss ist der Beklagten aufgegeben worden, für die Zeit ab 01.01.2017, getrennt nach Kranken- und\nPflegeversicherung, monatlich anzugeben,\na) welche Beitragsforderungen entstanden sind,\nb) welche Zahlungen von der Klägerin tatsächlich geleistet wurden,\nc) mit welcher Forderung aufgerechnet wurde,\nd) ob bei der Aufrechnung auch Rückstände aus früheren Zeiten mit eingeflossen sind.\n9\nDer Rechtsstreit ist zur weiteren Sachverhaltsaufklärung vertagt worden.\n10\nDie Beklagte hat mit Schreiben vom 22.01.2019 die Saldenentwicklung bei der Krankenversicherung von\nJuni 2008 bis Dezember 2018 (Saldo am Monatsende zuletzt: 37.679,32 EUR) sowie bei der\nPflegeversicherung übersandt. Bei letzterer erfolgte demnach ab April 2017 eine Leistungsverrechnung\n(Saldo Ende März 2017: 3.243,23 EUR); seit Ende Februar 2018 beträgt das Saldo am Monatsende 0,00\nEUR. Die Beklagte hat hierzu darauf hingewiesen, dass sie die Bereiche Kranken- und\nPflegepflichtversicherung stets streng voneinander getrennt behandelt habe und die Beiträge\ndementsprechend auch getrennt gebucht und verrechnet habe.\n11\nIm Bereich der Pflegeversicherung sei im Zeitraum November 2014 bis März 2017 (Zahlungsart „Zahlung\nvon Sirius Inkasso“) ein externes Inkassounternehmen mit der Beitreibung der offenen Beiträge beauftragt\nworden. Eine Verrechnung sei ab April 2017 vorgenommen worden. Dabei sei das monatliche Pflegegeld in\nHöhe von 316.- EUR mit den rückständigen Beiträgen verrechnet worden. Rückwirkend sei nur die erste\nLeistungsverrechnung im April 2017 für drei Monate (948.- EUR) erfolgt. Die Klägerin selbst habe am\n04.10.2017 den Betrag von 75,00 EUR geleistet. Ab März 2018 sei der aktuelle Monatsbeitrag mit der\naktuellen Versicherungsleistung (monatsgleich) verrechnet worden.\n12\nDie Entscheidung des LSG für das Land Nordrhein-Westfalen (a.a.O.) sei auf den vorliegenden Fall nicht\nanwendbar und auch mit der aktuellen Rechtsprechung des Bundesgerichtshofs (BGH) nicht vereinbar.\nVorliegend sei nämlich die Klägerin bereits nicht hilfebedürftig wie der Versicherungsnehmer im Fall des\nLSG für das Land Nordrhein-Westfalen. Sie habe Leistungen der Grundsicherung nur bis einschließlich\n31.07.2016 erhalten.\n13\nIm Übrigen hat die Beklagte auf das Urteil des Bundesgerichtshofs (BGH) vom 05.12.2018 (Az.: IV ZR\n81/18 - juris, ergangen zum sog. Notlagentarif) hingewiesen. Sogar im Notlagentarif sei eine Verrechnung\nmit Beitragsrückständen für zulässig erklärt worden.\n14\nDie Klägerin hat auf einen Pfändungsschutz in Höhe von 1.076.- EUR verwiesen. Ihr Netto-Einkommen\nbetrage 1.056,31 EUR (Rentenbetrag gem. Bescheid der DRV Rheinland vom 18.01.2019). Eine billigere\nWohnung bekomme sie nicht. Sie hat die Ansicht vertreten, dass das Pflegegeld nicht gepfändet werden\ndürfe.\n15\nDie Beklagte hat die Versicherungsunterlagen vorgelegt und mit Schriftsatz vom 13.03.2019 ferner\nmitgeteilt, dass die hier einschlägigen Allgemeinen Vertragsbedingungen der privaten\nPflegepflichtversicherung (AVB, Stand 04.2017), die den MB/PPV 2017 und dem Tarif PV entsprechen, den\nMusterbedingungen des PKV-Verbandes zur Pflegepflichtversicherung entsprächen.\n16\nDie Klägerin hat zuletzt mit Schriftsatz, eingegangen am 21.03.2019, u.a. eine Bescheinigung nach § 850 k\nAbs. 5 ZPO der K. S. GmbH vom 15.03.2019 zum Pfändungsschutzkonto vorgelegt. Danach beträgt der\npfandfreie monatliche Sockelbetrag bei der Klägerin 1.323,36 EUR. Pflegegeld wird in Höhe von 189,56\nEUR ausgezahlt.\n17\nBeigezogen wurde die Sozialhilfeakte der Stadt S.. Mit Bescheid vom 19.07.2016 gewährte die Stadt S. der\nKlägerin mit Ablauf des 31.07.2016 keine Grundsicherung im Alter und bei Erwerbsminderung nach dem 4.\nKapitel des SGB XII mehr. Unter Berücksichtigung der Rente ab 01.08.2016 in Höhe von 1.077,51 EUR\nerrechne sich ab diesem Datum kein Anspruch mehr auf Grundsicherung im Alter und bei\nErwerbsminderung. Auf den beiliegenden Berechnungsbogen 8/2016 wurde verwiesen.\n18\nGemäß der Beitragsanpassung zum 01.01.2019 beträgt der Monatsbeitrag für den PVN-Tarif 126,44 EUR.\nDie Beklagte hat in der mündlichen Verhandlung vom 28.03.2019, bei der die Klägerin nicht anwesend war,\neine aktuelle Saldenmitteilung bis einschließlich März 2019 übergeben. Nach dem 30.06.2016 bis heute\nseien auch keine Beiträge über einen Sozialhilfeträger geleistet worden. Auf die Niederschrift der Sitzung\nwird verwiesen.\n19\nDie Klägerin beantragt sinngemäß,\ndas Urteil des Sozialgerichts Würzburg vom 20. September 2017 aufzuheben und die Beklagte zu\nverurteilen, ihr ab 1. Januar 2017 ein monatliches Pflegegeld in Höhe von 316,00 EUR auszuzahlen.\n20\nDie Beklagte beantragt,\ndie Berufung zurückzuweisen.\n21\nWegen der weiteren Einzelheiten des Sachverhalts wird auf die Gerichtsakten beider Rechtszüge, die\nSozialhilfeakte der Stadt S. und auf die beigezogene Akte der Beklagten verwiesen.\nEntscheidungsgründe\n22\nDie Berufung ist zulässig; insbesondere ist sie ohne Zulassung statthaft (§ 144 Abs. 1 Satz 1 Nr. 1\nSozialgerichtsgesetz - SGG) und wurde form- und fristgerecht eingelegt (§ 151 SGG).\n23\nStreitgegenständlich ist nur die Auszahlung des Pflegegeldes seit 01.01.2017 in Höhe von monatlich 316,00\nEUR. Die Klägerin wendet sich insoweit gegen die Verrechnung bzw. Aufrechnung durch die Beklagte. Der\nRechtsstreit bezieht sich auf das Versicherungsverhältnis, das den Bereich der Pflegeversicherung betrifft\n(Tarifstufe PVN). Die Beitragsrückstände, die die Krankenversicherung betreffen, sind von der Beklagten\nam ordentlichen Gericht anhängig gemacht und nicht streitgegenständlich.\n24\nDie Berufung ist jedoch nicht begründet. Der Senat schließt sich hierbei den zutreffenden Ausführungen des\nSozialgerichts an (§ 153 Abs. 2 SGG). Ergänzend wird auf Folgendes hingewiesen:\n25\nDie Beklagte trennte hinsichtlich der Beitragsrückstände zwischen den Beiträgen, die sich auf die\nKrankenversicherung beziehen, und denjenigen, die die Pflegeversicherung betreffen. Die Aufrechnung\ngegen das unstreitige Pflegegeld in Höhe von 316.- EUR betraf nur die Pflegeversicherung. Streitig ist dabei\ndie Zeit der Pflegegeldgewährung ab 01.01.2017. Ausweislich der Übersichten der Beklagten erfolgte in der\nZeit vom Januar 2017 bis einschließlich März 2017 keine Leistungsverrechnung bzw. Aufrechnung. Gegen\ndas streitige Pflegegeld wurde erst ab April 2017 aufgerechnet. Dabei wurde das monatliche Pflegegeld in\nHöhe von 316.- EUR mit den rückständigen Beiträgen verrechnet. Diese erste Leistungsverrechnung im\nApril 2017 erfolgte mit der Nachzahlung des Pflegegeldes für die ersten drei Monaten (somit 948.- EUR).\nSeit März 2018 wurde der aktuelle Monatsbeitrag mit der aktuellen Versicherungsleistung (monatsgleich)\nverrechnet. Hieraus ergibt sich eine Auszahlung von Pflegegeld in Höhe des Restbetrages, d.h. seit\n01.01.2019 werden 189,56 EUR an die Klägerin gezahlt, wie sich auch aus der von der Klägerin\nvorgelegten Bescheinigung des K. S. GmbH nach § 850 k Abs. 5 ZPO vom 15.03.2019 ergibt. In der Höhe\nder Auszahlung des Restbetrags - nach Abzug der Beitragshöhe seit März 2018 - ist die Klage mangels\nRechtsschutzbedürfnis unzulässig.\n26\nIm Übrigen durfte die Beklagte jedoch die Beiträge und Beitragsrückstände wie erfolgt gegen den Anspruch\nauf Pflegegeld aufrechnen.\n27\nZwar unterliegt das Pflegegeld grundsätzlich dem Pfändungsschutz, auf den sich die Klägerin beruft. Soweit\neine Forderung der Pfändung nicht unterworfen ist, findet die Aufrechnung gegen die Forderung nicht statt,\n§ 394 S. 1 BGB. Unpfändbar sind zum einen Ansprüche auf Dienst- und Sachleistungen (vgl. § 54 Abs. 1\ndes Ersten Buchs Sozialgesetzbuch - SGB I); hierzu zählen auch Surrogate von derartigen Ansprüchen\n(vgl. hierzu: KassKomm-Siefert, § 54 SGB I, Rn. 17). Zum andern sind unpfändbar Ansprüche auf\nGeldleistungen, die dafür bestimmt sind, den durch einen Körper- oder Gesundheitsschaden bedingten\nMehraufwand auszugleichen (§ 54 Abs. 3 Nr. 3 SGB I). § 394 BGB erfasst insoweit auch die Regelung des\n§ 54 SGB I (Palandt-Grüneberg, BGB, 78. Aufl. 2019, § 394 Rn. 3).\n28\nNach ganz herrschender Kommentarliteratur unterliegt das Pflegegeld nach § 37 SGB XI dem\nPfändungsschutz gemäß § 54 Abs. 3 Nr. 3 SGB I; das Pflegegeld dient der Deckung eines\nkrankheitsbedingten Mehraufwands (Häusler, in: Hauck/Noftz, SGB I, I § 54 Rn. 53; JurisPKSGB I, § 54 Rn.\n72; Bigge, in: Eichenhofer/von Koppenfels-Spies, Kommentar zum SGB I, 2. Aufl. 2018, § 54 Rn. 43;\nThomas/Putzo-Seiler, ZPO, 39. Aufl. 2018, § 829 Rn. 16 c). Z.T. wird vertreten, dass sich der\nPfändungsschutz als Surrogat gemäß § 54 Abs. 1 SGB I ergibt.\n29\nDies gilt nach Ansicht des Senats auch für Pflegegeldleistungen aus einem privaten\nVersicherungsverhältnis. Die Regelungen für die private Pflegeversicherung nach § 110 SGB XI wollen\nnämlich sicherstellen, dass die Belange der Personen, die nach § 23 SGB XI zum Abschluss eines\nPflegeversicherungsvertrages bei einem privaten Krankenversicherungsunternehmen verpflichtet sind,\nausreichend gewahrt werden. So vertritt z.B. auch das LSG Niedersachsen-Bremen (Urteil vom 12.02.2002,\nAz. L 3 P 19/00) die Ansicht, dass die Zweckbestimmung des Pflegegeldes, die Pflegebereitschaft einer\nnahestehenden Person oder eines Nachbarn zu erhalten, auch auf das aus der privaten Pflegeversicherung\nzu zahlende Pflegegeld zutrifft (dem folgend z.B.: SG Hamburg, Urt. v. 24.09.2012, Az.: S 23 P 134/10 -\njuris Rn. 28; zur grundsätzlichen Unpfändbarkeit nach § 850 b Abs. 1 Nr. 4 ZPO auch für das Pflegegeld:\nThomas/Putzo-Seiler, a.a.O., § 850 b Rn. 10). Dem schließt sich der Senat an.\n30\nDavon zu trennen ist jedoch die Frage, ob auch ein Aufrechnungsverbot besteht. Vorliegend besteht trotz\nPfändungsschutz kein Aufrechnungsverbot; zutreffend hat das Sozialgericht dies mit der Regelung des §\n394 S. 2 BGB begründet.\n31\nDa die Klägerin nicht gesetzlich, sondern privat pflegeversichert ist, sind diesbezügliche Regelungen des\nSGB I, insbesondere §§ 51 und 54 SGB I, nicht (unmittelbar) anwendbar. Hinsichtlich der Aufrechnung\nkommen vielmehr die allgemeinen Regelungen des BGB, hier insb. § 394 BGB, zum Zuge, ergänzt durch\ndie Allgemeinen Versicherungsbedingungen für die private Pflegepflichtversicherung (Bedingungsteil\nMB/PPV 2017) und Regelungen des VVG. Allerdings regeln die Allgemeinen Versicherungsbedingungen in\n§ 12 nur die Aufrechnung durch den Versicherungsnehmer, nicht durch den Versicherer.\n32\nWie oben dargelegt findet die Aufrechnung gegen die Forderung nicht statt, soweit eine Forderung nicht der\nPfändung unterworfen ist, § 394 S. 1 BGB. Ein Aufrechnungsausschluss für private Krankenversicherer\nergibt sich im Grundsatz aus § 394 S. 1 BGB i.V.m. § 850 b Abs. 1 Nr. 4 ZPO. Wie dargelegt stehen unter\nPfändungsschutz Unterstützungsbezüge (aus öffentlichen und privaten Kassen). Hierzu zählt auch das\nPflegegeld (Thomas/Putzo-Seiler, a.a.O., § 850 b Rn. 10).\n33\nAllerdings können nach § 394 S. 2 BGB gegen die aus Kranken-, Hilfs- oder Sterbekassen, insbesondere\naus Knappschaftskassen und Kassen der Knappschaftsvereine, zu beziehenden Hebungen geschuldete\nBeiträge aufgerechnet werden. Hieraus wird überwiegend geschlossen, dass der Versicherer berechtigt ist,\nausnahmsweise auch gegen eigentlich gemäß § 850 b Abs. 1 Nr. 4 ZPO unpfändbare Forderungen\naufzurechnen (BGH, Urt. v. 05.12.2018, Az.: IV ZR 81/18 - juris Rn. 15 m.w.N.). Mit „Hebungen“ sind\nVersicherungsforderungen gemeint. Der Begriff „Krankenkasse“ ist gemäß dem Sinn und Zweck der\nRegelung dahingehend auszulegen, dass bei der privaten Pflegeversicherung der Versicherer insgesamt\nbetroffen ist; damit unterliegen auch die Beiträge, die auf die Pflegeversicherung entfallen, der Ausnahme\ndes § 394 S. 2 BGB.\n34\nDabei ist zu beachten, dass die vergleichbare Regelung des § 51 Abs. 2 SGB I eine spezielle Regelung\nhierzu darstellt (Staudinger, Kommentar zum BGB, Neuaufl. 2016, § 394 Rn. 68). Jedoch greift das SGB I,\nwie dargelegt, nicht für das hier gegebene private Versicherungsverhältnis.\n35\nDie Klägerin ist seit Jahren mit der Beitragszahlung für die private Pflegeversicherung in Rückstand bzw.\nzahlt keine Beiträge - mit geringen Ausnahmen. Es waren daher zuletzt zum 31.03.2017 Beitragsrückstände\nin Höhe von 3.243,23 EUR aufgelaufen. Gemäß § 394 S. 2 BGB konnte die Beklagte daher gegen die seit\n01.01.2017 geschuldete Pflegegeldleistung aufrechnen und diese mit der Beitragsforderung verrechnen.\n36\nDem stehen auch nicht Regelungen des VVG entgegen. Ein grundsätzlicher Ausschluss des § 394 S. 2\nBGB findet sich dort nicht (so offensichtlich auch LSG für das Land Nordrhein-Westfalen in dem bereits\nangesprochenen Urteil vom 25.01.2018 (a.a.O., juris Rn. 23). Vielmehr sind bei der Anwendung der §§ 387\nff BGB lediglich weiter die Regelungen des Versicherungsvertragsgesetzes zu prüfen - hier insbesondere §\n193 Abs. 6 S. 5 VVG (s.a. LSG für das Land Nordrhein-Westfalen, a.a.O., juris - Rn. 24 ff; zur\nAnwendbarkeit auch für die private Pflegeversicherung: Rn. 25).\n37\n§ 193 Abs. 6 S. 5 VVG bestimmt, dass im Falle des Verzugs mit der Prämienzahlung das Ruhen des\nVertrags nicht eintritt oder endet, wenn der Versicherungsnehmer oder die versicherte Person hilfebedürftig\nim Sinne des Zweiten oder Zwölften Buches Sozialgesetzbuch ist oder wird. Das LSG für das Land\nNordrhein-Westfalen hat nach Sinn und Zweck dieser Vorschrift ein Aufrechnungsverbot jedenfalls dann\nangenommen, wenn - wie hier - ein Beitragsrückstand für den Zeitraum, in dem die Leistungsansprüche\nentstanden sind (gegen die der Versicherer aufrechnen will), nicht besteht. Nach Darlegung des LSG\nwürden die Regelungen des § 193 Abs. 6 S. 5 VVG und des § 110 Abs. 4 SGB XI umgangen bzw. blieben\nohne praktische Bedeutung, würde man ein Aufrechnungsverbot nicht annehmen. Dadurch wird wenigstens\nteilweise eine Deckungsgleichheit mit der gesetzlichen Pflegeversicherung, bei der § 51 Abs. 2 SGB I greift,\nhergestellt. Deshalb sei in dem dort zu entscheidenden Fall die Aufrechnung ausgeschlossen gewesen,\n„weil der Kläger hilfebedürftig im Sinne des SGB XII ist.“ (LSG für das Land Nordrhein-Westfalen, a.a.O.,\njuris Rn. 27).\n38\nVorliegend erübrigen sich weitere Ausführungen hierzu, da eine Hilfebedürftigkeit der Klägerin im Sinne des\n§ 193 Abs. 6 S. 5 VVG nicht gegeben ist. Die Klägerin bezog nach Angaben der Stadt S. Leistungen der\nGrundsicherung im Alter und bei Erwerbsminderung aufgrund ihrer Vermögensverhältnisse nur bis\neinschließlich 31.07.2016. Mit Bescheid vom 19.07.2016 gewährte die Stadt S. der Klägerin mit Ablauf des\n31.07.2016 keine Grundsicherung im Alter und bei Erwerbsminderung nach dem 4. Kapitel des SGB XII\nmehr, da sich unter Berücksichtigung der Rente ab 01.08.2016 in Höhe von 1.077,51 EUR ab diesem\nDatum kein Anspruch mehr auf Grundsicherung im Alter und bei Erwerbsminderung errechnete. Insoweit ist\nauch auf den hierzu vorgelegten Berechnungsbogen zum August 2016 zu verweisen. Es ist auch nicht\nersichtlich bzw. vorgetragen, dass die Klägerin hilfebedürftig im Sinne des Zweiten oder Zwölften Buches\nSozialgesetzbuch wurde (§ 193 Abs. 6 S. 5 VVG), ohne tatsächlich entsprechende Leistungen bezogen\nbzw. beantragt zu haben. Ein Neuantrag wurde zumindest bis Oktober 2018 nicht gestellt. Der Bezug der\nRente aus der Deutschen Rentenversicherung lief ohne Unterbrechung weiter. Bei der Bedarfsberechnung\nist hinsichtlich des Unterkunftsbedarfs zu berücksichtigen, dass dem Sohn der Klägerin der hälftige\nMietanteil zuzuordnen ist (Kopfteilprinzip; vgl. etwa Nguyen, in: jurisPK-SGB XII, Stand 2/2018, § 35 Rn. 57\nff).\n39\nSoweit die Beklagte auf das Urteil des BGH vom 05.12.2018 (Az.: IV ZR 81/18 - juris) verweist, stützt dies\ndie Zulässigkeit der Aufrechnung mit rückständigen Beitragszahlungen. Der BGH entschied die bis dahin\nstreitige Frage, ob auch eine Aufrechnung im Rahmen eines Notlagentarifs zulässig ist, zugunsten der\nAufrechnungszulässigkeit. Auch der BGH prüfte dabei u.a. die Zulässigkeit der Aufrechnung aus § 394 BGB\n(BGH, a.a.O., juris Rn. 15 ff). Aufgerechnet wurde dort allerdings nicht gegen Pflegegeldansprüche,\nsondern gegen einen Kostenerstattungsanspruch nach erfolgter Krankenbehandlung.\n40\nDafür, dass wie bei § 51 Abs. 2 SGB I nur gegen die Hälfte des Pflegegeldes hätte aufgerechnet werden\nkönnen, findet sich für die private Pflegeversicherung keine Regelung. Auch findet sich weder in § 394 S. 2\nBGB noch in § 193 Abs. 6 VVG noch in sonstigen Regelungen des VVG oder der Allgemeinen\nVertragsbedingungen eine Regelung, dass ein unmittelbarer zeitlicher Zusammenhang zwischen dem\nEntstehen der Beitragsforderung und dem Anspruch auf Auszahlung des Pflegegeldes bestehen müsste, so\ndass weder die Aufrechnung im April 2017 gegen die Nachzahlung von drei Monaten Pflegegeld zu\nbeanstanden ist noch der kontinuierliche Abbau des Beitragsrückstandes. Vielmehr ist gerade aus der\nAusnahmeregelung des § 394 S. 2 BGB abzuleiten, dass im Rahmen des gegenseitigen\nVertragsverhältnisses zwischen Versicherer und Versicherungsnehmer auch das Interesse des\nVersicherers auf Beitragszahlung angemessen zu berücksichtigen ist - sofern keine Hilfebedürftigkeit des\nVersicherungsnehmers eintritt. Letztlich wirkt dies auch einer Kündigung des Vertragsverhältnisses durch\nden Versicherer bei fortlaufenden Beitragsrückständen entgegen. Damit erscheinen auch die Belange des\nVersicherungsnehmers - der seiner Beitragspflicht im Rahmen des Versicherungsvertrages nicht\nnachkommt - ausreichend gewahrt, so dass sich auch aus § 110 Abs. 1 SGB XI eine Heranziehung\ninsbesondere des § 51 Abs. 2 SGB I nicht ableiten lässt.\n41\nSchließlich ergibt sich auch kein Aufrechnungsverbot aufgrund der Einrichtung eines\nPfändungsschutzkontos, das gemäß der Bescheinigung des K. S. GmbH vom 15.03.2019 für die Klägerin\noffensichtlich eingerichtet wurde. Dieses bietet zwar einen Pfändungsschutz mindestens in Höhe des\nGrundfreibetrags von derzeit 1.133,80 EUR (vgl. §§ 850 k Abs. 1 S. 1, 850 c Abs. 1 S. 1, Abs. 2 a ZPO). Im\nFalle der Klägerin beträgt der pfandfreie monatliche Sockelbetrag derzeit 1.323,36 EUR, da sich der\nSockelbetrag um die auf das Pfändungsschutzkonto überwiesenen Sozialgeldleistungen erhöht (vgl. auch\nThomas/Putzo, a.a.O., § 850 k, Rn. 16). Geschützt sind in diesem Rahmen nur die tatsächlich auf das\nPfändungsschutzkonto eingegangenen Sozialgeldleistungen wie hier der Restbetrag des Pflegegeldes in\nHöhe von derzeit 189,56 EUR. Eine vorherige Aufrechnung wird dadurch nicht ausgeschlossen. Als\nRechtsbehelfe des Kontoinhabers greifen deshalb allein die allgemeinen Regeln der ZPO gegen\nVollstreckungsversuche, insb. §§ 704 ff ZPO. § 850 k ZPO enthält keine vorrangige Sonderbestimmung\nüber Rechtsbehelfe (Baumbach/Lauterbach/Albers/Hartmann, Kommentar zur Zivilprozessordnung, 76.\nAufl. 2018, § 850 k, Rn 110).\n42\nDie Berufung war somit zurückzuweisen.\n43\nDie Kostenentscheidung beruht auf § 193 SGG.\n44\nGründe zur Zulassung der Revision (§ 160 Abs. 2 SGG) liegen nicht vor.\n\n"
+}

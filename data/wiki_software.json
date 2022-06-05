@@ -1,0 +1,1391 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Software",
+            "end": 8,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 222,
+            "start": 217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 371,
+            "start": 362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Manuskript",
+            "end": 495,
+            "start": 485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 772,
+            "start": 768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "um",
+            "end": 600,
+            "start": 598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "arbeiten",
+            "end": 868,
+            "start": 860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fernsehgeräten",
+            "end": 1079,
+            "start": 1065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhaltsverzeichnis",
+            "end": 1100,
+            "start": 1082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Definition",
+            "end": 1112,
+            "start": 1102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "definiert",
+            "end": 1201,
+            "start": 1192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 1545,
+            "start": 1532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 1668,
+            "start": 1663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1418,
+            "start": 1414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Etymologie",
+            "end": 1994,
+            "start": 1984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 1979,
+            "start": 1978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Computers",
+            "end": 2267,
+            "start": 2258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 2192,
+            "start": 2187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2412,
+            "start": 2406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 2469,
+            "start": 2464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Definitionen",
+            "end": 2619,
+            "start": 2607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 2732,
+            "start": 2723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dokumentation",
+            "end": 2797,
+            "start": 2784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2931,
+            "start": 2927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3047,
+            "start": 3043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Programm",
+            "end": 3071,
+            "start": 3063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3333,
+            "start": 3327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dokumentation",
+            "end": 3375,
+            "start": 3362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 3747,
+            "start": 3740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schutzgegenstand",
+            "end": 3841,
+            "start": 3825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 3617,
+            "start": 3613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Maschinencode",
+            "end": 3219,
+            "start": 3206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 3895,
+            "start": 3890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 4046,
+            "start": 4045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datensätze",
+            "end": 4311,
+            "start": 4301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbeziehen",
+            "end": 4477,
+            "start": 4466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausschließen",
+            "end": 4613,
+            "start": 4601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4826,
+            "start": 4822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschichte",
+            "end": 4839,
+            "start": 4829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrgenommen",
+            "end": 4933,
+            "start": 4921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 5013,
+            "start": 5003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstmals",
+            "end": 5086,
+            "start": 5078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hardware",
+            "end": 5473,
+            "start": 5465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5272,
+            "start": 5268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelten",
+            "end": 5641,
+            "start": 5629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 5848,
+            "start": 5845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozessor",
+            "end": 6216,
+            "start": 6207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6022,
+            "start": 6017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SAP",
+            "end": 5711,
+            "start": 5708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schalttafeln",
+            "end": 6139,
+            "start": 6127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 6437,
+            "start": 6429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 6675,
+            "start": 6669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 6709,
+            "start": 6701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "immateriell",
+            "end": 6735,
+            "start": 6724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6834,
+            "start": 6831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6941,
+            "start": 6935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nur",
+            "end": 7008,
+            "start": 7005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendungsprogramm",
+            "end": 7311,
+            "start": 7293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7576,
+            "start": 7573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriff",
+            "end": 7189,
+            "start": 7182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutungen",
+            "end": 7618,
+            "start": 7607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datendefinitionen",
+            "end": 7841,
+            "start": 7824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7949,
+            "start": 7945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 8122,
+            "start": 8119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 8227,
+            "start": 8218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8472,
+            "start": 8469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artefakt",
+            "end": 8690,
+            "start": 8682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "INI",
+            "end": 8866,
+            "start": 8863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 8762,
+            "start": 8753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 9268,
+            "start": 9265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 9317,
+            "start": 9312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 9415,
+            "start": 9407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9608,
+            "start": 9602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zellformeln",
+            "end": 9901,
+            "start": 9890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "datei",
+            "end": 9742,
+            "start": 9737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 10035,
+            "start": 10031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Code",
+            "end": 10295,
+            "start": 10291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 10141,
+            "start": 10133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 10389,
+            "start": 10384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Architektur",
+            "end": 10699,
+            "start": 10688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 10745,
+            "start": 10737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemeint",
+            "end": 10874,
+            "start": 10867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Computerdesign",
+            "end": 10992,
+            "start": 10978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hardware",
+            "end": 11064,
+            "start": 11056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beabsichtigt",
+            "end": 11412,
+            "start": 11400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hardware",
+            "end": 11229,
+            "start": 11221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 11311,
+            "start": 11306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 11452,
+            "start": 11444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beispiel",
+            "end": 11544,
+            "start": 11536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Execution",
+            "end": 11589,
+            "start": 11580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 11600,
+            "start": 11592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Überblick",
+            "end": 11639,
+            "start": 11630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufgabenverteilung",
+            "end": 11713,
+            "start": 11695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeführt",
+            "end": 12162,
+            "start": 12152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschieht",
+            "end": 12252,
+            "start": 12243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugeführt",
+            "end": 12526,
+            "start": 12517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 12810,
+            "start": 12802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeführt",
+            "end": 12920,
+            "start": 12910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 13093,
+            "start": 13089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13362,
+            "start": 13359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13846,
+            "start": 13840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwaltet",
+            "end": 14080,
+            "start": 14071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Multitasking",
+            "end": 14105,
+            "start": 14093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bildschirm",
+            "end": 13631,
+            "start": 13621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 12634,
+            "start": 12630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "systematisiert",
+            "end": 14734,
+            "start": 14720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14416,
+            "start": 14412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14532,
+            "start": 14526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 14321,
+            "start": 14316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 14559,
+            "start": 14551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 14573,
+            "start": 14561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwaretechnik",
+            "end": 14590,
+            "start": 14575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorgang",
+            "end": 14646,
+            "start": 14639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 14907,
+            "start": 14896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 15060,
+            "start": 15052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erweitert",
+            "end": 14996,
+            "start": 14987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 15152,
+            "start": 15142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Code",
+            "end": 15423,
+            "start": 15419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systemprogrammen",
+            "end": 15631,
+            "start": 15615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 15512,
+            "start": 15504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 15288,
+            "start": 15279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwareentwicklung",
+            "end": 15545,
+            "start": 15526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 15789,
+            "start": 15784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfallen",
+            "end": 16006,
+            "start": 15998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwarealterung",
+            "end": 16106,
+            "start": 16090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16299,
+            "start": 16296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behoben",
+            "end": 16521,
+            "start": 16514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16381,
+            "start": 16378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bugs",
+            "end": 16591,
+            "start": 16587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 16896,
+            "start": 16890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Programmierstil",
+            "end": 16967,
+            "start": 16952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 16990,
+            "start": 16982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 17004,
+            "start": 16992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwarebeschaffung",
+            "end": 17025,
+            "start": 17006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 17188,
+            "start": 17175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 17422,
+            "start": 17412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sich",
+            "end": 17277,
+            "start": 17273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorausgehen",
+            "end": 17535,
+            "start": 17524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 17558,
+            "start": 17550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 17572,
+            "start": 17560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Management",
+            "end": 17595,
+            "start": 17585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "minimieren",
+            "end": 17986,
+            "start": 17976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Releasemanagement",
+            "end": 17838,
+            "start": 17821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitssoziologie",
+            "end": 18052,
+            "start": 18035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "programm",
+            "end": 18399,
+            "start": 18391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18248,
+            "start": 18242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 18785,
+            "start": 18782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verändern",
+            "end": 19143,
+            "start": 19134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wiederverwendung",
+            "end": 18970,
+            "start": 18954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lösungen",
+            "end": 19473,
+            "start": 19465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kopfarbeit",
+            "end": 19528,
+            "start": 19518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Taylorismus",
+            "end": 19587,
+            "start": 19576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 19618,
+            "start": 19610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systemsoftware",
+            "end": 19718,
+            "start": 19704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 19688,
+            "start": 19678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstprogramme",
+            "end": 19885,
+            "start": 19870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 20100,
+            "start": 20099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabellenkalkulation",
+            "end": 20290,
+            "start": 20271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Individualität",
+            "end": 20338,
+            "start": 20324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 20476,
+            "start": 20470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmens",
+            "end": 20738,
+            "start": 20726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschieden",
+            "end": 20843,
+            "start": 20830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachkauf",
+            "end": 20980,
+            "start": 20972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergebnisse",
+            "end": 21033,
+            "start": 21023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 21131,
+            "start": 21127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeliefert",
+            "end": 21260,
+            "start": 21248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anweisungen",
+            "end": 21319,
+            "start": 21308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwarebenutzer",
+            "end": 21409,
+            "start": 21393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einbettung",
+            "end": 21447,
+            "start": 21437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 21515,
+            "start": 21511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 21729,
+            "start": 21721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lizenz",
+            "end": 21768,
+            "start": 21762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adware",
+            "end": 21781,
+            "start": 21775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beerware",
+            "end": 21795,
+            "start": 21787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Postcardware",
+            "end": 21828,
+            "start": 21816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Careware",
+            "end": 21843,
+            "start": 21835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Crippleware",
+            "end": 21860,
+            "start": 21849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Donationware",
+            "end": 21878,
+            "start": 21866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freeware",
+            "end": 21892,
+            "start": 21884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nagware",
+            "end": 21905,
+            "start": 21898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Shareware",
+            "end": 21920,
+            "start": 21911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 21940,
+            "start": 21932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügbarkeit\r",
+            "end": 21984,
+            "start": 21970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22003,
+            "start": 21995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Source",
+            "end": 22020,
+            "start": 22014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22046,
+            "start": 22038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügbarkeit",
+            "end": 22077,
+            "start": 22064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abandonware",
+            "end": 22094,
+            "start": 22083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vaporware",
+            "end": 22109,
+            "start": 22100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwarebegriffe",
+            "end": 22135,
+            "start": 22119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22158,
+            "start": 22150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22224,
+            "start": 22216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lauffähig",
+            "end": 22203,
+            "start": 22194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kompiliert",
+            "end": 22301,
+            "start": 22291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entwicklungsziel",
+            "end": 22457,
+            "start": 22441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22503,
+            "start": 22495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angepriesen",
+            "end": 22591,
+            "start": 22580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zählt",
+            "end": 22658,
+            "start": 22653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Riskware",
+            "end": 22673,
+            "start": 22665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22751,
+            "start": 22743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Crapware",
+            "end": 22766,
+            "start": 22758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spyware",
+            "end": 22779,
+            "start": 22772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 22803,
+            "start": 22795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lizenzmodelle",
+            "end": 22818,
+            "start": 22805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urheberrecht",
+            "end": 22888,
+            "start": 22876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Überlassungsmodelle",
+            "end": 22957,
+            "start": 22938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkauf",
+            "end": 22967,
+            "start": 22960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Softwareentwicklungsunternehmens",
+            "end": 23221,
+            "start": 23189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzungsrecht",
+            "end": 23237,
+            "start": 23224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 23539,
+            "start": 23529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überlassen",
+            "end": 23370,
+            "start": 23360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 23635,
+            "start": 23631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Service",
+            "end": 23659,
+            "start": 23652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 23822,
+            "start": 23816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 23892,
+            "start": 23887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GPL",
+            "end": 23925,
+            "start": 23922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24016,
+            "start": 24010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 24267,
+            "start": 24260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GPL",
+            "end": 24197,
+            "start": 24194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mischstufen",
+            "end": 24378,
+            "start": 24367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lizenzmanagement",
+            "end": 24442,
+            "start": 24426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Source",
+            "end": 24474,
+            "start": 24468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 24488,
+            "start": 24476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Source",
+            "end": 24520,
+            "start": 24514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begreift",
+            "end": 24626,
+            "start": 24618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bietet",
+            "end": 24845,
+            "start": 24839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 25037,
+            "start": 25025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 25265,
+            "start": 25262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 25505,
+            "start": 25500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 25342,
+            "start": 25339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenarbeiten",
+            "end": 25752,
+            "start": 25736,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Software\r\nSoftware [ˈsɒf(t)wɛː] (dt. = weiche Ware [von] soft = leicht veränderbare Komponenten […], Komplement zu ‚Hardware‘ für die physischen Komponenten)[1] ist ein Sammelbegriff für Programme und die zugehörigen Daten.[2] Sie kann als Beiwerk zusätzlich Bestandteile wie z. B. die Softwaredokumentation in der digitalen oder gedruckten Form eines Handbuchs enthalten.[3]\r\nSoftware bestimmt, was ein softwaregesteuertes Gerät tut und wie es das tut (in etwa vergleichbar mit einem Manuskript).[4] Die Hardware (das Gerät selbst) führt Software aus (arbeitet sie ab) und setzt sie so in die Tat um. Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.[5]\r\nDurch das softwaregesteuerte Arbeitsprinzip kann eine starre Hardware individuell arbeiten. Es wird heute nicht nur in klassischen Computern angewendet, sondern auch in vielen eingebetteten Systemen, wie beispielsweise in Waschmaschinen, Mobiltelefonen, Navigationssystemen und modernen Fernsehgeräten.\r\nInhaltsverzeichnis\r\nDefinition\r\nDer Begriff Software ist bis heute nicht einheitlich und auch nicht eindeutig definiert. Das geht u. a. darauf zurück, dass „innerhalb der Softwaretechnik […] eine einheitliche solide, konsistente und systematische Begriffsbildung durch eine hohe Innovationsgeschwindigkeit und Praxisnähe behindert“ wird.[6]:22 Es existieren daher verschiedene Definitionen, die sich je nach Autor und Kontext oft auch nur in Details unterscheiden.\r\nDie Bezeichnung Software wird im allgemeinen Sprachgebrauch meist nur auf Programme bezogen, nicht aber auf andere Daten.[7] Daneben können aber auch der Quelltext, weitere Daten[2] oder die Dokumentation[3] je nach Definition hinzugezählt werden.\r\nAußerdem wird Software auch als Gattungsbegriff für unterschiedliche Arten von Programmen verwendet (Grafiksoftware, Anwendungssoftware, Standardsoftware, Sicherheitssoftware u. v. a.).\r\nEtymologie\r\nDer Ausdruck Software ist ein Kunstwort, das von John W. Tukey im Jahr 1958 im American Mathematical Monthly[8] als Gegenstück zu dem wesentlich älteren Wort Hardware das erste Mal verwendet wurde.[9] Dabei bezeichnet Hardware alle physischen Bestandteile eines Computers. In diesem Sinn könnten unter Software – als dem Gegenstück zur Hardware – grundsätzlich alle elektronisch gespeicherten Daten verstanden werden.[10] Als Definition genügt diese Sichtweise jedoch nicht.[9]\r\nDefinitionen nach ISO/IEC-Norm 24765\r\nDie aktuelle ISO/IEC-Norm 24765 ersetzte die DIN-Norm 44300 und enthält für Software folgende Definitionen:[11]\r\n    Software ist ein Programm oder eine Menge von Programmen, die dazu dienen, einen Computer zu betreiben.\r\n    Software sind Programme sowie die zugehörige Dokumentation.\r\n    Software sind Programme und ggf. die zugehörige Dokumentation und weitere Daten, die zum Betrieb eines Computers notwendig sind.\r\nWelche dieser Definitionen zutrifft, hängt vom jeweiligen Kontext ab, wobei auch hier die Übergänge fließend sind.\r\nSoftware als Programm\r\nIn der Softwaretechnik besteht Software aus „Computerprogrammen in jeder Erscheinungsform, vom Quelltext bis zum direkt ausführbaren Maschinencode“.[5] Computerprogramme bestehen oft aus mehreren Komponenten, die sich auch über mehrere Dateien verteilen können.\r\nSoftware als Programm und Dokumentation\r\nIm Softwarerecht (oft im Zusammenhang mit dem Softwareerwerb) wird Software auch als Softwareprodukt bezeichnet, das „als Beiwerk zusätzlich Bestandteile wie z. B. die Dokumentation in digitaler oder gedruckter Form enthalten kann oder muss“.[3] So auch im Urheberrecht, bei dem das Entwurfsmaterial zur Software gehört,[12] wie der Quelltext, auch Quellprogramm genannt.[13] D. h. der Urheberrechtsschutz gilt i. d. R. auch für den Quellcode [als Schutzgegenstand].[14]\r\nSoftware als Programm, Dokumentation und Daten\r\nEinige Definitionen nennen neben dem Programm selbst (und evtl. der Dokumentation) auch weitere Daten als zur Software gehörend („zugehörige Daten“[2]). Im Glossar des IEEE für Softwareentwickler werden Beispiele für derartige nicht-ausführbare Softwareteile genannt, wie Schriftarten, Grafiken, Audio- und Videoaufzeichnungen, Vorlagen, Wörterbücher, Dokumente und Informationsstrukturen (wie Datenbank-Datensätze).[15]\r\nWeiterhin gibt es Software-Definitionen, die sämtliche Daten umschließen, die das Computerprogramm nutzt und darüber hinaus auch die Dokumentation einbeziehen.[4] Demgegenüber gibt es auch Definitionen, die sowohl die Dokumentation, als auch die zur Verarbeitung vorgesehenen Daten ausschließen.[16]\r\nEine klare Trennlinie ist jedoch nicht näher definiert, die beschreibt, welche Daten konkret gemeint sind (z. B. die zu verarbeitenden Daten)[4] oder welche Daten ‚notwendig‘[17][9] oder ‚zugehörig‘[2] sind.\r\nGeschichte\r\nIn den 1950er Jahren waren Software und Hardware noch verbunden und als Einheit wahrgenommen. Die Software war dabei Teil der Hardware und wurde als Programmcode bezeichnet. 1958 prägte der Statistiker John W. Tukey den Begriff Software erstmals.[8]\r\nSpäter sorgte dann die Entscheidung der US-Regierung in den 1970er Jahren für eine Neuheit, dass IBM auf Rechnungen Software und Hardware getrennt zu berechnen und aufzuführen habe. Das entsprach einer Anerkennung der Einzelhaftigkeit von Software von offizieller Seite und einer endgültigen Aufspaltung von Hardware und Software bzw. einer Abgrenzung der Software von der Hardware.\r\nDieser Entwicklung folgte dann in den 1970er Jahren die Gründung von Firmen, die erstmals nur mit Software handelten und nur Software und keine Hardware entwickelten. Zu diesen Firmen gehörte in den USA Microsoft und in Deutschland SAP. Die Existenz solcher Firmen erscheint im 21. Jahrhundert als Selbstverständlichkeit, stellte damals jedoch eine erhebliche Neuerung dar.\r\nDer logische Übergang zwischen Hard- und Software lässt sich an den frühen Spielhallenspielen verdeutlichen, wie das Spiel Breakout, das im April 1976 veröffentlicht wurde. Damals bestand deren komplettes Programm (der Ablauf, die Logik) bildlich gesehen aus „vorverdrahteten Schalttafeln“.[18] Das von Atari produzierte Spielhallengerät verwendete keinen Prozessor. Bereits ein Jahr später, als das Spiel für den Computer programmiert wurde, und man anfing bei prozessorgesteuerten Geräten zwischen den Begriffen ‚Hardware‘ und ‚Software‘ zu unterscheiden, gab es Breakout als Software.[18] Das Spiel bestand nicht mehr aus „vorverdrahteten Schalttafeln“, sondern aus Anweisungen für einen Prozessor inklusive der für die Abarbeitung notwendigen weiteren Informationen, die gemeinsam auf einem Datenträger hinterlegt wurden.\r\nBesondere Merkmale von Software\r\nSoftware ist immateriell\r\nSoftware ist immateriell und besteht aus den Sprachen und Notationen, in denen sie formuliert ist.[9]:37 Software kann zwar auf bestimmten Medien gespeichert, gedruckt, angezeigt oder transportiert werden. Diese sind aber nicht die Software, sondern sie enthalten sie nur.\r\nEs ist zwar vorstellbar, Bits sichtbar und greifbar auf einem Trägermedium zu hinterlegen, doch grundsätzlich ist ‚Software‘ ein abstrakter, von Trägermedien unabhängiger Begriff. Das trifft für den Gattungsbegriff ohnehin zu, aber auch für konkrete Ausprägungen wie ein bestimmtes Anwendungsprogramm.[19] Als Analogie dazu ist es für den Begriff ‚Oper‘ oder ‚Zauberflöte‘ nicht begriffsbestimmend, ob sie im Theater aufgeführt, über Radio/TV übertragen oder als CD verkauft oder gehört wird, ob sie im Opernführer beschrieben oder in der Partitur aufgezeichnet ist.\r\nIn Details unterschiedliche Bedeutungen\r\n    Im Zusammenhang mit der Ausführung auf einem Computer wird unter Software primär alles verstanden, was auf dem Rechner ausgeführt werden kann (das Programm im engeren Sinn, bestehend aus Befehlen und Datendefinitionen). Dazu kommen die mit den Programmen verbundenen Ressourcen, die zum Betrieb der Software erforderlich sind. Das sind, abhängig von den verwendeten Entwicklungswerkzeugen, zum Beispiel Konfigurationsdateien, Schriftart-Dateien, Lookup-Tabellen, Datenstrukturen für Datenbanken etc.\r\n    In engstem Sinn wäre unter ‚Software‘ nur von der Hardware ausführbarer Maschinencode zu verstehen. Jedoch fällt darunter auch alles, was durch beliebige ‚interpretierende Systeme‘, die Teil der Systemsoftware sind, ausgeführt werden kann, wie das bei Verwendung höherer Programmiersprachen und Entwicklungsumgebungen nahezu immer der Fall ist.[9]\r\n    So ist in der Softwareentwicklung (als zentraler Arbeitsgegenstand) und in der Qualitätssicherung (als bedeutender Prüfgegenstand; siehe Softwarequalität) auch der Quellcode ein wesentliches Software-Artefakt.\r\n    Sprachlich wird der Ausdruck ‚Software‘ unterschiedlich verwendet: Er steht für konkret benannte Komponenten (Programm XY, Unterprogramm ABC, Konfigurationsdatei XXX.INI). Er wird als Sammelbegriff für unterschiedliche Gesamtheiten/Mengen von Programmen benutzt,[2] zum Beispiel für eine aus vielen Einzelprogrammen bestehende Buchhaltungssoftware, für alle Anwendungen eines Unternehmens („unsere Unternehmenssoftware“), oder, wie bereits erwähnt, als Typ-/Gattungsbegriff für unterschiedliche Arten von Software (wie Grafiksoftware, Standardsoftware, Systemsoftware etc.).\r\nFließende Grenze zwischen Software und Daten\r\nZur Verarbeitung bestimmte Daten zählen im allgemeinen Sprachgebrauch nicht zum Begriff Software.[7] Jedoch ist die Grenze zwischen Software und Daten fließend, denn je nach Situation können Daten und Programme in unterschiedlichen Rollen auftreten und die Begriffe dabei vertauscht werden:\r\n    Auf der Datei­ebene können Mischformen auftreten, beispielsweise in Office-Dokumenten oder bei einer Tabellenkalkulations­datei. Hier enthält eine Datei sowohl Daten im Sinne von das Bearbeitete (Texte oder Zelleninhalte) als auch funktionale Anweisungen (Makro­anweisungen, Zellformeln).\r\n    Vertauscht sind die Rollen beispielsweise, wenn ein Quellprogramm von einem Compiler in ein Maschinenprogramm umgewandelt wird: Sowohl das Quellprogramm als auch das erzeugte Binärprogramm sind ‚Daten‘, der Compiler ist die Software. Ebenso verwendet ein Interpreter ein Quellprogramm oder ein Emulator ein Binärprogramm als Daten und erzeugt daraus speicherintern den ausführbaren Code. Die so verarbeiteten Programmdateien sind Software, rollenspezifisch aber gleichzeitig Daten.\r\nDieser Zusammenhang, dass ein Programm sowohl als Daten als auch als Funktion auftreten kann, ist zentral in verschiedenen Disziplinen der Informatik, darunter die theoretische Informatik (u. a. Rekursionstheorie, Automatentheorie, Domaintheorie) und die technische Informatik (z. B. Von-Neumann-Architektur).\r\nUnterscheidung zwischen Hard- und Software\r\nJe nach Zusammenhang ist bei der Unterscheidung zwischen Hard- und Software eine oder mehrere der folgenden Bedeutungen gemeint:\r\n    Leicht veränderbare Komponente (Software) vs. schwer veränderbare Komponente (Hardware) in einem Computerdesign.[1]\r\n    Instruktionskode (Software) vs. Universelle Maschine (Hardware).\r\n    Nicht-greifbar im Sinne von Funktionsbestandteilen eines Computersystems, die sich „nicht anfassen lassen“[20] (Software) vs. greifbare Komponenten (Hardware). Software ließe sich über eine Telefonleitung übertragen, Hardware dagegen nicht.\r\nDie Gegensätze sind in der englischsprachigen Begriffsprägung (soft=weich, hard=hart) beabsichtigt.\r\nVerschiedene Blickwinkel auf Software\r\nSoftware kann aus vielen unterschiedlichen Gesichtspunkten betrachtet werden, zum Beispiel:\r\nZusammenwirken mit der Hardware (Execution)\r\nSoftware: Typisierung, Zusammenhänge, Überblick\r\n    „Zwischen Hard- und Software besteht eine gewisse Aufgabenverteilung: Die Hardware garantiert […] Quantität, also Tempo und Speicherkapazität, die Software sorgt für […] die Abbildung der Anforderungen […] auf die strukturell primitive Hardware“[9]:38\r\nObwohl dem Begriff ‚Software‘ teilweise Attribute wie Flexibilität, Individualität, Leistungsfähigkeit etc. zugeschrieben werden, wird letztlich alles, was der Computer ‚tatsächlich tut‘, nicht von der Software, sondern ausschließlich durch die Hardware ausgeführt. Software ‚beschreibt‘ lediglich, was getan werden soll und in welcher Form das geschieht.\r\nDazu wird auf unterster Ebene der Maschinencode der Software unter Nutzung des Betriebssystems (d. h. ebenfalls durch dessen Maschinenbefehle) in den Hauptspeicher des Computers geladen und dem Rechenwerk Schritt für Schritt (siehe Befehlszähler) zur Ausführung zugeführt. Dieses Arbeitsprinzip gilt für jede Art von Software, auch wenn sie z. B. von Interpretern ausgeführt wird: Diese sind ebenfalls Software, deren Maschinencode an der Hardwareschnittstelle ebenfalls wie beschrieben ausgeführt wird und die Maschinenbefehle nur speicherintern erzeugen. Auch Compiler, Makroprozessoren und jede andere Art von Systemsoftware werden nach diesem Prinzip ausgeführt.\r\nDer Maschinencode muss dafür in einer Form/Struktur vorliegen, die von der Hardware über deren darin implementierte Schnittstelle interpretiert und ausgeführt werden kann.[21] Die Befehle zeigen durch ihren Inhalt und ihre Struktur an, was zu tun ist, welche Datenbereiche im Hauptspeicher dabei benutzt oder verändert werden sollen (über im Befehl enthaltene Adressierungsangaben) und ggf., an welcher Stelle das Programm fortzusetzen ist.\r\nBei der Ausführung wirken also viele Schichten zusammen und führen als Gesamtheit zu Zustandsänderungen in der Hardware bzw. final zu den vorgesehenen Ergebnissen, etwa der Ausgabe einer Druckzeile, einem Datenzugriff oder der Anzeige eines Feldinhalts am Bildschirm. Bei in höheren Programmiersprachen entwickelten Anwendungen können so schon für relativ einfache Funktionen (wie Lesen aus der Datenbank) oft Hunderttausende oder Millionen von Maschinenbefehlen durchlaufen werden.\r\nDas in modernen Computern mögliche parallele Ausführen mehrerer Programme/Prozesse wird im Wesentlichen durch das Betriebssystem bewirkt, das bei bestimmten Ereignissen den Wechsel von einer zur anderen Task einleitet und verwaltet. Siehe auch Multitasking.\r\nIm systematischen Zusammenwirken vieler Komponenten, das nur unter Anwendung klar definierter Schnittstellen möglich ist, „gehört Software also zu den komplexesten Artefakten, die Menschen bislang geschaffen haben“.[9]:37\r\nDie Software trägt zudem maßgeblich dazu bei, wie effizient die Hardware genutzt wird. Je nach Gestaltung der Algorithmen können mit derselben Hardware unterschiedliche Systemleistungen erreicht werden.\r\nEntwicklung von Software\r\nHauptartikel: Softwaretechnik\r\nDie Entwicklung von Software ist ein komplexer Vorgang. Dieser wird durch die Softwaretechnik, einem Teilgebiet der Informatik, systematisiert. Hier wird die Erstellung der Software schrittweise in einem Prozess von der Analyse über die Softwaremodellierung bis hin zum Testen als wiederholbarer Prozess beschrieben.\r\nIn aller Regel wird die Software nach der Entwicklung mehrfach angepasst und erweitert. Der Software-Lebenszyklus kann durchaus mehrere Jahre betragen.\r\n    Software wird unter Nutzung bestimmter Verfahren, Methoden und ‚Werkzeuge‘ entwickelt. Dabei werden unterschiedliche Entwicklungsstadien durchlaufen, in denen jeweils unterschiedliche Zwischenstände der Software entstehen: Analysetätigkeiten (zahlreiche Entwicklungsdokumente) > Programmierung (Quellcode) > im Betrieb (Maschinencode oder ausführbarer Code). Im engeren Sinn der Ausführung auf dem Computer gilt lediglich Letzteres als 'Software'. Siehe auch Softwareentwicklung.\r\n    In diesem Zusammenhang ist Software Bearbeitungsgegenstand von Systemprogrammen: Wenn z. B. ein Compiler den Quellcode eines Programms liest, verarbeitet und einen Maschinen- oder Zwischencode erzeugt, so sind das aus dessen Sicht 'Daten'.\r\n    Einmal erzeugte Software kann mit verhältnismäßig geringen Kosten vervielfältigt werden, die meist durch Datenträger, Werbung und dem Herstellen von Verpackung und zu Papier gebrachten Dokumentationen anfallen.\r\n    Software verschleißt nicht durch Nutzung, unterliegt jedoch mit der Zeit der Softwarealterung.\r\n    Software ist meist austauschbar, fähig zur Aktualisierung, korrigierbar und erweiterbar, insbesondere dann, wenn bestehende Richtlinien eingehalten werden und der Quelltext verfügbar ist.\r\n    Software tendiert dazu, umso mehr Fehler zu enthalten, je komplexer sie ist.[22] Fehler werden in aktualisierten Softwareversionen oder mithilfe eines Patches und i. d. R. nach Durchführung von Softwaretests behoben. Softwarefehler bezeichnet man auch als Programmfehler oder als „Bugs“.\r\n    Weil Software unter Einsatz vieler unterschiedlicher Programmiersprachen und in vielen unterschiedlichen Betriebssystemen und Systemumgebungen entwickelt werden kann, sind Softwarestandards erforderlich, um Informationen system- und unternehmensübergreifend ‚verstehbar‘ und austauschbar zu machen. Siehe auch Elektronischer Datenaustausch (Beispiele), Programmierstil.\r\nAuswahl von Software\r\nHauptartikel: Softwarebeschaffung\r\nIn der Entscheidung zur Anschaffung von Software lässt sich i. W. der Einsatz von Standardsoftware oder die eigene Herstellung (Individualsoftware) unterscheiden. Besonders im betrieblichen Umfeld zieht diese Entscheidung häufig hohe Kosten nach sich. Auch können solche Entscheidungen Grundlage zur Umsetzung der Unternehmensstrategie sein oder sollen Unternehmensprozesse maßgeblich verbessern. Zur Vermeidung von Fehlinvestitionen sollte der Anschaffung ein systematischer Entscheidungsprozess vorausgehen.\r\nBetrieb von Software\r\nHauptartikel: IT-Service-Management\r\n    Der Einsatz von Software erfordert je nach Einsatzbereich ein gewisses Maß an Organisation, um die zusammengehörenden Teile richtig einzusetzen und durch neue Versionen abzulösen (zum Beispiel in größeren Unternehmen im Releasemanagement).\r\n    Mitunter kann Software vorkonfiguriert werden, um so eine Neuinstallation zu beschleunigen und um Fehler bei der Konfiguration zu minimieren.\r\nSoftware aus Sicht der Betriebswirtschaft und Arbeitssoziologie\r\nIm Wesentlichen für betriebliche Anwendungssoftware geltend kann Software aus (betriebs-)wirtschaftlicher Sicht als 'im Voraus geleistete geistige Arbeit', also als Investition betrachtet werden. Zum Beispiel erarbeiten die Programmautoren ein Lösungsverfahren für die korrekte Trennung aller deutschen Wörter in einem Textverarbeitungs­programm. Damit ist im Voraus, also bevor diese Tätigkeit tatsächlich anfällt, schon für alle Schreiber, die mit diesem Textverarbeitungsprogramm arbeiten, die geistige Arbeit „korrektes Trennen deutscher Wörter“ geleistet. Dabei wird die Eigenschaft von Computern genutzt, auf sie verlagerte Aufgaben erheblich schneller und zuverlässiger ausführen zu können als es bisher Menschen möglich war. Besonders auch in der Softwareentwicklung wird intensiv auf „im Voraus“ entwickelte Algorithmen und Codeteile – als Teile eines Programms – zurückgegriffen ('Software-Wiederverwendung').\r\nEin ähnlicher Zusammenhang wird in der Arbeitssoziologie gesehen: Derartige softwarebasierte Maßnahmen sind geeignet, Arbeitsinhalte und -abläufe erheblich zu verändern. Die Bandbreite reicht dabei vom Bereitstellen einfacher Hilfsmittel (etwa zur Summierung oder Durchschnittsermittlung) bis hin zur völligen Umgestaltung von Prozessen (durch Konzentration früher getrennter oder durch Zerlegung früher zentralisierter Arbeitsabläufe) – oder gar bis zu deren vollständigen Ersatz durch IT-Lösungen. Brödner u. a. nennen das „materialisierte“ Kopfarbeit.[23] Siehe auch Rationalisierung, Optimierung, Taylorismus.\r\nKategorisierung von Software\r\nNach ISO/IEC 2382 wird Software wie folgt gegliedert (und bezeichnet):[24][25]\r\n    Systemsoftware: Anwendungsunabhängige Software, die das Ausführen von Anwendungssoftware ermöglichen bzw. unterstützen (z. B. Betriebssystem, sowie Gerätetreiber und Dienstprogramme)\r\n    Unterstützungssoftware, d. h. Programme, die bei der Entwicklung, Wartung helfen oder eine nicht-anwendungsspezifische Leistung erbringen (z. B. Editoren, Compiler, Virenscanner, Datenbankmanagementsysteme, …)\r\n    Anwendungssoftware, die den Benutzer bei der Ausführung seiner Aufgaben unterstützt und ihm dadurch erst den eigentlichen, unmittelbaren Nutzen stiftet (z. B. eine Tabellenkalkulation)\r\nUnterteilung nach dem Grad der Individualität\r\n    Standardsoftware wird von einem Softwareanbieter zum Einsatz bei mehreren/vielen Kunden erstellt, die diese Software erwerben können.\r\n    Individualsoftware wird für einen einzelnen Anwender zur Lösung einer spezifischen Aufgabenstellung individuell erstellt oder modifiziert, alternativ durch einen Softwareanbieter oder durch eigene Entwickler bzw. Entwicklungsabteilungen eines Unternehmens.\r\nRechtlich wird beim Erwerb von Software zwischen Individualsoftware und Standardsoftware unterschieden: Für Individualsoftware wird ein Werkvertrag bzw. Werklieferungsvertrag abgeschlossen, der Erwerb von Standardsoftware gilt als Sachkauf.\r\nUnterteilung nach der Art der erzeugten Ergebnisse\r\nDiese entstehen im Verlauf des Herstellungsprozesses von Software und können beispielsweise sein:\r\n    Quellcode, Zwischencode, Maschinencode, Gerätetreiber und andere erforderliche Module (als Programmbibliothek ausgeliefert)\r\n    Installationsprogramme und dazugehörende Anweisungen\r\n    Weitere Unterlagen wie die Dokumentation für Softwareentwickler und Softwarebenutzer\r\nSoftware nach der Art der Einbettung\r\n    Nicht eingebettete Software, die nachträglich installiert wird\r\n    Fest in einem Gerät zu dessen Steuerung untergebrachte Software (z. B. in einem ROM oder als Teil eines eingebetteten Systems) bezeichnet man als Firmware oder auch als eingebettete (oder ‚embedded‘) Software\r\nEinstufung nach Nutzungsrecht (Lizenz)\r\n    Adware\r\n    Beerware\r\n    Cardware (auch Postcardware)\r\n    Careware\r\n    Crippleware\r\n    Donationware\r\n    Freeware\r\n    Nagware\r\n    Shareware\r\n    Freie Software\r\nUnterteilung nach Quellcode-Verfügbarkeit\r\n    Freie Software\r\n    Open Source\r\n    Proprietäre Software\r\nEinstufung nach Verfügbarkeit\r\n    Abandonware\r\n    Vaporware\r\nWeitere Softwarebegriffe\r\n    Portable Software: Auf verschiedenen Computer(typen) lauffähig\r\n    Native Software: Zur Ausführung auf einem bestimmten Computersystem erstellt oder kompiliert. Der Programmcode nutzt die individuelle Funktionalität eines bestimmten Systemtyps, Allgemeingültigkeit und Portabilität gelten nicht als Entwicklungsziel.[26]\r\n    Bananenware (unausgereifte Software)\r\n    Schlangenöl (Programm ohne echte Funktion, wird aber als Wundermittel angepriesen)\r\n    Shovelware (Sammlung von Software, wobei die Quantität zählt)\r\n    Riskware\r\n    Bloatware (mit Funktionen ohne synergetischen Nutzen überladene Software)\r\n    Crapware\r\n    Spyware\r\n    Gebraucht-Software\r\nLizenzmodelle\r\nDie Verbreitung und Nutzung von Software unterliegt dem Urheberrecht. In diesem Zusammenhang gibt es mehrere typische Überlassungsmodelle:\r\nVerkauf\r\n    Der vollständige Verkauf von Software, inklusive der Überlassung von Weiterverbreitungsrechten, kommt praktisch nur zwischen Unternehmen vor, in der Regel im Rahmen von Auftragsprogrammierung oder beim Verkauf eines Softwareentwicklungsunternehmens.\r\nNutzungsrecht\r\n    Bei der meisten Software, die zum Beispiel für PCs „gekauft“ werden kann, wird in Wirklichkeit nur ein Nutzungsrecht überlassen. Dieses Modell ist auch bei der Auftragsprogrammierung üblich, bei der ein Unternehmen ein Programm für den Eigengebrauch eines anderen Unternehmens speziell entwickelt. Bei Freeware ist dieses Recht kostenlos, was nicht mit freier Software verwechselt werden darf.\r\nSoftware as a Service\r\n    Die Software wird bei einem Dienstleister gehostet, die eigentliche Nutzung der Software kann entweder pro Zeitraum oder pro Nutzungseinheit berechnet werden. sie findet oft auf einem einfachen PC und z. B. per Webbrowser statt.\r\nFreie Software/Open Source/GPL\r\n    Freie Software darf von jedem genutzt, beliebig verändert und weiterverbreitet werden. Oft unterliegt dieses Recht gewissen Einschränkungen, wie zum Beispiel der Nennung des Autors oder die Verpflichtung, veränderte Versionen unter die gleiche Lizenz zu stellen (GPL). Software, die nicht zu dieser Gruppe zählt, wird proprietär genannt.\r\nZwischen den oben genannten Hauptformen der Softwareverbreitung gibt es zahlreiche Zwischen- und Mischstufen.\r\nSiehe auch: Lizenzen der freien Software und Lizenzmanagement\r\nFreie Software und Open Source\r\nHauptartikel: Freie Software und Open Source\r\n‚Freie Software’ ist eine soziale Bewegung, die unfreie Software als gesellschaftliches Problem begreift.[27] Wobei „frei“ hier nicht „kostenlos“ bedeutet (‚Freie Software’ ist nicht dasselbe wie ‚Freeware’), sondern die Freiheiten für die Gesellschaft meint, die ein derart lizenziertes (auch kommerzielles) Produkt bietet. In den Augen der von Richard Stallman 1985 gegründeten Free Software Foundation (FSF) ist die Entscheidung für oder gegen freie Software deshalb primär eine ethische und soziale Entscheidung.\r\nDagegen begreift die 1998 gegründete Open Source Initiative (OSI) quelloffene Software als bloßes Entwicklungsmodell, wobei die Frage, ob Software quelloffen sein sollte, dort eine rein praktische und keine ethische Frage ist. Die FSF wirft der OSI daher eine Ablenkung von den wesentlichen Punkten vor.[28] Eric S. Raymond hat den Begriff ‚Open Source’ in der Annahme eingeführt, dass das unpopuläre Thema ‚Freiheit’ Geldgeber für solche Projekte abschrecken könne.\r\nAuch wenn es sich heute um zwei unterschiedliche Bewegungen mit unterschiedlichen Ansichten und Zielen handelt, verbindet sie die gemeinsame Wertschätzung für quelloffenen Code, was in zahlreichen Projekten mündet, in denen sie zusammenarbeiten. \n"
+}

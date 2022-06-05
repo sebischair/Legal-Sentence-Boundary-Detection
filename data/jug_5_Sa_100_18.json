@@ -1,0 +1,1307 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnisses",
+            "end": 94,
+            "start": 77,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 106,
+            "start": 95,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GewO",
+            "end": 118,
+            "start": 114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 127,
+            "start": 119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 400,
+            "start": 394,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 410,
+            "start": 409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 422,
+            "start": 411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsbeurteilung",
+            "end": 499,
+            "start": 479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 510,
+            "start": 500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 560,
+            "start": 558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 572,
+            "start": 561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "304",
+            "end": 590,
+            "start": 587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41126",
+            "end": 609,
+            "start": 604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 615,
+            "start": 610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gefasst",
+            "end": 760,
+            "start": 753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustellen",
+            "end": 950,
+            "start": 938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnis",
+            "end": 966,
+            "start": 952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätig",
+            "end": 1130,
+            "start": 1125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sauberkeit",
+            "end": 2547,
+            "start": 2537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überzeugte",
+            "end": 2689,
+            "start": 2679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Genauigkeit",
+            "end": 2775,
+            "start": 2764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsergebnisse",
+            "end": 2837,
+            "start": 2820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewachsen",
+            "end": 2926,
+            "start": 2917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuverlässig",
+            "end": 2959,
+            "start": 2948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zufriedenheit",
+            "end": 3038,
+            "start": 3025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsetzte",
+            "end": 3166,
+            "start": 3157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erweitern",
+            "end": 3301,
+            "start": 3292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 3482,
+            "start": 3473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einwandfrei",
+            "end": 3532,
+            "start": 3521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gut",
+            "end": 3582,
+            "start": 3579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 3676,
+            "start": 3673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammenarbeit",
+            "end": 3781,
+            "start": 3767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 3867,
+            "start": 3861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marktleiter",
+            "end": 3943,
+            "start": 3932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 3983,
+            "start": 3973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hälfte",
+            "end": 4059,
+            "start": 4053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 4098,
+            "start": 4088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 4110,
+            "start": 4100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 4112,
+            "start": 4111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnisberichtigungsrechtsstreit",
+            "end": 4171,
+            "start": 4139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 4174,
+            "start": 4173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Elektrofachmärkte",
+            "end": 4233,
+            "start": 4216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "F",
+            "end": 4291,
+            "start": 4290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 4294,
+            "start": 4293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnis",
+            "end": 4403,
+            "start": 4386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingesetzt",
+            "end": 4495,
+            "start": 4485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 4540,
+            "start": 4539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4543,
+            "start": 4542,
+            "type": "SBD"
+        },
+        {
+            "annotation": ".",
+            "end": 4681,
+            "start": 4680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4684,
+            "start": 4683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitarbeiter",
+            "end": 4788,
+            "start": 4777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestand",
+            "end": 4867,
+            "start": 4860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsratsmitglied",
+            "end": 4920,
+            "start": 4900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsrats",
+            "end": 4974,
+            "start": 4962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4977,
+            "start": 4976,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5154,
+            "start": 5153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5157,
+            "start": 5156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnisberichtigungsklage",
+            "end": 5252,
+            "start": 5227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5255,
+            "start": 5254,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5394,
+            "start": 5393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5397,
+            "start": 5396,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5725,
+            "start": 5724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5729,
+            "start": 5727,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5936,
+            "start": 5935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5940,
+            "start": 5938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 6107,
+            "start": 6098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6111,
+            "start": 6109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustellen",
+            "end": 6403,
+            "start": 6391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustellen",
+            "end": 6593,
+            "start": 6581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätig",
+            "end": 6774,
+            "start": 6769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sauberkeit",
+            "end": 8190,
+            "start": 8180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überzeugte",
+            "end": 8338,
+            "start": 8328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Genauigkeit",
+            "end": 8424,
+            "start": 8413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsergebnisse",
+            "end": 8486,
+            "start": 8469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewachsen",
+            "end": 8575,
+            "start": 8566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuverlässig",
+            "end": 8608,
+            "start": 8597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zufriedenheit",
+            "end": 8687,
+            "start": 8674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsetzte",
+            "end": 8815,
+            "start": 8806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erweitern",
+            "end": 8950,
+            "start": 8941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 9110,
+            "start": 9101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einwandfrei",
+            "end": 9160,
+            "start": 9149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gut",
+            "end": 9232,
+            "start": 9229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 9326,
+            "start": 9323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammenarbeit",
+            "end": 9431,
+            "start": 9417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 9527,
+            "start": 9521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marktleiter",
+            "end": 9603,
+            "start": 9592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 9643,
+            "start": 9633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hälfte",
+            "end": 9710,
+            "start": 9704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 9761,
+            "start": 9750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9765,
+            "start": 9763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10066,
+            "start": 10063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10070,
+            "start": 10068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 10327,
+            "start": 10322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streichung",
+            "end": 10517,
+            "start": 10507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verrichtet",
+            "end": 10609,
+            "start": 10599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachgekommen",
+            "end": 10722,
+            "start": 10710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 10866,
+            "start": 10857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Darstellungslücke",
+            "end": 11326,
+            "start": 11309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 11623,
+            "start": 11616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfälschen",
+            "end": 11786,
+            "start": 11775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 12117,
+            "start": 12113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verflachen",
+            "end": 12326,
+            "start": 12316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bewertung",
+            "end": 12397,
+            "start": 12388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 12483,
+            "start": 12477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 12609,
+            "start": 12604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzustufen",
+            "end": 12694,
+            "start": 12683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 12770,
+            "start": 12761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 13010,
+            "start": 13002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestünde",
+            "end": 13170,
+            "start": 13162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 13218,
+            "start": 13213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 13222,
+            "start": 13220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anträge",
+            "end": 13277,
+            "start": 13270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 13372,
+            "start": 13362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 13402,
+            "start": 13392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 13454,
+            "start": 13446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13458,
+            "start": 13456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 13528,
+            "start": 13514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13532,
+            "start": 13530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 13811,
+            "start": 13808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auswirken",
+            "end": 14025,
+            "start": 14016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BetrVG",
+            "end": 14114,
+            "start": 14108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 14250,
+            "start": 14246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 14348,
+            "start": 14338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 14534,
+            "start": 14528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelegt",
+            "end": 14682,
+            "start": 14676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 14828,
+            "start": 14819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 14962,
+            "start": 14957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsaufgabe",
+            "end": 15262,
+            "start": 15248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weise",
+            "end": 15412,
+            "start": 15407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 15577,
+            "start": 15575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzunehmen",
+            "end": 15657,
+            "start": 15646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 15825,
+            "start": 15821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 16095,
+            "start": 16092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 16205,
+            "start": 16203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzuweisen",
+            "end": 16361,
+            "start": 16350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 16365,
+            "start": 16363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 16506,
+            "start": 16498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 16527,
+            "start": 16508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 16530,
+            "start": 16528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 16590,
+            "start": 16581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 16594,
+            "start": 16592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 16637,
+            "start": 16629,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16804,
+            "start": 16803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16808,
+            "start": 16806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 16863,
+            "start": 16854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16867,
+            "start": 16865,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17097,
+            "start": 17096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschweren",
+            "end": 17300,
+            "start": 17290,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17505,
+            "start": 17504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 17598,
+            "start": 17594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 17787,
+            "start": 17780,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17981,
+            "start": 17980,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18242,
+            "start": 18241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "andere",
+            "end": 18564,
+            "start": 18558,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18680,
+            "start": 18679,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18940,
+            "start": 18939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwarte",
+            "end": 19061,
+            "start": 19054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 19295,
+            "start": 19289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehört",
+            "end": 19559,
+            "start": 19553,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19822,
+            "start": 19821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnisses",
+            "end": 20002,
+            "start": 19985,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20318,
+            "start": 20317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 20322,
+            "start": 20320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 20533,
+            "start": 20530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verflachen",
+            "end": 20729,
+            "start": 20719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreibt",
+            "end": 20887,
+            "start": 20877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 21151,
+            "start": 21148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbaren",
+            "end": 21234,
+            "start": 21223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befürchten",
+            "end": 21341,
+            "start": 21331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 21345,
+            "start": 21343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 21527,
+            "start": 21523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 21531,
+            "start": 21529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 21671,
+            "start": 21670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21764,
+            "start": 21758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreiben",
+            "end": 21979,
+            "start": 21968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 22124,
+            "start": 22118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befürchten",
+            "end": 22247,
+            "start": 22237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 22251,
+            "start": 22249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 22453,
+            "start": 22448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 22637,
+            "start": 22634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwähnen",
+            "end": 22988,
+            "start": 22980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 23126,
+            "start": 23123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 23130,
+            "start": 23128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzunehmen",
+            "end": 23334,
+            "start": 23323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchte",
+            "end": 23602,
+            "start": 23596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussformulierung",
+            "end": 23782,
+            "start": 23763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 23786,
+            "start": 23784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfernen",
+            "end": 24128,
+            "start": 24119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 24290,
+            "start": 24287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 24420,
+            "start": 24417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 24566,
+            "start": 24563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 24666,
+            "start": 24663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wünscht",
+            "end": 24817,
+            "start": 24810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 25036,
+            "start": 25031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darzustellen",
+            "end": 25294,
+            "start": 25282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "notwendig",
+            "end": 25377,
+            "start": 25368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzunehmen",
+            "end": 25535,
+            "start": 25524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 25722,
+            "start": 25718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tätigkeiten",
+            "end": 25843,
+            "start": 25832,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25951,
+            "start": 25950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewerten",
+            "end": 26087,
+            "start": 26079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 26470,
+            "start": 26465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 26474,
+            "start": 26472,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26816,
+            "start": 26815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 26882,
+            "start": 26878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnis",
+            "end": 26965,
+            "start": 26948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahre",
+            "end": 27020,
+            "start": 27015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gereichen",
+            "end": 27203,
+            "start": 27194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewerten",
+            "end": 27365,
+            "start": 27357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 27369,
+            "start": 27367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 27416,
+            "start": 27402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 27420,
+            "start": 27418,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27569,
+            "start": 27568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 27573,
+            "start": 27571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 27675,
+            "start": 27670,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 11.10.2018 – 5 Sa 100/18\nTitel:\nBerichtigung eines Arbeitszeugnisses\nNormenkette:\n§ 109 GewO\nLeitsatz:\nAuch wenn das nicht freigestellte Betriebsratsmitglied in den letzten drei Jahren des 16-jährigen\nArbeitsverhältnisses fast ausschließlich Betriebsratstätigkeiten ausgeübt hat, darf dieser Zeitraum\nnicht von der Bewertung der Arbeitsleistung im Zeugnis ausgenommen werden. (Rn. 28)\nSchlagworte:\nBetriebsratsmitglied, Betriebsratstätigkeit, Ehrenamt, Leistungsbeurteilung\nVorinstanz:\nAG Bamberg, Urteil vom 29.09.2017 – 5 Ca 1146/16\nFundstellen:\nNZA-RR 2019, 304\nBeckRS 2018, 41126\nTenor\n1) Das Urteil des Arbeitsgerichts Bamberg vom 29.09.2017, Aktenzeichen: 5 Ca 1146/16, wird teilweise\naufgehoben und zur Klarstellung neu gefasst.\n2) Die Beklagte wird verurteilt, der Klägerin ein unterzeichnetes, auf einem Original-Briefkopf ausgestelltes,\nwohlwollendes qualifiziertes Arbeitszeugnis mit folgendem Inhalt auszustellen:\nArbeitszeugnis\nFrau A., geboren am ....1971, war vom 08.01.2001 bis 28.02.2017 in unserem B.. Elektrofachmarkt in F. als\nMitarbeiterin im Bereich Verwaltung/Warenwirtschaft tätig.\nZu den Hauptaufgaben von Frau A. gehörten folgende Tätigkeiten:\n- die Erfassung und Pflege der bestandsgeführten Warenein- und Ausgänge\n- die Bestandsprüfung und Bestandskorrektur\n- die Überwachung der internen Listenaufbereitungen, Kontrolle und Durchführung der Listenbestellungen,\nKundenbestellungen und MDE Bestellungen\n- die Überwachung und Bearbeitung der wöchentlichen Faltblattwerbung, Werbekontrolle\n- die Beschaffung und Bestellung von Arbeits- und Büromaterial\n- das Pflegen, Prüfen und Verwalten der Arbeitszeitkonten aller Mitarbeiter\n- die Bearbeitung und Kontrolle der Warenverschiebungen mit anderen Filialen\n- die Bearbeitung der Rechnungsdifferenzen (Reklamationsbearbeitung) in Zusammenarbeit mit der\nRechnungsprüfung\n- die Organisation, Vorbereitung und Durchführung der halbjährlichen Inventuren sowie Schulungen der\nMitarbeiter an MDE Geräten und im Inventurprogramm\n- die Erfassung der Preisänderungen\n- die Rechnungsprüfung und Korrespondenz mit der Firma F. bezüglich des Hauspostversandes\n- das tägliche Drucken und Verteilen der neuen Preisetiketten für den Verkauf\n- die Bearbeitung und Versendung der Hauspost, Infozentrum, Mail\n- die Verwaltung von Büromaterial, Webarchiv sowie EDV-Instandhaltung und das Beheben von EDVProblemen\nin Zusammenarbeit mit der IT-Abteilung\n- die Korrespondenz zwischen Koordination und der Mitarbeiter im Verkauf\n- das Einhalten von Ordnung und Sauberkeit.\nFrau A. zeigte eine hohe Eigeninitiative und identifizierte sich voll mit ihren Aufgaben, wobei sie auch durch\nihre Einsatzfreude überzeugte. Ihre Tätigkeiten erledigte sie immer selbständig mit großer Sorgfalt und\nGenauigkeit. In allen Situationen erzielte Frau A. gute Arbeitsergebnisse. Frau A. verfügte über eine hohe\nArbeitsbefähigung und war den Belastungen gut gewachsen. Sie arbeitete immer zuverlässig.\nDie ihr übertragenen Aufgaben erledigte sie zu unserer vollsten Zufriedenheit.\nFrau A. verfügt über umfassende und vielseitige Fachkenntnisse, die sie immer sicher und zielgerichtet in\nder Praxis einsetzte. Sie besuchte regelmäßig und erfolgreich Weiterbildungsseminare, um ihre Stärken\nauszubauen und ihre guten Fachkenntnisse zu erweitern.\nAufgrund ihrer sachlichen Zusammenarbeit und ihres kollegialen und aufgeschlossenen Verhaltens war sie\nbei Vorgesetzten und Mitarbeitern gleichermaßen sehr geschätzt und anerkannt. Ihr persönliches Verhalten\nwar stets einwandfrei. Ihr Verhalten gegenüber den Kunden war stets gut.\nWegen der Schließung des Marktes scheidet Frau A. zum 28.02.2017 aus unserem Unternehmen aus. Wir\ndanken Frau A. für ihre stets guten Leistungen und die angenehme und vertrauensvolle Zusammenarbeit.\nWir wünschen ihr für ihren weiteren Berufs- und Lebensweg alles Gute und viel Erfolg.\nF., den 28.02.2017\nB. E. GmbH & Co. KG\nBetriebsstätte F.\nH. C.\nMarktleiter\n3) Im Übrigen wird die Klage abgewiesen.\n4) Von den Kosten des Rechtsstreits tragen die Parteien jeweils die Hälfte.\n5) Die Revision wird nicht zugelassen.\nTatbestand\n1\nDie Parteien führen einen Zeugnisberichtigungsrechtsstreit.\n2\nDie Beklagte betreibt bundesweit mehrere Elektrofachmärkte. Bis 2016 betrieb sie auch einen\nElektrofachmarkt in 9. F.\n3\nDie am ... 1971 geborene Klägerin stand vom 08.01.2001 bis 28.02.2017 bei der Beklagten im\nArbeitsverhältnis. Sie war in dem Elektrofachmarkt in F. im Bereich der Verwaltung/Warenwirtschaft\neingesetzt. Ihr Bruttomonatseinkommen betrug 2.429,29 €.\n4\nDas Arbeitsverhältnis endete durch ordentliche betriebsbedingte Arbeitgeberkündigung aufgrund der\nSchließung des Elektrofachmarktes in F..\n5\nDie Beklagte beschäftigte in dem Elektrofachmarkt in F. zuletzt ca. 30 Mitarbeiterinnen und Mitarbeiter. Seit\nJuli 2012 war ein Betriebsrat gebildet, der aus drei Mitgliedern bestand. Die Klägerin war von Anfang an\nBetriebsratsmitglied. Seit 09.12.2013 war sie Vorsitzende des Betriebsrats.\n6\nDie Beklagte erteilte der Klägerin im Zusammenhang mit der Beendigung des Arbeitsverhältnisses unter\ndem Datum des 08.12.2016 zunächst ein Zwischenzeugnis (Kopie / Bl. 18 d.A.).\n7\nDie Klägerin erhob in Bezug auf dieses Zwischenzeugnis am 28.12.2016 Zeugnisberichtigungsklage.\n8\nMit Schriftsatz vom 11.04.2017 beantragte die Klägerin die Erteilung eines im Einzelnen formulierten\nZwischenzeugnisses (Bl. 84 - 86 d.A.).\n9\nDie Beklagte erteilte der Klägerin unter dem Datum des 28.02.2017 ein von der Leiterin\nPersonalmanagement und Arbeitsrecht, Frau Anja D., unterzeichnetes Endzeugnis (Schriftsatz der Klägerin\nvom 11.04.2017, Anlage 2 / Kopie / Bl. 103/104 d.A. sowie Schriftsatz der Klägerin vom 27.04.2017, Anlage\n11 / Kopie / Bl. 138/139 d.A.).\n10\nDie Beklagte erteilte der Klägerin unter dem Datum des 28.02.2017 sodann ein weiteres, von dem\nehemaligen Marktleiter des Elektrofachmarktes in F., Herrn H. C., unterzeichnetes Endzeugnis (Bl. 146/147\nd.A.).\n11\nHinsichtlich der weiteren Einzelheiten des Vorbringens der Parteien sowie die gestellten Anträge wird auf\nden Tatbestand des arbeitsgerichtlichen Endurteils verwiesen.\n12\nDas Arbeitsgericht hat mit Endurteil vom 09. Mai 2017 der Zeugnisberichtigungsklage teilweise\nstattgegeben und die Beklagte verurteilt, der Klägerin ein unterzeichnetes, auf einem Original-Briefkopf\nausgestelltes, wohlwollendes qualifiziertes Arbeitszeugnis mit folgendem Inhalt auszustellen:\n1. Die Beklagte wird verurteilt, der Klägerin ein unterzeichnetes, auf einem Original-Briefkopf ausgestelltes,\nwohlwollendes qualifiziertes Arbeitszeugnis mit folgendem Inhalt auszustellen:\nArbeitszeugnis Frau A., geboren am 11.02.1971, war vom 08.01.2001 bis 28.02.2017 in unserem B.\nElektrofachmarkt in F. als Mitarbeiterin im Bereich Verwaltung/Warenwirtschaft tätig.\nZu den Hauptaufgaben von Frau A. gehörten folgende Tätigkeiten:\n- die Erfassung und Pflege der bestandsgeführten Warenein- und Ausgänge\n- die Bestandsprüfung und Bestandskorrektur\n- die Überwachung der internen Listenaufbereitungen, Kontrolle und Durchführung der Listenbestellungen,\nKundenbestellungen und MDE Bestellungen\n- die Überwachung und Bearbeitung der wöchentlichen Faltblattwerbung, Werbekontrolle\n- die Beschaffung und Bestellung von Arbeits- und Büromaterial\n- das Pflegen, Prüfen und Verwalten der Arbeitszeitkonten aller Mitarbeiter\n- die Bearbeitung und Kontrolle der Warenverschiebungen mit anderen Filialen\n- die Bearbeitung der Rechnungsdifferenzen (Reklamationsbearbeitung)\nin Zusammenarbeit mit der Rechnungsprüfung\n- die Organisation, Vorbereitung und Durchführung der halbjährlichen Inventuren sowie Schulungen der\nMitarbeiter an MDE Geräten und im Inventurprogramm\n- die Erfassung der Preisänderungen\n- die Rechnungsprüfung und Korrespondenz mit der Firma F. bezüglich des Hauspostversandes\n- das tägliche Drucken und Verteilen der neuen Preisetiketten für den Verkauf\n- die Bearbeitung und Versendung der Hauspost, Infozentrum, Mail\n- die Verwaltung von Büromaterial, Webarchiv sowie EDVInstandhaltung und das Beheben von EDVProblemen\nin Zusammenarbeit mit der IT-Abteilung\n- die Korrespondenz zwischen Koordination und der Mitarbeiter im Verkauf\n- das Einhalten von Ordnung und Sauberkeit.\nFrau A. zeigte eine hohe Eigeninitiative und identifizierte sich voll mit ihren Aufgaben, wobei sie auch durch\nihre große Einsatzfreude überzeugte. Ihre Tätigkeiten erledigte sie immer selbständig mit großer Sorgfalt\nund Genauigkeit. In allen Situationen erzielte Frau A. gute Arbeitsergebnisse. Frau A. verfügte über eine\nhohe Arbeitsbefähigung und war den Belastungen gut gewachsen. Sie arbeitete immer zuverlässig.\nDie ihr übertragenen Aufgaben erledigte sie zu unserer vollsten Zufriedenheit.\nFrau A. verfügt über umfassende und vielseitige Fachkenntnisse, die sie immer sicher und zielgerichtet in\nder Praxis einsetzte. Sie besuchte regelmäßig und erfolgreich Weiterbildungsseminare, um ihre Stärken\nauszubauen und ihre guten Fachkenntnisse zu erweitern.\nAufgrund ihrer sachlichen Zusammenarbeit und ihres kollegialen Verhaltens war sie bei Vorgesetzten und\nMitarbeitern gleichermaßen sehr geschätzt und anerkannt. Ihr persönliches Verhalten war stets einwandfrei.\nIhr Verhalten gegenüber den Kunden und Geschäftspartnern war stets gut.\nWegen der Schließung des Marktes scheidet Frau A. zum 28.02.2017 aus unserem Unternehmen aus.\nWir danken Frau A. für ihre stets guten Leistungen und die angenehme und vertrauensvolle\nZusammenarbeit. Wir wünschen ihr für ihren weiteren Berufs- und Lebensweg alles Gute und weiterhin viel\nErfolg.\nF., den 28.02.2017\nB. E. GmbH & Co. KG Betriebsstätte F.\nH. C.\nMarktleiter\n2. Im Übrigen wird die Klage abgewiesen.\n3. Die Kosten des Rechtsstreits tragen die Parteien je zur Hälfte.\n4. Der Streitwert wird auf 2.429,29 € festgesetzt.\n13\nGegen dieses der Beklagten am 20.02.2018 zugestellte Endurteil wendet sich die von der Beklagten am\n19.03.2018 beim Landesarbeitsgericht Nürnberg eingegangene Berufung, die sie mit\nBerufungsbegründungsschrift vom 17.04.2018, eingegangen beim Landesarbeitsgericht Nürnberg am\n18.04.2018, begründet hat.\n14\nDie Beklagte ist der Auffassung, dass das Arbeitsgericht unzutreffend entschieden habe, dass der Satzteil\n„bis zum 31.01.2014“ im Einleitungssatz sowie der Satz „seit dem 01.02.2014 kann die Arbeit von Frau A.\nnicht mehr bewertet werden“ zu entfernen seien. Entgegen der Auffassung des Gerichts widerspreche nicht\ndas Vorhandensein der Formulierung gegen den Grundsatz der Zeugniswahrheit und der Zeugnisklarheit\nsondern vielmehr deren Streichung. Die Klägerin habe ab Februar 2014 nahezu ausschließlich\nBetriebsratstätigkeiten verrichtet. Die Klägerin sei in dieser Zeit ihren arbeitsvertraglichen Verpflichtungen\nnicht mehr feststellbar nachgekommen. Auch innerhalb eines langjährigen Arbeitsverhältnisses sei ein\nsolcher Zeitraum nicht mehr als unerheblich für die Gesamtbetrachtung anzusehen. Wäre der\nArbeitnehmer, wie dies zumindest auch vorliegend der Fall sei, nur während eines Teils der Gesamtdauer\nseines Arbeitsverhältnisses wegen Betriebsratstätigkeit freigestellt, so führe dessen ersatzloses\nVerschweigen entweder zu einem den Grundsatz der Zeugniswahrheit widersprechenden, verfälschenden\nEindruck bei dem neutralen Zeugnisleser oder es entstehe eine bedenkliche, letztendlich auch für den\nArbeitnehmer selbst nachteilige Darstellungslücke. Sei der Arbeitnehmer vor seinem Ausscheiden lange\nZeit ausschließlich für den Betriebsrat tätig gewesen und der Arbeitgeber infolgedessen überhaupt nicht\nmehr in der Lage, dessen Leistung und Führung verantwortlich zu beurteilen, so könne die\nBetriebsratstätigkeit nicht unberücksichtigt bleiben. Von der Beklagten könne daher nicht verlangt werden,\ndie entsprechenden Stellen zu entfernen, um so die gesamte Aussagekraft des Arbeitszeugnisses zu\nverfälschen. Insoweit führe ein Verschweigen der Betriebsratsfreistellung und ein gleichzeitiges\nVerschweigen des Umstandes, dass die im Zeugnis dargestellte sachliche/fachliche Tätigkeit nur während\neines Teils des Arbeitsverhältnisses ausgeübt wurde, zu einer Täuschung der Zeugnisleser, auf die der\nArbeitnehmer jedoch keinen Anspruch habe. Nach Auffassung der Berufungsklägerin sei die von ihr\nverwendete Formulierung „Einsatzfreude“ ohne Voranstellung eines Adjektivs nicht dazu geeignet, das\nZeugnis im Übrigen zu relativieren oder zu verflachen. Vielmehr vermittle der Begriff für sich schon eine\npositive Bewertung. Eine „große“ Einsatzfreude hätte durch die Beklagte nicht festgestellt werden können.\nWeiter ginge das Erstgericht rechtsirrig davon aus, dass die Worte „und aufgeschlossen“ aus der Bewertung\nzu entfernen seien. Die Formulierung sei vorliegend als „gute“ Bewertung der Arbeitnehmerin einzustufen.\nDie Verwendung sei weder zweideutig noch als tendenziell negativ anzusehen. Ebenfalls unzutreffend sei\ndie Ansicht des Erstgerichts, es bestehe ein Anspruch auf die Erwähnung von Geschäftspartnern im\nRahmen der Verhaltensbeurteilung, auf eine zusätzliche Nennung von Geschäftspartnern bestünde jedoch\nkein Anspruch. Ferner sei dem Arbeitsgericht nicht zuzustimmen, als ein Anspruch auf das Einfügen des\nWortes „weiterhin“ in der Schlussformulierung für die Klägerin bestünde. Ein solcher Anspruch bestehe\ngleichfalls nicht.\n15\nDie Beklagte/Berufungsklägerin stellt folgende Anträge:\n1. Das Urteil des Arbeitsgerichtes Bamberg vom 29.09.2017, Az.: 5 Ca 1146/16, wird aufgehoben.\n2. Die Klage wird abgewiesen.\n3. Die Kosten des Rechtsstreits trägt die Klägerin.\n16\nDie Klägerin/Berufungsbeklagte beantragt,\ndie Berufung zurückzuweisen.\n17\nDie Klägerin ist der Auffassung, dass das Arbeitsgericht zutreffend entschieden habe, dass der Satzteil im\nZeugnis der Beklagten „bis zum 31.01.2014“ im Einleitungssatz sowie der Satz „seit dem 01.02.2014 kann\ndie Arbeit von Frau A. nicht mehr bewertet werden.“ zu entfernen sei. Wie das Arbeitsgericht richtig\nfestgestellt hätte, widersprechen diese Angaben im Zeugnis der Zeugniswahrheit und der Zeugnisklarheit\nund im Übrigen würden sich diese Angaben für die Klägerin nachteilig auswirken. Dies widerspreche in\neklatanter Weise dem Benachteiligungsverbot des § 78 Satz 2 BetrVG. Zutreffend habe das Arbeitsgericht\nauch entschieden, dass die Klägerin Anspruch auf das Wort „große“ vor dem Wort „Einsatzfreude“ habe.\nBei der Erwähnung einer Einsatzfreude sei allenfalls von einer befriedigten Bewertung auszugehen.\nNachdem die Erwähnung des Einsatzes der Klägerin zwingender Bestandteil des Zeugnisses sei, könne die\nbloße Erwähnung von Einsatzfreude jedenfalls nicht zu einer guten Bewertung führen. Wie bereits\nerstinstanzlich ausgeführt, habe die Klägerin bis zuletzt ein großes Engagement und eine äußerst große\nEinsatzfreude an den Tag gelegt. Die Klägerin habe gerne und jederzeit Sonderaufgaben übernommen,\nsich außerordentlich engagiert und Überstunden in großem Maße hierfür geleistet. Zutreffend habe das\nArbeitsgericht auch erkannt, dass die Worte „und aufgeschlossen“ in der Verhaltensbeurteilung zu streichen\nseien. Die Erwähnung eines aufgeschlossenen Verhaltens werde in der Zeugnissprache oft dazu benutzt,\num nicht gern gesehenes Flirtverhalten von Mitarbeitern zu beschreiben oder die Tatsache, dass die\nMitarbeiter sich mehr dem „Smalltalk“ unter Kollegen gewidmet haben als ihrer eigentlichen Arbeitsaufgabe.\nEine Nichterwähnung der Geschäftspartner in der Verhaltensbeurteilung beeinflusse nach Ansicht der\nKlägerin das Zeugnis in erheblich negativer Weise. Die Nichterwähnung des Verhaltens gegenüber einer\nGruppe und somit einer Auslassung, lasse Rückschlüsse, in diesem Fall negative, auf das Verhalten der\nKlägerin zu. Das Verhalten gegenüber Geschäftspartnern sei daher in das Zeugnis aufzunehmen. Das\nArbeitsgericht habe zudem richtig entschieden, dass die Klägerin Anspruch auf die Aufnahme des Wortes\n„stets“ vor dem Wort „gut“ in der Verhaltensbeurteilung habe. Die Beklagte wende sich in ihrer\nBerufungsbegründung gegen diese Änderung des Zeugnisses nicht explizit, so dass sich die Beklagte hier\nnicht mit der Entscheidung des Arbeitsgerichts Bamberg auseinandergesetzt habe und die Berufung\ndiesbezüglich bereits unzulässig sei. Darüber hinaus stünde der Klägerin auch die Einfügung des Wortes\n„weiterhin“ vor den Worten „viel Erfolg“ zu. Das Fehlen des Wortes „weiterhin“ deutet darauf hin, dass die\nBeklagte der Ansicht sei, die Klägerin habe im eigenen Unternehmen keinen Erfolg vorzuweisen.\n18\nHinsichtlich der weiteren Einzelheiten bezüglich des Sachvortrags der beiden Parteien wird auf die\neingereichten Schriftsätze Bezug genommen.\nEntscheidungsgründe\n19\nDie zulässige Berufung erweist sich teilweise als begründet.\n20\nI. Die Berufung der Beklagten ist zulässig. Sie ist statthaft (§ 64 Abs. 1, 2 b ArbGG) und in der gesetzlichen\nForm und Frist eingelegt und begründet worden (§§ 66 Abs. 1, 64 Abs. 6 ArbGG, 519 Abs. 1, 520 ZPO).\n21\nII. Die Berufung der Beklagten ist teilweise begründet.\n22\n1. Ein Arbeitszeugnis über Art und Dauer der Tätigkeit sowie Leistung und Verhalten (§ 109 Abs. 1 Satz 2\nund Satz 3 GewO) dient dem Arbeitnehmer als Bewerbungsunterlage (BAG, 21. September 1999 - 9 AZR\n893/98, zitiert nach Juris). Diesem Zweck entsprechend soll das Arbeitszeugnis dem Arbeitnehmer als\nverbindliche Erklärung und Teil seiner Arbeitspapiere für künftige Bewerbungen dienen und sein\nFortkommen nicht unnötig erschweren. Der Arbeitgeber hat die von ihm geforderte Leistung im Sinne des\n§ 362 BGB erst bewirkt, wenn das Arbeitszeugnis nicht mehr zu beanstanden ist (BAG, 21. September\n1999 - 9 AZR 893/98, zitiert nach Juris). Gemäß § 109 Abs. 2 Satz 1 und 2 GewO muss das Zeugnis klar\nund verständlich formuliert sein. Es darf keine Merkmale oder Formulierungen enthalten, die den Zweck\nhaben, eine andere als aus der äußeren Form oder aus dem Wortlaut ersichtliche Aussage über den\nArbeitnehmer zu treffen. Dabei sind nicht die Vorstellungen des Zeugnisverfassers maßgeblich, sondern\nalleine der objektive Empfängerhorizont des Zeugnislesers (BAG, 12. August 2008 - 9 AZR 632/07, zitiert\nnach Juris). Hierbei ist als maßgeblicher objektiver Empfängerhorizont die Verständnismöglichkeit eines\ndurchschnittlichen Beteiligten oder Angehörigen des vom Zeugnis angesprochenen Personenkreises\nzugrunde zu legen (BAG vom 15.11.2011 - 9 AZR 386/10, zitiert nach Juris). Im Rahmen des Gebots der\nZeugnisklarheit gemäß § 109 Abs. 2 GewO ist der Arbeitgeber grundsätzlich in der Formulierung frei, so\nlange das Zeugnis nichts Falsches enthält (Zeugniswahrheit). Der Arbeitgeber entscheidet deshalb auch\ndarüber, welche positiven oder negativen Leistungen er stärker hervorheben will als andere. Maßstab ist der\neines wohlwollenden verständigen Arbeitgebers (BAG, 23.09.1992 - 5 AZR 573/91, zitiert nach Juris). Ist es\nfür den Arbeitnehmer einer Branche oder einer Berufsgruppe üblich, bestimmte positive Eigenschaften oder\nLeistungen hervorzuheben, dann muss diesem Brauch auch im Zeugnis Rechnung getragen werden (BAG\nvom 12.08.2008 - 9 AZR 632/07, zitiert nach Juris). Ein Zeugnis darf deshalb dort keine Auslassungen\nenthalten, wo der verständige Leser eine positive Hervorhebung erwarte. Anspruch auf ausdrückliche\nBescheinigung bestimmter Merkmale hat damit der Arbeitnehmer, in dessen Berufskreis dies üblich ist und\nbei dem das Fehlen eine entsprechende Aussage im Zeugnis sein berufliches Fortkommen behindern\nkönnte. Das Weglassen bestimmter Prädikate oder berufsspezifischer Merkmale ist bei einer im Übrigen\npositiven Beurteilung zwar grundsätzlich noch kein Hinweis auf deren Fehlen, wenn das Prädikat zu den\nSelbstverständlichkeiten des Berufskreises des Arbeitnehmers gehört. Soweit jedoch die Merkmale im\nbesonderen Maße gefragt sind und deshalb der allgemeine Brauch besteht, diese im Zeugnis zu erwähnen,\nkann die Nichterwähnung (beredtes Schweigen) ein erkennbarer Hinweis für den Zeugnisleser sein (BAG,\n12.08.2008, a.a.O., Rnr. 21). Aussagen über persönliche Empfindungen des Arbeitgebers in einer\nSchlussformel, z. B. Dank für die Zusammenarbeit, gehören nicht zum erforderlichen Inhalt eines\nArbeitszeugnisses. Ist der Arbeitnehmer mit einer vom Arbeitgeber in das Zeugnis aufgenommenen\nSchlussformel nicht einverstanden, hat er keinen Anspruch auf Ergänzung oder Umformulierung der\nSchlussformel, sondern nur Anspruch auf die Erteilung eines Zeugnisses ohne Schlussformel (BAG,\n11.12.2012 - 9 AZR 227/11, zitiert nach Juris).\n23\n2. a) Ausgehend von diesen Grundsätzen war der Berufung der Beklagten stattzugeben, soweit das\nArbeitsgericht zum Ergebnis gekommen ist, dass vor der Formulierung „Einsatzfreude“ das Wort „große“\neinzufügen sei. Entgegen der Auffassung des Arbeitsgerichts ist die Formulierung „Einsatzfreude“ ohne\nVoranstellung eines Adjektivs nicht dazu geeignet, das Zeugnis im Übrigen zu relativieren oder zu\nverflachen. Vielmehr vermittelt der Begriff für sich stehend schon eine positive Bewertung, da er den Willen\nund die Bereitschaft zum Einsatz zur Anstrengung beschreibt. Im Rahmen der Formulierungshoheit des\nArbeitgebers kann von diesem nicht verlangt werden, dass er bei der Konkretisierung, Leistung oder des\nVerhaltens des Arbeitnehmers bei jeglichen Formulierungen ein verstärkendes oder abschwächendes\nAdjektiv zu verwenden hat. Dies ist mit der Zeugnisformulierungshoheit des Arbeitgebers nicht zu\nvereinbaren. Im streitgegenständlichen Fall ist ein Fehlinterpretieren durch den Zeugnisleser auch nicht zu\nbefürchten.\n24\nb) Die Berufung erweist sich auch als begründet, als das Arbeitsgericht zum Ergebnis gekommen ist, dass\ndie Worte „und aufgeschlossen“ in der Verhaltensbeurteilung zu streichen sind.\n25\nDas Adjektiv „aufgeschlossen“ bedeutet zunächst „am geistigen Leben interessiert und bereit, neue\nGedanken und Erkenntnisse zu verarbeiten“. Das Adjektiv kann daher zunächst grundsätzlich nur als\npositive Bewertung verstanden werden. Der Berufungsführerin ist zwar zuzugestehen, dass die Erwähnung\neines aufgeschlossenen Verhaltens in der Zeugnissprache ab und zu benutzt wird um nicht gern gesehenes\nFlirtverhalten mit Mitarbeitern zu beschreiben. Damit allerdings eine solche Erwähnung des Wortes\n„aufgeschlossen“ so interpretiert werden kann, muss es in einem entsprechenden Kontext stehen. Dies ist\nallerdings im streitgegenständlichen Fall nicht anzunehmen und eine Missinterpretierung auch nicht zu\nbefürchten.\n26\nc) Die Berufung erweist sich auch als begründet, insoweit das Arbeitsgericht zu dem Ergebnis gekommen\nist, dass eine Erwähnung des Verhaltens gegenüber Geschäftspartnern im Zeugnis erwähnt werden müsse.\nEin „beredtes Schweigen“ durch die Nichterwähnung der Geschäftspartner ist vorliegend nicht\nanzunehmen, da mit der Tätigkeit der Klägerin eine solche Formulierung nicht verbunden ist. Zum einen ist\nzu berücksichtigen, dass der Kontakt zu den Geschäftspartnern der Beklagten sich darauf beschränkt hat,\ndass sie Arbeits- und Büromaterial sowie teilweise Korrespondenzen geführt hat und es im Hinblick auf die\nTätigkeit der Klägerin als auch ihrem Status keine Üblichkeit gegeben ist, den Geschäftspartner im\nArbeitszeugnis zu erwähnen. Im vorliegenden Fall ist es ausreichend, wenn der Arbeitgeber das Verhalten\ngegenüber Vorgesetzten, Mitarbeitern und Kunden bewertet hat.\n27\nd) Die Berufung erweist sich ebenfalls als begründet, als dass das Arbeitsgericht zum Ergebnis gekommen\nist, die Beklagte sei verpflichtet auch in der Schlussformulierung das Wort „weiterhin“ aufzunehmen. Die\nerkennende Kammer folgt insoweit der Rechtsprechung des Bundesarbeitsgerichts vom 11.12.2012,\nAktenzeichen: 9 AZR 227/11 zitiert nach Juris, dass der Arbeitnehmer sich insoweit entscheiden müsse, ob\ner die Schlussformulierung des Arbeitgebers so hinnehmen möchte. Ist er damit nicht einverstanden, kann\ner lediglich die Herausnahme der gesamten Schlussformulierung verlangen aber nicht, so wie beantragt, die\nErgänzung der Schlussformulierung.\n28\n3. a) Die Berufung war allerdings unbegründet, soweit sie sich dagegen richtet, dass das Arbeitsgericht\nausgeurteilt hat, dass die Beklagte verpflichtet sei, den Satzteil im Zeugnis der Beklagten „bis zum\n31.01.2014“ im Einleitungssatz sowie den Satz „seit dem 01.02.2014 kann die Arbeit von Frau A. nicht mehr\nbewertet werden.“ zu entfernen. Das Erstgericht hat zutreffend sowohl im Ergebnis als auch in der\nBegründung festgestellt, dass die Beklagte zur Herausnahme der zwei Satzteile verpflichtet ist. Die zwei\nSatzteile suggerieren dem Zeugnisleser, dass die Klägerin ab dem 01.02.2014 keinerlei Arbeitsleistung\nmehr erbracht hat. Der Grund hierfür wird nicht genannt, so dass es dem Leser überlassen wird, warum\neine Arbeitsleistung der Klägerin nicht mehr stattgefunden hat. Eine der Schlussfolgerungen könnte sein,\ndass die Klägerin eine Betriebsratstätigkeit ausgeübt hat. Eine solche Erwähnung einer ehrenamtlichen\nTätigkeit im Arbeitszeugnis ist nur dann vorzunehmen, wenn der Arbeitnehmer dies auch ausdrücklich\nwünscht. Das - nicht freigestellte - Betriebsratsmitglied übt mit seiner Betriebsratstätigkeit ein Ehrenamt aus,\ndas mit seinen arbeitsvertraglich geschuldeten Hauptleistungspflichten in keinem unmittelbaren\nZusammenhang steht. Die Zweckbestimmung eines qualifizierten Arbeitszeugnisses besteht darin, ein\nmöglichst vollständiges, wahres, klares, aber auch wohlwollendes Bild von Führung und Leistung des\nArbeitnehmers im Hinblick auf seine arbeitsvertraglichen Pflichten darzustellen. Hierzu ist die Erwähnung\nder ehrenamtlichen Betriebsratstätigkeit nicht notwendig. Nicht zutreffend ist die Auffassung der\nBeklagtenpartei im Hinblick auf den Grundsatz der Zeugniswahrheit die streitgegenständliche Formulierung\naufzunehmen. Zum einen ist zu berücksichtigen, dass Grundlage der Tätigkeitsbeschreibung der Klägerin\nentsprechend dem Arbeitsvertrag oder im Rahmen des Direktionsrechts übertragene Tätigkeiten sind. Dies\nwaren bis zur Beendigung des Arbeitsverhältnisses die von der Beklagten im Arbeitszeugnis aufgeführten\nTätigkeiten. Die Betriebsratstätigkeit führt lediglich zu einer Befreiung der Arbeitsverpflichtung (§ 37 Abs. 2\nBetrVG). Unzutreffend ist auch die Auffassung, dass die Beklagte meint, sie könne die Arbeit der Klägerin\nab dem 01.01.2014 nicht mehr bewerten. Nachdem die ehrenamtliche Tätigkeit als Betriebsrat\nentsprechend § 78 Abs. 1 Satz 2 BetrVG nicht zu einer Benachteiligung auch in der beruflichen Entwicklung\nführen darf, kann vom Arbeitgeber eine Prognose hinsichtlich der Beurteilung der Leistung und des\nFührungsverhaltens dergestalt abverlangt werden, als ob es die Freistellung für die Betriebsratstätigkeit\nnicht gegeben hätte.\n29\nEtwas Anderes kann allenfalls dann gelten, wenn der Arbeitnehmer vor seinem Ausscheiden lange Zeit\nnicht mehr tätig gewesen ist und der Arbeitgeber infolgedessen überhaupt nicht mehr in der Lage ist,\ndessen Leistungen und Führungen verantwortlich zu beurteilen (so LAG Frankfurt vom 10.03.1977,\nAktenzeichen: 6 Sa 779/76, zitiert nach Juris). Hiervon kann allerdings im vorliegenden Fall nicht die Rede\nsein. Die Klägerin war seit dem 08.01.2001 bei der Beklagten in einem Arbeitsverhältnis; bis zu ihrem\nAusscheiden also etwas mehr als 16 Jahre. Dass die Klägerin die letzten drei Jahre fast annähernd nur\nnoch Betriebsratstätigkeiten ausgeführt hat, darf ihr im Hinblick auf den § 78 Satz 2 BetrVG nicht zum\nNachteil gereichen. Die Beklagte hat einen ausreichend großen Zeitraum die Führung und Leistung der\nKlägerin auch unter Berücksichtigung des Zeugnisgrundsatzes Wahrheit zu bewerten.\n30\nDie Berufung war daher insoweit zurückzuweisen.\n31\nIII. 1. Die Kosten des Rechtsstreits sind entsprechend des jeweiligen Obsiegens und des Unterliegens zu\nquoteln (§§ 92 Abs. 1 Satz 1, 97 Abs. 1 ZPO).\n32\n2. Für die Zulassung der Revision besteht kein gesetzlich begründeter Anlass (§ 72 Abs. 1 und 2 ArbGG.\n\n"
+}

@@ -1,0 +1,977 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgrund",
+            "end": 322,
+            "start": 311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 334,
+            "start": 323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgrund",
+            "end": 604,
+            "start": 593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 615,
+            "start": 605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6859",
+            "end": 634,
+            "start": 630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 640,
+            "start": 635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 660,
+            "start": 641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 662,
+            "start": 661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 665,
+            "start": 664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 773,
+            "start": 769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 856,
+            "start": 855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellt",
+            "end": 992,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 1236,
+            "start": 1230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1239,
+            "start": 1238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veräußert",
+            "end": 1296,
+            "start": 1287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 1420,
+            "start": 1415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 1513,
+            "start": 1512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 1569,
+            "start": 1568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 1719,
+            "start": 1707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 1875,
+            "start": 1869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1878,
+            "start": 1877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1923,
+            "start": 1913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Restschuldbefreiung",
+            "end": 1984,
+            "start": 1965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1987,
+            "start": 1986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 2081,
+            "start": 2078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 2291,
+            "start": 2283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 2410,
+            "start": 2404,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 2642,
+            "start": 2636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2645,
+            "start": 2644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 2801,
+            "start": 2795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Akten",
+            "end": 2940,
+            "start": 2935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 3054,
+            "start": 3048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3057,
+            "start": 3056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 3090,
+            "start": 3085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verjährt",
+            "end": 3160,
+            "start": 3152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 3348,
+            "start": 3339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 3498,
+            "start": 3491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlt",
+            "end": 3569,
+            "start": 3562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 3714,
+            "start": 3708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 3803,
+            "start": 3796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 3869,
+            "start": 3854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3872,
+            "start": 3871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 3986,
+            "start": 3976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3989,
+            "start": 3988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 4035,
+            "start": 4025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4039,
+            "start": 4037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4042,
+            "start": 4041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 4066,
+            "start": 4057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4070,
+            "start": 4068,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4437,
+            "start": 4436,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4783,
+            "start": 4782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4787,
+            "start": 4785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4883,
+            "start": 4880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4887,
+            "start": 4885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5083,
+            "start": 5079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5277,
+            "start": 5273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "will",
+            "end": 5439,
+            "start": 5435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5809,
+            "start": 5806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 6035,
+            "start": 6027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 6202,
+            "start": 6193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6206,
+            "start": 6204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 6455,
+            "start": 6446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückforderungsanspruchs",
+            "end": 6677,
+            "start": 6654,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7101,
+            "start": 7100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermitteln",
+            "end": 7302,
+            "start": 7293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7306,
+            "start": 7304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 7668,
+            "start": 7660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschiedlich",
+            "end": 7757,
+            "start": 7742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7761,
+            "start": 7759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angesehen",
+            "end": 8032,
+            "start": 8023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bejaht",
+            "end": 8304,
+            "start": 8298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8308,
+            "start": 8306,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8555,
+            "start": 8554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8848,
+            "start": 8845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9068,
+            "start": 9065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9212,
+            "start": 9209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 9216,
+            "start": 9214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 9314,
+            "start": 9302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 9398,
+            "start": 9392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 9590,
+            "start": 9582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattzugeben",
+            "end": 9777,
+            "start": 9765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10022,
+            "start": 10019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10026,
+            "start": 10024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 10107,
+            "start": 10101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10111,
+            "start": 10109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderkonten",
+            "end": 10253,
+            "start": 10241,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10474,
+            "start": 10473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalters",
+            "end": 10540,
+            "start": 10521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustehen",
+            "end": 10738,
+            "start": 10730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 11009,
+            "start": 11006,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11366,
+            "start": 11365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 11796,
+            "start": 11790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11800,
+            "start": 11798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 12177,
+            "start": 12171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 12289,
+            "start": 12285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12293,
+            "start": 12291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 12651,
+            "start": 12647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 12842,
+            "start": 12835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 12846,
+            "start": 12844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angepasst",
+            "end": 13091,
+            "start": 13082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 13412,
+            "start": 13409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13654,
+            "start": 13648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 13658,
+            "start": 13656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 13797,
+            "start": 13795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13801,
+            "start": 13799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollte",
+            "end": 14170,
+            "start": 14164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veröffentlicht",
+            "end": 14337,
+            "start": 14323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehlüberweisung",
+            "end": 14420,
+            "start": 14405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 14653,
+            "start": 14649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 14657,
+            "start": 14655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 14852,
+            "start": 14840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15058,
+            "start": 15052,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15191,
+            "start": 15190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befriedigen",
+            "end": 15389,
+            "start": 15378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 15647,
+            "start": 15642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutlich",
+            "end": 15758,
+            "start": 15750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 15762,
+            "start": 15760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 15988,
+            "start": 15979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 15992,
+            "start": 15990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuführt",
+            "end": 16269,
+            "start": 16262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehören",
+            "end": 16430,
+            "start": 16423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreicht",
+            "end": 16490,
+            "start": 16482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 16552,
+            "start": 16547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicher",
+            "end": 16742,
+            "start": 16736,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16848,
+            "start": 16847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bereicherung",
+            "end": 16951,
+            "start": 16939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 17064,
+            "start": 17057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 17068,
+            "start": 17066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 17400,
+            "start": 17391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehören",
+            "end": 17527,
+            "start": 17520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 17645,
+            "start": 17638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 17649,
+            "start": 17647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 17733,
+            "start": 17731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 17779,
+            "start": 17776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 17783,
+            "start": 17781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahren",
+            "end": 17884,
+            "start": 17878,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18185,
+            "start": 18184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährung",
+            "end": 18368,
+            "start": 18358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 18540,
+            "start": 18533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 18544,
+            "start": 18542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnt",
+            "end": 18691,
+            "start": 18684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 18806,
+            "start": 18803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitfall",
+            "end": 18853,
+            "start": 18843,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19050,
+            "start": 19049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19054,
+            "start": 19052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 19228,
+            "start": 19219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 19232,
+            "start": 19230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlöschen",
+            "end": 19439,
+            "start": 19430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgrund",
+            "end": 19567,
+            "start": 19556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigiert",
+            "end": 19619,
+            "start": 19609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 19623,
+            "start": 19621,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19923,
+            "start": 19922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 20034,
+            "start": 20024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 20102,
+            "start": 20101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 20222,
+            "start": 20210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anpasst",
+            "end": 20510,
+            "start": 20503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20610,
+            "start": 20604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückforderungsbescheid",
+            "end": 20678,
+            "start": 20656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 20682,
+            "start": 20680,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20736,
+            "start": 20735,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 06.03.2019 – 6 K 3063/18\nTitel:\nInsolvenzverwalter, Insolvenzmasse, Insolvenzverfahren, Bescheid, Eigenheimzulage,\nZahlung, Widerspruch, Leistung, Einspruchsfrist, Umsatzsteuer, Aufhebung,\nFestsetzung, Insolvenzschuldner, Erstattung, Rechtsprechung des BFH, Wegfall der\nBereicherung, ohne Rechtsgrund\nSchlagworte:\nInsolvenzverwalter, Insolvenzmasse, Insolvenzverfahren, Bescheid, Eigenheimzulage, Zahlung,\nWiderspruch, Leistung, Einspruchsfrist, Umsatzsteuer, Aufhebung, Festsetzung, Insolvenzschuldner,\nErstattung, Rechtsprechung des BFH, Wegfall der Bereicherung, ohne Rechtsgrund\nFundstelle:\nBeckRS 2019, 6859\nTenor\nEntscheidungsgründe\nI.\n1\nDas Finanzamt ... setzte mit Bescheid vom … 2008 Eigenheimzulage zugunsten von Frau S für das Objekt\nB fest. Die Festsetzung erfolgte für die Jahre 2007 bis 2012 in Höhe von jährlich 4.450 €. Am … 2009\neröffnete das Amtsgericht … das Insolvenzverfahren über das Vermögen der S. Der Kläger wurde zum\nInsolvenzverwalter bestellt. Der Kläger teilte der zentralen Finanzkasse des beklagten Finanzamts (im\nFolgenden: FA) auf Anfrage vom Mai 2011 mit, dass Steuererstattungen auf das Bankkonto mit dem Namen\ndes Kontoinhabers „Name Insolvenzverwalter/S“. gezahlt werden sollen.\n2\nIm Laufe des Jahres 2009 wurde das Objekt in B veräußert. Gleichwohl kam es zur Auszahlung der für die\nJahre 2010 bis 2012 festgesetzten Eigenheimzulage auf das oben genannte Konto. Für das Jahr 2010\nüberwies das FA am … 2011 und für das Jahr 2012 am … 2012 jeweils 4.450 €. Für das Jahr 2011\nüberwies das FA am … 2011 3.428,15 €. Die übersteigende Eigenheimzulage in Höhe von 1.021,85 €\nverrechnete das FA mit einem gegen die Insolvenzmasse gerichteten Anspruch auf Umsatzsteuer. Da der\nKläger die Umsatzsteuer trotz der Verrechnung später bezahlte, überwies das FA am … 2012 den Betrag in\nHöhe von 1.021,85 € auf das Bankkonto zurück.\n3\nDas Insolvenzverfahren wurde 2013 aufgehoben. Frau S erhielt im Laufe des Jahres 2015\nRestschuldbefreiung.\n4\nMit Bescheid vom … 2016 hob das FA S die Festsetzung der Eigenheimzulage ab dem Jahr 2010 auf. Den\nAufhebungsbescheid adressierte das FA ... an Frau S. Nach Ablauf der Einspruchsfrist legte Frau S mit\nSchreiben vom … 2016 „Widerspruch“ ein und machte geltend, sie habe die Eigenheimzulage nicht\nerhalten. Den Widerspruch wies das FA ... mit der Einspruchsentscheidung vom … 2018 wegen\nFristversäumung als unzulässig zurück. Den Kläger beteiligte das FA ... am Verfahren der Frau S nicht,\nforderte aber mit Schreiben vom … 2018 die zentrale Kasse des beklagten FA auf, einen\nRückforderungsanspruch gegen den Insolvenzverwalter persönlich geltend zu machen.\n5\nMit Bescheid vom … 2018 forderte die zentrale Kasse des FA sodann vom Kläger die Eigenheimzulagen\n2010 bis 2012 in einer Höhe von insgesamt 13.350 € zurück. Dem Rückforderungsbescheid vorgehende\nSchreiben des FA an den Kläger wegen der Rückforderung befinden sich nicht in den vorgelegten Akten.\nDen Einspruch des Klägers vom… 2018 wies das FA mit der Einspruchsentscheidung vom … 2018 als\nunbegründet zurück.\n6\nHiergegen richtet sich die Klage. Der Kläger macht geltend, die Rückforderungsansprüche seien verjährt.\nBegründe das FA Rückforderungsansprüche mit Zahlungen auf ein Konto, das dem Kläger persönlich\nzuzurechnen sei, würden die Rückforderungsansprüche am jeweiligen Tag der Zahlung entstehen. Da die\nletzte Zahlung im Jahr 2012 erfolgt sei, seien die fünfjährigen Zahlungsverjährungsfristen spätestens am 31.\nDezember 2017 abgelaufen gewesen. Ferner habe das FA in Höhe von 1.021,85 € nicht auf das Konto\nbezahlt. Die Verrechnung mit einer Umsatzsteuerforderung gegen die Masse sei eine Leistung an die\nInsolvenzmasse, nicht aber eine Leistung an den Kläger. Die spätere Rückzahlung auf das Bankkonto sei\neine Rückzahlung von Umsatzsteuer gewesen. Der Rückforderungsbescheid betreffe aber nur die\nEigenheimzulage.\n7\nDer Kläger beantragt,\nden Rückforderungsbescheid vom …in Gestalt der Einspruchsentscheidung vom … 2018 aufzuheben.\n8\nDas Finanzamt beantragt,\ndie Klage abzuweisen.\nII.\n9\nDie Klage ist begründet.\n10\n1. Ist eine Steuer, eine Steuervergütung, ein Haftungsbetrag oder eine steuerliche Nebenleistung ohne\nrechtlichen Grund gezahlt oder zurückgezahlt worden, so hat derjenige, auf dessen Rechnung die Zahlung\nbewirkt worden ist, an den Leistungsempfänger einen Anspruch auf Erstattung des gezahlten oder\nzurückgezahlten Betrags (§ 37 Abs. 2 Satz 1 Abgabenordnung - AO -). Da bei der Gewährung von\nEigenheimzulagen die Vorschriften für Steuervergütungen entsprechend anzuwenden sind (§ 15 Abs. 1\nSatz 1 Eigenheimzulagengesetz - EigZulG-), kann auch gezahlte Eigenheimzulage nach Maßgabe des § 37\nAbs. 2 AO zurückgefordert werden (vgl. Urteil des Bundesfinanzhofs - BFH - vom 12. Mai 2009 IX R 2/08,\nBFH/NV 2009, 1404).\n11\nIm Streitfall ist entscheidend, wer als „Leistungsempfänger“ der Zahlungen des FA anzusehen ist.\n12\na) Waren an einem Erstattungsvorgang mehrere Personen beteiligt, muss der Leistungsempfänger im\nSinne des § 37 Abs. 2 AO nicht notwendig mit dem Empfänger der Zahlung (Überweisung) identisch sein.\nSchuldner eines abgabenrechtlichen Rückforderungsanspruchs ist nach ständiger Rechtsprechung des\nBFH derjenige, zu dessen Gunsten erkennbar die Zahlung geleistet wurde, die zurückverlangt wird. Dies ist\nin der Regel derjenige, demgegenüber die Finanzbehörde ihre - vermeintliche oder tatsächlich bestehende -\nabgabenrechtliche Verpflichtung erfüllen will. Ein Dritter ist folglich, obgleich tatsächlicher Empfänger einer\nZahlung, dann nicht Leistungsempfänger, wenn er lediglich als Zahlstelle, unmittelbarer Vertreter oder Bote\nfür den Erstattungsberechtigten aufgetreten bzw. von diesem benannt worden ist oder das FA aufgrund\neiner Zahlungsanweisung des Erstattungsberechtigten an ihn eine Steuererstattung ausgezahlt hat. Denn in\neinem solchen Fall will das FA erkennbar nicht mit befreiender Wirkung zu dessen Gunsten leisten, sondern\nes erbringt seine Leistung mit dem Willen, eine Forderung gegenüber dem steuerlichen Rechtsinhaber zu\nerfüllen. Mithin ist nicht der Zahlungsempfänger, sondern der nach materiellem Steuerrecht\nErstattungsberechtigte als Leistungsempfänger i.S. des § 37 Abs. 2 AO 1977 anzusehen.\n13\nb) Nimmt dagegen ein vermeintlicher Bote, Vertreter oder Bevollmächtigter Erstattungszahlungen des FA\nentgegen, obwohl keine Weisung oder Vollmacht besteht, so hat das FA gegenüber dem\nErstattungsberechtigten nicht mit befreiender Wirkung geleistet. Ungeachtet des Willens des FA, an den\nRechtsinhaber der Erstattungsforderung eine Leistung zu erbringen, ist der tatsächliche Empfänger der\nZahlung des FA dann Leistungsempfänger und Schuldner des Rückforderungsanspruchs. Dasselbe gilt,\nwenn das FA an den Dritten eine Zahlung in der irrigen Annahme vorgenommen hat, er sei von dem\nErstattungsberechtigten ermächtigt, für diesen Zahlungen entgegenzunehmen, in Wahrheit jedoch eine\ndiesbezügliche Rechtsbeziehung zwischen dem Zahlungsempfänger und dem Erstattungsberechtigten nicht\nbesteht (ständige Rechtsprechung; vgl. Urteil des BFH vom 30. August 2005 VII R 64/04, BStBl II 2006, 353\nm.w.N.). Stimmen die Vorstellungen der Beteiligten über den Zweck der Zahlung nicht überein, ist der\nZahlungszweck aufgrund einer objektiven Betrachtungsweise aus der Sicht des Zahlungsempfängers zu\nermitteln.\n14\nc) Zahlt ein FA während eines Insolvenzverfahrens (hier: Eigenheimzulage) auf ein Anderkonto, das der\nInsolvenzverwalter führt, um über dieses Konto ein bestimmtes Insolvenzverfahren abzuwickeln, kommt\nnach den geschilderten Grundsätzen als Leistungsempfänger\n- die Insolvenzmasse oder\n- der Insolvenzverwalter persönlich - so das FA im Streitfall - in Betracht. Die jüngere Rechtsprechung der\nFinanzgerichte beurteilt die Problematik unterschiedlich.\n15\nDas Finanzgericht Baden-Württemberg (Urteil vom 1. Juli 2015 1 K 1231/13, EFG 2015, 1788) hat\nangenommen, es liege ein Sachverhalt vor, der unter die in Buchstabe a geschilderten\nRechtsprechungsgrundsätze fällt und hat die Insolvenzmasse als Leistungsempfänger angesehen. Das\nFinanzgericht Münster (Urteil vom 9. Juni 2016 6 K 213/13 AO, EFG 2016, 1221) und das Finanzgericht\nSchleswig-Holstein (Urteil vom 6. September 2017 5 K 42/15, EFG 2017, 1853) haben einen\nRückforderungsanspruch gegen das Privatvermögen des Insolvenzverwalters bejaht.\n16\n2. Unterfällt ein Erstattungsanspruch dem Insolvenzbeschlag (§ 80, § 35 Insolvenzordnung -InsO-), kann\ndas FA mit befreiender Wirkung nur in die Insolvenzmasse leisten (vgl. zuletzt BFH-Urteil vom 20.\nSeptember 2016 VII R 10/15, BFH/NV 2017, 442). Hiernach konsequent ist die Ansicht des Finanzgerichts\nBaden-Württemberg, dass die Zahlungen der Eigenheimzulagen durch das FA dem Ziel dienten, die\nAnsprüche der Insolvenzmasse zu befriedigen und an den Insolvenzverwalter als Berechtigten, Ansprüche\nder Masse geltend zu machen, gezahlt hat. Aus dieser Zweckbestimmung hat das Finanzgericht sodann\nden Schluss gezogen, dass die Zahlungen der Masse zugeflossen sind ohne dass es darauf ankommt, auf\nwelche Art von Bankkonto die Zahlung tatsächlich geflossen ist. Diese Beurteilung entspricht den\nGrundsätzen, die der BFH noch im Beschluss vom 30. Juni 2011 VII B 124/10, BFH/NV 2011, 2112,\naufgestellt hat.\n17\nBei der Beurteilung des Zwecks der Zahlungen liegen die Verhältnisse des Streitfalls entsprechend. Das FA\nhat erkennbar seine Zahlungspflichten in die Insolvenzmasse erfüllen wollen. Zweck der Auszahlungen der\nEigenheimzulagen war damit, die Insolvenzmasse zu mehren, d.h. die Zahlungen sollten an den Kläger „als\nInsolvenzverwalter“, nicht aber an ihn persönlich, erfolgen. Nimmt man also mit dem Finanzgericht Baden-\nWürttemberg an, der Sachverhalt falle unter die ständige Rechtsprechung des BFH, die oben in Nr. 1a\nerläutert ist, ist der Klage stattzugeben. Denn Rechtsfolge dieser Ansicht ist, dass\n- sich während des Insolvenzverfahrens ein Rückforderungsanspruch gegen die Insolvenzmasse richtet\n- während er nach Abschluss des Insolvenzverfahrens gegen den Insolvenzschuldner geltend zu machen\nist.\n18\nDanach kann das FA den Kläger nicht mit seinem Privatvermögen in Anspruch nehmen.\n19\n3. Der Bundesgerichtshof (BGH) unterscheidet in ständiger Rechtsprechung zwischen Zahlungen auf ein\nAnderkonto und Zahlungen auf Sonderkonten. Sonderkonten in diesem Sinn sind Konten, die auf den\nNamen des Insolvenzschuldners lauten, während der Insolvenzverwalter nur die Vollmacht hat, über das\nKonto zu verfügen (vgl. hierzu Schmidt/Büteröwe § 35 InsO Rz. 28). Anderkonten lauten dagegen auf den\nNamen des Insolvenzverwalters. Damit handelt es sich bei Anderkonten um Bankkonten, deren Guthaben\nnur dem Insolvenzverwalter als Privatperson und nicht dem Insolvenzschuldner bzw. der Insolvenzmasse\nals Sondervermögen zustehen. An diesem sich aus dem Rechtsverhältnis zwischen der Bank und dem\nInsolvenzverwalter ergebenden Sachverhalt ändert auch der Umstand nichts, dass der Insolvenzverwalter\ndas Bankguthaben treuhänderisch entsprechend seinen Pflichten als Insolvenzverwalter zu verwalten hat.\nRechtsfolge ist nach den BGH-Urteilen, dass Zahlungen auf ein Anderkonto des Insolvenzverwalters weder\nin das Vermögen des Insolvenzschuldners übergehen noch in die Insolvenzmasse fallen (Urteile des BGH\nvom 18. Dezember 2008 IX ZR 192/07 ZIP 2009, 531; vom 12. Mai 2011 IX R ZR 133/10, ZIP 2011, 1220\nund vom 15. Dezember 2011 IX R 118/11, ZIP 2012, 333). Erfolgen ungerechtfertigte Zahlungen auf ein\nAnderkonto ist ein zivilrechtlicher Rückzahlungsanspruch damit gegen den Insolvenzverwalter geltend zu\nmachen, der zivilrechtlich - anders als im Steuerrecht gemäß § 37 Abs. 2 AO - den Wegfall der\nBereicherung geltend machen kann, wenn er die Zahlung zugunsten der Insolvenzmasse verwendet\nwährend er z.B. bei einer Verwendung für eigene Honoraransprüche rückzahlungspflichtig bleibt.\n20\nIm Beschluss vom 12. August 2013 VII B 188/12, BFH/NV 2013, 1907 führt der BFH auf, dass mit dieser\nRechtsprechung des BGH geklärt ist, dass Zahlungen auf ein Anderkonto weder in das Schuldnervermögen\nnoch in die Insolvenzmasse fallen sondern ausschließlich dem Insolvenzverwalter zustehen und von diesem\nnach bereicherungsrechtlichen Grundsätzen zurückgefordert werden können. Sodann führt der BFH aus,\ndass dieser Grundsatz auch auf Ansprüche gemäß § 37 Abs. 2 AO übertragen werden kann.\n21\nDie Finanzgerichte Münster (Urteil vom 9. Juni 2016 6 K 213/13 AO, EFG 2016, 1221) und Schleswig-\nHolstein (Urteil vom 6. September 2017 5 K 42/15, EFG 2017, 1853) haben aus diesem BFH-Beschluss den\nSchluss gezogen, dass bei Zahlungen auf ein Anderkonto Rückforderungsansprüche gemäß § 37 Abs. 2\nAO gegen Insolvenzverwalter persönlich geltend zu machen sind. Dieser Schlussfolgerung vorhergehend\ngingen beide Finanzgerichte davon aus, dass das Finanzamt an die Masse zahlen wollte und der\nInsolvenzverwalter berechtigt war, für die Masse zu handeln.\n22\nDie Verwaltung hat (Schreiben des Bundesministers der Finanzen -BMF - vom 31. Januar 2019, BStBl I\n2019, 71, 89) mit sofortiger Wirkung den Anwendungserlass zur Abgabenordnung (AEAO) in Nr. 14 zu\n§ 251 AO an die Rechtsprechung des BFH angepasst. Nach der Neufassung „können“ während des\nlaufenden Insolvenzverfahrens ohne rechtlichen Grund an den Insolvenzverwalter ausbezahlte Ansprüche\naus dem Steuerschuldverhältnis nach Aufhebung des Insolvenzverfahrens vom früheren Insolvenzverwalter\nzurückgefordert werden, wenn die Zahlung auf ein Anderkonto eingegangen war. Bei Zahlungen auf\nSonderkonten, die vom Insolvenzverwalter für den Schuldner als Kontoinhaber (Fremdkonto) eingerichtet\nwurden, kann er nach der Neufassung dagegen nur in seiner Eigenschaft als Insolvenzverwalter in\nAnspruch genommen werden.\n23\n4. Der Senat schließt sich der Rechtsansicht des Finanzgerichts Baden-Württemberg (Urteil vom 1. Juli\n2015 1 K 1231/13, EFG 2015, 1788) an.\n24\na) Aus der Begründung des nicht amtlich veröffentlichten Beschlusses des BFH vom 12. August 2013 VII B\n188/12, BFH/NV 2013, 1907 geht nicht hervor, dass der BFH seine ständige Rechtsprechung, nach der der\nLeistungsempfänger in der Regel derjenige ist, demgegenüber die Finanzbehörde ihre abgabenrechtlichen\nPflichten erfüllen will, für einen Sonderfall aufgeben wollte. Die Beschlussgründe enthalten keinerlei\nAusführungen zu dieser Frage und der Sachverhalt, über den der BFH in dem Beschluss entschieden hat,\nist nicht veröffentlicht. Nach der Überschrift in BFH/NV ging es um die Rückforderung einer\nFehlüberweisung. Nicht klar ersichtlich ist damit, ob der BFH nur einen Fall einer Fehlzahlung geklärt hat,\nder unter die oben unter 1.b geschilderten Rechtsgrundsätze fällt, oder ob der Beschluss ausnahmslos für\nalle Zahlungen auf Anderkonten gilt.\n25\nb) Würde man die Zahlungen von Finanzämtern auf Anderkonten allgemein als Fehlzahlungen nach den\noben unter Buchstabe 1.b geschilderten Grundsätzen ansehen, hätte dies weitreichende Konsequenzen. In\ndiesem Fall hätten Zahlungen von Finanzämtern auf Anderkonten in keinem Fall schuldbefreiende Wirkung\ngegenüber den Ansprüchen der Masse und müssten von den Finanzämtern grundsätzlich verweigert\nwerden. In der Praxis werden Anderkonten indes häufig eingesetzt und sind allgemein akzeptiert (vgl.\nKübler/Prütting/Bork InsO § 149 Rz. 8). Verwendet ein Insolvenzverwalter Anderkonten, kann er folglich\nnicht geltend machen, er hätte dies nicht tun dürfen und Zahlungen auf das Konto würden deshalb\nAnsprüche der Masse nicht befriedigen. Auch die Finanzgerichte Münster und Schleswig-Holstein gingen\nnicht von Fehlzahlungen aus, sondern haben angenommen, dass Insolvenzverwalter Zahlungen auf\nAnderkonten verlangen dürfen, diese also schuldbefreiende Wirkung im Verhältnis Finanzamt/Masse\nhaben. Dies wird insbesondere aus den Ausführungen des FG Schleswig-Holstein zur Verjährung (siehe\nunten 5) deutlich.\n26\nc) Unter der Prämisse, dass Zahlungen auf ein Anderkonto schuldbefreiende Wirkung haben, ist es nach\nAnsicht des Senats indes nicht gerechtfertigt, Insolvenzverwalter steuerrechtlich persönlich als\nZahlungsempfänger anzusehen.\n27\nDie Bestimmung des steuerrechtlichen Leistungsempfängers hinge dann davon ab, ob die Zahlung durch\nÜberweisung auf ein Sonderkonto sofort zivilrechtlich in die Insolvenzmasse fällt oder ob der\nInsolvenzverwalter die Gelder erst später zivilrechtlich der Insolvenzmasse zuführt. Indes führt der BFH im\nBeschluss vom 12. August 2013 VII B 188/12, BFH/NV 2013, 1907 aus, dass Gelder auf Anderkonten\nwirtschaftlich zur Insolvenzmasse gehören. Damit haben die Zahlungen das Zahlungsziel des FA erreicht.\nDies ändert sich mit Abschluss des Insolvenzverfahrens nicht. Bei gesetzeskonformen Ablauf des\nInsolvenzverfahrens nach den Vorschriften der Insolvenzordnung ist die zivilrechtliche Verwendung der\nGelder für den vom FA angestrebten Zweck zudem sicher. Die zivilrechtliche Zuführung zur Masse erfolgt\nspätestens bei der Schlussverteilung (§ 196, § 199 InsO). Das Zivilrecht löst die Problematik sachgerecht\nüber das Rechtsinstitut des Wegfalls der Bereicherung. Im Steuerrecht ist das sachgerechte Korrektiv die\nBestimmung des Leistungsempfängers nach dem Zweck der Zahlung.\n28\nAufgrund der vorgenannten gesetzlichen Regelungen des Insolvenzverfahrens hält es der Senat nicht für\ngerechtfertigt, Insolvenzverwalter wie zivilrechtlich tätige Treuhänder (vgl. BFH vom 9. April 1991 VII B\n168/90, BFH/NV 1992, 148; Boeker in Hübschmann/Hepp /Spitaler AO § 37 Rz. 71a) ausnahmslos als\nLeistungsempfänger anzusehen. Dies ist vielmehr nur in den Fällen sachgerecht, in denen sie\nFehlzahlungen vereinnahmt haben, die nicht in die Masse gehören. Denn Insolvenzverwalter machen ihre\nAnsprüche nicht im eigenen Namen für sich sondern für die Insolvenzmasse geltend.\n29\n5. Nach der hier vertretenen Ansicht kommt es auf die Frage der Verjährung nicht an. Hilfsweise weist der\nSenat auf Folgendes hin:\n30\nNach § 228 AO verjähren Zahlungsansprüche aus einem Steuerschuldverhältnis innerhalb von fünf Jahren.\nBei Fehlzahlungen beginnt die Verjährung mit Ablauf des Kalenderjahres, in dem die Zahlung erfolgte und\nnicht erst mit der späteren Änderung eines Steuerbescheids (hier die Aufhebung des\nEigenheimzulagenbescheids im Jahr 2016; § 229 AO; vgl. BFH-Urteil vom 12. Mai 2009 IX R 2/08, BFH/NV\n2009, 1404). Ferner führen bei Fehlzahlungen Vorgänge bei der Festsetzung der Eigenheimzulage (hier die\nSchreiben des FA S an Frau S ab dem Jahr 2016) nicht zu einer Unterbrechung der Verjährung. Geht man\nvon einer fünfjährigen Verjährungsfrist aus, wären im Streitfall (letzte Zahlungen im Jahr 2012) alle\nRückzahlungsansprüche im Jahr 2018 bereits verjährt gewesen.\n31\nDas FG Schleswig-Holstein geht indes davon aus, dass die Frist zur Zahlungsverjährung erst mit Erlass des\nAufhebungsbescheids im Jahr 2016 beginnt. Das FG geht also nicht von einer Fehlzahlung sondern von\neiner rechtmäßigen Zahlung des FA auf das Anderkonto aus. So liegen die Verhältnisse auch im Streitfall.\nFordert ein Insolvenzverwalter Schuldner auf, Zahlungen zur Masse auf ein Anderkonto zu leisten, kann er\nnicht hinterher geltend machen, dass er dies nicht hätte tun dürfen (siehe oben unter 4.b).\n32\n6. Soweit das Finanzamt die Aufrechnung des Anspruchs auf Eigenheimzulage mit\nUmsatzsteueransprüchen gegen die Masse erklärt hat, ist die Klage aus anderen Gründen begründet:\n33\nDie Aufrechnung des FA zwischen dem gegen die Insolvenzmasse gerichteten Umsatzsteueranspruch und\ndem Anspruch der Masse auf Erstattung der Eigenheimzulage 2011 hat zur Folge, dass beide Ansprüche\nerlöschen. Als Folge erfolgte die Rückzahlung der vom Insolvenzverwalter nach dem Erlöschen gezahlten\nUmsatzsteuer nicht ohne Rechtsgrund. Denn das FA hat die fehlerhafte Zahlung korrigiert.\n34\nMit der Aufhebung der Festsetzung der Eigenheimzulage mit Bescheid vom 1. Februar 2016 hat die\nAufrechnung ihre ursprüngliche Erlöschenswirkung nachträglich wieder verloren (vgl. BFH-Urteile vom 30.\nMärz 2006 V R 60/04, BFH/NV 2006, 1434 und vom 6. Februar 1990 VII R 86/88, BStBl II 1990, 523, 526).\nEin dadurch wiederauflebender Anspruch auf Zahlung der Umsatzsteuer ist indes nicht Gegenstand des\nVerfahrens. Gleiches gilt für die streitige Rückzahlung in Höhe von 1.021,85 €. Der\nRückforderungsbescheid betrifft nur Auszahlungen der Eigenheimzulage, nicht aber eine Rückzahlung von\nUmsatzsteuer. Es ist nicht zulässig, dass das FA im Laufe eines finanzgerichtlichen Verfahrens den\nursprünglichen tatsächlichen Zahlungszweck der Zahlung 2012 (Rückzahlung überzahlter Umsatzsteuer) an\nden im Rückforderungsbescheid geltend gemachten Zahlungsgrund (Zahlung von Eigenheimzulage)\nanpasst. Der Rückzahlungsgrund kann nicht während des gerichtlichen Verfahrens beliebig ausgetauscht\nwerden. Gegenstand der Klage ist ausschließlich der Rückforderungsbescheid.\n35\nDie Revision wird zugelassen (§ 115 Abs. 2 Nr. 2 FGO).\n\n"
+}

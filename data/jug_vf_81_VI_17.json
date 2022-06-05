@@ -1,0 +1,1721 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 57,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 63,
+            "start": 58,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wertfestsetzung",
+            "end": 156,
+            "start": 141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 169,
+            "start": 157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 193,
+            "start": 192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 222,
+            "start": 220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 248,
+            "start": 247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 288,
+            "start": 287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 298,
+            "start": 289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwer",
+            "end": 563,
+            "start": 555,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 573,
+            "start": 572,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 597,
+            "start": 596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 747,
+            "start": 744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1040,
+            "start": 1037,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1050,
+            "start": 1049,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1074,
+            "start": 1073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 1222,
+            "start": 1218,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1232,
+            "start": 1231,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1256,
+            "start": 1255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1518,
+            "start": 1512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unrichtig",
+            "end": 1642,
+            "start": 1633,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1652,
+            "start": 1651,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1676,
+            "start": 1675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1688,
+            "start": 1677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kostenansatz",
+            "end": 1798,
+            "start": 1786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1809,
+            "start": 1799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1864,
+            "start": 1862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 1876,
+            "start": 1865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1141",
+            "end": 1895,
+            "start": 1891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "514",
+            "end": 1912,
+            "start": 1909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1141",
+            "end": 1927,
+            "start": 1923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1933,
+            "start": 1928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1978,
+            "start": 1968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 2043,
+            "start": 2034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 2064,
+            "start": 2045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 2066,
+            "start": 2065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 2069,
+            "start": 2068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 2358,
+            "start": 2353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeinstanz",
+            "end": 2819,
+            "start": 2802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2822,
+            "start": 2821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 3063,
+            "start": 3055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwesen",
+            "end": 3156,
+            "start": 3149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sohn",
+            "end": 3277,
+            "start": 3273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begleitet",
+            "end": 3388,
+            "start": 3379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 3494,
+            "start": 3484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fort",
+            "end": 3528,
+            "start": 3524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlägen",
+            "end": 3733,
+            "start": 3725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 3736,
+            "start": 3735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 3952,
+            "start": 3946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 4114,
+            "start": 4107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzustellen",
+            "end": 4223,
+            "start": 4210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4410,
+            "start": 4406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zerstören",
+            "end": 4496,
+            "start": 4487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 4624,
+            "start": 4614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mutter",
+            "end": 4701,
+            "start": 4695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 4794,
+            "start": 4787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersprungen",
+            "end": 4860,
+            "start": 4848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerechtfertigt",
+            "end": 5010,
+            "start": 4996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 5013,
+            "start": 5012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 5365,
+            "start": 5360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 5444,
+            "start": 5435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 5542,
+            "start": 5531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 5682,
+            "start": 5675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Indizien",
+            "end": 5735,
+            "start": 5727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5838,
+            "start": 5835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6102,
+            "start": 6098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hineingewachsen",
+            "end": 6183,
+            "start": 6168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6381,
+            "start": 6378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verteilen",
+            "end": 6539,
+            "start": 6530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beteiligten",
+            "end": 6610,
+            "start": 6599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 6613,
+            "start": 6612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnung",
+            "end": 6868,
+            "start": 6860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6871,
+            "start": 6870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7411,
+            "start": 7405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7524,
+            "start": 7518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 7903,
+            "start": 7894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 8019,
+            "start": 8013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 8144,
+            "start": 8138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 8247,
+            "start": 8238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehle",
+            "end": 8526,
+            "start": 8521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 8529,
+            "start": 8528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 8631,
+            "start": 8625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beurteilen",
+            "end": 8769,
+            "start": 8759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstanden",
+            "end": 8893,
+            "start": 8883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 8962,
+            "start": 8954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9207,
+            "start": 9204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adoption",
+            "end": 9371,
+            "start": 9363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 9527,
+            "start": 9524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9631,
+            "start": 9625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9778,
+            "start": 9772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 9781,
+            "start": 9780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 9986,
+            "start": 9972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 9989,
+            "start": 9988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 10284,
+            "start": 10280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 10390,
+            "start": 10389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 10394,
+            "start": 10392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 10509,
+            "start": 10503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 10513,
+            "start": 10511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 10517,
+            "start": 10515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsschutz",
+            "end": 10844,
+            "start": 10832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 10848,
+            "start": 10846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbeschieden",
+            "end": 10995,
+            "start": 10982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachentscheidung",
+            "end": 11289,
+            "start": 11273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 11517,
+            "start": 11511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 11563,
+            "start": 11557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 11567,
+            "start": 11565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 11687,
+            "start": 11683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 11796,
+            "start": 11792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 11899,
+            "start": 11893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 12045,
+            "start": 12038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bremen",
+            "end": 12179,
+            "start": 12173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 12183,
+            "start": 12181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 12267,
+            "start": 12259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prognostiziert",
+            "end": 12643,
+            "start": 12629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 12763,
+            "start": 12760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 12767,
+            "start": 12765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 12883,
+            "start": 12874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 13109,
+            "start": 13106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 13249,
+            "start": 13246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 13428,
+            "start": 13423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13432,
+            "start": 13430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 13732,
+            "start": 13727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13736,
+            "start": 13734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 13856,
+            "start": 13847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweisen",
+            "end": 14202,
+            "start": 14193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14206,
+            "start": 14204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 14376,
+            "start": 14372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 14499,
+            "start": 14492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfahre",
+            "end": 14652,
+            "start": 14644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14656,
+            "start": 14654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 14713,
+            "start": 14707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reduziert",
+            "end": 14901,
+            "start": 14892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuführen",
+            "end": 15057,
+            "start": 15043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 15177,
+            "start": 15172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sanktionieren",
+            "end": 15343,
+            "start": 15330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 15416,
+            "start": 15405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 15499,
+            "start": 15491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15503,
+            "start": 15501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 15654,
+            "start": 15643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 15659,
+            "start": 15656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 15663,
+            "start": 15661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 15714,
+            "start": 15704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 15718,
+            "start": 15716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingehalten",
+            "end": 15893,
+            "start": 15882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureichen",
+            "end": 16130,
+            "start": 16118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelaufen",
+            "end": 16340,
+            "start": 16330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 16344,
+            "start": 16342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesetzt",
+            "end": 16518,
+            "start": 16511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenstand",
+            "end": 16631,
+            "start": 16621,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17134,
+            "start": 17133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 17138,
+            "start": 17136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 17375,
+            "start": 17370,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17846,
+            "start": 17845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 17968,
+            "start": 17962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 17972,
+            "start": 17970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 18228,
+            "start": 18218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 18232,
+            "start": 18230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnen",
+            "end": 18392,
+            "start": 18382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 18578,
+            "start": 18570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 18731,
+            "start": 18727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 18863,
+            "start": 18853,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19161,
+            "start": 19160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 19165,
+            "start": 19163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzusetzen",
+            "end": 19465,
+            "start": 19453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 19604,
+            "start": 19600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 19804,
+            "start": 19798,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20025,
+            "start": 20024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wertvorschrift",
+            "end": 20087,
+            "start": 20073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 20397,
+            "start": 20388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 20401,
+            "start": 20399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 20556,
+            "start": 20551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 20640,
+            "start": 20631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 20744,
+            "start": 20733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 20748,
+            "start": 20746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angegeben",
+            "end": 20880,
+            "start": 20871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewertet",
+            "end": 21068,
+            "start": 21060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 21186,
+            "start": 21185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 21376,
+            "start": 21375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründete",
+            "end": 21706,
+            "start": 21696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vermögens",
+            "end": 21865,
+            "start": 21856,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22341,
+            "start": 22340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 22345,
+            "start": 22343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 22587,
+            "start": 22582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fallgestaltung",
+            "end": 22849,
+            "start": 22835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 22984,
+            "start": 22972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 22988,
+            "start": 22986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 23224,
+            "start": 23217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 23228,
+            "start": 23226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 23232,
+            "start": 23230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 23423,
+            "start": 23412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 23427,
+            "start": 23425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenzen",
+            "end": 23513,
+            "start": 23506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsmittelgericht",
+            "end": 23546,
+            "start": 23527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 23742,
+            "start": 23736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbürgen",
+            "end": 23962,
+            "start": 23953,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24248,
+            "start": 24247,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24773,
+            "start": 24772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 24777,
+            "start": 24775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24886,
+            "start": 24880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 24890,
+            "start": 24888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 24966,
+            "start": 24963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 24970,
+            "start": 24968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwägungen",
+            "end": 25196,
+            "start": 25186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BV",
+            "end": 25310,
+            "start": 25308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 25394,
+            "start": 25384,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25602,
+            "start": 25601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 25606,
+            "start": 25604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 25642,
+            "start": 25638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 25646,
+            "start": 25644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtslage",
+            "end": 25816,
+            "start": 25806,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26164,
+            "start": 26163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 26247,
+            "start": 26241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26378,
+            "start": 26372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 26519,
+            "start": 26513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 26523,
+            "start": 26521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 26792,
+            "start": 26787,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26934,
+            "start": 26933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 26938,
+            "start": 26936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 27087,
+            "start": 27079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 27091,
+            "start": 27089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 27347,
+            "start": 27339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genügt",
+            "end": 27526,
+            "start": 27520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlässt",
+            "end": 27743,
+            "start": 27735,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28241,
+            "start": 28240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 28245,
+            "start": 28243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 28504,
+            "start": 28495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 28508,
+            "start": 28506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "komme",
+            "end": 28852,
+            "start": 28847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 29212,
+            "start": 29209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 29331,
+            "start": 29321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 29509,
+            "start": 29504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 29830,
+            "start": 29829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuschließen",
+            "end": 30098,
+            "start": 30085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 30228,
+            "start": 30225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbezogen",
+            "end": 30374,
+            "start": 30364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 30378,
+            "start": 30376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 30600,
+            "start": 30589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anschließe",
+            "end": 30807,
+            "start": 30797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermissen",
+            "end": 30895,
+            "start": 30886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 30951,
+            "start": 30936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 30955,
+            "start": 30953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 31096,
+            "start": 31091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 31100,
+            "start": 31098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 31255,
+            "start": 31252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 31383,
+            "start": 31379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 31520,
+            "start": 31513,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31706,
+            "start": 31705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anhörung",
+            "end": 31806,
+            "start": 31798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 31946,
+            "start": 31941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "spielten",
+            "end": 32267,
+            "start": 32259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 32271,
+            "start": 32269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellen",
+            "end": 32563,
+            "start": 32552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 32860,
+            "start": 32855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterrichten",
+            "end": 33027,
+            "start": 33015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 33031,
+            "start": 33029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 33280,
+            "start": 33271,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33725,
+            "start": 33724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 33729,
+            "start": 33727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 33803,
+            "start": 33795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 33807,
+            "start": 33805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausprägung",
+            "end": 33874,
+            "start": 33864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnten",
+            "end": 34033,
+            "start": 34026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 34359,
+            "start": 34355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzugehen",
+            "end": 34486,
+            "start": 34476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 34661,
+            "start": 34658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erörtern",
+            "end": 34776,
+            "start": 34768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 35039,
+            "start": 35033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 35191,
+            "start": 35190,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35455,
+            "start": 35454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 35459,
+            "start": 35457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzustellen",
+            "end": 35568,
+            "start": 35555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 35572,
+            "start": 35570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinandergesetzt",
+            "end": 35754,
+            "start": 35736,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35978,
+            "start": 35977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingegangen",
+            "end": 36069,
+            "start": 36058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 36236,
+            "start": 36233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geteilt",
+            "end": 36393,
+            "start": 36386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gehör",
+            "end": 36463,
+            "start": 36458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 36467,
+            "start": 36465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amtsgericht",
+            "end": 36691,
+            "start": 36680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 36822,
+            "start": 36818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 36983,
+            "start": 36974,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37372,
+            "start": 37371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "V",
+            "end": 37375,
+            "start": 37374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 37379,
+            "start": 37377,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37487,
+            "start": 37486,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 31.01.2019 – Vf. 81-VI-17\nTitel:\nVerfassungsgerichtliche Überprüfung einer Kostengrundentscheidung und einer\nWertfestsetzung\nNormenketten:\nFamFG § 81 Abs. 1 S. 2\nFamGKG § 20 Abs 1 S. 1, § 55\nVfGHG Art. 51 Abs. 2 S. 2\nBayVerf Art. 91 Abs. 1, Art. 118 Abs. 1\nLeitsätze:\n1. Die eine Nachholung rechtlichen Gehörsablehnende Entscheidung lässt allenfalls eine bereits\ndurch dieAusgangsentscheidung eingetretene Verletzung rechtlichen Gehörs fortbestehen,indem\ndie „Selbstkorrektur“ unterbleibt, schafft aber keine eigenständige Beschwer. (Rn. 24) (red. LS Axel\nBurghart)\n2. Ist eine Gerichtsentscheidung unter Anwendungvon Bundesrecht ergangen, beschränkt sich die\nPrüfung darauf, ob das Gerichtwillkürlich gehandelt hat. In verfahrensrechtlicher Hinsicht überprüft\nderVerfassungsgerichtshof Entscheidungen, die in einem bundesrechtlich geregeltenVerfahren\nergangen sind, auch daraufhin, ob ein Verfahrensgrundrecht derBayerischen Verfassung verletzt\nwurde, das mit gleichem Inhalt im Grundgesetzgewährleistet ist. (Rn. 33) (red. LS Axel Burghart)\n3. Das Willkürverbot wird nicht dadurch verletzt,dass eine Rechtsvorschrift von verschiedenen\nGerichten unterschiedlichausgelegt und angewandt wird. (Rn. 48) (red. LS Axel Burghart)\n4. Nur dann, wenn sich aus den besonderen Umständendes Einzelfalls klar und deutlich ergibt, dass\ndas Gericht einentscheidungserhebliches Vorbringen nicht zur Kenntnis genommen oder\nnichterwogen hat, kann eine Verletzung des rechtlichen Gehörs angenommen werden.\nDieVerletzung des rechtlichen Gehörs kann nicht damit begründet werden, die vomGericht\nvertretene Auffassung sei unrichtig. (Rn. 50) (red. LS Axel Burghart)\nSchlagworte:\nAdoption, Kostenentscheidung, Willkürverbot, rechtliches Gehör, Anhörungsrüge, Wertfestsetzung,\nKostenansatz\nVorinstanz:\nAG Starnberg, Beschluss vom 11.10.2017 – 33 UF 477/17\nFundstellen:\nBeckRS 2019, 1141\nNJW-RR 2019, 514\nLSK 2019, 1141\nTenor\n1. Die Verfassungsbeschwerde wird abgewiesen.\n2. Den Beschwerdeführern wird eine Gebühr von 1.500 € auferlegt.\nEntscheidungsgründe\nI.\n1\nDie Verfassungsbeschwerde richtet sich gegen Entscheidungen des Oberlandesgerichts München zu den\nKosten des Verfahrens in der Familiensache Az. 33 UF 477/17, die die Annahme des Beschwerdeführers\nzu 1 als Kind durch seine Großeltern, die Beschwerdeführer zu 2 und 3, zum Gegenstand hatte. Angegriffen\nsind\n- die Kostenentscheidung im Beschluss vom 7. Juni 2017,\n- der Beschluss vom 11. Oktober 2017, durch den die Erinnerung der Beschwerdeführer zurückgewiesen\nwurde,\n- der Beschluss vom 21. November 2017, in dem die gegen den Beschluss vom 11. Oktober 2017 erhobene\nAnhörungsrüge der Beschwerdeführer zurückgewiesen wurde, und\n- ein weiterer Beschluss vom 21. November 2017 zur Festsetzung der Verfahrenswerte der ersten und der\nBeschwerdeinstanz.\n2\n1. Mit notarieller Urkunde vom 22. November 2016 beantragten die Beschwerdeführer den Erlass eines\nAdoptionsbeschlusses des Inhalts, dass die Beschwerdeführer zu 2 und 3 den Beschwerdeführer zu 1,\nihren volljährigen Enkel, als Kind annehmen. Zur Begründung führten sie u. a. aus: Sie lebten seit Mitte\n2010 gemeinsam in einem Anwesen. Der seit Oktober 2009 von der Kindsmutter geschiedene Kindsvater\nunterhalte seit 2004 keinerlei Kontakte zu seinem Sohn. Der Großvater habe die Stellung des Vaters\nübernommen und seinen Enkel vor allem bei der Berufswahl begleitet. Im Oktober 2015 hätten die\nGroßeltern dem Enkel Geschäftsanteile an ihrem Familienunternehmen übertragen; dieser führe ihr\nLebenswerk fort. Zwischen den Beteiligten bestünden auch darüber hinaus umfangreiche\nGemeinsamkeiten, familiäre Bindungen und eine innere Zuwendung, wie sie zwischen Eltern und\nerwachsenen Kindern typischerweise vorlägen.\n3\na) Das Amtsgericht Starnberg wies diesen Antrag durch Beschluss vom 20. März 2017 ab, wobei der\nVerfahrenswert auf 10.000 € festgesetzt und die Kosten des Verfahrens den Beschwerdeführern zu 2 und 3\nauferlegt wurden. Es bestehe zwar keinerlei Zweifel, dass zwischen den Großeltern und ihrem Enkel ein\naußergewöhnlich gutes Verhältnis mit häufigen persönlichen Kontakten bestehe. Dies reiche aber nicht aus,\num eine familiäre Bindung in Form eines Eltern-Sohn-Verhältnisses festzustellen. Der Beschwerdeführer zu\n1 habe eine intakte und enge Bindung zu seiner Mutter, die sich durch den Abbruch des Kontaktes mit dem\nVater nach der Trennung der Eltern noch intensiviert habe. Der Respekt vor dieser Beziehung fordere, sie\nnicht durch „Wegadoption“ zu zerstören. Das Hinzutreten weiterer Elternteile in der persönlichen\nBeziehungsebene sei nicht unproblematisch, zumindest nicht angemessen. Durch die Adoption würde der\nBeschwerdeführer zu 1 ein Bruder seiner Mutter. Es sei auch kein der natürlichen Generationenfolge\nentsprechender Altersunterschied gegeben; vielmehr würde im Fall der Adoption eine Generation\nübersprungen. Ob ein Eltern-Kind-Verhältnis bestehe oder dessen Entstehung zu erwarten sei, sei daher\nzweifelhaft, die Annahme somit sittlich nicht gerechtfertigt.\n4\nb) Diese Entscheidung hob das Oberlandesgericht München aufgrund der von den Beschwerdeführern,\nvertreten durch ihre Rechtsanwältin (leibliche Mutter des Beschwerdeführers zu 1 und Tochter der\nBeschwerdeführer zu 2 und 3), eingelegten Beschwerde mit dem im Kostenausspruch angegriffenen\nBeschluss vom 7. Juni 2017 auf und gab dem Adoptionsantrag statt. Die Gerichtskosten wurden den\nBeschwerdeführern zu je einem Drittel auferlegt; außergerichtliche Kosten wurden nicht erstattet und der\nVerfahrenswert auf 240.000 € festgesetzt. Zwar weise das Amtsgericht zu Recht auf Umstände hin, die\ngrundsätzlich gegen die Annahme eines Eltern-Kind-Verhältnisses sprechen könnten. Hierbei handle es\nsich jedoch lediglich um Indizien. In Anbetracht der Gesamtumstände sei davon auszugehen, dass ein\nEltern-Kind-Verhältnis entstanden sei. Der Großvater habe die Rolle des leiblichen Vaters übernommen, der\nseit 2004 jeglichen Kontakt mit seinem Sohn verweigert und dadurch, dass er die Söhne seiner neuen\nEhefrau adoptiert habe, zu erkennen gegeben habe, dass er sich andere Nachkommen ausgesucht habe.\nDie Großmutter sei an der Seite ihres Mannes in die Mutterrolle hineingewachsen. Das Bestehen einer\nintakten Beziehung des Beschwerdeführers zu 1 zu seiner leiblichen Mutter hindere die Adoption jedenfalls\ndann nicht, wenn - wie hier - ein Eltern-Kind-Verhältnis entstanden sei. Die Kostenentscheidung beruhe auf\n§ 81 Abs. 1 FamFG. Es entspreche billigem Ermessen, die Kosten des Verfahrens gleichmäßig auf die\nBeteiligten zu verteilen. Der Verfahrenswert belaufe sich auf 20% des Vermögens der Beteiligten.\n5\nDie Landesjustizkasse Bamberg stellte den Beschwerdeführern mit Kostenrechnungen vom 16. August\n2017 KSB 607172647806, KSB 616172692701, KSB 616172692809 für das Beschwerdeverfahren vor dem\nOberlandesgericht Gerichtskosten von jeweils 2.104 € in Rechnung.\n6\n2. Mit Erinnerung vom 12. September 2017 wandten sich die Beschwerdeführer, vertreten durch ihre\nBevollmächtigte, gegen diesen Kostenansatz und beantragten, gemäß § 81 Abs. 1 Satz 2 FamFG i. V. m. §\n20 FamGKG, § 21 GKG von der Erhebung der Gerichtskosten im Beschwerdeverfahren abzusehen und\nanzuordnen, dass mit den bereits erhobenen und bezahlten Kosten im Ausgangsverfahren vor dem\nAmtsgericht in Höhe von 812 € die Gerichtskostenschuld in beiden Verfahren vollständig erfüllt ist und keine\nweiteren Gebühren und Auslagen erhoben werden. Die Kosten der Rechtsmittelinstanz seien durch\nunrichtige Sachbehandlung des Ausgangsgerichts provoziert worden. Das Amtsgericht habe gegen die\nAmtsermittlungspflicht, die Amtsverschwiegenheit, den Grundsatz „iura novit curia“, grundrechtlich\ngeschütztes Recht, insbesondere die Menschenwürde, das allgemeine Persönlichkeitsrecht, die körperliche\nUnversehrtheit und den Schutz der Familie, sowie gegen den Grundsatz der Verfahrensökonomie und der\nressourcenschonenden Amtsausübung verstoßen. Ferner sei der Vortrag der Beteiligten missachtet und\ndadurch der Grundsatz des rechtlichen Gehörs verletzt worden. Zur Feststellung der Interessen hätte die\nleibliche Tochter der Beschwerdeführer zu 2 und 3 zwingend angehört werden müssen. Aufgrund der\nSchwere der Fehler habe das Amtsgericht gegen das Verbot richterlicher Willkür verstoßen. Die Erinnerung\nsei außerdem begründet, weil es trotz des Antrags auf Nichterhebung von Gerichtskosten in der\nBeschwerdeschrift an einer entsprechenden Ermessensausübung des Oberlandesgerichts sowie an einer\nEntscheidung über die Kosten untergliedert nach beiden Instanzen fehle.\n7\nDas Oberlandesgericht wies die Erinnerung mit dem angegriffenen Beschluss vom 11. Oktober 2017\nzurück. Da gemäß § 81 FamFG bereits eine rechtskräftige Kostenentscheidung vorliege, sei der Antrag\nnach § 20 Abs. 1 Satz 1 FamGKG zu beurteilen. Die Gerichtskosten der Beschwerdeinstanz seien nicht\naufgrund fehlerhafter Sachbehandlung durch das Amtsgericht entstanden. Den Bedarf einer Amtsermittlung\nvermöge der Senat nicht zu erkennen. Soweit die Amtsrichterin in einem anderen Verfahren in den Raum\ngestellt haben solle, dass durch die Adoption nur Erbschaftssteuer gespart werden solle, sei auf die\nVermutung zu verweisen, dass dies bei Verwandtenadoptionen häufig der Fall sei. Im Übrigen fehle es an\neiner Kausalität zwischen der behaupteten Verletzung der Amtsverschwiegenheit und dem Inhalt des\namtsgerichtlichen Beschlusses zur Adoption. Dass dessen Begründung in wesentlichen Teilen mit einem\nBeschluss des Oberlandesgerichts Bremen identisch sei, stelle keine fehlerhafte Sachbehandlung dar.\nDurch die für die Beschwerdeführer negative Entscheidung sei deren Menschenwürde nicht verletzt worden.\nDer Bevollmächtigten als leiblicher Tochter der Beschwerdeführer zu 2 und 3 sei die Möglichkeit zur\nschriftlichen Stellungnahme eingeräumt worden.\n8\n3. Die von den Beschwerdeführern, vertreten durch ihre Bevollmächtigte, hiergegen erhobene\nAnhörungsrüge wurde durch den angegriffenen Beschluss des Oberlandesgerichts vom 21. November 2017\nzurückgewiesen.\n9\n4. Mit einem weiteren Beschluss vom selben Tag, auf den sich die Verfassungsbeschwerde ebenfalls\nbezieht, schätzte das Oberlandesgericht den Wert des Reinvermögens der Beteiligten auf 2,5 Mio. € und\nsetzte den Verfahrenswert für beide Instanzen auf 20% dieses Betrags, somit auf 500.000 €, fest. Es\nreagierte damit auf eine Gegenvorstellung des Bezirksrevisors gegen den früheren Ansatz von 240.000 €.\n10\nDie Gegenvorstellung der Beteiligten gegen den Verfahrenswert wies es durch Beschluss vom 28.\nDezember 2017 zurück.\nII.\n11\n1. Mit ihrer am 22. Dezember 2017 eingegangenen Verfassungsbeschwerde rügen die Beschwerdeführer\ninsbesondere die Verletzung des Willkürverbots (Art. 118 Abs. 1 BV), des Anspruchs auf rechtliches Gehör\n(Art. 91 Abs. 1 BV) und des Rechts auf den gesetzlichen Richter (Art. 86 Abs. 1 Satz 2 BV) sowie auf\neffektiven Rechtsschutz.\n12\na) Das Oberlandesgericht habe den Antrag der Beschwerdeführer, von der Auferlegung der Kosten der\nBeschwerdeinstanz abzusehen, nicht verbeschieden. Da es trotz der ausdrücklich gerügten materiellen und\nformellen Fehler des Amtsgerichts von seinem pflichtgemäßen Ermessen gemäß § 81 Abs. 1 Satz 2\nFamFG keinen Gebrauch gemacht habe, sei die Auferlegung der Kosten der zweiten Instanz eine eigene\nunrichtige und unvertretbare Sachentscheidung. Zudem hätte das Oberlandesgericht im Hinblick auf die\nunrichtige Sachbehandlung des Amtsgerichts gemäß § 20 Abs. 1 Satz 1 FamGKG, § 21 Abs. 1 Satz 1 GKG\nvon der Erhebung der Gerichtskosten für die zweite Instanz absehen müssen. Folgende Rügen seien\ninsoweit erhoben worden:\n13\naa) Das Amtsgericht habe gegen die Amtsermittlungspflicht verstoßen, weil weiterer Sachaufklärungsbedarf\nbestanden habe. Dies ergebe sich bereits daraus, dass das Oberlandesgericht den erstinstanzlichen\nBeschluss korrigiert habe. Das Amtsgericht hätte die leibliche Tochter der Beschwerdeführer zu 2 und 3\npersönlich anhören müssen. Bei einer gesetzestreuen Wahrnehmung der Amtsermittlung wäre eine\nKorrektur des amtsgerichtlichen „Kopierbeschlusses“ nicht erforderlich gewesen. Dieser enthalte keine\nDarstellung des Individualsachverhalts, sondern sei eine Kopie eines Beschlusses des Oberlandesgerichts\nBremen.\n14\nbb) Die zuständige Amtsrichterin habe die Pflicht zur Amtsverschwiegenheit verletzt. Sie habe sich am 5.\nDezember 2016 im familiengerichtlichen Gütetermin eines die leiblichen Eltern des Beschwerdeführers zu 1\nbetreffenden Scheidungsfolgeverfahrens zu dem Adoptionsantrag öffentlich geäußert und dabei in\nrichterlicher Voreingenommenheit und ohne Kenntnisnahme des zugrunde liegenden Individualsachverhalts\nbereits eine Abweisung dieses Antrags prognostiziert. Dies stelle einen Verfassungsverstoß gegen Art. 85,\n86 Abs. 1 Satz 2, Art. 87 Abs. 1 sowie Art. 3 Abs. 1 Satz 1 BV dar.\n15\ncc) Das Amtsgericht habe gegen die Pflicht zur tatsächlichen und rechtlichen Würdigung (iura novit curia)\nverstoßen. Die Wiedergabe von Gründen eines Beschlusses des Oberlandesgerichts Bremen im Wege der\nKopierfunktion und die Abschreibeübung zu einem Urteil des Oberlandesgerichts Hamm stellten keine\nrichterliche Individualentscheidung dar. Zudem unterschieden sich die zugrunde liegenden Sachverhalte so\ngravierend und offensichtlich, dass eine Gleichbehandlung unvertretbar sei. Inzident sei eine Verletzung des\nArt. 85 BV gegeben, die mittelbar über den Verstoß gegen das Grundrecht auf den gesetzlichen Richter\ngemäß Art. 86 Abs. 1 Satz 2 BV gerügt werde.\n16\ndd) Verstöße gegen die Menschenwürde, das allgemeine Persönlichkeitsrecht, das Recht auf körperliche\nUnversehrtheit und auf Schutz der Familie ergäben sich daraus, dass die psychischen Auswirkungen der\nAblehnung des Adoptionsantrags auf den jugendlichen Beschwerdeführer zu 1 missachtet worden seien.\n17\nee) Das Amtsgericht habe gegen den Grundsatz der Verfahrensökonomie und der ressourcenschonenden\nAmtsausübung verstoßen. Die Tatsache, dass gegen erstinstanzliche Entscheidungen dieser Art die\nBeschwerde eröffnet sei, stelle für den erstinstanzlichen Richter keinen Freibrief aus, der Einfachheit halber\neinen sachverhaltsfremden Beschluss zu kopieren und, falls sich die Antragsteller damit nicht\nzufriedengeben sollten, diese an das Oberlandesgericht zu verweisen.\n18\nff) Die inhaltsleeren phrasenhaften Pauschalfeststellungen des Oberlandesgerichts ließen nicht erkennen,\ndass es sich mit den vorgetragenen Rügen auseinandergesetzt habe. Zudem habe das Oberlandesgericht\nNürnberg in einem vergleichbaren Fall keine Gebühren für das Beschwerdeverfahren erhoben. Aufgrund\nder zu fordernden Gleichbehandlung auch in der Kostenentscheidung sei es willkürlich, wenn das\nOberlandesgericht München nicht ebenso verfahre.\n19\nb) Der Verfahrenswert sei willkürlich festgesetzt worden. Während das Amtsgericht für die\nVorschussanforderung noch von einem Verfahrenswert von 30.000 € ausgegangen sei, habe es diesen im\n„Kopierbeschluss“ ohne Erklärung auf 10.000 € reduziert. Bereits die sich aus der Festsetzung des\nOberlandesgerichts in Höhe von 240.000 € ergebende Kostenforderung sei auf willkürliches Verhalten\nzurückzuführen. Dies gelte insbesondere im Hinblick darauf, dass zwischen der ersten und der zweiten\nInstanz nicht differenziert werde. Die weitere Erhöhung auf 500.000 € habe offensichtlich nur dem Ziel\ngedient, die aufmüpfigen Beschwerdeführer durch die Festsetzung des Höchstwerts zu sanktionieren. Es\nhabe keine Berechtigung bestanden, eine erneute Änderung vorzunehmen. Gleichzeitig sei der Anspruch\nder Beschwerdeführer auf rechtliches Gehör verletzt.\n20\n2. Nach Ansicht des Bayerischen Staatsministeriums der Justiz ist die Verfassungsbeschwerde teilweise\nunzulässig und im Übrigen jedenfalls unbegründet.\nIII.\n21\nDie Verfassungsbeschwerde ist teilweise unzulässig.\n22\n1. Im Hinblick auf die Kostenentscheidung (Nr. 4 des Tenors) im Beschluss des Oberlandesgerichts\nMünchen vom 7. Juni 2017 ist die Verfassungsbeschwerdefrist nicht eingehalten. Nach Art. 51 Abs. 2 Satz\n2 VfGHG ist die Verfassungsbeschwerde spätestens zwei Monate nach der schriftlichen Bekanntgabe der\nvollständigen letztgerichtlichen Entscheidung an die Beschwerdeführer beim Verfassungsgerichtshof\neinzureichen. Da der angegriffene Beschluss der Beschwerdeinstanz im Juni 2017 an die Beteiligten\nzugestellt wurde, war die Zwei-Monats-Frist bei Einreichung der Verfassungsbeschwerde am 22. Dezember\n2017 längst abgelaufen.\n23\nDurch die Beschlüsse des Oberlandesgerichts vom 11. Oktober und 21. November 2017 wurde hinsichtlich\nder Kostenentscheidung vom 7. Juni 2017 keine neue Frist in Lauf gesetzt. Denn das mit dem Antrag vom\n12. September 2017 eingeleitete Verfahren hatte nur den Kostenansatz zum Gegenstand; die angegriffene\nKostengrundentscheidung des Beschlusses vom 7. Juni 2017, auf der der Kostenansatz beruhte, war\nbereits rechtskräftig und konnte in diesem Verfahren nicht mehr nachgeprüft werden (BGH vom 20.9.2007 -\nIX ZB 37/07 - juris Rn. 3 f.; OLG Düsseldorf vom 11.4.2017 - 10 W 320/17 - juris Rn. 2; Schneider in\nSchneider/ Volpert/Fölsch, Gesamtes Kostenrecht, 2. Aufl. 2017, § 57 FamGKG Rn. 4; Zimmermann in\nBinz/Dörndorfer/Petzold/Zimmermann, GKG, FamGKG, JVEG, 3. Aufl. 2014, § 66 GKG Rn. 16).\n24\n2. Unzulässig ist die Verfassungsbeschwerde ferner, soweit sie sich gegen den Beschluss des\nOberlandgerichts München vom 21. November 2017 wendet, durch den die Anhörungsrüge gegen den\nBeschluss vom 11. Oktober 2017 zurückgewiesen wurde. Die eine Nachholung rechtlichen Gehörs\nablehnende Entscheidung (hier: § 61 FamGKG ) lässt allenfalls eine bereits durch die\nAusgangsentscheidung eingetretene Verletzung rechtlichen Gehörs fortbestehen, indem die\n„Selbstkorrektur“ durch die Fachgerichte unterbleibt, schafft aber keine eigenständige Beschwer (ständige\nRechtsprechung; vgl. VerfGH vom 2.10.2013 VerfGHE 66, 179/186; vom 9.7.2015 - Vf. 62-VI-14 - juris Rn.\n21; vom 24.2.2017 - Vf. 59-VI-15 - juris Rn. 33). Dem Vorbringen der Beschwerdeführer sind keine\nAnhaltspunkte zu entnehmen, die eine andere Einschätzung nahelegen würden.\n25\n3. Soweit sich die Verfassungsbeschwerde gegen den Beschluss des Oberlandesgerichts München vom\n21. November 2017 zur Änderung des Verfahrenswerts richtet, ist sie bereits mangels hinreichend\nsubstanziierter Darlegung eines Grundrechtsverstoßes unzulässig.\n26\na) Nach Art. 51 Abs. 1 Satz 1 VfGHG ist in einer Verfassungsbeschwerde das verfassungsmäßige Recht,\ndessen Verletzung die Beschwerdeführer rügen, zu bezeichnen. Die Beschwerdeführer dürfen sich dabei\nnicht damit begnügen, irgendeine ein verfassungsmäßiges Recht verbürgende Norm der Bayerischen\nVerfassung anzuführen und als verletzt zu benennen. Es muss vielmehr - jedenfalls in groben Umrissen -\nerkennbar sein, inwiefern durch eine Maßnahme oder Entscheidung ein solches Recht verletzt sein soll. Auf\nder Grundlage des Vortrags in der Verfassungsbeschwerde muss die behauptete Grundrechtsverletzung\nzumindest möglich erscheinen. Die bloße Behauptung, eine gerichtliche oder behördliche Entscheidung sei\nunrichtig oder fehlerhaft, genügt nicht den Anforderungen an die Begründung einer Verfassungsbeschwerde\n(ständige Rechtsprechung; vgl. VerfGH vom 14.9.2009 BayVBl 2010, 250/251; vom 4.10.2018 - Vf. 32-VI-\n17 -juris Rn. 16).\n27\naa) Gemäß § 55 Abs. 1 Satz 1 FamGKG ist in Verfahren, in denen Gebühren mit der Einreichung des\nAntrags fällig werden und deren Gegenstand keine bestimmte Geldsumme in Euro ist oder für deren\nRegelfall kein fester Wert bestimmt ist, der Verfahrenswert zu Beginn des Verfahrens vorläufig festzusetzen.\nSobald eine Entscheidung über den gesamten Verfahrensgegenstand ergeht, setzt das Gericht nach § 55\nAbs. 2 FamGKG den Wert endgültig fest. Nach § 55 Abs. 3 FamGKG kann das Gericht, das den Wert\nfestgesetzt hat, und, wenn das Verfahren in der Rechtsmittelinstanz schwebt, auch das Rechtsmittelgericht\ndie Festsetzung von Amts wegen ändern. Erkennt das Gericht die Unrichtigkeit der Festsetzung, muss\ndiese geändert werden (Dörndorfer in Binz/Dörndorfer/Petzold/Zimmermann, GKG, FamGKG, JVEG, § 55\nFamGKG Rn. 7; Siede in BeckOK Kostenrecht, § 55 FamGKG Rn. 46). Für Adoptionssachen existiert keine\nbesondere Wertvorschrift. Da es sich um nichtvermögensrechtliche Angelegenheiten handelt, ist der Wert\ngemäß § 42 Abs. 2 FamGKG unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des\nUmfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Beteiligten,\nnach billigem Ermessen zu bestimmen.\n28\nbb) Den Darlegungen der Beschwerdeführer ist schon nicht zu entnehmen, dass diese einfachrechtlichen\nVorgaben im vorliegenden Fall missachtet worden wären; daher ist auch kein Verstoß gegen das\nWillkürverbot (Art. 118 Abs. 1 BV) erkennbar. Ebenso wenig ist eine Verletzung des Grundrechts auf\nrechtliches Gehör (Art. 91 Abs. 1 BV) ersichtlich.\n29\nIn der notariell beurkundeten Antragsschrift war der Geschäftswert nach dem Gerichts- und\nNotarkostengesetz mit 300.000 € angegeben. Das Amtsgericht hatte die Angelegenheit, nach einer\nvorläufigen Festsetzung auf 30.000 €, im die Instanz abschließenden Beschluss vom 20. März 2017 mit\neinem Betrag von 10.000 € bewertet. Diesen Wert erhöhte das Oberlandesgericht durch Beschlüsse vom 6.\nund 7. Juni 2017 für beide Instanzen auf 240.000 €. Dabei schätzte es den Wert des Grundstücks der\nBeschwerdeführer in G. - mit deren Einverständnis (vgl. S. 2 des Sitzungsprotokolls des Oberlandesgerichts\nvom 6. Juni 2017) - auf 1,2 Mio. €. Die weitere Erhöhung im angegriffenen Beschluss vom 21. November\n2017 auf den nach § 42 Abs. 2 FamGKG zulässigen Höchstbetrag von 500.000 € ist vor dem Hintergrund\nder Gegenvorstellung des Bezirksrevisors nachvollziehbar, der seine Einwände insbesondere mit dem\nHinweis auf weitere Vermögenswerte der Beschwerdeführer begründete. Die Beschwerdeführer erheben\nauch keine konkreten Einwände gegen den nunmehr vom Oberlandesgericht auf mindestens 2,5 Mio. €\ngeschätzten Wert ihres Vermögens. Dass das Oberlandesgericht bei der Bemessung des Verfahrenswerts\nder Volljährigenadoption maßgeblich auf das Vermögen der Beschwerdeführer abgestellt und hiervon 20%\nangesetzt hat, lässt ebenso wenig eine Überschreitung des ihm zustehenden Bewertungsermessens\nerkennen (vgl. OLG Düsseldorf vom 29.6.2010 FamRZ 2010, 1937 ff.; OLG Bamberg vom 18.10.2011 - 2\nUF 234/11 - juris Rn. 27 ff.; OLG Celle vom 11.4.2013 FamRZ 2013, 2008 f.; OLG Hamm vom 25.6.2018\nNJW-RR) 2018, 1223).\n30\nDie Erhöhung auf 500.000 € war entgegen der Ansicht der Bevollmächtigten der Beschwerdeführer auch\nnicht deshalb ausgeschlossen, weil das Oberlandesgericht den in der ersten Instanz festgesetzten\nVerfahrenswert bereits einmal angepasst hatte. Die von ihr in diesem Zusammenhang zitierte Literaturstelle\n(in der aktuellen Auflage: Mayer, GKG/FamGKG, 16. Aufl. 2018, § 63 GKG Rn. 32, wobei auf OLG Koblenz\nvom 14.10.2003 NJW-RR 2004, 1510 Bezug genommen wird) betrifft nicht die vorliegende Fallgestaltung.\nIm Ausgangsverfahren war das Oberlandesgericht vielmehr, wie bereits dargelegt (vgl. oben aa)), sogar zu\neiner Anpassung verpflichtet.\n31\nb) Ob die Verfassungsbeschwerde gegen den Beschluss des Oberlandesgerichts München vom 21.\nNovember 2017 zur Änderung des Verfahrenswerts auch deshalb unzulässig ist, weil keine Anhörungsrüge\neingelegt wurde, kann dahingestellt bleiben.\nIV.\n32\nSoweit sich die Verfassungsbeschwerde gegen den die Erinnerung der Beschwerdeführer zurückweisenden\nBeschluss des Oberlandesgerichts München vom 11. Oktober 2017 richtet, ist sie unbegründet.\n33\nDer Verfassungsgerichtshof überprüft gerichtliche Entscheidungen nur in engen Grenzen. Er ist kein\nRechtsmittelgericht; es ist nicht seine Aufgabe, fachgerichtliche Entscheidungen dahingehend zu\nkontrollieren, ob die tatsächlichen Feststellungen zutreffen oder ob die Gesetze richtig ausgelegt und\nangewandt wurden. Im Rahmen der Verfassungsbeschwerde beschränkt sich die Prüfung vielmehr auf die\nFrage, ob die Gerichte gegen Normen der Bayerischen Verfassung verstoßen haben, die ein subjektives\nRecht des Beschwerdeführers verbürgen. Ist die angefochtene Entscheidung - wie hier - unter Anwendung\nvon Bundesrecht ergangen, das wegen seines höheren Rangs nicht am Maßstab der Bayerischen\nVerfassung überprüft werden kann, beschränkt sich die Prüfung darauf, ob das Gericht willkürlich gehandelt\nhat (Art. 118 Abs. 1 BV). In verfahrensrechtlicher Hinsicht überprüft der Verfassungsgerichtshof\nEntscheidungen, die in einem bundesrechtlich geregelten Verfahren ergangen sind, auch daraufhin, ob ein\nVerfahrensgrundrecht der Bayerischen Verfassung verletzt wurde, das, wie z. B. der Anspruch auf\nrechtliches Gehör gemäß Art. 91 Abs. 1 BV, mit gleichem Inhalt im Grundgesetz gewährleistet ist (ständige\nRechtsprechung; vgl. VerfGH vom 26.1.1990 VerfGHE 43, 12/17 f.; vom 27.1.2016 BayVBl 2016, 671 Rn.\n24; vom 12.3.2018 - Vf. 40-VI-17 -juris Rn. 22).\n34\nUnter Beachtung dieses eingeschränkten Prüfungsmaßstabs können Verfassungsverstöße nicht festgestellt\nwerden.\n35\n1. Ein Verstoß gegen das Willkürverbot (Art. 118 Abs. 1 BV) liegt nicht vor.\n36\nWillkürlich wäre eine gerichtliche Entscheidung nur dann, wenn sie bei Würdigung der die Verfassung\nbeherrschenden Grundsätze nicht mehr verständlich wäre und sich der Schluss aufdrängte, sie beruhe auf\nsachfremden Erwägungen. Selbst eine fehlerhafte Anwendung einfachen Rechts begründet allein noch\nkeinen Verstoß gegen Art. 118 Abs. 1 BV. Die Entscheidung dürfte unter keinem Gesichtspunkt rechtlich\nvertretbar erscheinen; sie müsste schlechthin unhaltbar, offensichtlich sachwidrig, eindeutig unangemessen\nsein (ständige Rechtsprechung; vgl. VerfGH vom 7.8.2013 VerfGHE 66, 144/152; vom 12.3.2018 - Vf. 40-\nVI-17 - juris Rn. 28).\n37\nDavon kann hier nicht die Rede sein.\n38\na) Soweit das Oberlandesgericht die Auffassung vertreten hat, die Kostenentscheidung gemäß § 81 FamFG\nsei bereits rechtskräftig, entspricht dies der geltenden Rechtslage. Es hatte im verfahrensabschließenden\nBeschluss vom 7. Juni 2017 die erforderliche Kostengrundentscheidung getroffen, die für das nachfolgende\nKostenfestsetzungsverfahren u. a. bindend festlegt, ob und in welchem Umfang die Beteiligten\nGerichtskosten zu übernehmen haben (vgl. Schindler in Münchener Kommentar zum FamFG, 3. Aufl. 2018,\n§ 81 Rn. 3). Demnach war von den Beschwerdeführern je ein Drittel der Gerichtskosten zu tragen. Diese\nKostengrundentscheidung konnte im Erinnerungsverfahren, wie bereits dargelegt (vgl. oben III. 1.), nicht\nnachgeprüft werden. Dem Oberlandesgericht war es daher verwehrt zu kontrollieren, ob die Entscheidung\nnach § 81 FamFG anders hätte ausfallen können oder müssen.\n39\nDavon zu unterscheiden ist die Vorschrift des § 20 Abs. 1 Satz 1 FamGKG, die im Nachhinein - im Rahmen\ndes Kostenansatzes gemäß § 18 FamGKG - die Möglichkeit eröffnet, von der Erhebung von Kosten\nabzusehen, die bei richtiger Behandlung der Sache nicht entstanden wären; liegt diese Voraussetzung vor,\ndarf das Gericht Kosten nicht erheben (Thiel in Schneider/Volpert/Fölsch, FamGKG, 2. Aufl. 2014, § 20 Rn.\n11).\n40\nb) Die Einschätzung des Oberlandesgerichts, dass die Voraussetzungen des § 20 Abs. 1 Satz 1 FamGKG\nnicht gegeben waren, lässt Willkür nicht erkennen.\n41\nNach in der fachgerichtlichen Rechtsprechung überwiegend vertretener Auffassung kommt eine\nNichterhebung von Kosten nur wegen offensichtlicher schwerer Verfahrensfehler oder wegen\noffensichtlicher, eindeutiger Verkennung des materiellen Rechts in Betracht. Nicht jeder Fehler eines\nGerichts führt daher zur Nichterhebung, sodass die bloße Annahme einer irrtümlichen Sachlage oder eine\nunzutreffende rechtliche Beurteilung nicht genügt. Eine unrichtige Sachbehandlung im Sinn des Gesetzes\nist nur gegeben, wenn ein Richter eine Maßnahme oder Entscheidung trifft, die den breiten richterlichen\nHandlungs-, Bewertungs- und Entscheidungsspielraum verlässt. Keine unrichtige Sachbehandlung liegt\ndagegen beispielsweise vor, wenn eine gerichtliche Entscheidung im Instanzenzug aufgehoben oder\nabgeändert wird, weil das Rechtsmittelgericht eine andere Rechtsauffassung vertritt (Zimmermann in\nBinz/Dörndorfer/Petzold/Zimmermann, GKG, FamGKG, JVEG, § 21 GKG Rn. 5 f.; Schneider in\nSchneider/Volpert/Fölsch, Gesamtes Kostenrecht, § 20 FamGKG Rn. 7 f.; Grän in BeckOK Kostenrecht, §\n20 FamGKG Rn. 8 ff.; Thiel in Schneider/Volpert/Fölsch, FamGKG, § 20 Rn. 15).\n42\nDas Oberlandesgericht hat seine Auffassung, dass das Amtsgericht weder in eindeutiger Verkennung des\nmateriellen Rechts gehandelt noch einen offensichtlichen schweren Verfahrensfehler begangen hat, mit\nsachbezogenen und nachvollziehbaren Erwägungen begründet.\n43\naa) Das Amtsgericht hatte seine ablehnende Entscheidung vom 20. März 2017 maßgeblich auf die\nmateriellrechtliche Ansicht gestützt, dass trotz des sehr innigen und vertrauensvollen Großeltern-Enkel-\nVerhältnisses eine Adoption wegen der intakten und engen Beziehung des Beschwerdeführers zu 1 zu\nseiner leiblichen Mutter nicht in Betracht komme. Zwar hat das Oberlandesgericht diese Auffassung nicht\ngeteilt und ihr die Einschätzung entgegengestellt, dass das Bestehen einer intakten Beziehung des\nBeschwerdeführers zu 1 zu seiner leiblichen Mutter die Adoption dann nicht hindere, wenn - wie dies\nvorliegend der Fall sei -zwischen den Großeltern und ihrem Enkel ein Eltern-Kind-Verhältnis entstanden sei.\nEs hat insoweit eine andere Rechtsauffassung vertreten und den amtsgerichtlichen Beschluss im\nInstanzenzug aufgehoben. Hieraus ergibt sich jedoch nicht, dass das Amtsgericht seine erstinstanzliche\nEntscheidung in eindeutiger und offensichtlicher Verkennung des materiellen Rechts getroffen hätte. Denn\ndas Bestehen einer intakten Beziehung des Anzunehmenden zu seinen leiblichen Eltern oder einem\nElternteil wird in der fachgerichtlichen Rechtsprechung teilweise als Ausschlussgrund für eine Adoption\nangesehen (OLG Stuttgart vom 3.7.2014 FamRZ 2015, 592/593; vgl. auch OLG Bremen vom 9.11.2016\nFamRZ 2017, 722/ 723). Auch wenn es sich dabei um eine Mindermeinung handeln dürfte (vgl. Götz in\nPalandt, BGB, 77. Aufl. 2018, § 1767 Rn. 4), ist es einem Richter im Rahmen seiner sachlichen\nUnabhängigkeit gemäß Art. 85 BV nicht verwehrt, sich einer solchen Rechtsauffassung anzuschließen. Es\nist daher nachvollziehbar, dass das Oberlandesgericht die Voraussetzungen des § 20 Abs. 1 Satz 1\nFamGKG insoweit verneint hat. Dabei hat es auch die Auswirkungen der zunächst negativen Entscheidung\nauf die Grundrechte der Beschwerdeführer in seine Überlegungen einbezogen.\n44\nIm Hinblick auf die Rüge der Beschwerdeführer, das Amtsgericht habe keine eigene Individualentscheidung\ngetroffen, sondern im Wesentlichen den Beschluss eines anderen Gerichts kopiert, ist Willkür ebenso wenig\nersichtlich. Das Oberlandesgericht weist hierzu im angegriffenen Beschluss darauf hin, eine fehlerhafte\nSachbehandlung ergebe sich nicht daraus, dass sich ein Gericht der Rechtsmeinung eines anderen\nGerichts anschließe; die Begründung des amtsgerichtlichen Beschlusses lasse konkrete Bezüge nicht\nvermissen. Diese Einschätzung ist sachbezogen und nachvollziehbar.\n45\nbb) Dem Vorbringen der Beschwerdeführer ist nicht zu entnehmen, dass das Amtsgericht\nentscheidungserhebliche Verfahrensfehler begangen hätte.\n46\nEs ist verfassungsrechtlich nicht zu beanstanden, dass das Oberlandesgericht eine Verletzung der\nAmtsermittlungspflicht durch das Amtsgericht verneint hat. Das Amtsgericht hatte am 19. Dezember 2016 u.\na. verfügt, dass die leiblichen Eltern des Beschwerdeführers zu 1 anzuhören sind. Auf dieser Grundlage\nwurde der leiblichen Mutter des Anzunehmenden mit Schreiben vom 27. Dezember 2016 Gelegenheit zur\nÄußerung gegeben. Damit ist das Amtsgericht zugleich seiner Verpflichtung nachgekommen, der leiblichen\nTochter der Annehmenden rechtliches Gehör zu gewähren (vgl. BVerfG vom 20.10.2008 NJW 2009, 138 f.).\nAus Art. 91 Abs. 1 BV ergibt sich grundsätzlich keine Verpflichtung zu einer persönlichen Anhörung.\nInwiefern eine mündliche Stellungnahme zusätzlichen entscheidungsrelevanten Erkenntnisgewinn hätte\nerbringen können, erschließt sich nicht. Für diese Beurteilung ist die vom Amtsgericht vertretene\nRechtsauffassung zugrunde zu legen, wonach die intakte Beziehung des Beschwerdeführers zu 1 zu seiner\nleiblichen Mutter einen Ausschlussgrund für die Adoption darstellte und daher weitere Gesichtspunkte der\nfamiliären Beziehungen keine maßgebliche Rolle spielten.\n47\nSoweit die Beschwerdeführer eine Verletzung der Amtsverschwiegenheit durch die Amtsrichterin rügen,\nlässt sich, wie das Oberlandesgericht im angegriffenen Beschluss ausgeführt hat, jedenfalls keine Kausalität\nzwischen dem behaupteten Verstoß und der Entscheidung des Amtsgerichts feststellen. Im Übrigen\nerscheint schon eine Pflichtverletzung fraglich, da an dem (grundsätzlich nichtöffentlichen) Termin vom 5.\nDezember 2016 in einer anderen Familiensache, in dem sich die Richterin zum Adoptionsantrag geäußert\nhaben soll, die leiblichen Eltern des Beschwerdeführers zu 1 beteiligt waren. Auch der leibliche Vater wurde\nim Adoptionsverfahren gemäß Verfügung des Amtsgerichts vom 19. Dezember 2016 gehört und war daher\nüber den Sachverhalt zu unterrichten.\n48\ncc) Ein Verstoß gegen das Willkürverbot lässt sich auch nicht mit dem Hinweis auf eine abweichende\nHandhabung im Hinblick auf die Kosten in einer anderen Gerichtsentscheidung (des Oberlandesgerichts\nNürnberg vom 12.6.2015 FamRZ 2016, 315) begründen. Unabhängig von der Frage, ob die Sachverhalte\nder verfahrensgegenständlichen und der angegebenen Entscheidung überhaupt vergleichbar wären, kann\ndies einen Verstoß schon deshalb nicht begründen, weil Art. 118 Abs. 1 BV nicht dadurch verletzt wird, dass\neine Rechtsvorschrift von verschiedenen Gerichten unterschiedlich ausgelegt und angewandt wird (VerfGH\nvom 6.8.1992 VerfGHE 45, 118/123 m. w. N.; vom 24.10.2017 - Vf. 9-VI-17 - juris Rn. 44).\n49\n2. Das Recht auf rechtliches Gehör (Art. 91 Abs. 1 BV) ist nicht verletzt.\n50\nDas Grundrecht aus Art. 91 Abs. 1 BV hat eine zweifache Ausprägung. Zum einen untersagt es dem\nGericht, seiner Entscheidung Tatsachen oder Beweisergebnisse zugrunde zu legen, zu denen sich die\nBeteiligten nicht äußern konnten. Zum anderen gibt es den Beteiligten einen Anspruch darauf, dass\nrechtzeitiges und möglicherweise erhebliches Vorbringen vom Gericht zur Kenntnis genommen und bei der\nEntscheidung in Erwägung gezogen wird, soweit es aus verfahrens- oder materiellrechtlichen Gründen nicht\nausnahmsweise unberücksichtigt bleiben muss oder kann. Das Gericht wird hierdurch aber nicht\nverpflichtet, in seiner Entscheidung auf alle Ausführungen eines Beteiligten einzugehen. Grundsätzlich ist\ndavon auszugehen, dass ein Gericht die von ihm entgegengenommenen Äußerungen eines Beteiligten zur\nKenntnis genommen und bei der Entscheidung gewürdigt hat. Dies gilt auch dann, wenn es davon\nabgesehen hat, sie in den Gründen seiner Entscheidung ausdrücklich zu erörtern. Nur dann, wenn sich aus\nden besonderen Umständen des Einzelfalls klar und deutlich ergibt, dass das Gericht ein\nentscheidungserhebliches Vorbringen nicht zur Kenntnis genommen oder nicht erwogen hat, kann eine\nVerletzung des rechtlichen Gehörs angenommen werden. Hingegen ergibt sich aus Art. 91 Abs. 1 BV kein\nAnspruch darauf, dass sich das Gericht der Bewertung eines Beteiligten anschließt, also „auf ihn hört“. Die\nVerletzung des rechtlichen Gehörs kann auch nicht damit begründet werden, die vom Gericht vertretene\nAuffassung sei unrichtig (ständige Rechtsprechung; vgl. VerfGH vom 23.9.2015 VerfGHE 68, 180 Rn. 44 f.\nm. w. N.; vom 12.3.2018 - Vf. 40-VI-17 - juris Rn. 37).\n51\nEine Verletzung des Anspruchs auf Gewährung rechtlichen Gehörs ist nach diesen Maßstäben nicht\nfestzustellen.\n52\nDas Oberlandesgericht hat sich in seiner Entscheidung vom 11. Oktober 2017 ausreichend mit den von den\nBeschwerdeführern in der Erinnerung vorgebrachten Einwänden auseinandergesetzt. Insbesondere hat es\nerkannt, dass diese sich in der Erinnerung auch auf § 81 Abs. 1 Satz 2 FamFG berufen haben, und kurz\nbegründet, warum diese Vorschrift hier nicht maßgeblich gewesen sei (vgl. oben III. 1. und IV. 1. a)).\nSodann ist das Oberlandesgericht auf die weiteren Einwände aus der Erinnerung eingegangen. Dass das\nOberlandesgericht die Erinnerung zurückgewiesen hat, liegt offensichtlich nicht daran, dass es Vorbringen\nnicht zur Kenntnis genommen oder nicht erwogen hat; vielmehr hat es lediglich die Auffassung der\nBeschwerdeführer, dass die Voraussetzungen für ein Absehen von der Kostenerhebung gegeben seien,\nnicht geteilt. Das begründet aber keine Verletzung des Rechts auf rechtliches Gehör.\n53\n3. Soweit in der Verfassungsbeschwerde auch die Rechte auf den gesetzlichen Richter (Art. 86 Abs. 1 Satz\n2 BV) und auf effektiven Rechtsschutz erwähnt sind, beziehen sich diese Rügen wohl in erster Linie auf das\nAmtsgericht. Es ist in keiner Weise ersichtlich, inwieweit der angegriffene Beschluss vom 11. Oktober 2017\ndie genannten Rechte verletzen soll. Die diesbezüglichen Beanstandungen haben gegenüber den Rügen\nvon Verstößen gegen Art. 91 Abs. 1 und Art. 118 Abs. 1 BV jedenfalls keine eigenständige Bedeutung. Auf\ndie ebenfalls angesprochene sachliche und persönliche Unabhängigkeit der Richter (Art. 85 und 87 Abs. 1\nSatz 1 BV) können sich nur Richter, nicht aber Dritte berufen, sodass es den Beschwerdeführern verwehrt\nist, ihre Verfassungsbeschwerde hierauf zu stützen (Schulz in Meder/Brechmann, Die Verfassung des\nFreistaates Bayern, 5. Aufl. 2014, Art. 85 Rn. 2, Art. 87 Rn. 1, je m. w. N.).\nV.\n54\nEs ist angemessen, den Beschwerdeführern eine Gebühr von 1.500 € aufzuerlegen (Art. 27 Abs. 1 Satz 2\nVfGHG).\n\n"
+}

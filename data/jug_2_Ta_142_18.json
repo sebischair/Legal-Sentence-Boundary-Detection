@@ -1,0 +1,731 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 116,
+            "start": 112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 129,
+            "start": 117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17a",
+            "end": 140,
+            "start": 137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 159,
+            "start": 157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "145",
+            "end": 175,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 196,
+            "start": 195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 205,
+            "start": 197,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 421,
+            "start": 420,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 431,
+            "start": 430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 443,
+            "start": 432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsweg",
+            "end": 536,
+            "start": 527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 547,
+            "start": 537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 600,
+            "start": 598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 611,
+            "start": 601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34778",
+            "end": 631,
+            "start": 626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 637,
+            "start": 632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 782,
+            "start": 772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 938,
+            "start": 929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben.",
+            "end": 1052,
+            "start": 1044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeverfahrens",
+            "end": 1133,
+            "start": 1113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1212,
+            "start": 1201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1220,
+            "start": 1214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1222,
+            "start": 1221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1225,
+            "start": 1224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGG",
+            "end": 1320,
+            "start": 1317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1323,
+            "start": 1322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnis",
+            "end": 1420,
+            "start": 1403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 1466,
+            "start": 1462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagten",
+            "end": 1532,
+            "start": 1523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1535,
+            "start": 1534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IX",
+            "end": 1680,
+            "start": 1678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1683,
+            "start": 1682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hause",
+            "end": 1787,
+            "start": 1782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 1897,
+            "start": 1894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeben",
+            "end": 1985,
+            "start": 1974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1988,
+            "start": 1987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 2151,
+            "start": 2144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2154,
+            "start": 2153,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2228,
+            "start": 2227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2231,
+            "start": 2230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGG",
+            "end": 2371,
+            "start": 2368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2374,
+            "start": 2373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weiden",
+            "end": 2505,
+            "start": 2499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 2508,
+            "start": 2507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 2611,
+            "start": 2607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2690,
+            "start": 2687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2807,
+            "start": 2804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 2902,
+            "start": 2895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 2906,
+            "start": 2904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 3104,
+            "start": 3101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wolle",
+            "end": 3220,
+            "start": 3215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 3277,
+            "start": 3270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3281,
+            "start": 3279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermöge",
+            "end": 3483,
+            "start": 3476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3571,
+            "start": 3568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 3575,
+            "start": 3573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3754,
+            "start": 3751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 4025,
+            "start": 4022,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4144,
+            "start": 4143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4148,
+            "start": 4146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nichtabhilfebeschluss",
+            "end": 4246,
+            "start": 4225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 4523,
+            "start": 4517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4527,
+            "start": 4525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 4626,
+            "start": 4618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4630,
+            "start": 4628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4634,
+            "start": 4632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 4688,
+            "start": 4680,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4842,
+            "start": 4841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 4846,
+            "start": 4844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 4910,
+            "start": 4901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schon",
+            "end": 5089,
+            "start": 5084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 5093,
+            "start": 5091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitgebern",
+            "end": 5262,
+            "start": 5250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 5635,
+            "start": 5629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 5722,
+            "start": 5719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachvortrag",
+            "end": 5922,
+            "start": 5911,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6097,
+            "start": 6096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 6101,
+            "start": 6099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "notwendig",
+            "end": 6388,
+            "start": 6379,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6477,
+            "start": 6476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 6481,
+            "start": 6479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 6565,
+            "start": 6559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 6569,
+            "start": 6567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 6671,
+            "start": 6664,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6951,
+            "start": 6950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "richtet",
+            "end": 7103,
+            "start": 7096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7333,
+            "start": 7327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7457,
+            "start": 7453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliege",
+            "end": 7567,
+            "start": 7559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 7571,
+            "start": 7569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eröffnet",
+            "end": 7721,
+            "start": 7713,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7872,
+            "start": 7871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ließe",
+            "end": 8000,
+            "start": 7995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behauptet",
+            "end": 8089,
+            "start": 8080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 8222,
+            "start": 8218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8303,
+            "start": 8300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 8430,
+            "start": 8426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagten",
+            "end": 8513,
+            "start": 8504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8746,
+            "start": 8743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 8750,
+            "start": 8748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 8835,
+            "start": 8830,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9077,
+            "start": 9076,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9124,
+            "start": 9123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 9128,
+            "start": 9126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweisen",
+            "end": 9279,
+            "start": 9270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weiden",
+            "end": 9334,
+            "start": 9328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9471,
+            "start": 9468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 9685,
+            "start": 9675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behandlungsvertrag",
+            "end": 9856,
+            "start": 9838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 9861,
+            "start": 9858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 9865,
+            "start": 9863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 10034,
+            "start": 10023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 10038,
+            "start": 10036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 10090,
+            "start": 10087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 10094,
+            "start": 10092,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10435,
+            "start": 10434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angesetzt",
+            "end": 10528,
+            "start": 10519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 10532,
+            "start": 10530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anlass",
+            "end": 10696,
+            "start": 10690,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 28.12.2018 – 2 Ta 142/18\nTitel:\nRechtsweg - Entschädigungsklage nach AGG - Sic-non-Fall\nNormenketten:\nGVG § 17a\nAGG § 2, § 6, § 15\nZPO § 29, § 145\nGKG § 48 Abs. 2 S. 1\nLeitsatz:\nBei einer Klage auf Entschädigung nach § 15 Abs. 2 AGG genügt die Rechtsbehauptung, dass ein\nArbeitsverhältnis zwischen den Parteien besteht, um den Rechtsweg zu den Arbeitsgerichten zu\neröffnen (sog. Sic-non-Fall). (Rn. 20)\nSchlagworte:\nArbeitnehmereigenschaft, Rechtswegzuständigkeit, Entschädigung, Rechtsbehauptung, Rechtsweg\nVorinstanz:\nArbG Weiden, Beschluss vom 26.09.2018 – 4 Ca 419/18\nFundstelle:\nBeckRS 2018, 34778\nTenor\n1. Auf die sofortige Beschwerde der Klägerin wird der Beschluss des Arbeitsgerichts Weiden vom\n26.09.2018, Aktenzeichen: 4 Ca 419/18, aufgehoben.\n2. Der Rechtsstreit wird hinsichtlich des Anspruch auf Herausgabe der Patientenakte abgetrennt und\ninsoweit an das zuständige Amtsgericht Weiden verwiesen.\n3. Hinsichtlich des Anspruchs auf Entschädigung nach § 15 AGG ist der Rechtsweg zu den Arbeitsgerichten\ngegeben..\n4. Die Klägerin trägt 1/8, der Beklagte 7/8 der Kosten des Beschwerdeverfahrens.\n5. Der Streitwert für das Beschwerdeverfahren wird auf 8.500,00 € festgesetzt.\nGründe\nI.\n1\nDie Parteien streiten um die Herausgabe einer Patientenakte und um Entschädigung nach § 15 AGG.\n2\nZwischen der Klägerin und der AB Gemeinnützige GmbH (künftig GmbH) besteht ein Arbeitsverhältnis. Die\nKlägerin war zugleich Patientin der GmbH. Die GmbH ist eine unmittelbare Tochtergesellschaft des\nBeklagten.\n3\nMit Schreiben vom 10.04.2018 (Bl. 76 d.A.) unterbreitete der Beklagte der Klägerin ein Angebot zur\nDurchführung des BEM nach § 167 Abs. 2 SGB IX.\n4\nAm 14.04.2018 nahm die Klägerin ihre Patientenakte aus dem Sprechzimmer der GmbH mit zu sich nach\nHause. Mit Schreiben vom 19.04.2018 (Bl. 16 d.A.) forderte die GmbH die Klägerin zur Rückgabe der\nPatientenakte auf. Die Klägerin ließ ihre Patientenakte am 26.04.2018 bei ihrer Arbeitgeberin zurückgeben.\n5\nMit Schreiben vom 22.05.2018 forderte die Klägerinvertreterin die GmbH auf, die Patientenakte\nherauszugeben und machte einen Anspruch nach § 15 Abs. 2 AGG geltend.\n6\nHierauf erwiderte der Beklagte mit Schreiben vom 06.06.2018 (Bl. 20 d.A.).\n7\nMit der vorliegenden Klage verlangt die Klägerin vom Beklagten die Herausgabe der Patientenakte und eine\nEntschädigung nach § 15 Abs. 2 AGG.\n8\nDer Beklagte rügte den Rechtsweg zu den Arbeitsgerichten und beantragte die Verweisung des\nRechtsstreits an das Landgericht Weiden.\n9\nDas Arbeitsgericht Weiden verwies das Verfahren an das Landgericht Weiden mit Beschluss vom\n26.09.2018. Es sei davon auszugehen, dass der Beklagte nicht Arbeitgeber der Klägerin sei. Damit liege\nkeine Streitigkeit zwischen Arbeitnehmern und Arbeitgebern im Sinne des § 2 Abs. 1 und Abs. 3 ArbGG vor.\nAuch ein sic-non-Fall im Sinne der Rechtsprechung des Bundesarbeitsgerichts sei nicht gegeben.\n10\nGegen diesen der Klägerinvertreterin am 28.09.2018 zugestellten Beschluss legte diese mit Schriftsatz vom\n08.10.2018, eingegangen beim Arbeitsgericht Weiden am selben Tage, sofortige Beschwerde ein. Der\nBeklagte habe mit Schreiben vom 10.04.2018 und 06.06.2018 gezeigt, dass er Arbeitgeber der Klägerin\nsein wolle. Daher sei die Zuständigkeit des Arbeitsgerichts gegeben.\n11\nDer Beklagte entgegnet, dass zwei einfache Schreiben aus der Rechtsabteilung, die bei dem Beklagten\nangesiedelt sei, nicht den Übergang des Arbeitsverhältnisses auf den Beklagten herbeizuführen vermöge.\nDie GmbH nehme auch bis zum heutigen Tage die Abrechnung des Gehaltes der Klägerin vor.\n12\nDas Arbeitsgericht half der sofortigen Beschwerde mit Beschluss vom 15.11.2018 nicht ab und legte den\nRechtsstreit dem Landesarbeitsgericht Nürnberg zur weiteren Entscheidung vor. In Ergänzung seines\nVerweisungsbeschlusses führt das Arbeitsgericht aus, dass der Rechtsstreit nicht auf arbeitsrechtlichem\nGebiet liege, sondern auf dem Gebiet des zwischen der Klägerin als Patientin und der GmbH\ngeschlossenen Behandlungsvertrags nach §§ 630 a ff. BGB. Wegen der weiteren Einzelheiten wird auf den\nNichtabhilfebeschluss des Arbeitsgerichts verwiesen (Bl. 95 bis 98 d.A.).\n13\nDas Landesarbeitsgericht gab der Klägerin Gelegenheit zur Stellungnahme zum Nichtabhilfebeschluss. Mit\nSchriftsatz vom 19.12.2018 führte die Klägerin unter anderem aus, dass sie im Rahmen des\nBehandlungsvertrages nur die Herausgabe der Patientenakte verlangen könne, nicht aber die Patientenakte\n- wie vom Beklagten vorgetragen - „eigenmächtig an sich genommen“ haben könnte.\n14\nWegen des weiteren Sachvortrags der Parteien wird auf die gewechselten Schriftsätze Bezug genommen.\nII.\n15\n1. Die sofortige Beschwerde der Klägerin ist zulässig. Sie ist insbesondere in der erforderlichen Form und\nFrist beim Landesarbeitsgericht eingereicht worden (§ 17 a Abs. 4 Satz 3 GVG, § 78 ArbGG, § 569 ZPO).\n16\n2. Die sofortige Beschwerde der Klägerin ist zum Teil begründet. Für den Anspruch auf Herausgabe der\nPatientenakte ist der Rechtsweg zu den Arbeitsgerichten nicht eröffnet, hinsichtlich des\nEntschädigungsanspruchs nach § 15 AGG hingegen schon.\n17\na. Nach § 2 Abs. 1 Nr. 3 ArbGG sind die Gerichte für Arbeitssachen ausschließlich zuständig für bürgerliche\nRechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern. In Fällen, in denen der eingeklagte\nAnspruch ausschließlich auf eine Anspruchsgrundlage gestützt werden kann, deren Prüfung gemäß § 2\nArbGG in die Zuständigkeit der Arbeitsgerichte fällt (sog. Sic-non-Fälle), sind die Arbeitsgerichte schon\ndann zuständig, wenn die Klagepartei schlüssig Tatsachen vorträgt, aus denen sich ihre\nArbeitnehmereigenschaft iSv § 5 ArbGG ergibt. Ausnahmsweise reicht sogar die bloße Rechtsbehauptung\nder Arbeitnehmereigenschaft aus. Es wäre sachlich nicht gerechtfertigt, den schlüssigen, aber streitigen\nSachvortrag für die Rechtswegzuständigkeit ausreichen zu lassen, nicht jedoch den unstreitigen, aber\nunschlüssigen Sachvortrag. Denn in beiden Fällen kommt im Ergebnis nur eine abweisende\nSachentscheidung in Betracht (zum Ganzen: Walker in Schwab/Weth, ArbGG, 5. Aufl., 2018, § 2 ArbGG,\nRn 237 ff mwN).\n18\nIn den Fällen, in denen für den geltend gemachten Anspruch sowohl arbeitsrechtliche als auch andere\nAnspruchsgrundlagen in Betracht kommen, die sich entweder ausschließen (sog. Aut-aut-Fälle) oder\nkonkurrieren (sog. Et-et-Fälle) ist jedenfalls ein schlüssiger Tatsachenvortrag notwendig.\nRechtsbehauptungen genügen insoweit nicht (zum Ganzen Schwab/Weth a.a.O. Rn 240 ff mwN).\n19\nDabei ist für jeden Streitgegenstand die Rechtswegzuständigkeit gesondert zu prüfen.\n20\nb. Für den Anspruch auf Entschädigung nach § 15 AGG ist der Rechtsweg zu den Arbeitsgerichten\ngegeben. Da der Anspruch der Klägerin nur arbeitsrechtlich begründet werden kann - nämlich wenn es sich\nbei dem Beklagten um einen Arbeitgeber im Sinne des §§ 15 Abs. 2, 6 Abs. 2 AGG handelt - liegt insoweit\nein Sic-non-Fall vor (vgl. LAG Rheinland-Pfalz 23.01.2012 - 9 Ta 17/12 - juris). Die genannten Normen\nsehen einen Schadensersatzanspruch für Beschäftigte im Sinne des AGG vor, der sich gegen den\nArbeitgeber im Sinne des AGG richtet. Zwar erwähnt § 15 Abs. 2 AGG - anders als § 15 Abs. 1 AGG - nicht\nexplizit den Arbeitgeber als Anspruchsgegner, aus § 15 Abs. 5 AGG ergibt sich jedoch eindeutig, dass sich\nbeide Ansprüche nur gegen den Arbeitgeber richten können. Der Klageerfolg hängt folglich auch von den\nTatsachen ab, die zugleich für die Bestimmung des Rechtswegs entscheidend sind. Bei einem Sic-non-Fall\ngenügt jedoch bereits die bloße Rechtsbehauptung, dass ein Arbeitsverhältnis vorliege.\n21\nc. Für den Anspruch auf Herausgabe der Patientenakte ist nach den genannten Grundsätzen der\nRechtsweg zu den Arbeitsgerichten hingegen nicht eröffnet. Es kommen mehrere konkurrierende\nAnspruchsgrundlagen in Betracht, nämlich sowohl der Behandlungsvertrag als auch der Arbeitsvertrag (sog.\nEt-et-Fall). Zwar stellt die Klägerin die Rechtsbehauptung auf, dass sich der Herausgabeanspruch auch aus\ndem Arbeitsvertrag ableiten ließe. Die Klägerin hat ein Arbeitsverhältnis mit dem Beklagten aber nicht\nschlüssig behauptet. Im Gegenteil ergibt sich aus dem unstreitigen Parteivortrag, dass der Beklagte nicht\nArbeitgeber der Klägerin ist, sondern die GmbH. Die Klägerin behauptet selbst nicht, dass die GmbH nicht\nihre Arbeitgeberin sei. Sie trägt lediglich vor, dass der Beklagte sich als Arbeitgeber ausgebe und einen\nentsprechenden Rechtsschein geschaffen habe. Dies führt jedoch nicht zum Bestehen eines\nArbeitsverhältnisses mit dem Beklagten. Insbesondere auf Grund der Mitteilung des Betriebsübergangs auf\ndie GmbH vom 28.08.2012 (Blatt 54 ff der Akten) und den Gehaltsabrechnungen (Blatt 57 der Akten) ist klar\nersichtlich, dass die GmbH die Arbeitgeberin der Klägerin ist.\n22\nDer Rechtsweg zu den Arbeitsgerichten folgt insoweit auch nicht aus § 2 Abs. 3 ArbGG. Abs. 3 findet keine\nAnwendung, wenn die Zuständigkeit für die Zusammenhangsklage allein aus der Verbindung mit einem Sicnon-\nAntrag folgen kann (Kalb in: Henssler/Willemsen/Kalb, Arbeitsrecht Kommentar, 8. Aufl. 2018, § 2\nArbGG, Rn 130 mwN). Ein solcher Fall liegt hier jedoch vor (s.o.).\n23\nBezüglich des Anspruchs auf Herausgabe der Patientenakte war das Verfahren daher nach § 145 ZPO\nabzutrennen und an das zuständige Gericht zu verweisen. Dies ist im vorliegenden Falle das Amtsgericht\nWeiden. Es handelt sich um eine bürgerlich-rechtliche Streitigkeit (§ 12 GVG), so dass der Rechtsweg zu\nden ordentlichen Gerichten eröffnet ist. Die sachliche Zuständigkeit des Amtsgerichts folgt aus § 23 Nr. 1\nGVG, da der Streitwert für die Herausgabe der Patientenakte nach dem Dafürhalten des erkennenden\nGerichts die Summe von 5.000,- € nicht übersteigt. Die örtliche Zuständigkeit des Amtsgerichts Weiden folgt\naus §§ 29, 35 ZPO (vgl. Schultzky in Zöller, ZPO, 32. Aufl., 2018, § 29 ZPO Rn 25 „ärztlicher\nBehandlungsvertrag“\nIII.\n24\n1. Das Landesarbeitsgericht hat gemäß § 78 Satz 3 ArbGG durch den Vorsitzenden ohne Hinzuziehung der\nehrenamtlichen Richter über die sofortige Beschwerde zu entscheiden.\n25\n2. Die Kostenentscheidung folgt aus § 92 Abs. 1 ZPO.\n26\n3. Der Streitwert für den Anspruch auf Herausgabe der Patientenakte wurde für das Beschwerdeverfahren\ngemäß § 48 Abs. 2 GKG unter Berücksichtigung aller Umstände des Einzelfalles, insbesondere des\nUmfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Parteien mit\n1.000,00 € bemessen (§ 48 Abs. 2 Satz 1 GKG). Für den Antrag auf Entschädigung wurde der geltend\ngemachte Betrag von 7.500,00 € angesetzt.\n27\n4. Für die Zulassung der Rechtsbeschwerde fehlt es unter Berücksichtigung der §§ 17 a Abs. 4 GVG, 78\nSatz 2, 72 Abs. 2 ArbGG an einem gesetzlich begründeten Anlass.\n\n"
+}

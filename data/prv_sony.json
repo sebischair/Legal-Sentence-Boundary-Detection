@@ -1,0 +1,629 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 20,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benötigt",
+            "end": 61,
+            "start": 53,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nennen",
+            "end": 196,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versorgen",
+            "end": 493,
+            "start": 484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 534,
+            "start": 529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Persönliche Daten",
+            "end": 731,
+            "start": 714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genügen",
+            "end": 911,
+            "start": 904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendienst",
+            "end": 1063,
+            "start": 1051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 1168,
+            "start": 1155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 1301,
+            "start": 1290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 1483,
+            "start": 1476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 1552,
+            "start": 1542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 1626,
+            "start": 1613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1732,
+            "start": 1726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1873,
+            "start": 1867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 2335,
+            "start": 2330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2590,
+            "start": 2586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 2630,
+            "start": 2625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weise",
+            "end": 2689,
+            "start": 2684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 3039,
+            "start": 3027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sammelt",
+            "end": 3124,
+            "start": 3117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "usw",
+            "end": 3273,
+            "start": 3270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "usw",
+            "end": 3450,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 3651,
+            "start": 3648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 3769,
+            "start": 3762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 3895,
+            "start": 3889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzeichnen",
+            "end": 4009,
+            "start": 3998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "notieren",
+            "end": 4172,
+            "start": 4164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Reparatur",
+            "end": 4293,
+            "start": 4284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4419,
+            "start": 4414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Messen",
+            "end": 4566,
+            "start": 4560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4751,
+            "start": 4747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Präferenzen",
+            "end": 4772,
+            "start": 4761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4868,
+            "start": 4862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 5039,
+            "start": 5028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 5198,
+            "start": 5187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offen",
+            "end": 5241,
+            "start": 5236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3Pn",
+            "end": 5380,
+            "start": 5377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fälle",
+            "end": 5423,
+            "start": 5418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendienst",
+            "end": 5926,
+            "start": 5914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bearbeiten",
+            "end": 6141,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegt",
+            "end": 6277,
+            "start": 6267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Empfänger",
+            "end": 6565,
+            "start": 6556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 6635,
+            "start": 6626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6777,
+            "start": 6773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingehalten",
+            "end": 6928,
+            "start": 6917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halten",
+            "end": 6974,
+            "start": 6968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 7246,
+            "start": 7232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Foren",
+            "end": 7268,
+            "start": 7263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 7488,
+            "start": 7479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 7659,
+            "start": 7653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 7754,
+            "start": 7747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 7800,
+            "start": 7795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 7893,
+            "start": 7885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 8133,
+            "start": 8125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kreditkartendetails",
+            "end": 8289,
+            "start": 8270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 8373,
+            "start": 8367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 8402,
+            "start": 8394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 8463,
+            "start": 8458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zugriff",
+            "end": 8592,
+            "start": 8585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 8760,
+            "start": 8752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontendaten",
+            "end": 8823,
+            "start": 8812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 8949,
+            "start": 8940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9082,
+            "start": 9076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beacons",
+            "end": 9111,
+            "start": 9104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Cookies",
+            "end": 9202,
+            "start": 9195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugreifen",
+            "end": 9370,
+            "start": 9361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufhalten",
+            "end": 9523,
+            "start": 9514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 9752,
+            "start": 9741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Webseiten",
+            "end": 9879,
+            "start": 9870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 10000,
+            "start": 9994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 10116,
+            "start": 10108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen.Wenn",
+            "end": 10295,
+            "start": 10280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10398,
+            "start": 10392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfahren",
+            "end": 10522,
+            "start": 10514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzurichten",
+            "end": 10678,
+            "start": 10666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10803,
+            "start": 10797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 10968,
+            "start": 10963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11162,
+            "start": 11159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "optimieren",
+            "end": 11258,
+            "start": 11248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Cookies",
+            "end": 11326,
+            "start": 11319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11514,
+            "start": 11508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11634,
+            "start": 11628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 11674,
+            "start": 11669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 11874,
+            "start": 11861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbindung",
+            "end": 12121,
+            "start": 12111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzulegen",
+            "end": 12215,
+            "start": 12205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 12458,
+            "start": 12452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 12517,
+            "start": 12509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befinden",
+            "end": 12711,
+            "start": 12703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streichen",
+            "end": 12890,
+            "start": 12881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seiten",
+            "end": 12919,
+            "start": 12913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13013,
+            "start": 13007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geteilt",
+            "end": 13089,
+            "start": 13082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhalt",
+            "end": 13444,
+            "start": 13438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darunter",
+            "end": 13497,
+            "start": 13489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kinder",
+            "end": 13745,
+            "start": 13739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streichen",
+            "end": 13975,
+            "start": 13966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14127,
+            "start": 14121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 14352,
+            "start": 14345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nach",
+            "end": 14517,
+            "start": 14513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Industriestandards",
+            "end": 14541,
+            "start": 14523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FEDMA",
+            "end": 14656,
+            "start": 14651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 14855,
+            "start": 14849,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Datenschutzerklärung\n1. Welche Daten werden von Sony benötigt\nAllgemein gilt, dass Sie die Webseiten von Sony besuchen können, ohne angeben zu müssen, wer Sie sind oder persönliche Daten zu nennen. Es kommt jedoch der Zeitpunkt, wenn in den relevanten Dateneinträgen und anderen Seiten der relevanten Webseite nicht die notwendigen Daten genannt werden, Sony nicht in der Lage ist, Ihnen Produkte zu verkaufen und/ oder mit bestimmten Dienstleistungen, einschließlich Kundendienst zu versorgen.\n2. Warum sammelt Sony persönliche Daten\nDaten stehen für Daten in Zusammenhang mit einer Person, mit denen diese Person identifiziert werden kann, wie zum Beispiel Name, Alter, Telefonnummer, e-Mail und Postanschrift („Persönliche Daten ”).\nSony möchte Ihre persönlichen Daten sammeln, aufbewahren und verwenden, um:\n    seinen Pflichten aus dem Kaufvertrag sowie anderen Verträgen zwischen Ihnen und Sony zu genügen\n    Kundendienst zu bieten, einschließlich von Dienstleistungen in Zusammenhang mit denGeschäften von Sony, wie zum Beispiel Garantien und Kundendienst\n    Ihre Meinung zu Sony Produkten und Dienstleistungen einzuholen, und Produktbefragungen durchzuführen\n    Ihre Suchvorgänge und Anfragen für Informationen, sowie Produkte und Dienstleistungen von Sony zu erleichtern und zu verarbeiten\n    Sie mit den neuesten Produkt- und Dienstleistungsinformationen von Sony zu versorgen, einschließlich von Upgrades und spezieller Angebote, an denen Sie interessiert sein könnten\n    die Produkte und Dienstleistungen von Sony für Sie zu verbessern\n    Preisausschreiben, Wettbewerbe und andere Werbeangebote durchzuführen\n    Ihnen eine Stelle anzubieten, wenn diese Daten auf einer der Bewerbungsseiten von Sonyverlangt werden.\n    Sie versichern, dass Sie auf diese Website lediglich über die für diesen Zweck von Sony bereit gestellte Schnittstelle zugreifen werden.\nAus diesem Grund kann Sony persönliche Daten mit anderen Sony Gruppenfirmen in Europa und Gruppenfirmen weltweit teilen, diesen zur Verfügung stellen oder übermitteln (wobei Sony jedoch die geltenden Datenschutzgesetze streng befolgen muss). Die Sony Gruppenfirmen verwenden Ihre persönlichen Daten nur für die oben genannten Zwecke, und sie unterliegen strengen Grundsätzen und Bestimmungen in Zusammenhang mit der Verwendung und dem Schutz persönlicher Daten. (Bei den „Sony Gruppenfirmen” handelt es sich um die Sony Corporation und alle Unternehmen, Firmen oder Gesellschaften deren Großteil der Aktien oder des Eigenkapitals direkt oder indirekt Eigentum der Sony Corporation ist oder von dieser gesteuert wird).\n3. Wie sammelt Sony Persönliche Daten\nSony sammelt Daten über Sie auf verschiedene Art und Weise. Beispielweise fragen wir nach Ihren Kontaktinformationen wenn Sie mit Sony korrespondieren, Sony anrufen, um einen Einkauf zu tätigen oder um Kundendienst zu beantragen, Ihre gekauften Produkte für den Kundendienst registrieren, sich registrieren, um an einer Onlinebefragung oder an Werbeangeboten, Chatrooms oder „schwarzen Brettern“ teilzunehmen.\nHier sind einige der gängigsten Beispiele, wie Sony Ihre persönlichen Daten sammelt.\n    Wenn Sie ein Sony Produkt oder eine Dienstleistung registrieren, sammeln wir Ihren Namen, Ihre Adressdaten, sowie Produkt- oder Modellname, usw.\n    Wenn Sie unseren Kundendienst um Hilfe bitten, notieren wir uns Ihren Namen, das gekaufte Produkt, die vorliegenden technischen Probleme, und die erteilten Ratschläge, usw.\n    Wenn Sie ein Produkt von uns erwerben oder eine Kaufanfrage haben, notieren wir uns Ihren Namen, die Kontaktdaten, die Produkte, die sie gekauft haben oder kaufen wollen, sowie Ihre Fragen an uns.\n    Wenn Sie Online einkaufen, wird ein Konto für Sie eingerichtet, das Ihre Zahlungs- und Lieferpräferenzen enthält. Gegebenenfalls muss eine Bonitätsprüfung durchgeführt werden, falls Sie ein Produkt oder eine Dienstleistung erwerben wollen.\n    Wenn Sie an der Online-Community teilnehmen wollen, müssen wir Ihre Kontodetails und Präferenzen aufzeichnen. Einige unserer Webseiten ermöglichen eine persönliche Anpassung des Inhalts im Einklang mit Ihren Interessen, wobei wir in diesem Falle Ihre Präferenzen notieren.\n    Aufbewahrung Ihrer Kontaktdetails und daraus resultierender Finanztransaktionen in Zusammenhang mit einer Reparatur.\nOnline gesammelte Daten können auch mit Daten kombiniert werden, die Sie Sony zu anderen Zeiten zur Verfügung gestellt haben. Beispielsweise während Produktregistrierungen, Anrufen bei unserem Call Center oder bei öffentlichen Veranstaltungen wie Ausstellungen und Messen. Die persönlichen Daten, die in diesen Fällen an Sony gingen, werden mit bestehenden Datenbanken abgeglichen und gespeichert, so dass unser Kundendatenmanagementsystem vereinfacht wird.\n4. Ihre Präferenzen\nDie persönlichen Daten, die wir sammeln, können in verschiedenen Datenbanken gespeichert werden. Sony bemüht sich, die verschiedenen Präferenzen, die Sie mit der Zeit geäußert haben, zu berücksichtigen, um Ihre Daten in einer beständigen Art und Weise zu verarbeiten. Wenn Sie aus irgendeinem Grund falsche Daten erhalten sollten, setzen Sie sich bitte mit dem Sony Kundendienst in Verbindung, um die Situation zu berichtigen.\n5. Wann legt Sony Persönliche Daten offen\nSony offenbart, ohne vorherige Genehmigung, mit Ausnahme der anderen Sony Gruppenfirmen, keine persönlichen Daten an dritte Parteien („3Pn”). Dies gilt nicht für die folgenden Fälle:\nPersönliche Daten können an Subunternehmer weitergegeben werden, um die Durchführung von Verträgen zu ermöglichen, bei denen Sie eine Vertragspartei sind, bzw. für andere Zwecke aus Paragraph 4, bei denen Sony andere Firmen verwendet, um Funktionen im Namen von Sony zu erfüllen, wie zum Beispiel die Erfüllung von Aufträgen, die Lieferung von Paketen, die Versendung von Post und e-Mail, die Bereitstellung von Marketinghilfe, Bearbeitung von Kreditkartenzahlungen und Bereitstellung von Kundendienst. Diese Firmen haben Zugriff auf die persönlichen Daten, um diese Funktionen erfüllen zu können, dürfen diese jedoch nicht für andere Zwecke verwenden, und müssen die Daten im Einklang mit geltendem Recht bearbeiten.\nPersönliche Daten können 3Pn offen gelegt werden, um eine Einhaltung der rechtlichen Pflichten zu gewährleisten, denen Sony unterliegt. Wenn 3Pn persönliche Daten offen gelegt werden, damit diese für, im Namen, oder auf Anweisung von Sony Dienstleistungen erbringen können, ergreift Sony die notwendigen Maßnahmen, um sicherzustellen, dass die 3Pn unseren eigenen Geheimhaltungsvorschriften genügen, und dass die Empfänger:\n    die persönlichen Daten nur für den vorbestimmten Zweck verwenden\n    persönliche Daten nur unter der Voraussetzung erhalten und bearbeiten, dass die persönlichen Daten vor unbefugtem Gebrauch geschützt sind. Hierzu werden ähnlich strenge Grundsätze und Bestimmungen in Zusammenhang mit Schutz und Verwendung von persönlichen Daten übernommen und eingehalten.\n    sich streng an das geltende Recht halten. \nAnonyme oder nicht geschützte Daten (einschließlich „nicht geschützter” Statistiken) mit denen Sie nicht identifiziert werden können, sind von Nutzungs-, Bearbeitungs-, Offenlegungs-, Vermittlungs- und anderen Nutzungsbeschränkungen für persönliche Daten ausgeschlossen.\n6. Postings in Foren\nPostings auf gewissen Sony Webseiten (sei es in Chatrooms, auf Nachrichtenbrettern oder mittels anderer Kommunikationswege innerhalb eines Forums) stehen im Allgemeinen anderen Nutzern des Sony Forums frei zur Verfügung. Deswegen dürfen Nutzer nicht erwarten, dass gepostete Informationen vertraulich behandelt werden, so dass man bei der Verwendung eines Sony Forums Sorgfalt walten sollte. Darüber hinaus wird Ihr Nutzername immer zusammen mit Ihrem Posting im den Sony Foren genannt.\n7. Sicherheit gesammelter Persönlicher Daten\nSony beabsichtigt, Ihre persönlichen Daten zu schützen und die Qualität aufrecht zu erhalten. Sony bemüht sich nach Kräften, alle angemessenen technischen und organisatorischen Maßnahmen und Vorsichtsmaßnahmen zu treffen, um die persönlichen Daten vor unbefugtem Zugriff, unerlaubter Verwendung, Änderung oder Zerstörung zu schützen. Die Maßnahmen umfassen Secure Sockets Layer (SSL) Verschlüsselung bei der Sammlung oder Übermittlung sensibler Daten, wie zum Beispiel Kreditkartendetails. Die SSL Verschlüsselung wurde entworfen, um die Daten nur für uns lesbar zu machen.\nWie wir Ihre Daten schützen:\n    Wir beschränken den Zugriff auf Ihre Persönlichen Daten. Nur Angestellte, die mit den Daten in Berührung kommen müssen, um Ihnen Produkte und Dienstleistungen anzubieten, haben Zugriff.\n    Wir verfügen über physikalische, elektronische, und prozessuale Sicherheitsvorrichtungen, die den Verordnungen entsprechen, um Ihre persönlichen Daten zu schützen.\n    Wie ermöglichen einen Passwortschutz für Ihre Kontendaten.\nAls beste Vorgehensweise im Internet wird empfohlen, dass Einzelpersonen keine trivialen Loginnamen und Passwörter verwenden. Passwörter sollten aus einer Kombination aus Buchstaben und Zahlen bestehen, sicher aufbewahrt und von Zeit zu Zeit geändert werden. \n8. Cookies und Web-Beacons\nBestimmte Sony Webseiten verwenden eine industrieübergreifende Technologie namens „Cookies”. Hierbei handelt es sich um kleine Datenpakete, die auf Ihrer Festplatte abgelegt werden, wenn Sie auf eine Webseite oder einen gewissen Teil einer Webseite zugreifen. Cookies helfen Sony dabei zu verstehen, welcher Teil der Webseiten der beliebteste ist, wohin Sony Besucher gehen und wie lange sie sich dort aufhalten.\nSony verwendet Cookies, um das Verkehrsmuster auf den Seiten zu studieren und somit die Leistung der Webseite zu erhöhen, um die Nutzererfahrung anzugleichen, und den Interessen und Präferenzen des Nutzers besser zu entsprechen. Zum Beispiel verfolgt Sony die Domains von denen der Nutzer kommt und misst auch die Besucheraktivität auf den Sony Webseiten. Jedoch werden diese Daten in einer Art und Weise durchgeführt und aufbewahrt, die eine Identifizierung unmöglich machen.\nCookies können auch verwendet werden, um Ihren Computer beim nächsten Besuch auf einer Webseite wieder zu erkennen. Dies kann Zeit sparen (z.B. indem sichergestellt wird, dass Sie sich nicht erneut registrieren müssen) oder indem Ihnen geholfen wird, Ihre Interneteinstellungen anzupassen.Wenn Sie keine Cookies wünschen, können diese gemäß Anweisung Ihres Browserherstellers ausgeschaltet werden. Bitte lesen Sie die Bedienungsanleitung Ihres Browsers oder den Hilfebildschirm, um mehr über diese Funktionen zu erfahren. Im Internet Explorer gehen Sie beispielsweise auf Extras/Internetoptionen/Datenschutz und Sicherheit Tabs, um den Browser nach Ihren Wünschen einzurichten.\nWeb-Beacons, auch Web-Bugs, Clear-Gifs, 1-Pixel-Bilder oder Netzbojen genannt, können auf unserer Webseite verwendet werden. Diese Technologie zeigt uns, welche Besucher auf einer Sony Webseite oder Sony e-Mail auf Schlüsselelemente (wie beispielsweise Links oder Grafiken) geklickt haben. Wenn Sie uns bitten, Ihnen Informationen über eine Promotion oder einen Newsletter zu schicken, können wir Web-Beacons benutzen, um festzustellen, welche e-Mail tatsächlich geöffnet worden ist. Wir verwenden diese Informationen, um unseren Inhalt und unsere Dienstleistungen zu optimieren. Diese Web-Beacons arbeiten normalerweise in Verbindung mit Cookies. Wenn Sie nicht möchten, dass Ihre Cookie Informationen mit Ihren Besuchen zu diesen Seiten verbunden werden, können Sie Ihren Browser so einstellen, dass die Cookies ausgeschaltet werden. Bei Microsoft Outlook 2003 oder ähnlichem, kann das Herunterladen von Abbildungen von Seite zu Seite abgestellt werden.\n9. Zugriff auf Ihre Persönlichen Daten\nSie haben das Zugriffsrecht auf Ihre persönlichen Daten, können falsche Angaben in Ihren persönlichen Daten korrigieren oder löschen, und der Weiterverarbeitung Ihrer persönlichen Daten widersprechen. Wenn Sie Ihre in der Sony Datenbank gespeicherten persönlichen Daten betrachten, korrigieren, abändern oder aktualisieren möchten, setzen Sie sich bitte mit Sony unter in Paragraph 14 genannten Anschrift per Fax, Telefon oder Brief in Verbindung. Zum Schutze der Intimsphäre werden Sie aufgefordert einen Identifikationsnachweis vorzulegen.\nAuf Anfrage erhalten Sie eine Erklärung in Zusammenhang mit der Verarbeitung Ihrer persönlichen Daten, sowie eine Bestätigung, dass alle betroffenen Parteien von Ihrer Informationsanfrage, sei es Änderung oder Streichung, unterrichtet wurden. Sony bemüht sich nach Kräften, diese Anfragen zu erfüllen.\nWenn Sie von einer e-Mail Verteilerliste gestrichen werden wollen, folgen Sie bitte dem „Unsubscribe“’ Link und/oder den Anweisungen, die sich (normalerweise) in der Fußzeile der Mail befinden. Wenn Sie mehr als eine e-Mail Adresse verwenden, um bei Sony einzukaufen oder mit Sony in Verbindung zu treten, lassen Sie bitte alle e-Mail Adressen aus dem Verteiler streichen.\n10. Links zu anderen Seiten\nEinige Sony Webseiten enthalten Links zu anderen Webseiten, die nicht von Sony betreut werden. Ihre persönlichen Daten werden von Sony nicht mit diesen Webseiten geteilt. Während Sony bestrebt ist, nur Links zu Seiten anzubieten, die den hohen Standards von Sony in den Bereichen Privatsphäre entsprechen, trägt Sony keine Verantwortung für Inhalt, Sicherheit oder Privatsphärepraktiken anderer Seiten, und übernimmt ausdrücklich keine Haftung in Zusammenhang mit der Verwendung anderer Seiten und dem dort gefundenen Inhalt.\n11. Kinderschutz (Kinder von 14 Jahren und darunter)\nSony erwirbt oder sammelt wissentlich keine persönlichen Daten von Kindern oder über Kinder (Alter 14 und darunter), ohne die Genehmigung der Eltern oder des Vormunds, und Sony vermarktet wissentlich keine Produkte oder Dienstleistungen an Kinder. Wenn Sony Kenntnis darüber erlangt, dass eine Person, die persönliche Daten über eine Sony Webseite einreicht, ein Kind ist, bemüht sich Sony nach Kräften, die persönlichen Daten so schnell wie möglich aus den Daten zu streichen. Sony bemüht sich auch nach Kräften, sicherzustellen, dass diese persönlichen Daten für keine anderen Zwecke verwendet oder an 3Pn weitergegeben werden. Da Sony keine persönlichen Daten von Kindern sammeln möchte, und Sony die Daten unwiederbringlich nach einer diesbezüglichen Entdeckung löscht, behält Sony keine Daten von Kindern, die überprüft oder gelöscht werden könnten. Wenn Eltern die Überprüfung oder Streichung von Daten Ihres Kindes fordern, bevor Sony die Daten entdeckt und gelöscht hat, kommt Sony diesem Wunsch natürlich nach.\n12. Industriestandards\nDie Sony Geheimhaltungserklärung entstand in Zusammenarbeit mit der Federation of European Direct Marketing (FEDMA). Die FEDMA ist die erste Handelsvereinigung deren Datenschutzbestimmungen mit den Europäischen Datenschutzbehörden (Artikel 29 Arbeitsgruppe) ausgehandelt und von der EU Kommission anerkannt wurden.\n\n"
+}

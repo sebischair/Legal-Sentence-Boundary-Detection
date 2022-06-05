@@ -1,0 +1,743 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 57,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 63,
+            "start": 58,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 233,
+            "start": 221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 246,
+            "start": 234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 275,
+            "start": 274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "172",
+            "end": 286,
+            "start": 283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 296,
+            "start": 287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 463,
+            "start": 458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beseitigen",
+            "end": 765,
+            "start": 755,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 775,
+            "start": 774,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 801,
+            "start": 800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchlaufen",
+            "end": 977,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offen",
+            "end": 1135,
+            "start": 1130,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1150,
+            "start": 1149,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1176,
+            "start": 1175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1188,
+            "start": 1177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1285,
+            "start": 1275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KL",
+            "end": 1359,
+            "start": 1357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 1371,
+            "start": 1360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26563",
+            "end": 1388,
+            "start": 1383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26563",
+            "end": 1407,
+            "start": 1402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "292",
+            "end": 1421,
+            "start": 1418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1427,
+            "start": 1422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1472,
+            "start": 1462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 1536,
+            "start": 1527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1557,
+            "start": 1538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1559,
+            "start": 1558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1562,
+            "start": 1561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1870,
+            "start": 1865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichten",
+            "end": 2205,
+            "start": 2193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2208,
+            "start": 2207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 2571,
+            "start": 2565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 2895,
+            "start": 2890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3018,
+            "start": 3013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 3021,
+            "start": 3020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Karussellbar",
+            "end": 3207,
+            "start": 3195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3373,
+            "start": 3370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3376,
+            "start": 3375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 3630,
+            "start": 3627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3767,
+            "start": 3764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 3973,
+            "start": 3963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3976,
+            "start": 3975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 4215,
+            "start": 4208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 4396,
+            "start": 4388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 4692,
+            "start": 4686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 4954,
+            "start": 4944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4957,
+            "start": 4956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gab",
+            "end": 5455,
+            "start": 5452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gab",
+            "end": 5732,
+            "start": 5729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 6082,
+            "start": 6073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 6285,
+            "start": 6275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 6288,
+            "start": 6287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7004,
+            "start": 7001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 7141,
+            "start": 7131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 7529,
+            "start": 7520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 7532,
+            "start": 7531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatten",
+            "end": 7867,
+            "start": 7861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlägen",
+            "end": 8090,
+            "start": 8082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 8152,
+            "start": 8142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8155,
+            "start": 8154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "näher",
+            "end": 8752,
+            "start": 8747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8756,
+            "start": 8754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 8990,
+            "start": 8986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9155,
+            "start": 9152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9209,
+            "start": 9203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9451,
+            "start": 9448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 9455,
+            "start": 9453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ankomme",
+            "end": 9741,
+            "start": 9734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wolle",
+            "end": 9887,
+            "start": 9882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 10077,
+            "start": 10070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 10213,
+            "start": 10203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 10470,
+            "start": 10464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 10474,
+            "start": 10472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 10612,
+            "start": 10602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 10668,
+            "start": 10663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 11020,
+            "start": 11017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 11141,
+            "start": 11138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 11193,
+            "start": 11184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 11319,
+            "start": 11313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 11323,
+            "start": 11321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 11502,
+            "start": 11498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 11506,
+            "start": 11504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 11510,
+            "start": 11508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 12016,
+            "start": 12012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 12346,
+            "start": 12339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 12448,
+            "start": 12442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehe",
+            "end": 12772,
+            "start": 12768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 12944,
+            "start": 12942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 12948,
+            "start": 12946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 13310,
+            "start": 13301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 13501,
+            "start": 13494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 13506,
+            "start": 13503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13510,
+            "start": 13508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 13551,
+            "start": 13541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13555,
+            "start": 13553,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14215,
+            "start": 14214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14219,
+            "start": 14217,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14401,
+            "start": 14400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14405,
+            "start": 14403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenzutreten",
+            "end": 14831,
+            "start": 14815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beseitigen",
+            "end": 15033,
+            "start": 15023,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15545,
+            "start": 15544,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15905,
+            "start": 15904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15909,
+            "start": 15907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 16259,
+            "start": 16254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 16860,
+            "start": 16851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16864,
+            "start": 16862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beharrt",
+            "end": 17128,
+            "start": 17121,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17522,
+            "start": 17521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 17526,
+            "start": 17524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 17724,
+            "start": 17717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekannt",
+            "end": 17994,
+            "start": 17987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "StPO",
+            "end": 18154,
+            "start": 18150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 18158,
+            "start": 18156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anderes",
+            "end": 18314,
+            "start": 18307,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18670,
+            "start": 18669,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19098,
+            "start": 19097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 19102,
+            "start": 19100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 19456,
+            "start": 19452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 19763,
+            "start": 19760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 19767,
+            "start": 19765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 19771,
+            "start": 19769,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19878,
+            "start": 19877,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 22.10.2018 – Vf. 74-VI-17\nTitel:\nErhebung einer Vorschaltbeschwerde vor Einleitung des Klageerzwingungsverfahrens\nzur Einhaltung des Grundsatzes der Subsidiarität der Verfassungsbeschwerde\nerforderlich\nNormenketten:\nVerfGHG Art. 51 Abs. 2 S. 1\nStPO § 172\nLeitsätze:\nUnzulässige Verfassungsbeschwerde gegen eine strafgerichtliche Entscheidung, mit der ein Antrag\ndes Beschwerdeführers gemäß § 172 StPO als unzulässig verworfen wurde.\n1. Der Grundsatz der Subsidiarität verlangt, dass ein Beschwerdeführer im fachgerichtlichen\nVerfahren sowohl den Rechtsweg formal durchlaufen als auch alle zumutbaren prozessualen\nMöglichkeiten ausgeschöpft hat, um die geltend gemachte Verletzung von Verfassungsrecht zu\nverhindern oder zu beseitigen. (Rn. 19) (redaktioneller Leitsatz)\n2. Bei unterbliebener Mitteilung der Staatsanwaltschaft über das Ergebnis des\nErmittlungsverfahrens ist das Klageerzwingungsverfahren in den vorgesehenen Stufen zu\ndurchlaufen; dem Anzeigenden steht also zunächst die Beschwerde an die\nGeneralstaatsanwaltschaft und erst im Anschluss gegebenenfalls das Klageerzwingungsverfahren\noffen. (Rn. 20 – 23) (redaktioneller Leitsatz)\nSchlagworte:\nVerfassungsbeschwerde, Subsidiarität, Klageerzwingungsverfahren, Vorschaltbeschwerde\nVorinstanz:\nOLG München, Beschluss vom 05.10.2017 – 2 Ws 1235/17 KL, 2 Ws 1238/17 KL\nFundstellen:\nLSK 2018, 26563\nBeckRS 2018, 26563\nNJW 2019, 292\nTenor\n1. Die Verfassungsbeschwerde wird abgewiesen.\n2. Dem Beschwerdeführer wird eine Gebühr von 1.500 € auferlegt.\nEntscheidungsgründe\nI.\n1\nDie Verfassungsbeschwerde vom 2. November 2017 richtet sich gegen den Beschluss des\nOberlandesgerichts München vom 5. Oktober 2017 Az. 2 Ws 1235/17 KL - 2 WS 1238/17 KL, mit dem ein\nAntrag des Beschwerdeführers auf gerichtliche Entscheidung gemäß § 172 StPO vom 1. August 2017 als\nunzulässig verworfen wurde. Dieser Antrag war darauf gerichtet, die Staatsanwaltschaft München I\nentsprechend einer auf den 2. Mai 2017 datierten Strafanzeige des Beschwerdeführers zur förmlichen\nEinleitung eines Ermittlungsverfahrens wegen gemeinschaftlicher Rechtsbeugung gegen mehrere Richter\nder Amtshaftungskammer des Landgerichts München I zu verpflichten.\n2\n1. Hintergrund der vom Beschwerdeführer eingereichten Strafanzeige sind zwei Zivilverfahren vor dem\nLandgericht München I, in denen auf Amtshaftungsansprüche wegen Rechtsbeugung eines Richters\ngestützte Klagen des Beschwerdeführers gegen den Freistaat Bayern mit Urteilen vom 9. Januar 2013 Az.\n15 O 13259/12 und 25. Juni 2014 Az. 15 O 16154/13 abgewiesen wurden. Diesen Prozessen waren weitere\nRechtsstreitigkeiten im Zusammenhang mit der Vollstreckung einer Forderung von 110.000 €\nvorausgegangen, die der Beschwerdeführer, ein Rechtsanwalt, zunächst für seine Schwester und beider\nMutter, nach deren Tod auch als Miterbe zusammen mit seiner Schwester in eigener Sache betrieben hatte.\nIm Kern streitig war dabei, wer Eigentümer einer Karussellbar war, die auch auf dem Münchener\nOktoberfest betrieben wurde.\n3\na) Zunächst erhob der Beschwerdeführer als Bevollmächtigter vor dem Landgericht München I eine Klage\nauf Duldung der Zwangsvollstreckung nach dem Anfechtungsgesetz in diese Karussellbar. Die Klage wurde\nin allen Instanzen abgewiesen, weil die Kläger nicht nachgewiesen hätten, dass die dortige Beklagte jemals\nEigentümerin der Karussellbar gewesen sei.\n4\nb) In einem weiteren Zivilverfahren verlangte der Beschwerdeführer als Bevollmächtigter Schadensersatz\nwegen Falschaussage von einem Beklagten, der Zeuge zur Frage der Eigentumsverhältnisse an der\nKarussellbar im vorangegangenen Zivilprozess gewesen war. Die Klage wurde in allen Instanzen\nabgewiesen, weil eine Falschaussage des nun Beklagten als Zeuge im Vorprozess nicht nachgewiesen sei.\nDie gegen die abschließenden Entscheidungen in diesem Verfahren zum Bayerischen\nVerfassungsgerichtshof erhobene Verfassungsbeschwerde Vf. 12-VI-11 wurde durch Entscheidung vom 21.\nNovember 2011 abgewiesen.\n5\nc) Im Anschluss daran machten der Beschwerdeführer und seine Schwester in den Verfahren Az. 15 O\n13259/12 und 15 O 16154/13 vor dem Landgericht München I erfolglos Schadensersatzansprüche aus\nAmtshaftung gegen den Freistaat Bayern geltend. Der im Vorprozess wegen der Schadensersatzforderung\ngegen den Zeugen entscheidende Einzelrichter am Landgericht habe die Akten nicht gelesen und damit\nseine Amtspflichten verletzt. Die Berufungen des Beschwerdeführers gegen die klageabweisenden Urteile\ndes Landgerichts München I vom 9. Januar 2013 und vom 25. Juni 2014 wies das Oberlandesgericht\nMünchen jeweils gemäß § 522 Abs. 2 ZPO zurück, auch eine Nichtzulassungsbeschwerde bzw. eine\nAnhörungsrüge hatten keinen Erfolg. Die gegen das Urteil des Landgerichts im Verfahren Az. 15 O\n16154/13 und nachfolgende Beschlüsse des Oberlandesgerichts zum Bayerischen Verfassungsgerichtshof\nerhobene Verfassungsbeschwerde Vf. 8-VI-15 wurde durch Entscheidung vom 22. September 2015\nabgewiesen.\n6\n2. a) Gegen die Richter des Oberlandesgerichts, die über die Berufung gegen das Urteil im ersten\nAmtshaftungsverfahren entschieden hatten, sowie gegen die Richter des Landgerichts München I, die im\nzweiten Amtshaftungsverfahren das Urteil vom 25. Juni 2014 gefällt hatten, erstattete der Beschwerdeführer\nbereits 2013 und 2014 Strafanzeigen wegen Rechtsbeugung, denen die Staatsanwaltschaft München I\ndurch Verfügungen vom 1. Juli 2013 und vom 22. Juli 2014 gemäß § 152 Abs. 2 StPO keine Folge gab.\nGegen den Staatsanwalt, der diese Verfügungen getroffen hatte, erstattete der Beschwerdeführer am 15.\nSeptember 2014 Strafanzeige wegen versuchter Strafvereitelung im Amt, welcher die Staatsanwaltschaft\nMünchen I mit Verfügung vom 17. September 2014 ebenfalls keine Folge gab. Gegen die\nstaatsanwaltschaftlichen Verfügungen eingelegte Beschwerden des Beschwerdeführers an den\nGeneralstaatsanwalt in München und Anträge an das Oberlandesgericht München, die Staatsanwaltschaft\nMünchen I zur Einleitung eines Ermittlungsverfahrens gegen die angezeigten Richter bzw. den angezeigten\nStaatsanwalt zu verpflichten, waren erfolglos. Die in diesem Zusammenhang vom Beschwerdeführer\nerhobenen Verfassungsbeschwerden Vf. 1-VI-14, Vf. 107-VI-14 und Vf. 112-VI-14 wurden durch\nEntscheidungen vom 9. Januar und 22. September 2015 abgewiesen.\n7\nb) Mit einer weiteren Verfassungsbeschwerde Vf. 32-VI-15 vom 15. April 2015 wandte sich der\nBeschwerdeführer dagegen, dass das Oberlandesgericht München vier von ihm gestellte Anträge negativ\nverbeschieden hatte, die darauf gerichtet waren, die Staatsanwaltschaft München I zur Einleitung von\nErmittlungsverfahren und zur Aufklärung strafrechtlicher Vorwürfe gegen mehrere Richter des\nOberlandesgerichts München, eine Oberstaatsanwältin der Staatsanwaltschaft München I und mehrere\nRichter des Bayerischen Verfassungsgerichtshofs wegen Rechtsbeugung bzw. versuchter Strafvereitelung\nzu verpflichten, nachdem die Staatsanwaltschaft auf seine Strafanzeigen gegen diese Personen seit zwei\nMonaten untätig geblieben sei. Diese Verfassungsbeschwerde wurde durch Entscheidung vom 17.\nNovember 2015 mangels Erschöpfung des Rechtswegs als unzulässig abgewiesen. Ein\nKlageerzwingungsverfahren setze auch bei etwa anzunehmender Untätigkeit der Staatsanwaltschaft nach §\n172 Abs. 1 und 2 StPO voraus, dass der Anzeigeerstatter vor einem Antrag auf gerichtliche Entscheidung\nan das Oberlandesgericht versucht hat, durch Beschwerde bei der Generalstaatsanwaltschaft eine\nEntscheidung über die Fortführung oder den Abschluss der Ermittlungen zu erreichen.\n8\n3. Mit Schreiben vom 2. Mai 2017 erstattete der Beschwerdeführer erneut Strafanzeige wegen\nRechtsbeugung gegen die Richter des Landgerichts München I, die mit dem Amtshaftungsverfahren Az. 15\nO 16154/13 befasst gewesen waren, sowie gegen die Richter, die erstinstanzlich über die\nAmtshaftungsklage Az. 15 O 13259/12 entschieden hatten. Die Staatsanwaltschaft München I gab dieser\nStrafanzeige mit Verfügung vom 14. Juni 2017 nach § 152 Abs. 2 StPO keine Folge, da Anhaltspunkte für\nstrafrechtlich relevantes Verhalten der angezeigten Personen nicht vorlägen. Die Entscheidung wurde dem\nBeschwerdeführer nicht mitgeteilt.\n9\nAm 1. August 2017 stellte der Beschwerdeführer beim Oberlandesgericht München „Antrag im Verfahren\ngem. §§ 172 ff StPO auf Verpflichtung der Staatsanwaltschaft München I zur förmlichen Einleitung des\nErmittlungsverfahrens gegen die beschuldigten Richter der Amtshaftungskammer des Landgerichts\nMünchen I wegen gemeinschaftlicher Rechtsbeugung gem. §§ 339, 25 II StGB durch ihre Urteile vom\n9.1.2013 und vom 25.6.2014, Az. 15 O 13259/12 und 15 O 16154/13“. Er monierte die fehlende\nBearbeitung seiner Strafanzeige und begründete in diesem Schriftsatz und weiteren Schriftsätzen seinen\nAntrag näher.\n10\nDas Oberlandesgericht übermittelte dem Beschwerdeführer mit Verfügung vom 19. September 2017 die\nVorlageschreiben der Staatsanwaltschaft München I vom 6. September 2017 und der\nGeneralstaatsanwaltschaft München vom 14. September 2017. In Letzterem wurde eine Verwerfung des\nKlageerzwingungsantrags als unzulässig beantragt, da bereits das notwendige Vorschaltverfahren nicht\ndurchgeführt worden sei; eine Beschwerde sei dort nie anhängig gemacht worden.\nDas Oberlandesgericht wies insbesondere darauf hin, dass ein Klageerzwingungsverfahren gemäß § 172\nAbs. 2 Satz 1 StPO einen - negativen - Bescheid der Generalstaatsanwaltschaft voraussetze, der bislang in\ndiesem Verfahren nicht ergangen sei.\n11\nDer Beschwerdeführer nahm dazu mit Schriftsatz vom 26. September 2017 Stellung und vertrat die\nAuffassung, dass im vorliegenden Fall ein Anspruch auf Strafverfolgung Dritter eindeutig gegeben sei und\nes auf einen negativen Bescheid der Generalstaatsanwaltschaft eindeutig nicht ankomme. Es müsse dem\nVerletzten freistehen, auf welche Weise er sich gegen die Rechtsverweigerung der Staatsanwaltschaft\nMünchen I zur Wehr setzen wolle. Sein Grundrecht auf Gewährung effektiven Rechtsschutzes gemäß Art.\n19 Abs. 4 GG sei zu beachten, das Abwarten eines negativen Bescheids der Generalstaatsanwaltschaft\nnicht zumutbar gewesen. Eine Untätigkeitsklage sei gemäß § 75 VwGO, § 27 EGGVG statthaft und im\nweiteren Verfahren zwingend Verwaltungsprozessrecht anzuwenden. Grundsätzlich biete ein\nErmittlungserzwingungsverfahren dem Verletzten einer Straftat analog zum Klageerzwingungsverfahren die\nMöglichkeit, eine Entscheidung der Staatsanwaltschaft, kein Ermittlungsverfahren durchzuführen, gerichtlich\nüberprüfen zu lassen.\n12\nMit dem angegriffenen Beschluss vom 5. Oktober 2017 verwarf das Oberlandesgericht München den Antrag\ndes Beschwerdeführers als unzulässig. Der Antrag genüge den Anforderungen des Gesetzes nicht. Es fehle\n- neben anderen Voraussetzungen - schon an einer Vorschaltbeschwerde gemäß § 172 Abs. 1 StPO an\nden Generalstaatsanwalt in München als Dienstvorgesetzten der Staatsanwaltschaft München I und\ndemzufolge an einem - ablehnenden - Bescheid des Generalstaatsanwalts, was gemäß § 172 Abs. 2 StPO\nVoraussetzung für ein Klageerzwingungsverfahren sei. Einen Untätigkeitsantrag oder eine Untätigkeitsklage\nsehe das Gesetz im Rahmen des Klageerzwingungsverfahrens nicht vor; die Verwaltungsgerichtsordnung\nsei nicht anwendbar. Auch ein ausnahmsweise zulässiges Ermittlungserzwingungsverfahren setze das\nVorschaltverfahren nach § 172 Abs. 1 StPO voraus.\n13\nMit Beschluss vom 19. Juli 2018 verwarf das Oberlandesgericht München auch die Anhörungsrüge des\nBeschwerdeführers als unzulässig und bestätigte den Beschluss vom 5. Oktober 2017.\nII.\n14\n1. Mit seiner Verfassungsbeschwerde vom 2. November 2017, ergänzt durch mehrere Schriftsätze, rügt der\nBeschwerdeführer Verletzungen des Grundrechts auf rechtliches Gehör gemäß Art. 91 Abs. 1 BV, da ihm\ndie angebliche staatsanwaltschaftliche Verfügung vom 14. Juni 2017 nicht mitgeteilt worden sei, im weiteren\nVerfahren keine richterlichen Hinweise gemäß § 86 VwGO erteilt worden seien und das Oberlandesgericht\nentgegen Art. 6 Abs. 1 EMRK, § 101 Abs. 1 VwGO keine mündliche Verhandlung durchgeführt habe.\nDaneben rügt er eine Verletzung des Anspruchs auf effektiven Rechtsschutz gemäß Art. 19 Abs. 4 GG.\nSein Ermittlungserzwingungsantrag sei - analog einem Klageerzwingungsantrag - nach §§ 172 ff. StPO\naufgrund anzunehmender Untätigkeit der Staatsanwaltschaft München I und in entsprechender Anwendung\nvon § 75 VwGO zulässig gewesen. Durch die Verwerfung seines Antrags als unzulässig sei ihm effektiver\nRechtsschutz verweigert worden. Gemäß der Entscheidung des Bundesverfassungsgerichts vom 26. Juni\n2014 Az. 2 BvR 2699/10 und nachfolgender bestätigender Rechtsprechung habe er als Verletzter einen\nechten Rechtsanspruch auf Strafverfolgung gegen Dritte, wenn es um Straftaten von Amtsträgern bei der\nAusübung des ihnen anvertrauten öffentlichen Amtes gehe. Ergänzend beruft sich der Beschwerdeführer\ninsbesondere auf Beschlüsse des Bundesverfassungsgerichts vom 22. Mai 2017 Az. 2 BvR 1453/16 und 2.\nJuli 2018 Az. 2 BvR 1550/17.\n15\n2. Das Bayerische Staatsministerium der Justiz hält die Verfassungsbeschwerde mangels Erschöpfung des\nRechtswegs für unzulässig, da der Beschwerdeführer vor dem Klage- bzw.\nErmittlungserzwingungsverfahren nicht versucht habe, durch Beschwerde bei der\nGeneralstaatsanwaltschaft eine Entscheidung über die Einleitung bzw. Fortführung der Ermittlungen zu\nerreichen. Im Übrigen sei die Verfassungsbeschwerde jedenfalls unbegründet, insbesondere kein Verstoß\ngegen das Willkürverbot durch die angefochtene Entscheidung des Oberlandesgerichts München gegeben.\nIII.\n16\nDie Verfassungsbeschwerde ist unzulässig.\n17\n1. Ob die Verfassungsbeschwerde deshalb unzulässig ist, weil der Vortrag des Beschwerdeführers zu den\nbehaupteten Verfahrensverstößen nicht geeignet ist, die gerügte Verletzung des Grundrechts auf\nrechtliches Gehör gemäß Art. 91 Abs. 1 BV nachvollziehbar und substanziiert zu begründen, kann ebenso\ndahinstehen wie die - vom Verfassungsgerichtshof bislang offengelassene - Frage, ob die aus Art. 3 Abs. 1\nBV hergeleitete Justizgewährungspflicht auch ein subjektives verfassungsmäßiges Recht auf effektiven\nRechtsschutz im Sinn von Art. 120 BV begründet (vgl. VerfGH vom 29.1.2014 BayVBl 2014, 448 Rn. 44 m.\nw. N.; vom 17.11.2015 - Vf. 32-VI-15 - juris Rn. 11).\n18\n2. Die Verfassungsbeschwerde ist jedenfalls deshalb unzulässig, weil sie dem Grundsatz der Subsidiarität\nder Verfassungsbeschwerde nicht gerecht wird (Art. 51 Abs. 2 Satz 1 VerfGHG).\n19\nAus dem Erfordernis der Erschöpfung des Rechtswegs folgt nach ständiger Rechtsprechung des\nVerfassungsgerichtshofs und auch des Bundesverfassungsgerichts, dass die Verfassungsbeschwerde\nwegen ihres subsidiären Charakters über Art. 51 Abs. 2 Satz 1 VfGHG hinaus nur dann zulässig ist, wenn\nalle prozessualen und faktischen Möglichkeiten ausgeschöpft sind, um dem als verfassungswidrig\nbeanstandeten Hoheitsakt entgegenzutreten. Die Verfassungsbeschwerde ist ein letzter, außerordentlicher\nRechtsbehelf, der nur dann zum Zug kommt, wenn alle anderen Möglichkeiten erschöpft sind, um eine\nverfassungswidrige Maßnahme zu beseitigen. Versäumt ein Beschwerdeführer eine prozessuale oder\ntatsächliche Möglichkeit, um eine Verletzung verfassungsmäßiger Rechte auszuräumen, so begibt er sich\ndieser Rechte (vgl. VerfGH vom 8.6.1984 VerfGHE 37, 79/83; vom 8.11.1991 VerfGHE 44, 136/138 f.; vom\n17.3.1994 -Vf. 22-VI-93 - juris Rn. 8; Müller in Meder/Brechmann, Die Verfassung des Freistaates Bayern,\n5. Aufl. 2014, Art. 120 Rn. 25 m. w. N.; Wolff in Lindner/Möstl/ Wolff, Verfassung des Freistaates Bayern, 2.\nAufl. 2017, Art. 120 Rn. 68 f. m. w. N.). Der Grundsatz der Subsidiarität verlangt, dass ein\nBeschwerdeführer im fachgerichtlichen Verfahren sowohl den Rechtsweg formal durchlaufen als auch alle\nzumutbaren prozessualen Möglichkeiten ausgeschöpft hat, um die geltend gemachte Verletzung von\nVerfassungsrecht zu verhindern oder zu beseitigen (BVerfG vom 10.3.2016 - 2 BvR 408/16 - juris Rn. 3 m.\nw. N.).\n20\nDas ist vorliegend nicht geschehen, ohne dass es darauf ankommt, dass dem Beschwerdeführer die\nVerfügung der Staatsanwaltschaft München I vom 14. Juni 2017, mit der seiner Strafanzeige mangels\nAnhaltspunkten für ein strafrechtlich relevantes Verhalten der angezeigten Personen nach § 152 Abs. 2\nStPO keine Folge gegeben wurde, nicht mitgeteilt wurde. Denn - vgl. bereits die vorangegangene\nEntscheidung des Verfassungsgerichtshofs vom 17. November 2015 (Vf. 32-VI-15 - juris Rn. 12) - das\nKlageerzwingungsverfahren und entsprechend ein ausnahmsweise zulässiges\nErmittlungserzwingungsverfahren setzen auch bei etwa anzunehmender Untätigkeit der Staatsanwaltschaft\nnach § 172 Abs. 1 und 2 StPO voraus, dass der Anzeigeerstatter vor einem Antrag auf gerichtliche\nEntscheidung an das Oberlandesgericht versucht hat, durch Beschwerde bei der Generalstaatsanwaltschaft\neine Entscheidung über die Fortführung oder den Abschluss der Ermittlungen zu erreichen.\n21\nEine solche Vorschaltbeschwerde hat der Beschwerdeführer nicht erhoben, sondern - trotz Hinweises des\nOberlandesgerichts - auf seiner unzutreffenden Rechtsauffassung einer entsprechenden Anwendbarkeit\nvon § 75 VwGO im Rahmen des Klageerzwingungsverfahrens beharrt. Damit hat er die Verwerfung seines\nAntrags als unzulässig bewusst in Kauf genommen und kann sich nicht darauf berufen, dass er aufgrund\nfehlenden Eintritts in eine Sachprüfung seines Begehrens in seinem Grundrecht auf rechtliches Gehör\nverletzt oder ihm kein effektiver Rechtsschutz gewährt worden sei (vgl. zu einer ähnlichen Fallgestaltung\nBVerfG vom 10.3.2016 - 2 BvR 408/16 - juris Rn. 3).\n22\nDie Geltendmachung eines inhaltsgleichen Begehrens wie gegenüber dem Oberlandesgericht zunächst\ngegenüber der Generalstaatsanwaltschaft wäre dem Beschwerdeführer auch ohne Weiteres zumutbar\ngewesen. Die Erforderlichkeit einer Vorschaltbeschwerde im Klage- bzw. Ermittlungserzwingungsverfahren,\nauch für den Fall etwa anzunehmender Untätigkeit der Staatsanwaltschaft, war ihm -schon aufgrund der\nEntscheidung des Verfassungsgerichtshofs vom 17. November 2015 - bekannt. Die Beschwerdefrist des §\n172 Abs. 1 Satz 1 StPO war vorliegend mangels Belehrung nach § 171 Satz 2 StPO nicht in Lauf gesetzt\nworden,§ 172 Abs. 1 Satz 3 StPO.\n23\nDie vom Beschwerdeführer herangezogene Entscheidung des Bundesverfassungsgerichts vom 22. Mai\n2017 Az. 2 BvR 1453/16 (NJW 2017, 3141) besagt nichts anderes. Der Verfassungsgerichtshof geht wie\ndas Bundesverfassungsgericht davon aus, dass die Zulässigkeit des Verfahrens gemäß § 172 StPO nicht\ndavon abhängt, dass die Staatsanwaltschaft zuvor gegenüber dem Verletzten einen ausdrücklichen\nablehnenden Bescheid erlassen hat bzw. eine Mitteilung nach § 171 Satz 1 StPO erfolgt ist (BVerfG NJW\n2017, 3141 Rn. 10 f.); in der Entscheidung vom 22. Mai 2017 kommt jedoch klar zum Ausdruck, dass auch\nnach Auffassung des Bundesverfassungsgerichts bei unterbliebener Mitteilung das\nKlageerzwingungsverfahren in den vorgesehenen Stufen zu durchlaufen ist, dem Anzeigenden also\nzunächst die Beschwerde an die Generalstaatsanwaltschaft und erst im Anschluss gegebenenfalls das\nKlageerzwingungsverfahren offensteht (vgl. BVerfG NJW 2017, 3141 Rn. 10 f.).\n24\nIn der Entscheidung vom 2. Juli 2018 Az. 2 BvR 1550/17 nimmt das Bundesverfassungsgericht nicht zur\nSubsidiarität der Verfassungsbeschwerde Stellung, sondern legt dar, dass im dortigen Fall das\nOberlandesgericht Rostock die Anforderungen gemäß § 172 Abs. 3 Satz 1 StPO an die Begründung eines\nansonsten zulässigen Klageerzwingungsantrags überspannt habe. Ob der Beschwerdeführer vorliegend\ndiesen Anforderungen gerecht geworden ist, kann dahinstehen, da er mit der fehlenden Durchführung einer\nVorschaltbeschwerde die Verwerfung seines Ermittlungserzwingungsantrags als schon deshalb unzulässig\nbewusst in Kauf genommen und sich damit seiner Rechte begeben hat.\nIV.\n25\nEs ist angemessen, dem Beschwerdeführer eine Gebühr von 1.500 € aufzuerlegen (Art. 27 Abs. 1 Satz 2\nVfGHG).\n\n"
+}

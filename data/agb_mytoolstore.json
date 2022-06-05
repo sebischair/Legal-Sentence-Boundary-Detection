@@ -1,0 +1,299 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kunde",
+            "end": 8,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 351,
+            "start": 350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 587,
+            "start": 577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 822,
+            "start": 818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 993,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 1083,
+            "start": 1072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 1103,
+            "start": 1088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "der",
+            "end": 1142,
+            "start": 1139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 1153,
+            "start": 1144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 1185,
+            "start": 1170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1319,
+            "start": 1316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 1341,
+            "start": 1330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1470,
+            "start": 1468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1623,
+            "start": 1615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 1658,
+            "start": 1647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 1678,
+            "start": 1660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 1693,
+            "start": 1679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1721,
+            "start": 1708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 1809,
+            "start": 1795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1898,
+            "start": 1885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1976,
+            "start": 1963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 1988,
+            "start": 1981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sofortüberweisung",
+            "end": 2075,
+            "start": 2058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2098,
+            "start": 2080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2159,
+            "start": 2151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 2196,
+            "start": 2190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 2304,
+            "start": 2298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 2532,
+            "start": 2521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 2696,
+            "start": 2686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2785,
+            "start": 2782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2931,
+            "start": 2929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eingangsbestätigung",
+            "end": 3041,
+            "start": 3022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3158,
+            "start": 3155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwort",
+            "end": 3232,
+            "start": 3224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 3343,
+            "start": 3337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 3435,
+            "start": 3428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendienst",
+            "end": 3471,
+            "start": 3459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 3533,
+            "start": 3521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktdokumentation",
+            "end": 3641,
+            "start": 3621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telefonnummer",
+            "end": 3734,
+            "start": 3721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 3818,
+            "start": 3816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seite",
+            "end": 3993,
+            "start": 3988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 4018,
+            "start": 3999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 4120,
+            "start": 4110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 4273,
+            "start": 4260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verklagen",
+            "end": 4357,
+            "start": 4348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 4485,
+            "start": 4478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 4638,
+            "start": 4626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 4859,
+            "start": 4854,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Kunde\n1.1 myToolStore GmbH schließt Verträge mit Kunden ab, die unbeschränkt geschäftsfähige natürliche Personen sind, die das 18. Lebensjahr vollendet haben sowie mit juristischen Personen, jeweils mit Wohnsitz bzw. Sitz in der Bundesrepublik Deutschland, einem Mitgliedsstaat der Europäischen Union oder der Schweiz (nachfolgend \"Kunden\" genannt). Soweit das Angebot eines nicht akzeptierten Teilnehmers versehentlich von myToolStore GmbH angenommen wurde, ist myToolStore GmbH binnen einer angemessenen Frist zur Erklärung des Rücktritts vom Vertrag gegenüber dem Kunden berechtigt.\n1.2 Sofern in diesen Geschäftsbedingungen von Verbrauchern die Rede ist, sind dies natürliche Personen, bei denen der Zweck der Bestellung nicht einer gewerblichen, selbständigen oder freiberuflichen Tätigkeit zugerechnet werden kann. Unternehmer sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die zu gewerblichen, selbständigen oder freiberuflichen Zwecken bestellen. Kunden im Sinne dieser Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.\n2. Vertragspartner\nDer Kaufvertrag kommt zustande mit der: Anschrift.\n3. Angebot und Vertragsschluss\n3.1 Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern eine Aufforderung zur Bestellung dar. Irrtümer vorbehalten.\n3.2 Durch Anklicken des Buttons [kaufen] geben Sie eine verbindliche Bestellung der auf der Bestellseite aufgelisteten Waren ab. Der Kaufvertrag kommt zustande, wenn wir Ihre Bestellung durch eine Auftragsbestätigung per Email unmittelbar nach dem Erhalt Ihrer Bestellung annehmen.\n4. Widerrufsrecht für Verbraucher:\nWiderrufsbelehrung\nMusterformular\n5. Preise und Versandkosten\n5.1 Die auf den Produktseiten genannten Preise enthalten die gesetzliche Mehrwertsteuer.\n5.2 Zusätzlich zu den angegebenen Preisen berechnen wir für die Lieferung Versandkosten. Die aktuellen Versandkosten entnehmen Sie bitte der Info-Seite Versandkosten.\n6. Zahlung\nDie Zahlung erfolgt wahlweise per Vorkasse, Paypal, Kreditkarte oder Sofortüberweisung.\n7. Eigentumsvorbehalt\nBis zur vollständigen Zahlung bleibt die Ware unser Eigentum.\n8. Informationspflichten des Kunden\n8.1 Der Käufer ist verpflichtet, bei seiner Registrierung (Einloggen) nur wahrheitsgemäße Angaben zu machen. Änderungen der für unsere Geschäftsbeziehung wichtigen Daten (z. B. Name, Adresse, E-Mail-Adresse, Unternehmereigenschaft) hat uns der Käufer bei laufender Bestellung unverzüglich, sonst vor der nächsten Bestellung mitzuteilen. Werden uns falsche Daten mitgeteilt, sind wir zum Rücktritt von bereits geschlossenen Verträgen und zur Sperrung unseres Online-Shops für diesen Käufer berechtigt.\n8.2 Der Käufer gewährleistet, dass die von ihm angegebene E-Mail-Adresse erreichbar ist. Wird der Empfang von E-Mails aufgrund Weiterleitungen, Stilllegung oder Überfüllung des Kontos gehindert, stehen uns die Rechte gem. Abs. (1) zu.\n8.3 Unmittelbar nach Aufgabe seiner Bestellung erhält der Käufer von uns per E-Mail eine Eingangsbestätigung. Der Käufer verpflichtet sich, uns unverzüglich zu informieren, wenn er diese Bestätigung nicht zeitnah erhalten hat.\n8.4 Für seinen Zugang zu unserem Online-Shop hat der Käufer ein Passwort. Er verpflichtet sich, das Passwort vertraulich zu behandeln und unbefugten Dritten nicht zugänglich zu machen. Für Missbrauch des Passwortes, den der Käufer verursacht hat, übernehmen wir keine Haftung.\n9. Gewährleistung und Kundendienst\nDie Gewährleistung erfolgt nach den gesetzlichen Bestimmungen. Informationen über eventuelle zusätzliche Herstellergarantien entnehmen Sie bitte der Produktdokumentation. Sie erreichen unseren Kundendienst Mo-Fr von 8:00 Uhr bis 17:00 Uhr unter der Telefonnummer: +49 (0)6205 305760, per Fax +49 (0)6205 3057629 oder per E-Mail rma@mytoolstore.de. Manche Hersteller haben einen eigenen Kundenservice um die Abwicklung bei Reklamationen zu beschleunigen, weiter Informationen entnehmen Sie bitte unserer Reklamations-Seite.\n10. Schlussbestimmungen\nDieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.\nSofern der Kunde Kaufmann, juristische Person öffentlichen Rechts oder öffentliches Sondervermögen ist, ist der Sitz der myToolStore GmbH Gerichtsstand; wir sind jedoch berechtigt, den Kunden auch an seinem Wohnsitzgericht zu verklagen.\nSind diese AGB ganz oder teilweise nicht Vertragsbestandteil geworden oder unwirksam, so bleibt der Vertrag im Übrigen wirksam. Soweit die Bestimmungen nicht Vertragsbestandteil geworden oder unwirksam sind, richtet sich der Inhalt des Vertrags nach den gesetzlichen Vorschriften. Der Vertrag ist nur dann unwirksam, wenn das Festhalten an ihm auch unter Berücksichtigung der nach den gesetzlichen Vorschriften vorzunehmenden Änderungen eine unzumutbare Härte für eine Vertragspartei darstellen würde.\n\n\n"
+}

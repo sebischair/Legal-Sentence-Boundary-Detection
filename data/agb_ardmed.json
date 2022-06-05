@@ -1,0 +1,245 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 213,
+            "start": 206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 234,
+            "start": 219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsangebotes",
+            "end": 383,
+            "start": 366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 472,
+            "start": 470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 546,
+            "start": 542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 711,
+            "start": 703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersenden",
+            "end": 898,
+            "start": 888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 971,
+            "start": 965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1073,
+            "start": 1070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrechtes",
+            "end": 1151,
+            "start": 1135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Waren",
+            "end": 1213,
+            "start": 1208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrenübergang",
+            "end": 1261,
+            "start": 1245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1340,
+            "start": 1327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandrisiko",
+            "end": 1448,
+            "start": 1435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1632,
+            "start": 1629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 1656,
+            "start": 1638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 1762,
+            "start": 1754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungen",
+            "end": 1777,
+            "start": 1768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "akzeptiert",
+            "end": 1881,
+            "start": 1871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 1968,
+            "start": 1956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 1901,
+            "start": 1887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsverkehr",
+            "end": 2102,
+            "start": 2086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 2187,
+            "start": 2182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigieren",
+            "end": 2435,
+            "start": 2424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Internetangebots",
+            "end": 2634,
+            "start": 2618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 2709,
+            "start": 2702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbringen",
+            "end": 2838,
+            "start": 2828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 2973,
+            "start": 2963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abspeichern",
+            "end": 3138,
+            "start": 3127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angebot",
+            "end": 3226,
+            "start": 3219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verschiedenes",
+            "end": 3245,
+            "start": 3232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 3404,
+            "start": 3395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3715,
+            "start": 3706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 3767,
+            "start": 3753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VO",
+            "end": 3819,
+            "start": 3817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 3965,
+            "start": 3959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 4100,
+            "start": 4094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 4128,
+            "start": 4121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 4325,
+            "start": 4318,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\nFür Geschäftsbeziehungen zu dem Besteller gelten bei Bestellungen über den Internetshop die nachfolgenden Allgemeinen Geschäftsbedingungen in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.\n§ 2 Vertragsschluss\nDie Darstellung unserer Produkte in unserem Internetauftritt beinhaltet lediglich eine Aufforderung an den Kunden zur Abgabe eines Vertragsangebotes. Indem der Kunde eine Bestellung absendet, gibt er ein Angebot im Sinne des § 145 BGB ab. Der Kunde erhält eine Bestätigung des Empfangs der Bestellung per E-Mail.\nDer Vertrag mit uns kommt zustande, a) wenn wir das Angebot des Kunden innerhalb von 2 Werktagen nach Absenden der Bestellung schriftlich oder in Textform annehmen. Maßgeblich ist insoweit der Zeitpunkt des Zuganges der Annahmeerklärung beim Kunden oder b) wenn wir innerhalb von 2 Werktagen nach Absenden der Bestellung die bestellte Ware übersenden. Maßgeblich ist insoweit der Zeitpunkt des Zuganges der Ware beim Kunden. Werktag ist jeder Kalendertag, der nicht Sonntag oder bundesweit geltender gesetzlicher Feiertag ist.\n§ 3 Kostentragung der Rücksendung im Falle der Ausübung des Widerrufsrechtes\nSie tragen die unmittelbaren Kosten der Rücksendung der Waren.\n§ 4 Lieferung, Versandkosten, Gefahrenübergang\nDie Lieferung erfolgt zu den jeweils im Einzelfall ausgewiesenen Versandkosten. Sofern der Kunde Verbraucher ist, tragen wir unabhängig von der Versandart in jedem Fall das Versandrisiko. Sofern der Kunde Unternehmer ist, gehen alle Risiken und Gefahren der Versendung auf den Kunden über, sobald die Ware von uns an den beauftragten Logistikpartner übergeben worden ist.\n§ 5 Eigentumsvorbehalt\nDie gelieferte Ware bleibt bis zur vollständigen und endgültigen Bezahlung des Kaufpreises unser Eigentum.\n§ 6 Zahlungen\nEs werden nur die im Rahmen des Bestellvorgangs dem Kunden jeweils angezeigten Zahlungsarten akzeptiert.\n§ 7 Gewährleistung\nDie Gewährleistung richtet sich nach den gesetzlichen Vorschriften.\n§ 8 Informationen für Verbraucher bei Fernabsatzverträgen sowie Kundeninformationen bei Verträgen im elektronischen Geschäftsverkehr\na) Speziellen und vorstehend nicht erwähnten Verhaltenskodizes unterliegen wir nicht.\nb) Etwaige Eingabefehler bei Abgabe Ihrer Bestellung können Sie bei der abschließenden Bestätigung vor dem Absenden Ihrer Vertragserklärung erkennen und mit Hilfe der Lösch- und Änderungsfunktion vor Absendung der Bestellung jederzeit korrigieren.\nc) Die wesentlichen Merkmale der von uns angebotenen Waren sowie die Gültigkeitsdauer befristeter Angebote entnehmen Sie bitte den einzelnen Produktbeschreibungen im Rahmen unseres Internetangebots.\nd) Die für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.\ne) Beanstandungen und Gewährleistungsansprüche können Sie unter der in der Anbieterkennzeichnung angegebenen Adresse vorbringen.\nf) Der Vertragstext wird durch uns nicht gespeichert und ist daher Ihnen als Kunde nach dem Vertragsschluss über uns nicht zugänglich. Sie können den Vertragstext jedoch über die Druckfunktion Ihres Browsers ausdrucken und über die Funktion „Speichern“ Ihres Browsers auf Ihrem Computer abspeichern.\ng) Informationen zur Zahlung, Lieferung oder Erfüllung entnehmen Sie bitte dem Angebot.\n§ 9 Verschiedenes\nAuf das Vertragsverhältnis zwischen uns und dem Kunden sowie auf die jeweiligen Geschäftsbedingungen findet das Recht der Bundesrepublik Deutschland Anwendung. Sofern der Kunde Verbraucher ist, bleiben die nach dem Recht des Staates, in welchem der Verbraucher seinen gewöhnlichen Aufenthalt hat, zum Schutz des Verbrauchers anzuwendenden gesetzlichen Regelungen und Rechte, von welchen nicht durch Vereinbarung abgewichen werden darf, von dieser Vereinbarung unberührt. Die Anwendung von UN-Kaufrecht wird ausgeschlossen.\nOnline-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter http://ec.europa.eu/consumers/odr/ finden. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.\n§ 10 Salvatorische Klausel\nSollten einzelne Bestimmungen dieses Vertrages ganz oder teilweise nicht rechtswirksam sein oder ihre Rechtswirksamkeit später verlieren, wird die Gültigkeit des Vertrages im Übrigen nicht berührt.\n\n\n"
+}

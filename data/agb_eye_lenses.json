@@ -1,0 +1,323 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 175,
+            "start": 174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 195,
+            "start": 180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 205,
+            "start": 196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 236,
+            "start": 221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 370,
+            "start": 367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 507,
+            "start": 505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 791,
+            "start": 783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 966,
+            "start": 963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellerangaben",
+            "end": 1054,
+            "start": 1037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 1096,
+            "start": 1090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnen",
+            "end": 1277,
+            "start": 1268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 1393,
+            "start": 1386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 1598,
+            "start": 1592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 1749,
+            "start": 1743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1828,
+            "start": 1826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1915,
+            "start": 1907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1981,
+            "start": 1973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 2010,
+            "start": 2003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 2045,
+            "start": 2034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2064,
+            "start": 2046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2081,
+            "start": 2068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgezeichnet",
+            "end": 2235,
+            "start": 2222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkostenaufstellung",
+            "end": 2365,
+            "start": 2341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 2379,
+            "start": 2370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Länder",
+            "end": 2443,
+            "start": 2437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2525,
+            "start": 2523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "do",
+            "end": 2816,
+            "start": 2814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Homepage",
+            "end": 2910,
+            "start": 2902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferadresse",
+            "end": 2976,
+            "start": 2963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2988,
+            "start": 2981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lastschrift",
+            "end": 3098,
+            "start": 3087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3120,
+            "start": 3102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 3181,
+            "start": 3173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuerrückerstattung",
+            "end": 3214,
+            "start": 3186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3317,
+            "start": 3315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnung",
+            "end": 3444,
+            "start": 3436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 3512,
+            "start": 3509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebracht",
+            "end": 3582,
+            "start": 3574,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3618,
+            "start": 3617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 3662,
+            "start": 3643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gläser",
+            "end": 3838,
+            "start": 3832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadenersatzansprüche",
+            "end": 3878,
+            "start": 3856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 4135,
+            "start": 4125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4399,
+            "start": 4395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leben",
+            "end": 4533,
+            "start": 4528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftungsgesetz",
+            "end": 4595,
+            "start": 4574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 4811,
+            "start": 4803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 4850,
+            "start": 4837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 5037,
+            "start": 5027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VSBG",
+            "end": 5108,
+            "start": 5104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 5254,
+            "start": 5248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 5403,
+            "start": 5397,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Lieferungen von Eye & Lenses Ltd. & Co. KG (nachfolgend: 1A-sehen.de) an Verbraucher (§ 13 BGB) gelten diese Allgemeinen Geschäftsbedingungen (AGB).\n2. Vertragspartner\nAnschrift\n3. Angebot und Vertragsschluss\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Buttons [Zahlungspflichtig bestellen!] geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von fünf Tagen annehmen.\nMögliche Irrtümer, Druckfehler, technische, farbliche Änderungen der in unserem Online-Shop abgebildeten Produkte behält sich der Verkäufer trotz größtmöglicher Sorgfalt vor. Ebenso übernimmt der Verkäufer keine Haftung für die Richtigkeit der Herstellerangaben.\nPreisangaben erfolgen nach bestem Wissen. Sollte die 1A-sehen.de Website trotzdem einmal einen offensichtlichen Fehler, wie etwa Schreib- oder Rechenfehler aufweisen, behalten wir uns vor, den korrekten Preis zu berechnen. In diesem Falle gewähren wir Ihnen ein sofortiges Rücktrittsrecht, wenn Sie damit nicht einverstanden sein sollten.\nDer Kunde hat sicherzustellen, dass die von Ihm zur Bestellabwicklung angegebene E-Mail-Adresse zutreffend ist, so dass unter dieser Adresse die von 1A-sehen.de versandten E-Mails empfangen werden können. Insbesondere hat der Kunde bei dem Einsatz von SPAM-Filtern sicherzustellen, dass alle E-Mails die der Kaufabwicklung dienen zugestellt werden können.\nWir speichern den Vertragstext und senden Ihnen die Bestelldaten per EMail zu. Die AGB können Sie jederzeit hier http://www.1a-sehen.de/Unsere-AGB:_:3.html einsehen. Vergangene Bestellungen können Sie in Ihrem Kundenkonto einsehen.\nVertragssprache ist deutsch.\n4. Widerrufsrecht für Verbraucher\nWiderrufsbelehrung\n5. Versandkosten\nDie auf den Produktseiten genannten Preise enthalten die gesetzliche Mehrwertsteuer und sonstige Preisbestandteile, die Preise sind in Euro ausgezeichnet.\nZusätzlich zu den angegebenen Preisen berechnen wir für die Lieferung Versandkosten gemäß der folgenden Versandkostenaufstellung.\n6. Lieferung\nDie Lieferung erfolgt innerhalb der unter §6 angegebenen Länder. Bei Lieferungen in das Nicht-EU Ausland fallen zusätzliche Zölle und Gebühren an. Weitere Informationen finden Sie beispielsweise unter http://ec.europa.eu/taxation_customs/dds/cgi-bin/tarchap?Lang=DE und zur Einfuhrumsatzsteuer unter http://auskunft.ezt-online.de/ezto/Welcome.do sowie speziell für die Schweiz unter http://xtares.admin.ch/tares/login/loginFormFiller.do\nDie Auslieferung der Ware erfolgt laut unseren angegebenen Versandkosten auf unserer Homepage. Die Lieferung erfolgt an die vom Käufer angegebene Lieferadresse.\n7. Zahlung\nDie Zahlung erfolgt wahlweise per Vorkasse, Kreditkarte, PayPal, Sofortüberweisung, Rechnung oder Lastschrift\n8. Eigentumsvorbehalt\nBis zur vollständigen Zahlung bleibt die Ware unser Eigentum.\n9. Mehrwertsteuerrückerstattung\nBei Ausfuhr der Ware in ein Nicht-EU Ausland fallen bei einer Mehrwertsteuerrückerstattung Gebühren an. Es wird eine Bearbeitungsgebühr von 1% des Gesamtbetrages der Rückerstattungssumme erhoben, mindestens 7,90 Euro pro Rechnung.\nBitte senden Sie uns die Original Rechnung mit dem Zollstempel ein.\nDie Bearbeitungsgebühr wird von der Rückerstattung in Abzug gebracht.\n10. Mängelhaftung (Gewährleistung)\nEs gilt das gesetzliche Mängelhaftungsrecht.\nBei Eigen- oder Fremdverglasung oder sonstiger Bearbeitung der Fassung oder Brillengläser erlischt automatisch unsere Gewährleistung auf alle Teile der Brille oder der Gläser.\n11. Haftung und Schadenersatzansprüche\n1A-sehen.de schließt die Haftung für leichte fahrlässige Pflichtverletzungen aus, wie falsche Handhabung der Ware,  fehlende oder falsche Anpassung von Brillen und Kontaktlinsen, überzogene Tragezeiten von Kontaktlinsen,  falsche Angaben bei der Bestellung.\nDie von uns angebotenen Gleitsichtbrillen werden ohne individuelle Berücksichtigung des Hornhautscheitelabstandes, der Fassungsvorneigung und der Einschleifhöhe hergestellt, so dass deshalb die Nutzung dieser Brillen im Straßenverkehr eine Gefahr darstellen kann.\nVorstehender Haftungsausschluss gilt nicht in Fällen grober Fahrlässigkeit und Vorsatz sowie bei Verletzung von Gesundheit und Leben. Außerdem nicht bei Ansprüchen nach dem Produkthaftungsgesetz. Bei Verletzung wesentlicher Vertragspflichten ist die Haftung mit Ausnahme von Vorsatz, grober Fahrlässigkeit oder dem Vorliegen zugesicherter Eigenschaften auf den vernünftigerweise vorhersehbaren Schaden begrenzt.\n12. Anwendbares Recht / Gerichtsstand\nFür alle im Zusammenhang mit der Geschäftsbeziehung entstehenden Meinungsverschiedenheiten und Rechtsstreitigkeiten gilt ausschließlich deutsches Recht unter Ausschluss des UN-Kaufrechts.\nAlternative Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO und § 36 VSBG\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter https://ec.europa.eu/consumers/odr/ finden. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und grundsätzlich nicht bereit.\n\n"
+}

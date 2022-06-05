@@ -1,0 +1,2309 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2013",
+            "end": 89,
+            "start": 85,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 101,
+            "start": 90,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufvertrag",
+            "end": 410,
+            "start": 399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 421,
+            "start": 411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8564",
+            "end": 440,
+            "start": 436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 446,
+            "start": 441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 475,
+            "start": 465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 530,
+            "start": 524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 542,
+            "start": 532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 544,
+            "start": 543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haftet",
+            "end": 744,
+            "start": 738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 747,
+            "start": 746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eröffnet",
+            "end": 857,
+            "start": 849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellt",
+            "end": 907,
+            "start": 899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1216,
+            "start": 1211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1219,
+            "start": 1218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzmasse",
+            "end": 1301,
+            "start": 1287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 1554,
+            "start": 1549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgezogen",
+            "end": 1743,
+            "start": 1733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfallen",
+            "end": 1864,
+            "start": 1855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterlassen",
+            "end": 2095,
+            "start": 2084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 2279,
+            "start": 2264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 2381,
+            "start": 2374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2384,
+            "start": 2383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrag",
+            "end": 2649,
+            "start": 2643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausbezahlt",
+            "end": 2789,
+            "start": 2779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2792,
+            "start": 2791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 2846,
+            "start": 2836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 3100,
+            "start": 3095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 3261,
+            "start": 3255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 3705,
+            "start": 3697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 3862,
+            "start": 3853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ließen",
+            "end": 4061,
+            "start": 4055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "minderten",
+            "end": 4173,
+            "start": 4164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4176,
+            "start": 4175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4422,
+            "start": 4418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4471,
+            "start": 4468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 4579,
+            "start": 4570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4582,
+            "start": 4581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 4624,
+            "start": 4615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 4718,
+            "start": 4704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4721,
+            "start": 4720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 4885,
+            "start": 4878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 5070,
+            "start": 5066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reiche",
+            "end": 5236,
+            "start": 5230,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5444,
+            "start": 5443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erstschuldners",
+            "end": 5622,
+            "start": 5608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 5853,
+            "start": 5848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 5937,
+            "start": 5934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 6315,
+            "start": 6310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Säumniszuschläge",
+            "end": 6405,
+            "start": 6389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 6498,
+            "start": 6488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6924,
+            "start": 6920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 7047,
+            "start": 7043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7251,
+            "start": 7248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 7494,
+            "start": 7490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 7978,
+            "start": 7974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 8264,
+            "start": 8260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8687,
+            "start": 8684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 8867,
+            "start": 8861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8870,
+            "start": 8869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstelle",
+            "end": 9192,
+            "start": 9183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lnsolvenzanderkonto",
+            "end": 9385,
+            "start": 9366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 9796,
+            "start": 9791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 9887,
+            "start": 9884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heranziehen",
+            "end": 10080,
+            "start": 10069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbestanden",
+            "end": 10368,
+            "start": 10355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 10372,
+            "start": 10370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 10650,
+            "start": 10643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 10803,
+            "start": 10796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 10939,
+            "start": 10933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 11051,
+            "start": 11044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geendet",
+            "end": 11177,
+            "start": 11170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11313,
+            "start": 11307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11455,
+            "start": 11449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzustehen",
+            "end": 11567,
+            "start": 11556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 11770,
+            "start": 11764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 11774,
+            "start": 11772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 11883,
+            "start": 11872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "regele",
+            "end": 12082,
+            "start": 12076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 12277,
+            "start": 12267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12555,
+            "start": 12552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 12675,
+            "start": 12669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsfolgenverweisung",
+            "end": 12785,
+            "start": 12763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesfinanzhofs",
+            "end": 12870,
+            "start": 12854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 13009,
+            "start": 13002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 13099,
+            "start": 13093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vermögensvorteil",
+            "end": 13212,
+            "start": 13196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohnungsbauförderung",
+            "end": 13282,
+            "start": 13262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsschuldner",
+            "end": 13444,
+            "start": 13427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 13448,
+            "start": 13446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränke",
+            "end": 13655,
+            "start": 13645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügungsbefugnis",
+            "end": 13850,
+            "start": 13832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 13950,
+            "start": 13943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 14047,
+            "start": 14040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 14226,
+            "start": 14223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 14341,
+            "start": 14334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulagengesetzes",
+            "end": 14443,
+            "start": 14419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 14603,
+            "start": 14595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgegeben",
+            "end": 14715,
+            "start": 14705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 14816,
+            "start": 14803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 14922,
+            "start": 14911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 15042,
+            "start": 15035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehabt",
+            "end": 15408,
+            "start": 15402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 15604,
+            "start": 15600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgenommen",
+            "end": 15789,
+            "start": 15778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "selbst",
+            "end": 15990,
+            "start": 15984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 15994,
+            "start": 15992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 16287,
+            "start": 16282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenteiliges",
+            "end": 16408,
+            "start": 16395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 16616,
+            "start": 16613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ableiten",
+            "end": 16716,
+            "start": 16708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 16952,
+            "start": 16944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrafen",
+            "end": 17182,
+            "start": 17174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehe",
+            "end": 17424,
+            "start": 17416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 17428,
+            "start": 17426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugegangen",
+            "end": 17796,
+            "start": 17786,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18018,
+            "start": 18017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 18191,
+            "start": 18184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 18411,
+            "start": 18407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 18572,
+            "start": 18564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 18796,
+            "start": 18790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genutzt",
+            "end": 18965,
+            "start": 18958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 18969,
+            "start": 18967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 19185,
+            "start": 19179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründe",
+            "end": 19332,
+            "start": 19324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 19503,
+            "start": 19497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 19583,
+            "start": 19577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19790,
+            "start": 19784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbescheid",
+            "end": 19853,
+            "start": 19837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führe",
+            "end": 19970,
+            "start": 19965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 19974,
+            "start": 19972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 20173,
+            "start": 20163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 20177,
+            "start": 20175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 20298,
+            "start": 20290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 20302,
+            "start": 20300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einspruchsentscheidung",
+            "end": 20420,
+            "start": 20398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 20458,
+            "start": 20447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 20462,
+            "start": 20460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 20555,
+            "start": 20546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 20951,
+            "start": 20948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 21218,
+            "start": 21215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 21463,
+            "start": 21457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 21576,
+            "start": 21572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 21685,
+            "start": 21679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 21773,
+            "start": 21765,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22349,
+            "start": 22348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 22850,
+            "start": 22846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 22854,
+            "start": 22852,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23145,
+            "start": 23144,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23361,
+            "start": 23360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 23365,
+            "start": 23363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederholt",
+            "end": 23717,
+            "start": 23707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 23721,
+            "start": 23719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 23900,
+            "start": 23891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 23921,
+            "start": 23902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 23924,
+            "start": 23922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 23960,
+            "start": 23949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 23963,
+            "start": 23962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 23967,
+            "start": 23965,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24182,
+            "start": 24181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 24186,
+            "start": 24184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24312,
+            "start": 24306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24685,
+            "start": 24679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Säumniszuschläge",
+            "end": 24775,
+            "start": 24759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 24958,
+            "start": 24950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 25065,
+            "start": 25056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reicht",
+            "end": 25316,
+            "start": 25310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 25320,
+            "start": 25318,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25585,
+            "start": 25584,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25803,
+            "start": 25802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 25902,
+            "start": 25893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AO",
+            "end": 26129,
+            "start": 26127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 26133,
+            "start": 26131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 26662,
+            "start": 26653,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26826,
+            "start": 26825,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27062,
+            "start": 27061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 27253,
+            "start": 27239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 27257,
+            "start": 27255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 27683,
+            "start": 27679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 27860,
+            "start": 27858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 27864,
+            "start": 27862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Förderung",
+            "end": 28121,
+            "start": 28112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeordnet",
+            "end": 28648,
+            "start": 28638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 28921,
+            "start": 28906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 29091,
+            "start": 29090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EigZulG",
+            "end": 29222,
+            "start": 29215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 29432,
+            "start": 29425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 29436,
+            "start": 29434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 29801,
+            "start": 29797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 29913,
+            "start": 29907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 29917,
+            "start": 29915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 30046,
+            "start": 30043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 30099,
+            "start": 30088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 30103,
+            "start": 30101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 30189,
+            "start": 30186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 30193,
+            "start": 30191,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30342,
+            "start": 30341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "InsO",
+            "end": 30548,
+            "start": 30544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 30647,
+            "start": 30639,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31097,
+            "start": 31096,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31421,
+            "start": 31420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 31425,
+            "start": 31423,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31696,
+            "start": 31695,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32135,
+            "start": 32134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalter",
+            "end": 32285,
+            "start": 32267,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32464,
+            "start": 32463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 32468,
+            "start": 32466,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32781,
+            "start": 32780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 33073,
+            "start": 33058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 33259,
+            "start": 33248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalter",
+            "end": 33540,
+            "start": 33522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 33749,
+            "start": 33743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 33753,
+            "start": 33751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 34050,
+            "start": 34046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 34327,
+            "start": 34324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würdigen",
+            "end": 34545,
+            "start": 34537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 34549,
+            "start": 34547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 34927,
+            "start": 34924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EigZulG",
+            "end": 35152,
+            "start": 35145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 35156,
+            "start": 35154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "differenzieren",
+            "end": 35475,
+            "start": 35461,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35661,
+            "start": 35660,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35821,
+            "start": 35820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 35980,
+            "start": 35971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 35984,
+            "start": 35982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freigegeben",
+            "end": 36235,
+            "start": 36224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 36483,
+            "start": 36473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgen",
+            "end": 36778,
+            "start": 36772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "differenzieren",
+            "end": 36959,
+            "start": 36945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 37328,
+            "start": 37323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 37480,
+            "start": 37473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 37484,
+            "start": 37482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbestanden",
+            "end": 37780,
+            "start": 37767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reklamiert",
+            "end": 38260,
+            "start": 38250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getroffen",
+            "end": 38448,
+            "start": 38439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 38726,
+            "start": 38720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 38996,
+            "start": 38992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 39339,
+            "start": 39334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 39589,
+            "start": 39585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getan",
+            "end": 39629,
+            "start": 39624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 39893,
+            "start": 39890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalter",
+            "end": 40020,
+            "start": 40002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 40024,
+            "start": 40022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 40105,
+            "start": 40097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 40109,
+            "start": 40107,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40389,
+            "start": 40388,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40787,
+            "start": 40786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 40791,
+            "start": 40789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 40903,
+            "start": 40898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 41028,
+            "start": 41025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 41227,
+            "start": 41222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwähnt",
+            "end": 41479,
+            "start": 41472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 41483,
+            "start": 41481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgen",
+            "end": 42070,
+            "start": 42064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 42490,
+            "start": 42485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 42494,
+            "start": 42492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 42976,
+            "start": 42968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 43355,
+            "start": 43352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 43570,
+            "start": 43567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 43705,
+            "start": 43696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 43709,
+            "start": 43707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 43944,
+            "start": 43940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 44161,
+            "start": 44150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzustellen",
+            "end": 44235,
+            "start": 44224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 44525,
+            "start": 44522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 44755,
+            "start": 44744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 45022,
+            "start": 45017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlagen",
+            "end": 45307,
+            "start": 45299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 45311,
+            "start": 45309,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45609,
+            "start": 45608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 45894,
+            "start": 45886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 45898,
+            "start": 45896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgefordert",
+            "end": 46086,
+            "start": 46071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezahlt",
+            "end": 46216,
+            "start": 46209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 46220,
+            "start": 46218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 46290,
+            "start": 46279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 46294,
+            "start": 46292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingehalten",
+            "end": 46741,
+            "start": 46730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 46993,
+            "start": 46990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 46997,
+            "start": 46995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 47152,
+            "start": 47146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 47262,
+            "start": 47253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 47725,
+            "start": 47721,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 48147,
+            "start": 48146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zufloss",
+            "end": 48427,
+            "start": 48420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 48431,
+            "start": 48429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerechtfertigt",
+            "end": 48538,
+            "start": 48524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 49326,
+            "start": 49311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 49470,
+            "start": 49461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 49474,
+            "start": 49472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermessensentscheidung",
+            "end": 50071,
+            "start": 50050,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 50510,
+            "start": 50509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 50763,
+            "start": 50758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 51057,
+            "start": 51052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 51410,
+            "start": 51405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ableiten",
+            "end": 51766,
+            "start": 51758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 51770,
+            "start": 51768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 52199,
+            "start": 52196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 52203,
+            "start": 52201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 52454,
+            "start": 52451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 52735,
+            "start": 52732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 52739,
+            "start": 52737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzugreifen",
+            "end": 52969,
+            "start": 52955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 53145,
+            "start": 53141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesehen",
+            "end": 53263,
+            "start": 53256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 53447,
+            "start": 53438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 53558,
+            "start": 53557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 53562,
+            "start": 53560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalter",
+            "end": 53717,
+            "start": 53699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 53721,
+            "start": 53719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 53844,
+            "start": 53838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 53848,
+            "start": 53846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "obliegen",
+            "end": 54034,
+            "start": 54026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzustehen",
+            "end": 54129,
+            "start": 54118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 54239,
+            "start": 54229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 54409,
+            "start": 54406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 54613,
+            "start": 54606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 54707,
+            "start": 54695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 54878,
+            "start": 54874,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 55256,
+            "start": 55255,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 55498,
+            "start": 55497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 55502,
+            "start": 55500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "InsO",
+            "end": 55573,
+            "start": 55569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 55577,
+            "start": 55575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 55786,
+            "start": 55780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 55915,
+            "start": 55911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 56004,
+            "start": 55992,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 56233,
+            "start": 56232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 56237,
+            "start": 56235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehört",
+            "end": 56416,
+            "start": 56410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenstände",
+            "end": 56612,
+            "start": 56601,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 56758,
+            "start": 56757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 56762,
+            "start": 56760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Insolvenzverwalter",
+            "end": 56894,
+            "start": 56876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 56898,
+            "start": 56896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrags",
+            "end": 57135,
+            "start": 57128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wegfällt",
+            "end": 57199,
+            "start": 57191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrags",
+            "end": 57282,
+            "start": 57275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 57503,
+            "start": 57500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ereignisses",
+            "end": 57707,
+            "start": 57696,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 57870,
+            "start": 57869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 57874,
+            "start": 57872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzte",
+            "end": 58034,
+            "start": 58028,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 58273,
+            "start": 58272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 58277,
+            "start": 58275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2007",
+            "end": 58457,
+            "start": 58453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenheimzulage",
+            "end": 58647,
+            "start": 58632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grund",
+            "end": 58814,
+            "start": 58809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "InsO",
+            "end": 59078,
+            "start": 59074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 59082,
+            "start": 59080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 59326,
+            "start": 59323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 59456,
+            "start": 59450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "frei",
+            "end": 59536,
+            "start": 59532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 59804,
+            "start": 59798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mit",
+            "end": 59903,
+            "start": 59900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 60441,
+            "start": 60435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 60788,
+            "start": 60785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 61107,
+            "start": 61102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 61248,
+            "start": 61243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 61466,
+            "start": 61461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 61750,
+            "start": 61745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinandergesetzt",
+            "end": 62090,
+            "start": 62072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 62359,
+            "start": 62356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugeführt",
+            "end": 62723,
+            "start": 62714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 63000,
+            "start": 62994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 63451,
+            "start": 63448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 63751,
+            "start": 63745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 63755,
+            "start": 63753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 63883,
+            "start": 63874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 63887,
+            "start": 63885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 63891,
+            "start": 63889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geboten",
+            "end": 64041,
+            "start": 64034,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 64278,
+            "start": 64277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 64282,
+            "start": 64280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 64482,
+            "start": 64477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erörtert",
+            "end": 64669,
+            "start": 64661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 64729,
+            "start": 64718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erörterung",
+            "end": 64862,
+            "start": 64852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 64867,
+            "start": 64864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "71",
+            "end": 64871,
+            "start": 64869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 64934,
+            "start": 64931,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 06.03.2019 – 4 K 268/17\nTitel:\nHaftungsbescheid vom 24. April 2013\nSchlagworte:\nInsolvenzverwalter, Insolvenzverfahren, Insolvenzmasse, Eigenheimzulage, Bescheid,\nInsolvenzschuldnerin, Wohnung, Pflichtverletzung, Einspruchsverfahren, Kaufvertrag, Anspruch, Haftung,\nErmessensentscheidung, Insolvenzschuldner, schuldhafte Pflichtverletzung, schuldhaftes Verhalten,\nnotarieller Kaufvertrag\nFundstelle:\nBeckRS 2019, 8564\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens hat der Kläger zu tragen.\nTatbestand\n1\nStreitig ist, ob der Kläger in seiner Eigenschaft als ehemaliger Insolvenzverwalter der A für zurückgeforderte\nEigenheimzulage der Jahre 2008 bis 2010 und Säumniszuschläge von zusammen 7.620 € haftet.\n2\nAuf Eigenantrag wurde über das Vermögen von A am 12.03.2007 vom Amtsgericht 1 das\nInsolvenzverfahren eröffnet. Zum Insolvenzverwalter wurde der Kläger bestellt. Einziges Grundvermögen\nder Insolvenzschuldnerin war die bis zum 29.01.2007 selbstgenutzte Eigentumswohnung in der Str. 1 in 1.\nFür diese Wohnung hatte sie am 16.12.2004 beim Finanzamt 1 Antrag auf Eigenheimzulage gestellt, die\nseit 2005 jährlich in Höhe von 2.000 € zum 15.03. auf ihr Konto ausbezahlt wurde.\n3\nDie Eigentumswohnung gehörte vom 12.03.2007 bis zum 01.08.2007 zur Insolvenzmasse. Zu diesem\nZeitpunkt wurde sie vom Insolvenzverwalter aus der Insolvenzmasse freigegeben, weil weitere monatlich\nanfallende Kosten anfielen und sich trotz Einschaltung einer Immobiliengesellschaft keine kurzfristige\nVerwertungsmöglichkeit ergeben hatte. Daraufhin verkaufte die Insolvenzschuldnerin diese Wohnung mit\nnotariellem Vertrag vom 13.12.2007. Bereits am 29.01.2007 war A anlässlich ihres Umzugs nach 2 aus\ndieser Wohnung ausgezogen. Damit waren die Anspruchsvoraussetzungen des § 4\nEigenheimzulagengesetz (EigZulG) auf Eigenheimzulage ab 2008 entfallen. Eine entsprechende Mitteilung\ngegenüber dem Finanzamt über den Auszug und damit den Wegfall der Voraussetzungen für die\nGewährung der Eigenheimzulage ab 2008 nach § 12 Abs. 2 EigZulG wurde von der Insolvenzschuldnerin\nunterlassen. Die für die Festsetzung der Eigenheimzulage zuständige Stelle des Finanzamtes blieb daher in\nUnkenntnis über den Wegfall der Anspruchsvoraussetzungen für die gewährte Eigenheimzulage. Vom\nKläger wurde ebenfalls keine Mitteilung nach § 12 Abs. 2 EigZulG dem Finanzamt gegenüber gemacht.\n4\nAuf Anfrage des Finanzamts vom 19.03.2008 teilte der Kläger mit Schreiben vom 20.03.2008 die\nBankverbindung des für den Insolvenzverwalter eingerichteten Anderkontos zur Auszahlung der weiteren\nEigenheimzulage für die Jahre 2008 ff. mit und vereinnahmte den Betrag. Infolge dessen wurde die\nEigenheimzulage am 15.03.2008, 15.03.2009 und 15.03.2010 jeweils in Höhe von 2.000 € zu Unrecht an\nihn ausbezahlt.\n5\nDas Insolvenzverfahren wurde am 25.08.2010 aufgehoben. Erst im Jahr 2010 erhielt das Finanzamt\nKenntnis vom Verkauf der Wohnung, überprüfte daraufhin die Anspruchsvoraussetzungen für die\nAuszahlung der Eigenheimzulage und stellte fest, dass diese bereits durch den Umzug von A im Januar\n2007 entfallen waren. Mit Bescheid vom 29.12.2010 hob es daraufhin die Eigenheimzulage 2008 - 2010\nnach § 1 Abs. 3 Satz 1 EigZulG auf und forderte sie nach § 14 EigZulG von A zurück. Nachdem diese ihrer\nVerpflichtung zur Begleichung der Steuerrückstände nicht nachgekommen war und\nVollstreckungsmaßnahmen erfolglos verliefen, nahm das Finanzamt nach erfolgter Anhörung den Kläger als\nehemaligen Insolvenzverwalter mit Haftungsbescheid vom 24.04.2013 in Höhe von 7.620 € (rückständige\nEigenheimzulage 2008 - 2010 von 6.000,00 € und Säumniszuschläge von 1.620,00 € gemäß §§ 191 i.V.m.\n69, 34, 35 Abgabenordnung (AO) in Anspruch. Zur Begründung der Haftungsinanspruchnahme und zu den\nErmessenserwägungen wurde in den Gründen des Bescheids unter 3. auf die beigefügte Anlage 2\nverwiesen. In dieser wurde unter anderem ausgeführt, dass bislang keine Tatsachen oder Beweismittel\nvorgetragen worden seien, die eine Inanspruchnahme im Wege der Haftung ermessensfehlerhaft\nerscheinen ließen. Auch der Aktenlage seien keine Anhaltspunkte zu entnehmen, die die Verantwortung für\ndas Verschulden minderten.\n6\nMit Schreiben vom 24.05.2013 legte der steuerliche Vertreter des Klägers gegen den Haftungsbescheid\nvom 24.04.2013 Einspruch ein und trug zur Begründung vor, die Haftung des Klägers scheide aus, weil er\nkeine ihm obliegende Pflicht verletzt habe. Erst recht liege keine grobe Fahrlässigkeit vor. Wegen der\nweiteren Einzelheiten wird auf die Schriftsätze der Beteiligten im Einspruchsverfahren verwiesen.\n7\nDas Einspruchsverfahren verlief erfolglos; der Einspruch wurde mit Einspruchsentscheidung vom\n01.02.2017 als unbegründet zurückgewiesen.\n8\nZur Begründung führte das Finanzamt aus, die tatbestandsmäßigen Voraussetzungen für eine\nHaftungsinanspruchnahme gemäß §§ 69, 34, 35 AO seien im Streitfall erfüllt. Mit Eröffnung des\nInsolvenzverfahrens gehe das Verwaltungs- und Verfügungsrecht über das in den §§ 35 - 37\nInsolvenzordnung (lnsO) bezeichnete Vermögen auf den Insolvenzverwalter über. Als Vermögensverwalter\nim Sinne des § 34 Abs. 3 AO habe der Insolvenzverwalter die steuerlichen Pflichten des Schuldners zu\nerfüllen, soweit seine Verwaltung reiche. Davon erfasst seien alle Pflichten, die dem Schuldner oblägen,\nwenn über sein Vermögen nicht die Insolvenz eröffnet worden wäre (unter Hinweis auf BFH-Urteil vom\n15.03.1994 XI R 45193, BStBI II 1994 S. 600). Maßgeblich seien alle während des Bestehens der\nVertretungs- oder Verfügungsmacht durch die Abgabenordnung oder die Einzelsteuergesetze begründeten\nPflichten des Erstschuldners. In diesem Sinn treffe einen Insolvenzverwalter auch die steuerliche Pflicht der\nErstattung einer Anzeige im Sinne des § 12 Abs. 2 EigZulG gegenüber dem Finanzamt, wenn die\nVoraussetzungen für die Eigenheimzulage weggefallen seien. Erfülle er diese Pflicht nicht, liege eine\nhaftungsrelevante Pflichtverletzung vor. Explizit hafteten die in den §§ 34 und 35 AO bezeichneten\nPersonen nach § 69 AO, soweit Ansprüche aus dem Steuerschuldverhältnis (37 AO) infolge vorsätzlicher\noder grob fahrlässiger Verletzung der ihnen auferlegten Pflichten nicht oder nicht rechtzeitig festgesetzt\noder erfüllt oder soweit Steuervergütungen oder Steuererstattungen ohne rechtlichen Grund gezahlt worden\nseien. Die Haftung umfasse auch die infolge der Pflichtverletzung zu zahlenden Säumniszuschläge. Im\nStreitfall sei von einer grob fahrlässigen Pflichtverletzung durch den Kläger auszugehen. Der Kläger könne\nsich nicht darauf berufen, dass die Pflicht zur Anzeige des Wegfalls der Anspruchsvoraussetzungen für die\nEigenheimzulage bereits vor lnsolvenzeröffnung begründet worden sei, dass er keine Kenntnis von der\nSelbstnutzung der Eigentumswohnung durch die Insolvenzschuldnerin gehabt hätte und nichts davon\ngewusst habe, dass die Insolvenzschuldnerin für dieses Objekt Eigenheimzulage beantragt und erhalten\nhabe. Es sei ihm bekannt gewesen, dass die Insolvenzschuldnerin die Eigentumswohnung vor ihrem\nUmzug nach 2 selbst bewohnt habe. Dies ergebe sich eindeutig aus dem vor Insolvenzeröffnung vom\nKläger erstellten Sachverständigengutachten vom 07.03.2007, in dem die Adresse der Insolvenzschuldnerin\nmit Str. 1 in 1 angegeben worden sei. Weiterhin gehe aus dem Sachverständigengutachten hervor (unter\nHinweis auf Teil B. Wirtschaftliche Verhältnisse, Nr. 2), dass die Insolvenzschuldnerin seit dem 01.02.2007\neine vier-Zimmerwohnung unter der Anschrift Str. 2, 2, angemietet habe. Zudem sei davon auszugehen,\ndass der Kläger die bis Ende Januar gültige Adresse der Insolvenzschuldnerin aus den diversen\nUnterlagen, Belegen und Kontoauszügen, die er bei Prüfung der Voraussetzungen für die\nlnsolvenzeröffnung und dann im laufenden Insolvenzverfahren eingesehen habe, gekannt habe, also über\ndie Selbstnutzung der Eigentumswohnung bis Ende Januar 2007 informiert gewesen sei, zumal es sich\nhierbei um den einzigen Grundbesitz der Insolvenzschuldnerin gehandelt habe. Weiter sei davon\nauszugehen, dass der Kläger nach Durchsicht dieser Unterlagen auch über die\nEigenheimzulagenbegünstigung der Wohnung informiert gewesen war, zumal er auch die\nUmbuchungsmitteilung des Finanzamts vom 13.03.2007 über die Umbuchung der Eigenheimzulage 2007\nerhalten habe. Die steuerliche Pflicht der Insolvenzschuldnerin gemäß § 12 Abs. 2 EigZulG, den Wegfall der\nAnspruchsvoraussetzungen für die Eigenheimzulage beim Finanzamt anzuzeigen, sei im Zeitpunkt der\nEröffnung des Insolvenzverfahrens von der Insolvenzschuldnerin auf den Kläger als Insolvenzverwalter\nübergegangen und von ihm zu erfüllen gewesen, weil die Insolvenzschuldnerin ihrer Anzeigepflicht bisher\nnoch nicht nachgekommen sei. Dass infolge der mangelnden Anzeige die Steuervergütung zu Unrecht, d.h.\nohne rechtlichen Grund, ausgezahlt worden sei, gehe auf das grob schuldhafte Verhalten des Klägers\nzurück.\n9\nDabei könne dahin gestellt bleiben, ob bereits die mangelnde Prüfung bei Insolvenzeröffnung, ob die\nInsolvenzschuldnerin ihrer Verpflichtung zur Anzeige des Wegfalls der Anspruchsvoraussetzungen für die\nEigenheimzulage beim Finanzamt nachgekommen sei, bereits eine grob schuldhafte Pflichtverletzung des\nKlägers darstelle. Jedenfalls ergebe sich sein grob schuldhaftes Verhalten im weiteren Zusammenhang mit\nder Vereinnahmung der Eigenheimzulage am 15.03.2008, 15.03.2009 und 15.03.2010 auf dem\nlnsolvenzanderkonto. Spätestens dann habe es sich dem Kläger aufdrängen müssen, dass die\nInsolvenzschuldnerin selbst ihrer Anzeigepflicht nach § 12 Abs. 2 EigZulG bisher nicht nachgekommen sei.\nStatt die Rechtsgrundlagen des Anspruchs zu prüfen und seinen Anzeigepflichten gegenüber dem\nFinanzamt nachzukommen, habe der Kläger die Gelder zur Masse gezogen und hingenommen, dass die\nMasse insoweit ungerechtfertigt bereichert werde. Dieses Verhalten des Klägers stelle zumindest eine grob\nfahrlässige Pflichtverletzung dar. Den Wegfall seiner Verwaltungs- und Verfügungsbefugnis hinsichtlich des\nGrundvermögens bei dessen Freigabe am 01.08.2007 könne der Kläger jedenfalls nicht zu seiner\nEntschuldigung heranziehen. Seine Mitteilungspflicht als Wissensträger und Anzeigeverpflichteter nach § 12\nAbs. 2 EigZulG sei bereits bei Eröffnung des Verfahrens entstanden und mit der Freigabe der\nEigentumswohnung aus dem Insolvenzbeschlag nicht entfallen, sondern habe als unerfüllte Verpflichtung\nfortbestanden.\n10\nWie der Kläger zutreffend ausführe, sei der Anspruch auf Eigenheimzulage ein persönlicher\nSteuervergütungsanspruch des Insolvenzschuldners und werde durch die insolvenzrechtliche Freigabe des\nGrundstücks, für dessen Eigennutzung die Eigenheimzulage gewährt werde, nicht berührt. Die\nEigenheimzulage werde nicht für das Halten oder das Besitzen des Grundstücks, sondern für die\nSelbstnutzung durch den Anspruchsberechtigten gewährt. Im Streitfall sei die Insolvenzmasse durch die\nAuszahlung der Eigenheimzulage für 2008 - 2010 ohne rechtlichen Grund bereichert worden. Das\nInsolvenzverfahren sei jedoch bei Erlass des Rückforderungsbescheids am 29.12.2010 bereits beendet\ngewesen. Mit der Aufhebung des Insolvenzverfahrens hätten auch die Befugnisse des Insolvenzverwalters\ngemäß § 215 Abs. 2 lnsO geendet. Der Kläger habe wegen des Wegfalls der insolvenzrechtlichen\nBeschränkungen nicht mehr Adressat des Rückforderungsbescheids sein können. Die Rückforderung sei zu\nRecht gegenüber A geltend gemacht worden, die jedoch den Zahlungsanspruch des Finanzamts nicht habe\nerfüllen können. Der Kläger habe damit infolge seiner schuldhaften Pflichtverletzung subsidiär für die\nSteuerschuld einzustehen. Die zur Haftungsinanspruchnahme des Klägers führenden Ermessenkriterien\nseien im Haftungsbescheid dargelegt und auch nach erneuter Überprüfung im Rechtsbehelfsverfahren als\nsachgerecht angesehen worden.\n11\nDer Prozessbevollmächtigte des Klägers hat hiergegen Klage erhoben und im Wesentlichen Folgendes\nvorgetragen:\n§ 69 AO sei auf den Fall einer gewährten Eigenheimzulage nicht anwendbar, da diese Vorschrift eine\nHaftungsnorm mit Schadensersatzcharakter sei und den Fall der Haftung für eine Steuerschuld regele. Die\nin § 15 EigZulG normierte Verweisung beinhalte keine materiell-rechtliche Qualifizierung der Zuwendung als\nSteuervorteil, sondern bilde lediglich eine Vorschrift zur Regelung des Verfahrens. Da die Eigenheimzulage\nmateriell-rechtlich gerade keine Steuervergütung sei (unter Hinweis auf BFH-Urteil vom 12.01.2016 IX R\n20/15), scheitere die Anwendung des § 69 AO nach dem Wortsinn bereits deshalb, weil keine\nSteuervergütung ohne rechtlichen Grund ausbezahlt worden sei. § 15 EigZulG erkläre die Vorschriften der\nAbgabenordnung für anwendbar, soweit sie für Steuervergütungen gelten würden. Bei der\nVerweisungsnorm handele es sich um eine Rechtsgrund- und gerade nicht um eine\nRechtsfolgenverweisung. Dies ergebe sich ausdrücklich aus der zitierten Rechtsprechung des\nBundesfinanzhofs. Die Qualifikation als Rechtsgrundverweisung beinhalte, dass die materiell-rechtlichen\nVoraussetzungen der Vorschrift erfüllt sein müssten. Eine Haftung nach § 69 AO setze dem Grunde nach\ndie Zahlung einer Steuervergütung voraus. Die Eigenheimzulage stelle materiell-rechtlich jedoch keine\nSteuervergütung dar, sondern einen Vermögensvorteil; es handele sich um eine staatliche Leistung zur\nWohnungsbauförderung. Ein spezifisch steuerrechtlicher Vorteil sei nach Sinn und Zweck der\nHaftungsnormen der §§ 69 ff AO jedoch Grundlage einer Inanspruchnahme als Haftungsschuldner.\n12\nDarüber hinaus fehle vorliegend auch eine Pflichtverletzung des Klägers als Insolvenzverwalters, da sich\ndie Verwaltungs- und Verfügungsbefugnis auf alle zur Insolvenzmasse gehörenden Gegenstände\nbeschränke. Der Kläger habe als Vermögensverwalter im Sinne des § 34 Abs. 3 AO zwar die steuerlichen\nPflichten der Insolvenzschuldnerin zu erfüllen, beschränkt aber auf den Umfang seiner Verfügungsbefugnis.\nDer Kläger sei nicht nach § 12 Abs. 2 EigZulG zur Mitteilung an das Finanzamt verpflichtet gewesen. Eine\nsolche Mitteilung wäre nicht von seiner Verwaltung- und Verfügungsbefugnis umfasst gewesen. Bei der\nEigenheimzulage handele es sich um einen persönlichen Anspruch der Insolvenzschuldnerin, der nicht von\nder Verwaltungs- und Verfügungsbefugnis nach § 80 InsO umfasst sei. Lediglich der Zahlungsanspruch der\nInsolvenzschuldnerin werde vom Insolvenzbeschlag nach § 35 Abs. 1 InsO erfasst. Der Insolvenzverwalter\nwerde nicht zum „Anspruchsberechtigten“ im Sinne des Eigenheimzulagengesetzes. Außerdem habe nicht\nder Kläger, sondern die Insolvenzschuldnerin ihre Verpflichtung zur Mitteilung der Änderung ihrer\nVerhältnisse gemäß § 12 EigZulG verletzt. Mit dem Auszug der Insolvenzschuldnerin aus der Wohnung\nzum 29.01.2007 habe diese die Selbstnutzung aufgegeben; die Eröffnung des Insolvenzverfahrens habe\njedoch erst später, nämlich am 12.03.2007, stattgefunden. Die maßgebliche Änderung der Verhältnisse sei\nfolglich vor Eröffnung des Insolvenzverfahrens eingetreten. Der Anspruch auf Eigenheimzulage sei im\nZeitpunkt der Insolvenzeröffnung bereits materiell-rechtlich erloschen gewesen. Selbst wenn das Finanzamt\nvon einem Bestehen und einem Übergang der Pflicht der Insolvenzschuldnerin auf den Kläger ausgehe, so\nhabe der Kläger zum Zeitpunkt der Insolvenzeröffnung weder von einem Anspruch auf Eigenheimzulage\nnoch von einer Änderung von Verhältnissen betreffend einen bestehenden Anspruch auf Eigenheimzulage\nfür die Wohnung Str. 1 Kenntnis gehabt. Im Eigenantrag der Insolvenzschuldnerin auf Eröffnung des\nInsolvenzverfahrens habe diese angegeben, dass sie weder „sonstige private Geldforderungen“ noch\nAnsprüche auf „Steuererstattungen“ habe. In Folge dessen habe der Kläger als Insolvenzverwalter im\nSachverständigengutachten vom 07.03.2007 auch den Anspruch der Insolvenzschuldnerin auf\nEigenheimzulage nicht mit aufgenommen. Auch eine entsprechende Umbuchungsmitteilung des\nFinanzamtes über die Eigenheimzulage 2007 sei dem Kläger nicht zugegangen, sondern, wie aus den\nAkten ersichtlich sei, der Insolvenzschuldnerin selbst.\n13\nAllein aus einer Änderung der Anschrift der Insolvenzschuldnerin habe sich noch kein Wegfall des\nAnspruchs auf Eigenheimzulage aufdrängen müssen, denn eine Nutzung zu eigenen Wohnzwecken liege\nnämlich auch dann vor, wenn die Wohnung unentgeltlich an Angehörige zu Wohnzwecken überlassen\nwerde. Auch soweit das Finanzamt auf Seite 4 des Sachverständigengutachtens hinweise, ergebe sich\nhieraus nichts Gegenteiliges. Weder ergebe sich aus dem Gutachten der bestehende Anspruch auf\nEigenheimzulage noch dass die Insolvenzschuldnerin zum Zeitpunkt der Eröffnung des Insolvenzverfahrens\nin der Str. 1 in 1 wohnhaft gewesen sei. Die gezogenen Schussfolgerungen ließen sich daher aus dem\nSachverständigengutachten nicht ableiten. Eine vorsätzliche oder fahrlässige Pflichtverletzung für\nAnsprüche auf Eigenheimzulage für die Jahre 2008 bis 2010 komme auch vor dem Hintergrund der\nFreigabe der Wohnung aus der Insolvenzmasse bereits zum 01.08.2007 nicht in Betracht. Darüber hinaus\nhabe der Kläger weder Einblicke in die Verhältnisse noch die Befugnis zur Mitteilung von Verhältnissen\ngehabt, welche die Kalendermonate nach seiner Verwaltungszeit oder diejenigen der Jahre 2008 bis 2010\nbetrafen. Anders als das Finanzamt in der Einspruchsentscheidung behaupte, könne es für die\nEigenheimzulage der Jahre 2008 bis 2010 keine „unerfüllte Verpflichtung“ des Klägers geben, da der\nAnspruch auf Eigenheimzulage erst in diesen Jahren entstehe.\n14\nSelbst wenn, was bestritten werde, für den Kläger im Jahr 2007 eine Verpflichtung zur Anzeige von\nUmständen gemäß § 12 Abs. 2 EigZulG bestanden hätte, seien sämtliche Verpflichtungen mit der\nÜbersendung der Veräußerungsanzeige durch die Notarin N erfüllt worden, denn die Veräußerung sei dem\nzuständigen Finanzamt 3 am 19.12.2008 (gemeint wohl: 19.12.2007) zugegangen. Die Kenntnis des\nFinanzamtes 3 sei dem Finanzamt 1 zuzurechnen, da das Finanzamt 3 für das Finanzamt 1 zuständig sei\n(unter Hinweis auf Punkt 11 der Anlage zu der Finanzamts- und Rechenzentrums-\nZuständigkeitsverordnung). Weiterhin sei dem Finanzamt 1 der Wechsel der Anschrift der\nInsolvenzschuldnerin im Hinblick auf die erfolgte Mitteilung der Umbuchung bereits im März 2007 bekannt\ngewesen. Zudem habe das Finanzamt 1 von der neuen Anschrift der Insolvenzschuldnerin in 2 auch\ndeshalb Kenntnis gehabt, weil diese ihre Einkommensteuererklärung 2007 am 24.06.2008 unter der neuen\nAnschrift dort eingereicht habe. Der Kläger habe das Finanzamt 1 am 26.06.2008 über die Eröffnung des\nInsolvenzverfahrens informiert und am 21.07.2008 den Einkommensteuerbescheid 2007 erhalten. Das\nFinanzamt 1 habe daher für das Jahr 2008 die Möglichkeit der Rückforderung der zu Unrecht gewährten\nEigenheimzulage gehabt und hätte diesen bei ordnungsgemäßer Amtsführung als Masseverbindlichkeit\ngeltend machen können. Diese Möglichkeit, einschließlich der Möglichkeit zur Wahrnehmung des\nSchlusstermins mit Einsichtnahme in sämtliche Unterlagen, habe das Finanzamt jedoch nicht genutzt.\n15\nHilfsweise sei die Inanspruchnahme des Klägers ermessensfehlerhaft, da dem Finanzamt die Veräußerung\nder Wohnung mit notariellem Kaufvertrag vom 13.12.2007 aufgrund der Mitteilung des Notars habe bekannt\nsein müssen. Aus dieser Mitteilung habe das Finanzamt jedoch nicht die erforderlichen Schlussfolgerungen\ngezogen, was ein Verschulden des Finanzamtes begründe. Hätte das Finanzamt 1 den Anspruch auf\nRückzahlung im Laufe des Insolvenzverfahrens geltend gemacht, so hätte der Anspruch als\nMasseverbindlichkeit bedient werden können. Diese Möglichkeit habe das Finanzamt jedoch sehenden\nAuges verstreichen lassen. Die Abwägung, ob nach Abschluss des Insolvenzverfahrens eine persönliche\nInanspruchnahme des Klägers erfolgen solle und in welcher Höhe, sei von Seiten des Finanzamtes 1\noffenkundig nicht angestellt worden. Etwas Anderes ergebe sich auch nicht aus dem Haftungsbescheid. Es\nhandele sich im vorliegenden Fall um einen Ermessensnichtgebrauch, der zur Rechtswidrigkeit des\nBescheides führe.\n16\nDie Prozessbevollmächtigte beantragt, den Haftungsbescheid über die Eigenheimzulage 2008 bis 2010 mit\nSäumniszuschlägen vom 24.04.2013 in Gestalt der Einspruchsentscheidung vom 01.02.2017 aufzuheben.\n17\nAußerdem beantragt sie, die Kosten für die Hinzuziehung eines Bevollmächtigten im Vorverfahren für\nnotwendig zu erklären.\n18\nDas Finanzamt beantragt, die Klage abzuweisen, und verweist hierzu auf die Ausführungen in der\nEinspruchsentscheidung. Ergänzend wird Folgendes vorgetragen:\n19\nEntgegen dem Vorbringen des Prozessbevollmächtigten sei § 69 AO auf den Streitfall anwendbar. Nach\ndem vom Prozessbevollmächtigten zitierten Urteil des Bundesfinanzhofes vom 19.12.2013, Az. III R 25/10,\nsei zwar die Anwendung von § 71 AO auf die Investitionszulage, die analog der Eigenheimzulage eine\nSubvention darstelle, ausgeschlossen, weil das auf die Erschleichung einer Investitionszulage gerichtete\nVerhalten strafrechtlich keine Steuerhinterziehung, sondern Subventionsbetrug sei. In den Urteilsgründen\nsei jedoch ausdrücklich ausgeführt, dass aufgrund der Verweisung in § 7 Abs. 1 Satz 1\nInvestitionszulagengesetz (InvZulG) - entsprechend für die Eigenheimzulage § 15 Abs. 1 Satz 1 EigZulG -\nim Übrigen die Haftungsnorm des § 69 AO anwendbar sei. Der Insolvenzverwalter habe als\nVermögensverwalter im Sinne des § 34 AO ab dem Zeitpunkt der Insolvenzeröffnung alle Verpflichtungen\ndes Insolvenzschuldners zu erfüllen, die durch die Abgabenordnung und die Einzelsteuergesetze begründet\nwürden. Infolge dessen gingen auch die Anzeige- und Auskunftspflichten der §§ 90, 93 AO auf den\nInsolvenzverwalter über. Nichts Anderes könne für einzelgesetzlich normierte Anzeigepflichten wie die in §\n12 Abs. 2 Eig-ZulG gelten. Verletze er diese Pflichten, komme eine Haftung nach § 69 i. V. m. § 34 AO in\nBetracht. Zu den Ansprüchen aus dem Steuerschuldverhältnis gehörten auch die einem\nSteuervergütungsanspruch gleichgestellten Subventionen wie die Eigenheimzulage (unter Hinweis auf\nTipke/Kruse § 37 AO Rz. 6 und BFH-Urteil vom 19.12.2013 III R 25/10, BStBI II 2017, 21). Das Finanzamt\nhalte die Pflichtverletzung des Klägers für grob fahrlässig, weil er aufgrund seiner Stellung gewusst habe\nbzw. habe wissen müssen,\n1. dass die Insolvenzschuldnerin die Eigentumswohnung bis Januar bewohnt habe (Nennung ihrer Adresse\nmit „Str. 1, 1“ in seinem Sachverständigengutachten vom 07.03.2007),\n2. dass die Insolvenzschuldnerin Eigenheimzulage dafür erhalten habe (durch die Überprüfung ihrer\nEinkommens- und Vermögensverhältnisse, Umbuchungsmitteilung der Eigenheimzulage 2007, Überprüfung\nder Einnahmen und Ausgaben im Zusammenhang mit der Wohnung bei Überprüfung der Verwertbarkeit der\nWohnung bzw. bei Entscheidung über die Frage, ob sie aus dem Insolvenzbeschlag freizugeben sei),\nobwohl sie die Wohnung nicht mehr bewohnte, und deshalb eine ungerechtfertigte Vereinnahmung\nvorgelegen habe.\n20\nAus den vorgelegten Akten ergebe sich, dass in dem zur Frage der Eröffnung des Insolvenzverfahrens vom\nKläger erstellten Sachverständigengutachten vom 07.03.2007 an das Amtsgericht 1 die Adresse der\nInsolvenzschuldnerin mit Str. 1 in 1 angegeben sei (Seite 1 des Sachverständigengutachtens). Weiterhin\nergebe sich daraus, dass A einerseits Eigentümerin der Eigentumswohnung Str. 1 in 1 gewesen sei und\nandererseits ab 01.02.2007 eine 4-Zimmerwohnung in der Str.2, 2 angemietet habe (Seite 4 des\nGutachtens).\n21\nMit Schreiben vom 07.12.2018 hat sich der Prozessbevollmächtigte des Klägers nach Schluss der\nmündlichen Verhandlung an das Gericht gewandt und sein Vorbringen, dass ein Haftungsbescheid nach §\n191 AO nicht auf § 60 InsO gestützt werden könne sowie das Ermessenserwägungen in der mündlichen\nVerhandlung nicht mehr nachgeholt werden könnten, wiederholt.\n22\nWegen des weiteren Vorbringens wird auf die Schriftsätze der Beteiligten, den Inhalt der Akten sowie auf\ndie Niederschrift über die mündliche Verhandlung vom 06.12.2018 verwiesen.\nEntscheidungsgründe\n23\nDie zulässige Klage ist unbegründet.\nI.\n24\nDer angefochtene Haftungsbescheid vom 24.04.2013 in Gestalt der Einspruchsentscheidung vom\n01.02.2017 ist rechtmäßig und verletzt den Kläger nicht in seinen Rechten (§ 100 Abs. 1 Satz 1\nFinanzgerichtsordnung - FGO).\n25\n1. Gemäß § 191 Abs. 1 Satz 1 AO kann derjenige, der kraft Gesetzes haftet, durch Haftungsbescheid in\nAnspruch genommen werden. Gemäß § 69 Satz 1 AO haften die in den §§ 34, 35 AO bezeichneten\nPersonen, soweit Ansprüche aus dem Steuerschuldverhältnis infolge vorsätzlicher oder grob fahrlässiger\nVerletzung der ihnen obliegenden Pflichten nicht oder nicht rechtzeitig festgesetzt oder erfüllt oder soweit\ninfolge dessen Steuervergütungen oder Steuererstattungen ohne rechtlichen Grund gezahlt werden. Die\nHaftung umfasst auch die infolge der Pflichtverletzung zu zahlenden Säumniszuschläge. Gesetzliche\nVertreter und Vermögensverwalter (§ 34 AO) sowie Verfügungsberechtigte (§ 35 AO) haben gemäß § 34\nAbs. 1 AO die steuerlichen Pflichten der vertretenen Person zu erfüllen. Insbesondere haben sie dafür zu\nsorgen, dass Steuern aus den Mitteln entrichtet werden, die sie verwalten. Steht eine Vermögensverwaltung\nanderen Personen als den Eigentümern des Vermögens oder deren gesetzlichen Vertretern gemäß § 34\nAbs. 3 AO zu, so haben die Vermögensverwalter die in § 34 Abs. 1 AO bezeichneten Pflichten, soweit ihre\nVertretung reicht.\n26\na) Die in § 191 Abs. 1 AO normierte Haftung beschränkt sich nicht nur auf die Haftung für Steuerschulden,\nsondern umfasst generell die Haftung für Ansprüche aus dem Steuerschuldverhältnis nach § 37 Abs. 1 AO\n(vgl. Intemann in Koenig, AO-Kommentar, § 191 AO, Rz 34). Zu den Ansprüchen aus einem\nSteuerschuldverhältnis gehört auch der Erstattungsanspruch nach § 15 Abs. 1 Satz 1 EigZulG (vgl. BFHUrteil\nvom 12.05.2009 IX R 2/08, BFH/NV 2009, 1404; Drüen in Tipke/Kruse, § 37 AO Rz. 6). Das\nHaftungsverfahren nach § 191 AO ist daher im Grundsatz auch auf die Eigenheimzulage anwendbar. Die in\n§ 15 Abs. 1 Satz 1 EigZulG enthaltene (allgemeine) Verweisung, nach der die für Steuervergütungen\ngeltenden Vorschriften der Abgabenordnung entsprechend anzuwenden sind, umfasst auch die\nHaftungsnormen der §§ 69 ff. AO.\n27\nb) Etwas anderes ergibt sich auch nicht aus der zu § 7 Abs. 1 Satz 1 InvZulG ergangenen Rechtsprechung\ndes Bundesfinanzhofes (vgl. BFH-Urteil vom 19.12.2013 III R 25/10, BFHE 244, 217, BStBl II 2015, 119),\nnach der die in dieser Vorschrift ebenfalls enthaltene (allgemeine) Verweisung auf die für\nSteuervergütungen geltenden Vorschriften der Abgabenordnung nach ihrem Wortsinn nicht erlaubt, das auf\ndie „Erschleichung“ einer Investitionszulage gerichtete Verhalten als eine Steuerhinterziehung im Sinne des\n§ 71 AO zu behandeln. Gleiches hat der Bundesfinanzhof zur „Erschleichung“ der Eigenheimzulage\nentschieden (vgl. BFH-Urteil vom 12.01.2016 IX R 20/15, BFHE 252, 386, BStBl II 2017, 21). Nach der\nzitierten Rechtsprechung ist das strafbare Erschleichen der Eigenheimzulage als einer Subvention nicht von\n§§ 370, 378 AO erfasst, sondern von § 263 Strafgesetzbuch (Betrug) bzw. § 264 des Strafgesetzbuchs\n(Subventionsbetrug). Von der grundsätzlich entsprechenden Anwendung der Haftungsnormen der §§ 69 ff.\nAO ist nach Auffassung des Bundesfinanzhofes die Anwendung des § 71 AO auf die Eigenheimzulage\nausgeschlossen.\n28\nc) Die speziell zu § 71 AO ergangene Rechtsprechung lässt sich nach Ansicht des Senates nicht auf die\nHaftung nach § 69 AO übertragen, da nach dem Wortsinn des § 71 AO die Begehung einer\n„Steuerhinterziehung“ oder einer „Steuerhehlerei“ vorausgesetzt wird und das Erschleichen der\nEigenheimzulage strafrechtlich jedoch einen Betrug bzw. Subventionsbetrug darstellt, der nicht von der\nAnwendung der §§ 370, 378 AO erfasst wird. Der Bundesfinanzhof stellt damit maßgeblich auf die materiellrechtliche\nBewertung des „Erschleichens“ der Eigenheimzulage als strafrechtlichen Betrug bzw.\nSubventionsbetrug ab.\n29\nIm vorliegenden Streitfall geht es jedoch um die Erfüllung von Mitteilungsverpflichtungen gemäß § 12 Abs. 2\nEigZulG im Rahmen der Regelung des Verfahrens über die Festsetzung, Auszahlung und Rückforderung\nder Eigenheimzulage als einer staatlichen Förderung. Durch die Verweisungsnorm des § 15 Abs. 1 Satz 1\nEigZulG wird die Eigenheimzulage abgabenrechtlich zwar nicht in eine Steuervergütung materiell-rechtlich\numqualifiziert, sondern allgemein das Eigenheimzulagenverfahren in Anlehnung an das\nInvestitionszulagenverfahren geregelt (ebenso Urteil des Bundesgerichtshofs (BGH) vom 06.06.2007 5 StR\n127/07, Höchstrichterliche Finanzrechtsprechung (HFR) 2007, 1157) und daher folgerichtig nur eine\nentsprechende Anwendung der Steuervergütungsvorschriften der Abgabenordnung angeordnet. § 12\nEigZulG regelt in seinem Abs. 2 die materiell-rechtliche Verpflichtung zur Mitteilung einer Änderung der\nVerhältnisse, die zu einer Minderung oder dem Wegfall der Eigenheimzulage führen und betrifft damit\ngerade das Verfahren über die Festsetzung der Eigenheimzulage. § 12 Abs. 2 EigZulG stellt nach der\nGesetzesbegründung (vgl. BRDrs. 498/95) „eine auf das besondere Verfahren der Eigenheimzulage\nzugeschnittene Mitwirkungspflicht dar“. Die Mitteilung führt regelmäßig zu einer Neufestsetzung nach § 11\nAbs. 2 EigZulG oder zu einer Aufhebung nach § 11 Abs. 3 EigZulG. Demnach ist eine Verletzung der\nVerfahrensvorschrift in § 12 Abs. 2 EigZulG vom Verweis des § 15 Abs. 1 Satz 1 EigZulG auf die für\nSteuervergütungen geltenden Vorschriften der Abgabenordnung (§ 69 AO) erfasst.\n30\nIm Übrigen hat der Bundesfinanzhof in seiner Entscheidung vom 19.12.2013, Az. III R 25/10 (BFHE 244,\n217, BStBl II 2015, 119) klargestellt, dass aufgrund der in § 7 Abs. 1 Satz 1 InvZulG enthaltenen\n(allgemeinen) Verweisung auf die für Steuervergütungen geltenden Vorschriften der Abgabenordnung auch\ndie Haftungsnormen der §§ 69 ff. AO entsprechend anwendbar sind. Nichts Anderes kann nach Ansicht des\nSenats für die in § 15 Abs. 1 Satz 1 EigZulG enthaltene Verweisung gelten.\n31\n2. Im Streitfall liegen die tatbestandlichen Voraussetzungen der hier vom Finanzamt benannten\nHaftungsvorschrift des § 69 AO vor; auch ist die Ermessensausübung nicht zu beanstanden.\n32\na) Die tatbestandlichen Voraussetzungen der Haftungsvorschrift des § 69 AO liegen vor.\n33\nDer Insolvenzverwalter ist Vermögensverwalter im Sinne des § 34 Abs. 3 i.V.m. Abs. 1 AO (vgl. BFHBeschluss\nvom 15.09.2010 II B 4/10, BFH/NV 2011, 2). Durch die Eröffnung des Insolvenzverfahrens geht\ndas Recht des Schuldners, das zur Insolvenzmasse gehörende Vermögen zu verwalten und über es zu\nverfügen, auf den Insolvenzverwalter über, § 80 Abs. 1 InsO. Das Verwaltungs- und Verfügungsrecht wird\nvon diesem Zeitpunkt an vom Insolvenzverwalter ausgeübt. Da alle Steuerarten in engem Zusammenhang\nmit dem vom Insolvenzverwalter verwalteten Vermögen stehen, hat dieser grundsätzlich auch die gesamten\nsteuerlichen Pflichten zu erfüllen, die bisher dem Insolvenzschuldner oblägen, wenn über sein Vermögen\nnicht das Insolvenzverfahren eröffnet worden wäre (vgl. BFH-Beschluss vom 19.11.2007 VII B 104//07,\nBFH/NV 2008, 334 und die Nachweise bei Loose, Tipke/Kruse, AO/FGO-Kommentar, § 34 AO, Rz. 19 und\n25). Zu den vom Vermögensverwalter zu erfüllenden steuerlichen Pflichten gehören insbesondere die\nErklärungspflichten (§ 149 AO), die Anzeigepflichten (§ 137 ff. AO), Mitwirkungs- und Auskunftspflichten (§§\n90, 93 AO) sowie die Zahlungspflichten (§ 224 AO; vgl. etwa BFH-Beschluss vom 21.12.1998 VII B 175/98,\nBFH/NV 1999, 745).\n34\naa) Entgegen dem Vorbringen des Klägers bestehen diese Verpflichtungen des Insolvenzverwalters nicht\nnur für die Zeit der Verwaltung, sondern auch für die Zeit vorher, soweit sie noch nicht erfüllt sind (vgl.\nSchwarz in Schwarz/Pahlke, AO/FGO-Kommentar, § 34 AO, Rz. 18). Da der Insolvenzverwalter als\ngesetzlicher Vermögensverwalter alle gesetzlichen Pflichten wahrzunehmen hat, die der Insolvenzschuldner\nim Fall seiner Handlungsfähigkeit hätte erfüllen müssen, ist § 34 Abs. 3 AO so auszulegen, dass auch\nsolche (unrichtigen) Steuererklärungen zu berichtigen sind, die zeitlich vor Beginn der „Amtszeit“ des\nInsolvenzverwalters abgegeben wurden (vgl. Seer in Tipke/Kruse, AO/FGO-Kommentar, § 153 AO, Rz. 3).\nAuch die Pflicht zur Berichtigung einer vom Insolvenzschuldner vor Insolvenzeröffnung abgegebenen\nErklärung nach § 153 AO hat der Insolvenzverwalter. Er ist schließlich auch zur Abgabe von\nSteuererklärungen für die Zeit vor der Verfahrenseröffnung verpflichtet (vgl. BFH-Beschluss vom\n19.11.2007 VII B 104/07, BFH/NV 2008, 334).\n35\nbb) Nichts Anderes gilt nach Auffassung des Senats für die in § 12 Abs. 2 EigZulG normierte\nMitteilungspflicht, da § 12 Abs. 2 EigZulG lediglich eine spezialgesetzliche Regelung der allgemeinen\nAnzeigepflicht nach § 153 AO für das Eigenheimzulagenverfahren darstellt (vgl. Wacker, EigZulGKommentar,\n§ 12, Rz. 11). Mit dem Auszug der Insolvenzschuldnerin aus ihrer Eigentumswohnung in der\nStr. 1, 1, zum 29.01.2007 und der damit verbundenen Aufgabe der Nutzung zu eigenen Wohnzwecken im\nSinne von § 4 EigZulG entfielen ab diesem Zeitpunkt die Anspruchsvoraussetzungen für die Gewährung der\nEigenheimzulage. Die Insolvenzschuldnerin war demnach gemäß § 12 Abs. 2 EigZulG verpflichtet, ihren\nAuszug aus der Wohnung und die Aufgabe der Nutzung zu eigenen Wohnzwecken dem Finanzamt 1\nmitzuteilen. Diese im Zeitpunkt der Insolvenzeröffnung am 12.03.2007 bestehende unerfüllte\nMitteilungsverpflichtung aus § 12 Abs. 2 EigZulG traf mit dem Übergang der Verwaltungs- und\nVerfügungsbefugnis nach § 80 Abs. 1 InsO nunmehr auch den Kläger in seiner Eigenschaft als\nInsolvenzverwalter. Nach § 34 Abs. 3 AO hat der Insolvenzverwalter als gesetzlicher Vermögensverwalter\nalle gesetzlichen Pflichten wahrzunehmen, die der Insolvenzschuldner im Fall seiner Handlungsfähigkeit\nhätte erfüllen müssen.\n36\ncc) Der Senat folgt nicht der klägerseitigen Auffassung, den Kläger habe im Streitfall keine Mitteilungspflicht\nnach § 12 Abs. 2 EigZulG getroffen, da er im Zeitpunkt der Insolvenzeröffnung keine Kenntnis von der\nFörderung der streitgegenständlichen Wohnung in 1 durch Eigenheimzulage gehabt habe. Weder § 34 Abs.\n3 AO noch § 80 Abs. 1 InsO ist zu entnehmen, dass sich die Verpflichtung zur Erfüllung der dem\nInsolvenzschuldner ursprünglich obliegenden gesetzlichen Pflichten nur auf jene Pflichten bezieht, von\ndenen der Insolvenzverwalter tatsächlich Kenntnis erlangt hat. Ob und inwieweit der Insolvenzverwalter\nKenntnis von bestimmten Umständen hat oder hätte haben müssen, ist vielmehr im Rahmen der Prüfung\ndes Tatbestandmerkmals „schuldhafte“ Pflichtverletzung des § 69 AO zu würdigen.\n37\ndd) Nicht anders verhält es sich mit dem Argument des Klägers, er habe die Eigentumswohnung in der Str.\n1, 1, zum 01.08.2007 aus der Insolvenzmasse freigegeben und sei deshalb unter keinen Umständen nach §\n12 Abs. 2 EigZulG zur Mitteilung an das Finanzamt verpflichtet gewesen, weil eine solche Mitteilung nicht\nvon seiner Verwaltung- und Verfügungsbefugnis umfasst gewesen sei. Jedenfalls bis zur Freigabe der\nWohnung aus der Insolvenzmasse zum 01.08.2007 bestand nach Auffassung des Senats unstreitig die\nVerpflichtung des Klägers zur Mitteilung der Änderung der Verhältnisse nach § 12 Abs. 2 EigZulG.\n38\nee) Zwar wurde die im Rahmen der Gewährung von Eigenheimzulage geförderte Wohnung in 1 aus der\nInsolvenzmasse freigegeben, allerdings ist nach Ansicht des Senats zwischen dem Vermögensgegenstand\n(Wohnung) und dem Vermögensgegenstand (öffentlich-rechtlicher Anspruch auf Eigenheimzulage, § 10\nEigZulG) zu differenzieren. Der Anspruch auf Eigenheimzulage entsteht nach Maßgabe der in dem\njeweiligen Jahr des (achtjährigen) Förderzeitraums verwirklichten Tatbestandsmerkmale (sog. materielles\nJahresprinzip); er entsteht jährlich nach Maßgabe der in dem jeweiligen Jahr gegebenen tatsächlichen und\nrechtlichen Umstände (vgl. Wacker, EigZulG-Kommentar, § 10 Rz. 5 ff.). Ausreichend für den vollen\nZulagenanspruch eines Kalenderjahres ist, dass die erforderlichen Voraussetzungen zu irgendeinem\nZeitpunkt dieses Jahres vorliegen.\n39\nAllein mit der Freigabe der Wohnung aus der Masse zum 01.08.2007 wurde zur Überzeugung des Senats\nnicht zugleich auch der ggf. künftig erst noch entstehende Anspruch der Insolvenzschuldnerin auf\nGewährung von Eigenheimzulage aus der Masse freigegeben. In Bezug auf den künftig erst noch\nentstehenden Anspruch aus § 10 EigZulG (für 2008 ff.), der grundsätzlich weiterhin zur Masse gehörte,\nbestand die Verpflichtung des Klägers fort, die Änderung der Verhältnisse nach § 12 Abs. 2 EigZulG\nanzuzeigen. Soweit der Prozessbevollmächtigte vorgetragen hat, vor dem Hintergrund der Freigabe der\nWohnung aus der Masse komme eine Pflichtverletzung des Klägers nicht in Betracht, da die Verwaltungsund\nVerfügungsbefugnis über die Wohnung zum 01.08.2007 geendet habe, vermag dem der Senat nicht zu\nfolgen. Wie der Prozessbevollmächtigte selbst einräumt, ist zwischen dem öffentlich-rechtlichen Anspruch\nauf Eigenheimzulage und dem Vermögensgegenstand Eigentumswohnung zu differenzieren. Der Anspruch\nauf Eigenheimzulage ist ein persönlicher Steuervergütungsanspruch des Insolvenzschuldners und wird\ndurch die insolvenzrechtliche Freigabe des Grundstücks, für dessen Eigennutzung die Eigenheimzulage\ngewährt wird, nicht berührt, denn der Anspruch auf Eigenheimzulage und die Verfügungs- und\nVerwaltungsbefugnis über das Grundstück bedingten einander nicht. Die Eigenheimzulage wird nicht für\ndas Halten oder das Besitzen des Grundstücks, sondern für die Selbstnutzung durch den\nAnspruchsberechtigten gewährt.\n40\nDie Mitteilungspflicht des Klägers als Wissensträger und Anzeigeverpflichteter nach § 12 Abs. 2 EigZulG ist\nbereits bei Eröffnung des Verfahrens entstanden und mit der Freigabe der Eigentumswohnung aus dem\nInsolvenzbeschlag nicht entfallen, sondern hat als unerfüllte Verpflichtung fortbestanden. Durch die\nMitteilung der neuen Bankverbindung zur Auszahlung der Eigenheimzulage 2008, 2009 und 2010 auf das\nAnderkonto des Insolvenzverwalters mit Schreiben vom 20.03.2008 und der späteren Vereinnahmung der\nEigenheimzulage zur Masse hat der Kläger von seiner Verwaltungs- und Verfügungsbefugnis über diesen -\nvermeintlich bestehenden - öffentlich-rechtlichen Anspruch tatsächlich Gebrauch gemacht und diesen im\nRahmen seiner Tätigkeit als Insolvenzverwalter für sich reklamiert. Infolgedessen kann sich der Kläger nicht\nmit Erfolg darauf berufen, im Zeitpunkt der Vereinnahmung der Eigenheimzulage habe ihn keine\nVerpflichtung aus § 12 Abs. 2 EigZulG mehr getroffen. Gerade durch die bewusste Vereinnahmung der\nEigenheimzulage und der damit verbundenen Kenntnis von der Existenz der Zulage hätte der Kläger als\nInsolvenzverwalter die Anspruchsberechtigung der Insolvenzschuldnerin - wie bei anderen staatlichen\nFörderungen auch - prüfen müssen. Er hätte demnach, zumal er von der Existenz der Eigenheimzulage\nnach seinen Ausführungen bislang keine Kenntnis hatte, prüfen müssen, für welches Objekt das Finanzamt\nEigenheimzulage gewähren will und ob hierfür überhaupt noch die Anspruchsvoraussetzungen gegeben\nsind. Spätestens bei Vornahme dieser Prüfung musste dem Kläger klar sein, dass eine Verpflichtung zur\nMitteilung nach § 12 Abs. 2 EigZulG noch besteht, da er Kenntnis vom Auszug der Klägerin aus dieser\nWohnung und vom Verkauf dieser Wohnung hatte und es sich bei dieser Wohnung um das einzige\nGrundvermögen der Insolvenzschuldnerin gehandelt hatte. In Konsequenz der klägerseitigen\nArgumentation hätte der Kläger dem Finanzamt jedoch mitteilen müssen, dass ein etwaiger Anspruch auf\nEigenheimzulage der Insolvenzschuldnerin selbst zustehe, da er die Wohnung aus der Insolvenzmasse\nfreigegeben habe. Dies hat der Kläger gerade nicht getan. Eine Loslösung des Anspruchs von den Pflichten\nin dem Sinne, dass die Einziehung des Geldbetrages durch den Insolvenzschuldner zur Masse erfolgt und\ndie steuerlichen Pflichten diesbezüglich beim Insolvenzschuldner verbleiben, scheidet nach Ansicht des\nSenats aus. Die mit dem Anspruch zwangsläufig verbundenen steuerlichen Pflichten treffen vielmehr\nunabwendbar auch den Insolvenzverwalter.\n41\nff) Der Kläger hat seine Pflichten im Sinne des § 69 AO grob fahrlässig verletzt.\n42\nDie Pflichtwidrigkeit eines Verhaltens indiziert im Allgemeinen zumindest die grobe Fahrlässigkeit (vgl.\nhierzu BFH-Beschlüsse vom 14.09.1999 VII B 33/99, BFH/NV 2000, 303; vom 25.07.2003 VII B 240/02,\nBFH/NV 2003, 1540; BFH-Urteil vom 13.03.2003 VII R 46/02, BStBl II 2003, 556). Grob fahrlässig in diesem\nSinne handelt, wer die im Verkehr erforderliche Sorgfalt in ungewöhnlich hohem Maße verletzt, anders\nformuliert, wer außer Acht lässt, was im gegebenen Fall jedem hätte einleuchten müssen (vgl. BFHBeschlüsse\nvom 07.03.1995 VII B 172/94, BFH/NV 1995, 941 m.w.N.; vom 04.04.1998 I B 116/96, BFH/NV\n1998, 1460, 1462 und Loose, in Tipke/Kruse, AO-Kommentar, § 69 AO, Rz. 26).\n43\nDer Kläger wusste, dass die Insolvenzschuldnerin als einziges Grundvermögen nur die Eigentumswohnung\nin 1 hatte. Ihm muss bekannt gewesen sein, dass die Insolvenzschuldnerin die Eigentumswohnung vor\nihrem Umzug nach 2 selbst bewohnt hat. Dies ergibt sich eindeutig aus dem vor Insolvenzeröffnung vom\nKläger erstellten Sachverständigengutachten vom 07.03.2007, in dem die Adresse der Insolvenzschuldnerin\nmit Str. 1 in 1 angegeben wurde. In diesem hat der Kläger auch ausgeführt, dass die Insolvenzschuldnerin\nihre erste selbständige Tätigkeit von ihrer Privatwohnung aus organisiert hat (vgl. Seite 4, B, Nr. 2). Der\nUmzug nach 2 ist in diesem Gutachten ebenfalls unter der Nr. 2 erwähnt.\n44\nSoweit das Finanzamt darauf verweist, dass dem Kläger aus der Umbuchungsmitteilung vom 13.03.2007\nbekannt gewesen sein muss, dass der Insolvenzschuldnerin für diese Wohnung Eigenheimzulage gewährt\nwird, sie diese Wohnung bis Ende Januar 2007 selbst genutzt hat (durch Sichtung diverser Belege,\nKontoauszüge und Unterlagen bei Eröffnung des Insolvenzverfahrens) und dass diese anschließend nach 2\ngezogen ist, so dass der Kläger im Hinblick auf die unterlassene Mitteilung der veränderten Umstände nach\n§ 12 Abs. 2 EigZulG grob fahrlässig gehandelt hat, vermag der Senat dem nicht folgen. Allein der pauschale\nVerweis auf die zu sichtenden Unterlagen reicht nicht aus, um die grob fahrlässige Pflichtverletzung zu\nbegründen, zumal die Umbuchungsmitteilung vom 13.03.2007 laut handschriftlichem Aktenvermerk\n(Haftungsakte Blatt 89) höchst wahrscheinlich an die Insolvenzschuldnerin als Steuerpflichtige gegangen\nist, da der Grundinformationsdienst erst am 19.03.2007 auf den Insolvenzverwalter geändert wurde.\n45\nDurch Nennung der neuen Bankverbindung zur Auszahlung der Eigenheimzulage 2008, 2009 und 2010 auf\ndas Anderkonto des Insolvenzverwalters im Schreiben vom 20.03.2008 und die jeweilige Vereinnahmung\nder in diesen Jahren ausgezahlten Eigenheimzulage zur Masse ohne vorherige Prüfung, ob der\nInsolvenzschuldnerin für ihr bislang einziges Grundvermögen (Eigentumswohnung in 1) überhaupt noch\nEigenheimzulage zusteht, hat der Kläger die ihm obliegenden Pflichten grob fahrlässig verletzt. Spätestens\ndurch die Aufforderung des Finanzamtes vom 19.03.2008, die Bankverbindung des Anderkontos\nmitzuteilen, auf das Eigenheimzulage ausgezahlt werden könne, hätte sich dem Kläger aufdrängen müssen,\ndass als einziges förderfähiges Objekt die Eigentumswohnung in der Str.1, 1, in Betracht kommt und er\ndiese Eigentumswohnung bereits Mitte 2007 aus der Masse freigegeben hat. Weiterhin war ihm bekannt,\ndass die Insolvenzschuldnerin zum 01.02.2007 aus dieser Wohnung ausgezogen war und offensichtlich\nzuvor die Gewährung von Eigenheimzulage beantragt hatte, die ihr auch gewährt worden war. Denn als\nnichts Anderes war die Nachfrage des Finanzamtes, auf welches Konto die Eigenheimzulage ausgezahlt\nwerden soll, zu verstehen.\n46\nStatt die Rechtsgrundlagen des Anspruchs zu prüfen und seinen Anzeigepflichten gegenüber dem\nFinanzamt nachzukommen, hat der Kläger die Gelder zur Masse gezogen und hingenommen, dass die\nMasse insoweit ungerechtfertigt bereichert wird. Dieses Verhalten des Klägers stellt eine grob fahrlässige\nPflichtverletzung dar, da der Kläger nach seinen persönlichen Fähigkeiten verpflichtet und imstande war, die\nPrüfung der Anspruchsvoraussetzungen vorzunehmen. Dazu sind keine komplizierten steuerrechtlichen\nÜberlegungen anzustellen. Vielmehr wusste der Kläger durch die Nachfrage des Finanzamtes, dass der\nInsolvenzschuldnerin noch Eigenheimzulage (vermeintlich) zustand, dass das einzig in Frage kommende\nGrundvermögen aus der Masse freigegeben worden war und dass die Insolvenzschuldnerin aus der\nWohnung ausgezogen war. Unter Beachtung dieser Umstände war es absolut naheliegend - hat sich\ngeradezu aufgedrängt -, die Anspruchsvoraussetzungen für die Eigenheimzulage zu prüfen, mithin\njedenfalls den Auszug aus der Wohnung dem Finanzamt mitzuteilen. Dies gilt umso mehr, als der Kläger\nnach den Angaben der Insolvenzschuldnerin im Schreiben vom 10.01.2011 an das Finanzamt 1 eine Kopie\ndes Kaufvertrags über die Eigenheimzulage (notarieller Kaufvertrag vom 13.12.2007) zum damaligen\nZeitpunkt von ihr erhalten hatte. Bei Prüfung der Voraussetzungen wäre dem Kläger aufgefallen, dass die\nInsolvenzschuldnerin ihrer Anzeigepflicht nach § 12 Abs. 2 EigZulG bisher nicht selbst nachgekommen war,\nso dass die Eigenheimzulage weiter ausgezahlt wurde, ohne dass die Anspruchsvoraussetzungen hierfür\nvorlagen.\n47\ngg) Die vom Kläger begangenen Pflichtverletzungen waren im Streitfall auch ursächlich für den\nHaftungsschaden, da der Haftungsschaden ohne die Pflichtverletzungen nicht eingetreten wäre (vgl. BFHUrteile\nvom 26.04.1984 V R 128/79, BStBl II 1984, 776; vom 05.09.1989 VII R 61/87, BStBl II 1989, 979).\nBei Mitteilung der veränderten Verhältnisse gegenüber dem Finanzamt 1 in Beantwortung des Schreibens\nvom 19.03.2008, nämlich Auszug und Verkauf der von der Insolvenzschuldnerin selbst genutzten Wohnung,\nwäre es nicht zur Auszahlung der Eigenheimzulage für die Jahre 2008 ff. gekommen.\n48\nhh) Mit Bescheid vom 29.12.2010 hat das Finanzamt die Eigenheimzulagengewährung für 2008 - 2010\nnach § 1 Abs. 3 Satz 1 EigZulG aufgehoben und diese nach § 14 EigZulG von A zurückgefordert. Damit\nwurde die Eigenheimzulage für die Jahre 2008 - 2010 schließlich ohne rechtlichen Grund im Sinne von § 69\nSatz 1 AO gezahlt.\n49\nb) Die Ermessensausübung durch das Finanzamt ist nicht zu beanstanden.\n50\nUnter Berücksichtigung des vorangegangenen Schriftwechsels mit dem Kläger und insbesondere mit der\ndem Haftungsbescheid vom 24.04.2013 beigefügten Anlage 2 und der Einspruchsentscheidung vom\n01.02.2017 hat das Finanzamt seine Ermessenserwägungen hinreichend dargestellt, das ihm gemäß § 191\nAbs. 1 Satz 1 AO eingeräumte Entschließungs- und Auswahlermessen zweckentsprechend ausgeübt und\ndie gesetzlichen Grenzen des Ermessens (§ 5 AO) eingehalten. Das Gericht hat insoweit nach § 102 Satz 1\nFGO nur zu prüfen, ob die in § 5 AO festgelegten Grenzen des Ermessens über- oder unterschritten sind\noder von dem Ermessen in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch\ngemacht ist.\n51\naa) Die Rückforderung der Eigenheimzulage wurde zu Recht gegenüber A geltend gemacht, die jedoch den\nZahlungsanspruch des Finanzamts nicht erfüllen konnte. Nach den unbestrittenen Ausführungen des\nFinanzamtes blieben entsprechende Vollstreckungsmaßnahmen erfolglos. Wegen der dem Steuergläubiger\nim öffentlichen Interesse obliegenden Aufgabe, die Steuern nach Maßgabe der Gesetze gleichmäßig\nfestzusetzen und zu erheben (§ 85 AO) und insbesondere Steuervergütungen nicht zu Unrecht zu\ngewähren (§ 85 Satz 2 AO), kann der Erlass eines Haftungsbescheides bei Uneinbringlichkeit der\nRückforderung zu Unrecht gewährter Eigenheimzulage von der Insolvenzschuldnerin nur unter ganz\naußergewöhnlichen Umständen ermessensfehlerhaft sein. Deshalb ist das Entschließungsermessen - wie\nauch im Streitfall - mit dem Hinweis auf die Unmöglichkeit einer Einziehung der rückständigen Steuer durch\nVollstreckungsmaßnahmen gegenüber dem Steuerschuldner jedenfalls bei Nichtvorliegen\naußergewöhnlicher Umstände regelmäßig ausreichend begründet (vgl. BFH-Urteile vom 13.06.1997 VII R\n96/96, BFH/NV 1998, 4; vom 29.09.1987 VII R 54/84, BFHE 151, 111, BStBl II 1988, 176). Im Streitfall ist\nzudem noch zu berücksichtigen, dass die Eigenheimzulage auf das Anderkonto des Insolvenzverwalters\nausgezahlt wurde und nicht auf ein Konto der Insolvenzschuldnerin, der Vermögensvorteil mithin dem\nHaftenden in seiner Eigenschaft als Insolvenzverwalter zufloss.\n52\nbb) Die Einwendungen des Klägers gegen die Ermessensentscheidung des Finanzamtes sind nicht\ngerechtfertigt. Soweit der Kläger vorträgt, das Finanzamt 1 habe vom Verkauf der Eigentumswohnung und\ndamit von den veränderten Umständen im Sinne von § 12 Abs. 2 EigZulG mit Übersendung der\nVeräußerungsanzeige an das Finanzamt 3 durch die Notarin N Kenntnis erlangt, da nach Punkt 11 der\nAnlage zur Verordnung des Sächsischen Staatsministeriums der Finanzen über Bezeichnung, Sitz, Bezirk\nund Zuständigkeit der Finanzämter sowie über Einrichtung und Zuständigkeit eines Landesrechenzentrums\ndie Kenntnis des Finanzamtes 3 dem Finanzamt 1 zuzurechnen sei, vermag der Senat dieser Zurechnung\nnicht folgen, da ausweislich der Anlage zu der erwähnten Verordnung das Finanzamt 3 nur hinsichtlich der\nGrunderwerbsteuer auch für das Finanzamt 1 zuständig ist, nicht jedoch für den Bereich der\nEigenheimzulage. Eine weitergehende Wissenszurechnung vermag die ausschließlich auf die\nGrunderwerbsteuer beschränkte Zuständigkeitsübertragung nicht begründen.\n53\nAuch soweit der Kläger vorträgt, das Finanzamt 1 habe spätesten durch die Einreichung der\nSteuererklärung 2007 durch die Insolvenzschuldnerin beim Finanzamt Würzburg und Mitteilung der neuen\nAnschrift vom Wegfall der Anspruchsvoraussetzungen für die Gewährung der Eigenheimzulage wissen\nmüssen - zumal der Einkommensteuerbescheid 2007 vom 21.07.2008 vom Finanzamt 1 erlassen worden\nsei -, weshalb ein Mitverschulden des Finanzamtes 1 bei der Ermessensentscheidung zwingend zu\nberücksichtigen gewesen sei, begründet dies nach Ansicht des Senats nicht die Fehlerhaftigkeit der\nErmessensentscheidung. Nach ständiger Rechtsprechung des Bundesfinanzhofes ist das Mitverschulden\nder Finanzbehörde nur dann zu berücksichtigen, wenn es ein solches Ausmaß annimmt, dass\ndemgegenüber das Verschulden des Haftungsschuldners nicht entscheidend ins Gewicht fällt (vgl. BFHBeschluss\nvom 11.05.2000 VII B 217/99, BFH/NV 2000, 1442; BFH-Urteil vom 30.08.2005 VII R 61/04,\nBFH/NV 2006, 232 und BFH-Beschluss vom 21.09.2009 VII B 85/09, BFH/NV 2010, 11). Von einem\nsolchen Mitverschulden des Finanzamtes ist im Streitfall nicht auszugehen, da dem für die Festsetzung der\nEigenheimzulage zuständigen Sachbearbeiter die Mitteilung der veränderten Verhältnisse gemäß § 12 Abs.\n2 EigZulG nicht mitgeteilt wurde. Lediglich aus der Zusammenschau einzelner Indizien leitet der Kläger eine\nKenntnis des Finanzamtes 1 ganz allgemein ab und zieht daraus die Schlussfolgerung, dass auch die für\ndie Festsetzung der Eigenheimzulage zuständige Stelle des Finanzamtes 1 Kenntnis von den veränderten\nUmständen hatte. Nach Ansicht des Senats ist bereits diese Schlussfolgerung nicht gerechtfertigt, da\nausweislich der Akten (Haftungsakte Blatt 31) erst mit Übersendung der Veräußerungsanzeige vom\nFinanzamt 1-Süd an das Finanzamt 1 am 07.10.2010 letzteres Kenntnis vom Verkauf der Wohnung und\ndamit vom Wegfall der Anspruchsvoraussetzungen für die Eigenheimzulage hatte. Zwar enthalten die Akten\nauch den Hinweis (vgl. Haftungsakte Blatt 30), dass sich auf dem Vordruck InSo 02 (bei Eröffnung InSo)\nkeine Eintragung zur Eigenheimzulage und sich keine Veräußerungsanzeige im Übrigen bei den Akten\nbefindet, allerdings lässt sich daraus keine besonders grobe oder gar vorsätzliche Pflichtverletzung durch\ndas Finanzamt ableiten.\n54\nEbenso greift der Einwand, das Finanzamt 1 habe den Anspruch auf Rückzahlung der Eigenheimzulage im\nLaufe des Insolvenzverfahrens geltend machen können, so dass der Anspruch als Masseverbindlichkeit\nbedient worden wäre, nicht durch, da das Insolvenzverfahren am 25.08.2010 aufgehoben wurde und die\nzuständige Stelle des Finanzamtes 1 erst am 07.10.2010 Kenntnis von der Veräußerung der\nstreitgegenständlichen Wohnung erlangt hat.\n55\nDemgegenüber wiegt das Verschulden des Klägers schwer, da er wusste, dass das einzig in Frage\nkommende Grundvermögen aus der Masse freigegeben, die Insolvenzschuldnerin aus der Wohnung\nausgezogen und die Wohnung Ende Dezember 2007 verkauft worden war. Unter Berücksichtigung des\nWissens um diese Umstände stellt die Mitteilung der Kontoverbindung für die Auszahlung der\nEigenheimzulage im Schreiben vom 20.03.2008 und die Vereinnahmung der Eigenheimzulage in den\nJahren 2008, 2009 und 2010 eine schwerwiegende Pflichtverletzung dar.\n56\nSchließlich vermag auch der Einwand des Klägers, es liege ein Ermessensnichtgebrauch vor, da das\nFinanzamt 1 es unterlassen habe zu prüfen, ob und in welcher Höhe der Kläger In Anspruch genommen\nwerden solle, nicht durchzugreifen. Ausweislich der als Anlage 2 beigefügten Ausführungen zum\nHaftungsbescheid vom 24.04.2013 hat das Finanzamt 1 geprüft, ob eine Haftungsinanspruchnahme\nüberhaupt erfolgen soll. Es hat jedoch weder ausreichende Tatsachen noch Beweismittel für ein Absehen\nvon der Haftungsinanspruchnahme gesehen. Weiterhin wurde auch geprüft, ob ggf. eine nur teilweise\nInanspruchnahme in Betracht kommt, denn nicht anders sind die Ausführungen auf Seite 2, erster Absatz\nder Anlage zu verstehen: „auch der Aktenlage sind keine Anhaltspunkte zu entnehmen, die die\nVerantwortung für das Verschulden mindern“.\n57\n3. Unabhängig davon haftet der Kläger auch nach § 191 Abs. 1 i.V.m. § 60 Abs. 1 InsO wegen schuldhafter\nVerletzung seiner Pflichten als Insolvenzverwalter.\n58\na) Forderungen nach § 60 Abs. 1 InsO können auch nach § 191 Abs. 1 Satz 1 AO durch Haftungsbescheid\ngeltend gemacht werden.\n59\nNach § 60 Abs. 1 InsO ist der Insolvenzverwalter allen Beteiligten zum Schadensersatz verpflichtet, wenn er\nschuldhaft die Pflichten verletzt, die ihm nach der Insolvenzordnung obliegen. Er hat für die Sorgfalt eines\nordentlichen und gewissenhaften Insolvenzverwalters einzustehen. Hierbei handelt es sich um einen\nSchadensersatzanspruch, der dem Haftungsbegriff des Steuerrechts entspricht. Dieser umfasst das\nEinstehenmüssen für den Schaden, der durch die Verletzung von Pflichten bei der Erfüllung der fremden\nSteuerschuld dem Steuergläubiger entstanden ist. Entsprechend setzt die Haftung nach den §§ 34, 69 AO\ngrundsätzlich voraus, dass zwischen der Pflichtverletzung und dem mit dem Haftungsanspruch geltend\ngemachten Schaden eine adäquate Kausalität besteht. Dies ergibt sich aus dem Schadensersatzcharakter\nder Haftung nach den genannten Vorschriften. Ziel der Haftung ist es danach, Steuerausfälle\nauszugleichen, die durch schuldhafte Pflichtverletzungen der in § 34 und § 35 AO genannten Personen\nverursacht worden sind. Eine Haftung kommt dann in Betracht, wenn zwischen der Pflichtverletzung und\ndem Steuerausfall als dem auszugleichenden Schaden ein adäquater Kausalzusammenhang besteht (vgl.\nBFH-Urteile vom 02.03.1993 VII R 90/90, BFH/NV 1994, 526; vom 05.03.1991 VII R 93/88, BStBl II 1991,\n678; vom 25.04.1995 VII R 99-100/94, BFH/NV 1996, 97; vom 06.03.2001 VII R 17/00, BFH/NV 2001,\n1100). Dieses Ziel verfolgt auch § 60 Abs. 1 InsO, sodass Forderungen des Steuergläubigers grundsätzlich\nauch nach dieser Vorschrift durch Haftungsbescheid geltend gemacht werden können (vgl. Boeker in\nHübschmann/Hepp/ Spitaler, AO, § 191, Rz. 83).\n60\nb) Der Kläger haftet als Insolvenzverwalter auch nach § 60 Abs. 1 InsO.\n61\nGemäß dieser Vorschrift muss der Insolvenzverwalter Aussonderungsrechte beachten und dafür Sorge\ntragen, dass Gegenstände, auf die sich Rechte Dritter beziehen, von der Verwertung der Masse\nausgenommen werden. Diese Pflicht hat der Insolvenzverwalter allerdings nur, wenn ihm entsprechende\nRechte vor der Verwertung bekannt geworden sind. Denn zur uneingeschränkten Sachaufklärung ist der\nInsolvenzverwalter nicht verpflichtet. Auf deutliche Anhaltspunkte muss er jedoch eingehen und sein\nVerhalten entsprechend darauf einstellen, selbst wenn er ein Aussonderungsrecht bestreiten will (vgl. z.B.\nOLG Jena, Urteil vom 27.10.2004 2 U 414/04, ZInsO 2005, 44).\n62\nNach § 47 Satz 1 InsO ist kein Insolvenzgläubiger, wer aufgrund eines dinglichen oder persönlichen Rechts\ngeltend machen kann, dass ein Gegenstand nicht zur Insolvenzmasse gehört. Sein Anspruch auf\nAussonderung des Gegenstandes bestimmt sich nach den Gesetzen, die außerhalb des\nInsolvenzverfahrens gelten (Satz 2). Aussonderungsfähig im Sinne des § 47 InsO sind Gegenstände. Dies\nsind u.a. auch persönliche Rechte und Forderungen aller Art, die individuell bestimmt sind (vgl. Wimmer,\nFK-InsO 2015, § 47 InsO, Rz. 6 f.).\n63\nIm Streitfall bestand zugunsten des Finanzamtes ein Erstattungsanspruch nach § 37 Abs. 2 AO gegen den\nKläger als Insolvenzverwalter.\n64\nIst u.a. eine Steuervergütung ohne rechtlichen Grund gezahlt worden, hat nach dieser Vorschrift derjenige,\nauf dessen Rechnung die Zahlung bewirkt worden ist, an den Leistungsempfänger einen Anspruch auf\nErstattung des gezahlten Betrags. Dies gilt auch, wenn der Grund für die Zahlung später wegfällt.\nAnspruchsbegründender Tatbestand ist die Zahlung eines nicht geschuldeten Betrags. Der\nErstattungsanspruch entsteht auch dann mit der Zahlung der nicht geschuldeten Steuer bzw.\nSteuervergütung, wenn diese durch Bescheid falsch festgesetzt und der Bescheid noch nicht geändert oder\naufgehoben worden ist. Dementsprechend entsteht der Erstattungsanspruch bei späterem Wegfall des\nrechtlichen Grundes durch nachträglichen Eintritt für die Besteuerung bedeutsamer Ereignisse mit dem\nEintritt dieses Ereignisses. Für die Entstehung des Erstattungsanspruchs kommt es daher nicht auf dessen\nFestsetzung oder dessen Fälligkeit an (vgl. Drüen in Tipke/Kruse, § 37 AO, Rz. 42 f.).\n65\nNach § 4 Satz 1 EigZulG bestand der Anspruch auf Eigenheimzulage für Kalenderjahre, in denen der\nAnspruchsberechtigte die Wohnung zu eigenen Wohnzwecken nutzte. Der Anspruch auf Eigenheimzulage\nentstand mit Beginn der angeschafften Wohnung zu eigenen Wohnzwecken, für jedes weitere Jahr des\nFörderzeitraums mit Beginn des Kalenderjahres, für das eine Eigenheimzulage festzusetzen war (§ 10\nEigZulG).\n66\nIm Streitfall zog die anspruchsberechtigte Insolvenzschuldnerin im Januar 2007 aus der begünstigten\nEigentumswohnung aus und verkaufte diese mit notariellem Vertrag vom 13.12.2007. Mit der Aufgabe der\nSelbstnutzung der Eigentumswohnung entfielen, wie bereits ausgeführt, ab dem Jahr 2008 die\nVoraussetzungen für den Anspruch der Insolvenzschuldnerin auf Eigenheimzulage. Die jeweils in den\nJahren 2008, 2009 und 2010 auf das Anderkonto des Klägers als Insolvenzverwalter überwiesene\nEigenheimzulage erfolgte damit ohne rechtlichen Grund. Mit der jeweiligen Zahlung der Eigenheimzulage\nentstand daher zugunsten des Beklagten ein Erstattungsanspruch nach § 37 Abs. 2 AO gegen den Kläger\nals Insolvenzverwalter und damit ein (bestimmter) Anspruch auf Aussonderung dieser Forderung im Sinne\ndes § 47 InsO.\n67\nDem Kläger war im Rahmen seiner Tätigkeit als Insolvenzverwalter bekannt, dass, wie bereits ausgeführt,\ndie Insolvenzschuldnerin Eigentümerin einer Eigentumswohnung in 1, Str. 1, war, aus dieser sie im Januar\n2007 aus- und nach 2 umgezogen ist. Außerdem war ihm in dieser Eigenschaft bekannt, dass diese zur\nInsolvenzmasse gehörende Eigentumswohnung veräußert werden sollte. Aus diesem Grund gab er die\nWohnung zum 01.08.2007 aus der Insolvenzmasse frei. Aufgrund der Eröffnung des Insolvenzverfahrens\nüber das Vermögen der Insolvenzschuldnerin am 12.03.2007 wurde der Kläger als Insolvenzverwalter am\n19.03.2008 vom Finanzamt um die Mitteilung des Bankkontos gebeten, auf das die Eigenheimzulage\nüberwiesen werden sollte. Daraufhin teilte der Kläger als Insolvenzverwalter dem Finanzamt die Nummer\neines Anderkontos mit. Unabhängig davon, dass die Insolvenzschuldnerin in dem von ihr erstellten\nVermögensverzeichnis keine Angaben zum Bezug von Steuervergütungen z.B. in Form der\nEigenheimzulage gemacht hatte, ist bereits in diesem Vorgang nach Auffassung des Senats ein deutlicher\nHinweis auf einen unberechtigten Vermögenszufluss der Insolvenzschuldnerin zu sehen, der den Kläger als\nInsolvenzverwalter im Hinblick auf das zu beachtende Aussonderungsrecht im Sinne des § 47 InsO zur\ngewissenhaften Klärung der Sach- und Rechtslage hätte veranlassen müssen. Dies gilt umso mehr, als der\nKläger persönlich als Insolvenzverwalter mit der Verwaltung des zur Insolvenzmasse gehörenden\nVermögens und damit mit der Erfassung und auch der anschließenden Verwertung der zur Insolvenzmasse\ngehörenden, ursprünglich selbstgenutzten Eigentumswohnung befasst war und diese im August 2007 zum\nVerkauf freigegeben hat. Ihm war daher zum Zeitpunkt der Anfrage des Finanzamts am 19.03.2008 auch\naufgrund des überschaubaren Vermögens der Insolvenzschuldnerin und des vorangegangenen\nGeschehensablaufs bekannt, dass die (begünstigte) Eigentumswohnung nicht mehr zur Insolvenzmasse\ngehörte und unter Umständen zwischenzeitlich verkauft wurde. Bei der Eigenheimzulage handelte es sich\num eine Steuervergütung, mit der die Bildung von selbst genutztem Wohnungseigentum gefördert wurde.\nDass die Inanspruchnahme der Eigenheimzulage an bestimmte Voraussetzungen gebunden war, war nach\nAuffassung des Senats zumindest den Steuerpflichtigen bekannt, die im betreffenden Zeitraum\nWohneigentum erworben haben. Davon ausgehend war auch von einem fachlich vorgebildeten\nRechtsanwalt und Insolvenzverwalter als Organ der Rechtspflege zu erwarten, dass er sich, soweit er nicht\nüber entsprechende Kenntnisse verfügt, zumindest im Rahmen seiner Aufgaben als Insolvenzverwalter\ndarüber kundig macht. Wie der Geschehensablauf zeigt, hat sich der Kläger im Rahmen seiner Tätigkeit als\nInsolvenzverwalter offensichtlich mit der Begründetheit des Anspruchs der Insolvenzschuldnerin auf\nEigenheimzulage u.a. auch im Hinblick auf die zwischenzeitliche Freigabe der Eigentumswohnung nicht\nbzw. nicht mit der gebotenen Sorgfalt auseinandergesetzt. Durch die Mitteilung eines Anderkontos hat er als\nInsolvenzverwalter vielmehr dem Finanzamt gegenüber zu erkennen gegeben, dass die Voraussetzungen\nfür die Eigenheimzulage weiterhin vorliegen, obwohl dies - für ihn auch erkennbar - tatsächlich nicht mehr\nder Fall war. Weiter hat er als Insolvenzverwalter trotz gewichtiger entgegenstehender Anhaltspunkte die\njeweils auf sein Anderkonto überwiesene Eigenheimzulage für die Jahre 2008, 2009 und 2010\nunwidersprochen und ohne weitere erkennbare sachliche und rechtliche Prüfung eines Anspruchs der\nInsolvenzschuldnerin auf Eigenheimzulage angenommen und der Insolvenzmasse zugeführt. Als\nMindestanforderung hätte sich dem Kläger als Insolvenzverwalter bereits im Zusammenhang mit der\nMitteilung eines Anderkontos eine Anfrage beim Finanzamt wegen der Klärung eines weiterhin bestehenden\nAnspruchs der Insolvenzschuldnerin auf Eigenheimzulage aufdrängen müssen. Nach Auffassung des\nSenats hat der Kläger als Insolvenzverwalter durch seine Handlungen wiederholt die auch für ihn geltenden\nSorgfaltspflichten eines ordentlichen und gewissenhaften Insolvenzverwalters verletzt, zumal außerdem,\nwie in der mündlichen Verhandlung erörtert, die unberechtigte Zurechnung der ausgezahlten\nEigenheimzulage von insgesamt 6.000 € zur Insolvenzmasse zu einer erheblichen Erhöhung der\nInsolvenzverwaltervergütung geführt hat. Im Rahmen der wiederholten Sorgfaltspflichtverletzungen nahm es\nder Kläger als Insolvenzverwalter nach Auffassung des Senats billigend in Kauf, dass der Beklagte\nhinsichtlich seines Erstattungsanspruchs im Sinne des § 37 Abs. 2 AO sein Aussonderungsrecht im Sinne\ndes § 47 InsO nicht ausüben konnte.\n68\nIm Übrigen wird auf die Ausführungen zur Haftung des Klägers nach § 69 AO unter I. Nr. 2 Buchst. a) der\nUrteilsgründe verwiesen.\nII.\n69\nAufgrund des nachgereichten Schriftsatzes vom 07.12.2018 ist die Wiedereröffnung der mündlichen\nVerhandlung nach § 93 Abs. 3 Satz 2 FGO nicht geboten. Sie wäre dann angezeigt, wenn neue,\nentscheidungserhebliche Tatsachen oder Rechtsmeinungen vorgetragen würden, die eine Partei bisher\nunverschuldet nicht vorbringen konnte (vgl. Brandis in Tipke/Kruse, AO/FGO-Kommentar, FGO § 93, Tz 9).\n70\nDie Ausführungen des Klägers nach Schluss der mündlichen Verhandlung enthalten jedoch keine neuen\nTatsachen oder Rechtsansichten, die nicht bereits in der mündlichen Verhandlung erörtert worden wären.\nSoweit der Kläger erörtert, ob der vorliegende Haftungsbescheid nach § 191 AO auch auf § 60 InsO\ngestützt werden könnte, wurde diese Frage bereits in der mündlichen Verhandlung erörtert. Neue\nGesichtspunkte wurden diesbezüglich nicht vorgetragen. Hinsichtlich des Mitverschuldens verweist der\nKläger selbst auf die in der mündlichen Verhandlung bereits stattgefundene Erörterung.\nIII.\n71\nDie Kostenentscheidung folgt aus §§ 135 Abs. 1, 143 Abs. 1 FGO.\n\n"
+}

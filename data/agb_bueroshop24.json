@@ -1,0 +1,557 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Lieferung",
+            "end": 9,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "transoflex",
+            "end": 149,
+            "start": 139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkten",
+            "end": 243,
+            "start": 234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkt",
+            "end": 323,
+            "start": 316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 416,
+            "start": 405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gültigkeit",
+            "end": 428,
+            "start": 418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weise",
+            "end": 468,
+            "start": 463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 591,
+            "start": 578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufvertrags",
+            "end": 624,
+            "start": 612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchlaufen",
+            "end": 735,
+            "start": 724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufführt",
+            "end": 896,
+            "start": 888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1052,
+            "start": 1049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1186,
+            "start": 1178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 1253,
+            "start": 1246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 1355,
+            "start": 1344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorbehalt",
+            "end": 1366,
+            "start": 1357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuschließen",
+            "end": 1497,
+            "start": 1483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 1551,
+            "start": 1537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 1567,
+            "start": 1553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 1586,
+            "start": 1568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgaberecht",
+            "end": 1600,
+            "start": 1587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsfrist",
+            "end": 1668,
+            "start": 1654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgaberecht",
+            "end": 1771,
+            "start": 1758,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1991,
+            "start": 1990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 2045,
+            "start": 2041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2229,
+            "start": 2225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontaktieren",
+            "end": 2522,
+            "start": 2510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abholung",
+            "end": 2543,
+            "start": 2535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2614,
+            "start": 2612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 2771,
+            "start": 2769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 2870,
+            "start": 2867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lösung",
+            "end": 2894,
+            "start": 2888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2909,
+            "start": 2896,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3014,
+            "start": 3013,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3122,
+            "start": 3121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3220,
+            "start": 3218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lager",
+            "end": 3324,
+            "start": 3319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandweg",
+            "end": 3436,
+            "start": 3426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeliefert",
+            "end": 3526,
+            "start": 3515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 3619,
+            "start": 3608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 3737,
+            "start": 3724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geeignet",
+            "end": 3898,
+            "start": 3890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4044,
+            "start": 4042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verpackungen",
+            "end": 4129,
+            "start": 4117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Samstag",
+            "end": 4218,
+            "start": 4211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 4402,
+            "start": 4396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 4463,
+            "start": 4456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reklamieren",
+            "end": 4601,
+            "start": 4590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendekosten",
+            "end": 4653,
+            "start": 4638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 4741,
+            "start": 4735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorauskasse",
+            "end": 4882,
+            "start": 4871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4926,
+            "start": 4923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 5026,
+            "start": 5022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorausgesetzt",
+            "end": 5146,
+            "start": 5133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 5236,
+            "start": 5230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 5350,
+            "start": 5347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 5441,
+            "start": 5430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnung",
+            "end": 5610,
+            "start": 5602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 5813,
+            "start": 5806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5972,
+            "start": 5969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsdaten",
+            "end": 6056,
+            "start": 6043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 6153,
+            "start": 6139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 6261,
+            "start": 6247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dekoration",
+            "end": 6420,
+            "start": 6410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeholt",
+            "end": 6517,
+            "start": 6509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bitte",
+            "end": 6784,
+            "start": 6779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lösung",
+            "end": 6808,
+            "start": 6802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 6818,
+            "start": 6810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsansprüche",
+            "end": 6870,
+            "start": 6846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beseitigen",
+            "end": 7106,
+            "start": 7096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgedeckt",
+            "end": 7265,
+            "start": 7256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 7285,
+            "start": 7267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 7363,
+            "start": 7355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitschlichtung",
+            "end": 7394,
+            "start": 7377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Plattform",
+            "end": 7509,
+            "start": 7500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 7600,
+            "start": 7591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beizulegen",
+            "end": 7716,
+            "start": 7706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 7904,
+            "start": 7896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Batteriegesetz",
+            "end": 7934,
+            "start": 7920,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8065,
+            "start": 8064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 8249,
+            "start": 8243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadstoffes",
+            "end": 8337,
+            "start": 8325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Blei",
+            "end": 8395,
+            "start": 8391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicher",
+            "end": 8545,
+            "start": 8539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 8558,
+            "start": 8547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wichtig",
+            "end": 8602,
+            "start": 8595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seite",
+            "end": 8671,
+            "start": 8666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 8781,
+            "start": 8768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 8834,
+            "start": 8832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 8845,
+            "start": 8836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieterinformationen",
+            "end": 8867,
+            "start": 8846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 8877,
+            "start": 8868,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Lieferung\nWir verkaufen und versenden ausschließlich innerhalb der Bundesrepublik Deutschland mit unseren Paketdienstleistern DHL, DPD und transoflex. Die Regellieferzeit ist abhängig von dem von Ihnen gewählten Zahlungsverfahren und Produkten. Die konkreten Lieferzeiten finden Sie in unserem Online-Shop direkt am Produkt. Sollte ein Produkt wider Erwarten nicht lieferbar sein, werden wir Sie umgehend informieren.\nGültigkeit\nWir liefern in der hier genannten Weise. Abweichende Bedingungen des Bestellers können wir nicht anerkennen, auch wenn wir diesen nicht ausdrücklich widersprechen.\nZustandekommen des Kaufvertrags\nSie geben ein verbindliches Angebot ab, wenn Sie den Bestellprozess in unserem Onlineshop komplett durchlaufen. Nachdem Sie Ihre Bestellung abgeschickt haben, senden wir Ihnen eine E-Mail, die den Empfang Ihrer Bestellung bei uns bestätigt und deren Einzelheiten aufführt. Diese Empfangsbestätigung stellt keine Annahme Ihres Angebotes dar, sondern soll Sie nur darüber informieren, dass Ihre Bestellung bei uns eingegangen ist. Der Kaufvertrag kommt erst durch die Zusendung der von Ihnen bestellten Artikel oder eine ausdrückliche Auftragsbestätigung zustande. Der Vertragsabschluss erfolgt ausschließlich in deutscher Sprache. Unsere vielfältige Auswahl an Gratisgeschenken ist ausschließlich für Onlinebestellungen vorbehalten.\nVorbehalt\nWir behalten uns vor, unsere Waren nur in handelsüblichen Mengen abzugeben und die Belieferung von Wiederverkäufern auszuschließen.\nEine Belieferung von Großhändlern ist ausgeschlossen.\nWiderrufsrecht\nWiderrufsbelehrung\nRückgaberecht\nRückgaberecht innerhalb von 14 Tagen nach Ablauf der Widerrufsfrist:  Über das gesetzlich verankerte Widerrufsrecht hinaus gewähren wir Ihnen zusätzlich ein Rückgaberecht. Falls ein Artikel nicht Ihren Erwartungen entspricht, nehmen wir diesen innerhalb von 14 Tagen nach Ablauf der Widerrufsfrist zurück und übernehmen hierfür die Kosten der Rücksendung (siehe unten \"Kostenlose Abholung\"). Der Artikel muss unbenutzt und originalverpackt sein. Bitte haben Sie Verständnis, dass Artikel mit individuellem Werbeaufdruck und Software, wenn die Versiegelung nach der Lieferung entfernt wurde, vom Rückgaberecht ausgeschlossen sind. Sie können von Ihrem Rückgaberecht Gebrauch machen, indem Sie uns über die gewünschte Rückgabe per Post büroshop24 GmbH, Anna-Birle-Straße 3, 55252 Mainz-Kastel oder telefonisch 0800/888 333 2 oder per Telefax 0800/888 333 9 oder per E-Mail-Adresse: kundenservice@bueroshop24.de kontaktieren.\nKostenlose Abholung: Wir holen die Ware für Sie kostenlos, meist schon am nächsten Tag, ab. Zur Vereinbarung eines Termins zur Abholung rufen Sie uns einfach an unter 0800 / 888 333 2 oder senden Sie uns eine E-Mail an kundenservice@bueroshop24.de. Sollte von Ihrer Seite aus eine Abholung einmal nicht möglich sein, melden Sie sich bitte bei uns. Wir finden eine Lösung.\nVersandkosten\nWir berechnen pro Auftrag eine Versandkostenpauschale in Höhe von € 3,99 inkl. MwSt. (€ 3,35 ohne MwSt.). Bei einer Nachnahmelieferung berechnen wir eine Nachnahmegebühr von € 5,95 inkl. MwSt.  (€ 5,- ohne MwSt.).\nSollte Ihre Bestellung in mehrere Pakete aufgeteilt werden, fallen nur einmalig Versandkosten an.\nAlle Artikel, außer jene mit dem Zeichen \"Transport bis Erdgeschoss\" führen wir normalerweise am Lager. Bei einem Bestelleingang bis 17.00 Uhr bringen wir Ihre Artikel noch am gleichen Arbeitstag auf den Versandweg. So wird die Ware fast immer am nächsten Arbeitstag per Paketdienst bei Ihnen angeliefert. Sollte ein Produkt wider Erwarten nicht lieferbar sein, werden wir Sie umgehend informieren.\nFür Artikel mit dem Kennzeichen \"Transport bis Erdgeschoss\" können wir keinen 24-Stunden-Lieferservice gewährleisten. Diese Artikel werden direkt vom Hersteller bis hinter die erste verschließbare Tür im stufenlosen Bereich zu Ihnen gebracht und sind zur Selbstmontage geeignet. Zusätzlich bieten wir Ihnen nach vorheriger Absprache und gegen Berechnung auch einen Aufbauservice bzw. den Transport frei Verwendungsstelle an. Unser Aufbauservice beinhaltet selbstverständlich die Entsorgung aller Verpackungen.\nBitte beachten Sie die Zustellzeiten unseres Paketdienstes (DHL) von Montag bis Samstag. Sollten Sie während dieser Zeit das Paket nur an einer anderen Adresse annehmen können, können Sie es sich z.B. an den Arbeitsplatz oder eine abweichende Lieferadresse liefern lassen. Die Lieferung an eine Packstation ist zurzeit nicht möglich. Um Reklamationen in Ihrem Sinne bearbeiten zu können, bitten wir Sie, etwaige Schäden an Ihnen gelieferten Paketen sofort zu reklamieren.\nZahlungsarten, Preisgestaltung und Rücksendekosten\nSie können bei Bestellungen über unseren Onlineshop zwischen folgenden Zahlarten wählen: PayPal, Sofortüberweisung, Kreditkarte, Nachnahme (nicht bei Artikeln mit dem Kennzeichen \"Transport bis Erdgeschoss\") oder per Vorauskasse. Abweichende Zahlarten behalten wir uns vor. Bei Zahlung mit Kreditkarte erfolgt die Belastung Ihres Kreditkartenkontos bei Bestellung der Ware. Gewerbetreibenden Kunden bieten wir zusätzlich die Zahlung per Rechnung und SEPA-Lastschrift an, Bonität vorausgesetzt. Rechnungen sind innerhalb von 14 Tagen nach Rechnungsdatum ohne Abzug zur Zahlung fällig. Bei Zahlung per SEPA-Lastschrift (weitere Informationen) ziehen wir den Rechnungsbetrag zum Fälligkeitsdatum ein.\nDie Lieferung erfolgt ausschließlich an Adressen innerhalb der Bundesrepublik Deutschland.\nWir beanspruchen pro fälliger Rechnung nach Eintritt des Zahlungsverzugs für die 2. und 3. Mahnung jeweils 4,00 EUR an Mahnspesen, maximal jedoch 8,00 EUR pro Rechnung. Sofern Sie Ihren Zahlungsverpflichtungen aus unseren Lieferungen nicht nachkommen, werden wir nach Durchlaufen unseres Mahnprozesses unsere Forderungen zur Beitreibung an ein Inkassounternehmen abgeben. Es werden automatisch sämtliche weiteren offenen Forderungen sofort zur Zahlung fällig, auch wenn das dort gewährte Zahlungsziel noch nicht überschritten ist. In diesem Zusammenhang übergeben wir auch Ihre Adress-, Bestell- und Zahlungsdaten.\nIm Privatkundenshop verstehen sich alle unsere Preise inklusive der gesetzlichen Mehrwertsteuer. Im Geschäftskundenshop handelt es sich ausschließlich um Nettopreise zzgl. der gesetzlichen Mehrwertsteuer.\nSofern nicht ausdrücklich anders erwähnt, gelten die Preise für die abgebildeten Artikel gemäß Beschreibung, nicht jedoch für Inhalt, Zubehör oder Dekoration.\nDie Sachen, die Sie zurückgeben möchten, werden auf unsere Kosten und Gefahr bei Ihnen abgeholt. Zur Vereinbarung einer Rücksendung/Abholung wenden Sie sich bitte an unseren Kundenservice per E-Mail unter kundenservice@bueroshop24.de oder per Telefon unter 0800/888 333 2. Sollte von Ihrer Seite aus eine Abholung einmal nicht möglich sein, melden Sie sich bitte. Wir finden eine Lösung.\nGarantie\nEs gelten die gesetzlichen Gewährleistungsansprüche.\nDaneben erhalten Sie von büroshop24 GmbH auf unsere Produkte 24 Monate Mindestgarantie ab Beginn der Widerrufsfrist für Material- und Verarbeitungsfehler, die wir entweder durch Reparatur, Gutschrift oder Austauschlieferung beseitigen. Schäden oder Störungen, die auf falsche Bedienung, Gewaltanwendung oder natürlichen Verschleiß zurückzuführen sind, werden durch die Garantie nicht abgedeckt.\nEigentumsvorbehalt\nSämtliche gelieferte Ware bleibt bis zur vollständigen Zahlung unser Eigentum.\nHinweis zur Streitschlichtung\nDie EU-Kommission bietet die Möglichkeit zur Online-Streitbeilegung auf einer von ihr betriebenen Online-Plattform. Diese Online-Plattform ist über den Link https://ec.europa.eu/consumers/odr/ zu erreichen.\nWir sind bemüht, eventuelle Meinungsverschiedenheiten aus unserem Vertrag mit dem Kunden einvernehmlich beizulegen. Darüber hinaus sind wir zu einer Teilnahme an einem Schlichtungsverfahren nicht verpflichtet und können unseren Kunden die Teilnahme an einem solchen Verfahren leider auch nicht anbieten.\nHinweis gemäß Batteriegesetz\nBitte beachten Sie die gesetzliche Verpflichtung zur Rückgabe gebrauchter Batterien und wieder aufladbarer Akkumulatoren (= Akkus). Die auf der Batterie bzw. dem Akku sowie auch auf der Verpackung abgebildete, durchgestrichene Mülltonne sagt aus, dass diese Produkte nicht über den Hausmüll beseitigt werden dürfen. Schadstoffhaltige Produkte enthalten ferner die chemische Bezeichnung des Schadstoffes: Hg steht für Quecksilber, Cd für Cadmium und Pb für Blei. Die von uns vertriebenen Batterien und Akkus nehmen wir auf dem Postweg gerne zurück und stellen eine ordnungsgemäße und schadlose Entsorgung sicher.\nDatenschutz\nDer Schutz Ihrer Daten ist uns sehr wichtig. Ausführliche Informationen finden Sie auf unserer Datenschutz-Seite.\nSelbstverständlich können Sie der Weitergabe und Nutzung Ihrer Daten für Werbezwecke jederzeit widersprechen. Hierzu genügt eine kurze schriftliche Mitteilung an: Anschrift\nAnbieterinformationen\nAnschrift\n\n\n"
+}

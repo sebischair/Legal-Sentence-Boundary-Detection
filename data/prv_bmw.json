@@ -1,0 +1,2027 @@
+{
+    "Annotations": [
+        {
+            "annotation": "DATENSCHUTZHINWEISE",
+            "end": 23,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 176,
+            "start": 171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewahren",
+            "end": 326,
+            "start": 318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anliegen",
+            "end": 424,
+            "start": 416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 593,
+            "start": 587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 791,
+            "start": 786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenverarbeitungsvorgänge",
+            "end": 858,
+            "start": 832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 1073,
+            "start": 1068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 1111,
+            "start": 1104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 1396,
+            "start": 1385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Niederlassungen",
+            "end": 1463,
+            "start": 1448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktiv",
+            "end": 1624,
+            "start": 1619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werksführungen",
+            "end": 1762,
+            "start": 1748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 1866,
+            "start": 1855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 2349,
+            "start": 2338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BMW",
+            "end": 2475,
+            "start": 2472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Reparatur",
+            "end": 2661,
+            "start": 2652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "autorisiert",
+            "end": 2769,
+            "start": 2758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3196,
+            "start": 3190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3376,
+            "start": 3372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 3605,
+            "start": 3598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3807,
+            "start": 3803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 3915,
+            "start": 3904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzhinweise",
+            "end": 4038,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4166,
+            "start": 4160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzusehen",
+            "end": 4298,
+            "start": 4288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzusehen",
+            "end": 4439,
+            "start": 4429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 4495,
+            "start": 4490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fällen",
+            "end": 4590,
+            "start": 4584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4870,
+            "start": 4865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Niederlassung",
+            "end": 4996,
+            "start": 4983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Niederlassung",
+            "end": 5195,
+            "start": 5182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preislisten",
+            "end": 5328,
+            "start": 5317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 5536,
+            "start": 5529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6056,
+            "start": 6051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6279,
+            "start": 6273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sowie",
+            "end": 6421,
+            "start": 6416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 6548,
+            "start": 6541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 6724,
+            "start": 6713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6769,
+            "start": 6763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6946,
+            "start": 6940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontaktdaten",
+            "end": 6964,
+            "start": 6952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 7012,
+            "start": 7005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interessen",
+            "end": 7028,
+            "start": 7018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Präferenzen",
+            "end": 7245,
+            "start": 7234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 7276,
+            "start": 7271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Situation",
+            "end": 7385,
+            "start": 7376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsdaten",
+            "end": 7404,
+            "start": 7391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 7471,
+            "start": 7464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 7497,
+            "start": 7492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kreditkartennummer",
+            "end": 7657,
+            "start": 7639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kommunikation",
+            "end": 7702,
+            "start": 7689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 7881,
+            "start": 7876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Richtlinien",
+            "end": 7961,
+            "start": 7950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interaktionsdaten",
+            "end": 8002,
+            "start": 7985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marktforschungsstudien",
+            "end": 8225,
+            "start": 8203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Identitätsangaben",
+            "end": 8262,
+            "start": 8245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 8359,
+            "start": 8358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 8442,
+            "start": 8439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8618,
+            "start": 8614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Diensten",
+            "end": 8657,
+            "start": 8649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ConnectedDrive",
+            "end": 8770,
+            "start": 8756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einstellungen",
+            "end": 8824,
+            "start": 8811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "CarData",
+            "end": 9062,
+            "start": 9055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeug",
+            "end": 9097,
+            "start": 9089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9153,
+            "start": 9147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeug",
+            "end": 9184,
+            "start": 9176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 9246,
+            "start": 9241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abstandssensor",
+            "end": 9510,
+            "start": 9496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 9652,
+            "start": 9641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9930,
+            "start": 9924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Reichweite",
+            "end": 10439,
+            "start": 10429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 10602,
+            "start": 10597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10838,
+            "start": 10832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 10979,
+            "start": 10971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Qualitätssicherungsmaßnahmen",
+            "end": 11052,
+            "start": 11024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeug",
+            "end": 11180,
+            "start": 11172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Qualitätsverbesserung",
+            "end": 11403,
+            "start": 11382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 11625,
+            "start": 11614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftung",
+            "end": 11675,
+            "start": 11661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückrufaktionen",
+            "end": 11756,
+            "start": 11741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 11870,
+            "start": 11864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12029,
+            "start": 12023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktionen",
+            "end": 12071,
+            "start": 12061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksetzen",
+            "end": 12193,
+            "start": 12181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Innenraumbeleuchtung",
+            "end": 12421,
+            "start": 12401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbringen",
+            "end": 12538,
+            "start": 12528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Internetdiensten",
+            "end": 12942,
+            "start": 12926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Player",
+            "end": 13170,
+            "start": 13164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 13249,
+            "start": 13242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einstellungen",
+            "end": 13456,
+            "start": 13443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "play",
+            "end": 13505,
+            "start": 13501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 13731,
+            "start": 13725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13818,
+            "start": 13812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 13892,
+            "start": 13882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeuginformationen",
+            "end": 14027,
+            "start": 14006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systems",
+            "end": 14115,
+            "start": 14108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musikwiedergabe",
+            "end": 14237,
+            "start": 14222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 14363,
+            "start": 14358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 14464,
+            "start": 14456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 14593,
+            "start": 14591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 14613,
+            "start": 14606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systemen",
+            "end": 14766,
+            "start": 14758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglicht",
+            "end": 14937,
+            "start": 14927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15012,
+            "start": 15006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15145,
+            "start": 15139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 15169,
+            "start": 15162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 15409,
+            "start": 15402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15492,
+            "start": 15486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BMW",
+            "end": 15613,
+            "start": 15610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 15897,
+            "start": 15885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 16081,
+            "start": 16075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Notrufsystem",
+            "end": 16215,
+            "start": 16203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritter",
+            "end": 16236,
+            "start": 16229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieters",
+            "end": 16457,
+            "start": 16448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einfluss",
+            "end": 16521,
+            "start": 16513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstanbieter",
+            "end": 16702,
+            "start": 16688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeugs",
+            "end": 16738,
+            "start": 16729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Endgeräts",
+            "end": 16805,
+            "start": 16796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standortdaten",
+            "end": 17080,
+            "start": 17067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 17131,
+            "start": 17120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 17278,
+            "start": 17267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufbar",
+            "end": 17369,
+            "start": 17361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeugen",
+            "end": 17473,
+            "start": 17463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 17502,
+            "start": 17497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Autohaus",
+            "end": 17680,
+            "start": 17672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 17952,
+            "start": 17943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 18182,
+            "start": 18179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Probefahrtanfrage",
+            "end": 18491,
+            "start": 18474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 18738,
+            "start": 18733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgelesen",
+            "end": 19024,
+            "start": 19014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genutzt",
+            "end": 19165,
+            "start": 19158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 19693,
+            "start": 19685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstützen",
+            "end": 19917,
+            "start": 19905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Service",
+            "end": 20175,
+            "start": 20168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 20288,
+            "start": 20279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 20382,
+            "start": 20375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 20411,
+            "start": 20406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 20651,
+            "start": 20648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 21364,
+            "start": 21361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 21441,
+            "start": 21437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 21558,
+            "start": 21554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21727,
+            "start": 21721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 21907,
+            "start": 21901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Notrufsystem",
+            "end": 22039,
+            "start": 22027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 22709,
+            "start": 22706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 22785,
+            "start": 22781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 22917,
+            "start": 22908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deinstallieren",
+            "end": 23165,
+            "start": 23151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkte",
+            "end": 23244,
+            "start": 23236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 23272,
+            "start": 23267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entwicklungszwecken",
+            "end": 23615,
+            "start": 23596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 23730,
+            "start": 23726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 23986,
+            "start": 23980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 24335,
+            "start": 24330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Partner",
+            "end": 24490,
+            "start": 24483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 24518,
+            "start": 24513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilen",
+            "end": 24792,
+            "start": 24786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuleiten",
+            "end": 24983,
+            "start": 24972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 25215,
+            "start": 25209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 25627,
+            "start": 25616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bieten",
+            "end": 25748,
+            "start": 25742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorgaben",
+            "end": 25915,
+            "start": 25907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 26076,
+            "start": 26070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werkstattprotokolle",
+            "end": 26570,
+            "start": 26551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelöscht",
+            "end": 26658,
+            "start": 26650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Group",
+            "end": 26704,
+            "start": 26699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestalten",
+            "end": 26863,
+            "start": 26854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IFRS",
+            "end": 27056,
+            "start": 27052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenbetreuung",
+            "end": 27080,
+            "start": 27065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 27112,
+            "start": 27107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenbetreuung",
+            "end": 27484,
+            "start": 27469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 27731,
+            "start": 27726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 27844,
+            "start": 27841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzukommen",
+            "end": 28251,
+            "start": 28239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 28736,
+            "start": 28731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identifizieren",
+            "end": 28949,
+            "start": 28935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 29023,
+            "start": 29011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 29052,
+            "start": 29047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 29633,
+            "start": 29627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29744,
+            "start": 29741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BMW",
+            "end": 29854,
+            "start": 29851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontaktinformationen",
+            "end": 29876,
+            "start": 29856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Telefonnummer",
+            "end": 29921,
+            "start": 29908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Präferenzen",
+            "end": 29966,
+            "start": 29955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kommunikationskanal",
+            "end": 30575,
+            "start": 30556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Identifikationsdaten",
+            "end": 30596,
+            "start": 30576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsnummer",
+            "end": 30632,
+            "start": 30618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenhistorie",
+            "end": 30647,
+            "start": 30633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenbetreuung",
+            "end": 31116,
+            "start": 31101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeugnutzungsdaten",
+            "end": 31138,
+            "start": 31117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ConnectedDrive",
+            "end": 31178,
+            "start": 31164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entertainment",
+            "end": 31214,
+            "start": 31201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 31249,
+            "start": 31244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ConnectedDrive",
+            "end": 31363,
+            "start": 31349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zur",
+            "end": 31554,
+            "start": 31551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zur",
+            "end": 31647,
+            "start": 31644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligungserklärung",
+            "end": 31788,
+            "start": 31766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Themen",
+            "end": 31854,
+            "start": 31848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MINI",
+            "end": 32018,
+            "start": 32014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Experience",
+            "end": 32132,
+            "start": 32122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freizeit",
+            "end": 32287,
+            "start": 32279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Card",
+            "end": 32442,
+            "start": 32438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 32599,
+            "start": 32593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 32738,
+            "start": 32730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MyMINI",
+            "end": 33478,
+            "start": 33472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzusehen",
+            "end": 33553,
+            "start": 33543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EU",
+            "end": 33722,
+            "start": 33720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegt",
+            "end": 33789,
+            "start": 33779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 33821,
+            "start": 33816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 33928,
+            "start": 33921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 34170,
+            "start": 34159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systemen",
+            "end": 34565,
+            "start": 34557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 34833,
+            "start": 34830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verpflichtungen",
+            "end": 34905,
+            "start": 34890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 35106,
+            "start": 35100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 35256,
+            "start": 35251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Group",
+            "end": 35302,
+            "start": 35297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Group",
+            "end": 35336,
+            "start": 35331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 35499,
+            "start": 35488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorkommen",
+            "end": 35609,
+            "start": 35600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 35842,
+            "start": 35836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilen",
+            "end": 36004,
+            "start": 35998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hochbrück",
+            "end": 36123,
+            "start": 36114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzusehen",
+            "end": 36226,
+            "start": 36216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "G",
+            "end": 36319,
+            "start": 36318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrzeugidentifikationsnummern",
+            "end": 36564,
+            "start": 36534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritte",
+            "end": 36611,
+            "start": 36605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 36761,
+            "start": 36757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 36917,
+            "start": 36911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 37122,
+            "start": 37108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 37256,
+            "start": 37250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontaktdaten",
+            "end": 37326,
+            "start": 37314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 37442,
+            "start": 37436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 37612,
+            "start": 37606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wünschen",
+            "end": 37855,
+            "start": 37847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vereinbarungen",
+            "end": 38041,
+            "start": 38027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 38138,
+            "start": 38134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 38438,
+            "start": 38432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 38544,
+            "start": 38538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 38588,
+            "start": 38584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 38635,
+            "start": 38630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechtzuerhalten",
+            "end": 38872,
+            "start": 38854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 39326,
+            "start": 39318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 39984,
+            "start": 39979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 40356,
+            "start": 40350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 40421,
+            "start": 40410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standortdaten",
+            "end": 40464,
+            "start": 40451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offenlegen",
+            "end": 40580,
+            "start": 40570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ernst",
+            "end": 40644,
+            "start": 40639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschützt",
+            "end": 40808,
+            "start": 40799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 40996,
+            "start": 40991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 41151,
+            "start": 41148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuhändigen",
+            "end": 41318,
+            "start": 41305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 41516,
+            "start": 41513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 41640,
+            "start": 41634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Endgeräts",
+            "end": 41923,
+            "start": 41914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 42170,
+            "start": 42163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbinden",
+            "end": 42428,
+            "start": 42417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 42605,
+            "start": 42601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 42644,
+            "start": 42641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 42792,
+            "start": 42789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 43019,
+            "start": 43016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entworfen",
+            "end": 43178,
+            "start": 43169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargestellt",
+            "end": 43325,
+            "start": 43314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrags",
+            "end": 43366,
+            "start": 43358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 43723,
+            "start": 43717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüchen",
+            "end": 43919,
+            "start": 43909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüchen",
+            "end": 43959,
+            "start": 43949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 44267,
+            "start": 44261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marketingzwecken",
+            "end": 44323,
+            "start": 44307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehen",
+            "end": 44627,
+            "start": 44613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dabei",
+            "end": 44712,
+            "start": 44707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 44755,
+            "start": 44744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 44933,
+            "start": 44922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 45207,
+            "start": 45201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgestellt",
+            "end": 45341,
+            "start": 45329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vereinbarung",
+            "end": 45482,
+            "start": 45470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchten",
+            "end": 45627,
+            "start": 45620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 45905,
+            "start": 45899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 45978,
+            "start": 45972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 46239,
+            "start": 46233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 46323,
+            "start": 46317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 46687,
+            "start": 46679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 46784,
+            "start": 46774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 46901,
+            "start": 46895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 47111,
+            "start": 47105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 47388,
+            "start": 47385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 47556,
+            "start": 47550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wenden",
+            "end": 47691,
+            "start": 47685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzbehörde",
+            "end": 47788,
+            "start": 47770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 48044,
+            "start": 48041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wenden",
+            "end": 48127,
+            "start": 48121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 48183,
+            "start": 48179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 48362,
+            "start": 48356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "richten",
+            "end": 48553,
+            "start": 48546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betroffenenrechte",
+            "end": 48572,
+            "start": 48555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 48673,
+            "start": 48671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 48708,
+            "start": 48703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 48805,
+            "start": 48796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 49080,
+            "start": 49075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 49143,
+            "start": 49135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 49273,
+            "start": 49266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 49312,
+            "start": 49307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fordern",
+            "end": 49370,
+            "start": 49363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 49597,
+            "start": 49584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 49632,
+            "start": 49627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 49746,
+            "start": 49737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 49933,
+            "start": 49929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehlt",
+            "end": 50086,
+            "start": 50081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 50305,
+            "start": 50292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 50352,
+            "start": 50346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicherzustellen",
+            "end": 50515,
+            "start": 50500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufbewahrungsfristen",
+            "end": 50578,
+            "start": 50558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verteidigen",
+            "end": 50647,
+            "start": 50636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 50704,
+            "start": 50699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 50924,
+            "start": 50914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 51061,
+            "start": 51052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verteidigen",
+            "end": 51199,
+            "start": 51188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 51336,
+            "start": 51326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 51383,
+            "start": 51378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 51511,
+            "start": 51501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 51669,
+            "start": 51656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermitteln",
+            "end": 51841,
+            "start": 51830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DSGVO",
+            "end": 51879,
+            "start": 51874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 52132,
+            "start": 52126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 52195,
+            "start": 52184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benötigen",
+            "end": 52429,
+            "start": 52420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betroffenenrechten",
+            "end": 52475,
+            "start": 52457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzukommen",
+            "end": 52557,
+            "start": 52545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehen",
+            "end": 52716,
+            "start": 52708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betroffenenrechten",
+            "end": 52780,
+            "start": 52762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 52920,
+            "start": 52912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 53058,
+            "start": 53047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufsichtsbehörden",
+            "end": 53092,
+            "start": 53075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ernst",
+            "end": 53145,
+            "start": 53140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzureichen",
+            "end": 53350,
+            "start": 53338,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BMW DATENSCHUTZHINWEISE.\nDer hohe Anspruch, den Sie an die Eigenschaften unserer Produkte und Dienstleistungen stellen, ist für uns die Leitlinie für den Umgang mit Ihren Daten. Unser Bestreben ist es dabei, die Basis für eine vertrauensvolle Geschäftsbeziehung mit unseren Kunden und Interessenten zu schaffen und zu bewahren. Die Vertraulichkeit und Integrität Ihrer personenbezogenen Daten ist uns ein besonderes Anliegen. Wir werden Ihre Daten daher sorgfältig, zweckgebunden bzw. entsprechend Ihrer Zustimmung und gemäß den gesetzlichen Bestimmungen zum Datenschutz verarbeiten und nutzen.\nDie BMW Datenschutzhinweise beschreiben in den nachfolgenden Abschnitten, wie die BMW AG im Vertrieb Deutschland personenbezogene Daten ihrer Kunden und Interessenten erhebt, verarbeitet und nutzt.\nWer ist die verantwortliche Stelle für Datenverarbeitungsvorgänge?\nDie BMW AG (im Folgenden als \"BMW\" bzw. \"Wir\" bezeichnet), Petuelring 130, 80788 München ist Verantwortlicher im Sinne der EU-Datenschutzgrundverordnung („DSGVO“) für die Verarbeitung Ihrer personenbezogenen Daten. Die BMW AG hat ihren Sitz in München.\nDie BMW AG ist Muttergesellschaft der BMW Group und koordiniert durch den Organisationsbereich BMW Vertrieb Deutschland die Geschäftstätigkeit für den Vertrieb von BMW Automobilen, Original BMW Teilen, Zubehör und Accessoires und die damit verbundenen Dienstleistungen in Deutschland. Zum BMW Vertrieb Deutschland gehören auch die BMW Niederlassungen.\nFür die Betreuung von Kunden und Interessenten in Deutschland sind nach Maßgabe des BMW Vertrieb Deutschland auch andere Organisationsbereiche der BMW AG aktiv. Dies sind im Wesentlichen die Bereiche BMW ConnectedDrive, BMW Online Shops, ChargeNow, BMW Welt inkl. BMW Museum und BMW Werksführungen. Der Vertrieb von BMW Motorrädern erfolgt durch die BMW AG Organisationeinheit BMW Motorrad Deutschland.\nDer BMW Vertrieb Deutschland autorisiert BMW Vertragshändler und BMW Vertragswerkstätten – im weiteren BMW Partner genannt, soweit keine Differenzierung notwendig ist –, leistet Unterstützung und Betreuung in technischen und nicht-technischen Fragen für Kunden, Interessenten, Vertragspartner und weitere Interessengruppen, betreibt die Website www.bmw.de, bietet dort die Möglichkeit des Online Accounts Mein BMW bzw. BMW ConnectedDrive an und bewirbt die Marke BMW in Deutschland.\nSoweit nicht anders angegeben, sind BMW Partner rechtlich und wirtschaftlich selbständige Unternehmen und nicht Teil von BMW. Sie nutzen als Lizenznehmer die Marke BMW je nach Autorisierung für den Vertrieb von BMW Automobilen, Original BMW Teilen und Zubehör sowie für die markenbezogene Wartung und Reparatur.\nDie BMW Niederlassungen werden vom BMW Vertrieb Deutschland analog zu den BMW Partnern jeweils autorisiert.\nBMW ist Verantwortlicher für Ihre Daten, die über die Website www.bmw.de, Ihren Online Account Mein BMW, die BMW ConnectedDrive Dienste, die Websites der BMW Niederlassungen (z. B. www.bmw-münchen.de), die Kunden-/Interessentenportale (z. B. www.meinbmw.de), Ihre Kontakte mit der BMW Kundenbetreuung (nachfolgend gemeinsam als BMW Kundenbetreuung bezeichnet) und im Rahmen von BMW Direktmarketingmaßnahmen verarbeitet werden. Auch verarbeitet BMW Ihre Daten, sofern ihr diese von BMW Partnern übermittelt werden, wenn und soweit die hierfür notwendigen datenschutzrechtlichen Voraussetzungen erfüllt sind.\nBMW Partner sind für die Verarbeitung derjenigen personenbezogenen Daten verantwortlich, die Sie selbst ihnen im Zusammenhang mit Ihren Anliegen und der Kundenbetreuung in den Bereichen Verkauf und Service zur Verfügung stellen. Auch verarbeiten BMW Partner Ihre Daten, sofern ihnen diese vom BMW Vertrieb Deutschland übermittelt werden, wenn und soweit die hierfür notwendigen datenschutzrechtlichen Voraussetzungen erfüllt sind.\nIn diesen Datenschutzhinweisen werden auch einige Verarbeitungen Ihrer Daten durch BMW Partner beschrieben. Allerdings erheben BMW Partner möglicherweise weitere personenbezogene Daten und verfügen über eigene Datenschutzhinweise. In diesem Fall können Sie den Datenschutzhinweisen des jeweiligen BMW Partners entnehmen, wie Ihre Daten dort verwendet werden.\nDie Kontaktdaten der BMW Kundenbetreuung des BMW Vertrieb Deutschland und des Konzerndatenschutzes der BMW AG sind hier einzusehen.\nDie Kontaktdaten der BMW Motorrad Kundenbetreuung von BMW Motorrad Deutschland und des Konzerndatenschutzes der BMW AG sind hier einzusehen.\nWann erhebt und verarbeitet BMW personenbezogene Daten?\nBMW erhebt und verarbeitet Ihre personenbezogenen Daten unter anderem in den folgenden Fällen:\n    Wenn Sie uns auf direktem Wege kontaktieren, z. B. über unsere Website, über den Chat auf unserer Website, über die BMW Kundenbetreuung oder die BMW Niederlassungen, und Sie sich z. B. für unsere Produkte oder Dienstleistungen interessieren oder ein sonstiges Anliegen haben.\n    Wenn Sie bei uns direkt Produkte kaufen (z. B. im BMW Lifestyle Shop auf unserer Website oder in einer BMW Niederlassung).\n    Wenn Sie bei uns direkt Dienstleistungen kaufen (z. B. BMW ConnectedDrive im BMW ConnectedDrive Store auf unserer Website oder Wartung bzw. Reparatur Ihres Fahrzeugs in einer BMW Niederlassung).\n    Wenn Sie Informationen zu unseren Produkten und Dienstleistungen anfordern (z. B. Übermittlung von Broschüren oder Preislisten).\n    Wenn Sie uns auf unsere Direktmarketingaktivitäten antworten, z. B. wenn Sie eine Antwortkarte ausfüllen oder wenn Sie Ihre Daten online auf einer unserer Websites (www.bmw.de oder Landingpage) abgeben.\n    Wenn uns Ihre personenbezogenen Daten von BMW Partnern oder Dritten übermittelt werden, wenn und soweit die hierfür notwendigen datenschutzrechtlichen Voraussetzungen erfüllt sind, z. B. Ihre Einwilligung vorliegt oder Sie der Weitergabe Ihrer Daten an BMW zum Zwecke der Kundenbetreuung (z. B. Ihre Erkennung im Falle Ihrer Kontaktierung der BMW Kundenbetreuung) und schriftlichen Ansprache (z. B. Versand des BMW Willkommenspakets nach Fahrzeugkauf) in Kenntnis eines Widerspruchsrechts nicht widersprochen haben.\n    Wenn uns Ihre Fahrzeugdaten (mit der Fahrzeug-Identifikationsnummer) im Rahmen der Serviceprozesse und Wartungs- und Reparaturdienstleistungen unserer BMW Vertragswerkstätten und BMW Niederlassungen übermittelt werden.\n    Wenn uns andere BMW Group Konzerngesellschaften sowie unsere Geschäftspartner Daten über Sie zulässigerweise zur Verfügung stellen sowie\n    wenn uns Dritte (z. B. zertifizierte Adressanbieter) personenbezogene Daten über Sie zulässigerweise zur Verfügung stellen.\nBitte helfen Sie uns dabei, Ihre Angaben aktuell zu halten, indem Sie uns über Änderungen bei Ihren personenbezogenen Daten – insbesondere zu Ihren Kontaktdaten – informieren.\nWelche Daten können über Sie erhoben werden?\nDie folgenden Kategorien von personenbezogenen Daten können über die zahlreichen in diesen Datenschutzhinweisen beschriebenen Dienstleistungen und Kontaktkanäle erhoben werden:\n    Kontaktdaten: Name, Anschrift, Telefonnummer, E-Mail-Adresse.\n    Interessen: Von Ihnen bereitgestellte Informationen über Ihre Interessenbereiche, z. B. die für Sie interessanten Fahrzeuge, bevorzugter BMW Partner oder bevorzugte BMW Niederlassung, Hobbies und weitere persönliche Präferenzen.\n    Weitere persönliche Daten: Von Ihnen bereitgestellte Informationen zu Geburtsdatum, Bildung, Haushaltsgröße oder beruflicher Situation.\n    Vertragsdaten: Kundennummer, Vertragsnummer, gebuchte BMW ConnectedDrive Dienste.\n    Online Account Daten: Account Informationen zu Mein BMW, BMW ConnectedDrive, Kunden- und Interessentenportale, von Ihnen hinterlegte Zahlungsinformationen (z. B. Kreditkartennummer).\n    Nutzung von Websites und Kommunikation: Informationen darüber, wie Sie die Website nutzen und ob Sie Mitteilungen von uns öffnen oder weiterleiten, darunter über Cookies und andere Tracking-Technologien erhobene Daten. Weitere Informationen dazu erhalten Sie hier in unseren BMW Cookie Richtlinien.\n    Transaktions- und Interaktionsdaten: Informationen zu Käufen von Produkten und Dienstleistungen, Interaktionen mit der BMW Kundenbetreuung (Ihre Anfragen und Beschwerden) und BMW Partnern oder BMW Niederlassungen sowie die Teilnahme an Marktforschungsstudien.\n    Bonitäts- und Identitätsangaben: Daten zur Feststellung Ihrer Identität, z. B. Führerscheine oder Zulassungsbescheinigung Teil 1; außerdem Informationen zu Transaktionen, etwaig nicht geleistete Zahlungen an uns; dazu Informationen zu Betrugsfällen, strafbaren Handlungen, verdächtigen Transaktionen, politisch exponierten Personen und Sanktionslisten, in denen Ihre Daten enthalten sind.\n    Nutzung von BMW Apps und Diensten: Informationen zu Ihrer Nutzung von BMW Apps (auf Ihrem mobilem Endgerät) und der Dienste von BMW ConnectedDrive.\n    Angaben zu Fahrzeugfunktionen und -einstellungen: Informationen über die Funktionen und aktuellen Einstellungen Ihres (anhand der Fahrzeug-Identifikationsnummer identifizierten) Fahrzeugs, z. B. BMW TeleServices, BMW ConnectedDrive Dienste mit BMW Online und Meine Info oder BMW CarData.\n    Technische Daten zum Fahrzeug: Daten, die im Fahrzeug erzeugt bzw. verarbeitet werden.\n    Betriebsdaten im Fahrzeug\n    Zum Betrieb des Fahrzeuges verarbeiten Steuergeräte Daten.\n    Dazu gehören zum Beispiel:\n    - Fahrzeugstatus-Informationen (z. B. Geschwindigkeit, Bewegungsverzögerung, Querbeschleunigung, Radumdrehungszahl, Anzeige geschlossener Sicherheitsgurte),\n    - Umgebungszustände (z. B. Temperatur, Regensensor, Abstandssensor).\n    In der Regel sind diese Daten flüchtig und werden nicht über die Betriebszeit hinaus gespeichert und nur im Fahrzeug selbst verarbeitet. Steuergeräte enthalten häufig Datenspeicher (unter anderem auch der Fahrzeugschlüssel). Diese werden eingesetzt, um Informationen über Fahrzeugzustand, Bauteilbeanspruchung, Wartungsbedarfe sowie technische Ereignisse und Fehler temporär oder dauerhaft dokumentieren zu können.\n    Gespeichert werden je nach technischer Ausstattung:\n    - Betriebszustände von Systemkomponenten (z. B. Füllstände, Reifendruck, Batteriestatus),\n    - Störungen und Defekte in wichtigen Systemkomponenten (z. B. Licht, Bremsen),\n    - Reaktionen der Systeme in speziellen Fahrsituationen (z. B. Auslösen eines Airbags, Einsetzen der Stabilitätsregelungssysteme),\n    - Informationen zu fahrzeugschädigenden Ereignissen,\n    - bei Elektrofahrzeugen Ladezustand der Hochvoltbatterie, geschätzte Reichweite.\n    In besonderen Fällen (z. B. wenn das Fahrzeug eine Fehlfunktion erkannt hat) kann es erforderlich sein, Daten zu speichern, die eigentlich nur flüchtig wären.\n    Wenn Sie Serviceleistungen (z. B. Reparaturleistungen, Wartungsarbeiten) in Anspruch nehmen, können, sofern erforderlich, die gespeicherten Betriebsdaten zusammen mit der Fahrzeugidentifikationsnummer ausgelesen und genutzt werden. Das Auslesen kann durch Mitarbeiter des BMW Partners oder der BMW Niederlassung oder Dritte (z. B. Pannendienste) aus dem Fahrzeug erfolgen. Gleiches gilt für Gewährleistungsfälle und Qualitätssicherungsmaßnahmen.\n    Das Auslesen erfolgt in der Regel über den gesetzlich vorgeschriebenen Anschluss für OBD („On-Board-Diagnose“) im Fahrzeug. Die ausgelesenen Betriebsdaten dokumentieren technische Zustände des Fahrzeugs oder einzelner Komponenten, helfen bei der Fehlerdiagnose, der Einhaltung von Gewährleistungsverpflichtungen und bei der Qualitätsverbesserung. Diese Daten, insbesondere Informationen über Bauteilbeanspruchung, technische Ereignisse, Fehlbedienungen und andere Fehler, werden hierfür zusammen mit der Fahrzeugidentifikationsnummer gegebenenfalls an BMW übermittelt. Darüber hinaus unterliegt BMW der Produkthaftung. Auch dafür verwendet BMW Betriebsdaten aus Fahrzeugen, etwa für Rückrufaktionen. Diese Daten können auch dazu genutzt werden, Ansprüche des Kunden auf Gewährleistung und Nachbesserung zu prüfen.\n    Fehlerspeicher im Fahrzeug können im Rahmen von Reparatur- oder Servicearbeiten oder auf Ihren Wunsch hin durch einen Servicebetrieb zurückgesetzt werden.\n    Komfort- und Infotainment-Funktionen\n    Sie können Komforteinstellungen und Individualisierungen im Fahrzeug speichern und jederzeit ändern bzw. zurücksetzen.\n    Dazu gehören in Abhängigkeit von der jeweiligen Ausstattung z. B.:\n    - Einstellungen der Sitz- und Lenkradpositionen,\n    - Fahrwerks- und Klimatisierungseinstellungen,\n    - Individualisierungen wie Innenraumbeleuchtung.\n    Sie können im Rahmen der gewählten Ausstattung selbst Daten in Infotainment-Funktionen des Fahrzeugs einbringen. Dazu gehören in Abhängigkeit von der jeweiligen Ausstattung z. B.:\n    - Multimediadaten, wie Musik, Filme oder Fotos zur Wiedergabe in einem integrierten Multimediasystem,\n    - Adressbuchdaten zur Nutzung in Verbindung mit einer integrierten Freisprecheinrichtung oder einem integrierten Navigationssystem,\n    - Eingegebene Navigationsziele,\n    - Daten über die Inanspruchnahme von Internetdiensten.\n    Diese Daten für Komfort- und Infotainment-Funktionen können lokal im Fahrzeug gespeichert werden oder sie befinden sich auf einem Gerät, das Sie mit dem Fahrzeug verbunden haben (z. B. Smartphone, USB-Stick oder MP3-Player). Sofern Sie Daten selbst eingegeben haben, können Sie diese jederzeit löschen.\n    Eine Übermittlung dieser Daten aus dem Fahrzeug heraus erfolgt ausschließlich auf Ihren Wunsch, insbesondere im Rahmen der Nutzung von Online-Diensten entsprechend der von Ihnen gewählten Einstellungen.\n    Smartphone-Integration z. B. Apple car play\n    Sofern Ihr Fahrzeug entsprechend ausgestattet ist, können Sie Ihr Smartphone oder ein anderes mobiles Endgerät mit dem Fahrzeug verbinden, so dass Sie dieses über die im Fahrzeug integrierten Bedienelemente steuern können. Dabei können Bild und Ton des Smartphones über das Multimediasystem ausgegeben werden. Gleichzeitig werden an Ihr Smartphone bestimmte Informationen übertragen. Dazu gehören je nach Art der Integration beispielsweise Positionsdaten, Tag-/ Nachtmodus und weitere allgemeine Fahrzeuginformationen. Bitte informieren Sie sich in der Betriebsanleitung des Fahrzeugs/Infotainment-Systems.\n    Die Integration ermöglicht eine Nutzung ausgewählter Apps des Smartphones, wie z. B. Navigation oder Musikwiedergabe. Eine weitere Interaktion zwischen Smartphone und Fahrzeug, insbesondere ein aktiver Zugriff auf Fahrzeugdaten, erfolgt nicht. Die Art der weiteren Datenverarbeitung wird durch den Anbieter der jeweils verwendeten App bestimmt. Ob und welche Einstellungen Sie dazu vornehmen können, hängt von der jeweiligen App und dem Betriebssystem Ihres Smartphones ab.\n    Online-Dienste\n    Sofern Ihr Fahrzeug über eine Mobilfunknetzanbindung verfügt, ermöglicht diese den Austausch von Daten zwischen Ihrem Fahrzeug und weiteren Systemen. Die Mobilfunknetzanbindung wird durch eine fahrzeugeigene Sende- und Empfangseinheit oder über ein von Ihnen eingebrachtes mobiles Endgerät (z. B. Smartphone) ermöglicht. Über diese Mobilfunknetzanbindung können Online-Funktionen genutzt werden. Dazu zählen Online-Dienste und Applikationen/ Apps, die Ihnen durch den Hersteller oder durch andere Anbieter bereitgestellt werden.\n    BMW Online-Dienste \n    Bei BMW Online-Diensten werden die jeweiligen Funktionen an geeigneter Stelle (z. B. Betriebsanleitung, BMW Driver’s Guide App, BMW Websites) durch BMW beschrieben und die damit verbundenen datenschutzrechtlichen Informationen gegeben. Zur Erbringung von Online-Diensten können personenbezogene Daten verwendet werden. Der Datenaustausch hierzu erfolgt über eine geschützte Verbindung, z. B. mit den dafür vorgesehenen IT-Systemen von BMW. Eine über die Bereitstellung von Diensten hinausgehende Erhebung, Verarbeitung und Nutzung personenbezogener Daten erfolgt ausschließlich auf Basis einer gesetzlichen Erlaubnis, z. B. bei einem gesetzlich vorgeschriebenen Notrufsystem, einem Vertrag oder aufgrund einer Einwilligung.\n    Sie können die (zum Teil kostenpflichtigen) Dienste und Funktionen und in manchen Fällen auch die gesamte Mobilfunknetzanbindung des Fahrzeugs aktivieren oder deaktivieren lassen. Hiervon ausgenommen sind – soweit technisch möglich – gesetzlich vorgeschriebene Funktionen und Dienste, wie etwa einem Notrufsystem.\n    Dienste Dritter\n    Sofern Sie von der Möglichkeit Gebrauch machen, Online-Dienste anderer Anbieter (Dritter) zu nutzen, unterliegen diese Dienste der Verantwortung sowie den Datenschutz- und Nutzungsbedingungen des jeweiligen Anbieters. Auf die hierbei ausgetauschten Inhalte hat BMW keinen Einfluss.\n    Bitte informieren Sie sich deshalb über Art, Umfang und Zweck der Erhebung und Verwendung personenbezogener Daten im Rahmen von Diensten Dritter beim jeweiligen Dienstanbieter.\n    Daten zur Ortung des Fahrzeugs: Angaben zum Standort Ihres Fahrzeugs oder Ihres mobilen Endgeräts. BMW kann diese Daten im Zuge der Bereitstellung der BMW ConnectedDrive Dienste und der BMW Connected App erhalten und verwendet diese in Übereinstimmung mit den ausführlichen Leistungsbeschreibungen der jeweiligen Dienste sowie den Sicherheitsvorkehrungen für Standortdaten.\n\tZu welchen Zwecken werden Ihre Daten verarbeitet?\nDie im Zusammenhang mit dem Vertragsabschluss oder der Erbringung der Dienste erhobenen Daten werden zu nachfolgend genannten Zwecken verarbeitet. Eine Erläuterung zum Anwendungsbereich der verfügbaren Rechtsgrundlagen ist hier abrufbar.\nA.    Erfüllung der vertraglichen Pflicht im Rahmen von Vertrieb, Wartung und Reparatur von Fahrzeugen\n(Art. 6 Abs. 1 lit. b) DSGVO)\nBMW, BMW Niederlassungen und BMW Partner erheben, verarbeiten und nutzen personenbezogene Daten im Rahmen der Verkaufsprozesse oder bei einer Wartung bzw. Reparatur im Autohaus.\nIm Rahmen der Verkaufsprozesse werden personenbezogene Daten bei BMW Vertragshändlern sowie BMW Niederlassungen für die Abwicklung des Kaufvertrags, zur Durchführung von Probefahrten und zur Übermittlung von Informationen im Zusammenhang mit Ihrem Fahrzeugkauf verwendet.\nIm Rahmen dieser Tätigkeiten werden nachfolgend genannte Datenkategorien verarbeitet:\n    Kontaktdaten (Name, Vorname, Adresse, E-Mail-Adresse etc.)\n    Accountdaten (BMW ConnectedDrive oder Mein BMW Account, Bankverbindung, etc.)\nBMW, BMW Niederlassungen und BMW Partner nutzen Ihre personenbezogenen Daten zur Ansprache i. R. der Vertragsabwicklung (z. B. Fahrzeugbestellung, Werkstatt-/Reparaturauftrag, Buchung BMW ConnectedDrive Dienste) oder für Abwicklung eines von Ihnen formulierten Anliegens (z. B. Angebots-, Probefahrtanfrage). Zu allen Aspekten der Vertragsabwicklung oder der Abwicklung eines Anliegens sprechen wir Sie ohne gesonderte Einwilligung z. B. schriftlich, telefonisch, per Messenger Dienste, per E-Mail an, je nachdem, welche Kontaktdaten Sie angegeben haben.\nIm Rahmen der Wartungs- und Reparaturprozesse bzw. Dienstleistungen bei den BMW Vertragswerkstätten und BMW Niederlassungen werden für den Fahrzeugservice relevante technische Daten des Fahrzeugs mit speziellen Diagnosegeräten aus den verbauten elektronischen Steuergeräten ausgelesen. Diese Daten werden in der Werkstatt von geschulten Technikern zur Diagnose und Behebung etwaiger Funktionsstörungen verarbeitet und genutzt. Diese technischen Daten zum Fahrzeug setzen sich im Wesentlichen aus\n    Fahrzeugstammdaten (z. B. Fahrzeug-Identifikationsnummer, Fahrzeugtyp, Produktionsdatum, Fahrzeugausstattung),\n    Fahrzeugzustandsdaten (Messwerte wie z. B. Kilometerstand),\n    Fehlerspeichereinträgen (z. B. Fehlfunktion Fahrtrichtungsanzeiger),\n    Belastungskollektiven,\n    Softwareständen sowie\n    Service- und Werkstattdaten (z. B. Servicebedarfe, durchgeführte Arbeiten, verbaute Ersatzteile, Gewährleistungsfälle, Werkstattprotokolle)\nzusammen.\nAuf die vorstehenden Informationen kann durch BMW zugegriffen werden, um bei technischen oder sonstigen Herausforderungen bei der Leistungserfüllung durch die BMW Vertragswerkstätten und BMW Niederlassungen zu unterstützen.\nDie voranstehend genannten Verantwortlichen erhalten darüber hinaus möglicherweise in begrenztem Umfang Daten zur Ortung des Fahrzeugs, soweit dies zum Zwecke einer Vertragserfüllung erforderlich ist (z. B. im Rahmen der Pannenhilfe des BMW Mobilen Service). Die Daten werden ausschließlich in Übereinstimmung mit den Sicherheitsvorkehrungen für Standortdaten verwendet.\nB.    Erfüllung der vertraglichen Pflicht zur Erbringung digitaler fahrzeugbezogener Dienste\n(Art. 6 Abs. 1 lit. b) DSGVO)\nZum Zweck der Erfüllung des zwischen Ihnen und BMW ggf. geschlossenen ConnectedDrive Vertrags erbringt BMW verschiedene Dienste, wie z. B. BMW Intelligenter Notruf, Concierge Service, Real Time Traffic Information (RTTI), TeleServices etc.\nFür die Erbringung dieser Dienste werden nachfolgende, gegebenenfalls personenbezogene Informationen aus dem Fahrzeug zur Erbringung durch BMW und beauftragte Serviceprovider verarbeitet:\n    Fahrzeug Statusdaten (Laufleistung, Batteriespannung, Tür und Klappenstatus, etc.)\n    Positions- und Bewegungsdaten (Zeit, Position, Geschwindigkeit, etc.)\n    Fahrzeug Wartungsdaten (Fälligkeit nächster Service, Ölstand, Bremsenverscheiß, etc.)\n    Dynamische Verkehrsinformationen (Staus, Hindernisse, Schilder, Parkplätze, etc.)\n    Umwelt Informationen (Temperatur, Regen, etc.)\n    Nutzerprofil (konfigurierte News-, E-Mail-, Audio-Provider, etc.)\n    Sensorinformationen (Radar, Ultraschall, Gestik, Sprache, etc.)\nDie datenschutzrechtlichen Hinweise von BMW ConnectedDrive finden Sie hier; eine vollständige Liste und detaillierte Beschreibung der Dienste und der jeweils verwendeten Daten finden Sie hier.\nDie verarbeiteten personenbezogenen Daten werden automatisch nach 4 Wochen gelöscht, sofern Sie nicht für die Erbringung des speziellen Dienstes länger benötigt werden.\nSie können die (zum Teil kostenpflichtigen) Dienste und Funktionen und in manchen Fällen auch die gesamte Mobilfunknetzanbindung des Fahrzeugs aktivieren oder deaktivieren lassen. Hiervon ausgenommen sind – soweit technisch möglich – gesetzlich vorgeschriebene Funktionen und Dienste, wie etwa ein Notrufsystem.\nZur Bereitstellung der Dienste der BMW Connected App werden nachfolgende personenbezogene Daten verarbeitet:\n    Fahrzeug Statusdaten (Laufleistung, Batteriespannung, Tür und Klappenstatus, etc.)\n    Positions- und Bewegungsdaten des Fahrzeugs und mobilen Endgeräts (Zeit, Position, Geschwindigkeit, etc.)\n    Fahrzeug Wartungsdaten (Fälligkeit nächster Service, Ölstand, Bremsenverscheiß, etc.)\n    Dynamische Verkehrsinformationen (Staus, Hindernisse, Schilder, Parkplätze, etc.)\n    Umwelt Informationen (Temperatur, Regen, etc.)\n    Nutzerprofil (konfigurierte News-, E-Mail-, Audio-Provider, etc.)\n    Sensorinformationen (Radar, Ultraschall, Gestik, Sprache, etc.)\nDie datenschutzrechtlichen Hinweise der BMW Connected App finden Sie hier. Positions- und Bewegungsdaten werden ausschließlich in Übereinstimmung mit den Sicherheitsvorkehrungen für Standortdaten verwendet.\nWenn Sie diese Verarbeitung Ihrer personenbezogenen Daten nicht wünschen, können Sie – soweit technisch vorgesehen – Ihre Zustimmungen innerhalb der BMW Connected App widerrufen oder die BMW Connected App auf Ihrem mobilen Endgerät deinstallieren.\nC.    Sicherung der Produktqualität, Forschung und Entwicklung neuer Produkte\n(Art. 6 Abs.1 lit. f) DSGVO)\nBMW verwendet die erhaltenen Daten (einschließlich Standortdaten), die durch die Erbringung von Dienstleistungen durch BMW oder die BMW Niederlassungen selbst oder durch BMW Partner erhoben werden, in de-personalisierter Form für die Sicherstellung der Qualität von Produkten und Dienstleistungen sowie zu Forschungs- und Entwicklungszwecken. „De-personalisiert“ bedeutet, dass die Daten nicht mehr unmittelbar auf Sie oder Ihr Fahrzeug zurückzuführen sind.\nDiese Verarbeitung beruht auf dem berechtigten Interesse der BMW AG, die hohen Erwartungen unserer Kunden bezüglich hochwertiger Produkte und Dienstleistungen zu erfüllen und dem Kundenwunsch nach neu entwickelten, innovativen Lösungen Rechnung zu tragen. Zum Schutz Ihrer Interessen werden – neben der De-personalisierung – nach Bedarf zusätzliche Sicherheitsvorkehrungen und Kontrollen umgesetzt, z. B. strenge Datenzugriffsbeschränkungen, Einschränkungen der Datennutzung, Sicherheitsmaßnahmen, Aufbewahrungsfristen sowie Datensparsamkeitsprinzipien, wie die ausschließliche Erhebung relevanter Daten.\nD.    Erfüllung der Vertriebs-, Service- und Verwaltungsprozesse der BMW AG (inkl. BMW Niederlassungen), nationaler Vertriebsgesellschaft und BMW Partner\n(Art. 6 Abs.1 lit. f) DSGVO)\nUm das Kundenerlebnis und die Zusammenarbeit mit den BMW Partnern und die Kundenbetreuung durch die BMW Niederlassungen fortlaufenden zu optimieren, erstellen wir auf Basis von Vertragsinformationen Auswertungen und Berichte, die wir mit dem zuständigen BMW Partner teilen. Diese Auswertungen dienen vornehmlich dazu, entsprechende Maßnahmen (z. B. Schulungen für das Verkaufs- und Servicepersonal) zur Verbesserung des Antrags- und Vertriebsprozesses einzuleiten. Wir werden die zuvor beschriebenen Berichte ausschließlich in aggregierter und anonymisierter Form erstellen, das heißt, dass die Empfänger der Berichte aus den enthaltenen Daten keine Rückschlüsse auf Sie als Person ziehen können.\nTeile der erhobenen fahrzeugspezifischen Daten werden außerdem - soweit erforderlich - zur Erfüllung der Serviceprozesse (z. B. Reparatur, Gewährleistung, Kulanz) von BMW, BMW Niederlassungen sowie von BMW Vertragswerkstätten und nationalen BMW Group Vertriebsgesellschaften (inkl. deren Niederlassungen) im europäischen Wirtschaftsraum und weiteren Ländern, die im BMW Qualitätsbrief benannt sind, verarbeitet. Diese Verarbeitung liegt im berechtigten Interesse von BMW, unseren Kunden einen bestmöglichen Serviceprozess zu bieten. Bisweilen erfolgt die Verarbeitung auch im Zusammenhang mit gesetzlichen Vorgaben (z. B. Reparatur und Wartungsinformationen aufgrund wettbewerbsrechtlicher Vorgaben). Die Verarbeitung der technischen Daten erfolgt zum Schutz der Privatsphäre unserer Kunden grundsätzlich fahrzeugbezogen und ohne direkte Verbindung zum Kunden.\nFolgende Datenkategorien werden dazu verwendet:\n    Fahrzeugstammdaten (z. B. Fahrzeug-Identifikationsnummer, Fahrzeugtyp, Produktionsdatum, Fahrzeugausstattung),\n    Fahrzeugzustandsdaten (Messwerte wie z. B. Kilometerstand),\n    Fehlerspeichereinträge (z. B. Fehlfunktion Fahrtrichtungsanzeiger),\n    Belastungskollektive,\n    Softwarestände sowie\n    Service- und Werkstattdaten (z. B. Servicebedarfe, durchgeführte Arbeiten, verbaute Ersatzteile, Gewährleistungsfälle, Werkstattprotokolle)  \nDie technischen Fahrzeugdaten werden am Ende des Lebenszyklus des Fahrzeugs gelöscht.\nDie BMW AG ist ein Unternehmen der BMW Group. Wir verarbeiten Ihre Daten teilweise um die Verwaltung der verschiedenen Unternehmen innerhalb der BMW Group möglichst effizient und erfolgreich zu gestalten. Das betrifft beispielsweise die gemeinsame Konzernrechnungslegung nach internationalen Rechnungslegungsvorschriften für Unternehmen (wie den International Financial Reporting Standards – IFRS).\nE.    Kundenbetreuung\n(Art. 6 Abs. 1 lit. b, f) DSGVO )\nBMW, BMW Niederlassungen und BMW Partner nutzen Ihre personenbezogenen Daten zur Ansprache i. R. der Vertragsabwicklung s.o. (z. B. Fahrzeugbestellung, Werkstatt-/Reparaturauftrag, Buchung BMW ConnectedDrive Dienste) oder für die Abwicklung eines von Ihnen formulierten Anliegens (z. B. Angebots-, Probefahrtanfragen, Anfragen und Beschwerden an die BMW Kundenbetreuung). Zu allen Aspekten der Vertragsabwicklung oder der Abwicklung eines Anliegens sprechen wir Sie ohne gesonderte Einwilligung z. B. schriftlich, telefonisch, per Messenger Dienste, per E-Mail an, je nachdem, welche Kontaktdaten Sie angegeben haben.\nAuch kontaktieren wir Sie, wenn Ihr Fahrzeug von einer sog. Technischen Aktion oder einem Rückruf betroffen ist. Da es sich bei Technischen Aktionen um Maßnahmen mit meist hoher Bedeutung (z. B. Vermeidung der Gefährdung von Insassen, Vermeidung von Schäden am Fahrzeug) handelt, kontaktieren wir Sie direkt oder indirekt über unsere BMW Partner oder unsere BMW Niederlassungen unter Verwendung der von Ihnen angegebenen Kontaktdaten, um unserer gesetzlich geforderten Aufklärungs- und Informationspflicht nachzukommen.\nAuch kontaktieren wir Sie in sorgfältig abgewogenen Fällen mit werblicher Kommunikation (z. B. postalischer Versand Willkommenspaket nach einem Fahrzeugkauf oder Brief mit Hinweis auf das Ende des Gewährleistungszeitraums und Angebot eines Fahrzeug-Checks), wenn und soweit die hierfür notwendigen datenschutzrechtlichen Voraussetzungen erfüllt sind und Sie der Nutzung Ihrer Daten zum Zwecke der schriftlichen Ansprache in Kenntnis eines Widerspruchsrechts nicht widersprochen haben.\nBMW verarbeitet Ihre personenbezogenen Daten auf dieser Basis auch, um Ihr Erlebnis mit der BMW Kundenbetreuung weiter zu optimieren, Sie z. B. im Rahmen Ihrer Kontaktaufnahme mit uns eindeutig zu identifizieren.\nF.    Werbliche Kommunikation sowie Marktforschung aufgrund Einwilligung\n(Art. 6 Abs. 1 lit. a) DSGVO )\nSofern Sie separat Ihre Einwilligung in eine weitergehende Nutzung ihrer personenbezogenen Daten erteilt haben, dürfen Ihre personenbezogenen Daten gemäß dem in der Einwilligung beschriebenen Umfang, zum Beispiel zu Werbezwecken (ausgewählte Angebote zu Produkten und Dienstleistungen der BMW Group) und mit Ihrem gesonderten Einverständnis auch mit hoher Personalisierung auf Basis eines individuellen Kundenprofils und/oder Marktforschung, durch die BMW AG genutzt und gegebenenfalls an bestimmte Tochtergesellschaften der BMW AG und ausgewählte BMW Partner weitergeben werden. Details hierzu ergeben sich aus der jeweiligen Einwilligungserklärung, die jederzeit für Sie widerruflich ist.\nWenn Sie die entsprechende Einwilligung in werbliche Kommunikation gegeben haben, erhebt und verarbeitet BMW:\nKontaktinformationen,  z. B.\nName, Adresse, E-Mail, Telefonnummer\nErgänzende persönliche Angaben / Präferenzen, z. B.\n    Firmenname, Ihre Beziehung zu dieser Firma, sofern Sie ein Geschäftsfahrzeug nutzen oder unser Ansprechpartner für diese Firma sind\n    Ein möglicher Zeitpunkt, zu dem Sie ein neues Fahrzeug benötigen und Ihr Interesse an BMW Fahrzeugen und Services sowie Ihre Anfragen von Informationen und Probefahrten etc.\n    Bevorzugte(r) bzw. aktuelle(r) BMW Partner oder BMW Niederlassung\n    Fahrzeug-Identifikationsnummer und weitere Attribute, die hiermit verknüpft sind\n    Interessen und Hobbies\n    Status Ihrer Datenschutz-Einwilligungserklärung und ausgewählter bzw. bevorzugter Kommunikationskanal\nIdentifikationsdaten, z. B.\nKundennummer, Vertragsnummer\nKundenhistorie, z. B.\n    Fahrzeugkaufdaten inkl. Modell, Konfigurationen, Kaufdatum, Zulassungsdatum, Kennzeichen, Bestelldatum, Auslieferungsdatum, Halter, Listenpreis\n    bei BMW Partnern und BMW Niederlassungen erhobene Daten (wie Kontaktzeitpunkt und Kontaktart, Servicehistorie)\n    Kampagnenhistorie und –resonanz (Kunden- und Interessentenbetreuungsprogramme und Direktmarketingmaßnahmen)\n    Teilnahme an Events\n    Anfrage und Beschwerdehistorie bei der BMW Kundenbetreuung\nFahrzeugnutzungsdaten, z. B.\nVertragsdaten BMW ConnectedDrive, z. B. Buchung Online Entertainment\nApp / Website / Social Media Daten\nsoweit Sie sich registriert oder eingeloggt haben, Ihre Account Daten, z. B. bei Mein BMW oder BMW ConnectedDrive.\nBMW verwendet die so erhobenen Verkaufs- und Kundenbetreuungsinformationen zur:\n    Bestimmung, welche Informationen und Angebote am wahrscheinlichsten von Interesse für Sie sind, sowie zur\n    Kontaktaufnahme mit Ihnen im Zusammenhang mit diesen Informationen und Angeboten und zur\n    werblichen Kommunikation zu Produkten und Dienstleistungen der BMW Group in Übereinstimmung mit Ihrer Datenschutz-Einwilligungserklärung. Dies umfasst insbesondere Informationen der BMW AG zu den Themen:\n    Fahrzeuge, Original Teile und Zubehör, Lifestyle Produkte, Fahrerausstattung, Accessoires und ConnectedDrive Dienste für die Marken BMW, BMW Motorrad und MINI.\n    BMW Financial Services, Alphabet Fuhrparkmanagement, ParkNow, ChargeNow, DriveNow und BMW Driving Experience.\n    Exklusive Kundenvorteile, die BMW mit Lifestyle Kooperationspartnern zusammengestellt hat, z. B. Hotels, Restaurants, Kultur, Design, Sport, Freizeit.\n    Finanz- und Versicherungsdienstleistungen, die BMW mit ausgewählten Kooperationspartnern zusammengestellt hat, z. B. BMW Schutzbrief, BMW Credit Card.\nIn der Datenschutz-Einwilligungserklärung bestimmen Sie außerdem die Kommunikationskanäle (z.B. Post, Telefon, E-Mail), auf denen wir Sie ansprechen dürfen.\nWeiter entscheiden Sie hier über Ihre Einwilligung zur Bildung eines individuellen Kundenprofils, um personalisierte Angebote zu erhalten.\nIn die Profilbildung können, soweit vorhanden, folgende von Ihnen angegebene oder durch Ihre Nutzung von Produkten oder Services der BMW AG, bestimmter Tochtergesellschaften sowie der Vertragshändler und -werkstätten entstandene Daten einfließen: Kontaktinformationen (wie z. B. Name, Adresse, E-Mail); ergänzende persönliche Angaben/ Präferenzen (wie z. B. bevorzugter Händler, Hobbies); Identifikations-Daten (wie z. B. Kundennummer, Vertragsnummer); Kundenhistorie (wie z. B. Erhalt von Angeboten, Fahrzeugkaufdaten, Händlerinformationen); Fahrzeugdaten (wie z. B. Nutzungsdaten der BMW Connected App: Kilometerstand, Reichweite); App-/ Website-/ Social-Media-Daten (wie z. B. Nutzungsdaten aus den Online-Accounts Mein BMW oder MyMINI). Eine abschließende Liste mit Daten dieser Kategorien ist hier einzusehen.\nDie Datenverarbeitung zu Werbezwecken erfolgt in der Regel in Deutschland, es erfolgt keinesfalls ein Transfer von personenbezogenen Daten in ein Land außerhalb der EU.\nG.    Erfüllung rechtlicher Verpflichtungen, denen BMW unterliegt\n(Art. 6 Abs. 1 lit. c, f) DSGVO)\nBMW wird personenbezogene Daten zudem dann verarbeiten, wenn eine rechtliche Verpflichtung hierzu besteht. Das kann etwa der Fall sein, wenn wir Sie kontaktieren müssen, weil Ihr Fahrzeug von einem Rückruf oder einer Technischen Aktion betroffen ist.\nErhobene Daten werden auch im Rahmen der Sicherstellung des Betriebs von IT Systemen verarbeitet. Unter Sicherstellung werden u. a. nachfolgende Tätigkeiten verstanden:\n    Sicherung und Wiederherstellung von in IT Systemen verarbeiteten Daten,\n    Logging und Monitoring von Transaktionen, um korrekte Funktion der IT Systeme zu prüfen,\n    Erkennung und Abwehr von unbefugtem Zugriff auf personenbezogene Daten,\n    Incident und Problem Management zur Behebung von Störungen in IT Systemen.\nErhobene Daten werden zudem im Rahmen des internen Compliance Managements verarbeitet, bei dem wir beispielsweise prüfen, ob Sie im Rahmen eines Vertragsabschlusses ausreichend beraten wurden und dass der BMW Partner alle gesetzlichen Verpflichtungen eingehalten hat.\nBMW unterliegt einer Vielzahl an weiteren gesetzlichen Verpflichtungen. Um diesen Verpflichtungen nachzukommen verarbeiten wir Ihre Daten im erforderlichen Umfang und geben diese gegebenenfalls im Rahmen gesetzlicher Meldepflichten an die verantwortlichen Behörden weiter.\nWeiterhin verarbeiten wir Ihre Daten gegebenenfalls im Fall eines Rechtsstreits, wenn der Rechtsstreit eine Verarbeitung Ihrer Daten notwendig macht.\nH. Datenübermittlung innerhalb der BMW Group\nDie BMW AG ist Teil der BMW Group. Teilweise übersenden wir nach sorgfältiger Überprüfung Ihre Daten an andere Gesellschaften der BMW Group, die diese als eigene Verantwortliche weiter verarbeiten. Eine solche Datenübermittlung kann etwa unter den folgenden Umständen und für die folgenden Zwecke vorkommen:\nBitte beachten Sie, dass dies keine vollständige oder abschließende Aufzählung der Datenübermittlungsvorgänge innerhalb der BMW Group ist, sondern lediglich Beispiele sind, welche die Datenübermittlungen transparenter machen sollen.\n    Wenn Sie uns zuvor Ihre ausdrückliche Einwilligung gegeben haben, Ihre Daten für Werbe- oder Marketingzwecke mit anderen Unternehmen der BMW Group zu teilen. Dies betrifft die BMW M GmbH, Gesellschaft für individuelle Automobile und BMW Driving Experience, Garching-Hochbrück. Die Kontaktdaten sowie Informationen über einen etwaigen Datenschutzbeauftragten sind hier einzusehen.\n    Zur Erfüllung der Vertriebs-, Service- und Verwaltungsprozesse der BMW AG, vgl. Punkt G.\n    Im Zuge der Konzernberichterstattung übermitteln wir gegebenenfalls Daten, z. B. übermitteln wir bei geleasten Fahrzeugen im Zuge der Bewertung der Restwerte rechnungsrelevante Informationen zu den jeweiligen Fahrzeugidentifikationsnummern.\nI.    Datenübermittlung an ausgewählte Dritte\nDaten werden u.a. an folgende Unternehmen weitergeleitet, wenn und soweit die hierfür notwendigen datenschutzrechtlichen Voraussetzungen erfüllt sind:\n    An BMW Partner (z. B. um Ihre Anfrage nach einer Probefahrt oder einer Service Dienstleistung zu erfüllen und konkrete Angebote unterbreiten zu können). Ihre Anfragen werden hierbei priorisiert an Ihren BMW Wunschpartner, den BMW Partner, bei dem Sie Produkte oder Dienstleistungen bezogen haben, den Partner, mit dem Sie in Kontakt stehen, weitergeleitet. Haben Sie noch keinen uns bekannten Kontakt zu einem BMW Partner leiten wir Ihre Anfrage an einen BMW Partner in Ihrer Region weiter.\n    An BMW Partner, zur Datenaktualisierung z. B. Ihrer Kontaktdaten. Die Daten zur Datenaktualisierung werden dabei an alle BMW Partner weitergeleitet, die Sie im Adressbestand führen.\n    An sorgfältig ausgewählte und geprüfte Dienstleister und Geschäftspartner, mit denen wir zusammenarbeiten, um Ihnen Produkte und Dienstleistungen anbieten zu können. Dies tun wir für die BMW AG nur im Rahmen der strengen Auflagen einer Datenverarbeitung im Auftrag oder auf Basis Ihrer ausdrücklichen Zustimmung (z. B. Weiterleitung an den Versicherungsträger des BMW Schutzbriefes, sofern Sie dies wünschen).\n    Bei Verkauf eines oder mehrerer Geschäftsfelder der BMW AG an ein Unternehmen, an das wir unsere Rechte übertragen, unter Einhaltung jeglicher mit Ihnen bestehenden Vereinbarungen.\n    An sonstige Dritte (z. B. öffentliche Stellen) soweit wir dazu gesetzlich verpflichtet sind.\nÜber unsere BMW CarData Plattform haben Sie zudem die Möglichkeit, uns anzuweisen, wenn personenbezogene Daten, die im Rahmen der Bereitstellung der ConnectedDrive Dienste von uns erhoben wurden, an von Ihnen ausgewählte autorisierte Dritte (z. B. Ihre Kfz-Versicherung) weitergegeben werden sollen. Dies geschieht ausschließlich basierend auf Ihrer Zustimmung, die Sie jederzeit wieder widerrufen können. Weitere Informationen dazu finden Sie hier.\nWie schützen wir Ihre personenbezogenen Daten?\nWir setzen verschiedene Sicherheitsmaßnahmen wie Verschlüsselungs- und Authentifizierungswerkzeuge nach dem aktuellen Stand der Technik ein, um die Sicherheit, Integrität und Verfügbarkeit Ihrer Daten zu schützen und aufrechtzuerhalten.\nEin hundertprozentiger Schutz vor unberechtigtem Zugriff kann bei Datenübertragungen über das Internet oder eine Website nicht garantiert werden, aber wir und unsere Dienstleister und Geschäftspartner bemühen uns nach besten Kräften darum, Ihre personenbezogenen Daten im Einklang mit den geltenden Datenschutzvorschriften durch physische, elektronische und verfahrensorientierte Sicherheitsvorkehrungen nach dem aktuellen Stand der Technik zu schützen. Unter anderem setzen wir folgende Maßnahmen ein:\n    Strenge Kriterien für die Berechtigung zum Zugriff auf Ihre Daten nach dem „Need-to-Know-Prinzip“ (Beschränkung auf möglichst wenige Personen) und ausschließlich für den angegebenen Zweck,\n    Weitergabe erhobener Daten ausschließlich in verschlüsselter Form,\n    Speicherung vertraulicher Daten, z. B. Kreditkartendaten ausschließlich in verschlüsselter Form,\n    Firewall-Absicherung von IT-Systemen zum Schutz vor unbefugtem Zugriff, z. B. durch Hacker und\n    permanente Überwachung der Zugriffe auf IT-Systeme zur Erkennung und Unterbindung einer missbräuchlichen Verwendung personenbezogener Daten.\nFalls Sie von uns ein Passwort erhalten oder selbst eines vergeben haben, das Ihnen Zugang zu bestimmten Bereichen unserer Website oder zu anderen von uns betriebenen Portalen, Apps oder Diensten bietet, sind Sie für die Geheimhaltung dieses Passworts sowie für die Einhaltung sämtlicher sonstiger Sicherheitsverfahren verantwortlich, über die wir Sie in Kenntnis setzen. Wir bitten Sie insbesondere, Ihr Passwort niemandem mitzuteilen.\nSicherheitsvorkehrungen für Standortdaten\nBestimmte Dienste können nur angeboten werden, wenn Sie Ihren Standort oder den Standort Ihres Fahrzeugs offenlegen. Wir nehmen die Vertraulichkeit dieser Standortdaten sehr ernst.\nDaher werden Ihre Standortdaten (einschließlich Daten, auf die im Rahmen der Fahrzeugwartung zugegriffen wird) mit den folgenden Sicherheitsvorkehrungen geschützt:\n    Sie werden nur so lange in einer auf Sie oder Ihr Fahrzeug zurück verfolgbaren Form gespeichert, wie es zur Erfüllung des Verwendungszwecks erforderlich ist, dem Sie zugestimmt haben.\n    Eine Datenerhebung und der Zugriff darauf in dieser Form erfolgt nur dann, wenn dies zur Erbringung der angeforderten Dienstleistung erforderlich ist.\n    Eine Datenerhebung und der Zugriff darauf in dieser Form erfolgt auch soweit wir gesetzlich dazu verpflichtet sind, die Daten zu speichern und/oder auszuhändigen.\n    Daten zur Ortung des Fahrzeugs und Daten zur Ortung eines / Ihres mobilen Endgeräts sind nur dann miteinander verknüpft, wenn dies zur Erbringung der angeforderten Dienstleistung notwendig ist.\n    Jegliche sonstige Verwendung von Standortdaten zu Analysezwecken erfolgt an Datensätzen, die zuvor anonymisiert wurden.\nWir, Ihre BMW Niederlassung und Ihr BMW Partner haben möglicherweise Zugriff auf die Daten zur Ortung des Fahrzeugs und die BMW AG hat über die von ihr bereitgestellten Dienste (z. B. BMW ConnectedDrive) möglicherweise Zugriff auf die Daten zur Ortung des / Ihres mobilen Endgeräts.\nSie erhalten beim Kauf des Fahrzeugs oder bei der Aktivierung oder Konfiguration der BMW ConnectedDrive Dienste oder der BMW Connected App eine ausführliche Beschreibung der übermittelten Standortdaten zur Erbringung standortspezifischer Dienste.\nÜber das BMW ConnectedDrive Portal, die BMW Connected App oder direkt im Fahrzeug – soweit technisch möglich – können Sie einstellen, ob diese Daten weiterhin von uns erhoben und verarbeitet werden dürfen, und damit die zukünftige Datenerhebung unterbinden. Bitte beachten Sie, dass wir unsere Dienste möglicherweise in bestimmten Aspekten nicht mehr erbringen können, wenn die Erhebung der Standortdaten durch Sie eingeschränkt wird.\nWie lange bewahren wir Ihre Daten auf?\nWir werden Ihre Daten nur so lange aufbewahren, wie dies für die jeweiligen betreffenden Zwecke, für die wir Ihre Daten verarbeiten, notwendig ist. Falls wir Daten für mehrere Zwecke verarbeiten, werden sie automatisch gelöscht oder in einem Format gespeichert, das keine direkten Rückschlüsse auf Ihre Person zulässt, sobald der letzte spezifische Zweck erfüllt worden ist. Zur Sicherstellung, dass alle Ihre Daten im Einklang mit dem Prinzip der Datenminimierung wieder gelöscht werden, hat BMW ein internes Löschkonzept entworfen. Die grundsätzlichen Prinzipien, nach denen dieses Löschkonzept die Löschung Ihrer personenbezogenen Daten vorsieht, sind im Folgenden dargestellt.\nVerwendung zur Erfüllung eines Vertrags\nZur Erfüllung vertraglicher Verpflichtungen können von Ihnen erhobene Daten so lange aufbewahrt werden, wie der Vertrag in Kraft ist, sowie abhängig vom Charakter und der Tragweite des Vertrages 6 oder 10 Jahre darüber hinaus, um den gesetzlichen Aufbewahrungspflichten zu entsprechen und um eventuelle Anfragen oder Ansprüche nach Vertragsablauf zu klären.\nDarüber hinaus gibt es Verträge zur Lieferung von Produkten und Dienstleistungen, die längere Aufbewahrungsfristen notwendig machen, siehe auch nachfolgend „Verwendung zur Prüfung von Ansprüchen“.\nVerwendung zur Prüfung von Ansprüchen\nDaten, die nach unserem Ermessen notwendig sein werden, um Ansprüche an uns zu prüfen, abzuwehren oder um gegen Sie, uns oder Dritte eine strafrechtliche Verfolgung einzuleiten oder Ansprüche vorzubringen, können von uns so lange aufbewahrt werden, wie ein entsprechendes Verfahren angestrengt werden könnte.\nVerwendung zur Kundenbetreuung und zu Marketingzwecken\nZur Kundenbetreuung und zu Marketingzwecken können die von Ihnen erhobenen Daten 3 bis 10 Jahre nach der Erhebung aufbewahrt werden, es sei denn, Sie wünschen die Löschung dieser Daten und es bestehen keine vertraglichen oder gesetzlichen Aufbewahrungspflichten, die diesem Löschverlangen entgegenstehen.\nWem geben wir international Zugriff auf Ihre Daten und wie schützen wir diese dabei?\nBMW ist ein global agierendes Unternehmen. Personenbezogene Daten werden durch BMW Mitarbeiter, nationale Vertriebsgesellschaften, BMW Partner und von uns beauftragte Dienstleister bevorzugt innerhalb der EU verarbeitet.\nSollten Daten in Ländern außerhalb der EU verarbeitet werden, stellt BMW über EU Standard Verträge inklusive geeigneter technischer und organisatorischer Maßnahmen sicher, dass Ihre personenbezogenen Daten entsprechend dem europäischen Datenschutzniveau verarbeitet werden.\nFür einige Länder außerhalb der EU, wie z. B. Kanada und Schweiz, hat die EU schon ein vergleichbares Datenschutzniveau festgestellt. Aufgrund des vergleichbaren Datenschutzniveaus bedarf die Datenübermittlung in diese Länder keiner besonderen Genehmigung oder Vereinbarung.\nNehmen Sie hier Kontakt mit uns auf, wenn Sie die konkreten Schutzvorkehrungen für die Weitergabe Ihrer Daten in andere Länder einsehen möchten.\nBMW greift zur Unterstützung bei der Bereitstellung der aufgeführten Dienstleistungen und Verwendungszwecke auf eine Reihe von Dienstleistern zurück, die im Rahmen der strengen Auflagen einer datenschutzrechtlichen Datenverarbeitung im Auftrag von der BMW AG beauftragt werden.\nWie können Sie Ihre Datenschutzeinstellungen online einsehen und ändern?\nSie können Ihre Einstellungen für die Verwendung Ihrer Daten in BMW Online Accounts über die entsprechenden Optionen in Ihrem Online Account Mein BMW (soweit verfügbar), in Ihrem BMW ConnectedDrive Account oder in der BMW Connected App jederzeit selbst ändern.\nSie können auf die folgenden Daten zugreifen und diese, falls möglich, auch ändern:\n    Einwilligung in werbliche Kommunikation – hier können Sie (soweit verfügbar) Ihre gewünschten Kommunikationswege (Ansprache per Post, E-Mail etc.) wählen und der Verwendung von statistischen Verfahren zur Erstellung eines individuellen Kundenprofils zustimmen, um auf Sie zugeschnittene, personalisierte Angebote zu Produkten und Dienstleistungen zu erhalten.\n    BMW CarData – hier können Sie Ihre Fahrzeugdaten einsehen und herunterladen bzw. übertragen.\n    BMW ConnectedDrive Account – hier können Sie Ihre Detaileinstellungen zu BMW ConnectedDrive einsehen und ändern. Manche Einstellungen zu BMW ConnectedDrive können nur über die BMW Connected App oder nur im Fahrzeug verändert werden, hierzu bitten wir Sie, die entsprechenden Optionen in der App oder im Fahrzeug zu nutzen.\nBei Fragen zur Verwendung Ihrer personenbezogenen Daten durch uns oder zur Änderung dieser können Sie sich auch an die BMW Kundenbetreuung wenden – entweder per E-Mail unter kundenbetreuung@bmw.de oder telefonisch unter der Nummer +49 89 1250-16000 (täglich 08:00 – 20:00 Uhr).\nDie Einstellungen zur Verwendung Ihrer Daten durch BMW Partner können in Ihrem Online Account, Bereich Datenschutzportal der BMW AG, allerdings nicht geändert werden. Für eine solche Änderung oder bei Fragen zur Verwendung Ihrer Daten müssen Sie sich daher direkt an den jeweiligen BMW Partner wenden.\nKontakt mit uns, Ihre Datenschutzrechte und Ihr Recht auf Beschwerde bei der Datenschutzbehörde\nBei Fragen zur Verwendung Ihrer personenbezogenen Daten durch uns wenden Sie sich am besten zuerst an die BMW Kundenbetreuung – entweder per E-Mail unter kundenbetreuung@bmw.de oder telefonisch unter der Nummer +49 89 1250-16000 (täglich 08:00 – 20:00 Uhr).\nDarüber hinaus können Sie sich an den zuständigen Datenschutzbeauftragten wenden. Eine Liste der Datenschutzbeauftragten finden Sie hier.\nAls von der Verarbeitung Ihrer Daten betroffene Person können Sie nach der DSGVO sowie nach anderen einschlägigen Datenschutzbestimmungen bestimmte Rechte bei uns geltend machen. Der folgende Abschnitt enthält Erläuterungen über Ihre Betroffenenrechte nach der DSGVO. Abhängig von Art und Umfang Ihrer Anfrage werden wir Sie bitten, diese schriftlich an uns zu richten.\nBetroffenenrechte\nNach der DSGVO stehen Ihnen gegenüber BMW insbesondere die folgenden Rechte als betroffene Person zu:\nRecht auf Auskunft (Art. 15 DSGVO): Sie können von uns jederzeit Informationen über Ihre Daten, die wir über Sie halten, verlangen. Diese Auskunft betrifft unter anderem die von uns verarbeiteten Datenkategorien, für welche Zwecke wir diese verarbeiten, die Herkunft der Daten, falls wir diese nicht direkt von Ihnen erhoben haben, und gegebenenfalls die Empfänger, an die wir Ihre Daten übermittelt haben. Sie können von uns eine kostenlose Kopie Ihrer Daten erhalten. Sollten Sie Interesse an weiteren Kopien haben, behalten wir uns das Recht vor, Ihnen die weiteren Kopien in Rechnung zu stellen.\nRecht auf Berichtigung (Art. 16 DSGVO): Sie können von uns die Berichtigung Ihrer Daten fordern. Wir werden angemessene Maßnahmen unternehmen, um Ihre Daten, die wir über Sie halten und laufend verarbeiten, richtig, vollständig und aktuell zu halten, basierend auf den aktuellsten uns zur Verfügung stehenden Informationen.\nRecht auf Löschung (Art. 17 DSGVO): Sie können von uns die Löschung Ihrer Daten verlangen, sofern hierfür die rechtlichen Voraussetzungen vorliegen. Dies kann gemäß Art. 17 DSGVO etwa dann der Fall sein, wenn:\n    die Daten für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht länger erforderlich sind;\n    Sie Ihre Einwilligung, die Grundlage der Datenverarbeitung ist, widerrufen und es an einer anderweitigen Rechtsgrundlage für die Verarbeitung fehlt;\n    Sie Widerspruch gegen die Verarbeitung Ihrer Daten einlegen und keine vorrangigen berechtigten Gründe für die Verarbeitung vorliegen, oder Sie gegen die Datenverarbeitung zu Zwecken der Direktwerbung widersprechen;\n    die Daten unrechtmäßig verarbeitet wurden;\n    die Verarbeitung nicht notwendig ist, um die Einhaltung einer gesetzlichen Verpflichtung, die von uns die Verarbeitung Ihrer Daten erfordert, sicherzustellen; insbesondere im Hinblick auf gesetzliche Aufbewahrungsfristen; um Rechtsansprüche geltend zu machen, auszuüben oder zu verteidigen.\nRecht auf Einschränkung der Verarbeitung (Art. 18 DSGVO): Sie können von uns die Einschränkung der Verarbeitung Ihrer Daten verlangen, falls:\n    Sie die Richtigkeit der Daten bestreiten und zwar für den Zeitraum, den wir benötigen, um die Richtigkeit der Daten zu überprüfen;\n    die Verarbeitung unrechtmäßig ist und Sie die Löschung Ihrer Daten ablehnen und stattdessen die Einschränkung der Nutzung verlangen;\n    wir Ihre Daten nicht länger benötigen, Sie diese aber benötigen, um Rechtsansprüche geltend zu machen, auszuüben oder zu verteidigen;\n    Sie Widerspruch gegen die Verarbeitung eingelegt haben, solange noch nicht feststeht, ob unsere berechtigten Gründe Ihre überwiegen.\nRecht auf Datenübertragbarkeit (Art. 20 DSGVO): Auf Ihren Antrag hin werden wir Ihre Daten – soweit dies technisch möglich ist – an einen anderen Verantwortlichen übertragen. Dieses Recht steht Ihnen allerdings nur zu, sofern die Datenverarbeitung auf Ihrer Einwilligung beruht oder erforderlich ist, um einen Vertrag durchzuführen. Anstatt eine Kopie Ihrer Daten zu erhalten, können Sie uns auch bitten, dass wir die Daten direkt an einen anderen, von Ihnen konkretisierten Verantwortlichen übermitteln.\nRecht auf Widerspruch (Art. 21 DSGVO): Sie können der Verarbeitung Ihrer Daten aus Gründen jederzeit widersprechen, die sich aus Ihrer besonderen Situation ergeben, sofern die Datenverarbeitung auf Ihrer Einwilligung oder auf unseren berechtigten Interessen oder denen eines Dritten beruht. In diesem Fall werden wir Ihre Daten nicht länger verarbeiten. Letzteres gilt nicht, sofern wir zwingende schutzwürdige Gründe für die Verarbeitung nachweisen können, die Ihre Interessen überwiegen oder wir Ihre Daten zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen.\nFristen zur Erfüllung von Betroffenenrechten\nWir bemühen uns grundsätzlich, allen Anfragen innerhalb von 30 Tagen nachzukommen. Diese Frist kann sich jedoch aus Gründen gegebenenfalls verlängern, die sich auf das spezifische Betroffenenrecht oder die Komplexität Ihrer Anfrage beziehen.\nAuskunftsbeschränkung bei der Erfüllung von Betroffenenrechten\nIn bestimmten Situationen können wir Ihnen aufgrund gesetzlicher Vorgaben möglicherweise keine Auskunft über sämtliche Ihrer Daten erteilen. Falls wir Ihren Auskunftsantrag in einem solchen Fall ablehnen müssen, werden wir Sie zugleich über die Gründe der Ablehnung informieren.\nBeschwerde bei Aufsichtsbehörden\nDie BMW AG nimmt Ihre Bedenken und Rechte sehr ernst. Sollten Sie aber der Ansicht sein, dass wir Ihren Beschwerden oder Bedenken nicht hinreichend nachgekommen sind, haben Sie das Recht, eine Beschwerde bei einer zuständigen Datenschutzbehörde einzureichen.\n\n"
+}

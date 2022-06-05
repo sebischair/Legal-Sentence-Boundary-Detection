@@ -1,0 +1,785 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Anbieter",
+            "end": 32,
+            "start": 24,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 111,
+            "start": 108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abschließen",
+            "end": 376,
+            "start": 365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 438,
+            "start": 430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 565,
+            "start": 562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 630,
+            "start": 617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 664,
+            "start": 655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Website",
+            "end": 768,
+            "start": 761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 855,
+            "start": 848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugeben",
+            "end": 988,
+            "start": 979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1086,
+            "start": 1076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1211,
+            "start": 1209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 1271,
+            "start": 1262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 1505,
+            "start": 1501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwendungseignung",
+            "end": 1552,
+            "start": 1534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modalitäten",
+            "end": 1684,
+            "start": 1673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beispielfotos",
+            "end": 1796,
+            "start": 1783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veranschaulichung",
+            "end": 1910,
+            "start": 1893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 2082,
+            "start": 2073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artikel",
+            "end": 2138,
+            "start": 2131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2255,
+            "start": 2252,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2369,
+            "start": 2368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fernabsatz",
+            "end": 2419,
+            "start": 2409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 2468,
+            "start": 2454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 2526,
+            "start": 2512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 2781,
+            "start": 2776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 2889,
+            "start": 2886,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3123,
+            "start": 3122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrechts",
+            "end": 3252,
+            "start": 3237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 3264,
+            "start": 3258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Porto",
+            "end": 3442,
+            "start": 3437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandinformationen",
+            "end": 3548,
+            "start": 3528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 3580,
+            "start": 3572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 3698,
+            "start": 3692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstbelieferungsvorbehalt",
+            "end": 3753,
+            "start": 3726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeiträume",
+            "end": 3871,
+            "start": 3862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werktage",
+            "end": 3942,
+            "start": 3934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzögerung",
+            "end": 4288,
+            "start": 4277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 4337,
+            "start": 4327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4577,
+            "start": 4574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 4767,
+            "start": 4760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 4924,
+            "start": 4910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstatten",
+            "end": 5105,
+            "start": 5090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5258,
+            "start": 5254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 5381,
+            "start": 5369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 5451,
+            "start": 5436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5504,
+            "start": 5498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 5546,
+            "start": 5540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 5641,
+            "start": 5635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuteilen",
+            "end": 5885,
+            "start": 5874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 6124,
+            "start": 6114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6409,
+            "start": 6406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eingangsbestätigung",
+            "end": 6518,
+            "start": 6499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 6619,
+            "start": 6616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwort",
+            "end": 6694,
+            "start": 6686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 6803,
+            "start": 6797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einstehen",
+            "end": 6899,
+            "start": 6890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermeiden",
+            "end": 7030,
+            "start": 7021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 7094,
+            "start": 7088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltungsrechte",
+            "end": 7144,
+            "start": 7122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahlweise",
+            "end": 7178,
+            "start": 7169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 7194,
+            "start": 7180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kreditkartenzahlung",
+            "end": 7278,
+            "start": 7259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 7412,
+            "start": 7405,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7523,
+            "start": 7522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 7639,
+            "start": 7625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 7736,
+            "start": 7728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungsdatum",
+            "end": 7799,
+            "start": 7785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkürzt",
+            "end": 7943,
+            "start": 7935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sorgen",
+            "end": 8004,
+            "start": 7998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 8221,
+            "start": 8216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 8344,
+            "start": 8338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herleiten",
+            "end": 8506,
+            "start": 8497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 8641,
+            "start": 8627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 8671,
+            "start": 8665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzulagern",
+            "end": 8795,
+            "start": 8784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedienen",
+            "end": 8872,
+            "start": 8864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "00",
+            "end": 9032,
+            "start": 9030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 9120,
+            "start": 9113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9214,
+            "start": 9210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fordern",
+            "end": 9458,
+            "start": 9451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 9532,
+            "start": 9521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9625,
+            "start": 9622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 9646,
+            "start": 9632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 9712,
+            "start": 9700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadensersatz",
+            "end": 10080,
+            "start": 10066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10350,
+            "start": 10347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 10514,
+            "start": 10501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusicherungen",
+            "end": 10548,
+            "start": 10535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugeben",
+            "end": 10659,
+            "start": 10650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10684,
+            "start": 10677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrlässigkeit",
+            "end": 10827,
+            "start": 10813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 11051,
+            "start": 11034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 11241,
+            "start": 11231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 11557,
+            "start": 11553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verrichtungsgehilfen",
+            "end": 11682,
+            "start": 11662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 11707,
+            "start": 11689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 11792,
+            "start": 11784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 11902,
+            "start": 11892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benachrichtigen",
+            "end": 12029,
+            "start": 12014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abtretungsverbot",
+            "end": 12052,
+            "start": 12036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustimmen",
+            "end": 12213,
+            "start": 12204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachweist",
+            "end": 12322,
+            "start": 12313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsansprüche",
+            "end": 12387,
+            "start": 12363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 12425,
+            "start": 12423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12679,
+            "start": 12676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abwicklung",
+            "end": 12746,
+            "start": 12736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 12765,
+            "start": 12751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 12916,
+            "start": 12911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bearbeiten",
+            "end": 13015,
+            "start": 13005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 13134,
+            "start": 13127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seite",
+            "end": 13327,
+            "start": 13322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 13364,
+            "start": 13361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 13425,
+            "start": 13415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmethoden",
+            "end": 13676,
+            "start": 13660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 13763,
+            "start": 13761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abbrechen",
+            "end": 13844,
+            "start": 13835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeiten",
+            "end": 13946,
+            "start": 13924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstext",
+            "end": 13964,
+            "start": 13952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 14029,
+            "start": 14018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 14114,
+            "start": 14106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesendet",
+            "end": 14178,
+            "start": 14168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 14328,
+            "start": 14318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 14346,
+            "start": 14335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14662,
+            "start": 14658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergegeben",
+            "end": 14879,
+            "start": 14866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 14905,
+            "start": 14886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 15078,
+            "start": 15069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 15227,
+            "start": 15220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 15309,
+            "start": 15297,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich und Anbieter\n(1) Diese AGB gelten nur, wenn der Kunde Verbraucher im Sinne von § 13 BGB ist.\n(2) Diese AGB gelten für alle Bestellungen und Verträge, die Personen (=Kunden) über den Online-Shop der TintenCenter.com GmbH, Kaiserwerther Straße 115, 40880 Ratingen, Geschäftsführer Markus Schroeder, Amtsgerichts Düsseldorf HRB 78924, abgeben bzw. abschließen. Der Kaufvertrag kommt mit der TintenCenter.com GmbH zustande. Die TintenCenter.com GmbH, ist wie folgt zu erreichen: Tel: 02332 66 36 0, FAX: 02332 66 36 100, Email: info@tintencenter.com.\n(3) Abweichenden AGB von Kunden wird ausdrücklich widersprochen.\n§ 2 Zustandekommen des Vertrages\n(1) Voraussetzung für den Abschluss eines Vertrages ist die Registrierung als Kunde auf unserer Website. Der Zugang wird gegen Eingabe der Zugangsdaten (Benutzerkennung und Passwort) gewährt.\n(2) Unsere Internetseiten stellen lediglich eine Aufforderung an den Kunden dar, Angebote zum Abschluss von Kaufverträgen abzugeben. Das Vertragsangebot ist die vom Kunden unter Verwendung seiner Zugangsdaten getätigte Bestellung. Mit dem Anklicken des Buttons \"Einkauf abschließen\" am Ende des Bestellvorgangs gibt der Kunde ein verbindliches Angebot ab. Der Eingang dieses Angebots wird mit einer Email bestätigt. Ein Vertrag kommt noch nicht mit der Eingangsbestätigung zustande, sondern erst durch die Annahme der Bestellung in Form einer ausdrücklichen Annahmebestätigung unsererseits oder aber spätestens mit der Lieferung der bestellten Ware.\n§ 3 Vertragsgegenstand und Verwendungseignung\n(1) Vertragsgegenstand werden die in der Bestellung und in der Auftragsbestätigung genannten Waren, Preise und sonstige Modalitäten.\n(2) Alle Bilder, die wir in der Online-Präsentation nutzen, um Ware darzustellen, sind lediglich Beispielfotos. Sie stellen den jeweiligen Artikel nicht in jedem Fall naturgetreu dar, sondern dienen nur der Veranschaulichung. Die Bilddarstellung auf dem Monitor des Kunden kann technisch bedingt (insb. aufgrund der individuellen Konfiguration der Geräte beim Kunden) vom realen Artikel abweichen. Primär maßgeblich ist die Textbeschreibung der Artikel.\n(3) Die Ware wird unter Vorbehalt \"handelsüblicher Abweichungen\" geliefert, soweit dies für den Käufer zumutbar ist. Darunter fallen z.B. technische Verbesserungen im Rahmen der Qualitätsverbesserungen (insb. „Nachfolgermodelle“).\n§ 4 Widerrufsrecht für Verbraucher im Fernabsatz\n(1) Sie haben ein vierzehntägiges Widerrufsrecht. Hier finden Sie die Einzelheiten zu Ihrem Widerrufsrecht.\n(2) Das Widerrufsrecht besteht, soweit von den Parteien nichts anderes vereinbart, nicht bei Verträgen zur Lieferung von Ton- und Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde.\n(3) Senden Sie die Ware bitte als versichertes Paket an uns zurück und bewahren Sie den Einlieferbeleg auf. Sofern sie gemäß der vorstehenden Belehrung nicht von Ihnen zu tragen sind, erstatten wir Ihnen selbstverständlich die Portokosten, gerne auch auf Wunsch vorab (In diesem Fall setzen Sie sich bitte telefonisch mit uns in Verbindung).\n(4) Die in vorstehenden Absatz (3) genannten Modalitäten sind keine Voraussetzung für die wirksame Ausübung des Widerrufsrechts.\n§ 5 Preise\n(1) Die auf den Produktseiten enthaltenen Preise sind Euro-Angaben und enthalten die gesetzliche Mehrwertsteuer und sonstige Preisbestandteile und verstehen sich zuzüglich Porto. Die Versandkosten ergeben sich aus den auf den Seiten des Online-Shops hinterlegten Versandinformationen. Diese können Sie hier einsehen.\n(2) Führen wir auf Wunsch des Kunden Teillieferungen aus, hat dieser die hierdurch entstehenden Mehrkosten zu tragen.\n§ 6 Lieferbedingungen und Selbstbelieferungsvorbehalt\n(1) Bei von uns im Online-Shop genannten Lieferterminen und -fristen handelt es sich grundsätzlich um „ca.“ Zeiträume. Sofern nicht anders angegeben beträgt die Lieferzeit ca. 3-5 Werktage.\n(2) Sind die bestellten Waren nicht verfügbar, weil wir trotz eines entsprechenden Einkaufsvertrages, der die Bestellung des Kunden abdeckt, selbst nicht von unseren Lieferanten beliefert werden, ohne dass uns hieran ein Verschulden trifft, dann verlängern sich die Lieferzeiten gegenüber dem Kunden entsprechend um die eingetretene Verzögerung. Hierüber wird der Kunde unverzüglich informiert. Der Kunde kann vom Vertrag zurücktreten, wenn sich unsere Selbstbelieferung über mehr als zwei Wochen über den voraussichtlichen Liefertermin hinauszieht, und er vor der Rücktrittserklärung eine angemessene Frist zur Lieferung gesetzt hat.\n(3) Die Lieferfrist verlängert sich, ohne dass wir darauf gesondert hinweisen, entsprechend, wenn und soweit der Kunde die Zahlungsart \"Vorauskasse\" gewählt hat, aber keine Zahlung leistet.\n(4) Stellt sich in den Fällen des Abs. 2 heraus, dass wir endgültig nicht mehr beliefert werden, so sind wir berechtigt insoweit vom Vertrag zurückzutreten. Hierüber werden wir den Kunden unverzüglich informieren und im Fall der Rücktrittserklärung werden wir bereits erbrachte Gegenleistungen unverzüglich an den Kunden zurückerstatten.\n(5) In den Fällen der Absätze 2, 3 und 4 sind wir stets auch zu Teillieferungen auf unsere Kosten berechtigt, soweit diese für den Kunden zumutbar sind.\n(6) Sollte die Zustellung der Ware trotz dreimaligen Auslieferungsversuchs scheitern, können wir vom Vertrag zurücktreten. Ggf. vom Kunden bereits geleistete Zahlungen, werden zurückerstattet.\n(7) An Postfachadressen kann nicht geliefert werden.\n§ 7 Allgemeine Obliegenheiten des Kunden\n(1) Der Kunde darf bei seiner Registrierung zum Online-Shop nur wahrheitsgemäße Angaben machen. Änderungen der für die Geschäftsbeziehung wichtigen Daten (z. B. Name, Adresse, Email-Adresse, Verbrauchereigenschaft) hat uns der Kunde bei laufender Bestellung unverzüglich und in den sonstigen Fällen vor der nächsten Bestellung mitzuteilen. Werden uns falsche Daten mitgeteilt, und gefährdet dies erheblich die Vertragserfüllung, sind wir zum Rücktritt von bereits geschlossenen Verträgen und nach billigem Ermessen zur Sperrung unseres Online-Shops für diesen Kunden berechtigt.\n(2) Mit Rücksicht auf die typische E-Mailkommunikation bei Fernabsatzgeschäften hat der Kunde seine E-Mail Adresse in regelmäßigen Abständen (mindestens 1x innerhalb von 2 Tagen) abzurufen, wenn er eine Bestellung abgegeben hat und der Vertrag noch nicht vollständig durchgeführt ist.\n(3) Unmittelbar nach Aufgabe seiner Bestellung erhält der Kunde von uns per E-Mail eine Eingangsbestätigung. Der Kunde hat uns unverzüglich zu informieren, wenn er diese Bestätigung nicht zeitnah erhalten hat.\n(4) Für seinen Zugang zu unserem Online-Shop setzt der Kunde ein Passwort. Er hat die Pflicht, das Passwort vertraulich zu behandeln und unbefugten Dritten nicht zugänglich zu machen. Für einen Missbrauch des Passwortes, den der Käufer verursacht hat, müssen wir nicht einstehen. Im eigenen Interesse sollte uns der Käufer im Falle eines Missbrauches informieren, um evtl. wirtschaftliche Schäden zu vermeiden. Ebenso sollte er das Passwort in regelmäßigen Abständen ändern.\n§ 8 Zahlung, Aufrechnung, Zurückbehaltungsrechte\n(1) Die Zahlung erfolgt wahlweise: Bezahlmethoden\n(2) Lieferungen ins Ausland erfolgen nur gegen Vorauskasse oder Kreditkartenzahlung.\n(3) Im Fall der Vorauskasse ist die Zahlung innerhalb von 7 Tagen nach Zugang unserer Bestätigung des Bestellungseingangs zu leisten. Maßgeblich ist der Zeitpunkt des Geldeingangs bei uns (d. h. bei Überweisung: Wertstellung auf unserem Konto). Bei späterer Zahlung sind wir berechtigt, nach vorheriger angemessener Nachfristsetzung vom Vertrag zurückzutreten.\n(4) Der Käufer kann der TintenCenter.com GmbH ein SEPA Basismandat / SEPA Firmenmandat erteilen. Der Einzug der Lastschrift erfolgt 4 Tage nach Rechnungsdatum. Die Frist für die Vorabankündigung (Pre-Notification) wird auf 2 Banktage bei Erstlastschrift und auf 2 Banktage bei Folgelastschrift verkürzt. Der Käufer sichert zu, für die Deckung des Kontos zu sorgen. Kosten, die aufgrund von Nichteinlösung oder Rückbuchung der Lastschrift entstehen, gehen zu Lasten des Käufers, solange die Nichteinlösung oder die Rückbuchung nicht durch die TintenCenter.com GmbH verursacht wurde.\n(5) Der Kunde kann ein Zurückbehaltungsrecht nur ausüben, wenn sein Gegenanspruch auf demselben Vertragsverhältnis beruht. Hiervon ausgenommen sind Gegenansprüche, die sich aus früheren Geschäften oder aus anderen, auf der gleichen Geschäftsverbindung beruhenden Geschäften herleiten. Das Recht des Kunden zur Aufrechnung mit einer bestrittenen oder nicht rechtskräftig festgestellten Gegenforderung ist ausgeschlossen.\n§ 9 Annahmeverzug des Kunden\n(1) Für die Dauer des Annahmeverzuges des Kunden sind wir berechtigt, die Ware auf Gefahr und Kosten des Kunden einzulagern. Wir können uns hierzu auch einer Spedition oder eines Lagerhalters bedienen. Die Lagerkosten werden pauschal mit 1 % des Nettorechnungswertes der eingelagerten Ware pro Monat in Rechnung gestellt, höchstens jedoch in Höhe von EUR 25,00. Wir sind berechtigt, tatsächlich höhere Kosten nachzuweisen und in Rechnung zu stellen. Der Kunde ist zum Nachweis berechtigt, dass keine oder geringere Lagerkosten entstanden sind.\n(2) Treten wir infolge des Annahmeverzuges des Kunden vom Vertrag zurück, sind wir bei Vorliegen der weiteren gesetzlichen Voraussetzungen berechtigt, pauschalen Schadensersatz in Höhe von 25 % des vereinbarten Nettorechnungswertes zu fordern. Die Geltendmachung eines tatsächlich höheren Schadens bleibt vorbehalten. Der Kunde ist zum Nachweis berechtigt, dass kein oder ein geringerer Schaden entstanden ist.\n§ 10 Gewährleistung\n(1) Die Gewährleistung erfolgt nach den gesetzlichen Bestimmungen. Bei allen während der gesetzlichen Gewährleistungsfrist von zwei Jahren ab Lieferung auftretenden Mängeln hat der Kunde ein gesetzliches Recht auf Nacherfüllung (nach seiner Wahl: Mangelbeseitigung oder Neulieferung) und - bei Vorliegen der weiteren gesetzlichen Voraussetzungen - die gesetzlichen Rechte auf Minderung oder Rücktritt sowie daneben auf Schadensersatz.\n(2) Der Kunde muss uns insgesamt zwei Nachbesserungsversuche einräumen, wenn er uns nicht zuvor eine angemessen Nachfrist gesetzt hat, die ergebnislos abgelaufen ist, oder wenn die Nachbesserung aus anderen Gründen als fehlgeschlagen anzusehen oder nicht zuzumuten ist. Ist die vom Kunden gewünschte Art der Nacherfüllung nur mit unverhältnismäßigen Kosten möglich, beschränkt sich sein Anspruch auf die andere Art der Nacherfüllung.\n§ 11 Garantien und Zusicherungen\nUnsere angestellten Mitarbeiter sind nicht befugt, besondere Eigenschaftszusicherungen und Garantien abzugeben.\n§ 12 Allgemeine Haftung\n(1) Soweit der Vertrag einschließlich dieser AGB keine anderweitigen Bestimmungen enthält, haften wir nur für Vorsatz und grobe Fahrlässigkeit.\n(2) Davon ausgenommen ist die Haftung für Personenschäden, die Haftung nach dem Produkthaftungsgesetz, die Haftung aufgrund ausdrücklich gegebener Garantien und die Haftung für die Verletzung wesentlicher Vertragspflichten. Soweit wir nur fahrlässig gegen wesentliche Vertragspflichten verstoßen, ist die Haftung der Höhe nach auf den vertragstypischen und bei Vertragsabschluss vorhersehbarem Schaden beschränkt. Wesentliche Vertragspflichten sind die grundlegenden, elementaren Pflichten aus dem Vertragsverhältnis, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht, deren Verletzung die Erreichung des Vertragszwecks gefährdet und auf deren Einhaltung der Kunde regelmäßig vertrauen darf.\n(3) Die Haftungsbeschränkungen gelten auch unmittelbar zu Gunsten unserer Organe sowie Erfüllungs- und Verrichtungsgehilfen.\n§ 13 Eigentumsvorbehalt\nDie von uns gelieferten Waren bleiben bis zur vollständigen Bezahlung unser Eigentum. Verpfändungen oder Sicherungsübereignungen bezüglich der in unserem Eigentum stehenden Waren sind unzulässig. Bei Zugriffen Dritter auf die Vorbehaltsware wird der Kunde auf unser Eigentum hinweisen und uns unverzüglich benachrichtigen.\n§ 14 Abtretungsverbot\n(1) Die Abtretung jeglicher Forderungen oder Ansprüche gegen uns an Dritte ist ausgeschlossen, sofern wir der Abtretung nicht ausdrücklich in Textform zustimmen. Wir sind zur Zustimmung verpflichtet, wenn der Käufer ein berechtigtes Interesse an der Abtretung nachweist. Das Abtretungsverbot betrifft auch die Gewährleistungsansprüche; diese stehen lediglich dem Kunden zu.\n(2) Das Abtretungsverbot gilt nicht, wenn das Rechtsgeschäft, das die Forderung begründet hat, ein beiderseitiges Handelsgeschäft ist oder wenn der Schuldner eine juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.\n§ 15 Weitere Informationen zum Vertragsschluss und zur Abwicklung\n(1) Bestellvorgang: Wenn Sie das gewünschte Produkt gefunden haben, können Sie dieses unverbindlich durch Anklicken des Buttons „In den Warenkorb“ in den Warenkorb legen. Den Inhalt des Warenkorbs können Sie jederzeit durch Anklicken des Buttons „Warenkorb“ bearbeiten. Dort können Sie sowohl die Menge eines zu bestellenden Produkts ändern als auch ein Produkt aus dem Warenkorb löschen. Wenn Sie die Produkte im Warenkorb kaufen wollen, klicken Sie den Button „zur Kasse“. Wenn Sie noch nicht angemeldet sind bzw. Neukunden sind gelangen Sie auf die entsprechende Anmelden Seite. Bitte geben Sie dann ihre Daten ein. Ihre Daten werden verschlüsselt (SSL- Protokoll) übertragen. Nach Eingabe ihrer Daten gelangen Sie auf die Bestellseite wo sowohl Ihre Daten (Anschriften und Warenkorbinhalt sowie Widerrufsbelehrung) erneut angezeigt werden als auch die Auswahlmöglichkeit für die Ihnen zur Verfügung stehenden Zahlungsmethoden. Durch Anklicken des Buttons „Einkauf abschließen“ schließen Sie den Bestellvorgang ab. Der Vorgang lässt sich jederzeit durch Schließen des Browser-Fensters abbrechen. Auf den einzelnen Seiten erhalten Sie weitere Informationen zu den jeweiligen Korrekturmöglichkeiten.\n(2) Vertragstext: Der Vertragstext wird auf unseren internen Systemen gespeichert. Die Allgemeinen Geschäftsbedingungen können Sie jederzeit auf dieser Seite einsehen. Die Bestelldaten und die AGB werden Ihnen per Email zugesendet. Nach Abschluss der Bestellung sind Ihre Bestelldaten aus Sicherheitsgründen nur noch mit dem Ihnen zugeteilten Benutzernamen und Passwort zugänglich.\n§ 16 Datenschutz\nWir sind berechtigt, die im Zusammenhang mit der Geschäftsbeziehung erhaltenen Daten über den Kunden, gleich ob diese vom Kunden selbst oder von Dritten stammen, im Sinne des Datenschutzgesetzes zu speichern und zu verarbeiten, soweit sie für die Durchführung und Abwicklung der Geschäftsbeziehung erforderlich sind. Darüber hinaus werden personenbezogene Daten – vorbehaltlich zwingender gesetzlicher Mitteilungspflichten gegenüber Behörden und sonstigen öffentlichen Stellen – nur mit Zustimmung des Kunden an Dritte weitergegeben.\n§ 17 Schlussbestimmungen\n(1) Für die Geschäftsbeziehung mit dem Kunden ist das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts und des Internationalen Privatrechts anwendbar.\n(2) Ist eine Vertragsbestimmung ganz oder teilweise unwirksam, so wird hiervon die Wirksamkeit der übrigen Klauseln oder Klauselteile nicht berührt. Anstelle der unwirksamen Klausel gelten die jeweiligen gesetzlichen Bestimmungen.\n\n"
+}

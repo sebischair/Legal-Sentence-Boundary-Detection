@@ -1,0 +1,509 @@
+{
+    "Annotations": [
+        {
+            "annotation": "2676",
+            "end": 50,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichs",
+            "end": 136,
+            "start": 126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 149,
+            "start": 137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 193,
+            "start": 192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 242,
+            "start": 241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 251,
+            "start": 243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 473,
+            "start": 469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichs",
+            "end": 598,
+            "start": 588,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 607,
+            "start": 606,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 633,
+            "start": 632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 645,
+            "start": 634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichstext",
+            "end": 752,
+            "start": 738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 763,
+            "start": 753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1356",
+            "end": 818,
+            "start": 814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 829,
+            "start": 819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8703",
+            "end": 848,
+            "start": 844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 854,
+            "start": 849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 892,
+            "start": 878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeverfahrens",
+            "end": 957,
+            "start": 937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 965,
+            "start": 959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 967,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 970,
+            "start": 969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vollstreckungsschuldner",
+            "end": 1132,
+            "start": 1109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1135,
+            "start": 1134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "P",
+            "end": 1346,
+            "start": 1345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1655,
+            "start": 1652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsgericht",
+            "end": 1733,
+            "start": 1715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 1890,
+            "start": 1883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1893,
+            "start": 1892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 2130,
+            "start": 2121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 2205,
+            "start": 2191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2275,
+            "start": 2269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschlossen",
+            "end": 2483,
+            "start": 2472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 2595,
+            "start": 2590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2599,
+            "start": 2598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewirtschafte",
+            "end": 3040,
+            "start": 3027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3370,
+            "start": 3368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragsgegners",
+            "end": 3428,
+            "start": 3414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3432,
+            "start": 3431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 3571,
+            "start": 3562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3575,
+            "start": 3573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3578,
+            "start": 3577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 3668,
+            "start": 3657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3671,
+            "start": 3670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 3782,
+            "start": 3779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 4024,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4285,
+            "start": 4284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4288,
+            "start": 4287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 4396,
+            "start": 4393,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4648,
+            "start": 4647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uneins",
+            "end": 4849,
+            "start": 4843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4852,
+            "start": 4851,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5206,
+            "start": 5205,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5431,
+            "start": 5430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5435,
+            "start": 5433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 5687,
+            "start": 5678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trifft",
+            "end": 6204,
+            "start": 6198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehört",
+            "end": 6390,
+            "start": 6384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 6671,
+            "start": 6668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1999",
+            "end": 6835,
+            "start": 6831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 7068,
+            "start": 7060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7072,
+            "start": 7070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2014",
+            "end": 7221,
+            "start": 7217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7395,
+            "start": 7391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 7676,
+            "start": 7673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 7864,
+            "start": 7862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 8145,
+            "start": 8135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 8936,
+            "start": 8931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8940,
+            "start": 8938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 9206,
+            "start": 9201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsgerichts",
+            "end": 9419,
+            "start": 9400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 9765,
+            "start": 9760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bringen",
+            "end": 10149,
+            "start": 10142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10153,
+            "start": 10151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 10207,
+            "start": 10204,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10333,
+            "start": 10332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 10388,
+            "start": 10385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10392,
+            "start": 10390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 10444,
+            "start": 10440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 10448,
+            "start": 10446,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10600,
+            "start": 10599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10604,
+            "start": 10602,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10658,
+            "start": 10657,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VGH München, Beschluss v. 06.05.2019 – 9 C 18.2676\nTitel:\nZurückgewiesene Rechtsbeschwerde im Streit über Vollstreckung eines Vergleichs\nNormenketten:\nVwGO § 167 Abs. 1 S. 1, § 168 Abs. 1 Nr. 3\nZPO § 794 Abs. 1 Nr. 1, § 795 S. 1, § 890 Abs. 2\nLeitsatz:\nBei der Vollstreckung aus einem Vergleich muss dieser einen vollstreckungsfähigen Inhalt derart\nhaben, dass auch für einen Dritten erkennbar ist, was der Vollstreckungsgläubiger vom\nVollstreckungsschuldner verlangen kann. Der Vergleichstext ist dabei einer Auslegung zugänglich,\nmaßgebend ist aber allein der protokollierte Inhalt des Vergleichs. (Rn. 9) (redaktioneller Leitsatz)\nSchlagworte:\nVollstreckung eines Vergleichs, Auslegung, Baugenehmigung, Androhung eines Ordnungsgeldes,\nVergleichstext\nVorinstanz:\nVG Würzburg, Beschluss vom 14.12.2018 – W 4 V 18.1356\nFundstelle:\nBeckRS 2019, 8703\nTenor\nI. Die Beschwerde wird zurückgewiesen.\nII. Der Antragsgegner trägt die Kosten des Beschwerdeverfahrens.\nGründe\nI.\n1\nDie Antragstellerin und Vollstreckungsgläubigerin begehrt die Androhung von Ordnungsgeld und\nOrdnungshaft gegenüber dem Antragsgegner und Vollstreckungsschuldner.\n2\nDer Antragsgegner betreibt auf seinem Grundstück FlNr. … Gemarkung P. eine Gaststätte mit Hofbetrieb\nsowie ein Weinbistro mit Vinothek und Freisitz auf dem öffentlichen Straßenraumgrundstück FlNr. …\nGemarkung P. Mit Bescheid vom 18. April 2017 hob das Landratsamt K. die Nebenstimmung T0201 zur\nBaugenehmigung „Umbau des bestehenden Anwesens zu Weinbistro mit Vinothek“ vom 22. Mai 2014, die\ndie Öffnungszeiten hierfür regelte, auf und legte ergänzend fest, dass der Betrieb im Wirtsgarten um 22:00\nUhr einzustellen ist. Gegen diesen Bescheid erhob die Antragstellerin Klage zum Verwaltungsgericht. Im\ngerichtlichen Augenscheinstermin am 18. Juli 2017 schlossen die Beteiligten auf Anraten des Gerichts\neinen Vergleich, der u.a. folgende Regelung enthält:\n3\n„Der Beigeladene (Anm.: Antragsgegner im hier vorliegenden Verfahren) verpflichtet sich, gemäß der\nBaugenehmigung vom 22. Mai 2014 entweder nur das Weinbistro mit Vinothek oder aber nur die Gaststätte\nim hintern Gebäudeteil zu betreiben. Ein gleichzeitiger Betrieb von Gaststätte und Vinothek ist\nausgeschlossen. Unabhängig davon darf der Wirtsgarten bis 22:00 Uhr betrieben werden. Um 22:00 Uhr, so\nverpflichtet sich der Beigeladene weiter, wird das Tor zum Innenhof zwischen dem Anwesen der Klägerin\n(Anm.: Antragstellerin im hier vorliegenden Verfahren) und dem Beigeladenen geschlossen. D.h. nach\n22:00 Uhr findet keinerlei Gastbetrieb weder im Wirtsgarten, noch im Gastraum im Hintergebäude statt.“\n4\nMit Schreiben vom 12. Oktober 2018 beantragte die Antragstellerin beim Verwaltungsgericht, gegen den\nAntragsgegner für den Fall, dass er entgegen der in „Ziffer 1.“ des Vergleichs vom 18. Juli 2018\nübernommenen Verpflichtung handelt, ein Ordnungsgeld und für den Fall, dass dieses nicht beigetrieben\nwerden kann, Ordnungshaft anzudrohen, weil der Antragsgegner die Vinothek betreibe und gleichzeitig den\nHofbereich/Wirtsgarten bewirtschafte. Mit Beschluss vom 14. Dezember 2018 drohte das\nVerwaltungsgericht dem Antragsgegner für den Fall, dass er entgegen „der in Ziffer I. des Vergleichs vom\n18. Juli 2018 übernommenen Verpflichtung, entweder Gaststätte bzw. Wirtsgarten oder Weinbistro mit\nVinothek zu betreiben, zuwiderhandelt, ein Ordnungsgeld von 5.000,00 Euro“ an. Hiergegen richtet sich die\nBeschwerde des Antragsgegners.“\n5\nWegen der weiteren Einzelheiten wird auf den Inhalt sämtlicher Gerichtsakten beider Rechtszüge und der\nvorgelegten Behördenakten verwiesen.\nII.\n6\nDie nach § 146 Abs. 1 VwGO statthafte und auch sonst zulässige Beschwerde ist unbegründet.\n7\nRechtsgrundlage für die Androhung des Ordnungsgeldes ist hier § 167 Abs. 1 Satz 1 VwGO i.V.m. § 890\nAbs. 2 ZPO. Danach muss der Verurteilung zu einem Ordnungsgeld oder einer Ordnungshaft eine\nentsprechende Androhung vorausgehen, die hier aufgrund des Vergleichs, aus dem vollstreckt werden soll,\nvom Prozessgericht des ersten Rechtszuges erlassen wurde. Entgegen der Ansicht des Antragsgegners ist\nhierbei kein besonderes Rechtsschutzbedürfnis, insbesondere in Form eines bereits erfolgten\nPflichtverstoßes des Vollstreckungsschuldners erforderlich (vgl. BayVGH, B.v. 15.3.2016 - 9 C 15.2497 -\njuris Rn. 8 m.w.N.).\n8\nDie begehrte Androhung eines Ordnungsgeldes stellt eine Maßnahme und den Beginn der\nZwangsvollstreckung dar. Es müssen daher bereits zu diesem Zeitpunkt die allgemeinen\nVollstreckungsvoraussetzungen - d.h. Titel, Klausel, Zustellung - vorliegen (§ 167 Abs. 1 Satz 1 VwGO\ni.V.m. § 795 Satz 1 ZPO; vgl. BayVGH, B.v. 15.3.2016 - 9 C 15.2497 - juris Rn. 9 m.w.N.). Die Beteiligten\nsind hier über den Inhalt des vom Verwaltungsgericht gem. § 162 Abs. 1, § 160 Abs. 3 Nr. 1 ZPO\nprotokollierten Vergleichs i.S.d. § 794 Abs. 1 Nr. 1 ZPO, § 168 Abs. 1 Nr. 3 VwGO uneins.\n9\nErforderlich ist, dass der Vergleich, aus dem hier vollstreckt werden soll, einen vollstreckungsfähigen Inhalt\nhat, d.h. es muss auch für einen Dritten erkennbar sein, was der Vollstreckungsgläubiger vom\nVollstreckungsschuldner verlangen kann (Kraft in Eyermann, VwGO, 15. Auflage 2019, § 168 Rn. 1; Seibel\nin Zöller, ZPO, 32. Auflage 2018, § 704 Rn. 4). Der Vergleichstext ist dabei auch einer Auslegung\nzugänglich, maßgebend ist aber allein der protokollierte Inhalt des Vergleichs (OVG LSA, B.v. 12.7.2011 - 3\nO 475/10 - juris Rn. 10; Geimer in Zöller, a.a.O., § 794 Rn. 14a).\n10\nBereits unmittelbar aus dem Wortlaut der Nr. I. Satz 1 des Vergleichs vom 18. Juli 2018 ergibt sich, dass\nsich der Beigeladene verpflichtet hat, entweder nur das Weinbistro mit Vinothek oder aber nur die\nGaststätte im hinteren Gebäudeteil zu betreiben; ein gleichzeitiger Betrieb der Gaststätte im hinteren\nGrundstücksbereich und der Vinothek im vorderen Gebäude zum K. ist ausgeschlossen (vgl. Nr. I. Satz 2\ndes Vergleichs). Das Verwaltungsgericht ist bei der Auslegung dieses auf sein Anraten vor ihm\ngeschlossenen Vergleichs davon ausgegangen, dass dieser keine von der Baugenehmigung vom 22. Mai\n2014 abweichende Regelung hinsichtlich alternativer Nutzung von Gaststätte und Wirtsgarten auf der einen\nSeite und der Nutzung der Vinothek auf der anderen Seite trifft. Es hat dabei zutreffend darauf abgestellt,\ndass der Hofgarten/Wirtsgarten zur Gaststätte im hinteren Gebäudeteil und der Freisitz/Gastgarten zur\nVinothek im vorderen Gebäudeteil gehört. Nr. I. Satz 5 i.V.m. Satz 2 des Vergleichs vom 18. Juli 2018 zeigt,\ndass diese Trennung der Nutzungen im hinteren und vorderen Teil auch Eingang in den Vergleich gefunden\nhat und mit dem Gastbetrieb im hinteren Gebäudeteil sowohl der Wirtsgarten als auch der Gastraum\ngemeint war. Dies wird bestätigt durch die dem Verwaltungsgericht vorgelegten Verfahrensakten zu den\nBaugenehmigungen vom 28. August 1991, 19. Juni 1997 und 23. September 1999. Da der Vergleichstext\nhier unmittelbar auf die Baugenehmigung vom 22. Mai 2014 Bezug nimmt, ist zur Auslegung des Vergleichs\nauch ein Rückgriff auf diese sowie die dieser vorausgegangenen und noch bestehenden Genehmigungen\nzulässig.\n11\nDieses Ergebnis der Auslegung entspricht auch der ordnungsgemäß unterzeichneten Betriebsbeschreibung\n(Art. 64 Abs. 4 Satz 1 BayBO) vom 18. Juni 2014. Es kommt damit nicht darauf an, dass sich in den\nvorhergehenden Betriebsbeschreibungen zwar ähnliche Angaben finden, diese aber nur vom\nEntwurfsverfasser unterzeichnet sind. Die Betriebsbeschreibung vom 18. Juni 2014 datiert zwar zeitlich\nnach der Baugenehmigung vom 22. Mai 2014, sie stellt jedoch die Grundlage des angefochtenen\nErgänzungsbescheids vom 18. April 2017 und der vergleichsweisen Erledigung des hiergegen\nangestrengten Klageverfahrens dar. In dieser Betriebsbeschreibung zielt der Antragsgegner auf eine\nVerbesserung der Situation im Innenhof (Wirtsgarten) und Lärmverminderung durch eine Verringerung der\nNutzung desselben ab. Auch insoweit zeigt sich, dass ein gleichzeitiger Betrieb des vorderen und hinteren\nNutzungsbereiches ausgeschlossen sein sollte, was zudem auch den stetig dokumentierten Interessen des\nAntragsgegners, mit den Maßnahmen keine Erhöhung der Stellplatzpflicht auszulösen, entspricht. Das\nVerwaltungsgericht stellt auch zutreffend darauf ab, dass - unabhängig von einer eventuellen\nVerfahrensfreiheit des Wirtsgartens (Art. 57 Abs. 1 Nr. 15 Buchst. d BayBO), die im Hinblick auf den\neinheitlichen Betrieb und die alternativen Betriebszustände kaum isoliert von der Fläche des\nFreisitzes/Gastgartens zu sehen sein dürfte - auch diesbezüglich immissionsschutzrechtliche\nAnforderungen zu beachten sind (Art. 55 Abs. 2 BayBO), die bei einem gleichzeitigen Betrieb von hinterem\n(Wirtsgarten/Hofbetrieb) und vorderem (Freisitz/Gastgarten) Freischankbereich bislang nicht im Wege der\nerteilten Genehmigungen berücksichtigt wurden, weil stets nur ein alternativer Betrieb zwischen hinterem\nund vorderem Grundstückbereich sowie Innen- und Außenbewirtung beantragt und genehmigt wurde.\n12\nSoweit der Antragsgegner meint, die Formulierung „unabhängig davon“ in Nr. I. Satz 3 des Vergleichs vom\n18. Juli 2018 spreche dafür, dass für den Wirtsgarten nur die Betriebszeit geregelt worden sei, widerspricht\ndies dem o.g. Ergebnis der Vergleichsauslegung nicht. Denn der Ausschluss gleichzeitiger Nutzung ergibt\nsich bereits aus der Bezugnahme auf die Baugenehmigung vom 22. Mai 2014 und der - wie oben\nausgeführt - nicht zu beanstandenden Auslegung des Verwaltungsgerichts. Die Formulierung mag wenig\ngeglückt erscheinen, das Verwaltungsgericht stellt aber darauf ab, dass die Regelung unabhängig von allen\nanderen Öffnungskonstellationen erfolgt ist, weil für die Vinothek und den Freisitz auf FlNr. … Gemarkung\nP. die zeitliche Beschränkung gerade durch den angefochtenen Bescheid vom 18. April 2017 aufgehoben\nwurde. Die im Nachgang erteilte Baugenehmigung vom 21. August 2018 steht dieser Auslegung ebenfalls\nnicht entgegen, da sie - entsprechend Nr. II. des Vergleichs vom 18. Juli 2018 - speziell das Verhältnis\nzwischen Landratsamt und Antragsgegner regelt, um die in Nr. I des Vergleichs genannten Regelungen in\ndie Form einer für das Landratsamt vollstreckungsfähigen Baugenehmigung zu bringen.\n13\nDie weiteren Vollstreckungsvoraussetzungen liegen vor. Die Höhe des angedrohten Ordnungsgeldes ist\nnicht zu beanstanden (vgl. Art. 6 Abs. 1 Satz 1 EGStGB; § 890 Abs. 1 Satz 2 ZPO). Hierzu trägt das\nBeschwerdevorbringen auch nichts vor.\n14\nDie Kostenentscheidung beruht auf § 154 Abs. 1 VwGO.\n15\nEine Streitwertfestsetzung ist nicht erforderlich, weil keine wertabhängigen Gerichtsgebühren anfallen (vgl.\nNr. 5502 des Kostenverzeichnisses zum GKG).\n16\nDieser Beschluss ist unanfechtbar (§ 152 Abs. 1 VwGO).\n\n"
+}

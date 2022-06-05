@@ -1,0 +1,641 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Vertragsabschluss",
+            "end": 34,
+            "start": 17,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmern",
+            "end": 361,
+            "start": 349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Button",
+            "end": 504,
+            "start": 498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 619,
+            "start": 609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 687,
+            "start": 684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annimmt",
+            "end": 848,
+            "start": 841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigieren",
+            "end": 1023,
+            "start": 1012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 1109,
+            "start": 1098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 1223,
+            "start": 1220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1288,
+            "start": 1286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 1323,
+            "start": 1304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1398,
+            "start": 1388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etc",
+            "end": 1576,
+            "start": 1573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pakete",
+            "end": 1686,
+            "start": 1680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 1771,
+            "start": 1767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 1834,
+            "start": 1825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ratenkauf",
+            "end": 1968,
+            "start": 1959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freigegeben",
+            "end": 2067,
+            "start": 2056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2087,
+            "start": 2073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlbar",
+            "end": 2157,
+            "start": 2150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 2249,
+            "start": 2245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnen",
+            "end": 2498,
+            "start": 2489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2637,
+            "start": 2630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellers",
+            "end": 2697,
+            "start": 2687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 2756,
+            "start": 2749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2954,
+            "start": 2951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferfrist",
+            "end": 2992,
+            "start": 2981,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3132,
+            "start": 3131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeboten",
+            "end": 3177,
+            "start": 3168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebracht",
+            "end": 3307,
+            "start": 3299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterrichten",
+            "end": 3447,
+            "start": 3435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3616,
+            "start": 3612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hindernisse",
+            "end": 3861,
+            "start": 3850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 3949,
+            "start": 3940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 4104,
+            "start": 4096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 4219,
+            "start": 4213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 4258,
+            "start": 4244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4339,
+            "start": 4336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4401,
+            "start": 4396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fernabsatzverträgen",
+            "end": 4460,
+            "start": 4441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 4479,
+            "start": 4461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Annahmeverweigerung",
+            "end": 4518,
+            "start": 4499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Belieferung",
+            "end": 4698,
+            "start": 4687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufer",
+            "end": 4882,
+            "start": 4873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücknahmegesuches",
+            "end": 4990,
+            "start": 4973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustand",
+            "end": 5112,
+            "start": 5105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungsbetrags",
+            "end": 5306,
+            "start": 5290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5649,
+            "start": 5646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 5753,
+            "start": 5747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzulagern",
+            "end": 5940,
+            "start": 5929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 6108,
+            "start": 6100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6245,
+            "start": 6241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 6346,
+            "start": 6340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6368,
+            "start": 6350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6583,
+            "start": 6580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benachrichtigen",
+            "end": 6700,
+            "start": 6685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 6784,
+            "start": 6775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgenommen",
+            "end": 6880,
+            "start": 6869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 7119,
+            "start": 7107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 7189,
+            "start": 7180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkaufen",
+            "end": 7277,
+            "start": 7268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 7433,
+            "start": 7431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsausschluss",
+            "end": 7471,
+            "start": 7453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 7484,
+            "start": 7476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 7695,
+            "start": 7682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7871,
+            "start": 7868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 8000,
+            "start": 7992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinweisen",
+            "end": 8105,
+            "start": 8096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8316,
+            "start": 8312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stromquellen",
+            "end": 8454,
+            "start": 8442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8797,
+            "start": 8793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 9030,
+            "start": 9024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 9383,
+            "start": 9370,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9641,
+            "start": 9640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9859,
+            "start": 9853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 10076,
+            "start": 10066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahl",
+            "end": 10229,
+            "start": 10225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenwerts",
+            "end": 10365,
+            "start": 10355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 10548,
+            "start": 10545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kraft",
+            "end": 10674,
+            "start": 10669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 10702,
+            "start": 10693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 10935,
+            "start": 10930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11033,
+            "start": 11029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Käufers",
+            "end": 11131,
+            "start": 11124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 11415,
+            "start": 11409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11700,
+            "start": 11694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Serviceinformationen",
+            "end": 11869,
+            "start": 11849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vermögensverschlechterung",
+            "end": 11913,
+            "start": 11888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12248,
+            "start": 12242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Software",
+            "end": 12262,
+            "start": 12254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herstellers",
+            "end": 12392,
+            "start": 12381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 12477,
+            "start": 12475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendaten",
+            "end": 12509,
+            "start": 12498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 12642,
+            "start": 12631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausfuhrgenehmigung",
+            "end": 12666,
+            "start": 12648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuholen",
+            "end": 12865,
+            "start": 12855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 12969,
+            "start": 12955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 13269,
+            "start": 13259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 13326,
+            "start": 13320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 13490,
+            "start": 13483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 13701,
+            "start": 13694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 13836,
+            "start": 13825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 13857,
+            "start": 13842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 13941,
+            "start": 13935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichbar",
+            "end": 14004,
+            "start": 13994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 14149,
+            "start": 14137,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Allgemeines / Vertragsabschluss\n1.1 Diese Allgemeinen Geschäftsbedingungen regeln sämtliche Verkäufe der Office Partner GmbH, Schlesierring 35, 48712 Gescher, shop@365tageoffen.de, Telefon: + 49 (0) 2542/9558250, Fax + 49 (0) 2542/9558234 (nachfolgend \"Office Partner\", \"wir\" oder \"uns\" genannt), sowohl gegenüber Verbrauchern als auch gegenüber Unternehmern.\n1.2 Ihr Angebot auf Abschluss des Kaufvertrages liegt im Absenden Ihrer Bestellung durch Klicken auf den \"Zahlungspflichtig bestellen\"-Button. Office Partner wird den Eingang Ihrer Bestellung mit einer automatischen Bestellbestätigung per E-Mail bestätigen. Diese Bestätigung stellt noch nicht die Annahme Ihres Angebots dar. Der Kaufvertrag kommt erst zustande, wenn Office Partner Ihre Bestellung durch Zusendung einer weiteren Auftragsbestätigung oder durch Versand der Ware annimmt.\n1.3 Sie haben bis zum Absenden Ihrer Bestellung, insbesondere auf Ihrer Warenkorb-Seite und der letzten Seite im Bestellprozess die Möglichkeit, Ihre Eingaben zu korrigieren.\n1.4 Ihre Bestellungen werden bei uns für 12 Monate nach Ihrer Bestellung gespeichert. Sollten Sie Ihre Unterlagen zu Ihren Bestellungen verlieren, wenden Sie sich bitte per E-Mail/Fax/Telefon an uns. Wir senden Ihnen gerne eine Kopie der Daten Ihrer Bestellung zu.\n2. Preise und Zahlungsbedingungen\n2.1 Für die Lieferung gelten die Listenpreise zum Zeitpunkt der Bestellung.\n2.2 Alle unsere Preise enthalten die gesetzliche Mehrwertsteuer und verstehen sich zzgl. Versandkosten, gegebenenfalls Nachnahmegebühren, Installations- und Schulungskosten etc. Je nach Versandart errechnen sich die Versandkosten in Abhängigkeit von Größe, Gewicht und Anzahl der Pakete. Informationen über die für Ihre Bestellung relevanten Versandkosten finden Sie hier.\n2.3 Folgende Zahlungsmöglichkeiten stehen Ihnen zur Verfügung: Vorkasse, Nachnahme, PayPal, Amazon Payments, sofortüberweisung, Kreditkarte (MasterCard/Visa), Klarna Rechnung und Klarna Ratenkauf. Die Zahlungsart Rechnung ist nur für öffentliche Auftraggeber, Schulen, Behörden usw. freigegeben.\n2.4 Bezahlmethoden\n2.5 Unsere Rechnungen sind sofort fällig und netto ohne Abzug zahlbar. Eine Zahlung gilt erst dann als erfolgt, wenn Office Partner über den Betrag verfügen kann. Im Falle eines Zahlungsverzuges sind wir berechtigt, Verzugszinsen für Verbraucher in Höhe von 5 Prozentpunkten und für Unternehmer in Höhe von 8 Prozentpunkten über dem jeweiligen Basiszinssatz der EZB nach Diskont-Überleitungsgesetz zu berechnen. Wechsel oder Schecks werden nur nach Vereinbarung und erfüllungshalber entgegen-genommen und gelten erst nach ihrer Einlösung als Zahlung. Diskont- und Einzugs-spesen gehen zu Lasten des Bestellers. Für die rechtzeitige Vorlage übernehmen wir keine Haftung.\n2.6 Unternehmern stehen Zurückbehaltungsrechte nur zu, soweit deren Gegenanspruch auf dem gleichen Vertragsverhältnis beruht und dieser rechtskräftig festgestellt oder von uns anerkannt worden ist.\n3. Lieferbedingungen und Lieferfrist\n3.1 Die Lieferung erfolgt durch DHL (deutsche Post). Bei größeren Volumen (>30kg, Sperrgut) und Mengen beauftragen wir eine Spedition (UPS). Eine Express-Lieferung wird nicht angeboten.\n3.2 Alle Artikel, die bei uns ab Lager sofort verfügbar sind, werden innerhalb von ca. 1-3 Werktagen auf den Versandweg gebracht. Sind Artikel nicht sofort verfügbar, so dass sich die Lieferzeit verzögert, wird Office Partner den Kunden davon unverzüglich unterrichten.\n3.3 Die Lieferfrist verlängert sich ggf. um die Zeit, bis der Käufer alle Angaben und Unter-lagen übergeben hat, welche für die Ausführung des Auftrages notwendig sind.\n3.4 Lieferverzögerungen, die durch gesetzliche oder behördliche Anordnungen (z.B. Import- und Exportbeschränkungen) verursacht werden und nicht von uns zu vertreten sind, verlängern die Lieferfrist entsprechend der Dauer derartiger Hindernisse. Deren Beginn und Ende werden wir in wichtigen Fällen dem Käufer unverzüglich mitteilen.\n3.5 Geraten wir mit der Lieferung in Verzug, so ist unsere Schadensersatzpflicht im Falle leichter Fahrlässigkeit auf den vorhersehbaren Schaden begrenzt. Weitergehende Schadensersatzansprüche bestehen nur, wenn der Verzug auf Vorsatz oder grober Fahrlässigkeit beruht.\n4. Lieferung, Versand, Gefahrübergang\n4.1 Teillieferungen durch uns sind zulässig, soweit dies dem Käufer zumutbar ist.\n4.2 Im Falle eines Verbrauchsgüterkaufs gilt § 447 BGB nicht.\n5. Widerrufsrecht für Verbraucher bei Fernabsatzverträgen\nWiderrufsbelehrung\n6. Kulanzrücknahme/Annahmeverweigerung\n6.1 Nach Ablauf der einmonatigen Widerrufsfrist oder bei Käufern, die nicht Verbraucher i.S.d. § 13 BGB sind, erfolgt eine Warenrücknahme nur bei nachweislich falscher Belieferung. Bei Umtausch-, Rücknahme- oder Gutschriftersuchen, deren Ursache Office Partner nicht zu vertreten hat, erfolgt eine Abwicklung nur nach schriftlicher Bestätigung durch den Verkäufer. Dies gilt auch im Falle der von Office Partner veranlassten Abholung zur Überprüfung des Rücknahmegesuches. Grundsätzliche Voraussetzung hierfür ist die mangelfreie Beschaffenheit der Ware und deren wiederverkaufsfähiger Zustand. Der zu erwartende Erstattungsbetrag ergibt sich aus dem zum Zeitpunkt des Eingangs zu erzielenden Wiederverkaufspreises, abzüglich einer Storno-/Bearbeitungsgebühr von 10% des Rechnungsbetrags.\n6.2 Nimmt ein Käufer, der nicht Verbraucher i.S.d. § 13 BGB ist, die verkaufte Ware nicht ab, so sind wir berechtigt, wahlweise auf Abnahme zu bestehen oder 10% des Kaufpreises als pauschalisierten Schadens- und Aufwendungsersatz zu verlangen, es sei denn, der Käufer weist nach, dass ein Schaden nicht oder in geringerer Höhe entstanden ist. Im Falle eines außergewöhnlich hohen Schadens behalten wir uns das Recht vor, diesen geltend zu machen. Für die Dauer des Annahmeverzugs des Käufers ist Office Partner berechtigt, die Liefergegenstände auf Gefahr des Käufers bei sich, bei einer Spedition oder einem Lagerhalter einzulagern. Während der Dauer des Annahmeverzugs hat der Käufer an Office Partner für die entstehenden Lagerkosten ohne weiteren Nachweis pro Monat pauschal 15,- Euro zu bezahlen. Die pauschale Entschädigung mindert sich in dem Maße, wie der Kunde nachweist, dass Aufwendungen oder ein Schaden nicht entstanden sind. Im Falle außergewöhnlich hoher Lagerkosten, behalten wir uns das Recht vor, diese geltend zu machen\n7. Eigentumsvorbehalt\n7.1 Wir behalten uns das Eigentum an der Kaufsache bis zur vollständigen Bezahlung aller Forderungen aus dem Liefervertrag einschließlich Nebenforderungen (z.B. Wechsel-kosten, Finanzierungskosten, Zinsen usw.) vor.\n7.2 Bei Pfändungen oder sonstigen Eingriffen Dritter hat uns der Käufer unverzüglich schriftlich zu benachrichtigen.\n7.3 Für die Verarbeitung oder Umbildung der Sache durch Unternehmer gilt Folgendes: eine Verarbeitung oder Umbildung der Kaufsache durch den Käufer wird stets für uns vorgenommen. Wird die Kaufsache mit anderen, uns nicht gehörenden Gegenständen verarbeitet, so erwerben wir das Miteigentum an der neuen Sache im Verhältnis des Wertes der Kaufsache zu den anderen verarbeitenden Gegenständen zur Zeit der Verarbeitung.\n7.4 Für den Weiterverkauf der Waren durch Unternehmer gilt Folgendes: der Käufer ist berechtigt, die Waren im ordentlichen Geschäftsgang weiter zu verkaufen. Er tritt je-doch bereits jetzt alle Forderungen gegenüber seinem Abnehmer oder Dritter aus der Weiterveräußerung in Höhe des Faktura-Endbetrages an uns ab.\n8. Gewährleistung/Haftungsausschluss\n8.1 Garantie: Durch die nachfolgende Garantie werden Ihre gesetzlichen Rechte als Käufer (insbesondere das Widerrufsrecht, die Rechte auf Nacherfüllung, Rücktritt oder Minderung sowie auf Schadensersatz) nicht eingeschränkt. Wir geben auf alle Artikel die bei uns im Online-Shop gekauft werden eine Garantie von mindestens 6 Monaten, solange es nicht anderes in der Artikelbeschreibung definiert ist. Sofern der Hersteller der von Ihnen bestellten Produkte eine Garantie anbietet, gilt diese neben der von uns gewährten Garantie. Auf ggf. von den Herstellern gewährte Garantien werden wir Sie rechtzeitig in geeigneter Form hinweisen.\n8.2 Keine Gewähr übernehmen wir für Mängel und Schäden, die aus ungeeigneter oder unsachgemäßer Verwendung, Nichtbeachtung von Anwendungshinweisen oder fehlerhafter oder nachlässiger Behandlung entstanden sind. Dies gilt insbesondere für den Betrieb der Gegenstände mit falscher Stromart oder -spannung sowie Anschluss an ungeeigneten Stromquellen. Das gleiche gilt für Mängel und Schäden, die aufgrund von Brand, Blitzschlag, Explosion oder netzbedingten Überspannungen, Feuchtigkeit aller Art, falscher oder fehlender Programm-Software und/oder Verarbeitungsdaten zu-rückzuführen sind, es sei denn, der Käufer weist nach, dass diese Umstände nicht ur-sächlich für den gerügten Mangel sind.\n8.3 Die Gewährleistung erlischt, wenn der Käufer Eingriffe und/oder Reparaturen an Gerä-ten vornimmt oder durch Personen vornehmen lässt, die nicht von Office Partner autorisiert wurden, sofern der aufgetretene Mangel darauf beruht.\n8.4 Im Gewährleistungsfalle ist der Verbraucher nach seiner Wahl zur Geltendmachung eines Rechts auf Mängelbeseitigung oder Lieferung mangelfreier Ware berechtigt (Nacherfüllung). Sofern die gewählte Art der Nacherfüllung mit unverhältnismäßig ho-hen Kosten verbunden ist, beschränkt sich der Anspruch auf die jeweils verbliebene Art der Nacherfüllung. Im Rahmen der Lieferung mangelfreier Ware gilt der Tausch in höherwertigere Produkte mit vergleichbaren Eigenschaften bereits jetzt als akzeptiert, sofern dies dem Verbraucher zumutbar ist (z.B.: Austausch in das Nachfolgemodell, gleiche Modellserie, etc.). Weitergehende Rechte, insbesondere die Rückgängigmachung des Kaufvertrages, können nur nach Ablauf einer angemessenen Frist zur Nacherfüllung oder dem zweimaligen Fehlschlagen der Nacherfüllung geltend gemacht werden.\n8.5 Handelt es sich bei dem Käufer um einen Unternehmer, so sind wir innerhalb eines Jahres nach Lieferdatum nach unserer Wahl zur Mängelbeseitigung oder Lieferung mangelfreier Ware im Sinne des § 439 BGB berechtigt. Nach Ablauf eines Jahres ab Lieferdatum beschränken sich seine Gewährleistungsansprüche auf Mängelbeseitigung oder Zeitwertgutschrift nach unserer Wahl. Sollte der Unternehmer Aufwendungsersatz i.S.d. § 478 II BGB fordern, beschränkt sich dieser auf max. 2% des ursprünglichen Warenwerts. Ansprüche, die auf § 478 BGB zurückgehen, sind durch die 24-monatige Gewährleistung für Unternehmer nach 8.1 abgedungen im Sinne des gleichwertigen Ausgleichs nach § 478 IV S. 1 BGB.\n8.6 Durch einen Austausch im Rahmen der Gewährleistung/Garantie treten keine neuen Gewährleistungs-/Garantiefristen in Kraft; § 203 BGB bleibt unberührt.\n8.7 Mit Ausnahme der Haftung für eine Verletzung von Leben, Körper und Gesundheit sind weitergehende Ansprüche des Käufers - gleich aus welchem Rechtsgrund - ausge-schlossen, soweit nicht ausdrücklich etwas anderes vereinbart wurde. Wir haften des-halb nicht für Schäden, die nicht am Liefergegenstand unmittelbar entstanden sind; insbesondere haften wir nicht für entgangenen Gewinn oder sonstige Vermögens-schäden des Käufers. Vorstehende Haftungsbefreiung gilt nicht, sofern der Schaden auf Vorsatz, grober Fahrlässigkeit oder Fehlen einer zugesicherten Eigenschaft, Ver-letzung vertragswesentlicher Pflichten, Leistungsverzug, Unmöglichkeit, sowie Ansprü-chen nach §§ 1, 4 des Produkthaftungsgesetzes beruht. Für die Wiederherstellung von Daten haften wir nicht, es sei denn, dass wir den Verlust vorsätzlich oder grob fahrläs-sig verursacht haben und der Käufer sichergestellt hat, dass eine Datensicherung er-folgt ist, so dass die Daten mit vertretbarem Aufwand rekonstruiert werden können.\n8.8 Zur Abwicklung von Gewährleistungsansprüchen beachten Sie bitte die Hinweise in unseren aktuellen, jeder Lieferung beiliegenden Rücksende- und Serviceinformationen.\n9. Rücktritt bei Vermögensverschlechterung\nWir können vom Vertrag zurücktreten, wenn uns eine Zahlungseinstellung, die Eröffnung des Insolvenzverfahrens, die Ablehnung der Eröffnung des Konkurses des Insolvenzverfahrens mangels Masse, Wechsel- oder Scheckproteste oder andere konkrete Anhaltspunkte über Verschlechterung in den Vermögensverhältnissen des Käufers bekannt werden.\n10. Software\nBei Lieferung von Software gelten über unsere Bedingungen hinaus die besonderen Lizenz- und sonstigen Bedingungen des Herstellers. Mit der Entgegennahme der Software erkennt der Käufer deren Geltung ausdrücklich an.\n11. Verwendung von Kundendaten\nWir sind berechtigt, alle Daten, die Geschäftsbeziehungen mit dem Käufer betreffen, gemäß dem Bundesdatenschutzgesetz zu verarbeiten.\n12. Ausfuhrgenehmigung\nEventuell für die Ausfuhr der gelieferten Ware notwendige Zustimmungen des Bundesamtes für gewerbliche Wirtschaft in Eschborn/Taunus sind vom Käufer in eigenem Namen und auf eigene Kosten einzuholen. Die Versagung einer solchen Ausfuhrgenehmigung berechtigt den Käufer nicht, vom Vertrag zurückzutreten.\n13. Gerichtsstand, Teilunwirksamkeit, anwendbares Recht\n13.1 Im Geschäftsverkehr mit Kaufleuten und mit juristischen Personen des öffentlichen Rechts, wird als Gerichtsstand für alle aus dem Vertrag sich ergebenden Rechtsstreitigkeiten, einschließlich Wechsel- und Scheckklagen, Coesfeld vereinbart; wir sind auch berechtigt, am Sitz des Käufers zu klagen.\n13.2 Bei Unwirksamkeit einzelner Bestimmungen des Liefervertrages oder dieser Allgemei-nen Geschäftsbedingungen bleiben die übrigen Bestimmungen weiterhin wirksam.\n13.3 Im Geschäftsverkehr mit Verbrauchern innerhalb der Europäischen Union kann auch das Recht am Wohnsitz des Verbrauchers anwendbar sein, sofern es sich zwingend um verbraucherrechtliche Bestimmungen handelt.\n13.4 Ansonsten unterliegen alle mit Office Partner abgeschlossenen Verträge dem ausschließlichen Recht der Bundesrepublik Deutschland.\n14. Streitbeilegung\n14.1 Die EU-Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit. Diese ist unter http://ec.europa.eu/consumers/odr/ erreichbar.\n14.2 Office Partner ist weder bereit noch verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\n"
+}

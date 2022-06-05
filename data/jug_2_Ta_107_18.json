@@ -1,0 +1,467 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 174,
+            "start": 167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 187,
+            "start": 175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "312",
+            "end": 202,
+            "start": 199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 252,
+            "start": 248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "109",
+            "end": 263,
+            "start": 260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "126",
+            "end": 273,
+            "start": 270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "888",
+            "end": 283,
+            "start": 280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 292,
+            "start": 284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 519,
+            "start": 516,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 528,
+            "start": 527,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 552,
+            "start": 551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Orientierungsatz",
+            "end": 569,
+            "start": 553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Originals",
+            "end": 748,
+            "start": 739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 761,
+            "start": 750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnis",
+            "end": 894,
+            "start": 880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 905,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 962,
+            "start": 960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 973,
+            "start": 963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24223",
+            "end": 993,
+            "start": 988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 999,
+            "start": 994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1371,
+            "start": 1366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1421,
+            "start": 1407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1503,
+            "start": 1493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1587,
+            "start": 1576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1595,
+            "start": 1589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1597,
+            "start": 1596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1600,
+            "start": 1599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 1888,
+            "start": 1880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 1955,
+            "start": 1945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 2003,
+            "start": 1996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2006,
+            "start": 2005,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2205,
+            "start": 2204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2208,
+            "start": 2207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 2448,
+            "start": 2444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2451,
+            "start": 2450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrecht",
+            "end": 2669,
+            "start": 2661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übermittelt",
+            "end": 2746,
+            "start": 2735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 2854,
+            "start": 2848,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2955,
+            "start": 2954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2958,
+            "start": 2957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 3107,
+            "start": 3101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 3283,
+            "start": 3279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgegeben",
+            "end": 3336,
+            "start": 3327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3340,
+            "start": 3338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3343,
+            "start": 3342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 3481,
+            "start": 3472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3484,
+            "start": 3483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 3525,
+            "start": 3517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 3651,
+            "start": 3648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3654,
+            "start": 3653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 3719,
+            "start": 3711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 3786,
+            "start": 3781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 3811,
+            "start": 3801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 3851,
+            "start": 3844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3854,
+            "start": 3853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechterhalten",
+            "end": 3972,
+            "start": 3956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnis",
+            "end": 4101,
+            "start": 4094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Originalunterschrift",
+            "end": 4151,
+            "start": 4131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4295,
+            "start": 4289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschehen",
+            "end": 4321,
+            "start": 4312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4325,
+            "start": 4323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4556,
+            "start": 4553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 4638,
+            "start": 4630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 4811,
+            "start": 4803,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4981,
+            "start": 4980,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5145,
+            "start": 5144,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5491,
+            "start": 5490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 5607,
+            "start": 5603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5611,
+            "start": 5609,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5715,
+            "start": 5714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 5828,
+            "start": 5823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5832,
+            "start": 5830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 5963,
+            "start": 5958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5967,
+            "start": 5965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 6151,
+            "start": 6145,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 27.09.2018 – 2 Ta 107/18\nTitel:\nErfüllung des Anspruchs auf Aushändigung von Arbeitspapieren nur teilweise durch\nAushändigung einer Kopie möglich\nNormenketten:\nSGB III § 312\nFachliche Weisung zu § 312 SGB III, Stand 04/2018\nGewO § 109\nBGB § 126\nZPO § 888\nLeitsatz:\nDer Anspruch auf Erteilung eines Zeugnisses gem. § 109 GewO kann nur durch Übersendung eines\nim Original unterschriebenen Dokuments erfüllt werden, auf das die Formvorschrift des\nBürgerlichen Rechts (§ 126 BGB) anzuwenden ist. (Rn. 9) (red. LS Ulf Kortstock)\nOrientierungsatz:\nFür die Erfüllung des Anspruchs des Arbeitnehmers auf Aushändigung der Arbeitsbescheinigung\nnach § 312 SGB III genügt die Übermittlung einer Kopie des unterschriebenen Originals.\nSchlagworte:\nArbeitnehmer, Arbeitsbescheinigung, Beschwerde, Zwangsgeld, Aushändigung, Übermittlung, Kopie,\nOriginalunterschrift, Arbeitszeugnis\nVorinstanz:\nArbG Nürnberg, Beschluss vom 08.08.2018 – 17 Ca 3240/17\nFundstelle:\nBeckRS 2018, 24223\nTenor\n1. Auf die Beschwerde der Beklagten wird der Beschluss des Arbeitsgerichts Nürnberg vom 02.11.2017,\nAktenzeichen: 17 Ca 3240/17, in der Fassung des Teilabhilfebeschlusses vom 08.08.2018 insoweit\naufgehoben, als zur Erzwingung der Herausgabe einer ausgefüllten Arbeitsbescheinigung nach § 312 SGB\nIII gegen die Beklagten Zwangsgeld ersatzweise Zwangshaft festgesetzt wurde.\n2. Im Übrigen wird die Beschwerde zurückgewiesen.\n3. Die Kosten des Zwangsvollstreckungsverfahrens werden gegeneinander aufgehoben.\n4. Der Gegenstandswert für das Beschwerdeverfahren wird auf 2.030,00 € festgesetzt.\nGründe\nI.\n1\nMit rechtskräftigem Versäumnisurteil vom 01.08.2017 wurde die Beklagte verurteilt, die\nLohnsteuerbescheinigung für 2016, die Meldung nach § 25 DEÜV, die Arbeitsbescheinigung nach § 312\nSGB III, ein qualifiziertes Arbeitszeugnis und Abrechnungen für September und Oktober 2016 zu erteilen.\nDas Versäumnisurteil wurde der Beklagten am 03.08.2017 zugestellt. Eine vollstreckbare Ausfertigung\nwurde erteilt.\n2\nAuf Antrag der Klägerin setzte das Arbeitsgerichts mit Beschluss vom 02.11.2017 Zwangsgeld ersatzweise\nZwangshaft gegen die Beklagte wegen Nichterfüllung ihrer Verpflichtungen fest (Bl. 42 f. d. A.).\n3\nGegen diesen am 09.11.2017 zugestellten Beschluss legte die Beklagte mit Schreiben vom 21.11.2017,\neingegangen beim Arbeitsgericht Nürnberg per Telefax am selben Tage, Beschwerde ein, da sie alle\ngeforderten Arbeitspapiere übermittelt habe.\n4\nMit Beschluss vom 08.08.2018 half das Arbeitsgericht der Beschwerde teilweise ab, hielt den\nursprünglichen Beschluss jedoch hinsichtlich der Erteilung der Arbeitsbescheinigung und der Erteilung des\nZeugnisses aufrecht. Zwar habe die Beklagte Kopien der entsprechenden Arbeitspapiere übermittelt.\nHinsichtlich der Arbeitsbescheinigung und des Zeugnisses hätten jedoch Originale übermittelt werden\nmüssen. Wegen der weiteren Einzelheiten wird auf den Teilabhilfebeschluss verwiesen (Bl. 128 bis 130 d.\nA.).\n5\nBeiden Parteien wurde mit Schreiben vom 22.08.2018 unter Fristsetzung bis 07.09.2018 Gelegenheit\ngegeben zum Teilabhilfebeschluss Stellung zu nehmen. Die Klagepartei teilte mit, dass die Vorlage der\nArbeitsbescheinigung in Kopie bei der Agentur für Arbeit ausreichend war und sich der Zwangsgeldantrag\ninsoweit erledigt habe. Die Beklagte hat eine Stellungnahme nicht abgegeben.\nII.\n6\nDie sofortige Beschwerde der Beklagten ist zwar zulässig, jedoch - soweit ihr nicht vom Arbeitsgericht\nabgeholfen wurde - nicht begründet.\n7\n1. Die sofortige Beschwerde ist zulässig. Sie ist statthaft, §§ 62 Abs. 2 ArbGG, 793 ZPO, sowie form- und\nfristgerecht eingereicht worden, §§ 78 Satz 1 ArbGG, 569 ZPO.\n8\n2. Der Zwangsvollstreckung stehen formelle Gründe nicht entgegen. Das rechtskräftige Versäumnisurteil ist\nein vollstreckbarer Titel. Dieser wurde zugestellt. Eine Vollstreckungsklausel ist erteilt.\n9\n3. Zu Recht hat das Arbeitsgericht den Zwangsgeldbeschluss hinsichtlich der Erteilung des Zeugnisses\naufrechterhalten. Nach § 109 Gewerbeordnung hat der Arbeitnehmer bei Beendigung eines\nArbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Hier fordert § 126 BGB eine\nOriginalunterschrift. Der Anspruch auf Erteilung eines Zeugnisses kann daher nur durch Zuleitung eines mit\nOriginalunterschrift versehenen Zeugnisses erfüllt werden. Dies ist nicht geschehen.\n10\n4. Hinsichtlich der Zwangsvollstreckung zur Erteilung der Arbeitsbescheinigung ist mittlerweile jedenfalls\ndas Rechtsschutzinteresse entfallen, da die Agentur für Arbeit auch die Übermittlung der Kopie für\nausreichend erachtet hat. Die Pflicht zur Erteilung der Arbeitsbescheinigung ist in § 312 SGB III geregelt.\nDie Bescheinigungspflicht ist - soweit nicht eine elektronische Bescheinigung erstellt wird - unter\nVerwendung des von der Bundesagentur vorgesehenen Vordrucks zu erfüllen. Sie wird danach schriftlich\nerteilt und ist mit Unterschrift und Datumsangabe zu versehen (Hauck/Noftz/Voelzke, SGB III, Werksstand\nOktober 2017, § 312 SGB III, Rn. 44). Allerdings gilt im öffentlichen Recht - außer bei öffentlich-rechtlichen\nVerträgen - die Vorschrift des § 126 BGB nicht (Staudinger/Hertel (2017) BGB § 126 Rn 11). Demgemäß\nerkennt die Bundesagentur für Arbeit seit April 2018 maschinelle Bescheinigungen an, „wenn sie 1:1 der\naktuellen Fassung des Papiervordrucks oder dem zwischen der Arbeitsgemeinschaft für wirtschaftliche\nVerwaltung (AWV) e.V. und der BA abgestimmten maschinellen Vordruck entsprechen“ (Fachliche Weisung\nzu § 312 SGB III, Stand 04/2018). Dies ist bei der der Klägerin übermittelten Kopie des unterschriebenen\nOriginals der Arbeitsbescheinigung der Fall.\n11\n5. Die Kosten des Zwangsvollstreckungsverfahrens waren gegeneinander aufzuheben (§§ 891 Satz 3,\n92 ZPO). Das Beschwerdeverfahren hat dazu geführt, dass der ursprüngliche Zwangsgeldbeschluss\nteilweise aufgehoben wurde.\n12\nÜber die sofortige Beschwerde entscheidet das Landesarbeitsgericht ohne Hinzuziehung der\nehrenamtlichen Richter, § 78 Satz 3 ArbGG.\n13\nDer Gegenstandswert für das Beschwerdeverfahren war in Höhe des Hauptsachewertes festzusetzen, wie\nes sich aus der Wertfestsetzung im Vollstreckungstitel, dem Versäumnisurteil, ergibt.\n\n"
+}

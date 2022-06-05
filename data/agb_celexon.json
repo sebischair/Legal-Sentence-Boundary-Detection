@@ -1,0 +1,371 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 188,
+            "start": 178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 390,
+            "start": 387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angebot",
+            "end": 423,
+            "start": 416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 485,
+            "start": 477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unverbindlich",
+            "end": 618,
+            "start": 605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 753,
+            "start": 747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 932,
+            "start": 924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 1010,
+            "start": 1006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1108,
+            "start": 1100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Termine",
+            "end": 1135,
+            "start": 1128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertreten",
+            "end": 1444,
+            "start": 1435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eintreten",
+            "end": 1536,
+            "start": 1527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 1616,
+            "start": 1606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 1730,
+            "start": 1719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2077,
+            "start": 2071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 1910,
+            "start": 1900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versichert",
+            "end": 1984,
+            "start": 1974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 2231,
+            "start": 2227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 2439,
+            "start": 2433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 2546,
+            "start": 2534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Absatzes",
+            "end": 2689,
+            "start": 2681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 2777,
+            "start": 2763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2789,
+            "start": 2783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transport",
+            "end": 2937,
+            "start": 2928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 2956,
+            "start": 2942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 3017,
+            "start": 3007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 3037,
+            "start": 3019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3060,
+            "start": 3042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3205,
+            "start": 3202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schaden",
+            "end": 3485,
+            "start": 3478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpfänden",
+            "end": 3585,
+            "start": 3575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 3602,
+            "start": 3591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 3749,
+            "start": 3738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sicherheit",
+            "end": 3777,
+            "start": 3767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 3813,
+            "start": 3802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 3832,
+            "start": 3814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4131,
+            "start": 4127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 4147,
+            "start": 4133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 4159,
+            "start": 4152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 4221,
+            "start": 4215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4310,
+            "start": 4304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 4380,
+            "start": 4376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abholung",
+            "end": 4573,
+            "start": 4565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 4693,
+            "start": 4683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlbar",
+            "end": 4836,
+            "start": 4829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 5034,
+            "start": 5028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachweist",
+            "end": 5322,
+            "start": 5313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "e",
+            "end": 5567,
+            "start": 5566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tilgen",
+            "end": 5568,
+            "start": 5562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 5762,
+            "start": 5758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 5790,
+            "start": 5783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 5999,
+            "start": 5990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragssprache",
+            "end": 6073,
+            "start": 6058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steinfurt",
+            "end": 6167,
+            "start": 6158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 6264,
+            "start": 6261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhaltet",
+            "end": 6403,
+            "start": 6393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steinfurt",
+            "end": 6547,
+            "start": 6538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 6741,
+            "start": 6734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 6778,
+            "start": 6771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benachrichtigen",
+            "end": 3403,
+            "start": 3388,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\n(1) Diese Allgemeinen Geschäftsbedingungen gelten für sämtliche Lieferungen und Leistungen der celexon Germany GmbH & Co. KG - nachfolgend mit \"Beamershop24\" bezeichnet. Entgegenstehende oder von den Verkaufsbedingungen abweichende Bestimmungen des Kunden haben keine Geltung, sofern Beamershop24 ihrer Geltung nicht ausdrücklich und in schriftlicher Form zugestimmt hat.\n§ 2 Vertragsschluss und Angebot\n(1) Verträge kommen ausschließlich mit der Anschrift zustande.\n(2) Die Angebote von Beamershop24 verstehen sich - sofern nicht ausdrücklich anderweitig vereinbart, freibleibend und unverbindlich.\n(3) Online abgegebene Bestellungen des Kunden sind verbindlich und können von Beamershop24 innerhalb von zwei Tagen angenommen werden. Der Kaufvertrag mit Beamershop24 kommt noch nicht durch die Bestellbestätigung, sondern erst mit Versenden der Auftrags- bzw. Verfügbarkeitsbestätigung von Beamershop24 zustande. Der vorgenannten Bestätigung gleich, steht die Lieferung der bestellten Ware. Bei Zahlung per Vorkasse kommt der Kaufvertrag mit dem Versand der Zahlungsaufforderung zustande.\n§ 3 Lieferung und Termine\n(1) Liefer- und Leistungsverzögerungen, die außerhalb des Einflussbereiches von Beamershop24 liegen und die Lieferung oder Leistung wesentlich erschweren oder unmöglich machen wie z.B. Streik, Aussperrung, behördliche Anordnungen, hat Beamershop24 auch bei verbindlich vereinbarten Fristen nicht zu vertreten. Dies gilt auch, wenn solche Umstände bei Lieferanten oder deren Unterlieferanten eintreten. In diesem Fall verlängern sich die vereinbarten Fristen und Termine angemessen. Beamershop24 wird den Kunden über den Eintritt und die Dauer derartiger Hindernisse schnellstmöglich informieren.\n(2) Die Lieferung der Ware erfolgt durch ein von Beamershop24 beauftragtes Transportunternehmen oder durch eine vorige schriftliche Absprache, die ausdrücklich anderes bezeichnet. Die Ware wird von Beamershop24 gegen Verlust und Beschädigung versichert. Eine Nichtinanspruchnahme der Versicherung muss Beamer¬shop24 schriftlich mitgeteilt werden. In diesem Fall trägt der Kunde, der Kaufmann und nicht Verbraucher i.S. des § 13 BGB ist, das Risiko einer Verschlechterung oder des Untergangs der Ware.\n(3) Der Kunde, der Verbraucher i.S. des § 13 BGB ist, wird gebeten, äußerlich sichtbare Transportschäden unverzüglich dem Zusteller (Spediteur/Postboten) mitzuteilen und sich von diesem quittieren zu lassen. Die Versäumung dieser Rüge hat allerdings für die gesetzlichen Ansprüche dieses Kunden keine Konsequenzen. Soweit der Kunde Kaufmann ist und nicht Verbraucher i.S. des § 13 BGB, besteht eine Verpflichtung zur Rüge im Sinne des vorstehenden Absatzes; bei Versäumung der Rüge sind Entschädigungsansprüche gegen Beamershop24 ausgeschlossen.\n§ 4 Preise\n(1) Die Preise verstehen sich - soweit nicht anders ausgezeichnet - jeweils inklusive gesetzliche Mehrwertsteuer exklusive Verpackung und Transport\n§ 5 Gewährleistung\n(1) Gegenüber Kaufleuten gelten die nachfolgenden Regelungen: Sonderbestimmungen\n§ 6 Eigentumsvorbehalt\n(1) Beamershop24 behält sich das Eigentum an der gelieferten Ware bis zur vollständigen Zahlung sämtlicher Forderungen aus dem Liefervertrag vor.\n(2) Bei Pfändungen oder sonstigen Eingriffen Dritter hat der Kunde den Dritten auf die Beamershop24 an der Kaufsache zustehenden Rechte hinzuweisen und Beamershop24 unverzüglich zu benachrichtigen. Verletzt der Kunde diese Pflicht, haftet er für den dadurch entstandenen Schaden. Der Kunde ist nicht berechtigt, die unter Eigentumsvorbehalt gelieferten Gegenstände zu verpfänden.\n§ 7 Datenschutz\nSämtliche von dem Kunden übermittelte Daten werden von Beamershop24 unter Einhaltung der einschlägigen Datenschutzbestimmungen be- und verarbeitet: Datenschutz und Sicherheit.\n§ 8 Widerrufsrecht für Verbraucher\nWiderrufsbelehrung\nDas o. g. Widerrufsrecht besteht nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.\nMusterformular\n§ 9 Zahlung\n(1) Sämtliche Forderungen werden mit Rechnungsstellung fällig. Sie sind ohne Skonto zahlbar, sofern keine abweichenden Vereinbarungen getroffen wurden. Die Rechnungsstellung erfolgt in der Regel mit Auslieferung der Ware.\n(2) Ist der Kunde Verbraucher i.S.v. § 13 BGB, erfolgt die Zahlung entweder per Barnachnahme, per Vorauskasse, per Rechnung, per Paypal, per Amazon Payments oder durch Barzahlung bei Abholung. Bei Zahlung per Bankeinzug (Paypal oder Amazon Payments) erfolgt die Belastung des Kontos mit Abschluss der Bestellung. Bei Kauf auf Rechnung ist der Rechnungsbetrag - soweit nichts anderes vereinbart ist - innerhalb von 8 Tagen nach Zugang der Rechnung zahlbar. Der Kunde kommt automatisch in Verzug, wenn er innerhalb von 14 Tagen nach Rechnungszugang die Zahlung auf die Rechnung nicht leistet, ohne dass es einer weiteren Mahnung durch Beamershop24 bedarf.\n(3) Kommt der Kunde in Zahlungsverzug, ist Beamershop24 berechtigt, Verzugszinsen in Höhe von 5%, bei Kaufleuten in Höhe von 8% über dem Leitzins der Europäischen Zentralbank zu verlangen, sofern nicht der Kunde einen geringeren Schaden oder Beamershop24 einen höheren Schaden nachweist.\n(4) Sollte der Kunde Beamershop24 mehrere Zahlungen schulden, ist Beamershop24 trotz Anderslauten der Tilgungsbestimmungen des Kunden berechtigt, zunächst die fällige Schuld, unter mehreren fälligen Schulden die jeweils älteste Schuld zu tilgen.\n(5) Gegen Forderungen von Beamershop24 steht dem Kunden die Befugnis zur Aufrechnung und Zurückbehaltung nur soweit zu, als die Gegenansprüche unbestritten oder rechtskräftig festgestellt sind.\n§ 10 Salvatorische Klausel\nSollte eine Bestimmung dieser Verkaufsbedingungen ganz oder teilweise unwirksam sein oder werden, so lässt dies die Wirksamkeit dieser Bestimmung im Übrigen oder dieser Verkaufsbedingungen im Ganzen unberührt.\n§ 11 Gerichtsstand, Erfüllungsort, anwendbares Recht und Vertragssprache\n(1) Ist der Kunde Vollkaufmann, befindet sich der Gerichtsstand beim Amtsgericht in Steinfurt. Dies schließt eine Klage von Beamershop24 am Gericht des Wohnsitzes des Kunden jedoch nicht aus.\n(2) Der Erfüllungsort befindet sich in Emsdetten, sofern der Kunde Vollkaufmann ist und die Auftragsbestätigung nichts anderes beinhaltet.\n(3) Bei privaten Endverbrauchern, die einen Wohnsitz außerhalb der Europäischen Union haben, ist der Gerichtstand das Amtsgericht in Steinfurt. Bei privaten Endverbrauchern innerhalb der Europäischen Union kann das Recht am Wohnsitz des Endverbrauchers anwendbar sein, wenn es sich zwingend um verbraucherrechtliche Bestimmungen handelt.\n(4) Die Vertragssprache ist deutsch.\n\n"
+}

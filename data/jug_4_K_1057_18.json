@@ -1,0 +1,1409 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuerfestsetzung",
+            "end": 242,
+            "start": 225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 254,
+            "start": 243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenzgängerregelung",
+            "end": 334,
+            "start": 315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 345,
+            "start": 335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8158",
+            "end": 364,
+            "start": 360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 370,
+            "start": 365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 399,
+            "start": 389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 448,
+            "start": 438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 481,
+            "start": 471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 502,
+            "start": 483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 504,
+            "start": 503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 507,
+            "start": 506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 715,
+            "start": 704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 718,
+            "start": 717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 835,
+            "start": 824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schweiz",
+            "end": 984,
+            "start": 977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 987,
+            "start": 986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätig",
+            "end": 1099,
+            "start": 1094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versetzt",
+            "end": 1166,
+            "start": 1158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattfand",
+            "end": 1278,
+            "start": 1269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "krankgeschrieben",
+            "end": 1392,
+            "start": 1376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbehalten",
+            "end": 1505,
+            "start": 1494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1508,
+            "start": 1507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 1760,
+            "start": 1756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2290,
+            "start": 2287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2293,
+            "start": 2292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 2336,
+            "start": 2333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2339,
+            "start": 2338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herabgesetzt",
+            "end": 2497,
+            "start": 2485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernommen",
+            "end": 2628,
+            "start": 2618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2631,
+            "start": 2630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 2726,
+            "start": 2720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2968,
+            "start": 2963,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3053,
+            "start": 3052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 3319,
+            "start": 3315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3322,
+            "start": 3321,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3381,
+            "start": 3380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3821,
+            "start": 3816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freizustellen",
+            "end": 4017,
+            "start": 4004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolge",
+            "end": 4241,
+            "start": 4234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 4716,
+            "start": 4705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlägen",
+            "end": 4952,
+            "start": 4944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 5119,
+            "start": 5108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5122,
+            "start": 5121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5446,
+            "start": 5442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5450,
+            "start": 5448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 5573,
+            "start": 5571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 5615,
+            "start": 5612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5619,
+            "start": 5617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 5738,
+            "start": 5728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 5873,
+            "start": 5864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handle",
+            "end": 6182,
+            "start": 6176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6337,
+            "start": 6331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6430,
+            "start": 6424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verändern",
+            "end": 6776,
+            "start": 6767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzesvorbehalts",
+            "end": 6892,
+            "start": 6874,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7311,
+            "start": 7310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründe",
+            "end": 7578,
+            "start": 7570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 7720,
+            "start": 7709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffe",
+            "end": 7926,
+            "start": 7918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7930,
+            "start": 7928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 8035,
+            "start": 8026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolge",
+            "end": 8234,
+            "start": 8227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 8389,
+            "start": 8384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 8489,
+            "start": 8485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wegzug",
+            "end": 8617,
+            "start": 8611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuerflucht",
+            "end": 8828,
+            "start": 8816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 9030,
+            "start": 9026,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9257,
+            "start": 9256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Voraussetzungen",
+            "end": 9360,
+            "start": 9345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lebten",
+            "end": 9526,
+            "start": 9520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Familienzusammenführung",
+            "end": 9877,
+            "start": 9854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9881,
+            "start": 9879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 10078,
+            "start": 10075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 10213,
+            "start": 10202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzusehen",
+            "end": 10454,
+            "start": 10445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10458,
+            "start": 10456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 10572,
+            "start": 10566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 10576,
+            "start": 10574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schweiz",
+            "end": 10728,
+            "start": 10721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsangehörigkeit",
+            "end": 11044,
+            "start": 11025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 11348,
+            "start": 11342,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11623,
+            "start": 11622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 11909,
+            "start": 11901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehöre",
+            "end": 12124,
+            "start": 12118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12339,
+            "start": 12336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 12614,
+            "start": 12608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 12999,
+            "start": 12994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13003,
+            "start": 13001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 13116,
+            "start": 13112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 13369,
+            "start": 13366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13373,
+            "start": 13371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 13631,
+            "start": 13627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "greifen",
+            "end": 13732,
+            "start": 13725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestand",
+            "end": 13804,
+            "start": 13797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 13808,
+            "start": 13806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handle",
+            "end": 14184,
+            "start": 14178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 14353,
+            "start": 14348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 14470,
+            "start": 14464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 14764,
+            "start": 14761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14768,
+            "start": 14766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 14969,
+            "start": 14964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinaus",
+            "end": 15063,
+            "start": 15057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 15138,
+            "start": 15128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15142,
+            "start": 15140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwunderlich",
+            "end": 15203,
+            "start": 15190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 15319,
+            "start": 15312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 15532,
+            "start": 15527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuhebeln",
+            "end": 15724,
+            "start": 15713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 15818,
+            "start": 15808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 16087,
+            "start": 16084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16091,
+            "start": 16089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 16183,
+            "start": 16176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 16329,
+            "start": 16325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16333,
+            "start": 16331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stichhaltig",
+            "end": 16475,
+            "start": 16464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelte",
+            "end": 16646,
+            "start": 16641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 16650,
+            "start": 16648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 16722,
+            "start": 16717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 16726,
+            "start": 16724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 17146,
+            "start": 17140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 17150,
+            "start": 17148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 17225,
+            "start": 17215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 17229,
+            "start": 17227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 17394,
+            "start": 17390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 17398,
+            "start": 17396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 17520,
+            "start": 17511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 17605,
+            "start": 17597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 17609,
+            "start": 17607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 17613,
+            "start": 17611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 17639,
+            "start": 17628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 17643,
+            "start": 17641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtswidrig",
+            "end": 17719,
+            "start": 17707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einkommensteuer",
+            "end": 17806,
+            "start": 17791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 17810,
+            "start": 17808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17949,
+            "start": 17946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streiten",
+            "end": 18218,
+            "start": 18210,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18822,
+            "start": 18821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 18826,
+            "start": 18824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19066,
+            "start": 19063,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19250,
+            "start": 19249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 19385,
+            "start": 19380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19389,
+            "start": 19387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19591,
+            "start": 19590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 19867,
+            "start": 19861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 20024,
+            "start": 20018,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20192,
+            "start": 20191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 20196,
+            "start": 20194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollte",
+            "end": 20417,
+            "start": 20411,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20640,
+            "start": 20639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 20644,
+            "start": 20642,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21028,
+            "start": 21027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 21032,
+            "start": 21030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21154,
+            "start": 21151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 21391,
+            "start": 21384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 21395,
+            "start": 21393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21498,
+            "start": 21495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 21502,
+            "start": 21500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21831,
+            "start": 21825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 22165,
+            "start": 22162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 22169,
+            "start": 22167,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22377,
+            "start": 22376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 22381,
+            "start": 22379,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22697,
+            "start": 22696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 22701,
+            "start": 22699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 23146,
+            "start": 23138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beseitigen",
+            "end": 23560,
+            "start": 23550,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23918,
+            "start": 23917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 23922,
+            "start": 23920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschehen",
+            "end": 24111,
+            "start": 24102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 24115,
+            "start": 24113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herbeizuführen",
+            "end": 24502,
+            "start": 24488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 24506,
+            "start": 24504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 24677,
+            "start": 24669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24799,
+            "start": 24793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 24803,
+            "start": 24801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getan",
+            "end": 24863,
+            "start": 24858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 25109,
+            "start": 25107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 25113,
+            "start": 25111,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25399,
+            "start": 25398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitfall",
+            "end": 25429,
+            "start": 25419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spielräume",
+            "end": 25540,
+            "start": 25530,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26052,
+            "start": 26051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 26056,
+            "start": 26054,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26540,
+            "start": 26539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 26544,
+            "start": 26542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GG",
+            "end": 26759,
+            "start": 26757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 26763,
+            "start": 26761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beurteilung",
+            "end": 27066,
+            "start": 27055,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27295,
+            "start": 27294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 27299,
+            "start": 27297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 27530,
+            "start": 27523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 27534,
+            "start": 27532,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27850,
+            "start": 27849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 27854,
+            "start": 27852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 27992,
+            "start": 27986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 28126,
+            "start": 28117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veröffentlicht",
+            "end": 28203,
+            "start": 28189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 28386,
+            "start": 28385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 28695,
+            "start": 28692,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28918,
+            "start": 28917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 28922,
+            "start": 28920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 29231,
+            "start": 29224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 29235,
+            "start": 29233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 29383,
+            "start": 29381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausdruck",
+            "end": 29523,
+            "start": 29515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zieht",
+            "end": 29629,
+            "start": 29624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlegen",
+            "end": 29825,
+            "start": 29817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 29829,
+            "start": 29827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 30236,
+            "start": 30228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 30632,
+            "start": 30629,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31033,
+            "start": 31032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 31037,
+            "start": 31035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingreift",
+            "end": 31339,
+            "start": 31330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 31343,
+            "start": 31341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 31676,
+            "start": 31672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 31854,
+            "start": 31850,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32151,
+            "start": 32150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "willkürlich",
+            "end": 32354,
+            "start": 32343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 32358,
+            "start": 32356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unmöglich",
+            "end": 32688,
+            "start": 32679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 32692,
+            "start": 32690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 32902,
+            "start": 32895,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33070,
+            "start": 33069,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33339,
+            "start": 33338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verziehen",
+            "end": 33648,
+            "start": 33639,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33954,
+            "start": 33953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 33958,
+            "start": 33956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 34080,
+            "start": 34077,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34282,
+            "start": 34281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 34286,
+            "start": 34284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 34397,
+            "start": 34387,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 25.04.2019 – 4 K 1057/18\nTitel:\nFamilienzusammenführung, DBA Schweiz, Billigkeitsregelung,\nKonsultationsvereinbarungsverordnung, Ermessenslenkende Verwaltungsvorschrift,\nBilligkeitsmaßnahme, Abweichende Steuerfestsetzung\nSchlagworte:\nDBA-Schweiz, Konsultationsvereinbarungsverordnung-Schweiz, Grenzgängerregelung\nFundstelle:\nBeckRS 2019, 8158\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Klägerin trägt die Kosten des Verfahrens.\n3. Die Revision wird zugelassen.\nEntscheidungsgründe\nI.\n1\nStreitig ist, ob die Einkünfte der Klägerin aus einer nichtselbständigen Arbeit in Deutschland nach ihrem\nWegzug in die Schweiz im Jahr 2012 aus Billigkeitsgründen nicht der deutschen Besteuerung unterliegen.\n2\nDie (seit Mai 2012 verheiratete) Klägerin bezog im Streitjahr Einkünfte aus nichtselbständiger Arbeit in\nDeutschland. Sie verlegte zusammen mit ihrem Ehemann, einem Schweizer Staatsangehörigen, ihren\nWohnsitz am 17. August 2012 von Deutschland nach S in der Schweiz.\n3\nDer Ehegatte war auch nach dem Umzug bis zum Jahresende für den bisherigen Arbeitgeber, die Firma T\nin A, tätig. Die Klägerin wurde zum 1. August 2012 an das Gymnasium L versetzt. Der erste reguläre\nArbeitstag nach den Ferien war der 12. September 2012, an dem die Lehrerkonferenz stattfand. Ab dem 13.\nSeptember 2012 war die Klägerin bis zum Beginn des Mutterschutzes am 1. Oktober 2012\nkrankgeschrieben. In Deutschland wurde für die Monate August bis Dezember 2012 Lohnsteuer i.H.v. 4,5%\ndes Bruttolohns einbehalten.\n4\nNach Schriftsatzaustausch über streitige Fragen (u.a. mit einem Schriftsatz des beklagten Finanzamts - FA\n- vom 19. Dezember 2014) setzte das FA mit Bescheid vom 31. März 2015 die Einkommensteuer 2012 der\nKlägerin und ihres Ehemannes auf 18.484 € fest. Dabei ging es - abweichend von der Steuererklärung der\nEhegatten - davon aus, dass die Grenzgängerregelung des Abkommens zwischen der Bundesrepublik\nDeutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem\nGebiete der Steuern vom Einkommen und vom Vermögen vom 11. August 1971 (BGBl II 1972, 1022; BStBl\nI 1972, 519) i.d.F. des Protokolls vom 27. Oktober 2010 (BGBl II 2011, 1092, 2012, 279; BStBl I 2012, 513,\n516) - DBA-Schweiz - auf die Klägerin und ihren Ehemann nicht anwendbar sei.\n5\nDagegen legten die Ehegatten Einspruch ein.\n6\nMit nach § 172 Abs. 1 Satz 1 Nr. 2 der Abgabenordnung (AO) geändertem Bescheid vom 14. Dezember\n2015 wurde die Einkommensteuer 2012 auf 16.911 € herabgesetzt. Dabei wurden nunmehr hinsichtlich der\nEinkünfte des Ehemannes der Klägerin die Angaben in der Einkommensteuererklärung übernommen.\n7\nMit Einspruchsentscheidung vom 13. April 2016 wies das FA den Einspruch als unbegründet zurück. Dabei\nverwies das FA - im Wege der Bezugnahme auf einen Schriftsatz vom 19. Dezember 2014 - im\nWesentlichen darauf, dass Bezüge der Klägerin für September bis Dezember 2012 i.H.v. 14.996 €\nausschließlich in Deutschland steuerpflichtig seien. Zwar sei der Wegzug in die Schweiz wegen Heirat\nerfolgt (Art. 4 Abs. 4 DBA-Schweiz). Jedoch finde die Grenzgängerregelung nach Art. 15a Abs. 2 DBASchweiz\nnicht Anwendung, weil sich die Klägerin im vorgenannten Zeitraum nur an einem einzigen\nArbeitstag von ihrem Wohnort in der Schweiz über die Grenze an die Arbeitsstätte in Deutschland begeben\nhabe.\n8\nDagegen wandten sich die Ehegatten mit einer Klage (Az. …). Nach Klageerhebung erließ das FA - nach\nDurchführung eines Verständigungsverfahrens, dessen Ergebnis von den Ehegatten abgelehnt wurde -\naufgrund einer Anweisung des Bayerischen Landesamtes für Steuern zuletzt am 29. Januar 2018 einen\nnach § 172 Abs. 1 Satz 1 Nr. 2 AO geänderten Bescheid, mit dem die Verständigungslösung (deutsches\nBesteuerungsrecht nach Art. 4 Abs. 4 DBA-Schweiz, Anrechnung der schweizerischen Steuer) umgesetzt\nwurde. Die eingelegte Klage blieb aufrechterhalten mit dem Begehren, die Einkünfte der Klägerin von\nSeptember bis Dezember 2012 von der deutschen Besteuerung (unter Progressionsvorbehalt) freizustellen.\nDabei gingen die Ehegatten jedoch im Wesentlichen davon aus, dass Art. 4 Abs. 4 DBA-Schweiz nicht\nanwendbar sei, wenn der Umzug in die Schweiz wegen einer Heirat mit einer Person schweizerischer\nStaatsangehörigkeit erfolge. Der dies regelnde § 18 Abs. 2 der Verordnung zur Umsetzung von\nKonsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Schweizerischen\nEidgenossenschaft - Deutsch-Schweizerische Konsultationsvereinbarungsverordnung - vom 20. Dezember\n2010 (BGBl I 2010, 2187 - KonsVerCHEV -) sei jedoch eine Billigkeitsregelung nach § 163 AO und daher\nsei darüber nicht im Steuerfestsetzungsverfahren, sondern einem Verfahren über eine Billigkeitsmaßnahme\nzu entscheiden. Das FA vertrat in diesem Klageverfahren die Ansicht, Art. 4 Abs. 4 DBA-Schweiz sei\neinschlägig, weil die Voraussetzungen des im Steuerfestsetzungsverfahren zu beachtenden § 18 Abs. 2\nKonsVerCHEV (sog. „Heiratsprivileg“) nicht vorlägen. Denn der Wegzug sei nicht wegen Heirat, also\nFamilienzusammenführung, erfolgt, sondern erst Jahre nach dem Zusammenleben in einem gemeinsamen\nHaushalt in Deutschland.\n9\nMit Schreiben vom 6. Februar 2018 beantragte die Klägerin beim FA, nach § 163 AO von der Anwendung\ndes Art. 4 Abs. 4 DBA-Schweiz abzusehen, weil sie nur drei Monate vor ihrem Umzug in die Schweiz und\ndamit innerhalb von sechs Monaten (vgl. OFD Karlsruhe in Fach A Teil 4 Nr. 1 des sog.\nGrenzgängerhandbuchs) geheiratet habe.\n10\nMit Bescheid vom 15. Februar 2018 - adressiert an die Klägerin und ihren Ehemann - lehnte das FA den\nbeantragten Erlass ab. Dagegen legte die Klägerin Einspruch ein.\n11\nMit Bescheid vom 26. Februar 2018 wurde der Bescheid vom 15. Februar 2018 über die „Ablehnung des\nErlasses“ aufgehoben. Mit Bescheid vom 28. Februar 2018 - nunmehr adressiert an die Klägerin - wurde\nder beantragte „Erlass nach § 163 AO“ erneut abgelehnt. Dabei ging das FA im Wesentlichen davon aus,\ndass der Antrag der Klägerin auf abweichende Steuerfestsetzung gemäß § 163 AO abzulehnen sei, weil es\nsich bei der Regelung des § 18 Abs. 2 KonsVerCHEV nicht um eine Billigkeitsregelung, sondern um eine\ngesetzliche Regelung im Rahmen der Steuerfestsetzung handle. Denn durch § 2 Abs. 2 AO sei die\nErmächtigungsgrundlage für den Erlass von Rechtsverordnungen zur Umsetzung von\nKonsultationsvereinbarungen gelegt worden. Auf dieser Grundlage sei die KonsVerCHEV in den Rang einer\nRechtsverordnung gestellt worden. An dieser Einschätzung ändere auch das Urteil des Bundesfinanzhofs\n(BFH) vom 10. Juni 2015 (I R 79/13, BStBl II 2016, 326) nichts, da sich dieses ausschließlich mit § 24\nKonsVerCHEV befasse und dabei feststelle, dass es ausgeschlossen sei, mittels Verordnung den Text des\nAbkommens und damit die Besteuerungszuordnung für Einkünfte zu verändern. Dabei verweise der BFH\nauf Art. 80 des Grundgesetzes (GG) und den dort verorteten Grundsatz des Gesetzesvorbehalts. Bei der\nPrüfung des Gesetzesvorbehalts seien vor dem Hintergrund der Wesentlichkeitstheorie die Anforderungen\nan das Maß der gesetzlichen Bestimmtheit einer Ermächtigung zu Gunsten eines Steuerpflichtigen geringer\nals bei Eingriffsermächtigungen, weil deren Grundrechtsrelevanz regelmäßig erheblich gewichtiger sei\n(Beschluss des Bundesverfassungsgerichts - BVerfG - vom 19. April 1978 2 BvL 2/75, BStBl II 1978, 548).\nVorliegend stelle die in § 18 Abs. 2 KonsVerCHEV niedergelegte Regelung eine den Steuerpflichtigen\nausschließlich begünstigende Regelung dar, denn sie normiere eine teleologische Einschränkung des Art. 4\nAbs. 4 DBA-Schweiz, der eine Steuerpflicht im Inland begründe. Vor diesem Hintergrund sei ein Verstoß\ngegen das Bestimmtheitsgebot oder den Gesetzesvorbehalt bei § 18 Abs. 2 KonsVerCHEV nicht ersichtlich.\nDementsprechend ordne das Schreiben des Bundesministeriums der Finanzen (BMF) vom 31. März 2016\n(BStBl I 2016, 474) die Anwendung der Rechtsverordnung weiter an, soweit sie nicht § 24 KonsVerCHEV\nbetreffe.\n12\nUnabhängig davon komme § 18 Abs. 2 KonsVerCHEV vorliegend bei zutreffender Auslegung nicht zur\nAnwendung. Voraussetzung für das Vorliegen der Ausnahmeregelung sei neben der Heirat, die in einem\nzeitlichen Zusammenhang mit dem Wegzug stattfinden müsse, dass hierdurch eine\nFamilienzusammenführung erfolge. Eine Familienzusammenführung liege vor, wenn vor dem Wegzug ein\nPartner in einem anderen Land lebe und der Wohnsitz durch den Wegzug zusammengelegt werde.\nAuslösendes Moment für den Wegzug müsse daher - wofür schon der Wortlaut spreche - die Heirat sein.\nWenn - wie im vorliegenden Fall - die Ehegatten schon vor der Eheschließung zusammenlebten, erfordere\ndie Heirat keinen Wegzug. Dafür spreche auch das Motiv der Schweiz für die getroffene\nAusnahmeregelung, wonach der Familienzusammenführung ein höherer Stellenwert einzuräumen sei als\nder vom Gesetz als Regelfall vermuteten Steuerflucht. Auch wenn Motive für die Vereinbarung aus\ndeutscher Sicht nicht veröffentlicht seien, sei anzunehmen, dass Deutschland im Rahmen der getroffenen\nVereinbarung die schweizerische Ansicht übernommen habe. Auch der BFH sehe in der Regelung die\nBegünstigung einer Familienzusammenführung, dies aber nur bei einer Heirat und nur im zeitlichen\nZusammenhang mit dem Wegzug (BFH-Beschluss vom 27. Juli 2011 I R 44/10, BFH/NV 2011, 2005).\nDaraus ergebe sich ein Stufenverhältnis in Bezug auf die Prüfung der tatbestandlichen Voraussetzungen.\nDiese seien im Streitfall nicht erfüllt, weil die Klägerin und ihr Ehemann schon seit 2007 und damit weit vor\nder Eheschließung in einem gemeinsamen Haushalt lebten. Auch wenn die Regelung im\nGrenzgängerhandbuch der OFD Karlsruhe, an das die bayerische Finanzverwaltung nicht gebunden sei, mit\ndem zeitlichen Moment der Einhaltung einer Sechsmonatsfrist zwischen Heirat und Wegzug eine willkürfreie\nIndizregelung konkretisiere, so fehle es vorliegend jedoch bereits am Tatbestandsmerkmal der\nFamilienzusammenführung.\n13\nDarüber hinaus ließen sich aus dem vorgetragenen Sachverhalt keine Anhaltspunkte dafür entnehmen,\ndass dessen Behandlung im Einzelfall mit dem Sinn und Zweck des Steuergesetzes nicht vereinbar sei.\nGründe, die eine Ausnahme von der genannten allgemeinen Sachbehandlung erforderlich machten, seien\nweder vorgetragen noch ersichtlich. Insbesondere sei nicht erkennbar, dass eine Notwendigkeit bestehe, im\nkonkreten Einzelfall im Wege der Billigkeit über die Ausnahme des § 18 Abs. 2 KonsVerCHEV hinaus von\nder Festsetzung der Steuer gemäß Art. 4 Abs. 4 DBA-Schweiz abzusehen.\n14\nDen dagegen eingelegten Einspruch wies das FA mit Einspruchsentscheidung vom 26. März 2018 als\nunbegründet zurück.\n15\nZur Begründung der dagegen gerichteten Klage trägt die Klägerin im Wesentlichen Folgendes vor: Streitig\nsei die Anwendung des Art. 4 Abs. 4 DBA-Schweiz. Dadurch komme es zu einem Problem in formeller\nHinsicht, weil im BMF-Schreiben vom 19. September 1994 (BStBl I 1994, 683) in Tz. 41 festgelegt sei, dass\nArt. 4 Abs. 4 DBA-Schweiz nicht anzuwenden sei, wenn der Umzug in die Schweiz erfolgt sei wegen einer\nHeirat mit einer Person schweizerischer Staatsangehörigkeit. Nach BFH-Beschluss vom 27. Juli 2011 (I R\n44/10, BFH/NV 2011, 2005) sei dies eine Billigkeitsregelung nach § 163 AO. Mit § 18 Abs. 2 sei diese\nRegelung in die Konsultationsvereinbarungen mit der Eidgenössischen Steuerverwaltung (KonsVerCHEV)\nvom 20. Dezember 2010 (BGBl I 2010, 2187) aufgenommen worden. Seither werde im Schrifttum\nkontrovers darüber diskutiert, ob es sich hier weiterhin um eine Billigkeitsregelung nach § 163 AO handle,\nwas überwiegend bejaht werde (z.B. Brandis in Wassermeyer, DBA Schweiz, Art. 15 Rn. 30 [Stand Mai\n2012], Art. 1 Rn. 8 [Stand Januar 2013]). Mit Urteil vom 10. Juni 2015 (I R 79/13, BStBl II 2016, 326)\nbetreffend § 24 KonsVerCHEV habe sich der BFH mit seiner Entscheidung im Ergebnis dieser Auffassung\nangeschlossen, dass es mit diesen Konsultationsvereinbarungen nicht gelungen sei, eine gültige\nRechtsverordnung zu erlassen. Mit BMF-Schreiben vom 31. März 2016 (BStBl I 2016, 474) sei daraufhin\nangeordnet worden, die Grundsätze des BFH-Urteils nur für bestimmte Regelungen anzuwenden, zu denen\n§ 18 Abs. 2 KonsVerCHEV jedoch nicht gehöre. Deshalb würden das Bayerische Landesamt für Steuern\nund damit auch das FA die Auffassung vertreten, dass die Anwendung dieser Bestimmung Teil des\nSteuerfestsetzungsverfahrens und nicht mehr Billigkeitsmaßnahme sei. Zwar habe sich der BFH im\nvorgenannten Urteil zu dieser Frage nicht direkt geäußert, sodass es auch nicht zwingend erscheine, dass\naus dem Nichtanwendungserlass des BMF geschlossen werden könne, dass das BMF auch die\nAnwendung des § 18 Abs. 2 KonsVerCHEV habe regeln wollen. Da aber die Gerichte ohnehin nicht an den\nNichtanwendungserlass gebunden seien, könne aus der Entscheidung des BFH nach Meinung der Klägerin\nnur der Schluss gezogen werden, dass sich an der im Beschluss des BFH vom 27. Juli 2011 (I R 44/10,\nBFH/NV 2011, 2005) aufgezeigten Rechtslage nichts geändert habe und über die Streitfrage weiterhin im\nBilligkeitswege entschieden werden müsse.\n16\nDann aber stelle sich die Frage, ob das FA nicht schon eine entsprechende Billigkeitsentscheidung\ngetroffen habe. Denn im Schriftsatz vom 19. Dezember 2014 stelle das FA zur Anwendung des Art. 4 Abs. 4\nDBA-Schweiz fest, dass diese Regelung hier nicht greife, da der Wegzug in die Schweiz wegen Heirat mit\neiner Person schweizerischer Staatsangehörigkeit erfolgt sei.\n17\nLetztendlich sei die Frage, in welchem Verfahren über die Regelung des § 18 Abs. 2 KonsVerCHEF zu\nbefinden sei, zwar formell bedeutsam, aber materiell nicht entscheidend, weil in beiden Verfahren die\nAnwendung des Art. 4 Abs. 4 DBA-Schweiz zu verneinen wäre. Denn auch im Festsetzungsverfahren\nwürden die vom BFH festgelegten Grundsätze gleichermaßen greifen. Die Verwaltungsanweisung im\nGrenzgängerhandbuch habe weiterhin Bestand.\n18\nDer BFH habe in seiner Entscheidung vom 27. Juli 2011 (I R 44/10, BFH/NV 2011, 2005)\nunmissverständlich dargelegt, dass es sich bei der strittigen Regelung in Gestalt der weiterhin geltenden\nVerwaltungsanweisung in Fach A Teil 4 Nr. 1 des Grenzgängerhandbuchs der OFD Karlsruhe um eine\nwillkürfreie Indizregel für den sachlichen Zusammenhang zwischen Wegzug und Heirat handle. Damit\nwerde für Rechtssicherheit gesorgt, weil die Frage „wegen Heirat“ eine innere Tatsache sei, die nur jeder\nEhegatte für sich selbst zweifelsfrei beantworten könne. Deshalb könne die Finanzverwaltung in diese\nFormulierung auch ein Zeitmoment hineinlesen, um dem Rechnung zu tragen. Eine zeitliche Grenze schaffe\nzudem Planungssicherheit für Heiratswillige, vermittle Steuerpflichtigen über den Grundsatz der\nSelbstbindung der Verwaltung Vertrauensschutz und setze sie insoweit nicht den möglichen\nUnwägbarkeiten einer späteren Tatsachen- und Beweiswürdigung durch Dritte aus.\n19\nDie vom FA dargestellte Unterscheidung, wonach § 18 Abs. 2 KonsVerCHEV eine begünstigende Regelung\nsei und deshalb die Erwägungen des BFH betreffend § 24 KonsVerCHEV nicht gelten sollten, greife nicht.\nAuch bei § 18 Abs. 2 KonsVerCHEV gehe der Verordnungstext über den Text des Abkommens hinaus.\nAbgesehen davon seien Billigkeitsmaßnahmen immer begünstigende Regelungen.\n20\nDie Ausführungen zum Motiv für den Umzug seien verwunderlich. Denn das Motiv der\n„Familienzusammenführung“ habe es bei dieser Vereinbarung nur aus der Sicht der Schweiz gegeben. Nun\nwerde die Ablehnung auf das Motiv für diese Vereinbarung auf schweizerischer Seite gestützt, während das\nMotiv für die Anwendung des Art. 4 Abs. 4 DBA-Schweiz „Steuerflucht“ überhaupt nicht hinterfragt werde.\nZwar möge das Motiv für die Anwendung einer gesetzlichen Vorschrift in der Regel keine Rolle spielen, so\ndiene es im Streitfall dem FA dennoch dazu, eine Vertrauensschutzregelung auszuhebeln. Ein Motiv sei\neindeutig nicht als Voraussetzung für die Anwendung dieser Regelung festgelegt. Der BFH habe im\nBeschluss vom 27. Juli 2011 (I R 44/10, BFH/NV 2011, 2005) nur darauf abgestellt, dass die Zeitregel der\n6-monatigen Frist vor oder nach dem Wegzug als willkürfreie Indizienregel für den sachlichen\nZusammenhang zwischen Wegzug und Heirat anzusehen sei.\n21\nSelbst wenn auf das Motiv der Familienzusammenführung abzustellen wäre, wäre dieses erfüllt. Denn der\nUmzug sei wegen Heirat erfolgt und auch eine Familienzusammenführung sei erfolgt, weil es vor der Heirat\nnoch keine solche gegeben habe.\n22\nAuch die vom FA genannten Gründe dafür, dass das Grenzgängerhandbuch der OFD Karlsruhe nicht\nzwingend anzuwenden sei, seien nicht stichhaltig. Es sei nicht denkbar, dass der BFH darin eine\nVertrauensschutzregelung gesehen hätte, wenn er nicht davon ausgegangen wäre, dass diese für die\nVerwaltung allgemein gelte.\n23\nDie vom FA in der Ablehnung genannten zwei Prüfungsebenen gebe es nicht.\n24\nDie Klägerin beantragt,\nden Bescheid vom 28. Februar 2018 und die Einspruchsentscheidung vom 26. März 2018 aufzuheben und\ndas FA zu verpflichten, die Einkommensteuer 2012 abweichend dahingehend festzusetzen, dass die\nEinkünfte der Klägerin aus ihrer nichtselbständigen Tätigkeit von September bis Dezember 2012 i.H.v.\n14.996 € von der Besteuerung freigestellt werden und nur dem Progressionsvorbehalt unterworfen werden.\n25\nDas FA beantragt,\ndie Klage abzuweisen,\nhilfsweise die Revision zuzulassen.\n26\nDas FA verweist zur Klageerwiderung im Wesentlichen auf die Einspruchsentscheidung bzw. den Bescheid\nüber die Ablehnung der Billigkeitsmaßnahme vom 28. Februar 2018.\n27\nHinsichtlich der weiteren Einzelheiten des Vorbringens der Beteiligten wird auf die ausgetauschten\nSchriftsätze verwiesen. Auf das Protokoll der mündlichen Verhandlung vom 25. April 2019 wird Bezug\ngenommen.\nII.\n28\nDie Klage ist unbegründet.\n29\nDie Ablehnung einer Billigkeitsmaßnahme durch das FA ist nicht rechtswidrig. Die Klägerin hat keinen\nAnspruch auf eine abweichende Festsetzung der Einkommensteuer.\n30\n1. Nach § 163 Satz 1 AO kann eine Steuer u.a. niedriger festgesetzt werden, wenn ihre Erhebung nach\nLage des einzelnen Falles unbillig ist. Die Unbilligkeit der Erhebung einer Steuer, an die § 163 AO die\nMöglichkeit einer abweichenden Steuerfestsetzung knüpft, kann sich aus sachlichen oder aus persönlichen\nGründen ergeben, wobei die Beteiligten des Streitfalles zu Recht nur um die erste Variante streiten.\nSachlich unbillig ist die Festsetzung einer Steuer, wenn sie zwar äußerlich dem Gesetz entspricht, aber den\nWertungen des Gesetzgebers im konkreten Einzelfall derart zuwiderläuft, dass die Steuererhebung als\nunbillig erscheint, d.h., dass nach dem erklärten oder mutmaßlichen Willen des Gesetzgebers angenommen\nwerden kann, dass der Gesetzgeber die zu entscheidende Frage im Sinne der beabsichtigten\nBilligkeitsmaßnahme geregelt hätte, wenn er sie geregelt hätte (ständige Rechtsprechung, z.B. BFH-Urteile\nvom 26. Mai 1994 IV R 51/93, BStBl II 1994, 833; vom 19. März 2009 V R 48/07, BStBl II 2010, 92).\n31\nDie abweichende Steuerfestsetzung ist eine Maßnahme der finanzbehördlichen Billigkeit im\nSteuerschuldverhältnis, über die in einem vom Steuerfestsetzungsverfahren gesonderten Verfahren durch\neigenständigen Verwaltungsakt zu entscheiden ist. Dieser Verwaltungsakt unterliegt, wenn die begehrte\nBilligkeitsmaßnahme abgelehnt wurde, nur einer eingeschränkten gerichtlichen Überprüfung (§ 102 der\nFinanzgerichtsordnung - FGO -); diese beschränkt sich darauf, ob die gesetzlichen Grenzen des Ermessens\nnicht beachtet wurden oder Ermessen fehlerhaft ausgeübt wurde.\n32\nIst eine Finanzbehörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermessen entsprechend\ndem Zweck der Ermächtigung auszuüben und die gesetzlichen Grenzen des Ermessens einzuhalten (§ 5\nAO). Vorgesetzte Dienststellen können dazu ermessenslenkende Verwaltungsvorschriften erlassen, die\nunter dem Gesichtspunkt der Selbstbindung der Verwaltung und damit der Beachtung des\nGleichbehandlungsgrundsatzes (Art. 3 Abs. 1 des Grundgesetzes - GG -) von Bedeutung sein können; das\ngilt aber nur, wenn sich die in ihnen getroffenen Regelungen innerhalb der Grenzen halten, die das GG und\ndie Gesetze der Ausübung des Ermessens setzen. Deshalb muss bei einer Billigkeitsrichtlinie die getroffene\nRegelung Recht und Billigkeit entsprechen (z.B. BFH-Urteil vom 19. März 2009 V R 48/07, BStBl II 2010,\n92).\n33\nFür die Auslegung einer ermessenslenkenden Verwaltungsvorschrift ist nicht maßgeblich, wie das Gericht\neine solche Verwaltungsanweisung versteht, sondern wie die Verwaltung sie verstanden hat und\nverstanden wissen wollte. Das Gericht darf daher solche Verwaltungsanweisungen nicht selbst auslegen,\nsondern nur darauf überprüfen, ob die Auslegung durch die Behörde möglich ist (z.B. BFH-Urteil vom 13.\nJanuar 2005 V R 35/03, BStBl II 2005, 460).\n34\nNur ausnahmsweise kann ein Gericht eine Verpflichtung zum Erlass aussprechen, nämlich dann, wenn der\nErmessensspielraum der Finanzbehörde derart eingeschränkt ist, dass nur eine einzige Entscheidung als\nermessensgerecht in Betracht kommt (sog. „Ermessensreduzierung auf Null“; ständige Rechtsprechung des\nBFH, vgl. z.B. BFH-Urteil vom 26. Oktober 1994 X R 104/92, BStBl II 1995, 297).\n35\n2. Im Streitfall ist das FA zwar zu Unrecht davon ausgegangen, dass § 18 Abs. 2 KonsVerCHEV keine\nBilligkeitsregelung ist. Jedoch war - soweit das FA in seiner Entscheidung hilfsweise von der Anwendung\ndes § 18 Abs. 2 KonsVerCHEV als Billigkeitsregelung ausgegangen ist - die vom FA vorgenommene\nAuslegung der ermessenslenkenden Verwaltungsvorschrift möglich.\n36\na) Das FA ist zu Unrecht davon ausgegangen, dass § 18 Abs. 2 KonsVerCHEV keine Billigkeitsregelung ist.\n37\naa) Nach Art. 4 Abs. 4 DBA-Schweiz (dem nach Art. 15a Abs. 1 Satz 4 DBA-Schweiz Vorrang vor der\nGrenzgängerregelung eingeräumt wird) kann unter bestimmten Voraussetzungen eine von Deutschland in\ndie Schweiz verzogene Person u.a. im Jahr des Wegzugs mit ihren aus Deutschland stammenden\nEinkünften in Deutschland besteuert werden. Diese Bestimmungen gelten nicht, wenn die natürliche Person\nin der Schweiz ansässig geworden ist, um hier eine echte unselbständige Arbeit für einen Arbeitgeber\nauszuüben, an dem sie über das Arbeitsverhältnis hinaus weder unmittelbar noch mittelbar durch\nBeteiligung oder in anderer Weise wirtschaftlich wesentlich interessiert ist.\n38\nInhalt der Regelung ist eine Verzögerung der Gewährung der Abkommensvorteile für den sog. Wegzügler,\num einer „Steuerflucht“ entgegenzuwirken (BFH-Urteil vom 2. September 2009 I R 111/08, BStBl II 2010,\n387).\n39\nNach § 18 Abs. 2 KonsVerCHEV ist die Regelung des Artikels 4 Abs. 4 DBA-Schweiz nicht anzuwenden,\nwenn der Wegzug in die Schweiz wegen Heirat mit einer Person schweizerischer Staatsangehörigkeit\nerfolgt (inhaltlich identisch zur bisherigen Regelung im BMF-Schreiben vom 19. September 1994, BStBl I\n1994, 683 Rn. 41).\n40\nbb) Der Gesetzgeber hat zwar vermittels des Jahressteuergesetzes 2010 (JStG 2010) mit § 2 Abs. 2 AO\n(erstmals) eine Ermächtigungsgrundlage geschaffen, wonach - so Satz 1 der Vorschrift - das BMF\nermächtigt wird, zur Sicherung der Gleichmäßigkeit der Besteuerung und zur Vermeidung einer\nDoppelbesteuerung oder doppelten Nichtbesteuerung mit Zustimmung des Bundesrates\nRechtsverordnungen zur Umsetzung von Konsultationsvereinbarungen zu erlassen.\nKonsultationsvereinbarungen in diesem Sinne sind nach Satz 2 der Vorschrift einvernehmliche\nVereinbarungen der zuständigen Behörden der Vertragsstaaten eines Abkommens zur Vermeidung der\nDoppelbesteuerung mit dem Ziel, Einzelheiten der Durchführung eines solchen Abkommens zu regeln,\ninsbesondere Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des jeweiligen\nAbkommens bestehen, zu beseitigen. Mit diesem tatbestandlich umschriebenen Inhalt zielt die Neuregelung\ndarauf ab, zwischenstaatlichen behördlichen Konsultationsvereinbarungen i.S.d. Art. 25 Abs. 3 des\nMusterabkommens der Organisation for Economic Cooperation and Development (OECD-MA) den Rang\neiner Rechtsverordnung zu verleihen (BFH-Urteil vom 10. Juni 2015 I R 79/13, BStBl II 2016, 326).\n41\nIn Art. 18 Abs. 2 KonsVerCHEV ist das für die im Streitfall in Rede stehende Regelung des Wegzugs in die\nSchweiz wegen Heirat mit einer Person schweizerischer Staatsangehörigkeit geschehen.\n42\ncc) Jedoch genügt die neugeschaffene Ermächtigungsgrundlage nicht den dafür gebotenen\nBestimmtheitsanforderungen des Art. 80 Abs. 1 GG und ist im Ergebnis nicht geeignet, die seitens der\nFinanzverwaltung beanspruchte (vgl. BMF-Schreiben vom 12. November 2014, BStBl I 2014, 1467 Tz.\n5.5.4.2 Rn. 183 ff.) Verbindlichkeit der zwischenstaatlich gefundenen Abkommensauslegung\nherbeizuführen.\n43\n(1) Nach Art. 80 Abs. 1 Satz 1 GG können durch Gesetz die Bundesregierung, ein Bundesminister oder die\nLandesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Nach Art. 80 Abs. 1 Satz 2 GG\nmüssen dabei Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden.\n44\n(2) Diesem Erfordernis ist im Streitfall nicht Genüge getan. Der Senat schließt sich hierbei den\nAusführungen des BFH in den Urteilen vom 10. Juni 2015 (I R 79/13, BStBl II 2016, 326 betreffend § 24\nAbs. 1 KonsVerCHEV) und vom 30. Mai 2018 (I R 62/16, BFH/NV 2019, 62 betreffend § 9 Abs. 1\nKonsVerCHEV) an.\n45\nDanach ist es auch vermittels einer weit gefassten oder verstandenen Ermächtigungsregelung\nausgeschlossen, den Text des Abkommens und damit die besagte Besteuerungszuordnung für die\nbetreffenden Einkünfte zu verändern (BFH-Urteil vom 10. Juni 2015 I R 79/13, BStBl II 2016, 326 m.w.N.).\nSo aber liegt der Streitfall. Denn Art. 4 Abs. 4 DBA-Schweiz lässt für die Frage der Wegzugsbesteuerung im\nFall der Heirat keine Spielräume; insoweit geht § 18 Abs. 2 KonsVerCHEV über den klaren Wortlaut des\nAbkommens hinaus (BFH-Urteil vom 19. November 2003 I R 64/02, BFH/NV 2004, 765; BFH-Beschluss\nvom 27. Juli 2011 I R 44/10, BFH/NV 2011, 2005 m.w.N.; entgegen BMF-Schreiben vom 31. März 2016,\nBStBl I 2016, 471, wonach die Grundsätze des BFH-Urteils vom 10. Juni 2015 I R 79/13, BStBl II 2016, 326\naußer auf § 24 Abs. 1 Satz 2 KonsVerCHEF lediglich auch auf entsprechende Regelungen betreffend\nAbfindungszahlungen in anderen DBA anzuwenden sind).\n46\nIm Übrigen enthält § 2 Abs. 2 AO im Hinblick auf Ausnahmen von Art. 4 Abs. 4 DBA-Schweiz keine näheren\nVorgaben zu Inhalt, Zweck und Ausmaß der erteilten Verordnungsermächtigung und genügt damit nicht den\nBestimmtheitsanforderungen, die nach Art. 80 Abs. 1 GG an eine Verordnungsermächtigung zu stellen sind\n(BFH-Urteile vom 10. Juni 2015 I R 79/13, BStBl II 2016, 326 betreffend § 24 Abs. 1 KonsVerCHEV; vom\n30. Mai 2018 I R 62/16, BFH/NV 2019, 62 betreffend § 9 Abs. 1 KonsVerCHEV).\n47\nDie Deutsch-Schweizerische Konsultationsvereinbarung vom 17. März 2010 genügt damit trotz ihrer\nunilateralen „Anhebung“ in eine Rechtsverordnung nicht den Anforderungen des Gesetzesvorbehalts nach\nArt. 20 Abs. 3 GG.\n48\n(3) Die Argumentation, wonach die Anforderungen an die Ermächtigungsgrundlage bei begünstigenden\nRegelungen - wie bei § 18 Abs. 2 KonsVerCHEV - weniger streng seien als bei belastenden Regelungen\n(BVerfG-Beschluss vom 30. Januar 1968 2 BvL 15/65, BStBl II 1968, 296) führt zu keiner anderen\nBeurteilung. Denn auch bei begünstigenden Regelungen kann nicht darauf verzichtet werden, dass Inhalt,\nZweck und Ausmaß der Ermächtigung hinreichend bestimmt sind (BVerfG-Beschluss vom 30. Januar 1968\n2 BvL 15/65, BStBl II 1968, 296 Rn. 36).\n49\nb) Jedoch war - soweit das FA in seiner Entscheidung hilfsweise von der Anwendung des § 18 Abs. 2\nKonsVerCHEV als Billigkeitsregelung ausging - die vom FA vorgenommene Auslegung der\nermessenslenkenden Verwaltungsvorschrift möglich.\n50\naa) Nach § 18 Abs. 2 KonsVerCHEV ist die Regelung des Art. 4 Abs. 4 DBA-Schweiz nicht anzuwenden,\nwenn der Wegzug in die Schweiz wegen Heirat mit einer Person schweizerischer Staatsangehörigkeit\nerfolgt (inhaltlich identisch zur bisherigen Regelung im BMF-Schreiben vom 19. September 1994, BStBl I\n1994, 683 Rn. 41).\n51\nDies geht auf eine Verständigungsvereinbarung des BMF mit der Eidgenössischen Steuerverwaltung (EStV)\n„betr. Wegzüger-Grenzgänger“ zurück. Diese Regelung kam rückwirkend zum Inkrafttreten des Abkommens\nzur Vermeidung der Doppelbesteuerung (ab dem Jahr 1972) zur Anwendung. Motive für diese\nVereinbarung aus deutscher Sicht sind nicht veröffentlicht. Grundgedanke der Regelung ist aus\nschweizerischer Sicht, „der Familienzusammenführung einen höheren Stellenwert einzuräumen als der vom\nGesetz als Regelfall vermuteten Steuerflucht“. Die deutschen Finanzbehörden der Länder haben zu dieser\nVerständigungsvereinbarung zwischen BMF und EStV Verwaltungsanweisungen erlassen (u.a. die\nOberfinanzdirektion Karlsruhe in Fach A Teil 4 Nr. 1 des Grenzgängerhandbuchs), nach der ein zeitlicher\nZusammenhang zwischen Wegzug und Heirat erforderlich ist; dieser sei „als noch gegeben anzusehen,\nwenn die Heirat in einem Zeitraum von sechs Monaten vor und sechs Monaten nach dem Wegzug erfolgt“\n(vgl. zum Ganzen BFH-Urteil vom 27. Juli 2011 I R 44/10, BFH/NV 2011, 2005 m.w.N.).\n52\nbb) Die Auslegung des FA, § 18 Abs. 2 KonsVerCHEV lasse es mit der Formulierung „wegen Heirat“ nicht\nzu, das Heiratsprivileg anzuwenden, wenn die späteren Ehegatten bereits vor Heirat und Umzug einen\ngemeinsamen Haushalt begründet hätten, so dass eine Familienzusammenführung nicht mehr vorliege, ist\nmöglich.\n53\n(1) Der Wortlaut „Wegzug in die Schweiz wegen Heirat mit einer Person schweizerischer\nStaatsangehörigkeit“ lässt die vom FA vertretene Auslegung zu. Denn die Formulierung „wegen Heirat“\nbringt - neben einem zeitlichen Moment - in erster Linie einen Veranlassungszusammenhang zum\nAusdruck. Dieser ist zwar ohne weiteres gegeben, wenn in zeitlicher Nähe zur Heirat ein Ehegatte zum\nanderen zieht. Das FA kann den Veranlassungszusammenhang jedoch willkürfrei verneinen, wenn beide\nEhegatten ihren bisherigen gemeinsamen Wohnsitz in zeitlicher Nähe zur Heirat gemeinsam in die Schweiz\nverlegen.\n54\n(2) Die Regelung im Grenzgängerhandbuch, wonach von der Anwendung der Abwandererregelung\nabgesehen wird, wenn der Wegzug in zeitlichem Zusammenhang mit der Heirat erfolgt ist und wonach ein\nzeitlicher Zusammenhang dabei als noch gegeben anzusehen ist, wenn die Heirat in einem Zeitraum von\nsechs Monaten vor und sechs Monaten nach dem Wegzug erfolgt, steht der vom FA vorgenommenen\nAuslegung nicht entgegen. Denn die von den Finanzbehörden im Grenzgängerhandbuch aufgenommene\nZeitzone von sechs Monaten - letztlich wohl aus Zweckmäßigkeitserwägungen - liest in die Formulierung\n„wegen Heirat“ (auch) ein Zeitmoment hinein, um der Tatsache Rechnung zu tragen, dass letztlich nur jeder\nEhegatte für sich selbst zweifelsfrei beantworten könne, wann der definitive Entschluss zur Eheschließung\ngefallen ist. Eine zeitliche Grenze schafft zudem Planungssicherheit für Heiratswillige, vermittelt\nSteuerpflichtigen über den Grundsatz der Selbstbindung der Verwaltung Vertrauensschutz und setzt sie\ninsoweit nicht den möglichen Unwägbarkeiten einer späteren Tatsachen- und Beweiswürdigung durch Dritte\naus (vgl. zum Ganzen Urteil des Finanzgerichts Baden-Württemberg vom 6. Mai 2010 3 K 3043/09, EFG\n2010, 1980).\n55\nDamit ist aber die Auslegung der Finanzverwaltung nicht ausgeschlossen, dass diese zeitliche\nVereinfachungsregel ein Erfordernis des Wegzugs eines (künftigen) Ehegatten zum bereits in der Schweiz\nlebenden (künftigen) Ehegatten unberührt lässt und lediglich bei Vorliegen dieser Konstellation eingreift.\n56\n(3) Dieser Auslegung steht weiter nicht hinderlich entgegen, dass Grundgedanke der Regelung aus\nschweizerischer Sicht ist, „der Familienzusammenführung einen höheren Stellenwert einzuräumen als der\nvom Gesetz als Regelfall vermuteten Steuerflucht“, während Motive für diese Vereinbarung aus deutscher\nSicht nicht veröffentlicht sind. Denn das Schweigen Deutschlands zu den Motiven bedeutet nicht, dass die\nschweizerischen Grundgedanken der Familienzusammenführung bei der Auslegung der Regelung irrelevant\nsind. Auch die diesbezügliche höchstrichterliche Rechtsprechung erkennt in der Ausgestaltung der\nBilligkeitsregelung die „Begünstigung einer Familienzusammenführung aber nur bei einer Heirat und nur im\nzeitlichen Zusammenhang mit dem Wegzug“ (BFH-Urteil vom 27. Juli 2011 I R 44/10, BFH/NV 2011, 2005).\nDann aber ist das Verständnis der Verwaltung, eine Familie könne nicht „zusammengeführt“ werden, wenn\nbereits vorher ein gemeinsamer Wohnsitz - außerhalb der Schweiz - bestanden habe, nicht willkürlich.\n57\n(4) Dass die künftigen Ehegatten während der Zeit des gemeinsamen vorherigen Wohnsitzes lediglich von\nMai bis August 2012 verheiratet, jedoch die Jahre 2007 bis Mai 2012 nicht verheiratet waren, mithin noch\nkeine „Familie“ waren, die „zusammengeführt“ werden konnte, macht die Auslegung durch die\nFinanzverwaltung nicht unmöglich.\n58\nZwar verbietet Art. 6 Abs. 1 GG, wonach Ehe und Familie unter dem besonderen Schutze der staatlichen\nOrdnung stehen, Ehe und Familie gegenüber anderen Lebens- und Erziehungsgemeinschaften schlechter\nzu stellen; insbesondere untersagt ist eine Benachteiligung von Ehegatten gegenüber Ledigen (z.B.\nBVerfG-Beschluss vom 11. Oktober 2005 1 BvR 2627/03, BFH/NV 2006, Beilage 1, 77). Art. 6 Abs. 1 GG\nverlangt aber keine Besserstellung der Ehegatten gegenüber Unverheirateten, solange nicht spezifische\nBelastungen auszugleichen sind (z.B. BFH-Urteile vom 15. November 2006 XI R 46/05, BFH/NV 2007, 678;\nvom 25. Juni 2008 X R 36/05, BFH/NV 2008, 2093). Demgemäß kann Art. 6 Abs. 1 GG auch keine\nAuslegung dergestalt vorprägen, dass bei Verheirateten eine Zusammenführung der Familie auch vorliegt,\nwenn sie zusammen innerhalb von sechs Monaten nach der Heirat von einem gemeinsamen Wohnsitz in\nDeutschland zu einem gemeinsamen Wohnsitz in die Schweiz verziehen. Die vom FA gefundene\nAuslegung behindert auch nicht die Pflicht zur ehelichen Lebensgemeinschaft (§ 1353 Bürgerliches\nGesetzbuch - BGB -) mit dem Zusammenleben an einem von den Ehegatten gemeinsam gewählten\nWohnsitz (Urteil des Bundesgerichtshofs - BGH - vom 11. Februar 1987 IVb ZR 15/86, MDR 1987, 651).\n59\nc) Im Übrigen liegt auch keine sonstige Unbilligkeit in Gestalt einer vom Gesetz nicht vorgesehenen\nDoppelbesteuerung vor. Denn das FA hat die von der Klägerin in der Schweiz gezahlte Steuer - wie in der\n(von der Klägerin abgelehnten) Verständigungslösung vereinbart - bereits angerechnet (Art. 4 Abs. 4 Satz 3\nDBA-Schweiz).\n60\n3. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO. Die Revision war nach § 115 Abs. 2 Nr. 1 FGO\nzuzulassen.\n\n"
+}

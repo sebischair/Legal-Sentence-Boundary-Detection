@@ -1,0 +1,833 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 47,
+            "start": 45,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Feststellung",
+            "end": 487,
+            "start": 475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 499,
+            "start": 488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Feststellung",
+            "end": 933,
+            "start": 921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 944,
+            "start": 934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6857",
+            "end": 963,
+            "start": 959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 969,
+            "start": 964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1083,
+            "start": 1073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beigeladenen",
+            "end": 1195,
+            "start": 1183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 1263,
+            "start": 1250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 1460,
+            "start": 1453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1493,
+            "start": 1483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1505,
+            "start": 1495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1507,
+            "start": 1506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 1651,
+            "start": 1645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1654,
+            "start": 1653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 1799,
+            "start": 1796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 1901,
+            "start": 1899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1904,
+            "start": 1903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewerbesteuermessbeträge",
+            "end": 2020,
+            "start": 1996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2023,
+            "start": 2022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 2317,
+            "start": 2313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2320,
+            "start": 2319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2474,
+            "start": 2471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2477,
+            "start": 2476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 2648,
+            "start": 2644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2651,
+            "start": 2650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 2714,
+            "start": 2711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstelle",
+            "end": 2831,
+            "start": 2822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewerbesteuer",
+            "end": 2954,
+            "start": 2941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2957,
+            "start": 2956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 3070,
+            "start": 3064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AO",
+            "end": 3215,
+            "start": 3213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnen",
+            "end": 3370,
+            "start": 3362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 3568,
+            "start": 3563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewerbesteuer",
+            "end": 3714,
+            "start": 3701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 3833,
+            "start": 3827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 3952,
+            "start": 3945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundlagenbescheids",
+            "end": 4049,
+            "start": 4030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgebend",
+            "end": 4209,
+            "start": 4200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4212,
+            "start": 4211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 4272,
+            "start": 4267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "systemwidrig",
+            "end": 4425,
+            "start": 4413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Feststellungsbescheiden",
+            "end": 4554,
+            "start": 4531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4558,
+            "start": 4556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4712,
+            "start": 4710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 4895,
+            "start": 4887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4899,
+            "start": 4897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 4989,
+            "start": 4981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 5144,
+            "start": 5137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AO",
+            "end": 5275,
+            "start": 5273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5279,
+            "start": 5277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 5467,
+            "start": 5457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5471,
+            "start": 5469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 5546,
+            "start": 5536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 5550,
+            "start": 5548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5796,
+            "start": 5793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 5926,
+            "start": 5916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuerbetrag",
+            "end": 6041,
+            "start": 6029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6243,
+            "start": 6237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 6394,
+            "start": 6384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6398,
+            "start": 6396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beigeladen",
+            "end": 6483,
+            "start": 6473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6487,
+            "start": 6485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 6719,
+            "start": 6711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 6740,
+            "start": 6721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 6743,
+            "start": 6741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 6777,
+            "start": 6768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 6837,
+            "start": 6831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 6841,
+            "start": 6839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 6930,
+            "start": 6923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 6934,
+            "start": 6932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 7180,
+            "start": 7176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinngemäß",
+            "end": 7275,
+            "start": 7266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bringen",
+            "end": 7417,
+            "start": 7410,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7619,
+            "start": 7618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 7622,
+            "start": 7620,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7811,
+            "start": 7810,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7987,
+            "start": 7986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 8483,
+            "start": 8480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 8487,
+            "start": 8485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 8603,
+            "start": 8595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 8686,
+            "start": 8675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8860,
+            "start": 8856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 8864,
+            "start": 8862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 9184,
+            "start": 9181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 9188,
+            "start": 9186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingereicht",
+            "end": 9231,
+            "start": 9220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 9469,
+            "start": 9468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 9474,
+            "start": 9472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herleiten",
+            "end": 9819,
+            "start": 9810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 9823,
+            "start": 9821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 10020,
+            "start": 10014,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10262,
+            "start": 10261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 10439,
+            "start": 10435,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10668,
+            "start": 10667,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11090,
+            "start": 11089,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11298,
+            "start": 11297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 11302,
+            "start": 11300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschätzt",
+            "end": 11468,
+            "start": 11459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 11694,
+            "start": 11690,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11903,
+            "start": 11902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 11907,
+            "start": 11905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 12055,
+            "start": 12047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 12059,
+            "start": 12057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 12244,
+            "start": 12241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Steuerrechts",
+            "end": 12400,
+            "start": 12388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfasst",
+            "end": 12541,
+            "start": 12534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebensvorgänge",
+            "end": 12651,
+            "start": 12637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12732,
+            "start": 12729,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13002,
+            "start": 13001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 13178,
+            "start": 13175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 13271,
+            "start": 13270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachverhalts",
+            "end": 13454,
+            "start": 13442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gleiches",
+            "end": 13571,
+            "start": 13563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 13635,
+            "start": 13627,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13804,
+            "start": 13803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 13808,
+            "start": 13806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 13982,
+            "start": 13976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 13986,
+            "start": 13984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlöschen",
+            "end": 14103,
+            "start": 14094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 14224,
+            "start": 14215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14511,
+            "start": 14508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 14515,
+            "start": 14513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14692,
+            "start": 14686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schaffen",
+            "end": 15124,
+            "start": 15116,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15194,
+            "start": 15193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 15198,
+            "start": 15196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 15398,
+            "start": 15387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15700,
+            "start": 15699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15850,
+            "start": 15846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 15854,
+            "start": 15852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 15908,
+            "start": 15905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 15912,
+            "start": 15910,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16094,
+            "start": 16093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 16098,
+            "start": 16096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zivilprozessordnung",
+            "end": 16310,
+            "start": 16291,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 21.02.2019 – 15 K 1181/18\nTitel:\nGemeinde, Verwaltungsverfahren, Festsetzungsfrist, Feststellung, Gewerbesteuer,\nBindungswirkung, Grundlagenbescheid, Festsetzung, Steuerfestsetzung,\nFeststellungsbescheid, Gewerbesteuerbescheid, Verwaltungsgemeinschaft,\nVersagung, Finanzgerichtsordnung, Gesonderte Feststellung von\nBesteuerungsgrundlagen, Feststellung von Besteuerungsgrundlagen, einheitliche\nFeststellung, Revision, Kommune, Gesellschafter, gesonderte Feststellung\nSchlagworte:\nGemeinde, Verwaltungsverfahren, Festsetzungsfrist, Feststellung, Gewerbesteuer, Bindungswirkung,\nGrundlagenbescheid, Festsetzung, Steuerfestsetzung, Feststellungsbescheid, Gewerbesteuerbescheid,\nVerwaltungsgemeinschaft, Versagung, Finanzgerichtsordnung, Gesonderte Feststellung von\nBesteuerungsgrundlagen, Feststellung von Besteuerungsgrundlagen, einheitliche Feststellung, Revision,\nKommune, Gesellschafter, gesonderte Feststellung\nFundstelle:\nBeckRS 2019, 6857\nTenor\n1. Die Bescheide über die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen … werden\naufgehoben.\n2. Der Beklagte trägt die Kosten des Verfahrens, einschließlich der außergerichtlichen Kosten des\nBeigeladenen.\n3. Das Urteil ist im Kostenpunkt für die … vorläufig vollstreckbar. Der Beklagte darf durch\nSicherheitsleistung in Höhe der zu erstattenden Kosten der Klägerin die Vollstreckung abwenden, wenn\nnicht die … vor der Vollstreckung Sicherheit in derselben Höhe leistet.\n4. Die Revision wird zugelassen.\nTatbestand\n1\nStreitig ist, ob das Finanzamt befugt war, die Bescheide über die gesonderte und einheitliche Feststellung\nvon Besteuerungsgrundlagen zu ändern.\n2\nDie Klägerin reichte die Erklärungen zur gesonderten Feststellung von Grundlagen für die\nEinkommensbesteuerung beim beklagten Finanzamt (FA) ein. In den Erklärungen gab die Klägerin\nGewinne aus Gewerbebetrieb sowie den Gewerbesteuermessbeträge an.\n3\nFerner ermittelte die Klägerin die tatsächlich zu zahlende Gewerbesteuer auf die erklärten\nGewerbesteuermessbeträge.\n4\nDas FA stellte mit Bescheiden über die gesonderte und einheitliche Feststellung von\nBesteuerungsgrundlagen im Wesentlichen die von der Klägerin erklärten Gewinne aus Gewerbebetrieb\nsowie die von ihr ermittelten Gewerbesteuermessbeträge und die darauf entfallende zu zahlende\nGewerbesteuer fest.\n5\nMit Schreiben vom … teilte die Verwaltungsgemeinschaft dem FA mit, dass Gewerbesteuer nicht\nfestgesetzt worden und Festsetzungsverjährung eingetreten sei.\n6\nDas FA erließ daraufhin gemäß § 175 Abs. 1 Satz 1 Nr. 2 AO geänderte Bescheide und stellte die\ntatsächlich zu zahlende Gewerbesteuer für die Klägerin in Höhe von 0 € fest.\n7\nGegen die Änderungsbescheide legte die Klägerin Einsprüche ein. Zur Begründung erklärte sie, dass die\nVerjährung der Gewerbesteuerfestsetzung kein rückwirkendes Ereignis darstelle. Im Übrigen beziehe sich\ndie Regelung des § 35 Einkommensteuergesetzes (EStG) auf eine fiktiv zu berechnende Gewerbesteuer.\n8\nMit zusammengefasster Einspruchsentscheidung vom 22. März 2018 wies das FA die Einsprüche als\nunbegründet zurück. Der Eintritt der Festsetzungsverjährung für die Gewerbesteuer sei ein rückwirkendes\nEreignis i.S. der Regelung des § 175 Abs. 1 Satz 1 Nr. 2 AO. Die Festsetzungsverjährung für die streitigen\nBescheide würde erst mit Eintritt der Festsetzungsverjährung für die Festsetzung der Gewerbesteuer\nbeginnen. Zudem sei eine Änderung der streitigen Bescheide nach § 175 Abs. 1 Satz 1 Nr. 1 AO zulässig,\nda nach Eintritt der Festsetzungsverjährung für die Gewerbesteuer keine Festsetzung mehr erfolgen dürfe.\nDer Gewerbesteuerbescheid sei aber Grundlagenbescheid für die in den streitigen Bescheiden\nfestzustellende tatsächlich zu zahlende Gewerbesteuer. Das FA sei deshalb berechtigt gewesen, den\nSachverhalt in eigener Zuständigkeit zu prüfen und die Bescheide zu ändern. Auch für eine Änderung nach\n§ 175 Abs. 1 Satz 1 Nr. 1 AO sei die Festsetzungsverjährung noch nicht abgelaufen gewesen. Die\nFestsetzungsfrist ende nicht vor Ablauf von zwei Jahren nach Erlass des Grundlagenbescheids. Für den\nFall, dass der Grundlagenbescheid wegen Festsetzungsverjährung nicht mehr erlassen werden könne, sei\nder Eintritt der Festsetzungsverjährung maßgebend.\n9\nDagegen wendet sich die Klägerin mit der vorliegenden Klage. Zur Begründung trägt sie ergänzend zu\nihrem Vortrag im Verwaltungsverfahren vor, die Versagung der Gewerbesteueranrechnung sei rechts- und\nsystemwidrig. Maßgebend seien die Feststellungen über die tatsächlich zu zahlende Gewerbesteuer in den\nursprünglichen Feststellungsbescheiden.\n10\nDie Regelung des § 35 Abs. 1 Satz 5 EStG stelle auf die tatsächlich zu zahlende Gewerbesteuer und nicht\nauf die tatsächliche Zahlung der Gewerbesteuer ab. Der Gesetzgeber sei davon ausgegangen, dass die\nGemeinden die Gewerbsteuer ordnungsgemäß erheben und habe den Fall, dass eine Gemeinde die\nGewerbesteuer nicht erhebt, nicht geregelt.\n11\nAuch der Beigeladene trägt vor, eine Änderung der streitigen Bescheide sei nicht zulässig. Da die\nGemeinde keinen Gewerbesteuerbescheid (Grundlagenbescheid) erlassen habe, seien die\nVoraussetzungen des § 175 Abs. 1 Satz 1 Nr. 1 AO nicht erfüllt. Der Eintritt der Festsetzungsverjährung für\ndie Gewerbesteuer sei kein rückwirkendes Ereignis i.S.d. § 175 Abs. 1 Satz 1 Nr. 2 AO.\n12\nDie Klägerin und der Beigeladene beantragen,\ndie Bescheide über die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen und die\njeweilige Einspruchsentscheidung aufzuheben.\n13\nDas FA beantragt,\ndie Klage abzuweisen, hilfsweise die Revision zuzulassen.\n14\nZur Klageerwiderung nimmt das FA auf die Einspruchsentscheidung Bezug und trägt ergänzend vor, dass\nunstreitig die tatsächlich zu zahlende Gewerbesteuer nach § 35 Abs. 2 EStG bei Mitunternehmerschaften\ngesondert und einheitlich festzustellen sei. Nach § 35 Abs. 1 Satz 5 EStG sei der Abzug des\nSteuerermäßigungsbetrags auf die tatsächlich zu zahlende Gewerbesteuer beschränkt. Tatsächlich zu\nzahlende Gewerbesteuer sei der von der Gemeinde im Gewerbesteuerbescheid festgesetzte Steuerbetrag.\nFür den Fall der nachträglichen Änderung der Gewerbesteuer zB aufgrund einer Billigkeitsmaßnahme\nkönne der Einkommensteuer- oder Feststellungsbescheid nach § 175 Abs. 1 Satz 1 Nr. 2 AO geändert\nwerden. Im Streitfall würde die Nichtfestsetzung der Gewerbesteuer das für ein rückwirkendes Ereignis\nerforderliche sachverhaltsändernde Geschehen darstellen.\n15\nMit Beschluss vom … wurde der ausgeschiedene Gesellschafter zum Verfahren beigeladen.\n16\nWegen weiterer Einzelheiten wird gem. § 105 Abs. 3 Finanzgerichtsordnung (FGO) auf die Schriftsätze der\nKlägerin, des FA und des Beigeladenen sowie die Steuerakten und die Niederschrift über die mündliche\nVerhandlung Bezug genommen.\nEntscheidungsgründe\n17\nDie zulässige Klage ist begründet. Das FA war nicht befugt die streitigen Bescheide zu ändern.\n18\n1. Die Voraussetzungen des § 175 Abs. 1 Satz 1 Nr. 1 AO sind im Streitfall nicht erfüllt.\n19\na) Gemäß § 175 Abs. 1 Satz 1 Nr. 1 AO ist ein Steuerbescheid zu erlassen, aufzuheben oder zu ändern,\nsoweit ein Grundlagenbescheid (§ 171 Abs. 10 AO), dem Bindungswirkung für diesen Steuerbescheid\nzukommt, erlassen, aufgehoben oder geändert wird. Diese Regelung gilt gemäß § 181 Abs. 1 Satz 1 AO für\ndie gesonderten Feststellungen sinngemäß. Sie dient zum einen dazu, die vom Grundlagenbescheid\nausgehende Bindungswirkung (§ 182 Abs. 1 AO) verfahrensrechtlich zur Geltung zu bringen; zum anderen\nträgt sie der von der Bindungswirkung ausgehenden Kompetenzverteilung im Verwaltungsverfahren\nRechnung (vgl. Bundesfinanzhof-BFH-Urteil vom 8. November 2006 II R 13/05, BFH/NV 2007, 641).)\n20\nb) Nach § 35 Abs. 2 Satz 1 EStG ist bei Mitunternehmerschaften - wie der Klägerin - auch die tatsächlich zu\nzahlende Gewerbesteuer gesondert und einheitlich festzustellen (§ 179 Abs. 1 AO). Die tatsächlich zu\nzahlende Gewerbesteuer ist der im Gewerbesteuerbescheid der Kommune festgesetzte Steuerbetrag (vgl\nHermann/Heuer/Raupach, Kommentar zum EStG, § 35 Anm. 53). Die Feststellung der zu zahlenden\nGewerbesteuer erfolgte im Streitfall nach § 155 Abs. 2 AO i.V.m. § 162 Abs. 5 AO vorläufig im Rahmen\neiner Schätzung, da die Gewerbesteuerfestsetzung, die gemäß § 35 Abs. 3 Satz 2 EStG\nGrundlagenbescheid für die Feststellung der zu zahlenden Gewerbesteuer ist (vgl. Schmidt/Wacker, ESt-\nKommentar, 37. Auflage, § 35 EStG Rz 41), zum Zeitpunkt des Erlasses der streitigen\nFeststellungsbescheide - wie regelmäßig in der Verwaltungspraxis - noch nicht erfolgt war.\n21\nc) Davon ausgehend kommt eine Änderung der streitigen Bescheide nach § 175 Abs. 1 Satz 1 Nr. 1 AO\nnicht in Betracht. Im Streitfall hat die Verwaltungsgemeinschaft die Gewerbesteuer nicht festgesetzt. Damit\nfehlt der Gewerbesteuerbescheid als Grundlagenbescheid, so dass die Voraussetzungen des § 175 Abs. 1\nSatz 1 Nr. 1 AO nach dem Wortlaut der Regelung nicht erfüllt sind.\n22\nd) Im Übrigen ist eine Änderung der streitigen Bescheide nach § 175 Abs. 1 Satz 1 Nr. 1 AO im Jahr …\nauch gemäß § 169 Abs. 1 Satz 1 AO nicht mehr zulässig, da zu diesem Zeitpunkt bereits\nFeststellungsverjährung für die Feststellungsbescheide und Festsetzungsverjährung für die\nGewerbesteuerfestsetzungen eingetreten war.\n23\nDie Steuererklärungen wurden … eingereicht. Gemäß § 170 Abs. 2 Satz 1 Nr. 1 AO begann damit die 4-\njährige Feststellungs- bzw. Festsetzungsfrist (§§ 169 Abs. 2 Satz 1 Nr. 2, 181 Abs. 1 Satz 1 AO, § 1 Abs. 2\nSatz Nr. 4 AO) mit Ablauf des Jahres … und endete mit Ablauf des Jahres … .\n24\n2. Auch, wenn nach § 155 Abs. 2 AO i.V.m. § 162 Abs. 5 AO zunächst in den streitigen\nFeststellungsbescheiden nur eine (vorläufige) Regelung hinsichtlich der tatsächlich zu zahlenden\nGewerbesteuer bis zum Ergehen des Gewerbesteuerbescheids getroffen werden sollte, lässt sich hieraus\nkeine Änderungsmöglichkeit der streitigen Bescheide herleiten.\n25\na) Das für die Festsetzung einer Steuer zuständige FA darf nicht in eine eigenständige Ermittlung der\nBesteuerungsgrundlagen eintreten, wenn es richtigerweise deren gesonderter Feststellung bedarf. Die sich\naus § 179 Abs. 1 AO ergebende Vorgreiflichkeit des Feststellungsverfahrens steht einer Beurteilung des\nSachverhalts unmittelbar im Rahmen der Steuerveranlagung entgegen (vgl. BFH-Urteile vom 24. Mai 2006 I\nR 93/05, BFH/NV 2007, 76). Hiervon abweichend bestimmt § 155 Abs. 2 AO, dass i.V.m. § 162 Abs. 5 AO\neine in einem Grundlagenbescheid zu treffende Entscheidung im Folgebescheid vorweggenommen werden\ndarf. Diese Vorschrift erlaubt aber nur, im Folgebescheid eine erkennbar einstweilige Regelung zu treffen,\ndie einem noch zu erlassenden Grundlagenbescheid vorgreift (Klein/Rüsken, Kommentar zur AO, 14.\nAuflage, § 155 Rz. 39, m.w.N.). Daraus lässt sich nicht der Rechtssatz ableiten, die dem Folgebescheid\nzunächst vorläufig zu Grunde gelegte Bemessungsgrundlage entfalle, wenn die einstweilige Regelung im\nFolgebescheid wegen Ablaufs der Festsetzungsfrist unabänderbar wird und der an sich erforderliche\nGrundlagenbescheid nicht oder nicht innerhalb der für ihn geltenden Feststellungsfrist ergeht (vgl. BFHUrteil\nvom 8. November 2006 II R 13/05, a.a.O.). In diesen Fällen verbleibt es (mangels einer\nÄnderungsvorschrift) bei der auf der Grundlage des § 155 Abs. 2 AO durchgeführten Steuerfestsetzung\n(BFH-Urteil vom 3. Dezember 2008 X R 31/05, BFH/NV 2009, 708).\n26\nb) Im Streitfall hat das FA in den streitigen Feststellungsbescheiden die tatsächlich zu zahlende\nGewerbesteuer nach § 155 Abs. 2 AO i.V.m. § 162 Abs. 5 AO geschätzt. Mit Ablauf der Festsetzungsfrist\nfür die Gewerbesteuer verbleibt es damit bei der im Schätzungswege ermittelten tatsächlich zu zahlenden\nGewerbesteuer, da insoweit der erforderliche Grundlagenbescheid nicht mehr ergehen kann. Die\n(vorläufige) Feststellung der tatsächlich zu zahlenden Gewerbesteuer ist damit zu einer endgültigen\nFeststellung mit Bindungswirkung (§ 182 Abs. 1 Satz 1 AO) erstarkt (vgl. Klein/Rüsken, AO § 155 Rz. 39).\n27\n3. Ferner ergibt sich aus § 175 Abs. 1 Satz 1 Nr. 2 AO keine Befugnis die streitigen Bescheide zu ändern,\nweil kein rückwirkendes Ereignis vorliegt.\n28\na) Nach § 175 Abs. 1 Satz 1 Nr. 2 AO ist ein Steuerbescheid zu erlassen, aufzuheben oder zu ändern,\nsoweit ein Ereignis eintritt, das steuerrechtliche Wirkung für die Vergangenheit hat. Ob ein Ereignis\nsteuerrechtlich in die Vergangenheit zurückwirkt, beurteilt sich allein nach den Normen des jeweils\neinschlägigen materiellen Steuerrechts. Aus dem Bedeutungszusammenhang, in dem die Norm steht, ergibt\nsich, dass der Begriff „Ereignis“ alle rechtlich bedeutsamen Vorgänge umfasst. Dazu rechnen nicht nur\nsolche mit ausschließlich rechtlichem Bezug, sondern auch tatsächliche Lebensvorgänge. Das Ereignis\nmuss ferner stattfinden, nachdem der Steueranspruch entstanden ist. Das Ereignis muss sich steuerlich für\ndie Vergangenheit mit der Folge auswirken, dass der Steuerbescheid, der vor Eintritt des Ereignisses\nrechtmäßig war, durch den Eintritt des Ereignisses rechtswidrig wird (vgl. Beermann/von Wedelstädt,\nAbgabenordnung, § 175 Rz. 45). Weder der Ablauf der Feststellungsfrist noch das Unterlassen, bis zu\nderen Eintritt eine gesonderte Feststellung durchzuführen, stellen ein solches rückwirkendes Ereignis dar.\nSie führen nicht dazu, dass „der für die Besteuerung maßgebliche Sachverhalt sich … ändert“. Die\nVerjährung führt dazu, dass Ansprüche aus dem Steuerschuldverhältnis erlöschen (§ 47 AO), aber nicht zu\neiner nachträglichen Veränderung des steuerlich maßgeblichen Sachverhalts. Unterlässt es das FA, die\ngesonderte Feststellung bis zum Ablauf der Festsetzungsfrist durchzuführen, gilt Gleiches. Fraglich ist\ndeshalb schon, ob überhaupt ein Ereignis vorliegt; jedenfalls führt dies aber nicht zu einer nachträglichen\nVeränderung des steuerlich maßgeblichen Sachverhalts (vgl. BFH-Urteil vom 8. November 2006 II R 13/05,\na.a.O.).\n29\nb) Davon ausgehend kann im Streitfall der Ablauf der Festsetzungsfrist für die Gewerbesteuer nicht zu\neinem rückwirkenden Ereignis i.S.d. § 175 Abs. 1 Satz 1 Nr. 2 AO führen.\n30\nDie Verjährung führt dazu, dass die Steueransprüche hier die Gewerbesteuer mit Ablauf der\nVerjährungsfrist erlöschen. Der zum Zeitpunkt des Erlasses der streitigen Feststellungsbescheide\nmaßgebende Sachverhalt bleibt aber davon unberührt. Gewerbesteueransprüche entstehen nach § 38 AO\ni.V.m. § 18 Gewerbesteuergesetz mit Ablauf des Erhebungszeitraums, für den die Festsetzung\nvorzunehmen ist, so dass zum Zeitpunkt des Erlasses der streitigen Bescheide, das FA zutreffend von einer\nzu zahlenden Gewerbesteuer ausgegangen ist.\n31\nNach Auffassung des Senats kann die Nichtfestsetzung der Gewerbesteuer auch nicht als ein\nsachverhaltsänderndes Geschehen i. S. eines rückwirkenden Ereignisses ausgelegt werden. Ein Bedürfnis\nfür eine teleologische Interpretation, die zu einem das FA besserstellenden materiellen Ergebnis führen\nwürde, besteht nicht, da das FA die Möglichkeit hat, Besteuerungsgrundlagen, die geschätzt werden,\ngemäß §§ 164 Abs. 1 Satz 1, 181 Abs. 1 Satz 1 AO unter dem Vorbehalt der Nachprüfung festzustellen und\nbis zum Ablauf der Feststellungsverjährung des Feststellungsbescheids eine Überprüfungsmöglichkeit zu\nschaffen. Dies gilt auch für Folgebescheide (vgl. Klein/Rüsken AO § 164 Rz. 5).\n32\n4. Der Einwand des FA, die Entscheidung des BFH vom 8. November 2006 mit dem Aktenzeichen II R\n13/05 sei im Streitfall nicht anwendbar, da sie eine Vermögensteuerfestsetzung betreffe, ist unbegründet.\nMaßgebend ist, dass auch im Urteilsfall zu überprüfen war, ob eine Änderungsbefugnis des Folgebescheids\nnach § 175 Abs. 1 Satz 1 Nr. 1 AO gegeben ist, wenn ein Grundlagenbescheid fehlt, bzw. ob die Verjährung\neiner Steuerfestsetzung ein rückwirkendes Ereignis darstellt (§ 175 Abs. 1 Satz 1 Nr. 2 AO). Es handelt sich\nhier um Tatbestandsvoraussetzungen der Korrekturvorschriften, die für alle Steuerarten gelten, auf die die\nRegelungen anwendbar sind.\n33\n5. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n34\nDie Kosten des Beigeladenen sind gemäß § 139 Abs. 4 FGO erstattungsfähig, da er einen Sachantrag\ngestellt hat (vgl. Gräber/Stapperfend, Kommentar zur FGO, 8. Auflage, § 139 Rz. 153).\n35\n6. Der Ausspruch über die vorläufige Vollstreckbarkeit hinsichtlich der Kosten und über den\nVollstreckungsschutz folgt aus § 151 Abs. 1 Satz 1 Halbsatz 1, Abs. 3 FGO i.V.m. §§ 708 Nr. 10, 711\nZivilprozessordnung.\n\n"
+}

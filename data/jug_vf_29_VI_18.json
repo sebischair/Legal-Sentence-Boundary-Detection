@@ -1,0 +1,491 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 57,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 63,
+            "start": 58,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfassungsbeschwerde",
+            "end": 98,
+            "start": 77,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 111,
+            "start": 99,
+            "type": "SBD"
+        },
+        {
+            "annotation": "120",
+            "end": 124,
+            "start": 121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 171,
+            "start": 170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 180,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 418,
+            "start": 413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 431,
+            "start": 420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtswegerschöpfung",
+            "end": 493,
+            "start": 473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 504,
+            "start": 494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1139",
+            "end": 523,
+            "start": 519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 529,
+            "start": 524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 574,
+            "start": 564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 636,
+            "start": 627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 657,
+            "start": 638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 659,
+            "start": 658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 662,
+            "start": 661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1012,
+            "start": 1007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1015,
+            "start": 1014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausgangsverfahrens",
+            "end": 1099,
+            "start": 1081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1994",
+            "end": 1266,
+            "start": 1262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1339,
+            "start": 1337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1342,
+            "start": 1341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1493,
+            "start": 1479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrecht",
+            "end": 1638,
+            "start": 1630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1675,
+            "start": 1665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1776,
+            "start": 1765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1779,
+            "start": 1778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 1950,
+            "start": 1944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 2079,
+            "start": 2072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2083,
+            "start": 2081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2086,
+            "start": 2085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gehör",
+            "end": 2331,
+            "start": 2326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2334,
+            "start": 2333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 2459,
+            "start": 2451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2605,
+            "start": 2599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelesen",
+            "end": 2803,
+            "start": 2796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "falsch",
+            "end": 2938,
+            "start": 2932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beeinträchtigung",
+            "end": 3131,
+            "start": 3115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3134,
+            "start": 3133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 3227,
+            "start": 3217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 3232,
+            "start": 3229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3235,
+            "start": 3234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 3276,
+            "start": 3266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3279,
+            "start": 3278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeführers",
+            "end": 3392,
+            "start": 3375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3396,
+            "start": 3394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fühlt",
+            "end": 3546,
+            "start": 3541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 3722,
+            "start": 3718,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4029,
+            "start": 4028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4033,
+            "start": 4031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 4131,
+            "start": 4124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4240,
+            "start": 4237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "persönlich",
+            "end": 4463,
+            "start": 4453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4683,
+            "start": 4680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4808,
+            "start": 4807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeführt",
+            "end": 4896,
+            "start": 4887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 5093,
+            "start": 5083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5097,
+            "start": 5095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtswegs",
+            "end": 5176,
+            "start": 5166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5180,
+            "start": 5178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5384,
+            "start": 5381,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5627,
+            "start": 5626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzuverfolgen",
+            "end": 5781,
+            "start": 5764,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6177,
+            "start": 6176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6181,
+            "start": 6179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingelegt",
+            "end": 6320,
+            "start": 6311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschöpft",
+            "end": 6410,
+            "start": 6401,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6770,
+            "start": 6769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargelegt",
+            "end": 6935,
+            "start": 6926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entbehrlich",
+            "end": 7067,
+            "start": 7056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7071,
+            "start": 7069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offenbleiben",
+            "end": 7158,
+            "start": 7146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 7340,
+            "start": 7334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 7419,
+            "start": 7417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhandlung",
+            "end": 7551,
+            "start": 7540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuordnen",
+            "end": 7708,
+            "start": 7698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 7712,
+            "start": 7710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7716,
+            "start": 7714,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7821,
+            "start": 7820,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 31.01.2019 – Vf. 29-VI-18\nTitel:\nUnzulässige Verfassungsbeschwerde\nNormenketten:\nBV Art. 120\nVfGHG Art. 51 Abs. 2 S. 1, Art. 53 Abs. 1 S. 1\nLeitsatz:\nUnzulässigkeit einer Verfassungsbeschwerde gegen ein Berufungsurteil des Oberlandesgerichts in\neinem Amtshaftungsprozess, weil die Beschwerde wegen Nichtzulassung der Revision\nzurückgenommen und daher der Rechtsweg nicht erschöpft wurde.\nSchlagworte:\nVersäumnisurteil, Umsatzsteuerschulden, Rechtswegerschöpfung\nFundstelle:\nBeckRS 2019, 1139\nTenor\n1. Die Verfassungsbeschwerde wird abgewiesen.\n2. Dem Beschwerdeführer wird eine Gebühr von 750 € auferlegt.\nEntscheidungsgründe\nI.\n1\nDie Verfassungsbeschwerde richtet sich gegen das Urteil des Oberlandesgerichts München vom 16.\nNovember 2017 Az. 1 U 2722/16, wodurch das Versäumnisurteil vom 7. September 2017 in einem\nBerufungsrechtsstreit wegen Ansprüchen aus Amtshaftung und aus unionsrechtlicher Staatshaftung\nzwischen der N. GmbH und dem Freistaat Bayern aufrechterhalten wurde.\n2\n1. Der Beschwerdeführer ist der Geschäftsführer der Klägerin des Ausgangsverfahrens. Diese erhob am 15.\nJanuar 2012 Klage auf Schadensersatz wegen einer angeblich schuldhaft pflichtwidrigen Festsetzung von\nUmsatzsteuerschulden in den Jahren 1993/1994. Mit Urteil vom 18. Mai 2016 wies das Landgericht\nMünchen I die Klage ab.\n3\n2. Die von der Klägerin hiergegen eingelegte Berufung wurde durch Versäumnisurteil des\nOberlandesgerichts München vom 7. September 2017 zurückgewiesen. Mit dem angegriffenen Urteil vom\n16. November 2017 hielt das Oberlandesgericht auf den Einspruch der Klägerin hin das Versäumnisurteil\naufrecht; die Revision wurde nicht zugelassen. Durch Beschluss vom selben Tag wurde der Streitwert für\nbeide Rechtszüge auf 1,5 Mio. € festgesetzt.\n4\n3. Die zum Bundesgerichtshof gegen die Nichtzulassung der Revision eingelegte Beschwerde nahmen die\nBevollmächtigten der Klägerin mit Schriftsatz vom 29. März 2018 zurück. Durch Beschluss des\nBundesgerichtshofs vom 5. April 2018 wurde die Klägerin der Nichtzulassungsbeschwerde für verlustig\nerklärt.\nII.\n5\n1. Mit seiner am 24. April 2018 eingegangenen, durch Schriftsätze vom 11., 15. und 22. Mai 2018 sowie\nvom 1. Juli 2018 ergänzten Verfassungsbeschwerde vom 21. April 2018 rügt der Beschwerdeführer eine\nVerletzung des Rechts auf rechtliches Gehör.\n6\nDas Oberlandesgericht habe ihm keine ausreichende Gelegenheit zur Stellungnahme gewährt und ein\nÜberraschungsurteil erlassen. Trotz des schwierigen Streitgegenstands, der ein höchst komplexes\nAnlagenbauprojekt betreffe, sei vom Senat kein Experte als Zeuge gehört worden. Das Oberlandesgericht\nhabe die wichtigste von der Klägerin eingereichte Unterlage (Schreiben der Oberfinanzdirektion München\nvom 27. Januar 1998) im Urteil nicht erwähnt und folglich nicht gelesen. Die Ansicht des Senats, dass\nhinsichtlich der Verjährung keine Hemmungs- oder Unterbrechungstatbestände ersichtlich seien, sei falsch.\nIm Hinblick auf eine mögliche Verfristung der Verfassungsbeschwerde beantragt der Beschwerdeführer\nWiedereinsetzung in den vorigen Stand wegen einer schweren gesundheitlichen Beeinträchtigung.\n7\n2. Das Bayerische Staatsministerium der Justiz hält die Verfassungsbeschwerde für unzulässig.\nIII.\n8\nDie Verfassungsbeschwerde ist unzulässig.\n9\n1. Bedenken gegen die Zulässigkeit bestehen bereits im Hinblick auf die Beschwerdebefugnis des\nBeschwerdeführers.\n10\nNach Art. 120 BV kann Verfassungsbeschwerde erheben, wer sich durch eine Behörde oder ein Gericht in\nseinen verfassungsmäßigen Rechten verletzt fühlt. Ein Beschwerdeführer ist demnach beschwerdebefugt,\nwenn er substanziiert geltend macht, durch die angegriffene Entscheidung in einem verfassungsmäßigen\nRecht verletzt zu sein. Er muss durch den angegriffenen Hoheitsakt in diesem Recht selbst, gegenwärtig\nund unmittelbar betroffen sein (Müller in Meder/Brechmann, Die Verfassung des Freistaates Bayern, 5. Aufl.\n2014, Art. 120 Rn. 35; Wolff in Lindner/Möstl/Wolff, Verfassung des Freistaates Bayern, 2. Aufl. 2017, Art.\n120 Rn. 47).\n11\nDie vorliegende Verfassungsbeschwerde hat der Beschwerdeführer unter seinem eigenen Namen erhoben.\nEr selbst war jedoch nicht Partei des Ausgangsverfahrens, sondern die N. GmbH, deren Geschäftsführer er\nist. In Bezug auf die vom Beschwerdeführer erhobenen Rügen kann jedoch nur die juristische Person als\nPartei durch das angegriffene Urteil in verfassungsmäßigen Rechten tangiert sein, nicht aber der\nBeschwerdeführer persönlich. Dieser Umstand war für den Verfassungsgerichtshof zunächst nicht eindeutig\nerkennbar, da der Beschwerdeführer die angegriffene Entscheidung nicht vorgelegt und trotz\nentsprechenden Hinweises auch nicht nachgereicht hat. Allerdings spricht der Beschwerdeführer in der\nVerfassungsbeschwerde einmal von sich als „Geschäftsführer […] der Klägerin“; in einem späteren\nSchreiben vom 1. Juli 2018 hat er die N. GmbH als Absender angeführt. Selbst wenn man daher zu seinen\nGunsten davon ausgehen würde, dass die Verfassungsbeschwerde im Namen der N. GmbH eingelegt\nwerden sollte, ist diese jedenfalls aus einem weiteren Grund unzulässig.\n12\n2. Es fehlt an der erforderlichen Erschöpfung des fachgerichtlichen Rechtswegs.\n13\nIst hinsichtlich des Beschwerdegegenstands ein Rechtsweg zulässig, so ist bei Einreichung der\nVerfassungsbeschwerde gemäß Art. 51 Abs. 2 Satz 1 VfGHG nachzuweisen, dass der Rechtsweg\nerschöpft worden ist. Vorliegend war nach § 544 Abs. 1 Sätze 1 und 2 ZPO eine Beschwerde wegen\nNichtzulassung der Revision zum Bundesgerichtshof statthaft, da der Wert der mit der Revision geltend zu\nmachenden Beschwer 20.000 € überschritt (vgl. § 26 Nr. 8 EGZPO). Dieses Rechtsmittel war geeignet, die\nBeanstandungen des Beschwerdeführers wegen Verletzung des rechtlichen Gehörs (Art. 91 Abs. 1 BV)\nweiterzuverfolgen. Denn nach mittlerweile vereinheitlichter und gefestigter Rechtsprechung lässt der\nBundesgerichtshof die Revision zur Sicherung einer einheitlichen Rechtsprechung (§ 543 Abs. 2 Satz 1 Nr.\n2 ZPO) immer (auch) dann zu, wenn das Berufungsurteil auf der Verletzung eines Verfahrensgrundrechts\nberuht (VerfGH vom 15.9.2009 VerfGHE 62, 178/185 f. m. w. N.; vgl. auch Hagspiel, BayVBl 2018, 469/472\nf.).\n14\nHier hat der Bevollmächtigte der Klägerin des Ausgangsverfahrens mit Schriftsatz vom 22. Dezember 2017\nNichtzulassungsbeschwerde eingelegt. Da diese jedoch am 29. März 2018 zurückgenommen wurde, ist der\nRechtsweg nicht erschöpft. Nimmt der Beschwerdeführer durch Rücknahme eines statthaften\nRechtsbehelfs von der Möglichkeit Abstand, den Rechtsweg zu erschöpfen, ist die Verfassungsbeschwerde\nunzulässig (vgl. z. B. BVerfG vom 10.2.1953 BVerfGE 2, 123/2; VerfGH vom 17.3.1994 - Vf. 22-VI-93 - juris\nRn. 10; Wolff in Lindner/Möstl/Wolff, Verfassung des Freistaates Bayern, Art. 120 Rn. 54). Ausreichende\nGründe dafür, dass die Weiterverfolgung der Nichtzulassungsbeschwerde als unzumutbar angesehen\nwerden könnte, hat der Beschwerdeführer nicht dargelegt. Die mit der Einlegung des Rechtsmittels\nverbundenen Kosten sowie der Zeitaufwand machen die Rechtswegerschöpfung nicht entbehrlich.\n15\n3. Ob die Verfassungsbeschwerde aus weiteren Gründen unzulässig ist, kann offenbleiben. Dies gilt\ninsbesondere im Hinblick auf die Einhaltung der Verfassungsbeschwerdefrist, sodass es auch keiner\nEntscheidung über den diesbezüglichen Antrag auf Wiedereinsetzung bedarf. Ebenso wenig kommt es auf\nden Inhalt einzelner Rügen des Beschwerdeführers an. Gemäß Art. 53 Abs. 1 Satz 1 VfGHG entscheidet\nder Verfassungsgerichtshof über die Verfassungsbeschwerde ohne mündliche Verhandlung; nach der\nSach- und Rechtslage ist es nicht geboten, ausnahmsweise nach Art. 53 Abs. 1 Satz 2 VfGHG die\nDurchführung einer mündlichen Verhandlung anzuordnen.\nIV.\n16\nEs ist angemessen, dem Beschwerdeführer eine Gebühr von 750 € aufzuerlegen (Art. 27 Abs. 1 Satz 2\nVfGHG).\n\n"
+}

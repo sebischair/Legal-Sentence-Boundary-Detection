@@ -1,0 +1,707 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebskostenabrechnungen",
+            "end": 168,
+            "start": 142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 181,
+            "start": 169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 204,
+            "start": 203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 223,
+            "start": 221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 233,
+            "start": 224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelfalls",
+            "end": 440,
+            "start": 429,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 450,
+            "start": 449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mietsache",
+            "end": 740,
+            "start": 731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 826,
+            "start": 820,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 841,
+            "start": 840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 853,
+            "start": 842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umlegbarkeit",
+            "end": 1013,
+            "start": 1001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1024,
+            "start": 1014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1076,
+            "start": 1074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1087,
+            "start": 1077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7661",
+            "end": 1106,
+            "start": 1102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1112,
+            "start": 1107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 1211,
+            "start": 1201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 1360,
+            "start": 1352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1424,
+            "start": 1418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 1467,
+            "start": 1454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschluss",
+            "end": 1478,
+            "start": 1469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1552,
+            "start": 1541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1573,
+            "start": 1554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1575,
+            "start": 1574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1578,
+            "start": 1577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgesehen",
+            "end": 1672,
+            "start": 1663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 1816,
+            "start": 1808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 1866,
+            "start": 1863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1869,
+            "start": 1868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 2032,
+            "start": 2028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2035,
+            "start": 2034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 2179,
+            "start": 2178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2182,
+            "start": 2181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garten",
+            "end": 2293,
+            "start": 2287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Luxushotel",
+            "end": 2376,
+            "start": 2366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 2518,
+            "start": 2509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quartier",
+            "end": 2598,
+            "start": 2590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 2695,
+            "start": 2685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2698,
+            "start": 2697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abläufe",
+            "end": 3723,
+            "start": 3716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3726,
+            "start": 3725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wachbuchführung",
+            "end": 4938,
+            "start": 4923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 5085,
+            "start": 5080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5088,
+            "start": 5087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 5129,
+            "start": 5119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5132,
+            "start": 5131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägers",
+            "end": 5180,
+            "start": 5173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5183,
+            "start": 5182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 5432,
+            "start": 5426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5436,
+            "start": 5434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufung",
+            "end": 5490,
+            "start": 5482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5494,
+            "start": 5492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5700,
+            "start": 5697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5704,
+            "start": 5702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5708,
+            "start": 5706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 5782,
+            "start": 5773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5786,
+            "start": 5784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 6114,
+            "start": 6107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6118,
+            "start": 6116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 6384,
+            "start": 6377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6388,
+            "start": 6386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 6551,
+            "start": 6544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6555,
+            "start": 6553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 6871,
+            "start": 6862,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7055,
+            "start": 7054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungskosten",
+            "end": 7128,
+            "start": 7111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 7521,
+            "start": 7512,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7649,
+            "start": 7648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7653,
+            "start": 7651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hängen",
+            "end": 7839,
+            "start": 7833,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7979,
+            "start": 7978,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8227,
+            "start": 8226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8231,
+            "start": 8229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 8438,
+            "start": 8432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8442,
+            "start": 8440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8785,
+            "start": 8782,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9146,
+            "start": 9145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 9150,
+            "start": 9148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 9173,
+            "start": 9169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9177,
+            "start": 9175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anlage",
+            "end": 9278,
+            "start": 9272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wendet",
+            "end": 9428,
+            "start": 9422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 9680,
+            "start": 9675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9954,
+            "start": 9951,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10080,
+            "start": 10079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10197,
+            "start": 10194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10201,
+            "start": 10199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10427,
+            "start": 10421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10431,
+            "start": 10429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 10753,
+            "start": 10747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beseitigen",
+            "end": 10847,
+            "start": 10837,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11076,
+            "start": 11075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11080,
+            "start": 11078,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11390,
+            "start": 11389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 11621,
+            "start": 11616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quartiers",
+            "end": 11749,
+            "start": 11740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Öffentlichkeit",
+            "end": 11860,
+            "start": 11846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 11864,
+            "start": 11862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Summen",
+            "end": 12158,
+            "start": 12152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unstreitig",
+            "end": 12220,
+            "start": 12210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 12224,
+            "start": 12222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 12341,
+            "start": 12339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 12346,
+            "start": 12343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 12350,
+            "start": 12348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12411,
+            "start": 12408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 12415,
+            "start": 12413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 12452,
+            "start": 12449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 12456,
+            "start": 12454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12539,
+            "start": 12536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 12543,
+            "start": 12541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12791,
+            "start": 12788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelfall",
+            "end": 12843,
+            "start": 12833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 12847,
+            "start": 12845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12908,
+            "start": 12905,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LG München I, Endurteil v. 17.04.2019 – 14 S 15269/18\nTitel:\nUmlegbarkeit von Kosten für einen 24-Stunden Wach- und Sicherheitsdienst aus den\nBetriebskostenabrechnungen\nNormenketten:\nBGB § 556 Abs. 1 S. 2\nBetrkVO § 2 Nr. 17\nLeitsätze:\n1. Ob Kosten eines 24-Stunden-Bewachungsdienstes als Betriebskosten nach § 556 Abs. 1 S. 2\nBGB, § 2 Nr. 17 BetrkVO auf den Wohnraummieter umgelegt werden können, ist eine Frage der\nUmstände des Einzelfalls. (Rn. 18)\n2. Soll der Bewachungsdienst in weit überwiegendem Maße Park- oder Gartenflächen schützen, die\ninnerhalb eines Quartiers für die Öffentlichkeit zugänglich sind und vom Mieter wie Dritten in\ngleichem Maße genutzt werden, so fehlt es am Merkmal des bestimmungsgemäßen Gebrauchs der\nMietsache. Solche Kosten können dann auch nicht anteilig auf den Wohnraummieter umgelegt\nwerden. (Rn. 23 – 25)\nSchlagworte:\nAnspruch, Auflage, Berufung, Betriebskostenabrechnung, Mieter, Sicherheitsdienst, Widmung, Mietsache,\nWohnraum, Betriebskosten, Bewachungsdienst, Umlegbarkeit\nVorinstanz:\nAG München, Urteil vom 28.09.2018 – 473 C 25630/17\nFundstelle:\nBeckRS 2019, 7661\nTenor\n1. Auf die Berufung des Klägers wird das Urteil des Amtsgerichts München vom 28.09.2018 abgeändert.\nDer Beklagte wird verurteilt, an den Kläger 1.408,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über\ndem Basiszinssatz seit 31.01.2018 zu bezahlen.\n2. Der Beklagte hat die Kosten in beiden Rechtszügen zu tragen.\n3. Das Urteil ist vorläufig vollstreckbar.\nBeschluss\nDer Streitwert wird für das Berufungsverfahren auf 1.408,95 € festgesetzt.\nEntscheidungsgründe\nI.\n1\nVon einer Darstellung des Tatbestandes wird gem. §§ 540 Abs. 2, 313a Abs. 1 S.1 ZPO abgesehen. Die\nRevision wird nicht zugelassen, die Wertgrenze des § 26 Nr. 8 EGZPO ist nicht erreicht, die\nNichtzulassungsbeschwerde damit nicht zulässig. Ebenso liegt kein Fall des § 313a Abs. 4 ZPO vor.\n2\nDie Parteien streiten um die Umlegbarkeit von Kosten für einen 24-Stunden Wach- und Sicherheitsdienstes\naus den Betriebskostenabrechnungen der Jahre 2013 bis 2015.\n3\nZwischen den Parteien besteht seit dem 01.04.2010 ein Mietverhältnis über eine Wohnung in der K-straße\n31, 8. M. in den sogenannten „L. Gärten“.\n4\nDas Quartier „L. Gärten“ liegt zwischen K1.platz, K2.platz und Hauptbahnhof direkt am Alten Botanischen\nGarten. Das Quartier besteht aus vier Wohnhäusern, einem Bürogebäude und einem Luxushotel. Zur\nVeranschaulichung der Örtlichkeit wird auf die Lichtbilder zum Schriftsatz des Beklagten vom 25.02.2019,\nBl. 385- 387 der Akte verwiesen. Zudem besteht ein Geh- und Durchfahrtsrecht der Stadt München für das\nQuartier. Der gärtnerisch gestaltete Bereich innerhalb des Quartiers ist für die Allgemeinheit zugänglich.\n5\nNach dem unbestrittenen Vortrag des Beklagten im Schriftsatz vom 02.07.2018 (Bl. 244 d.A.) umfassen die\nLeistungen der beauftragten Sicherheitszentrale das Betreiben der zentralen Leitwarte (Sicherheitszentrale)\nmit entsprechenden Personal und Dokumentation der Ereignisse, die Bedienung der allgemeinen Leit- und\nSteuertechnik für die Entgegennahme von Störmeldungen und Alarmierung von Polizei, Feuerwehr und\nRettungskräften sowie die Einweisung und Kontakt, Ersthilfe, das Überwachen der Videokameraanlagen\nund Brandmeldeanlagen sowie der Alarm- und Meldeeinrichtungen, die Entgegennahme von Auszugs- und\nBehindertennotrufen und deren Weiterleitung, die Kontrolle und das Management der zentralen und\ndeswegen sicherheitsrelevanten Schließanlage, die Annahme persönlicher und automatischer Notrufe, die\nEinleitung von Maßnahmen zur Abwendung von Gefahren oder Schäden, die Einleitung von Maßnahmen\nzur Verhinderung oder Begrenzung bereits eingetretener Schäden sowie das regelmäßige Training\nsicherheitsrelevanter Abläufe.\n6\nNach dem unbestrittenen Vortrag des Beklagten im Schriftsatz vom 02.07.2018 (Bl. 245 d.A.) umfassen die\nAufgaben des hier streitgegenständlichen Revierdienstes (Sicherheitskontrollgänge) das Durchführen der\nRevierdienste durch Bestreifung zu Fuß ausgehend von wechselnden Kontrollpunkten und zu wechselnden\nZeiten, die Sichtprüfung auf kontrollbedürftige Personen, Rauchentwicklung etc., im Falle eines Notfalls z.B.\nBrand die Einleitung der Maßnahmen nach einem Notfallplan sowie die Benachrichtigung der\nRettungskräfte, die Kontrolle der sicherheitsrelevanten Technik (optische Kontrolle), das Verhindern von\nPlakatieren, Farbschmierereien und Vandalismus, den Verweis von Personengruppen, die augenscheinlich\nfür Unregelmäßigkeiten im Quartier verantwortlich sind, wie z.B. Alkohol- und Drogenkonsumenten,\nUnterbindung von aggressivem Betteln, Verunreinigungen und Obdachlosenschlafquartiere etc. ggf unter\nHinzuziehung der Polizei, stichprobenartige Kontrollgänge in den Treppenhausbereichen, umgehende\nInformation des Objektleiters bei Verunreinigungen oder sonstigen Problemen, die Einweisung der\nFeuerwehr im Brandfall sowie Revierkontrollberichte mit Dokumentation der Kontrollpunkte und\nWachbuchführung. Der Wachdienst führt hierbei nach dem unstreitigen Vortrag des Beklagten im\nSchriftsatz vom 02.07.2018 (Bl. 241 d.A.) lediglich Streifgänge durch.\n7\nDas Amtsgericht hat die Klage abgewiesen.\n8\nHiergegen richtet sich die Berufung des Klägers.\n9\nDer Kläger beantragt, das Urteil des Amtsgerichts München vom 28.09.2018 aufzuheben und den\nBeklagten zu verurteilten, an den Kläger 1.408,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem\nBasiszinssatz seit 31.01.2018 an den Kläger zu zahlen.\n10\nDer Beklagte beantragt die Zurückweisung der Berufung.\n11\nIn der mündlichen Verhandlung am 17.04.2019 haben die Parteien unstreitig gestellt, dass am südlichen\nZugang des Quartiers eine Beschilderung wie auf den Lichtbildern Bl. 395 und 396 der Akte vorhanden ist.\nII.\n12\nDie zulässige Berufung des Klägers erweist sich im Ergebnis als begründet.\n13\nDem Kläger steht ein Anspruch auf Rückzahlung der von ihm auf die Betriebskostenabrechnungen der\nJahre 2013 bis 2015 für die Position Wach- und Sicherheitsdienst geleisteten Zahlungen zu, da es sich bei\ndieser Position im vorliegenden Fall bereits nicht um umlagefähige Betriebskosten im Sinne des § 556 Abs.\n1 S. 2 BGB handelt.\n14\nZwar ist eine Umlage der Kosten für einen Wach- und Sicherheitsdienstes grundsätzlich nach § 2 Nr. 17\nBetrKV in Verbindung mit § 2 Abs. 3 S. 2 des verfahrensgegenständlichen Mietvertrags in Verbindung mit\nAnlage 3 zum Mietvertrag als sonstige Betriebskosten möglich.\n15\nVoraussetzung hierfür ist allerdings, dass es sich bei den Kosten für den Wach- und Sicherheitsdienst um\nBetriebskosten im Sinne des § 556 Abs. 1 S. 2 BGB handelt.\n16\nNach der Definition des § 556 Abs. 1 Satz 2 BGB bzw. § 1 Abs. 1 Satz 1 BetrKV sind (umlagefähige)\nBetriebskosten solche Kosten, die dem Eigentümer durch das Eigentum am Grundstück oder durch den\nbestimmungsmäßigen Gebrauch des Gebäudes, der Nebengebäude, Anlagen, Einrichtungen und des\nGrundstücks laufend entstehen. Kosten, die durch das rechtswidrige Verhalten eines Mieters oder eines\nDritten verursacht werden, sind keine Betriebskosten (Blank/Börstinghaus/Blank, 5. Aufl. 2017, BGB § 556\nRn. 7).\n17\nHiervon zu unterscheiden sind (nicht umlagefähige) Verwaltungskosten. Verwaltungskosten sind nach der\nDefinition in § 1 Abs. 2 Nr. 1 BetrKV „die Kosten der zur Verwaltung des Gebäudes erforderlichen\nArbeitskräfte und Einrichtungen, die Kosten der Aufsicht, der Wert der vom Vermieter persönlich geleisteten\nVerwaltungsarbeit, die Kosten für die gesetzlichen oder freiwilligen Prüfungen des Jahresabschlusses und\ndie Kosten für die Geschäftsführung“ zu verstehen. Sie dienen dazu, den Wert der Immobilie und ihrer\nRentabilität zu erhalten (Schmidt-Futterer, 13. Auflage 2017, § 556, Rn. 92).\n18\nDie Kernfrage ist, wann Kosten „durch den bestimmungsgemäßen Gebrauch des Gebäudes“ (§ 1 Abs. 1\nBetrKV) entstehen, d. h. unmittelbar mit der Bewirtschaftung des Gebäudes zusammen hängen. Dies ist\nvon den Verhältnissen im Einzelfall abhängig (Langenberg/Zehelein, Betriebskosten- und Heizkostenrecht,\n9. Auflage 2019, Rn. 266). Steht für den Eigentümer im Vordergrund, mit der Bewachung Schäden am\nGrundstück oder Gebäude zu verhindern, geht es ihm vorrangig um den Schutz seines Eigentums\n(Langenberg/Zehelein, Betriebskosten- und Heizkostenrecht, 9. Auflage 2019, Rn. 267).\n19\nDer Wach- und Sicherheitsdienst müsste vorliegend überwiegend bei dem bestimmungsgemäßen\nGebrauch des Gebäudes bzw. des Grundstücks entstehen, um eine umlagefähige Betriebskostenposition\nbegründen zu können.\n20\nGarten- oder Parkflächen, die durch bauplanerische Bestimmungen oder durch den Vermieter selbst für die\nNutzung der Öffentlichkeit gewidmet sind, fehlt der erforderliche Bezug zur Mietsache, der über das in §\nBGB § 556 Absatz 1 S. 2 BGB enthaltene Merkmal des bestimmungsgemäßen Gebrauchs für die\nUmlegung von Betriebskosten vorausgesetzt ist; liegt eine derartige Widmung zu Gunsten der Öffentlichkeit\nvor, so dass jedermann die Nutzung dieser Flächen unabhängig davon gestattet ist, ob er eine Wohnung in\nder Wohnanlage angemietet hat, können die Kosten der Pflege dieser Flächen nicht als Betriebskosten den\nWohnraummietern angelastet werden (BGH, Urteil v. 10.02.2016, VIII ZR 33/15, NJW 2016, 1439).\n21\nSo liegt der Fall hier.\n22\nBei dem verfahrensgegenständlichen Quartier handelt es sich um eine für jedermann zugängliche Anlage.\nDies geht insbesondere aus der an den Eingängen der Anlage befindlichen Beschilderung hervor, welche\nsich an die „Besucher“ der Lenbachgärten wendet. Es handelt sich um eine parkähnliche Anlage (vgl.\nLichtbilder Bl. 385 - 387), die der Allgemeinheit zur Verfügung steht und für jedermann zugänglich ist, mithin\num nicht mitvermietete Gemeinschaftsflächen, die der Mieter nicht anders als Dritte nutzt. Die Kammer hat\ndie Örtlichkeit selbst in Augenschein genommen und zwei Lichtbilder von einem der Zugänge zum Quartier,\ndem südlichen Zugang zum Quartier (S-straße), gefertigt, welcher mit entsprechenden Schildern mit\nHinweisen für „Besucher der Lenbachgärten“ versehen ist. Auf diese Lichtbilder, die zum Gegenstand der\nmündlichen Verhandlung gemacht wurden, wird Bezug genommen (Bl. 394, 395 d.A.). Bereits aus dieser\nBeschilderung geht hervor, dass die Anlage für die Nutzung durch die Öffentlichkeit gewidmet ist.\n23\nAufgrund der Widmung des Quartiers für die Nutzung zu Gunsten der Öffentlichkeit können die Kosten für\ndie Überwachung dieser Flächen durch den Wach- und Sicherheitsdienst nicht als Betriebskosten dem\nKläger angelastet werden.\n24\nZudem handelt es sich nach einer Gesamtschau der oben unter I. geschilderten unstreitigen Aufgaben der\nSicherheitszentrale und des Wach- und Sicherheitsdienstes zur Überzeugung der Kammer überwiegend um\nsolche, die dem Schutz des Eigentums des Vermieters sowie der Öffentlichkeit und weniger dem Schutz\ndes Mieters dienen. Verursachen Dritte Schäden am Gebäude, hat sie der Vermieter auf eigene Kosten zu\nbeseitigen; es kann daher nichts anderes gelten, wenn er vorsorgliche Maßnahmen wie durch eine\nBewachung ergreift, um dem Eintritt von Schäden vorzubeugen (Langenberg/Zehelein, Betriebskosten- und\nHeizkostenrecht, 9. Auflage 2019, Rn. 267).\n25\nDie Kammer verkennt nicht, dass einzelne Tätigkeiten des Sicherheits- und Wachdienstes, wie\nstichprobenartige Kontrollgänge in den Treppenhäusern oder Streifgänge durch das Quartier, auch dem\nKläger als Mieter zu Gute kommen (Langenberg/Zehelein, Betriebskosten- und Heizkostenrecht, 9. Auflage\n2019, Rn. 267). In der Gesamtschau der Aufgaben des Wach- und Sicherheitsdienstes spielen diese\nstichprobenartigen Kontrollen und Streifgänge jedoch im Vergleich zu den übrigen Aufgaben des Wach- und\nSicherheitsdienstes eine untergeordnete Rolle. Die hauptsächlichen Tätigkeiten des Wach- und\nSicherheitsdienstes fallen auf die öffentlich zugänglichen Flächen des Quartiers. Insgesamt überwiegen die\nTätigkeiten des Sicherheitsdienstes zum Schutze des Eigentums und der Öffentlichkeit.\n26\nDa nach alledem die Kosten für die Position Wach- und Sicherheitsdienst bereits keine Betriebskosten im\nSinne von § 556 Abs. 1 S. 2 BGB darstellen, hat der Kläger einen Anspruch auf Rückzahlung der von ihm\nhierfür auf die Betriebskostenabrechnungen für die Jahre 2013 bis 2015 gezahlten Summen. Die Höhe\ndieser Beträge war zwischen den Parteien unstreitig.\n27\nAuf die Frage der Wirtschaftlichkeit und der sekundären Darlegungs- und Beweislast kommt es vorliegend\nnicht mehr an.\nIII.\n28\nDie Kostenentscheidung beruht auf §§ 97, 92 Abs. 2 Nr. 1 ZPO.\n29\nDer Zinsanspruch folgt aus § 291 BGB.\n30\nDie Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 708 Nr. 10 ZPO.\n31\nDie Revision war nicht zuzulassen, da die Rechtssache keine grundsätzliche Bedeutung hat und auch die\nFortbildung des Rechts oder die Einheitlichkeit der Rechtsprechung eine Entscheidung des\nRevisionsgerichts nicht erfordern, §§ 543 Abs. 2 S.1 ZPO. Es handelt sich um eine Entscheidung im\nEinzelfall.\n32\nDie Festsetzung des Streitwertes beruht auf §§ 47 GKG, 3 ZPO.\n\n"
+}

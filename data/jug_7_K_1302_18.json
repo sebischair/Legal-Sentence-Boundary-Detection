@@ -1,0 +1,401 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 392,
+            "start": 383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 404,
+            "start": 393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einnahmen",
+            "end": 744,
+            "start": 735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 755,
+            "start": 745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37768",
+            "end": 775,
+            "start": 770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 781,
+            "start": 776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 810,
+            "start": 800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 859,
+            "start": 849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 880,
+            "start": 861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 882,
+            "start": 881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 885,
+            "start": 884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 912,
+            "start": 908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Immobilien",
+            "end": 994,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beteiligt",
+            "end": 1187,
+            "start": 1178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 1444,
+            "start": 1443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitalertragsteuer",
+            "end": 1774,
+            "start": 1755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 1998,
+            "start": 1988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 2099,
+            "start": 2091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2102,
+            "start": 2101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 2412,
+            "start": 2408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2415,
+            "start": 2414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2744,
+            "start": 2741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2905,
+            "start": 2899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3035,
+            "start": 3032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 3173,
+            "start": 3165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 3286,
+            "start": 3277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befänden",
+            "end": 3458,
+            "start": 3450,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3535,
+            "start": 3534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3538,
+            "start": 3537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 3571,
+            "start": 3566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3891,
+            "start": 3888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 4029,
+            "start": 4021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4166,
+            "start": 4163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4244,
+            "start": 4241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versteuere",
+            "end": 4487,
+            "start": 4477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausweise",
+            "end": 4829,
+            "start": 4821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4832,
+            "start": 4831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 4881,
+            "start": 4876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 5136,
+            "start": 5131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5338,
+            "start": 5335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheidungserheblich",
+            "end": 5442,
+            "start": 5420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wegdiskutieren",
+            "end": 5561,
+            "start": 5547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5564,
+            "start": 5563,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5672,
+            "start": 5671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 5757,
+            "start": 5749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5761,
+            "start": 5759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5764,
+            "start": 5763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5790,
+            "start": 5779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5793,
+            "start": 5792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattzugeben",
+            "end": 5900,
+            "start": 5888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6015,
+            "start": 6009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6174,
+            "start": 6170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6261,
+            "start": 6258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrzunehmen",
+            "end": 6586,
+            "start": 6574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Glaubhaftmachung",
+            "end": 6625,
+            "start": 6609,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6786,
+            "start": 6785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7010,
+            "start": 7004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 7176,
+            "start": 7169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7279,
+            "start": 7273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7282,
+            "start": 7281,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7464,
+            "start": 7463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7866,
+            "start": 7862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7870,
+            "start": 7868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 7917,
+            "start": 7914,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 28.12.2018 – 7 K 1302/18\nTitel:\nFeststellung, Gesellschafterbeschluss, Kapitalertragsteuer, Glaubhaftmachung,\nKostenentscheidung, Versicherung, Klage, Finanzamt, Nachforderungsbescheid,\nSteuerberater, Annahme, Voraussetzungen, Telefax, Beweismittel, Co KG,\neidesstattliche Versicherung, nicht ausreichend, Verpflichtung, Terminsverlegung,\nPersonengesellschaft, Einnahmen\nSchlagworte:\nFeststellung, Gesellschafterbeschluss, Kapitalertragsteuer, Glaubhaftmachung, Kostenentscheidung,\nVersicherung, Klage, Finanzamt, Nachforderungsbescheid, Steuerberater, Annahme, Voraussetzungen,\nTelefax, Beweismittel, Co KG, eidesstattliche Versicherung, nicht ausreichend, Verpflichtung,\nTerminsverlegung, Personengesellschaft, Einnahmen\nFundstelle:\nBeckRS 2018, 37768\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Klägerin trägt die Kosten des Verfahrens.\nEntscheidungsgründe\nI.\n1\nDie Klägerin ist eine GmbH. Gegenstand des Unternehmens ist der Handel mit und die Verwaltung von\nImmobilien. An der Klägerin, die über ein Stammkapital von 25.000 € verfügte, waren zunächst Herr A.\neinem Stammkapitalanteil von 10.000 € und die R AG mit einem Stammkapitalanteil von 15.000 € beteiligt.\nMit notariellen Kaufvertrag und Geschäftsanteilsabtretungsvertrag vom 11. November 2015 veräußerte Herr\nA mit sofortiger Wirkung seine Geschäftsanteile an die R AG zum Nennwert von 10.000 € unter Anrechnung\nder noch offenen Stammeinlage in Höhe von 5000 €. Im notariellen Vertrag vom 11. November 2015 wurde\nim Rahmen der Regelung zur Gewinnverteilung in § 3 festgestellt, dass Herr A bereits einen Vorabgewinn in\nHöhe von 165.340 € und die R AG einen Vorabgewinn in Höhe von 248.000 € erhalten hat, je unter\nBerücksichtigung eines dreißigprozentigen Einbehalts für Kapitalertragsteuer. Es wurde vereinbart, dass\nHerr A nicht verpflichtet ist, den vorbezeichneten Geldbetrag zurück zu bezahlen, selbst wenn der\ntatsächliche Gewinn nach vollständigem Abschluss des Vorgangs niedriger sein sollte als angenommen.\nHinsichtlich der Einzelheiten wird auf den notariellen Vertrag vom 11. November 2015 Bezug genommen.\n2\nDas beklagte Finanzamt (das Finanzamt) setzte daraufhin mit Nachforderungsbescheid vom 20.10.2017\naufgrund der Vorabausschüttung in Höhe von 413.340 € netto unter Annahme einer Bruttodividende in\nHöhe von 561.375 € Kapitalertragsteuer in Höhe von 140.343 € und Solidaritätszuschlag in Höhe von\n7.718,91 € fest.\n3\nDagegen legte die Klägerin Einspruch ein mit der Begründung, es habe sich nicht um eine offene\nGewinnausschüttung gehandelt, da es sich bei den an die Gesellschafter gezahlten Beträge nicht um zu\nverteilende Unternehmensgewinne der Klägerin gehandelt habe, da nach dem Jahresabschluss nur ein\nGewinn von 480.000 € entstanden sei. Ein entsprechender Gewinnverwendungsbeschluss sei nicht gefasst\nworden und könne auch nicht in der Regelung im Geschäftsanteilsabtretungsvertrag gesehen werden. Die\nRegelung sei auch inhaltlich falsch, da nicht die Kapitalertragsteuer, sondern die Körperschaftsteuer\neinbehalten worden sei. Erst jetzt, nachdem der Gewinn durch den vorliegenden Jahresabschluss feststehe,\nkönne ein wirksamer Gewinnverwendungsbeschluss erfolgen. Bei dem im Abtretungsvertrag genannten\nVorgang habe es sich um eine Zahlung mit Fremdkapitalcharakter gehandelt. Ergänzend wurde\nvorgebracht, dass es sich auch nicht um Einkünfte nach § 20 EStG handeln könne, da sich die Anteile in\nSonderbetriebsvermögen der A GmbH & Co. KG befänden. Der Einspruch blieb ohne Erfolg\n(Einspruchsentscheidung vom 10. April 2018).\n4\nHiergegen richtet sich die Klage. Diese wird dA. begründet, dass bisher seitens des Finanzamts nicht auf\ndie Frage eingegangen worden sei, inwieweit sich der GmbH-Anteil von Herrn A an der Klägerin im\nSonderbetriebsvermögen des Gesellschafters bei der Firma A GmbH & Co. KG befunden habe und dA.\nkeine Abgeltungssteuer für Ausschüttungen zu erheben sei. Bei Zahlungen ins Betriebsvermögen seien bei\neiner Qualifizierung als Ausschüttungen die § 43 Abs. 1 i.V.m. § 44 Abs. 1 EStG zu beachten.\nTatbestandsvoraussetzung für die Erhebung der Abgeltungssteuer sei ein wirksamer\nGesellschafterbeschluss, dieser liege jedoch nicht vor. Es werde auch bestritten, dass eine verdeckte\nGewinnausschüttung erfolgt sei. Vielmehr seien die Vertragsparteien aufgrund der\nBetriebsvermögenszugehörigkeit davon ausgegangen, dass Herr A im Rahmen der einheitlichen und\ngesonderten Feststellung von Einkünften bei der Firma A GmbH & Co. KG diese erkläre und versteuere.\nDies sei schon allein daraus zu erkennen, dass der tatsächliche Gewinn niedriger sei als der\n„Ausschüttungsbetrag“. Aus den Jahresabschlüssen 2015 und 2016 sei zu erkennen, dass zwischen den\nParteien gemeinsam nur ein Projekt abgewickelt worden sei und der Erlös daraus nicht die Höhe erreicht\nhabe, welche die Entnahme von Herrn A ausweise.\n5\nDas Finanzamt beantragt,\ndie Abweisung der Klage. Es führt aus, dass es für die Entstehung der Kapitalertragsteuer unerheblich sei,\nob die infrage stehenden Einnahmen im Sonderbetriebsvermögen zu erfassen oder dem jeweiligen\nAnteilseigner außerhalb einer gesonderten Feststellung direkt zuzuordnen seien. Auch sei es für die\nEntstehung der Kapitalertragsteuer unerheblich, ob eine Gewinnausschüttung aufgrund eines wirksamen\nGewinnausschüttungsbeschlusses oder als verdeckte Gewinnausschüttung erfolgt sei. Auch sei die Art der\nEinkünfte für die Entstehung der Kapitalertragsteuer nicht entscheidungserheblich. Dass den\nGesellschaftern der Betrag von 413.340 € netto im Jahr 2015 zugeflossen sei, lasse sich nicht\nwegdiskutieren.\n6\nDer Rechtsstreit wurde mit Beschluss vom 29.11.2018 dem Einzelrichter zur Entscheidung übertragen (§ 6\nFGO). Auf das Protokoll über die mündliche Verhandlung vom 28.12.2018 wird Bezug genommen.\nII.\n7\nDie Klage ist unbegründet.\n8\n1. Dem am 27.12.2018 per Telefax eingereichten Terminsverlegungsantrag der Klägerin war nicht\nstattzugeben. Nach § 155 FGO i.V.m. § 227 Abs. 1 ZPO kann ein Termin nur aus erheblichen Gründen\naufgehoben oder verlegt werden. In der Ladung vom 29.11.2018 ist gemäß § 155 FGO i.V.m. § 227 Ab. 2\nZPO angeordnet, dass erhebliche Gründe für eine Terminsverlegung glaubhaft zu machen sind. Diese\nVoraussetzungen liegen bei dem Terminsverlegungsantrag von 27.12.2018 nicht vor. Bereits der für die\nTerminsverlegung angeführte Grund, dass eine Suche nach einer Pflege für die Mutter des\nGeschäftsführers der Klägerin erforderlich geworden sei, lässt nicht erkennen, warum es dem\nGeschäftsführer nicht möglich sein soll, für die Dauer von ca. 1 bis 2 Stunden einen Gerichtstermin in\nMünchen wahrzunehmen. Auch fehlt es an der Glaubhaftmachung. Eine eidesstattliche Versicherung ist\nnicht ausreichend, wenn andere Beweismittel beschaffbar wären (BFH-Beschluss vom 22.11.2009 IV B\n66/08, BFH/NV 2010, 671). Der darüber hinaus angeführte Grund, dass das Mandat des bisherigen\nSteuerberaters M gekündigt worden sei, war bereits Grund für die Verlegung des Termins vom 17.12.2018\nund kann daher nicht noch mal geltend gemacht werden. Die Behauptung, dass ein neuer Steuerberater\nbeauftragt worden sei, der sich noch nicht umfassend in den Fall habe einarbeiten können, wurde nicht\nglaubhaft gemacht. Dies hätte insbesondere durch ein Terminsverlegungsantrag des neuen\nBevollmächtigten geschehen können.\n9\n2. Hinsichtlich der Entscheidungsgründe folgt das Gericht in der Begründung in der Einspruchsentscheidung\nvom 10.4.2018 und sieht von einer weiteren Begründung ab (§ 105 Abs. 5 FGO). Soweit mit der Klage\ngeltend gemacht wird, dass seitens des Finanzamts nicht auf die Frage eingegangen worden sei, inwieweit\nsich der GmbH-Anteil von Herrn M an der Klägerin in seinem Sonderbetriebsvermögen bei der A GmbH &\nCo. KG befunden habe, so ist darauf hinzuweisen, dass es für die Entstehung der Kapitalertragsteuer\nunerheblich ist, ob die Einnahmen im Sonderbetriebsvermögen zu erfassen sind.\n10\n3. Die Kostenentscheidung beruht auf § 135 FGO.\n\n"
+}

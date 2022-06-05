@@ -1,0 +1,371 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 128,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 329,
+            "start": 323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 551,
+            "start": 544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 681,
+            "start": 674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 815,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 900,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 937,
+            "start": 922,
+            "type": "SBD"
+        },
+        {
+            "annotation": ".",
+            "end": 1031,
+            "start": 1030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1166,
+            "start": 1163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1416,
+            "start": 1410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1529,
+            "start": 1527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1681,
+            "start": 1678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1833,
+            "start": 1825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 1878,
+            "start": 1855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Englisch",
+            "end": 1965,
+            "start": 1957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2060,
+            "start": 2058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 2145,
+            "start": 2135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 2167,
+            "start": 2150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 2243,
+            "start": 2238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 2310,
+            "start": 2301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftszeiten",
+            "end": 2498,
+            "start": 2483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 2560,
+            "start": 2557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 2574,
+            "start": 2565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 2659,
+            "start": 2650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2675,
+            "start": 2661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2697,
+            "start": 2679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2760,
+            "start": 2752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzend",
+            "end": 2792,
+            "start": 2783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2930,
+            "start": 2927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterveräußern",
+            "end": 3010,
+            "start": 2995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3261,
+            "start": 3259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommen",
+            "end": 3428,
+            "start": 3418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 3449,
+            "start": 3433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3470,
+            "start": 3466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 3659,
+            "start": 3656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 3838,
+            "start": 3826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3968,
+            "start": 3962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3990,
+            "start": 3986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4231,
+            "start": 4226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rügepflicht",
+            "end": 4312,
+            "start": 4301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 4485,
+            "start": 4482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4555,
+            "start": 4550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 4588,
+            "start": 4579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 4632,
+            "start": 4613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 4811,
+            "start": 4801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundendienst",
+            "end": 4825,
+            "start": 4813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 5027,
+            "start": 5024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 5039,
+            "start": 5032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5432,
+            "start": 5429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 5904,
+            "start": 5900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5965,
+            "start": 5951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verhaltenskodex",
+            "end": 5986,
+            "start": 5971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterworfen",
+            "end": 6040,
+            "start": 6029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Qualitätskriterien",
+            "end": 6074,
+            "start": 6056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 6094,
+            "start": 6079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 6239,
+            "start": 6238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 6360,
+            "start": 6348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 6385,
+            "start": 6366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 6468,
+            "start": 6458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftssitz",
+            "end": 6736,
+            "start": 6723,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop durch Verbraucher und Unternehmer gelten die nachfolgenden AGB.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\nGegenüber Unternehmern gelten diese AGB auch für künftige Geschäftsbeziehungen, ohne dass wir nochmals auf sie hinweisen müssten. Verwendet der Unternehmer entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen, wird deren Geltung hiermit widersprochen; sie werden nur dann Vertragsbestandteil, wenn wir dem ausdrücklich zugestimmt haben.\n2. Vertragspartner, Vertragsschluss\nDer Kaufvertrag kommt zustande mit eXXpozed - sports & fashion Andreas Oliver Bindhammer e.K..\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer Annahmeerklärung in separater E-Mail oder durch Auslieferung der Ware innerhalb von zwei Tagen annehmen.\n3. Vertragssprache, Vertragstextspeicherung\nDie für den Vertragsschluss zur Verfügung stehenden Sprachen sind Deutsch und Englisch.\nWir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per E-Mail zu. Der Vertragstext ist aus Sicherheitsgründen nicht mehr über das Internet zugänglich.\n4. Lieferbedingungen\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\nSie haben grundsätzlich die Möglichkeit der Abholung bei eXXpozed - sports & fashion, Baumeisterstraße 3, 87463 Dietmannsried), Deutschland zu den nachfolgend angegebenen Geschäftszeiten: Mo., Di., Fr. 10:00-18:30 Uhr; Mi., Do., Sa. 10:00-15:30 Uhr.\n5. Bezahlung\nIn unserem Shop stehen Ihnen grundsätzlich die folgenden Zahlungsarten zur Verfügung: Bezahlmethoden\n6. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\nFür Unternehmer gilt ergänzend: Wir behalten uns das Eigentum an der Ware bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung vor. Sie dürfen die Vorbehaltsware im ordentlichen Geschäftsbetrieb weiterveräußern; sämtliche aus diesem Weiterverkauf entstehenden Forderungen treten Sie – unabhängig von einer Verbindung oder Vermischung der Vorbehaltsware mit einer neuen Sache - in Höhe des Rechnungsbetrages an uns im Voraus ab, und wir nehmen diese Abtretung an. Sie bleiben zur Einziehung der Forderungen ermächtigt, wir dürfen Forderungen jedoch auch selbst einziehen, soweit Sie Ihren Zahlungsverpflichtungen nicht nachkommen.\n7. Transportschäden\nFür Verbraucher gilt: Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\nFür Unternehmer gilt: Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung geht auf Sie über, sobald wir die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert haben. Unter Kaufleuten gilt die in § 377 HGB geregelte Untersuchungs- und Rügepflicht. Unterlassen Sie die dort geregelte Anzeige, so gilt die Ware als genehmigt, es sei denn, dass es sich um einen Mangel handelt, der bei der Untersuchung nicht erkennbar war. Dies gilt nicht, falls wir einen Mangel arglistig verschwiegen haben.\n8. Gewährleistung und Garantien\nEs gilt das gesetzliche Mängelhaftungsrecht. Informationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.\nKundendienst: Sie erreichen unseren Kundendienst für Fragen, Reklamationen und Beanstandungen werktags von 10:00 Uhr bis 16:30 Uhr unter der Telefonnummer +49-831-930 624 70 sowie per E-Mail unter info@exxpozed.com.\n9. Haftung\nFür Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränkt bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung, bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nBei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n10. Verhaltenskodex\nFolgenden Verhaltenskodizes haben wir uns unterworfen: Trusted Shops Qualitätskriterien\n11. Streitbeilegung\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.\nWir sind bereit, an einem außergerichtlichen Schlichtungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n12. Schlussbestimmungen\nSind Sie Unternehmer, dann gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\nSind Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen uns und Ihnen unser Geschäftssitz.\n\n"
+}

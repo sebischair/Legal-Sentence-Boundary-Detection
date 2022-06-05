@@ -1,0 +1,359 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 128,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 329,
+            "start": 323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 551,
+            "start": 544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 681,
+            "start": 674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 900,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 815,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 937,
+            "start": 922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GbR",
+            "end": 998,
+            "start": 995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1133,
+            "start": 1130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1383,
+            "start": 1377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1496,
+            "start": 1494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1606,
+            "start": 1596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsart",
+            "end": 1702,
+            "start": 1691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 1718,
+            "start": 1704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 1762,
+            "start": 1739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 1833,
+            "start": 1826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1928,
+            "start": 1926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 2013,
+            "start": 2003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 2035,
+            "start": 2018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 2111,
+            "start": 2106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 2178,
+            "start": 2169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 2273,
+            "start": 2264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 2287,
+            "start": 2278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 2372,
+            "start": 2363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2388,
+            "start": 2374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2410,
+            "start": 2392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2473,
+            "start": 2465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzend",
+            "end": 2505,
+            "start": 2496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2643,
+            "start": 2640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterveräußern",
+            "end": 2723,
+            "start": 2708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommen",
+            "end": 3141,
+            "start": 3131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2974,
+            "start": 2972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 3162,
+            "start": 3146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3183,
+            "start": 3179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 3372,
+            "start": 3369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 3551,
+            "start": 3539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3681,
+            "start": 3675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 3703,
+            "start": 3699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3944,
+            "start": 3939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rügepflicht",
+            "end": 4025,
+            "start": 4014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 4268,
+            "start": 4263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 4198,
+            "start": 4195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 4301,
+            "start": 4292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 4345,
+            "start": 4326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 4524,
+            "start": 4514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 4536,
+            "start": 4529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4929,
+            "start": 4926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 5401,
+            "start": 5397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5462,
+            "start": 5448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 5483,
+            "start": 5468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 5628,
+            "start": 5627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 5729,
+            "start": 5723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 5986,
+            "start": 5974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilnehmen",
+            "end": 6230,
+            "start": 6220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 6154,
+            "start": 6152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 6255,
+            "start": 6236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 6338,
+            "start": 6328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftssitz",
+            "end": 6606,
+            "start": 6593,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop durch Verbraucher und Unternehmer gelten die nachfolgenden AGB.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\nGegenüber Unternehmern gelten diese AGB auch für künftige Geschäftsbeziehungen, ohne dass wir nochmals auf sie hinweisen müssten. Verwendet der Unternehmer entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen, wird deren Geltung hiermit widersprochen; sie werden nur dann Vertragsbestandteil, wenn wir dem ausdrücklich zugestimmt haben.\n2. Vertragspartner, Vertragsschluss\nDer Kaufvertrag kommt zustande mit Dirk & Thomas Wermuth GbR.\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung.\nWann der Vertrag mit uns zustande kommt, richtet sich nach der von Ihnen gewählten Zahlungsart: Bezahlmethoden\n3. Vertragssprache, Vertragstextspeicherung\nDie für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.\nWir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per E-Mail zu. Der Vertragstext ist aus Sicherheitsgründen nicht mehr über das Internet zugänglich.\n4. Lieferbedingungen\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\nSie haben grundsätzlich die Möglichkeit der Abholung bei Dirk & Thomas Wermuth GbR, Anschrift.\n5. Bezahlung\nIn unserem Shop stehen Ihnen grundsätzlich die folgenden Zahlungsarten zur Verfügung: Bezahlmethoden\n6. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\nFür Unternehmer gilt ergänzend: Wir behalten uns das Eigentum an der Ware bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung vor. Sie dürfen die Vorbehaltsware im ordentlichen Geschäftsbetrieb weiterveräußern; sämtliche aus diesem Weiterverkauf entstehenden Forderungen treten Sie – unabhängig von einer Verbindung oder Vermischung der Vorbehaltsware mit einer neuen Sache - in Höhe des Rechnungsbetrages an uns im Voraus ab, und wir nehmen diese Abtretung an. Sie bleiben zur Einziehung der Forderungen ermächtigt, wir dürfen Forderungen jedoch auch selbst einziehen, soweit Sie Ihren Zahlungsverpflichtungen nicht nachkommen.\n7. Transportschäden\nFür Verbraucher gilt: Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\nFür Unternehmer gilt: Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung geht auf Sie über, sobald wir die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert haben. Unter Kaufleuten gilt die in § 377 HGB geregelte Untersuchungs- und Rügepflicht. Unterlassen Sie die dort geregelte Anzeige, so gilt die Ware als genehmigt, es sei denn, dass es sich um einen Mangel handelt, der bei der Untersuchung nicht erkennbar war. Dies gilt nicht, falls wir einen Mangel arglistig verschwiegen haben.\n8. Gewährleistung und Garantien\nEs gilt das gesetzliche Mängelhaftungsrecht. Informationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.\n9. Haftung\nFür Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränkt bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung, bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nBei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n10. Streitbeilegung\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/. Verbraucher haben die Möglichkeit, diese Plattform für die Beilegung ihrer Streitigkeiten zu nutzen.\nZur Beilegung von Streitigkeiten aus einem Vertragsverhältnis mit einem Verbraucher bzw. darüber, ob ein solches Vertragsverhältnis überhaupt besteht, sind wir zur Teilnahme an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle verpflichtet. Zuständig ist die Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V., Straßburger Straße 8, 77694 Kehl am Rhein, www.verbraucher-schlichter.de. An einem Streitbeilegungsverfahren vor dieser Stelle werden wir teilnehmen.\n11. Schlussbestimmungen\nSind Sie Unternehmer, dann gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\nSind Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen uns und Ihnen unser Geschäftssitz.\n\n\n"
+}

@@ -1,0 +1,503 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fluggastrechteverletzung",
+            "end": 126,
+            "start": 102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 138,
+            "start": 127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 166,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 176,
+            "start": 167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 578,
+            "start": 574,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 588,
+            "start": 587,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 614,
+            "start": 613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zuständigkeit",
+            "end": 739,
+            "start": 726,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 749,
+            "start": 748,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 775,
+            "start": 774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 787,
+            "start": 776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Luftfrachtführer",
+            "end": 861,
+            "start": 845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 872,
+            "start": 862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7322",
+            "end": 891,
+            "start": 887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 897,
+            "start": 892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 987,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 995,
+            "start": 989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 997,
+            "start": 996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1000,
+            "start": 999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hygieneartikeln",
+            "end": 1305,
+            "start": 1290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1308,
+            "start": 1307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ägypten",
+            "end": 1428,
+            "start": 1421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgeführt",
+            "end": 1489,
+            "start": 1477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 1576,
+            "start": 1574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadensersatz",
+            "end": 1717,
+            "start": 1703,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1939,
+            "start": 1938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MÜ",
+            "end": 2009,
+            "start": 2007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2012,
+            "start": 2011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Höhe",
+            "end": 2136,
+            "start": 2132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2139,
+            "start": 2138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerügt",
+            "end": 2219,
+            "start": 2213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2222,
+            "start": 2221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 2353,
+            "start": 2342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2356,
+            "start": 2355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 2451,
+            "start": 2442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2454,
+            "start": 2453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhe",
+            "end": 2610,
+            "start": 2604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 2761,
+            "start": 2752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2764,
+            "start": 2763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 2878,
+            "start": 2869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2934,
+            "start": 2931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3021,
+            "start": 3015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3025,
+            "start": 3023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3028,
+            "start": 3027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 3396,
+            "start": 3391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3400,
+            "start": 3398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3511,
+            "start": 3508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3515,
+            "start": 3513,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4038,
+            "start": 4037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4042,
+            "start": 4040,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4394,
+            "start": 4393,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4581,
+            "start": 4580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4585,
+            "start": 4583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bilden",
+            "end": 4813,
+            "start": 4807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszulegen",
+            "end": 4863,
+            "start": 4853,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5076,
+            "start": 5075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 5314,
+            "start": 5311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 5318,
+            "start": 5316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5472,
+            "start": 5469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 5476,
+            "start": 5474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 5610,
+            "start": 5601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 5672,
+            "start": 5669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5676,
+            "start": 5674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 5730,
+            "start": 5721,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5839,
+            "start": 5838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MÜ",
+            "end": 5940,
+            "start": 5938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 5944,
+            "start": 5942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MÜ",
+            "end": 6151,
+            "start": 6149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 6191,
+            "start": 6181,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6560,
+            "start": 6559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MÜ",
+            "end": 6670,
+            "start": 6668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 6674,
+            "start": 6672,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8038,
+            "start": 8037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "LuftVG",
+            "end": 8226,
+            "start": 8220,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8653,
+            "start": 8652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 8658,
+            "start": 8655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8662,
+            "start": 8660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlasst",
+            "end": 8707,
+            "start": 8697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptsache",
+            "end": 8757,
+            "start": 8747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8761,
+            "start": 8759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschließen",
+            "end": 8965,
+            "start": 8953,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BayObLG München, Beschluss v. 30.04.2019 – 1 AR 21/19\nTitel:\nÖrtliche Zuständigkeit einer Klage wegen Fluggastrechteverletzung\nNormenkette:\nMÜ Art. 33 Abs. 1, Art. 46\nLeitsätze:\n1. Gemäß Art. 46 MÜ kann die sowohl gegen den vertraglichen, als auch den ausführenden\nLuftfrachtführer gerichtete Klage auf Schadensersatz in Deutschland als Vertragsstaat des\nMontrealer Übereinkommens nach Wahl der Antragstellerin als Klägerin bei dem Gericht erhoben\nwerden, bei dem eine Klage gegen die Antragsgegnerin zu 1) als vertragliche Luftfrachtführerin nach\nArt. 33 MÜ erhoben werden kann. (Rn. 18) (redaktioneller Leitsatz)\n2. Art. 33 Abs. 1 MÜ regelt - anders als Art. 31 CMR - nicht nur die internationale, sondern auch die\nörtliche Zuständigkeit. (Rn. 18) (redaktioneller Leitsatz)\nSchlagworte:\nFluggastrechte, Schadensersatz, örtliche Zuständigkeit, Luftfrachtführer\nFundstelle:\nBeckRS 2019, 7322\nTenor\nDie Voraussetzungen einer Zuständigkeitsbestimmung gemäß § 36 Abs. 1 ZPO liegen nicht vor.\nGründe\nI.\n1\nGegenstand der von der Antragstellerin aus eigenem sowie aus abgetretenem Recht ihres Ehemanns zum\nAmtsgericht München erhobenen Klage sind Schadensersatzansprüche für ein auf einer Flugreise von\nMünchen nach Hurghada verlorenes Gepäckstück, einen Koffer mit Kleidungsstücken, Schmuck und\nHygieneartikeln.\n2\nDie Klägerin und ihr Ehemann buchten am 16. November 2017 bei der Antragsgegnerin zu 1) eine\nPauschalreise nach Ägypten. Die Flüge wurden von der Antragsgegnerin zu 2) durchgeführt. Einer der\nbeiden beim Hinflug in München aufgegebenen Koffer kam nicht in Hurghada an. Die Antragstellerin bringt\nvor, die Antragsgegnerin zu 1) hafte als Vertragspartnerin der Pauschalreise gemäß § 651n BGB auf\nSchadensersatz. Die Antragsgegnerin zu 2) hafte als Luftfrachtführerin nach dem Übereinkommen zur\nVereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr (Montrealer\nÜbereinkommen; im Folgenden: MÜ). Für verlorenes Gepäck richte sich die Haftung nach Art. 18 Abs. 1\nMÜ.\n3\nDie Antragsgegnerin zu 1) hat ihren Sitz in München, die Antragsgegnerin zu 2) im Amtsgerichtsbezirk Bad\nHomburg v. d. Höhe.\n4\nDie Antragsgegnerin zu 2) hat die Zuständigkeit des Amtsgerichts München gerügt.\n5\nDas Amtsgericht München hat mit Verfügung vom 18. Januar 2019, ohne dies näher zu begründen, auf\nseine Unzuständigkeit hingewiesen.\n6\nDie Antragstellerin meint, ein gemeinschaftlicher besonderer Gerichtsstand sei nicht begründet.\n7\nNach Ansicht der Antragsgegnerin zu 1) ist München auszuwählen, da der Schwerpunkt der\nAuseinandersetzung auf dem mit ihr geschlossenen Reisevertrag beruhe. Bei der Antragsgegnerin zu 2)\nhabe es sich ausschließlich um ihre Erfüllungsgehilfin zur Erfüllung ihrer reisevertraglichen Verpflichtungen\ngehandelt.\n8\nDie Antragsgegnerin zu 2) bringt vor, es sei das Amtsgericht Erding als Bestimmungsort gemäß Art. 33 MÜ\nzuständig. Die Vorschrift gebe ausschließliche Gerichtsstände vor. Mit dem Flugschein sei der Flughafen\nMünchen als Endpunkt des Flugs vereinbart worden.\nII.\n9\n1. Das Bayerische Oberste Landesgericht ist das nach § 36 Abs. 2 ZPO i. V. m. § 9 EGZPO für das\nBestimmungsverfahren zuständige Gericht, weil die Antragsgegnerinnen ihren jeweiligen allgemeinen\nGerichtsstand (§§ 12, 17 ZPO) in verschiedenen Oberlandesgerichtsbezirken (München und Frankfurt am\nMain) haben und das zuerst mit der Sache befasste Gericht in Bayern liegt.\n10\n2. Die Voraussetzungen für die Bestimmung des zuständigen Gerichts nach § 36 Abs. 1 Nr. 3 ZPO liegen\nnicht vor.\n11\na) Eine Bestimmungsentscheidung nach § 36 Abs. 1 Nr. 3 ZPO kommt über den Wortlaut der Norm hinaus\nzwar auch dann noch in Betracht, wenn die Antragsgegner bereits vor einem Gericht verklagt wurden und -\nwie hier - einzelne von ihnen die Unzuständigkeit dieses Gerichts geltend gemacht haben (st. Rspr.; z. B.\nBGH, Beschluss vom 27. November 2011, X ARZ 321/18, juris Rn. 10; Beschluss vom 23. Februar 2011, X\nARZ 388/10, NJW-RR 2011, 929 Rn. 6 f.; Toussaint in BeckOK, ZPO, 31. Edition Stand 1. Dezember 2018,\n§ 36 Rn. 19).\n12\nb) Die Antragsgegnerinnen, die ihren jeweiligen allgemeinen Gerichtsstand bei verschiedenen Gerichten\nhaben, sind nach dem im Bestimmungsverfahren maßgeblichen (Schultzky in Zöller, ZPO, 32. Aufl. 2018, §\n36 Rn. 28), insoweit auch schlüssigen Vortrag der Antragstellerin hinsichtlich der geltend gemachten\nAnsprüche auch Streitgenossen (§§ 59, 60 ZPO). Auf die Schlüssigkeit des behaupteten Anspruchs selbst\nkommt es nicht an (BayObLG, Beschluss vom 28. Oktober 1997, 1Z AR 74/97, NJW-RR 1998, 1291;\nSchultzky in Zöller, ZPO, § 36 Rn. 28).\n13\nStreitgenossenschaft nach § 60 ZPO setzt voraus, dass gleichartige und auf einem im Wesentlichen\ngleichartigen tatsächlichen und rechtlichen Grund beruhende Ansprüche oder Verpflichtungen den\nGegenstand des Rechtsstreits bilden. Die Vorschrift ist grundsätzlich weit auszulegen. Es genügt, dass die\nAnsprüche in einem inneren sachlichen Zusammenhang stehen, der sie ihrem Wesen nach als gleichartig\nerscheinen lässt (auch BGH, Beschluss vom 6. Juni 2018, X ARZ 303/18, MDR 2018, 951 Rn. 12). Der\ninnere Zusammenhang wird vorliegend dadurch begründet, dass die von der Antragsgegnerin zu 2)\ndurchgeführte Luftbeförderung Teil der von der Antragstellerin und ihrem Ehemann bei der Antragsgegnerin\nzu 1) gebuchten Pauschalreise war.\n14\nc) Die Gerichtsstandsbestimmung ist gleichwohl abzulehnen, da hinsichtlich beider Antragsgegnerinnen ein\nbesonderer Gerichtsstand in München eröffnet ist.\n15\nFür die Klage ist ein gemeinsamer Gerichtsstand nach Art. 46, 45, 33 Abs. 1 MÜ am Sitz der\nAntragsgegnerin zu 1) in München begründet. Dort hat die Antragstellerin bereits Klage erhoben, § 35 ZPO.\n16\nDas Montrealer Übereinkommen ist vorliegend anwendbar. Ägypten und Deutschland sind Vertragsstaaten\n(vgl. Koller, Transportrecht, 9. Aufl. 2016, Art. 1 MÜ Rn. 15). Es liegt eine „internationale Beförderung“ im\nSinne des Übereinkommens vor, Art. 1 Abs. 2 Satz 1 MÜ.\n17\nDie Antragsgegnerin zu 1) wird, selbst wenn die Antragstellerin dies nicht ausdrücklich ausführt, auch als\nvertragliche Luftfrachtführerin im Sinne des Übereinkommens in Anspruch genommen, Art. 39 Satz 1 MÜ.\nEs wurde eine Pauschalreise vereinbart. Die Antragsgegnerin zu 1) hat sich damit nach dem Vorbringen der\nAntragstellerin im eigenen Namen u.a. zur Erbringung der vertraglich vereinbarten Transportleistung\nverpflichtet (vgl. A. Staudinger in Staudinger, BGB, 2016, Vorbem zu §§ 651c-g Rn. 38; Prokant in\nEbenroth/Boujong/Joost/Strohn, HGB, 3. Aufl. 2015, MontrealÜb Art. 39 Rn. 3 f.; Degott in DAR 2011, 510).\nDie Antragsgegnerin zu 2) soll dagegen als ausführende Luftfrachtführerin haften, Art. 39 Satz 1, Art. 40\nMÜ.\n18\nGemäß Art. 46 MÜ kann die sowohl gegen den vertraglichen, als auch den ausführenden Luftfrachtführer\ngerichtete Klage auf Schadensersatz in Deutschland als Vertragsstaat des Montrealer Übereinkommens\nnach Wahl der Antragstellerin als Klägerin bei dem Gericht erhoben werden, bei dem eine Klage gegen die\nAntragsgegnerin zu 1) als vertragliche Luftfrachtführerin nach Art. 33 MÜ erhoben werden kann, also u.a. in\nMünchen, da die Antragsgegnerin zu 1) dort ihren Sitz hat. Art. 33 Abs. 1 MÜ regelt - anders als Art. 31\nCMR (vgl. hierzu BGH, Urt. v. 6. Februar 1981, I ZR 148/78, BGHZ 79, 332, VersR 1981, 633; BGH, Urt. v.\n9. Dezember 1982, I ZR 25/81, VersR 1983, 282; Ramming in VersR 2005, 607/608) - nicht nur die\ninternationale, sondern auch die örtliche Zuständigkeit (Giemulla,Frankfurter Kommentar zum\nLuftverkehrsrecht 1.2, Dezember 2004, § 56 LuftVG Rn. 2; Wenzler in TranspR 1990, 414/416 zu Art. 28\nAbs. 1 WA; Ruhwedel in Münchener Kommentar zum HGB, 3. Aufl. 2014, Art. 33 MÜ Rn. 1; Dettling-Ott in\nGiemulla/Schmid, Frankfurter Kommentar zum Luftverkehrsrecht 3, Montrealer Übereinkommen, August\n2016 Rn. 24; so wohl auch Degott a. a. O.; offenlassend: Magnus in Staudinger, 2016, Art. 5 Rom-I-VO,\nZiffer 5. Internationaler Lufttransport Rn. 174; a. A. Prokant in Ebenroth/Boujong/Joost/Strohn, HGB,\nMontrealÜb Art. 33 Rn. 6 m. w. N.; Ramming a. a. O.). Da auf die vorliegende Luftbeförderung das\nMontrealer Übereinkommen Anwendung findet, ergibt sich aus dem Luftverkehrsgesetz keine andere\nBewertung, § 56 Abs. 3 Satz 1, § 44 Nr. 4 LuftVG. Auch der Gesetzgeber ist anlässlich der Änderung des §\n56 LuftVG durch das Gesetz zur Harmonisierung des Haftungsrechts im Luftverkehr vom 6. April 2004\n(BGBl. I, S. 550) davon ausgegangen, dass Art. 33 Abs. 1 MÜ und seine Vorgängerregelung Art. 28 WA\nsowohl die internationale als auch die örtliche Zuständigkeit bestimmen (vgl. BT-Drs. 15/2359 S. 35; vgl.\nGiemulla,Frankfurter Kommentar zum Luftverkehrsrecht 1.2, a. a. O.).\nIII.\n19\nEine Kostenentscheidung ist nicht veranlasst. Das Bestimmungsverfahren ist Teil der Hauptsache.\n20\nSollte das angerufene Gericht weiterhin Zweifel an seiner Zuständigkeit haben, wird sich der Senat auf\nerneuten Antrag einer - wenn auch nur deklaratorischen - Gerichtsstandsbestimmung nicht verschließen.\n\n"
+}

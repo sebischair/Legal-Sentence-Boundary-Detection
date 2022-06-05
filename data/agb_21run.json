@@ -1,0 +1,353 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltung",
+            "end": 10,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "com",
+            "end": 185,
+            "start": 182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestimmt",
+            "end": 307,
+            "start": 297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistung",
+            "end": 320,
+            "start": 312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 451,
+            "start": 442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 511,
+            "start": 497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragssprachen",
+            "end": 532,
+            "start": 516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Französisch",
+            "end": 598,
+            "start": 587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 637,
+            "start": 623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 770,
+            "start": 768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 912,
+            "start": 904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 1035,
+            "start": 1026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigieren",
+            "end": 1093,
+            "start": 1082,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1233,
+            "start": 1232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "die",
+            "end": 1262,
+            "start": 1259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 1273,
+            "start": 1264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1371,
+            "start": 1363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 1390,
+            "start": 1376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 1635,
+            "start": 1621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 1701,
+            "start": 1683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstbelieferungsvorbehalt",
+            "end": 1733,
+            "start": 1706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 1956,
+            "start": 1946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 2132,
+            "start": 2123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beförderung",
+            "end": 2160,
+            "start": 2149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferadresse",
+            "end": 2224,
+            "start": 2211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sendung",
+            "end": 2297,
+            "start": 2290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kosten",
+            "end": 2579,
+            "start": 2573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfällt",
+            "end": 2702,
+            "start": 2695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 2800,
+            "start": 2795,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3039,
+            "start": 3038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3067,
+            "start": 3054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 3129,
+            "start": 3123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 3222,
+            "start": 3208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3301,
+            "start": 3288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandbedingungen",
+            "end": 3401,
+            "start": 3383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherung",
+            "end": 3495,
+            "start": 3483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 3507,
+            "start": 3500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auswahl",
+            "end": 3605,
+            "start": 3598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3815,
+            "start": 3812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungseingang",
+            "end": 3871,
+            "start": 3856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überweisen",
+            "end": 3995,
+            "start": 3985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 4105,
+            "start": 4099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmöglichkeiten",
+            "end": 4183,
+            "start": 4162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4207,
+            "start": 4189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 4286,
+            "start": 4278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 4306,
+            "start": 4292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 4373,
+            "start": 4367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 4390,
+            "start": 4379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 4477,
+            "start": 4466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 4639,
+            "start": 4628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 4662,
+            "start": 4657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegensteht",
+            "end": 4824,
+            "start": 4811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VSBG",
+            "end": 4907,
+            "start": 4903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5069,
+            "start": 5063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 5187,
+            "start": 5175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teil",
+            "end": 5239,
+            "start": 5235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstiges",
+            "end": 5254,
+            "start": 5245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 5390,
+            "start": 5383,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltung\nDiese allgemeinen Geschäftsbedingungen gelten für sämtliche Lieferungen der 21run GmbH (nachfolgend 21RUN) auf Grund von Bestellungen in deren Online-Shop unter www.21run.com. Abweichende Bedingungen des Kunden erkennt 21RUN nicht an, es sei denn 21RUN hätte deren Geltung ausdrücklich zugestimmt.\n2. Leistung\nÜber den Online-Shop können Sie Bekleidungs- sowie Sportartikel für den privaten Bedarf in handelsüblichen Mengen online bestellen. Eine Bestellung zu gewerblichen Zwecken ist ausgeschlossen.\n3. Vertragssprachen\nVertragssprachen sind Deutsch, Englisch, Spanisch und Französisch.\n4. Vertragsabschluss / Bestellvorgang\nIndem wir die Produkte in unseren Onlineshop einstellen, geben wir ein verbindliches Angebot zum Vertragsschluss über diese Waren ab. Der Vertrag kommt zustande, indem Sie das Angebot durch Anklicken des Buttons \"Jetzt kaufen\" im letzten Schritt des Bestellvorgangs annehmen. Hierzu wird Ihnen vor Abschluss des Bestellvorgangs eine Bestellübersicht mit den Einzelheiten Ihrer Bestellung angezeigt. Hier können Sie Ihre Eingaben überprüfen und korrigieren. Unmittelbar nach Absenden Ihrer Bestellung erhalten Sie per E-Mail eine Bestätigung über den Eingang Ihrer Bestellung (Bestellbestätigung).\nIhr Vertragspartner ist die: Anschrift\nIhre Bestelldaten können Sie nach Abgabe Ihrer Bestellung jederzeit über Ihr Kundenkonto einsehen.\n5. Widerrufsrecht\nVerbraucher (jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können, §13 BGB) haben ein gesetzliches Widerrufsrecht. Nähere Informationen hierzu finden Sie in der Widerrufsbelehrung.\n6. Selbstbelieferungsvorbehalt\nSollte ein bestellter Artikel nicht lieferbar sein, weil wir von unserem Lieferanten ohne unser Verschulden trotz dessen vertraglicher Verpflichtung nicht beliefert werden, sind wir zum Rücktritt von dem Vertrag berechtigt. In diesem Fall werden wir Sie unverzüglich darüber informieren, dass die bestellte Ware nicht mehr verfügbar ist und etwaige schon erbrachte Leistungen unverzüglich erstatten.\n7. Lieferung / Beförderung\nDie Lieferung erfolgt an die von Ihnen angegebene Lieferadresse.\nSie erhalten Ihre Bestellung nach Möglichkeit in einer einzigen Sendung. Sollte aus technischen oder logistischen Gründen, beispielsweise weil Ihre Bestellung Artikel enthält, die getrennt verpackt oder unterschiedlich befördert werden müssen, eine separate Versendung erforderlich sein, entstehen Ihnen hierdurch grundsätzlich keine zusätzlichen Kosten. Beachten Sie jedoch, dass bei der Bezahlung per Nachnahme die Zustellgebühr von 2€ für jede Teillieferung einzeln anfällt.\nBei Zahlung per Vorauskasse gelten die angegebenen Lieferzeiten ab Geldeingang auf unserem Konto.\nFalls der von Ihnen bestellte Artikel aus unserem aktuellen Lagerbestand nicht vorrätig sein sollte, garantieren wir, den Artikel innerhalb von sieben Werktagen zu liefern (vorbehaltlich der Lieferfähigkeit der Lieferanten, s. Ziffer 6.)\n8. Preise und Versandkosten\nEs gelten die zum Zeitpunkt der Bestellung angegebenen Preise. Diese Preise sind Preise in Euro inklusive der jeweils gültigen gesetzlichen Mehrwertsteuer.\nAlle angegebenen Preise verstehen sich gegebenenfalls zuzüglich Versandkosten. Ob und ggf. welche Versandkosten bei Ihrer Bestellung anfallen finden Sie unter Versandbedingungen.\nFür jede Lieferung berechnen wir eine Pauschale von 1,99 EUR für Verpackung und Versicherung.\n9. Zahlung\nFür die Zahlung stehen Ihnen die in unserem Angebot angegebenen Zahlungsmöglichkeiten zur Auswahl. Bei Auswahl der Zahlungsart Vorauskasse schicken wir Ihnen sofort nach Ihrer Bestellung neben einer Bestellbestätigung eine weitere E-Mail mit Zahlungsinformationen, in der unsere Bankverbindung angegeben ist. Wir versenden Ihre Ware dann erst nach Zahlungseingang. Der Rechnungsbetrag ist innerhalb von 10 Tage nach Erhalt der E-Mail \"Zahlungsinformationen\" auf unser Konto zu überweisen. Bei Überweisung aus dem Ausland haben Sie gegebenenfalls die dabei anfallenden Gebühren Ihrer Bank zu tragen. Weitere Informationen zu diesem Thema finden Sie unter Zahlungsmöglichkeiten.\n10. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung des Kaufpreises unser Eigentum.\n11. Gewährleistung\nBei Mängeln der gelieferten Waren bestehen die gesetzlichen Rechte.\n12. Datenschutz\nIhre Bestellung und die von Ihnen eingegebenen Bestelldaten werden von uns gespeichert. Sämtliche von uns erfassten Daten werden ausschließlich im Rahmen der geltenden Datenschutzgesetze gemäß unseren Datenschutzbestimmungen genutzt und verarbeitet.\n13. Anwendbares Recht\nEs gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts, soweit nicht zwingendes internationales Verbraucherschutzrecht entgegensteht.\n14. Alternative Streitbeilegung gemäß Art. 14 Abs. 1 ODR-Verordnung und § 36 VSBG\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) zur Verfügung, die Sie unter http://ec.europa.eu/consumers/odr/ erreichen können. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet. Wir nehmen an Streitbeilegungsverfahren nicht teil.\n15. Sonstiges\nSollten einzelne dieser Bestimmungen unwirksam sein oder werden, so wird dadurch die Wirksamkeit der übrigen Bestimmungen nicht berührt.\n\n\n\n\n"
+}

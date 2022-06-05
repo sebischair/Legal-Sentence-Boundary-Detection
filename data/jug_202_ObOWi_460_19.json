@@ -1,0 +1,437 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 59,
+            "start": 57,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 65,
+            "start": 60,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrverbot",
+            "end": 77,
+            "start": 67,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 90,
+            "start": 78,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2a",
+            "end": 109,
+            "start": 107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 149,
+            "start": 148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 171,
+            "start": 170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "353",
+            "end": 209,
+            "start": 206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 221,
+            "start": 210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einspruch",
+            "end": 324,
+            "start": 315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 335,
+            "start": 325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 392,
+            "start": 390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 403,
+            "start": 393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7481",
+            "end": 422,
+            "start": 418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 428,
+            "start": 423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 637,
+            "start": 627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verworfen",
+            "end": 724,
+            "start": 715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückverwiesen",
+            "end": 884,
+            "start": 869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 892,
+            "start": 886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 894,
+            "start": 893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhängt",
+            "end": 1258,
+            "start": 1250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1261,
+            "start": 1260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechts",
+            "end": 1364,
+            "start": 1358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1367,
+            "start": 1366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwerfen",
+            "end": 1508,
+            "start": 1499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 1599,
+            "start": 1590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 1603,
+            "start": 1601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1606,
+            "start": 1605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1855,
+            "start": 1852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 1911,
+            "start": 1900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1914,
+            "start": 1913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2179,
+            "start": 2176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkehrsordungswidrigkeit",
+            "end": 2304,
+            "start": 2279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beurteilung",
+            "end": 2410,
+            "start": 2399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2413,
+            "start": 2412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 2805,
+            "start": 2799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Darstellung",
+            "end": 2941,
+            "start": 2930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2944,
+            "start": 2943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 3075,
+            "start": 3068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 3306,
+            "start": 3303,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3493,
+            "start": 3492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3496,
+            "start": 3495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansieht",
+            "end": 3785,
+            "start": 3778,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3993,
+            "start": 3992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3996,
+            "start": 3995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 4078,
+            "start": 4072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4367,
+            "start": 4364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4371,
+            "start": 4369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4432,
+            "start": 4427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4436,
+            "start": 4434,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4793,
+            "start": 4792,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4999,
+            "start": 4998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 5135,
+            "start": 5125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5139,
+            "start": 5137,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5358,
+            "start": 5357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 5446,
+            "start": 5441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiedergegeben",
+            "end": 5634,
+            "start": 5621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5638,
+            "start": 5636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5935,
+            "start": 5932,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6106,
+            "start": 6105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 6111,
+            "start": 6108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6115,
+            "start": 6113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuheben",
+            "end": 6287,
+            "start": 6277,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6486,
+            "start": 6485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kostenausspruch",
+            "end": 6527,
+            "start": 6512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 6531,
+            "start": 6529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6535,
+            "start": 6533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuverweisen",
+            "end": 6661,
+            "start": 6644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6665,
+            "start": 6663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "OWiG",
+            "end": 6733,
+            "start": 6729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 6737,
+            "start": 6735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelrichter",
+            "end": 6791,
+            "start": 6778,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BayObLG München, Beschluss v. 23.04.2019 – 202 ObOWi 460/19\nTitel:\nFahrverbot\nNormenketten:\nStVG § 25 Abs. 2a\nOWiG § 71 Abs.1, § 79 Abs. 1 S. 1 Nr. 2\nBKatV § 4 Abs. 2 S. 2\nStPO § 261,§ 267,§ 349 Abs. 2 , § 353\nSchlagworte:\nEinlassung, Fahrverbot, Anforderung, Rechtsfolgenausspruch, Regelfahrverbot, Stellungnahme, Einspruch\nVorinstanz:\nAG Bad Kissingen, Urteil vom 14.12.2018 – 5 Js 11106/18\nFundstelle:\nBeckRS 2019, 7481\nTenor\nI. Auf die Rechtsbeschwerde der Betroffenen wird das Urteil des Amtsgerichts Bad Kissingen vom\n14.12.2018 im Rechtsfolgenausspruch mit den zugehörigen Feststellungen sowie in der\nKostenentscheidung aufgehoben.\nII. Die weitergehende Rechtsbeschwerde der Betroffenen wird als unbegründet verworfen.\nIII. Im Umfang der Aufhebung wird die Sache zu neuer Entscheidung, auch über die Kosten der\nRechtsbeschwerde, an das Amtsgericht Bad Kissingen zurückverwiesen.\nGründe\n1\nDas Amtsgericht hat die Betroffene wegen einer fahrlässig begangenen Verkehrsordnungswidrig- keit der\nÜberschreitung der zulässigen Höchstgeschwindigkeit um 30 km/h außerhalb geschlossener Ortschaften zu\neiner Geldbuße von 80,00 Euro verurteilt und gegen sie ein mit einer Anordnung nach § 25 Abs. 2a StVG\nversehenes Fahrverbot für die Dauer eines Monats verhängt.\n2\nMit ihrer hiergegen gerichteten Rechtsbeschwerde rügt die Betroffene die Verletzung materiellen Rechts.\n3\nDie Generalstaatsanwaltschaft Bamberg hat in ihrer Stellungnahme vom 20.03,2019 beantragt, die\nRechtsbeschwerde als unbegründet zu verwerfen. Die Verteidigung hat mit Schriftsatz vom 19.04.2019 die\nRechtsbeschwerde weiter begründet.\nII.\n4\nDie statthafte (§ 79 Abs. 1 Satz 1 Nr. 2 OWiG) und auch im Übrigen zulässige Rechtsbeschwerde erweist\nsich auf die Sachrüge als - zumindest vorläufig - insoweit erfolgreich, als der Rechtsfolgenausspruch des\nangefochtenen Urteils keinen Bestand hat. Im Übrigen ist die Rechtsbeschwerde jedoch unbegründet.\n5\n1. Die Überprüfung des Schuldspruchs aufgrund der allgemeinen Sachrüge deckt keinen Rechtsfehler zum\nNachteil der Betroffenen auf (§ 349 Abs. 2 StPO i.V.m. § 79 Abs. 3 Satz 1 OWiG), so dass dieser mit den\nihm zugrundeliegenden Feststellungen aufrechtzuerhalten ist. Die Urteilsfeststellungen tragen die\nVerurteilung der Betroffenen wegen der im Tenor bezeichneten Verkehrsordungswidrigkeit. Das Vorbringen\nim Schriftsatz der Verteidigung vom 19.04.2019 rechtfertigt keine abweichende Beurteilung.\n6\n2. Indes hält die Rechtsfolgenentscheidung des Amtsgerichts rechtlicher Überprüfung nicht stand, weil sich\ndie Feststellungen zur Einlassung der Betroffenen und zu den Tatsachen, aufgrund derer das Amtsgericht\neine das Absehen von dem Regelfahrverbot nach § 4 Abs. 2 Satz 2 BKatV rechtfertigende besondere Härte\nverneint hat, als lückenhaft erweisen und das verhängte Fahrverbot nicht tragen. Die Urteilsgründe\nenthalten insoweit keine den Mindestanforderungen der §§ 261, 267 StPO i.V.m. § 71 Abs, 1 OWiG\ngenügende Darstellung.\n7\na) Zwar sind im Bußgeldverfahren an die Abfassung der schriftlichen Urteilsgründe keine übertrieben hohen\nAnforderungen zu stellen. Dennoch kann für deren Inhalt grundsätzlich nichts anderes als im Strafverfahren\ngelten, denn auch im Bußgeldverfahren sind die Urteilsgründe die alleinige Grundlage für die rechtliche\nÜberprüfung des Urteils auf die Sachrüge hin. Sie müssen daher so beschaffen sein, dass dem\nRechtsbeschwerdegericht die Nachprüfung einer richtigen Rechtsanwendung ermöglicht wird (vgl. Göhler\nOWiG 17. Aufl. § 71 Rn. 42, 43 m.w.N.).\n8\nHinsichtlich der Beweiswürdigung müssen die Urteilsgründe daher regelmäßig erkennen lassen, auf welche\nTatsachen das Gericht seine Überzeugung gestützt hat, ob und wie sich der Betroffene eingelassen hat, ob\ndas Gericht dieser Einlassung folgt und inwieweit es diese für widerlegt ansieht. Nur so ist gewährleistet,\ndass das Rechtsbeschwerdegericht die tatrichterliche Beweiswürdigung auf Rechtsfehler überprüfen kann\n(KK/Senge OWiG 5 Aufl. § 71 Rn. 107; Göhler a.a.O. Rn. 43, 43a jeweils m.w.N.).\n9\nDies muss in gleicher Weise auch hinsichtlich der Rechtsfolgenentscheidung gelten. Auch insoweit müssen\ndie Urteilsgründe erkennen lassen, auf welche Tatsachen das Gericht seine Entscheidung hinsichtlich der\nBemessung der Geldbuße und der Anordnung von Nebenfolgen gestützt, wie sich der Betroffene insoweit\neingelassen und wie das Gericht diese Einlassung gewürdigt hat.\n10\nb) Diesen Anforderungen genügt das angefochtene Urteil nicht.\n11\nZu der Frage des Vorliegens einer das Absehen von einem Regelfahrverbot nach § 4 Abs. 2 Satz 2 BKatV\nrechtfertigenden besonderen Härte führt das Amtsgericht lediglich aus, dass es „auch unter\nBerücksichtigung der von der Betroffenen vorgetragenen Umstände hinsichtlich Folgen eines Fahrverbotes“\nkeinen Raum gesehen hat, hiervon abzuweichen (UA S. 4 unten). Die von der Betroffenen „geschilderten\nUmstände“ seien nicht so gravierend, dass diese nicht als Folge der Sanktionierung für einen\nüberschaubaren Zeitraum von einem Monat hinzunehmen wären (UA S. 5 oben). Mit welchem konkreten\nSachvortrag sich die Betroffene gegen die Verhängung des Fahrverbotes gewandt hatte, wird indes nicht\nmitgeteilt.\n12\nDas Urteil nimmt damit zwar auf eine Einlassung der Betroffenen zur Frage eines Härtefalles Bezug und teilt\nauch mit, dass sich die Betroffene „mit ihrem Einspruch gegen das verhängte Fahrverbot“ wendet (UA S. 3\nunten). Den Urteilsgründen ist indes nicht zu entnehmen, welchen Inhalt diese Einlassung hatte. Die\nkonkreten Erklärungen der Betroffenen zu den Auswirkungen des im Bußgeldbescheid verhängten\nFahrverbotes werden an keiner Stelle des tatrichterlichen Urteils inhaltlich wiedergegeben.\n13\nDer Senat kann daher mit den im Rechtsbeschwerdeverfahren auf die Sachrüge hin zulässigen\nErkenntnisquellen nicht feststellen, inwieweit die Entscheidung des Amtsgerichts, von der Verhängung des\nin § 4 Abs. 2 Satz 2 BKatV vorgesehenen Regelfahrverbotes nicht abzusehen, frei von Rechtsfehlern ist.\nDie Nichteinhaltung der Mindestanforderungen an eine nachvollziehbare Urteilsdarstellung veranlasst die\nAufhebung des angefochtenen Urteils (vgl. OLG Hamm zfs 2008, 348).\nIII.\n14\nAufgrund des aufgezeigten Darstellungsmangels kann der Rechtsfolgenausspruch des angefochtenen\nUrteils keinen Bestand haben und war deshalb auf die Sachrüge hin aufzuheben. Wegen der\nWechselwirkung zwischen Fahrverbot und Geldbuße erfasst die Aufhebung den gesamten\nRechtsfolgenausspruch mit den ihm zugrundeliegenden Feststellungen (§ 79 Abs. 3 Satz 1 OWiG, § 353\nStPO). Mit aufgehoben wird der Kostenausspruch.\nIV.\n15\nGemäß § 79 Abs. 6 OWiG ist die Sache zu neuer Verhandlung und Entscheidung an das Amtsgericht Bad\nKissingen zurückzuverweisen.\n16\nDer Senat entscheidet durch Beschluss gemäß § 79 Abs. 5 Satz 1 OWiG.\n17\nGemäß § 80a Abs. 1 OWiG entscheidet der Einzelrichter.\n\n"
+}

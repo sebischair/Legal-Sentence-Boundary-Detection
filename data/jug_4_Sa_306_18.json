@@ -1,0 +1,857 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigungsschutzprozess",
+            "end": 111,
+            "start": 88,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 123,
+            "start": 112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "779",
+            "end": 141,
+            "start": 138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 150,
+            "start": 142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleich",
+            "end": 522,
+            "start": 513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 610,
+            "start": 606,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 627,
+            "start": 626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 639,
+            "start": 628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwischenverdienst",
+            "end": 786,
+            "start": 769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 797,
+            "start": 787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 854,
+            "start": 852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 865,
+            "start": 855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6379",
+            "end": 884,
+            "start": 880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 890,
+            "start": 885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 1018,
+            "start": 1008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 1830,
+            "start": 1822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1890,
+            "start": 1884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1923,
+            "start": 1913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1935,
+            "start": 1925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1937,
+            "start": 1936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 1995,
+            "start": 1987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1998,
+            "start": 1997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 2189,
+            "start": 2187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2192,
+            "start": 2191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fristlos",
+            "end": 2290,
+            "start": 2282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2293,
+            "start": 2292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "endete",
+            "end": 2606,
+            "start": 2600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2609,
+            "start": 2608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 2669,
+            "start": 2660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 2930,
+            "start": 2927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2934,
+            "start": 2933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abgeltungsklausel",
+            "end": 3018,
+            "start": 3001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3021,
+            "start": 3020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überstiegen",
+            "end": 3138,
+            "start": 3127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3141,
+            "start": 3140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 3301,
+            "start": 3293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3304,
+            "start": 3303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 3587,
+            "start": 3579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3591,
+            "start": 3589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 3806,
+            "start": 3800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3810,
+            "start": 3808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3943,
+            "start": 3937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedurft",
+            "end": 4152,
+            "start": 4145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 4260,
+            "start": 4254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4264,
+            "start": 4262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 4426,
+            "start": 4418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4430,
+            "start": 4428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 4512,
+            "start": 4502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4516,
+            "start": 4514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4817,
+            "start": 4814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 4895,
+            "start": 4892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4899,
+            "start": 4897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5055,
+            "start": 5052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5129,
+            "start": 5125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5133,
+            "start": 5131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 5426,
+            "start": 5417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 5595,
+            "start": 5586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zählte",
+            "end": 5794,
+            "start": 5788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 6034,
+            "start": 6025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6168,
+            "start": 6163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 6398,
+            "start": 6389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründe",
+            "end": 6669,
+            "start": 6661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausscheide",
+            "end": 6948,
+            "start": 6938,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7183,
+            "start": 7182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7187,
+            "start": 7185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 7310,
+            "start": 7302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 7422,
+            "start": 7416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7571,
+            "start": 7568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7575,
+            "start": 7573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 7903,
+            "start": 7894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7907,
+            "start": 7905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgelegt",
+            "end": 8027,
+            "start": 8018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 8322,
+            "start": 8314,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8725,
+            "start": 8724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergebe",
+            "end": 9081,
+            "start": 9075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "akzeptiert",
+            "end": 9166,
+            "start": 9156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 9170,
+            "start": 9168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 10195,
+            "start": 10182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 10199,
+            "start": 10197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 10281,
+            "start": 10267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 10285,
+            "start": 10283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 10289,
+            "start": 10287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 10337,
+            "start": 10324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10341,
+            "start": 10339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 10634,
+            "start": 10629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedurft",
+            "end": 10713,
+            "start": 10706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 10894,
+            "start": 10885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehe",
+            "end": 11005,
+            "start": 11000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 11135,
+            "start": 11129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 11139,
+            "start": 11137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 11258,
+            "start": 11249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 11279,
+            "start": 11260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 11281,
+            "start": 11280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11285,
+            "start": 11283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 11311,
+            "start": 11303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 11315,
+            "start": 11313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 11490,
+            "start": 11487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 11494,
+            "start": 11492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 11498,
+            "start": 11496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 11534,
+            "start": 11525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 11538,
+            "start": 11536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 11761,
+            "start": 11758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 11765,
+            "start": 11763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 12140,
+            "start": 12134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 12144,
+            "start": 12142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beläuft",
+            "end": 12650,
+            "start": 12643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 12654,
+            "start": 12652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 12885,
+            "start": 12877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 13087,
+            "start": 13081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 13091,
+            "start": 13089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbetrag",
+            "end": 13386,
+            "start": 13372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 13531,
+            "start": 13525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 13535,
+            "start": 13533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbezieht",
+            "end": 13916,
+            "start": 13906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "musste",
+            "end": 14191,
+            "start": 14185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 14551,
+            "start": 14545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 14555,
+            "start": 14553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 14923,
+            "start": 14913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 14927,
+            "start": 14925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 15203,
+            "start": 15194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleich",
+            "end": 15296,
+            "start": 15287,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15569,
+            "start": 15568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 15573,
+            "start": 15571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16029,
+            "start": 16023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagesarbeitszeit",
+            "end": 16135,
+            "start": 16119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 16139,
+            "start": 16137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 16414,
+            "start": 16410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 16418,
+            "start": 16416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 16646,
+            "start": 16638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 16807,
+            "start": 16801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 16811,
+            "start": 16809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebracht",
+            "end": 16895,
+            "start": 16887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 16899,
+            "start": 16897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 17012,
+            "start": 17005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausführungen",
+            "end": 17064,
+            "start": 17052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 17069,
+            "start": 17066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 17073,
+            "start": 17071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 17161,
+            "start": 17158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 17165,
+            "start": 17163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beigemessen",
+            "end": 17455,
+            "start": 17444,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 09.01.2019 – 4 Sa 306/18\nTitel:\nAuslegung eines Vergleichs im Kündigungsschutzprozess\nNormenkette:\nBGB § 615, § 779\nLeitsatz:\nRegeln die Parteien im Vergleich eines Bestandsstreits, dass das Arbeitsverhältnis über den\nZeitpunkt der fristlosen Kündigung während eines beschränkten Zeitraums fortbestanden hat und\nwährend dieses Zeitraums nur noch die Hälfte der bisherigen Vergütung abzurechnen ist, bedarf es\nfür die Anrechnung eines Zwischenverdienstes einer ausdrücklichen Regelung im Vergleich; zumal\ndann, wenn die Abrechnung auch restliche Urlaubstage und Feiertage erfassen soll. (Rn. 37 und 38)\nSchlagworte:\nAnrechnung, Verdienst, Vergleich, Annahmeverzug, Arbeitsverhältnis, Kündigung, Abrechnung,\nZahlungsanspruch, Abgeltungsklausel, Zwischenverdienst\nVorinstanz:\nArbG Nürnberg, Endurteil vom 13.07.2018 – 10 Ca 5977/17\nFundstelle:\nBeckRS 2019, 6379\nTenor\n1. Auf die Berufung der Klägerin wird das Endurteil des Arbeitsgerichts Nürnberg vom 13.07.2018, Az.: 10\nCa 5977/17, abgeändert.\n2. Die Beklagte wird verurteilt, an die Klägerin\n- für Oktober 2015 1.343,75 € brutto abzüglich auf die Bundesagentur übergegangener 1.021,80 € netto\nnebst 5 Prozentpunkte Zinsen über dem Basiszinssatz aus 321,95 € brutto seit 01.11.2015,\n- für November 2015 1.343,75 € brutto abzüglich auf die Bundesagentur übergegangener 272,48 € netto\nnebst 5 Prozentpunkte Zinsen über dem Basiszinssatz aus 1.071,27 € brutto seit 01.12.2015,\n- für Dezember 2015 1.343,75 € brutto nebst 5 Prozentpunkte Zinsen über dem Basiszinssatz hieraus seit\n01.01.2016,\n- für Januar 2016 1.343,75 € brutto nebst 5 Prozentpunkte Zinsen über dem Basiszinssatz hieraus seit\n01.02.2016 zu bezahlen sowie\n- der Klägerin für die Monate Oktober 2015 bis einschließlich Januar 2016 Lohnabrechnungen über\nmonatlich 1.343,75 € brutto zu erteilen.\n3. Die Kosten des Rechtsstreits hat die Beklagte zu tragen.\n4. Die Revision wird zugelassen.\nTatbestand\n1\nDie Parteien streiten über Zahlungsansprüche der Klägerin.\n2\nDie am ...1977 geborene Klägerin war bei der Beklagten seit dem 01.01.1996 als Rechtsfachwirtin\nbeschäftigt, zuletzt als Kanzleivorsteherin zu einem monatlichen Bruttogehalt von EUR 2.687,50.\n3\nMit Schreiben vom 07.09.2015 kündigte die Beklagte das Arbeitsverhältnis außerordentlich fristlos.\n4\nDer hiergegen vor dem Arbeitsgericht Nürnberg (Az. 4 Ca 5174/15) geführte Kündigungsrechtsstreit endete\nin der mündlichen Verhandlung vom 15.03.2016 mit einem Vergleich (Bl. 8, 9 d.A.), wonach das\nArbeitsverhältnis der Parteien aufgrund ordentlicher arbeitgeberseitiger Kündigung mit Ablauf des\n31.01.2016 endete.\n5\nIn Ziffer 2 des Vergleiches war folgende Regelung enthalten:\n„Die Beklagte rechnet das Arbeitsverhältnis bis zu dessen Beendigung auf Basis eines Bruttomonatsgehalts\nin Höhe von EUR 1.343,75 ordnungsgemäß ab und zahlt den entsprechenden Nettobetrag, vorbehaltlich\nauf Dritte übergegangener Ansprüche, an die Klägerin aus.“\n6\nDie Ziffer 7 des Vergleiches enthielt eine umfassende finanzielle Abgeltungsklausel.\n7\nDie Klägerin erzielte ab November 2015 anderweitige Einkünfte, die den Betrag von EUR 1.343,75 pro\nMonat überstiegen.\n8\nDie Beklagte erstellte wegen dieses anderweitigen Verdienstes keine Abrechnung gemäß Ziffer 2 des\nVergleiches und leistete auch keine Zahlungen an die Klägerin.\n9\nEin von der die Klägerin eingeleitetes Zwangsvollstreckungsverfahren blieb ohne Erfolg, denn nach dem\nBeschluss des Landesarbeitsgerichts Nürnberg vom 11.09.2017, Az. 7 Ta 28/17, war der Abrechnungstitel\nin Bezug auf eine Anrechnung gemäß § 615 Satz 2 BGB nicht ausreichend bestimmt.\n10\nMit ihrer Klage vom 25.10.2017, beim Arbeitsgericht Nürnberg eingegangen am 30.10.2017 und der\nBeklagten zugestellt am 07.11.2017, verfolgt die Klägerin die Ansprüche aus Ziffer 2 des Vergleiches\ngerichtlich weiter.\n11\nDie Klägerin meint, es sei ein eigener Zahlungsanspruch begründet und eine Anrechnung gemäß § 615\nSatz 2 BGB nicht vorgesehen worden. Da sie im Vergleich auf 50% ihres Lohnanspruches für den\nfraglichen Zeitraum verzichtet habe, hätte es für eine weitere Anrechnung eines Zwischenverdienstes einer\nausdrücklichen Regelung im Vergleich bedurft. Aus der Abgeltungsklausel im Vergleich folge, dass die\nParteien eine abschließende Regelung gewollt hätten.\n12\nWegen der Anträge der Parteien und ihres näheren Vorbringens im erstinstanzlichen Verfahren wird auf den\nTatbestand der angefochtenen Entscheidung Bezug genommen.\n13\nDas Arbeitsgericht Nürnberg hat mit Endurteil vom 13.07.2018 die Klage abgewiesen.\n14\nEs hat dies im Wesentlichen damit begründet, es bestünden keine Zahlungsansprüche der Klägerin mehr,\nda sich die Beklagte nach Ausspruch der Kündigung in Annahmeverzug befunden habe und eine\nAnrechnung anderweitigen Verdienstes im streitgegenständlichen Zeitraum nach § 615 Satz 2 BGB\nvorzunehmen sei. Dies ergebe die Auslegung des Vergleichs vom 15.03.2016 gem. §§ 133, 157 BGB.\n15\nNach § 615 Satz 2 BGB müsse sich der Arbeitnehmer im Verzugszeitraum das anrechnen lassen, was er\ndurch anderweitige Verwendung seiner Dienste erworben hat. Die Regelung sei abdingbar, dies müsse\naber zweifelsfrei vereinbart sein.\n16\nUnter Ziffer 2 des Vergleichs sei die Abrechnung des Arbeitsverhältnisses auf Basis eines\nBruttomonatsgehalts von 1.343,75 EUR vorgesehen und die Auszahlung des sich hieraus ergebenden\nNettobetrages geregelt worden, damit habe man keine „direkte“ Zahlungsverpflichtung der Beklagten\nbegründet. Mit „Abrechnung“ des Arbeitsverhältnisses meine man die Aufstellung der sich aus dem\nArbeitsverhältnis ergebenden gesetzlichen, tariflichen und vertraglichen Ansprüche. Eine Abrechnung\nbetreffe daher die tatsächlich bestehenden Ansprüche auf Basis der anzuwendenden Rechtsnormen, zu\ndenen auch die Anrechnung des anderweitigen Verdiensts nach § 615 Satz 2 BGB zählte. Dass die\nParteien im Vergleich einen konkreten Abrechnungsbetrag vereinbart hätten, der nur die Hälfte des\ndurchschnittlichen Bruttomonatsgehalts der Klägerin entspreche, sei insoweit für die Frage des § 615 Satz 2\nBGB nicht von Bedeutung. Mit dieser Festlegung sei keine Aussage darüber verbunden, ob eine\nAnrechnung anderweitigen Verdienstes stattfinden solle oder nicht. Hieraus könne nicht ohne weiteres auf\nden Willen der Vergleichsparteien geschlossen werden, die Beklagte müsse diesen Betrag vollkommen\nunabhängig von weiteren gesetzlichen Voraussetzungen wie eben dem § 615 Satz 2 BGB erbringen. Wäre\ndies beabsichtigt gewesen, hätte man eine direkte Zahlungsverpflichtung vereinbart und nicht lediglich eine\n„Abrechnung“, die auf bereits bestehende Ansprüche Bezug nehme (hier: Annahmeverzugslohn), jedoch\nkeinen eigenen von § 615 BGB losgelösten Anspruch begründe. Auch aus dem letzten Halbsatz von Ziffer 2\ndes Vergleiches, in dem es heißt, dass die Auszahlung an die Klägerseite nicht erfolgt, soweit Ansprüche\nauf Dritte übergegangen sind, könne nicht der Umkehrschluss gezogen werden, dass eine Anrechnung von\nZwischenverdienst ausscheide. Das Problem der Anrechnung von Zwischenverdienst stelle sich nämlich\nschon bei der Frage der Abrechnung und nicht erst bei der Auszahlung, weshalb es konsequent sei, es dort\nnicht zu erwähnen (LAG Düsseldorf 01.07.2015 - 1 Sa 194/15).\n17\nAuch die in Ziffer 6 des Vergleiches enthaltene Abgeltungsklausel stehe dem vorstehenden\nAuslegungsergebnis nicht entgegen. Zwar sei der Klägerin zuzugestehen, dass mit dem Vergleich eine\nabschließende Regelung getroffen werden sollte. Dies ist jedoch auch geschehen, da die Frage der\nAnrechnung anderweitigen Verdienstes nach § 615 Satz 2 BGB in Ziffer 2 des Vergleichs angelegt sei.\n18\nGegen das den Prozessbevollmächtigten der Klägerin am 25.07.2018 zugestellte Endurteil haben diese mit\ndem am 22.08.2018 beim Landesarbeitsgericht Nürnberg eingegangenen Schriftsatz vom 20.08.2018\nBerufung eingelegt und sie mit Schriftsatz vom 27.08.2018, beim Landesarbeitsgericht Nürnberg\neingegangen am 29.08.2018, begründet.\n19\nDie Klägerin meint, das Erstgericht habe die in Ziffer 2 des Vergleiches getroffene Vereinbarung\nunzutreffend ausgelegt. In dem Bestandsstreit über eine fristlose und hilfsweise ordentliche Kündigung\nhätten die Parteien in Bezug auf das Vertragsende und die bis dahin zu bewirkenden Leistungen\neigenständige Regelungen getroffen und nicht lediglich auf bestehende gesetzliche und vertragliche Rechte\nBezug genommen. Die für eine ordentliche Kündigung zu wahrende Frist wäre nämlich erst zum 31.03.2016\nabgelaufen und nicht zu dem im Ziffer 1 des Vergleiches festgelegten Termin 31.01.2016. Es sollte auch\nnicht das gesamte Bruttomonatsgehalt als der aus der Ziffer 1 des Vergleiches resultierende\nAnnahmeverzugslohn abgerechnet werden, sondern nur der im Vergleich konkret bezifferte Betrag (hälftige\nMonatsvergütung). Dieser bestimmte Betrag sollte an die Klägerin nur vorbehaltlich auf Dritte\nübergegangener Ansprüche gezahlt werden und keiner sonstigen Reduzierung unterliegen, denn es habe\neine abschließende und umfassende Regelung aller das Arbeitsverhältnis betreffender Rechte und Pflichten\nerfolgen sollen, wie sich aus dem restlichen Inhalt des Vergleiches ergebe. Keinesfalls hätte sie eine\nVergütungsregelung auf Basis einer Nulllösung akzeptiert.\n20\nDie Klägerin und Berufungsklägerin beantragt,\nI. Unter Abänderung des am 13.07.2018 verkündeten Endurteils des Arbeitsgerichts Nürnberg,\nAktenzeichen 10 Ca 5977/17 wird die Beklagte verurteilt, an die Klägerin\n- für Oktober 2015 1.343,75 € brutto abzüglich auf die Bundesagentur übergegangener 1.021,80 € netto\nnebst 5 Prozentpunkte Zinsen über dem Basiszinssatz aus 321,95 € brutto seit 01.11.2015,\n- für November 2015 1.343,75 € brutto abzüglich auf die Bundesagentur übergegangener 272,48 € netto\nnebst 5 Prozentpunkte Zinsen über dem Basiszinssatz aus 1.071,27 € brutto seit 01.12.2015,\n- für Dezember 2015 1.343,75 € brutto nebst 5 Prozentpunkte Zinsen über dem Basiszinssatz hieraus seit\n01.01.2016,\n- für Januar 2016 1.343,75 € brutto nebst 5 Prozentpunkte Zinsen über dem Basiszinssatz hieraus seit\n01.02.2016 zu bezahlen sowie\n- der Klägerin für die Monate Oktober 2015 bis einschließlich Januar 2016 Lohnabrechnungen über\nmonatlich 1.343,75 € brutto und II. Die Beklagte trägt die Kosten des gesamten Rechtsstreits.\n21\nDie Beklagte und Berufungsbeklagte beantragt,\nI. Die Berufung wird zurückgewiesen.\nII.\n22\nDie Klägerin trägt die Kosten des Rechtsstreits.\n23\nZur Begründung trägt sie vor, aufgrund der Regelung in Ziffer 1 des Vergleiches habe für die Parteien\nfestgestanden, dass sich die Beklagte nach Ausspruch der fristlosen Kündigung in Annahmeverzug\nbefunden habe und sich die ordnungsgemäße Abrechnung der Vergütung nach § 615 BGB richten solle.\nEiner ausdrücklichen Bezeichnung als Annahmeverzugslohn habe es nicht bedurft. Ein erforderlicher\neindeutiger Ausschluss der Anwendung des § 615 Satz 2 BGB sei nicht erfolgt und ein entsprechender\nWille der Vergleichsparteien auch nicht ansatzweise erkennbar. Die Klägerin habe im Prozess\nverschwiegen, dass sie ab dem 09.11.2015 wieder in einem Arbeitsverhältnis stehe. Sie habe der Klägerin\nmit der reduzierten Lohnzahlung entgegenkommen und einen sich hinziehenden Bestandsstreit vermeiden\nwollen.\n24\nHinsichtlich weiterer Einzelheiten wird auf die im Berufungsverfahren gewechselten Schriftsätze der\nParteien verwiesen.\nEntscheidungsgründe\nI.\n25\nDie Berufung ist zulässig.\n26\nSie ist statthaft, § 64 Abs. 1, Abs. 2 b ArbGG, und auch in der gesetzlichen Form und Frist eingelegt und\nbegründet worden, §§ 66 Abs. 1, 64 Abs. 6 Satz 1 ArbGG, 519, 520 ZPO.\nII.\n27\nDie Berufung ist sachlich begründet.\n28\nDer Klägerin stehen die geltend gemachten Abrechnungs- und Zahlungsansprüche gegen die Beklagte zu,\ndenn hierzu hatte sich die Beklagte in Ziffer 2 des Vergleiches vom 15.03.2016 verpflichtet, §§ 779 Abs. 1,\n611 Abs. 1 BGB.\n29\nDie Auslegung der Ziffer 2 des Vergleiches ergibt gem. §§ 133, 154 BGB unter Berücksichtigung der\nRegelungen in den Ziffern 3 und 6 dieses Vergleiches, dass im Rahmen des § 779 Abs. 1 BGB eine\neigenständige konstitutive Abrechnungs- und Zahlungspflicht begründet werden und nicht lediglich ein\nVerweis auf die bestehende gesetzliche Rechtslage nach § 615 BGB erfolgen sollte.\n30\nDie Auslegung des Erstgerichts, die sich vollumfänglich an den Gründen der Entscheidung des\nLandesarbeitsgerichts Düsseldorf vom 01.07.2015 (1 Sa 194/15 - LAGE Nr. 26 zu § 615 BGB 2002)\norientiert, lässt unberücksichtigt, dass sich die Parteien in dem vorliegenden Fall ausdrücklich auf die\nAbrechnung und Zahlung eines bestimmten monatlichen Bruttobetrages geeinigt haben, der von dem\ngesetzlichen Anspruch auf Annahmeverzugslohn erheblich abweicht und sich auf nur 50% des gesetzlichen\nAnspruchs beläuft.\n31\nDies unterscheidet den Fall von dem vom Landesarbeitsgericht Düsseldorf entschiedenen, denn dort sollte\ndie Abrechnung „auf der Basis des Monatsgehalts zum Zeitpunkt der Schließung zuzüglich vertraglicher\nSonderzahlungen“ erfolgen. In dem dortigen Fall lag es nahe, dass Inhalt des Vergleiches die Abrechnung\ndes gesamten Annahmeverzugslohnes geworden ist und damit auch die Anwendbarkeit des § 615 Satz 2\nBGB eröffnet werden sollte.\n32\nAnders ist die konkrete Festschreibung des Vergleichsbetrages von EUR 1.343,75 brutto zu verstehen,\ndenn hierbei handelt es sich gerade nicht um den gesetzlich geschuldeten Annahmeverzugslohn für den\nZeitraum 01.10.2015 bis 31.01.2016 sondern einen hiervon erheblich abweichenden Zahlungsbetrag.\nSchon dies begründet Zweifel daran, dass es sich hierbei lediglich um einen Verweis auf den gesetzlichen\nAnspruch nach § 615 BGB handeln sollte.\n33\nAufgrund der vollständigen Einbringung des Urlaubs nach Ziffer 3 des Vergleiches und der gesamten\nAbgeltung aller sonstiger Ansprüche aus dem Arbeitsverhältnis gem. Ziffer 6 des Vergleiches steht zudem\nfest, dass die in Ziffer 2 des Vergleiches geregelte Zahlungspflicht der Beklagten auch die Urlaubsvergütung\ngem. § 11 BUrlG und die Feiertagslohnzahlung gem. § 2 EFZG einbezieht. Dies hätte jedoch auf Basis des\nletzten Bruttomonatseinkommens der Klägerin von EUR 2.687,50 brutto erfolgen müssen, was aufgrund der\nRegelungen zur Unabdingbarkeit in den §§ 13 Abs. 1 BurlG, 12 EFZG auch den am Vergleichsschluss\nbeteiligten Rechtsanwälten klar sein musste. Nach Abzug der für einzelne Tage geschuldeten vollen\nBruttovergütung erschließt sich aus dem Inhalt der Ziffer 2 des Vergleiches nicht, welche ordnungsgemäße\nAbrechnung lediglich des hälftigen bisherigen Bruttomonatseinkommens sich in welchem konkreten\nZeitraum auf den gesetzlichen Anspruch der Klägerin auf Annahmeverzugslohn gem. § 615 BGB beziehen\nsollte.\n34\nInsoweit ist bei der gegebenen Vergleichssituation - Beendigung des Vertragsverhältnisses zu einem\nvorfristigen Entlassungstermin bei gleichzeitiger Reduzierung der geschuldeten Gesamtvergütung auf 50%\ndes bisherigen Einkommens - von einer vollständigen Entkoppelung des im Vergleich geregelten\nZahlungsanspruchs von der gesetzlichen Regelung des § 615 BGB auszugehen.\n35\nHinzu kommt, dass bei einer Reduzierung der Vergütung auf den hälftigen Betrag, dem bisher in Vollzeit\ntätigen Arbeitnehmer - wie einem Teilzeitbeschäftigten - ein Hinzuverdienst nicht hätte verweigert werden\ndürfen, um sein bisheriges Einkommensniveau annähernd zu erreichen. Dies verlangt nach einer\nklarstellenden Regelung zur Hinzuverdienstmöglichkeit im Vergleich. Denkbar ist in dieser Fallkonstellation,\ndass jegliche Anrechnung unterbleiben soll (wie von der Klägerin vertreten), ein eventueller\nZwischenverdienst nur zu 50% berücksichtigt werden soll oder eine vollständige Anrechnung erfolgen soll\n(wie von der Beklagten vertreten).\n36\nNach § 615 Satz 2 BGB müsste sich die Klägerin auch nur den Zwischenverdienst anrechnen lassen, den\nsie während der Arbeitszeit erzielt hat, in der sie im Annahmeverzugszeitraum bei der Beklagten hätte\nArbeitsleistungen erbringen müssen (vgl. BAG v. 24.02.2016 - 5 AZR 425/15 - NZA 2016, 687). Infolge der\nHerabsetzung der geschuldeten Vergütung auf den hälftigen Betrag, müsste konsequenter Weise von\nlediglich einer Halbtagestätigkeit ausgegangen werden. Dies eröffnet eine anrechnungsfreie\nHinzuverdienstmöglichkeit während der verbleibenden Tagesarbeitszeit.\n37\nInsoweit wäre es geboten gewesen, im Vergleich eine vollständige oder teilweise Anrechnung eines\nZwischenverdienstes zu regeln, wenn das Einkommensniveau der bisher vollzeitbeschäftigten Klägerin in\nZiffer 2 des Vergleiches auf das einer Teilzeitkraft von 50% abgesenkt wird.\n38\nDer Vergleichstext enthält hierzu jedoch keine Klarstellung, was aufgrund der Regelung in Ziffer 6 des\nVergleiches zum Nachteil der Beklagten gereicht, denn es sollte eine umfassende Regelung aller Rechte\nund Pflichten erfolgen. Die Beklagte hätte sich die Anrechnung eines etwaigen Zwischenverdienstes bei der\nvorliegenden Vergleichssituation im Vergleich ausdrücklich vorbehalten müssen.\n39\nDie Klägerin hat vereinbarungsgemäß das bezogene Arbeitslosengeld in Abzug gebracht.\n40\nSonstige Einwände gegen die Berechnung der Haupt- und der Zinsforderungen werden von der Beklagten\nnicht erhoben. Insoweit erübrigen sich weitergehende Ausführungen.\nIII.\n41\n1. Die unterlegene Beklagte hat die Kosten des Rechtsstreits zu tragen, § 91 Abs. 1 ZPO.\n42\n2. Die Revision ist zuzulassen, denn der Auslegung einer Vergleichsklausel, die die Abrechnung und\nZahlung eines erheblich reduzierten Monatseinkommens zum Inhalt hat, wird in Bezug auf eine Anrechnung\nvon Zwischenverdienst gem. § 72 Abs. 2 Nr. 1 ArbGG grundsätzliche Bedeutung beigemessen.\n\n"
+}

@@ -1,0 +1,299 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 94,
+            "start": 91,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 131,
+            "start": 116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 197,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 332,
+            "start": 329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 601,
+            "start": 597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 670,
+            "start": 662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 445,
+            "start": 443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 746,
+            "start": 740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 885,
+            "start": 877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1040,
+            "start": 1032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 1104,
+            "start": 1097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1122,
+            "start": 1109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 1265,
+            "start": 1256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 1279,
+            "start": 1270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 1350,
+            "start": 1341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 1366,
+            "start": 1352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschaffungsrisiko",
+            "end": 1388,
+            "start": 1370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gattungsware",
+            "end": 1498,
+            "start": 1486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 1629,
+            "start": 1617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferpflicht",
+            "end": 1661,
+            "start": 1648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 1990,
+            "start": 1985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 2087,
+            "start": 2078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferzeiten",
+            "end": 2121,
+            "start": 2109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewalt",
+            "end": 2230,
+            "start": 2224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2587,
+            "start": 2583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 2667,
+            "start": 2658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 2939,
+            "start": 2934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 2865,
+            "start": 2855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 2958,
+            "start": 2944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 3184,
+            "start": 3180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 3258,
+            "start": 3253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 3539,
+            "start": 3535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstabholung",
+            "end": 3558,
+            "start": 3544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftszeiten",
+            "end": 3779,
+            "start": 3764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Uhr",
+            "end": 3807,
+            "start": 3804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3831,
+            "start": 3813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 3894,
+            "start": 3886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 3916,
+            "start": 3900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 4104,
+            "start": 4101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 4282,
+            "start": 4270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4408,
+            "start": 4402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 4485,
+            "start": 4474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 4437,
+            "start": 4414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragssprache",
+            "end": 4506,
+            "start": 4491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 4577,
+            "start": 4570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mailing",
+            "end": 4592,
+            "start": 4585,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4835,
+            "start": 4834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 5103,
+            "start": 5094,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop gelten die nachfolgenden AGB.\n2. Vertragspartner, Vertragsschluss\nDer Kaufvertrag kommt zustande mit Drogerie-Depot E-Commerce GmbH. Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung erfolgt zusammen mit der Annahme der Bestellung unmittelbar nach dem Absenden durch eine automatisierte E-Mail. Mit dieser E-Mail-Bestätigung ist der Kaufvertrag zustande gekommen. Eine bindende Bestellung kann auch bereits zuvor wie folgt zustande kommen: Wenn Sie die Zahlungsart PayPal gewählt haben, kommt der Vertrag zum Zeitpunkt Ihrer Bestätigung der Zahlungsanweisung an PayPal zustande. Wenn Sie die Zahlungsart Sofortüberweisung gewählt haben, kommt der Vertrag zum Zeitpunkt der Bestätigung der Zahlungsanweisung an die SOFORT AG zustande.\nDer Kaufvertrag kommt erst zustande wenn die Lieferung erfolgt.\n3. Versandkosten\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\n4. Bezahlung\nIn unserem Shop stehen Ihnen die folgenden Zahlungsarten zur Verfügung: Bezahlmethoden\n5. Beschaffungsrisiko\nEin Beschaffungsrisiko wird von uns nicht übernommen, auch nicht bei einem Kaufvertrag über eine Gattungsware. Wir sind nur zur Lieferung aus unserem Warenvorrat und der von uns bei unseren Lieferanten bestellten Warenlieferung verpflichtet.\n6. Entfallen der Lieferpflicht\nDie Verpflichtung unsererseits zur Lieferung entfällt, wenn wir trotz ordnungsgemäßem kongruenten Deckungsgeschäft selbst nicht richtig und rechtzeitig beliefert werden sowie die fehlende Verfügbarkeit nicht zu vertreten haben, wir Sie hierüber unverzüglich informiert haben und wir nicht ein Beschaffungsrisiko übernommen haben. Bei Nichtverfügbarkeit der Ware werden wir eine eventuelle Vorauszahlung unverzüglich erstatten.\n7. Verlängerung von Lieferzeiten\nDie Lieferzeit verlängert sich angemessen bei die Lieferung beeinträchtigenden Umständen durch höhere Gewalt. Der höheren Gewalt stehen gleich Streik, Aussperrung, behördliche Eingriffe, Energie- und Rohstoffknappheit, unverschuldete Transportengpässe, unverschuldete Betriebsbehinderungen zum Beispiel durch Feuer, Wasser und Maschinenschäden und alle sonstigen Behinderungen, die bei objektiver Betrachtungsweise nicht von uns schuldhaft herbeigeführt worden sind. Beginn und Ende derartiger Hindernisse werden wir Ihnen unverzüglich mitteilen. Dauert das Leistungshindernis in den vorgenannten Fällen über einen Zeitraum von mehr als 4 Wochen nach den ursprünglich geltenden Lieferzeiten an, so sind Sie zum Rücktritt vom Vertrag berechtigt. Weitergehende Ansprüche, insbesondere auf Schadensersatz, bestehen nicht.\n8. Gefahrübergang\nBei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware beim Versendungskauf mit der Übergabe der Ware an den Verbraucher oder einen von ihm bestimmten Empfänger über. Dies gilt unabhängig davon, ob der Versand versichert erfolgt oder nicht. Ansonsten geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt, auf den Käufer über.\n9. Selbstabholung\nNach telefonischer Absprache haben Sie die Möglichkeit der Abholung Ihrer Bestellung bei der Drogerie-Depot E-Commerce GmbH, Im Kirchenfelde 11, 31157 Sarstedt, Deutschland, zu den nachfolgend angegebenen Geschäftszeiten: Mo - Fr. von 10 bis 18 Uhr.\n10. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\n11. Transportschäden\nWerden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. Transportversicherung geltend machen zu können.\n12. Vertragstextspeicherung\nDer Vertragstext wird von uns nicht gespeichert.\n13. Vertragssprache\nDie für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.\n14. E-Mailing\n„Sofern Sie einen Kauf über Waren und Dienstleistungen bei uns unternommen haben, sind wir berechtigt Ihnen Informationen über eigene ähnliche Waren und Dienstleistungen über die beim Kauf übersandte E-Mail Adresse zu übersenden (§ 7 III UWG). Dieser Verwendung Ihrer E-Mailadresse können Sie jederzeit insgesamt oder für einzelne Maßnahmen, z.B. per E-Mail, Fax, Brief (Kommentar: Kontaktdaten bitte ergänzen) widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.“\n\n\n"
+}

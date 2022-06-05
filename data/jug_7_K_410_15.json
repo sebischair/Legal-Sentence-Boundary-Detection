@@ -1,0 +1,1397 @@
+{
+    "Annotations": [
+        {
+            "annotation": "15",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2012",
+            "end": 83,
+            "start": 79,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 95,
+            "start": 84,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeitpunkt",
+            "end": 363,
+            "start": 354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 374,
+            "start": 364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4490",
+            "end": 393,
+            "start": 389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 399,
+            "start": 394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 428,
+            "start": 418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 485,
+            "start": 479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 497,
+            "start": 487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 499,
+            "start": 498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderausgaben",
+            "end": 578,
+            "start": 564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 581,
+            "start": 580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlagt",
+            "end": 686,
+            "start": 677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 689,
+            "start": 688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beteiligt",
+            "end": 908,
+            "start": 899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 911,
+            "start": 910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 1005,
+            "start": 999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1008,
+            "start": 1007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGmbH",
+            "end": 1208,
+            "start": 1203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 1509,
+            "start": 1505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährte",
+            "end": 1639,
+            "start": 1631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1642,
+            "start": 1641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 2052,
+            "start": 2049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 2276,
+            "start": 2270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2488,
+            "start": 2485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 2566,
+            "start": 2558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Last",
+            "end": 2674,
+            "start": 2670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 2785,
+            "start": 2774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändert",
+            "end": 3121,
+            "start": 3115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 3242,
+            "start": 3233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 3347,
+            "start": 3340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 3445,
+            "start": 3436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3448,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3958,
+            "start": 3956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2011",
+            "end": 4023,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2011",
+            "end": 4151,
+            "start": 4147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgetreten",
+            "end": 4257,
+            "start": 4247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 4429,
+            "start": 4428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freizustellen",
+            "end": 4729,
+            "start": 4716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2011",
+            "end": 4824,
+            "start": 4820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 4907,
+            "start": 4905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergegangen",
+            "end": 5077,
+            "start": 5065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 5178,
+            "start": 5169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5181,
+            "start": 5180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsaufgabe",
+            "end": 5240,
+            "start": 5225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 5480,
+            "start": 5477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5483,
+            "start": 5482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veräußerungsgewinne",
+            "end": 5776,
+            "start": 5757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5780,
+            "start": 5778,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5922,
+            "start": 5921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5926,
+            "start": 5924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6034,
+            "start": 6029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angesetzt",
+            "end": 6138,
+            "start": 6129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 6196,
+            "start": 6185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6200,
+            "start": 6198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Last",
+            "end": 6349,
+            "start": 6345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6501,
+            "start": 6498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Last",
+            "end": 6632,
+            "start": 6628,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6927,
+            "start": 6926,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7335,
+            "start": 7334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7339,
+            "start": 7337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herabgesetzt",
+            "end": 7512,
+            "start": 7500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 7585,
+            "start": 7576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7589,
+            "start": 7587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Last",
+            "end": 7722,
+            "start": 7718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 7892,
+            "start": 7885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 7988,
+            "start": 7981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 8120,
+            "start": 8116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 8266,
+            "start": 8257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8270,
+            "start": 8268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 8425,
+            "start": 8424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8429,
+            "start": 8427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 8603,
+            "start": 8597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 8660,
+            "start": 8650,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9048,
+            "start": 9047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dient",
+            "end": 9150,
+            "start": 9145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzugeben",
+            "end": 9342,
+            "start": 9332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9624,
+            "start": 9621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortbestehe",
+            "end": 10020,
+            "start": 10009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufgabegewinns",
+            "end": 10171,
+            "start": 10157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vermögens",
+            "end": 10467,
+            "start": 10458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 10678,
+            "start": 10674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 10803,
+            "start": 10797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzudecken",
+            "end": 11020,
+            "start": 11010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 11246,
+            "start": 11242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11354,
+            "start": 11351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 11358,
+            "start": 11356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederholt",
+            "end": 11476,
+            "start": 11466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 11740,
+            "start": 11737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 11893,
+            "start": 11881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12167,
+            "start": 12164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beendet",
+            "end": 12361,
+            "start": 12354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitunternehmer",
+            "end": 12541,
+            "start": 12527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprechen",
+            "end": 12632,
+            "start": 12624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 12895,
+            "start": 12891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13040,
+            "start": 13034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 13044,
+            "start": 13042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 13465,
+            "start": 13454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13613,
+            "start": 13607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 13751,
+            "start": 13744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 13755,
+            "start": 13753,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13861,
+            "start": 13860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 13905,
+            "start": 13899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 14063,
+            "start": 14056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 14381,
+            "start": 14378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 14385,
+            "start": 14383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 14503,
+            "start": 14500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 14710,
+            "start": 14706,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14929,
+            "start": 14928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 15388,
+            "start": 15383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 15392,
+            "start": 15390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 15863,
+            "start": 15859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 16086,
+            "start": 16082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 16185,
+            "start": 16174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16189,
+            "start": 16187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 16530,
+            "start": 16521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 16534,
+            "start": 16532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 16706,
+            "start": 16702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veräußerungsgewinn",
+            "end": 16883,
+            "start": 16865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 17088,
+            "start": 17083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 17199,
+            "start": 17196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erträgen",
+            "end": 17331,
+            "start": 17323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 17335,
+            "start": 17333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwirklicht",
+            "end": 17489,
+            "start": 17477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EStG",
+            "end": 17744,
+            "start": 17740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 17748,
+            "start": 17746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 17891,
+            "start": 17884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 17895,
+            "start": 17893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 18054,
+            "start": 18045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 18078,
+            "start": 18076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 18104,
+            "start": 18093,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18272,
+            "start": 18271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 18379,
+            "start": 18370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 18383,
+            "start": 18381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsleistungen",
+            "end": 18647,
+            "start": 18626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18867,
+            "start": 18864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fallgruppen",
+            "end": 18968,
+            "start": 18957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 19195,
+            "start": 19189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 19199,
+            "start": 19197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgeblich",
+            "end": 19317,
+            "start": 19307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 19321,
+            "start": 19319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 19692,
+            "start": 19686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzudecken",
+            "end": 19979,
+            "start": 19969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19983,
+            "start": 19981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identisch",
+            "end": 20079,
+            "start": 20070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 20422,
+            "start": 20418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 20426,
+            "start": 20424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abstellen",
+            "end": 20502,
+            "start": 20493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anhaltspunkt",
+            "end": 20624,
+            "start": 20612,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20988,
+            "start": 20987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 21297,
+            "start": 21291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsleistungen",
+            "end": 21366,
+            "start": 21345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 21370,
+            "start": 21368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorbehaltsnießbrauch",
+            "end": 21573,
+            "start": 21553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 21799,
+            "start": 21795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 21803,
+            "start": 21801,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22221,
+            "start": 22220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 22324,
+            "start": 22321,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22579,
+            "start": 22578,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22781,
+            "start": 22780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 22785,
+            "start": 22783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 22912,
+            "start": 22909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 22916,
+            "start": 22914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2000",
+            "end": 23066,
+            "start": 23062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 23312,
+            "start": 23304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 23698,
+            "start": 23692,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23968,
+            "start": 23967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortsetzt",
+            "end": 24406,
+            "start": 24397,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24554,
+            "start": 24553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ankommt",
+            "end": 25152,
+            "start": 25145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 25712,
+            "start": 25708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 26094,
+            "start": 26084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 26145,
+            "start": 26139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ertragsprognose",
+            "end": 26256,
+            "start": 26241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 26527,
+            "start": 26522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 26619,
+            "start": 26613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26747,
+            "start": 26741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgeblich",
+            "end": 26849,
+            "start": 26839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 26853,
+            "start": 26851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichtet",
+            "end": 27304,
+            "start": 27294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgetreten",
+            "end": 27450,
+            "start": 27440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwirtschaften",
+            "end": 27585,
+            "start": 27571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beteiligung",
+            "end": 27695,
+            "start": 27684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Forderungen",
+            "end": 27963,
+            "start": 27952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 28144,
+            "start": 28140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28263,
+            "start": 28257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 28267,
+            "start": 28265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erträge",
+            "end": 28458,
+            "start": 28451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 28596,
+            "start": 28589,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28891,
+            "start": 28890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 29070,
+            "start": 29067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 29256,
+            "start": 29253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 29449,
+            "start": 29438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 29530,
+            "start": 29523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 29599,
+            "start": 29592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 29741,
+            "start": 29729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 29745,
+            "start": 29743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsprechung",
+            "end": 29894,
+            "start": 29880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 29898,
+            "start": 29896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offengelassen",
+            "end": 30061,
+            "start": 30048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 30216,
+            "start": 30212,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30349,
+            "start": 30348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 30353,
+            "start": 30351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 30618,
+            "start": 30614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 31018,
+            "start": 31014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfällt",
+            "end": 31350,
+            "start": 31342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 31495,
+            "start": 31487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 31499,
+            "start": 31497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugsfähig",
+            "end": 31728,
+            "start": 31717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entfallen",
+            "end": 31939,
+            "start": 31930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsrente",
+            "end": 32289,
+            "start": 32273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steuerbar",
+            "end": 32414,
+            "start": 32405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einkommensteuerrechts",
+            "end": 32515,
+            "start": 32494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mehr",
+            "end": 32765,
+            "start": 32761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterhaltsleistungen",
+            "end": 32958,
+            "start": 32938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistung",
+            "end": 33172,
+            "start": 33164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 33176,
+            "start": 33174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 33438,
+            "start": 33434,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33493,
+            "start": 33492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 33497,
+            "start": 33495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitfall",
+            "end": 33536,
+            "start": 33526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 33763,
+            "start": 33756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 33767,
+            "start": 33765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 33925,
+            "start": 33911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 33929,
+            "start": 33927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 33983,
+            "start": 33980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 33987,
+            "start": 33985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 34067,
+            "start": 34064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneinen",
+            "end": 34431,
+            "start": 34422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klärung",
+            "end": 34522,
+            "start": 34515,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 25.01.2019 – 7 K 410/15\nTitel:\nEinkommensteuer 2011 und 2012\nSchlagworte:\nLeistungen, Bescheid, Abtretung, Kaufpreis, Versorgung, Gesellschaft, Beteiligung, Einspruchsverfahren,\nAnerkennung, Gesellschafter, Kommanditeinlage, Einkommensteuerbescheid, Stammkapital, Einspruch, Co\nKG, steuerliche Anerkennung, Zulassung der Revision, Zeitpunkt\nFundstelle:\nBeckRS 2019, 4490\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens haben die Kläger zu tragen.\nTatbestand\n1\nStreitig ist die steuerliche Anerkennung von Geldleistungen als Sonderausgaben.\n2\nDie Kläger wurden in den Streitjahren 2011 und 2012 als Ehegatten zusammen zur Einkommensteuer\nveranlagt.\n3\nAn der A-GmbH, vormals als AA-GmbH firmierend, waren am Stammkapital i.H.v. 100.000 DM B mit 50.000\nDM, die A3-GmbH KG mit 33.300 DM, die Schwester des Klägers A4 mit 8.400 DM und der Kläger (A1) mit\n8.300 DM beteiligt.\n4\nKomplementärin der A3-GmbH KG war die A3-GmbH, Kommanditisten waren zuletzt A4 und der Kläger.\n5\nBis 31.12.1999 war außerdem die Mutter des Klägers, A5, mit einer Kommanditeinlage von 60.000 DM\n(entspricht 15% am Gesellschaftsvermögen) Kommanditistin der A3-GmbH KG und Gesellschafterin der AGmbH.\nMit notariell beurkundetem Übergabevertrag vom 20.01.2000 übertrug sie mit Wirkung ab\n01.01.2000 je zur Hälfte dem Kläger und ihrer Tochter A4 ihren Kommanditanteil an der A3-GmbH KG\nnebst einer Darlehensforderung gegen die A3-GmbH KG in i.H.v. 312.000 DM und ihren Gesellschaftsanteil\nan der A-GmbH. An allen Gesellschaftsbeteiligungen behielt sie sich den lebenslänglichen Nießbrauch vor,\nder ihr das Gewinnbezugsrecht gewährte.\n6\nMit notariell beurkundeten Erklärungen vom 25.07.2011 der A5, des Klägers und seiner Schwester, die\nzugleich als alleinvertretungsberechtigte Geschäftsführerin der A3-GmbH, diese wiederum für die A3-GmbH\nKG als alleinvertretungsberechtigte persönlich haftende Gesellschafterin handelte, gab A5 ihre\nNießbrauchsrechte an den v.g. Gesellschaftsbeteiligungen vollständig mit Wirkung zum Ablauf des\n30.06.2011 auf. Als Gegenleistung verpflichteten sich der Kläger und seine Schwester an A5 auf deren\nLebensdauer ab dem 01.07.2011 zu deren Versorgung jeweils einen monatlichen Geldbetrag i.H.v. 1.500 €,\ninsgesamt somit 3.000 €, zu zahlen. Außerdem verpflichteten sie sich, auf gesonderte Anforderung durch\nA5 an diese einmal jährlich einen Betrag bis zu 15.000 € zu bezahlen, soweit dies zur Deckung eines\nbesonderen Bedarfes von A5 erforderlich ist. Diesen Betrag haben der Kläger und seine Schwester je zur\nHälfte zu bezahlen. Die monatlichen und jährlichen Zahlungsverpflichtungen vereinbarten die\nVertragsparteien als dauernde Last. Eine Anpassung der Zahlungsverpflichtung gemäß § 323 Abse. 1 und 4\nZPO wurde deshalb ausdrücklich vorbehalten. Insbesondere kann jeder Vertragsteil eine Abänderung der\nvereinbarten Leistung verlangen, wenn durch Änderung der wirtschaftlichen Verhältnisse der Vertragsteile\nder angemessene Unterhalt des Zahlungsverpflichteten oder der Zahlungsberechtigten gefährdet bzw. nicht\nmehr gewährleistet ist oder sich sonst die Geschäftsgrundlage ändert. Die vereinbarten monatlichen\nZahlungen sind bis zum 10. eines jeden Monats für den jeweils laufenden Monat zu erbringen; die\nZahlungen für den Monat Juli 2011 war zusammen mit der Zahlung für den Monat August 2011 zu leisten.\nWegen weiterer Einzelheiten wird auf den notariell beurkundeten Vertrag vom 25.07.2011 verwiesen.\n7\nMit notariell beurkundeter Geschäftsanteilsabtretung vom 25.07.2011 traten die A3-GmbH KG, der Kläger\nund seine Schwester, diese wiederum nicht nur für sich selbst, sondern auch für die A3-GmbH, und diese\nwiederum für die A3-GmbH KG handelnd, ihre Gesellschaftsanteile an der A-GmbH mit allen Rechten und\nPflichten, insbesondere dem Gewinnbezugsrecht sowie allen Gewinn- und Verlustanteilen für das gesamte\nGeschäftsjahr 2011 an die Firma Z UG (haftungsbeschränkt) & Co. KG zu deren alleiniger Berechtigung ab.\nDie Abtretung erfolgte mit dinglicher Wirkung ab dem 01.07.2011. Des Weiteren verzichteten die\nVeräußerer auch auf die Ausschüttungen für die Jahre 2008, 2009, 2010 und anteilig auch für 2011.\nVorsorglich wurden ihre etwaigen Ansprüche hinsichtlich dieser Ausschüttungen an den Erwerber\nabgetreten. Als Kaufpreis für die Übertragung der Geschäftsanteile zu insgesamt 50% am Stammkapital der\nA-GmbH erhielten die A3-GmbH KG 166.500 €, A4 42.000 € und der Kläger 41.500 €. B verpflichtete sich\nals Geschäftsführer der Gesellschaft im Hinblick darauf, dass seitens der Veräußerer auf Ausschüttungen\nfür die vergangenen Geschäftsjahre verzichtet wird, diese seitens der Gesellschaft von jeglichen\nsteuerlichen Auswirkungen der damals laufenden Betriebsprüfung freizustellen. Die Gesellschaft übernahm\ninsoweit etwaige Nachzahlungen für die Geschäftsjahre 2008 bis 2011; umgekehrt standen ihr aber auch\netwaige Rückzahlungen für diese Geschäftsjahre zu. Besitz und Gefahr, Rechte und Pflichten sowie Nutzen\nund Lasten der übertragenen Geschäftsanteile gelten als mit Wirkung ab dem 01.07.2011 auf den Erwerber\nübergegangen. Wegen weiterer Einzelheiten wird auf den Geschäftsanteilsabtretungsvertrag vom\n25.07.2011 verwiesen.\n8\nZum 30.06.2011 erklärte die A3-GmbH KG die Betriebsaufgabe. Die vom Klägervertreter vorgelegte\nAufgabebilanz der A3-GmbH KG zum 30.06.2011 nebst Gewinn- und Verlustrechnung weist einen\nJahresüberschuss i.H.v. 541.142 € und nach dessen Gutschrift auf den Kapitalkonten einen Bilanzgewinn\nvon 0 € aus.\n9\nMit Feststellungsbescheid vom 10.08.2011 stellte das Finanzamt 2 für die Beteiligung des Klägers an der\nA3-GmbH KG für 2011 Einkünfte aus Gewerbebetrieb i.H.v. 307.942,19 € fest, davon entfällt lt. Mitteilung\ndes Finanzamts 2 vom 18.03.2013 ein Betrag von 307.827,35 € auf Veräußerungsgewinne.\n10\nMit der Einkommensteuererklärung 2011 erklärten die Kläger aufgrund des Vertrages vom 25.07.2011\ndauernde Lasten i.H.v. 9.000 € (6 x 1.500 €).\n11\nIm Einkommensteuerbescheid vom 06.02.2013 berücksichtigte der Beklagte die erklärten dauernden Lasten\nnicht. Der Veräußerungsgewinn aus der Beteiligung des Klägers an der A3-GmbH KG wurde mit 285.384 €\nangesetzt. Die Einkommensteuer 2011 wurde auf 122.675 € festgesetzt.\n12\nMit dem dagegen erhobenen Einspruch wandten sich die Kläger gegen die Höhe des angesetzten\nVeräußerungsgewinns und die Streichung der dauernden Last. Zu letzterem Streitpunkt wird vorgetragen,\nes sei nicht zutreffend, dass die Leistung nach dem Versorgungsbedürfnis des Übergebers bemessen\nworden sei. In den Jahren zuvor seien die aufgrund des Nießbrauchs erwirtschafteten Einkünfte höher als\ndie nunmehr vereinbarte dauernde Last. Nach dem BMF-Schreiben vom 26.08.2002, IV C 3-S. 2255-420/02\nTz. 10 komme es nicht darauf an, ob die Versorgungsleistungen im Vermögensübergabevertrag selbst oder\nerst im Zusammenhang mit der Ablösung des Nießbrauchs vereinbart werden (Hinweis auf BFH-Urteil vom\n03.06.1992, BStBl II 1993, 98). Dem liege die Erwägung zugrunde, dass ein für die Abziehbarkeit als\ndauernde Last erforderlicher sachlicher Zusammenhang mit der Vermögensübergabe dann bestehe, wenn\ndie Versorgungsrente - wenn auch betragsmäßig eingeschränkt - den ursprünglich vereinbarten\nVorbehaltsnießbrauch ersetzt (Hinweis auf BFH-Urteile vom 25.11.1992 X R 34/89, BStBl II 1996, 663 und\nvom 27.08.1996 IX R 86/93, BStBl II 1997, 47).\n13\nMit Bescheid vom 06.05.2013 entsprach der Beklagte hinsichtlich der Höhe des Veräußerungsgewinns dem\nEinspruch, die Einkommensteuer wurde dadurch auf 113.055 € herabgesetzt. Die geltend gemachten\ndauernden Lasten wurden weiterhin nicht anerkannt.\n14\nMit der Einkommensteuererklärung für 2012 erklärten die Kläger Zahlungen an die Mutter des Klägers i.H.v.\n18.000 € als dauernde Last. Außerdem wurde wegen nachträglicher Betriebseinnahmen und -ausgaben für\ndie Beteiligung des Klägers an der A3-GmbH KG i.L. ein Verlust i.H.v. 6.554,71 € geltend gemacht. Als\nEinnahmen sind 14,54 € für die beiden Gesellschafter (Kläger und dessen Schwester) erklärt. Mit Bescheid\nvom 14.04.2014 setzte der Beklagte die Einkommensteuer für 2012 auf 41.709 € unter dem Vorbehalt der\nNachprüfung fest. Einkünfte aus Gewerbebetrieb des Klägers wurden dabei mit -6.555 € berücksichtigt, die\ngeltend gemachten dauernden Lasten wurden nicht anerkannt.\n15\nMit dem dagegen eingelegten Einspruch vom 07.05.2014 wandten sich die Kläger weiterhin gegen die\nNichtanerkennung der dauernden Last an A5 i.H.v. 18.000 €.\n16\nDer Beklagte wies mit Einspruchsentscheidung vom 19.02.2015 die Einsprüche gegen den\nEinkommensteuerbescheid 2011 und den Einkommensteuerbescheid 2012 als unbegründet zurück. Für\n2012 wurde der Vorbehalt der Nachprüfung aufgehoben. Zur Begründung wird ausgeführt, werde ein an\nbegünstigtem Vermögen vorbehaltenes Nießbrauchsrecht im Zusammenhang mit wiederkehrenden\nLeistungen abgelöst, könnten diese im sachlichen Zusammenhang mit der Vermögensübertragung stehen\nund daher Versorgungsleistungen sein (sog. zeitlich gestreckte „gleitende“ Vermögensübertragung; Hinweis\nauf BFH-Urteil vom 03.06.1992, BStBl II 1993, 23). Dies gelte nicht, wenn die Ablösung des Nießbrauchs\nder lastenfreien Veräußerung des Vermögens dient. Im Streitfall sei das Nießbrauchsrecht durch die\nVereinbarung der wiederkehrenden Leistungen abgelöst worden, nicht um das Vermögen lastenfrei zu\nveräußern, sondern um den Betrieb aufzugeben. Nach dem BMF-Schreiben vom 11.03.2010 endet der\nsachliche Zusammenhang der wiederkehrenden Leistungen mit der begünstigten Vermögensübergabe\ngrundsätzlich dann, wenn der Übernehmer den Betrieb aufgibt oder das übernommene Vermögen diesem\nsteuerrechtlich nicht mehr zuzurechnen ist. Die wiederkehrenden Leistungen seien ab diesem Zeitpunkt\nUnterhaltsleistungen i.S.d. § 12 Nr. 2 EStG und dürften beim Übernehmer nicht mehr als Sonderausgaben\nnach § 10 Abs. 1 Nr. 1a EStG abgezogen werden (Hinweis auf BFH-Urteil vom 31.03.2004, BStBl II 2004,\n830). Handelsrechtlich möge es zutreffen, dass die A3-GmbH KG liquidiert worden sei und daher bis zum\nEnde der Liquidation fortbestehe. Steuerrechtlich ende die Mitunternehmerschaft jedoch grundsätzlich mit\nder Betriebsaufgabe und der Feststellung des Veräußerungs- bzw. Aufgabegewinns. Dementsprechend\ngreife auch nicht die von den Klägern zitierte Beweiserleichterung, dass von ausreichend ertragbringendem\nVermögen auszugehen ist, wenn nach überschlägiger Berechnung die wiederkehrenden Leistungen nicht\nhöher sind als der langfristig erzielbare Ertrag des übergebenen Vermögens. Denn diese widerlegbare\nVermutung dafür, dass die Erträge ausreichen, um die wiederkehrenden Leistungen in der vereinbarten\nHöhe zu erbringen, bestehe nur dann, wenn der Betrieb vom Übernehmer fortgeführt wird. Dies sei aber im\nStreitfall nicht der Fall, die A3-GmbH KG sei zum 30.06.2011 aufgegeben und anschließend liquidiert\nworden. Dementsprechend sei auch unmaßgeblich, dass die durchschnittlichen Erträge des Jahres der\nVereinbarung der wiederkehrenden Leistungen und der beiden vorangegangenen Jahre ausreichten, um\ndie dauernde Last abzudecken. Deshalb könne auch außer Acht bleiben, dass evtl. AfA-Beträge oder\nErhaltungsaufwendungen dem steuerlichen Ergebnis noch hinzuzurechnen wären oder die Frage, ob ein\nVeräußerungsgewinn in die Berechnung einbezogen werden kann. Genauso wenig könne es eine Rolle\nspielen, dass die Vermögensübergeberin A5 im Februar 2014 verstorben ist.\n17\nZur Begründung der dagegen erhobenen Klage wird im Wesentlichen die Begründung aus den\nEinspruchsverfahren wiederholt. Es sei unzutreffend, dass die Mitunternehmerschaft steuerrechtlich\ngrundsätzlich mit der Betriebsaufgabe und der Feststellung des Veräußerungs- bzw. Aufgabegewinns zum\n30.06.2011 ende und ein Abzug der dauernden Last als Sonderausgaben folglich nicht möglich sei. Bei der\nAuflösung der Mitunternehmerschaft wechsele die Gesellschaft von der bisher (aktiven) Tätigkeit in eine\nLiquidations-(Abwicklungs-)Gesellschaft. Der bisherige Gesellschaftszweck ändere sich insoweit, dass er\nvon nun an auf die Abwicklung der laufenden Geschäfte, den Ausgleich aller Forderungen und\nVerbindlichkeiten, die Verwertung des Gesellschaftsvermögens und dessen Verteilung an die\nGesellschafter gerichtet ist. Ist dieser Zweck erfüllt, d.h. das Gesellschaftsvermögen ist verwertet und an die\nGesellschafter verteilt worden, sei die Liquidation endgültig abgeschlossen und die Gesellschaft damit\nbeendet. Somit bestehe bis zum Zeitpunkt des endgültigen Abschlusses der Liquidation der Gewerbebetrieb\nder KG steuerrechtlich fort und die Gesellschafter blieben bis dahin Mitunternehmer. Daher sei erst nach\nBeendigung der Liquidation von der „Aufgabe des Betriebs“ zu sprechen. Die im Zusammenhang mit der\nVermögensübertragung vereinbarten wiederkehrenden Leistungen zwischen dem Übergeber und\nÜbernehmer seien folglich erst nach Abschluss der Liquidation, d.h. nach Beendigung der Gesellschaft,\nUnterhaltsleistungen i.S.d. § 12 Nr. 2 EStG. Bis zu diesem Zeitpunkt dürften die wiederkehrenden\nLeistungen beim Übernehmer als Sonderausgaben nach § 10 Abs. 1 Nr. 1a EStG abgezogen werden.\n18\nWie der Aufgabebilanz zum 30.06.2011 entnommen werden könne, seien im Betriebsvermögen der KG\nzum 30.06.2011 noch Wirtschaftsgüter des Anlagevermögens (EDV-Software, Pkw u.a.), Umlaufvermögen\n(Forderungen und sonstige Vermögensgegenstände, Kassen- und Bankbestand),\nRechnungsabgrenzungsposten sowie sonstige Rückstellungen und Verbindlichkeiten (aus Lieferung und\nLeistungen sowie sonstige Verbindlichkeiten) ausgewiesen. Von einer vollständigen Abwicklung der\nGesellschaft und einer Verteilung des Vermögens könne in diesem Zeitpunkt folglich nicht ausgegangen\nwerden. Eine Veräußerung, ein Ausgleich bzw. eine Überführung in das Privatvermögen dieser\nWirtschaftsgüter sei erst nach dem 30.06.2011 erfolgt.\n19\nZum Betriebsvermögen der A3-GmbH KG gehöre die 100%ige Beteiligung an der A3-GmbH (sog. E. GmbH\n& Co. KG). Diese GmbH sei ebenfalls liquidiert worden. Der rechtsgültige Abschluss der Liquidation und die\ndamit zusammenhängende Schlussauskehrung sei erst mit Ablauf des sog. Sperrjahres zum 31.03.2014\nerfolgt. Somit sei eine Beendigung der Liquidation frühestens zu diesem Zeitpunkt möglich, da erst dann\nalle Wirtschaftsgüter entweder veräußert, ausgeglichen oder in das Privatvermögen überführt worden seien\nund folglich erst dann das Gesellschaftsvermögen vollständig verwertet und an die Gesellschafter verteilt\nworden sei.\n20\nDie Vollbeendigung der KG liege erst im Zeitpunkt der Verteilung des Gesellschaftsvermögens an die\nGesellschafter vor. Ungeachtet vom Zeitpunkt der Versteuerung etwaiger Aufgabegewinne/-Verluste\nbetreibe die aufgelöste KG einkommensteuerlich auch während des Abwicklungsstadiums ein gewerbliches\nUnternehmen i.S.d. § 15 EStG. Dies bedeute, dass die Gesellschafter der KG bis zur Beendigung der\nLiquidation weiterhin Mitunternehmer sind (Hinweis auf BFH-Urteil vom 27.04.1978 IV R 187/74, BStBl II 79,\n89, Blümich/Bode, § 15 EStG, Rz. 248, 249). Soweit der Beklagte vorbringe, dass durch die Abwicklung der\nlaufenden Geschäfte und die Verwertung des Vermögens keine Einkünfte, die zur Sicherung der\nVersorgung des Übergebers auch nur teilweise geeignet wären, entstehen, sei dies unerheblich, da die\nFrage, ob das übertragene Vermögen ausreicht, um die Versorgung des Übergebers aus dem\nübernommenen Vermögen zumindest zu einem Teil zu sichern, im Zeitpunkt der Vermögensübertragung\ngeprüft werden müsse.\n21\nDer Klägervertreter beantragt, den geänderten Bescheid über Einkommensteuer und Solidaritätszuschlag\nfür 2011 vom 06.05.2013 sowie den Bescheid über Einkommensteuer und Solidaritätszuschlag für 2012\nvom 14.04.2014, jeweils in Gestalt der Einspruchsentscheidung vom 19.02.2015 dahingehend abzuändern,\ndass die Einkommensteuer jeweils unter Anerkennung der dauernden Last i.H.v. 9.000 € für 2011 und\n18.000 € für 2012 festgesetzt und jeweils entsprechend herabgesetzt wird.\nHilfsweise wird für den Fall des Unterliegens die Zulassung der Revision beantragt, weil noch nicht\nhöchstrichterlich entschieden sei, ob die dauernde Last auch dann anerkannt werden kann, wenn der\nBetrieb aufgegeben wird.\nFür das beklagte Finanzamt wird Klageabweisung beantragt und zur Begründung Folgendes vorgetragen:\n22\nBei der Gewinnermittlung durch Betriebsvermögensvergleich nach § 4 Abs. 1 oder § 5 EStG, die für die\nErmittlung des Werts des Betriebsvermögens bei der Veräußerung oder Aufgabe zwingend vorgeschrieben\nist, seien alle Vorgänge - also auch die Abwicklung der im Aufgabezeitpunkt noch laufenden Geschäfte - im\nGewinn der Gesellschaft enthalten.\n23\nDes Weiteren würden die Kläger verkennen, dass gerade die Verwertung und Verteilung der noch\nvorhandenen Wirtschaftsgüter im Auflösungsgewinn zum 30.06.2011 enthalten sind. Evtl. Veränderungen,\ndie sich durch die tatsächliche spätere Verwertung des Vermögens ergäben, hätten allenfalls als\nrückwirkendes Ereignis Einfluss auf den Veräußerungsgewinn. Keinesfalls aber entstünden durch die\nAbwicklung der laufenden Geschäfte und die Verwertung des Vermögens noch Einkünfte, die zur Sicherung\nder Versorgung des Übergebers auch nur teilweise geeignet wären. Deshalb sei auch unerheblich, dass in\nder Aufgabebilanz zum 30.06.2011 noch Anlagevermögen usw. vorhanden war. Forderungen und\nVerbindlichkeiten seien ohnehin Ausfluss der bisherigen Geschäftstätigkeit und führten nicht zu künftigen\nErträgen.\n24\nGenauso wenig spiele die Liquidation der A3-GmbH eine Rolle, denn auch hier wäre ein evtl. entstandener\nAufgabegewinn bereits zum 30.06.2011 verwirklicht. Eine spätere Verwertung und Verteilung von\nvorhandenem Vermögen, wobei das Vorhandensein bei einer reinen A3-GmbH äußerst zweifelhaft sei,\nsowie die Schlussauskehrung seien reine Vermögensverwendung und führten nicht zu Einkünften i.S.d. § 2\nAbs. 1 EStG.\n25\nAb dem Zeitpunkt der Vereinbarung der Versorgungsleistungen am 01.07.2011 sei jedenfalls kein\nertragbringendes Vermögen mehr vorhanden gewesen.\n26\nWegen weiterer Einzelheiten wird auf den Inhalt der Gerichtsakte und der vorliegenden Steuerakten sowie\nauf die Sitzungsniederschrift vom 25.01.2019 verwiesen.\nEntscheidungsgründe\n27\nDie Klage ist unbegründet. Die angefochtenen Bescheide verletzen die Kläger nicht in ihren Rechten, die\nEinkommensteuer 2011 und 2012 ist nicht zu hoch festgesetzt worden (§ 100 Abs. 1 S.1 FGO). Das\nbeklagte Finanzamt hat zu Recht die Anerkennung der strittigen Zahlungen als Sonderausgaben abgelehnt.\n28\n1. Nach § 10 Abs. 1 Nr. 1a Satz 1 EStG in der für die Streitjahre anzuwendenden Fassung (jetzt: § 10 Abs.\n1a Nr. 2 Satz 1 EStG) gehören zu den Sonderausgaben auch auf besonderen Verpflichtungsgründen\nberuhende, lebenslange und wiederkehrende Versorgungsleistungen. Voraussetzung für ihren Abzug ist,\ndass sie nicht mit Einkünften in wirtschaftlichem Zusammenhang stehen, die bei der Veranlagung außer\nBetracht bleiben, und dass der Empfänger unbeschränkt einkommensteuerpflichtig ist. Die\nAbzugsmöglichkeit gilt nur in den in § 10 Abs. 1 Nr. 1a Satz 2 EStG a. F. benannten Fallgruppen.\nVersorgungsleistungen die im Zusammenhang mit der Übertragung der Beteiligung an einer\nPersonengesellschaft oder an einer GmbH stehen, können demnach unter weiteren Voraussetzungen\ngrundsätzlich zum Sonderausgabenabzug führen.\n29\nUngeachtet des Vorliegens weiterer Voraussetzungen für den Sonderausgabenabzug ist im Streitfall\nFolgendes maßgeblich:\n30\nNach dem Beschluss des Großen Senats des BFH vom 12.05.2003 - GrS 1/00 - (BFHE 202, 464, BStBl II\n2004, 95) sind im Zusammenhang mit einer Vermögensübergabe zur Vorwegnahme der Erbfolge\nvereinbarte wiederkehrende Leistungen dann nicht als dauernde Last abziehbar, wenn sie nicht aus den\nerzielbaren laufenden Nettoerträgen des übergebenen Vermögens gezahlt werden können.\nVersorgungsleistungen stellen nur dann kein Entgelt für das im Gegenzug überlassene Vermögen dar,\nwenn die erzielbaren Nettoerträge des überlassenen Wirtschaftsgutes im konkreten Fall -soweit bei\nüberschlägiger Berechnung vorhersehbarausreichen, um die Versorgungsleistungen abzudecken.\n31\nDer erzielbare Nettoertrag ist nicht notwendigerweise mit den steuerlichen Einkünften identisch. In\nÜbereinstimmung mit der Finanzverwaltung (BMF-Schreiben in BStBl I 2002, 893, Tz. 14) geht der Große\nSenat des BFH in seiner v.g. Entscheidung davon aus, dass den nach steuerlichen Regeln ermittelten\nEinkünften Absetzungen für Abnutzung, erhöhte Absetzungen und Sonderabschreibungen sowie\naußerordentliche Aufwendungen hinzuzurechnen sind.\n32\nDie Ertragsprognose muss auf die Verhältnisse bei Vertragsschluss abstellen. Sind in der Vergangenheit\nausreichende Überschüsse erwirtschaftet worden, so bieten diese einen gewichtigen Anhaltspunkt. Unter\ndiesem Gesichtspunkt hält es der Große Senat des BFH in seiner v.g. Entscheidung daher für zutreffend,\nwenn die Finanzverwaltung -in Anlehnung an R 99 der Erbschaftsteuer-Richtliniender Ertragsprognose den\ndurchschnittlichen Nettoertrag des Jahres der Übergabe und der beiden vorangegangenen Jahre zugrunde\nlegt (BMF-Schreiben in BStBl I 2002, 893, Tz. 15). Wenn sich die im Zeitpunkt der Übergabe vorhandenen,\nnach objektiven Kriterien zu beurteilenden Gewinnerwartungen nicht erfüllt haben, darf das nicht dazu\nführen, dass nachträglich von einem entgeltlichen Geschäft ausgegangen wird und die stillen Reserven des\nübertragenen Vermögens aufgedeckt werden müssen. Es bleibt bei der steuerlichen Einordnung als\nVersorgungsleistungen.\n33\nMaßgebendes Kriterium für die Frage, ob ein Wirtschaftsgut Gegenstand einer unentgeltlichen\nVermögensübergabe gegen Versorgungsleistungen sein kann, ist die Vergleichbarkeit mit dem\nVorbehaltsnießbrauch. Die Vermögensübergabe muss sich so darstellen, dass die vom Übernehmer\nzugesagten Leistungen -obwohl sie von ihm erwirtschaftet werden müssen- als zuvor vom Übergeber\nvorbehaltene -abgespaltene- Nettoerträge vorstellbar sind.\n34\nDer für die Abziehbarkeit als dauernde Last erforderliche sachliche Zusammenhang mit der\nVermögensübergabe wird nicht dadurch unterbrochen, dass sich der Übergeber zunächst den Nießbrauch\nan dem übertragenen Vermögen vorbehalten hat und der Nießbrauch aufgrund eines später gefassten\nEntschlusses durch wiederkehrende Leistungen ersetzt wird (BFH, Urteil vom 03.06.1992 - X R 147/88,\nBFHE 169, 127, BStBl II 1993, 98). In diesem Fall ist es nicht erforderlich, dass die Ablösung bereits im\nÜbergabevertrag vereinbart ist. Es kommt vielmehr darauf an, ob die Versorgungsrente -wenn auch\nbetragsmäßig eingeschränktden ursprünglich vereinbarten Vorbehaltsnießbrauch ersetzt (gleitende\nVermögensübergabe; BFH, Urteil vom 16.06.2004 - X R 50/01, BFHE 207, 114, BStBl II 2005, 130). An\ndiesen Grundsätzen hat der Gesetzgeber bei der Neufassung von § 10 Abs. 1 Nr. 1a EStG durch das JStG\n2008 nichts geändert (BFH, Urteil vom 12.05.2015 - IX R 32/14, BFHE 250, 78, BStBl II 2016, 331).\n35\n2. Für den Streitfall bedeuten diese Grundsätze, denen sich der Senat anschließt, dass der\nSonderausgabenabzug zu versagen ist.\n36\na) Im Streitfall beruhen die strittigen Zahlungen für die Ablösung bzw. die Aufgabe des Nießbrauchs der\nMutter auf dem Übergabevertrag vom 20.01.2000. Zwar ist nach der v.g. Rspr. des BFH im Rahmen der\nVermögensübergabe gegen Versorgungsleistungen eine sog. gleitende Vermögensübergabe, d.h. ein\nÜbergang von Vorbehaltsnießbrauch auf wiederkehrende Versorgungsleistungen steuerrechtlich zulässig.\nJedoch ist im Streitfall zu beachten, dass im unmittelbaren zeitlichen Zusammenhang mit der Vereinbarung\nder wiederkehrenden Leistungen (Versorgungsrente) am 25.07.2011 das übertragene Vermögen, d.h. die\nBeteiligungen an der A-GmbH und an der A3-GmbH KG, durch den Kläger mit Rückwirkung zum\n01.07.2011 veräußert (A-GmbH Beteiligung) bzw. zum 30.06.2011 aufgegeben (A3-GmbH KG) wurden. Die\nnach dem Beschluss des Großen Senats des BFH vom 12.05.2003 - GrS 1/00 (a.a.O.) notwendige\nErtragsprognose bei Vereinbarung einer dauernden Last bezieht sich stets nur auf die Verhältnisse bei\nVertragsschluss (so auch BFH, Urteil vom 08.07.2015 - X R 47/14, juris). Wird ein anlässlich der Übergabe\nvon Vermögen zur Vorwegnahme der Erbfolge zugunsten des Übergebers und/oder dessen Ehegatten\nvorbehaltener Nießbrauch später abgelöst und werden dabei zugunsten des bisherigen Nießbrauchers auf\ndessen Lebenszeit wiederkehrende Leistungen vereinbart, die aus den Erträgen des übergebenen\nVermögens gezahlt werden können, ist im Zweifel davon auszugehen, dass sich der bisherige\nErtragsvorbehalt fortsetzt; an die Stelle des vorbehaltenen Nießbrauchs tritt die Versorgungsrente (BFH,\nUrteil vom 16.06.2004 - X R 50/01, BFHE 207, 114, BStBl II 2005, 130). Daraus folgt nach Auffassung des\nSenats aber, dass aufgrund der Verhältnisse zum Zeitpunkt der Ablösung des Nießbrauchs durch\nwiederkehrende Versorgungsleistungen für die Zukunft die Erwirtschaftung eines ausreichenden Ertrages\naus dem übergebenen, jetzt nicht mehr mit einem Nießbrauch belastetet Vermögens möglich sein muss und\nes somit für die Ertragsprognose nicht auf die Verhältnisse zum Zeitpunkt der Vermögensübertragung unter\ndem Vorbehalt des Nießbrauchs, sondern auf die Ertragsprognose zum - späteren - Zeitpunkt der\nerstmaligen vertraglichen Vereinbarung der Versorgungsrente ankommt. Erst ab diesem Zeitpunkt muss der\nÜbernehmer Erträge aus dem erhaltenen Vermögen selbst erwirtschaften, um die Versorgungsrente zu\nfinanzieren und erst ab Beginn der Zahlung treten die Rechtsfolgen des steuerlich privilegierten\nRechtsinstituts der sog. privaten Versorgungsrente ein (zu Letzterem vgl. BFH, Urteil vom 31.03.2004 - X R\n66/98, BFHE 205, 285, BStBl II 2004, 830). Vertragsschluss i.S.d. vorstehend zitierten Rechtsprechung des\nBFH ist nach Meinung des Senats folglich derjenige, mit dem die Versorgungrente erstmalig vertraglich\nvereinbart wird. Im Streitfall ist die gebotene Ertragsprognose deshalb entgegen der Meinung der Kläger\nnicht zum Zeitpunkt der Vermögensübergabe im Jahr 2000, sondern nach den Verhältnissen zum Zeitpunkt\nder Aufgabe bzw. Ablösung der Nießbrauchrechte zu erstellen, denn zuvor war aufgrund des Nießbrauchs\nvom Übernehmer keine dauernde Last zu erbringen bzw. eine solche überhaupt nicht vereinbart. Das\nErtragsrisiko traf bis dahin nicht den Kläger. Es bedurfte zum Zeitpunkt der Übertragung der Beteiligungen\ngegen Vorbehaltsnießbrauch keiner Ertragsprognose. Bis zur Ablösung der Nießbrauchsrechte waren keine\nbezifferten Nettoerträge in Form einer dauernden Last von der Übergeberin vorbehalten worden, die der\nÜbernehmer zu erwirtschaften und in vereinbarter Höhe als wiederkehrende Leistung an die Übergeberin zu\nzahlen hatte. Solche Leistungen sind erstmalig im Vertrag vom 25.07.2011 ab 01.07.2011 vereinbart\nworden. Auf die Ertragslage in der Vergangenheit bzw. zum Zeitpunkt der Vermögensübertragung im Jahr\n2000 kann nicht abgestellt werden. Vielmehr sind die aktuellen Verhältnisse zum Zeitpunkt des\nVertragsschlusses im Juli 2011 maßgeblich.\n37\nb) Soweit sich die wiederkehrende Leistung auf die Aufgabe des Nießbrauchs an den Gesellschaftsanteilen\nder A-GmbH bezieht, ist ein positiver Ertrag zum Zeitpunkt der Ablösung des Nießbrauchs nicht mehr zu\nerwarten gewesen, denn zum einen haben der Kläger und seine Schwester mit Abtretungsvertrag vom\nselben Tag gegenüber dem Erwerber auf Gewinnausschüttungen der A-GmbH für die Jahre ab 2008 bis\neinschließlich und anteilig auch für 2011 verzichtet. Zum anderen wurden die GmbH - Anteile rückwirkend\nab dem 01.07.2011, d.h. ab dem Tag, ab dem auch die dauernde Last zu erbringen war, abgetreten. Ein\nkünftiger Ertrag aus der A-GmbH Beteiligung war für den Kläger ab diesem Zeitpunkt damit weder zu\nerwarten noch zu erwirtschaften. Der Ertrag aus der Anteilsabtretung an Dritte ist kein laufender Nettoertrag\naus der übergebenen Beteiligung. Wird die Versorgungsrente aus dem Veräußerungserlös bestritten,\nhandelt es sich letztlich um den Verbrauch der Vermögenssubstanz, die zudem nicht mehr in Form des\nübergebenen Vermögens vorhanden ist, sondern in anderer Form, nämlich in Form von Geld bzw.\nForderungen. Im Übrigen ist zu beachten, dass lt. Ziff. III. des Übergabevertrages vom 20.01.2000 Erträge\noder Verluste aus der Aufdeckung stiller Reserven den Gesellschaftern zuzurechnen sind. Insoweit war ein\nNießbrauch zu Gunsten der Mutter nicht vorbehalten worden und brauchte auch nicht abgelöst zu werden.\n38\nc) Gleiches gilt hinsichtlich der Ablösung des Nießbrauchs an den Anteilen an der A3-GmbH KG. Die\nBetriebsaufgabe zum 30.06.2011 bewirkte steuerrechtlich die Beendigung der laufenden Erträge. Aufgrund\nder Bilanzierung zum Aufgabezeitpunkt 30.06.2011 waren - ausstehende - Forderungen ebenso wie\nVerbindlichkeiten bereits erfasst. Aufgabegewinne durch die Auflösung stiller Reserven u.ä. sind dabei\nebenfalls nicht zu berücksichtigen, denn auch hier waren stille Reserven vom Nießbrauch nicht umfasst,\nsodass die dauernde Last nicht dafür als Ablöse vereinbart bzw. gezahlt wurde (vgl. III. des not. Vertrags\nvom 20.01.2000). Unbeachtlich ist nach Meinung des Senats, dass die Liquidationsphase einschließlich der\nBeendigung der Verwaltungs GmbH über den 30.06.2011 bzw. 01.07.2011 hinaus angedauert hat. Denn\nzutreffend weist der Beklagte darauf hin, dass auf die steuerrechtliche Aufgabe zum 30.06.2011 abzustellen\nist. Es liegt für diesen Zeitpunkt eine Aufgabebilanz der A3-GmbH KG vor. Im Übrigen sind laufenden\nErträge des Klägers aus der Beteiligung an der A3-GmbH KG ab dem 01.07.2011, durch die die vereinbarte\nRente beglichen werden konnte, weder dargetan noch ersichtlich. Für 2012 wurden Einnahmen i.H.v. 14,54\n€ und ein Verlust i.H.v. 6.554 € erklärt. Eine positive Ertragsprognose zu diesem Zeitpunkt ist nicht\ngegeben. Für die Zahlung der wiederkehrenden Versorgungsleistung aus dem erhaltenen\nVeräußerungserlös gelten die Ausführungen unter 2.b) entsprechend.\n39\nd) Die Auffassung des Senats zur Beendigung der Abziehbarkeit der Versorgungsleistungen steht im\nEinklang mit der höchstrichterlichen Rechtsprechung.\n40\nZwar hat der Große Senat des BFH die Frage, wann die Abziehbarkeit von Versorgungsleistungen endet, in\nseiner Entscheidung vom 12.05.2003 - GrS 1/00 offengelassen. Aber aus dem amtlichen Leitsatz zu dieser\nEntscheidung ergibt sich deutlich, dass es sich um laufende Nettoerträge des übergebenen Vermögens\nhandeln muss. Dem entsprechen Zahlungen der Versorgungsrente aus Mitteln eines Veräußerungs- oder\nAufgabeerlöses bzw. -gewinns nicht (s.o. 2. b)).\n41\nZudem endet nach der Rechtsprechung des 10. Senats des BFH (BFH, Urteil vom 17.06.1998 - X R 104/94,\nBFHE 186, 280, BStBl II 2002, 646) die Abziehbarkeit der Versorgungsleistungen, wenn das übergebene\nexistenzsichernde Vermögen vom Übernehmer später veräußert wird. Das soll auch dann gelten, wenn der\nÜbernehmer mit dem Veräußerungserlös z.B. ein Ersatzgrundstück erwirbt (BFH, Urteil vom 17.06.1998 - X\nR 129/96, BFH/NV 1999, 294). Nach dem BFH-Urteil vom 31.03.2004 - X R 66/98 (a.a.O.) endet mit der\nVeräußerung oder dem Verbrauch des übergebenen Vermögens die Abziehbarkeit der dauernden Last\njedenfalls auch dann, wenn kein Ersatzwirtschaftsgut erworben wird. Der Veräußerung, wie mit der\nBeteiligung an der A-GmbH geschehen, ist im Streitfall die Aufgabe der A3-GmbH KG zum 30.06.2011\ngleichzustellen, denn auch dadurch kann aus dem übergebenen Vermögen kein - laufender - Ertrag mehr\nerwirtschaftet werden, das existenzsichernde Vermögen als Einkunftsquelle für den Übernehmenden\nentfällt. Im Übrigen war die Fortsetzung der dauernden Last an den Erträgen eines Surrogats weder\nvereinbart noch wurde ein Ersatzwirtschaftsgut erworben.\n42\ne) Auch als letzte (Geld-)Leistung im Zusammenhang mit der Vermögensübergabe ist die Ablösezahlung\nnach zutreffender Rechtsprechung (vgl. BFH, Urteil vom 31.03.2004 - X R 66/98, a.a.O. m.w.N.) nicht als\ndauernde Last abzugsfähig. Die fehlende Abziehbarkeit der Ablösezahlung ist darin begründet, dass mit der\nAblösezahlung die Voraussetzungen für die Privilegierung der Unterhaltszahlungen als abziehbare private\nVersorgungsrente entfallen. Lösen die Vertragsparteien eines Übergabevertrags die Versorgungsleistungen\nab und beenden sie damit den Transfer vorbehaltener Erträge oder veräußert der Vermögensübernehmer\ndas übertragene Vermögen ohne Anschaffung eines Surrogats, enden damit auch die Rechtsfolgen des\nsteuerlich privilegierten Rechtsinstituts der sog. privaten Versorgungsrente. Die Leistungen und Bezüge\nsind folglich nicht mehr als Sonderausgaben abziehbar und daher beim Berechtigten nicht steuerbar. Es\ngelten vielmehr mit Wirkung für die Zukunft die allgemeinen Grundsätze des Einkommensteuerrechts.\nWenn, soweit und sobald sich die vom Übernehmer erbrachte bzw. zu erbringende Leistung nicht mehr als\nTransfer vorbehaltener Erträge darstellt, ist für eine Anwendung des Sonderrechts der Vermögensübergabe\ngegen Versorgungsleistungen kein Raum mehr. Nach den dann wieder anwendbaren allgemeinen\nRechtsgrundsätzen sind Ablösezahlungen beim Vermögensübernehmer nicht abziehbare und beim\nVermögensübergeber nicht steuerbare Unterhaltsleistungen. Die von den Parteien des Übergabevertrags\nals unentgeltlich gewollte Vermögensübertragung verändert durch die Ablösezahlung nicht ihren Charakter,\nes ändert sich lediglich die steuerliche Beurteilung der Leistung.\n43\nAn dieser Rechtsauffassung ändert sich auch dadurch nichts, dass die Ablösezahlung selbst als\nwiederkehrende (Renten-) Zahlung vereinbart wird, wenn im zeitlichen Zusammenhang damit das\nübergebene, jetzt unbelastete Wirtschaftsgut veräußert oder aufgegeben wird. (vgl. BFH, Urteil vom\n31.03.2004 - X R 66/98, a.a.O.).\n44\nSo sind die Verhältnisse im Streitfall. Sowohl die Betriebsaufgabe der A3-GmbH KG, als auch die\nVeräußerung der Beteiligung an der A-GmbH sind geplant im zeitlichen Zusammenhang mit der Ablösung\nbzw. Aufgabe des Nießbrauchs an den übertragenen Beteiligungen erfolgt.\n45\nDie geltend gemachten Zahlungen an die Mutter des Klägers wurden daher zu Recht bei den\nEinkommensteuerfestsetzungen für die Streitjahre nicht berücksichtigt.\n46\n3. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n47\n4. Gründe für die Zulassung der Revision nach § 115 Abs. 2 FGO liegen nicht vor. Die zur Begründung des\nHilfsantrags der Kläger herangezogene Frage, ob die dauernde Last auch dann anerkannt werden kann,\nwenn der - übergebene - Betrieb bzw. die Beteiligung aufgegeben wird, lässt sich aus der unter 2. d) und e)\ndargestellten Rechtsprechung des BFH, die der Senat seiner Entscheidung zugrunde gelegt hat,\nhinreichend beantworten, d.h. verneinen. Sie bedarf nach Auffassung des Senats deshalb keiner weiteren\nhöchstrichterlichen Klärung.\n\n"
+}

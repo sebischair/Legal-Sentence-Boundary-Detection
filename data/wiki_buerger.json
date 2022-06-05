@@ -1,0 +1,755 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bürger",
+            "end": 6,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 103,
+            "start": 93,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gemeinde",
+            "end": 233,
+            "start": 225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stimmrecht",
+            "end": 456,
+            "start": 446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausübt",
+            "end": 692,
+            "start": 686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahlrecht",
+            "end": 363,
+            "start": 354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedeuten",
+            "end": 821,
+            "start": 813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Akteure",
+            "end": 1100,
+            "start": 1093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "grundrechtsverpflichtet",
+            "end": 1175,
+            "start": 1152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemeint",
+            "end": 1000,
+            "start": 993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschichte",
+            "end": 1188,
+            "start": 1178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadtrecht",
+            "end": 1342,
+            "start": 1332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besitz",
+            "end": 1453,
+            "start": 1447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besaßen",
+            "end": 1711,
+            "start": 1704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 2007,
+            "start": 1997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 1945,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgedehnt",
+            "end": 2194,
+            "start": 2184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Untertanen",
+            "end": 2430,
+            "start": 2420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Republik",
+            "end": 2512,
+            "start": 2504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürger",
+            "end": 2544,
+            "start": 2538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2603,
+            "start": 2601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "castrum",
+            "end": 2716,
+            "start": 2709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "municipium",
+            "end": 2988,
+            "start": 2978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehörten",
+            "end": 3357,
+            "start": 3349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 3410,
+            "start": 3405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Orte",
+            "end": 3060,
+            "start": 3056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichsetzt",
+            "end": 3742,
+            "start": 3731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachweisbar",
+            "end": 4121,
+            "start": 4110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfreuten",
+            "end": 4370,
+            "start": 4361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwähnt",
+            "end": 4539,
+            "start": 4532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahrhunderts",
+            "end": 4469,
+            "start": 4457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Böhmen",
+            "end": 4984,
+            "start": 4978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Irland",
+            "end": 4864,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4927,
+            "start": 4924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antike",
+            "end": 4997,
+            "start": 4991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Griechenland",
+            "end": 5011,
+            "start": 4999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebräuchlich",
+            "end": 3919,
+            "start": 3907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Griechenland",
+            "end": 5085,
+            "start": 5073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 5361,
+            "start": 5353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dies",
+            "end": 5627,
+            "start": 5623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veränderte",
+            "end": 6060,
+            "start": 6050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorgangs",
+            "end": 6266,
+            "start": 6258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 5896,
+            "start": 5890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrifft",
+            "end": 6419,
+            "start": 6411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rom",
+            "end": 6427,
+            "start": 6424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6738,
+            "start": 6733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 6591,
+            "start": 6581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Städte",
+            "end": 6643,
+            "start": 6637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 7161,
+            "start": 7156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sum",
+            "end": 7398,
+            "start": 7395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 7437,
+            "start": 7425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7690,
+            "start": 7685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekommen",
+            "end": 7841,
+            "start": 7833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freilassung",
+            "end": 7930,
+            "start": 7919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klienten",
+            "end": 8048,
+            "start": 8040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 7541,
+            "start": 7534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "binden",
+            "end": 9015,
+            "start": 9009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "municipium",
+            "end": 8218,
+            "start": 8208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einbrachte",
+            "end": 8727,
+            "start": 8717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 8905,
+            "start": 8899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzutreten",
+            "end": 8560,
+            "start": 8549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterexistierten",
+            "end": 9161,
+            "start": 9144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeweicht",
+            "end": 9371,
+            "start": 9360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzutreten",
+            "end": 9280,
+            "start": 9269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9638,
+            "start": 9632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neuzeit",
+            "end": 9670,
+            "start": 9663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürgerrecht",
+            "end": 10018,
+            "start": 10007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genoss",
+            "end": 9815,
+            "start": 9809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beisassen",
+            "end": 9878,
+            "start": 9869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschieden",
+            "end": 10270,
+            "start": 10257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10627,
+            "start": 10613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klein",
+            "end": 10718,
+            "start": 10713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stadt",
+            "end": 10491,
+            "start": 10486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhielt",
+            "end": 11165,
+            "start": 11158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 11427,
+            "start": 11424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 11752,
+            "start": 11747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 11269,
+            "start": 11262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 11019,
+            "start": 11016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollten",
+            "end": 11555,
+            "start": 11548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürger",
+            "end": 12257,
+            "start": 12251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wohnrechtes",
+            "end": 12349,
+            "start": 12338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ging",
+            "end": 12115,
+            "start": 12111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "um",
+            "end": 12382,
+            "start": 12380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 11964,
+            "start": 11958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwesen",
+            "end": 12473,
+            "start": 12466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtshoheit",
+            "end": 12754,
+            "start": 12740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrafen",
+            "end": 12605,
+            "start": 12597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Privilegien",
+            "end": 12902,
+            "start": 12891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehden",
+            "end": 13102,
+            "start": 13096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spätmittelalter",
+            "end": 13394,
+            "start": 13379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzulösen",
+            "end": 13672,
+            "start": 13662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährte",
+            "end": 13538,
+            "start": 13530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnten",
+            "end": 13348,
+            "start": 13341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfasste",
+            "end": 13895,
+            "start": 13887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 13994,
+            "start": 13987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenwart",
+            "end": 14006,
+            "start": 13997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 14019,
+            "start": 14008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ebene",
+            "end": 14037,
+            "start": 14032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürgerrecht",
+            "end": 14219,
+            "start": 14208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 14556,
+            "start": 14548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genießen",
+            "end": 14835,
+            "start": 14827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ebene",
+            "end": 14853,
+            "start": 14848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriff",
+            "end": 14941,
+            "start": 14934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterschiede",
+            "end": 15084,
+            "start": 15072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15164,
+            "start": 15161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzt",
+            "end": 15260,
+            "start": 15253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wohnt",
+            "end": 15399,
+            "start": 15394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "und",
+            "end": 15343,
+            "start": 15340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 15501,
+            "start": 15498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gliederung",
+            "end": 15566,
+            "start": 15556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 15956,
+            "start": 15948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schweiz",
+            "end": 15970,
+            "start": 15963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriff",
+            "end": 16053,
+            "start": 16046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stimmrecht",
+            "end": 16119,
+            "start": 16109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identisch",
+            "end": 16299,
+            "start": 16290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungslegung",
+            "end": 16583,
+            "start": 16568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürger",
+            "end": 16413,
+            "start": 16407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürgerrecht",
+            "end": 16235,
+            "start": 16224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gemeinden",
+            "end": 16667,
+            "start": 16658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 16757,
+            "start": 16750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kanton",
+            "end": 16806,
+            "start": 16800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Israel",
+            "end": 16815,
+            "start": 16809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 16974,
+            "start": 16968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 17051,
+            "start": 17045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landes",
+            "end": 17159,
+            "start": 17153,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Bürger\r\nAls Bürger (lateinisch civis) werden die Angehörigen eines Staates und einer Kommune bezeichnet.\r\nIm staatsrechtlichen Sinne ist der Staatsangehörige der Staatsbürger, auf kommunaler Ebene der Bürger einer Stadt oder Gemeinde. Aus der Staatsangehörigkeit resultieren die bürgerlichen Ehrenrechte (Rechte und Befugnisse), wie aktives und passives Wahlrecht. In einzelnen Staaten wie der Schweiz hat der Bürger neben dem Wahlrecht noch das Stimmrecht. Das Kommunalrecht unterscheidet den „Gemeindebürger“, der als Staatsangehöriger zur politischen Mitwirkung berechtigt ist, vom „Einwohner“ der Gemeinde, jemand, der dort lediglich wohnt, aber dort nicht seine politischen Rechte ausübt.\r\nIn einem weiteren Sinn kann Bürger aber auch alle Menschen unabhängig von ihrer Staatsangehörigkeit oder Nationalität bedeuten. Dann ist die allen liberalen Verfassungen zugrunde liegende Unterscheidung zwischen Staat und Gesellschaft (früher: Obrigkeit und Untertan – dazu Staat und Gesellschaft) gemeint. Bürger sind dann alle Personen (Zivilpersonen) als gesellschaftliche, also nichtstaatliche Akteure. Sie sind grundrechtsberechtigt, der Staat dagegen grundrechtsverpflichtet.\r\nGeschichte\r\nIm europäischen Mittelalter waren Bürger im Sinne der Ständeordnung Bewohner einer befestigten (sie bergenden, schützenden) Stadt mit eigenem Stadtrecht. Sie unterschieden sich vom einfachen Einwohner durch besondere Bürgerrechte, das heißt Privilegien und Besitz.\r\nEinen minderen Rechtsstatus besaßen „Ausbürger“, meist Adlige, die keinen voll gültigen Wohnsitz mit Steuerpflicht und Mitbestimmungsrecht in der Stadt, sondern wegen ihrer Immunitätsrechte lediglich ein Wohnrecht ohne Beteiligung am Stadtregiment besaßen. „Pfahlbürger“ lebten ebenfalls mit eingeschränkten Rechten innerhalb der Ummauerung oder in den Vorstädten, zahlten aber nur reduzierte Steuern und konnten nach Erwerb des erforderlichen Grundvermögens das volle Bürgerrecht erhalten. Beide Personengruppen wurden auch als „Mitbürger“ bezeichnet.\r\nAusgelöst durch die französische Revolution wurden schließlich die Rechte der Bürger (fr. citoyen) durch Verfassungen auf jedes männliche vollberechtigte Glied eines Staates ausgedehnt.\r\nAls sich in der Zeit des Absolutismus die moderne Staatsgewalt herausbildete, bezeichnete man die Staatsangehörigen, welche einem mit legalen Mitteln nicht absetzbaren Regime – etwa einer Monarchie – unterworfen waren, als Untertanen. In diesem Sinne steht der Untertan im Gegensatz zum freien Bürger einer Republik.\r\nEtymologie des Wortes „Bürger“\r\nDas Wort Bürger leitet sich von burga (ahd. ‚Schutz‘) ab. Das spätlateinische bŭrgus ist ein Lehnwort (got. baúrgs) für kleine Befestigungsanlagen[1] (lateinisch castrum). Als Burgen im weiteren Sinne (lateinisch oppidum) wurden aber auch befestigte Ortschaften, also mit Palisaden gesicherte Dörfer bezeichnet[2], später auch ummauerte Marktflecken, in denen sich Gewerbetreibende und Händler niederließen[3] – im Unterschied zum municipium. Bürger in diesem Sinne waren die wehrpflichtigen Bewohner solcher Orte. Etymologisch steckt im Wort Burg das Verb bergen, von dem sich auch die Geborgenheit ableitet, was in der Frühgeschichte die Flucht auf den Berg meinte (wo sich oft die Fliehburgen befanden). Bürger sind also von Burgmannen zu unterscheiden, die zur besoldeten Wachmannschaft einer Burg gehörten.[4]\r\nIm Keltischen steht bona für „Gründung“, „Stadt“.[5] Im Althochdeutschen erscheint burgari „erstmals in den am Ende des 8. Jh. verfassten Mondseer Fragmenten in der Wendung ‚alle dhea burgera fuorum ingegin Ihesuse‘, welche lat. ‚tota civitas exiit obviam Jesu‘ (Mt 8,34) wiedergibt und damit alle burgari mit einer nicht näher bezeichneten civitas (bei Luther: stad) gleichsetzt.“[6] Im Englischen ist borough (und speziell in Schottland in der Form burgh) als Bezeichnung für eine Stadt mit Stadtrechten, also für eine freie Stadt, weiterhin gebräuchlich. Mit der normannischen Eroberung im 11. Jahrhundert wurde das anglo-saxonische burh zu bŭrgus (bury, borough, burgh)[7] und Einwohner dieser Ortschaften sind in Urkunden als „Stadtbewohner“ nachweisbar. „Das Wort ‚Bürger’ (lateinisch burgensis), anscheinend eine Prägung aus ebenjener Zeit, wurde geschaffen, um Personen zu bezeichnen, die sich des neuen Rechtsstatus eines vollwertigen Mitgliedes einer mit Stadtrechten versehenen Gemeinde erfreuten. […] Die ersten Belege finden sich in Lothringen, Nordfrankreich und Flandern des 11. Jahrhunderts. In der Stadtrechtsverleihung für Huy von 1066 sind burgenses erwähnt. Auf den Britischen Inseln findet sich das Wort im Jahre 1086 im Domesday Book mit Bezug auf England und das nordwalisische Rhuddlan; in der ersten Hälfte des 12. Jahrhunderts taucht der Begriff auch in Schottland auf, und im Stadtrechtsprivileg König Heinrich II. für Dublin aus den 1170er Jahren schließlich auch in Irland. Nach Osten hin drang dieser Terminus ins slawische Europa vor; die erste Erwähnung findet sich im Jahre 1223 in Böhmen.“[8]\r\nAntike\r\nGriechenland\r\nDer Bürgerbegriff hat seine historischen Wurzeln im antiken Griechenland. Nach Aristoteles’ berühmter Definition (Politik III, 1275a22ff.) ist der Bürger (griechisch πολίτης – polites = ‚der zur Stadt (πόλις – Polis) Gehörende‘) durch seine „Teilhabe am Richten (griechisch κρίσις – krisis) und an der Herrschaft (griechisch ἀρχή – arche)“ bestimmt.\r\nIn der athenischen Demokratie des fünften vorchristlichen Jahrhunderts, an der dieser Begriff entwickelt wurde (und, strenggenommen, galt er nur für diese resp. für die gleich oder ähnlich verfassten, demokratischen Poleis des antiken Griechenland) bedeutete dies: Bürger (im vollen Sinne des Wortes) war derjenige, der an den zahlreichen Gerichtshöfen als Richter fungieren und an den mindestens viermal pro Monat stattfindenden Volksversammlungen, in denen über alle wichtigen Fragen der Polis entschieden wurde, teilnehmen konnte. Dieser Begriff war das Ergebnis eines langen und komplexen Prozesses, während dessen sich das Verständnis der Zugehörigkeit zum Gemeinwesen grundlegend veränderte; er spielte sich gleichzeitig mit der Entstehung der Polis und der Demokratie ab (also ungefähr von der Mitte des 8. bis zur Mitte des 5. Jahrhunderts v. Chr.) und war ein wesentlicher Teil dieses Vorgangs.\r\nVon griechisch πολίτης – polites abgeleitet ist unser heutiges Wort Politik (griechisch πολιτικά– politiká: das, was den Bürger und die Stadt betrifft‘).\r\nRom\r\nDas römische Bürgerrecht war anfangs wie in den griechischen Poleis nur auf die Einwohner der einen Stadt Rom und die Bauern der umgebenden Landstriche beschränkt. Daneben existierten die Stadtrechte anderer Städte. Es war ein Geburtsrecht, das den jungen Männern zusammen mit der Toga virilis verliehen wurde.\r\nDer Civis, der Alteingesessene, durfte im Gegensatz zum Zugezogenen (lateinisch Peregrinus), Gast (lateinisch Hostis, Hospes) und zum Bundesgenossen (lateinisch Socius) an der gesetzgebenden Volksversammlung und an der Wahl teilnehmen, wobei die einzelne Stimme abhängig von Vermögen und Wahlbezirk (lateinisch Tribus) unterschiedliches Gewicht hatte, oder auch selbst Ämter übernehmen, wenn er genügend Geld dafür hatte. Seine Geschäfte, auch mit Nichtrömern, waren durch die römischen Gesetze geschützt, und sollte er in Schwierigkeiten geraten oder eines Verbrechens angeklagt werden, so konnte er sich auf Vorrechte berufen (lateinisch Civis romanus sum). Er war zum Kriegsdienst verpflichtet; über die Truppengattung entschied sein Vermögenszensus, denn seine Ausrüstung musste er selbst stellen. Der römische Civis durfte nur Bürgerinnen heiraten (ein Grund, weshalb die Ehe zwischen Marcus Antonius und Cleopatra als skandalös angesehen wurde).\r\nAndererseits war es für Peregrini und Socii durchaus möglich, für persönliche Verdienste, besonders im Krieg, das Bürgerrecht verliehen zu bekommen. Auch Freigelassene konnten das Bürgerrecht erhalten, meist zusammen mit der Freilassung. Mit dem Bürgerrecht erhielt der Neubürger den Namen dessen, der es ihm verliehen hatte, und wurde zu dessen Klienten.\r\nMit der Ausbreitung des römischen Einflussgebietes erhielt das römische Bürgerrecht einen höheren Status als die Bürgerrechte der einverleibten Städte (vgl. municipium). Diese Socii (Bundesgenossen) oder foederati (Verbündete) waren zwar verpflichtet, als Hilfskräfte an den römischen Kriegen teilzunehmen, besaßen aber weder Mitbestimmungsrechte noch die Privilegien, die römische Bürger genossen, wie z. B. eine gewisse Immunität vor Gericht und die Möglichkeit, in die besser bezahlten Legionen einzutreten. Dieser Zustand führte zum Bundesgenossenkrieg (91–88 v. Chr.), der allen italischen Stämmen zwischen Po und Golf von Tarent das volle römische Bürgerrecht einbrachte.\r\nNichtitaler konnten das Bürgerrecht für sich und ihre Nachkommen erwerben, wenn sie nach Ableistung der vollen Zeit als Auxiliarkräfte ehrenvoll aus der Armee entlassen wurden. Auch wurde den Anführern eroberter Gebiete das Bürgerrecht verliehen, um sie an das Römische Reich zu binden.\r\nMit dem Ende der römischen Republik endete auch das bürgerliche Mitbestimmungsrecht, obwohl der Senat und die Ämter offiziell weiterexistierten. Civis zu sein bedeutete jetzt nur noch einen sichereren Rechtsstatus und die Möglichkeit, in die Legionen einzutreten. Ersteres wurde schon bald zugunsten der Bevorzugung der Reichen vor den Armen aufgeweicht.\r\nIm Jahr 212 erteilte Caracalla mit der Constitutio Antoniniana allen Einwohnern des römischen Reiches das Bürgerrecht, einerseits um die Identifikation der verschiedenen Völker mit dem Reich zu fördern, andererseits um leichter neue Legionäre rekrutieren zu können.\r\nMittelalter und frühe Neuzeit\r\nIn der mittelalterlichen Verfassung einer Stadt war ein Bürger ein vollwertiges Mitglied der Gemeinschaft, der alle Rechte und Pflichten genoss. Die übrigen Bewohner des Ortes hießen Inwohner oder Beisassen. Im Frühmittelalter besaßen zunächst nur die Mitglieder der städtischen Oberschicht, die aus ratsfähigen Familien stammten, das Bürgerrecht. Später weitete sich die Bürgerschaft aus, bis zunehmend auch Einwohner ohne Immobilienbesitz das Bürgerrecht erhalten konnten oder Beisassen eigene „Beisassenrechte“ eingeräumt wurden, die sich nur geringfügig von den Rechten der Bürger unterschieden.\r\nWichtigste und zumindest im Früh- und Hochmittelalter unabdingbare Voraussetzung für die Bürgerschaft war der Immobilienbesitz, genauer der Besitz eines grundsteuerpflichtigen Anwesens innerhalb der Gemeinde oder Stadt. Besitzer von kleinen Häusern, die auf den Grundstücken der Bürger errichtet waren, waren damit zunächst vom Bürgerrecht ausgeschlossen. Die Anzahl der Bürger war damit im Vergleich zur Zahl der Einwohner vergleichsweise klein. Weitere Voraussetzungen waren die ehrliche Geburt, das heißt dass man ehelich geboren sein musste und nicht von Henkern, Totengräbern und sonstigen „unehrlichen“ Berufen abstammte, ein Mindestvermögen und die Tatsache, dass man zum Zeitpunkt der Aufnahme nicht in Rechtsstreitigkeiten verwickelt war.\r\nDer Titel Bürger, in alten Aufzeichnungen wie Matrikeln oft lateinisch civis genannt, war kein Titel, den man erbte oder auf Lebenszeit erhielt. Vielmehr musste er beantragt werden und wurde bei Vorliegen der entsprechenden Voraussetzungen gewährt. Diese Aufnahme in die Bürgerschaft wurde in der so genannten Bürgerrolle dokumentiert, wobei auch eine entsprechende Gebühr, das „Bürgergeld“,[9] fällig war. Dieses Bürgergeld konnte auch gestundet werden – eine Maßnahme zu der Städte dann griffen, wenn sie Neubürger anwerben wollten. Rechtskräftig wurde die Aufnahme erst mit der Teilnahme des Neubürgers am Gesamtschwur, der meist beim Zusammentreten eines neu formierten Stadtrates von der gesamten Bürgerschaft geleistet wurde.\r\nBei Wegfall der Voraussetzung, insbesondere dem Verkauf oder Übergabe des Hauses, welches das Bürgerrecht begründete, verfiel das Bürgerrecht wieder und der Bürger kehrte auf den Status eines Einwohners zurück.\r\nWenn also der Sohn eines Ackerbürgers das väterliche Anwesen übernahm, konnte er damit das Bürgerrecht beantragen, das damit dem Vater verloren ging. Viele Handwerker ohne Nachfolger innerhalb der Familie verpachteten ihren Betrieb an einen Inwohner, blieben aber als Eigentümer noch Bürger. Häufig verkauften sie später das Anwesen an den Pächter unter Einräumung eines Wohnrechtes. Damit kehrte sich der Status um: der neue Eigentümer erhielt das Bürgerrecht, der alte wohnte als Inwohner auf dem Anwesen.\r\nMit der Aufnahme in die Bürgerschaft gingen verschiedene Pflichten einher, die die Inwohner nicht oder in geringerem Maß betrafen. Sie umfassten verschiedene Steuern, Wach- und Wehrdienst, Arbeitspflicht bei öffentlichen Bauarbeiten, die Bindung an die städtische Gerichtshoheit. Das Bürgerrecht umfasste neben der oft nach Einkommen abgestuften politischen Teilnahme und der Freiheit gegenüber Grundherren weitere Privilegien. So garantierte die Stadt den Rechtsschutz des Bürgers gegenüber äußeren Forderungen, beispielsweise gegenüber Gläubigern, kaufte Bürger aus der Gefangenschaft frei oder führte für ihre Bürger Fehden.\r\nSpezialformen waren das Pfahlbürgertum, das Personen, die außerhalb der Stadt wohnten, einen Teil der Bürgerrechte gewährte, und das Ausbürgertum, mit dem auswärtige Adlige, die Grundbesitz in der Stadt hatten, das Bürgerrecht erwerben konnten. Beide Formen verschwanden im Spätmittelalter. Die Kleriker hatten in den meisten Städten einen Sonderstatus inne, der sie vom Bürgerrecht ausschloss, ihnen aber einige Privilegien gewährte. Im Verlauf des Mittelalters bemühten sich viele Städte um die Einbürgerung der Geistlichen, um die Privilegien der Kirche aufzulösen.\r\nDie Juden besaßen in den meisten Städten seit der Kammerknechtschaft 1236 ein eingeschränktes Bürgerrecht, das oft nur das Wahlrecht zum Stadtrat ausschloss und einen speziellen „Judeneid“, analog zum Bürgereid, umfasste. Nach den Judenpogromen um 1350 wurde dieses Recht meist nur noch auf Jahresfrist begrenzt erteilt.\r\nGegenwart\r\nDeutschland\r\nStaatliche Ebene\r\nMit der Verwirklichung der allgemeinen und freien Wahlen in der Weimarer Verfassung von 1919 erhielten alle deutschen Einwohner des Deutschen Reiches das volle (Staats-)Bürgerrecht.\r\nBis heute ist die Staatsbürgerschaft an das ius sanguinis gekoppelt, das heißt der volle Umfang aller staatsbürgerlichen Rechte (insbesondere Wahlrecht, Niederlassungsfreiheit, konsularische Unterstützung im Ausland) ist bis auf wenige Ausnahmen des Einbürgerungsrechtes vornehmlich an die Abstammung bereits deutscher Eltern gebunden. Durch die erweiterte Form des Staatszugehörigkeitsrechtes für Minderjährige nicht-deutscher Herkunft erlangen diese jedoch bis zur Vollendung des 18. Lebensjahres einen Rechtsstatus, der sich den minderjährigen Deutschen annähert, die ja auch keine vollen Bürgerrechte genießen.\r\nKommunale Ebene\r\nDie Definition des Bürgers ist auf der Ebene der Kommunen ein klar definierter Begriff. Auch wenn er in den einzelnen Gemeindeordnungen in unterschiedlicher Weise umschrieben wird, bestehen im Kern keine wesentlichen Unterschiede. Bürger ist,\r\n    wer Deutscher im Sinne des Artikels 116 des Grundgesetzes ist\r\n    oder die Staatsangehörigkeit eines anderen Mitgliedsstaates der Europäischen Union besitzt,\r\n    das 18. Lebensjahr (in einigen Ländern das 16. Lebensjahr) vollendet hat und\r\n    seit mindestens drei Monaten in der Gemeinde wohnt.\r\nWer in mehreren Gemeinden wohnt, ist Bürger nur in der Gemeinde, in der er seinen Hauptwohnsitz hat.\r\nSomit gibt es letzte Elemente der alten ständischen Gliederung: Bürger haben alle Rechte und Pflichten eines Einwohners, jedoch zusätzlich das aktive und passive Stimmrecht bei Gemeinderatswahlen und sonstigen Gemeindeangelegenheiten (Bürgerbegehren, Bürgerentscheid, Anhörung bei Gemeindegebietsänderungen) sowie die Pflicht, eine ehrenamtliche Tätigkeit in der Gemeinde anzunehmen und eine gewisse Zeit auszuüben, wenn keine Hinderungsgründe bestehen.[10]\r\nSchweiz\r\nDer Begriff „Bürger“ ist in der Schweiz ein klar definierter juristischer Begriff. Es umfasst nicht bloß das Wahlrecht, sondern auch das Stimmrecht. Das Bürgerrecht ist ein von einer Gemeinde verliehenes Recht, das vererbbar ist – siehe auch Schweizer Bürgerrecht. Die Begriffe Einwohner und Bürger sind deshalb nicht identisch. Grundsätzlich hat der Schweizer ein Gemeindebürgerrecht und daraus folgt der Kantonsbürger oder Schweizer Bürger. Die von der Einwohnergemeinde oft separaten Bürgergemeinden, sowie auch die Burgergemeinden sind eigenständige Körperschaften mit Behörden, Vermögen und Rechnungslegung.\r\nDiese Bürger- und Burgergemeinden sind Nachfolger der mittelalterlichen Gemeinden; sie mussten spätestens mit der Bundesverfassung von 1848 Teile ihrer Kompetenzen abgeben. Die Regelungen divergieren von Kanton zu Kanton.\r\nIsrael\r\nEin Gericht in Jerusalem entschied im Oktober 2013,[11] dass Bürger des Staates Israel sich nicht als „Israelis“ beim Einwohneramt registrieren lassen dürfen; sie dürfen sich nur als Jude, als Araber oder als Druse registrieren lassen. Kritiker rezipierten dies als einen Beleg für die Diskriminierung von nicht-jüdischen Bewohnern des Landes.[12] \n"
+}

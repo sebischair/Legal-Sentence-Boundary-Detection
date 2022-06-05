@@ -1,0 +1,623 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleich",
+            "end": 136,
+            "start": 127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 149,
+            "start": 137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 167,
+            "start": 166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 181,
+            "start": 179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 198,
+            "start": 197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 207,
+            "start": 199,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 749,
+            "start": 748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 855,
+            "start": 849,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 871,
+            "start": 870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 883,
+            "start": 872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleich",
+            "end": 1103,
+            "start": 1094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1114,
+            "start": 1104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1169,
+            "start": 1167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1180,
+            "start": 1170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3631",
+            "end": 1199,
+            "start": 1195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1205,
+            "start": 1200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1428,
+            "start": 1414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1436,
+            "start": 1430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1438,
+            "start": 1437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1441,
+            "start": 1440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geführt",
+            "end": 1504,
+            "start": 1497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgegeben",
+            "end": 1623,
+            "start": 1611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 1693,
+            "start": 1683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingelegt",
+            "end": 1812,
+            "start": 1803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 1948,
+            "start": 1942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 2031,
+            "start": 2021,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2132,
+            "start": 2131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 2477,
+            "start": 2476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewilligen",
+            "end": 2766,
+            "start": 2756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bei",
+            "end": 2874,
+            "start": 2871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstrecken",
+            "end": 2964,
+            "start": 2954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzustellen",
+            "end": 3282,
+            "start": 3269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewilligt",
+            "end": 3374,
+            "start": 3365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstreckt",
+            "end": 3420,
+            "start": 3411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3635,
+            "start": 3632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatskasse",
+            "end": 3744,
+            "start": 3733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RVG",
+            "end": 3937,
+            "start": 3934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 4156,
+            "start": 4142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingelegt",
+            "end": 4256,
+            "start": 4247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 4441,
+            "start": 4432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprochen",
+            "end": 4587,
+            "start": 4576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 4857,
+            "start": 4852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeholfen",
+            "end": 4986,
+            "start": 4976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 5066,
+            "start": 5056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 5262,
+            "start": 5257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 5459,
+            "start": 5450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 5647,
+            "start": 5642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 5706,
+            "start": 5698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 5760,
+            "start": 5753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5864,
+            "start": 5858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RVG",
+            "end": 5919,
+            "start": 5916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 5922,
+            "start": 5921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 5996,
+            "start": 5987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 6000,
+            "start": 5998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 6003,
+            "start": 6002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6075,
+            "start": 6064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 6078,
+            "start": 6077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 6189,
+            "start": 6181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6345,
+            "start": 6339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 6348,
+            "start": 6347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6398,
+            "start": 6387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zutreffend",
+            "end": 6487,
+            "start": 6477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6490,
+            "start": 6489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6695,
+            "start": 6690,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6924,
+            "start": 6923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 6927,
+            "start": 6926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 7073,
+            "start": 7068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7255,
+            "start": 7252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 7258,
+            "start": 7257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 7339,
+            "start": 7330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7342,
+            "start": 7341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RVG",
+            "end": 7413,
+            "start": 7410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7584,
+            "start": 7581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7588,
+            "start": 7586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 7743,
+            "start": 7737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schafft",
+            "end": 7898,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahren",
+            "end": 8147,
+            "start": 8138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellt",
+            "end": 8331,
+            "start": 8321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 8525,
+            "start": 8517,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8873,
+            "start": 8872,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9001,
+            "start": 9000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 9072,
+            "start": 9063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 9202,
+            "start": 9197,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9382,
+            "start": 9381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 9386,
+            "start": 9384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollten",
+            "end": 9690,
+            "start": 9683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 9900,
+            "start": 9892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9904,
+            "start": 9902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderte",
+            "end": 10173,
+            "start": 10163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10177,
+            "start": 10175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10313,
+            "start": 10311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10317,
+            "start": 10315,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10552,
+            "start": 10551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichten",
+            "end": 11021,
+            "start": 11011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interpretation",
+            "end": 11106,
+            "start": 11092,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11618,
+            "start": 11617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweichen",
+            "end": 11734,
+            "start": 11723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11738,
+            "start": 11736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 11908,
+            "start": 11894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 11912,
+            "start": 11910,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11971,
+            "start": 11970,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 21.02.2019 – 5 Ta 144/18\nTitel:\nVergütungsanspruch eines Rechtsanwalts gegen die Staatskasse beim Vergleich\nNormenketten:\nBGB § 154 Abs. 2\nRVG § 2, § 13\nZPO § 128 Abs. 1\nLeitsatz:\nBeantragt ein prozessbevollmächtigter Rechtsanwalt im laufenden Berufungsverfahren für seine\nPartei bei Vorliegen der hierfür notwendigen Voraussetzungen Prozesskostenhilfe und bestätigt er\ngleichzeitig einen Vergleichsvorschlag nach § 278 Abs. 6 ZPO, hat er einen Vergütungsanspruch\ngegen die Staatskasse auf Ausgleich einer 1,6 Verfahrensgebühr, 1,2 Terminsgebühr und 1,0\nEinigungsgebühr (Nr. 3100, 3104, 1000, 1003 VV RVG), da der materiellrechtliche Vergleich im\nZweifel erst durch Beschluss des Gerichts wirksam wird (§ 154 Abs. 2 BGB). Dies setzt wiederum\ndie vorhergehende Bestätigung des Vergleichsvorschlags durch den Rechtsanwalt voraus. (Rn. 9\nund 10)\nSchlagworte:\nAusgleich, Beschwerde, Bewilligung, Kostenfestsetzungsverfahren, Prozesskostenhilfe,\nVergleichsvorschlag, Vergütungsanspruch, Terminsgebühr, Vollstreckungstitel, Kündigungsrechtsstreit,\nKündigungsschutzklage, Vergleich\nVorinstanz:\nArbG Nürnberg, Beschluss vom 08.11.2018 – 2 Ca 337/17\nFundstelle:\nBeckRS 2019, 3631\nTenor\nDie sofortige Beschwerde des Bezirksrevisors beim Landesarbeitsgericht Nürnberg vom 20.11.2018 gegen\nden Beschluss des Arbeitsgerichts Nürnberg vom 08.11.2018, Aktenzeichen: 2 Ca 337/17, wird als\nunbegründet zurückgewiesen.\nGründe\nI.\n1\nDie beiden Parteien haben einen Kündigungsrechtsstreit geführt. Erstinstanzlich wurde der\nKündigungsschutzklage mit Endurteil vom 25.10.2017, Aktenzeichen: 2 Ca 337/17, stattgegeben. Das\nEndurteil wurde den Beklagtenvertretern am 05.12.2017 zugestellt. Diese haben für die Beklagte unter dem\nAktenzeichen 5 Sa 437/17 Berufung beim Landesarbeitsgericht Nürnberg eingelegt. Mit Schreiben vom\n23.02.2018 hat der Beklagtenvertreter mitgeteilt, dass zwischen den Parteien ein Vergleich geschlossen\nwerden konnte. Der Vergleichstext wurde in dem Schriftsatz vom 23.02.2018 vollständig mitgeteilt. Der\nSchriftsatz war mit der Überschrift versehen „Vergleich gemäß § 278 Abs. 6 ZPO“ (Bl. 177 d. A.). Mit\nweiterem Schriftsatz vom 26.02.2018 teilte der Beklagtenvertreter mit, dass sich nach Rücksprache mit dem\nKlägervertreter in Ziffer VII. eine Modifikation ergeben hätte, so dass in der Anlage ein nochmals\nmodifizierter Schriftsatz dem Gericht übersandt wurde, der gleichfalls die Überschrift getragen hat\n„Vergleich gemäß § 278 Abs. 6 ZPO“. Mit Schriftsatz vom 28.02.2018 hat der Klägervertreter sich im\nBerufungsverfahren vor dem Landesarbeitsgericht Nürnberg angezeigt und weiterhin beantragt, der\nKlägerin im Verfahren vor dem Landesarbeitsgericht Nürnberg Prozesskostenhilfe unter Beiordnung des\nUnterfertigten zu bewilligen. Die Formulare zu den persönlichen und wirtschaftlichen Verhältnisse der\nKlägerin lagen dem Schriftsatz bei. Zudem wurde beantragt, die Prozesskostenhilfe auf einen etwaigen\nVergleich zu erstrecken. Weiterhin teilte der Klägervertreter mit, dass mit dem Vergleichsvorschlag der\nBeklagten vom 26.02.2018 entsprechend beigefügter Anlage Einverständnis bestehe und das Gericht\ngebeten werde, das Zustandekommen des Vergleichsvorschlages der Beklagten vom 26.02.2018 durch\nBeschluss gemäß § 278 Abs. 6 ZPO festzustellen. Darauffolgend wurde der Klägerin mit Beschluss vom\n28.02.2018 Prozesskostenhilfe bewilligt. Diese wurde auch auf den Vergleich erstreckt. Mit weiterem\nBeschluss vom 28.02.2018 wurde festgestellt, dass zwischen den beiden Parteien durch Annahme eines\nschriftlichen Vergleichsvorschlages gemäß § 278 Abs. 6 ZPO ein Prozessvergleich zustande gekommen ist.\nMit Schriftsatz vom 10.03.2018 beantragte der Klägervertreter Festsetzung der Vergütung aus der\nStaatskasse. Der Klägervertreter brachte zum Ansatz eine 1,6 Verfahrensgebühr nach Nr. 3100 VV RVG,\neine 1,2 Terminsgebühr gem. Nr. 3104 VV RVG und eine 1,0 Einigungsgebühr gem. §§ 2, 13 VV 1000,\n1003 RVG. Mit Beschluss des Arbeitsgerichts Nürnberg vom 06.04.2018, Aktenzeichen: 2 Ca 337/17/5 Sa\n437/17 wurde die aus der Staatskasse zu gewährende Vergütung festgesetzt und lediglich eine 1,6\nVerfahrensgebühr berücksichtigt. Gegen diesen Beschluss hat der Klägervertreter mit Schriftsatz vom\n30.04.2018 Erinnerung eingelegt. Mit Beschluss des Arbeitsgerichts Nürnberg vom 06.06.2018 wurde der\nErinnerung des Klägervertreters nicht abgeholfen und sie dem Kammervorsitzenden zur weiteren\nEntscheidung vorgelegt. Mit Beschluss vom 25.06.2018 wurde der Vergütungsfestsetzungsbeschluss vom\n06.04.2018 abgeändert und dem Antrag des Klägervertreters entsprochen. Hiergegen hat der\nBezirksrevisor mit Schreiben vom 05.07.2018 gegen den Beschluss des Arbeitsgerichts Nürnberg vom\n25.06.2018 für die Staatskasse Erinnerung eingelegt, soweit mehr als 1,1 Verfahrensgebühren zuzüglich\nAuslagen aus der Staatskasse erstattet worden seien. Das Arbeitsgericht Nürnberg hat mit Beschluss vom\n24.09.2018 der Erinnerung des Bezirksrevisors vom 05.07.2018 nicht abgeholfen. Die\nNichtabhilfeentscheidung wurde dem Bezirksrevisor am 09.11.2018 zugestellt. Dieser hat mit Schriftsatz\nvom 20.11.2018 gegen den Beschluss des Arbeitsgerichts Nürnberg vom 08.11.2018 sofortige Beschwerde\neingelegt, soweit mehr als 1,1 Verfahrensgebühren festgesetzt wurde. Das Arbeitsgericht Nürnberg hat mit\nBeschluss vom 22.11.2018 der sofortigen Beschwerde des Bezirksrevisors nicht abgeholfen und sie zur\nEntscheidung an das Landesarbeitsgericht Nürnberg vorgelegt. Der Bezirksrevisor hat zur Begründung\nseiner Beschwerde ausgeführt, dass entscheidend für die Vergütungshöhe der Beiordnungszeitpunkt und\ndie gebührenauslösenden Tätigkeiten danach seien. Der Vergleich sei bereits am 23.02.2018 zustande\ngekommen. Die Beiordnung sei jedoch erst am 28.02.2018 erfolgt. Die Termins- und Einigungsgebühren\nhätten daher nicht mehr aus der Staatskasse erstattet werden können. Die Verfahrensgebühr betrage nur\n1,1 nach VV 3201 RVG.\n2\nHinsichtlich der weiteren Einzelheiten wird auf den Akteninhalt verwiesen.\nII.\n3\nDie sofortige Beschwerde der Staatskasse ist zulässig, aber unbegründet.\n4\n1. Die Beschwerde der Staatskasse gegen den Beschluss des Arbeitsgerichts Nürnberg vom 08.11.2018 ist\nzulässig. Insbesondere ist sie gemäß §§ 56 Abs. 1, 2, 33 Abs. 3 Satz 1 RVG innerhalb von zwei Wochen\nnach Zustellung des Beschlusses vom 08.11.2018 eingelegt worden.\n5\n2. Die Beschwerde der Staatskasse ist unbegründet. Die Festsetzungsentscheidung des Arbeitsgerichts\nNürnberg vom 25.06.2018 ist zutreffend.\n6\n3. Nach § 48 Abs. 1 RVG bestimmt sich der Vergütungsanspruch des Rechtsanwalts gegen die\nStaatskasse nach den Beschlüssen, durch die die Prozesskostenhilfe bewilligt und der Rechtsanwalt\nbeigeordnet wurde. Daraus folgt, dass der Urkundsbeamte und die im Festsetzungsverfahren\nentscheidenden Gerichte an die Bewilligung der Prozesskostenhilfe und die Beiordnung gebunden sind\n(LAG Nürnberg vom 22.10.2015 - 2 Ta 118/15, Rn. 30 m.w.N.).\n7\nZutreffend ist die von dem Bezirksrevisor geäußerte Auffassung, dass eine rückwirkende Bewilligung von\nProzesskostenhilfe nicht in Betracht kommt. Weiter weist der Bezirksrevisor zutreffend darauf hin, dass für\ndie Festsetzung nur die gebührenauslösenden Tätigkeiten nach Gewährung von Prozesskostenhilfe zu\nberücksichtigen ist.\n8\n4 a) Übertragen auf den streitgegenständlichen Sachverhalt ergibt sich Folgendes:\n9\nFestzusetzen war die Verfahrensgebühr mit 1,6 entsprechend VV 3200 RVG. Eine vorzeitige Beendigung\ndes Auftrags entsprechend VV 3201 Abs. 1 Nr. 1 RVG der eine Reduzierung wegen der vorzeitigen\nBeendigung des Auftrags zuließe, liegt nicht vor.\n10\nDie beiden Prozessvertreter haben gegenüber dem Gericht erklärt, dass sie beabsichtigen, einen\nProzessvergleich gemäß § 278 Abs. 6 ZPO schließen zu wollen. Der Prozessvergleich hat die Wirkung,\ndass er nicht nur den Prozess beendet, sondern auch einen vollstreckbaren Titel nach § 294 Abs. 1 Nr.\n1 ZPO schafft. Ein den Prozess beendender und zur Zwangsvollstreckung berechtigender Prozessvergleich\nim Sinne des § 794 Abs. 1 Nr. 1 ZPO kann nicht nur durch die Beurkundung in mündlicher Verhandlung\nzustandekommen, sondern auch in einem schriftlichen Verfahren. In diesem wird die gerichtliche Urkunde\ndurch einen Beschluss ersetzt, mit dem das Gericht das Zustandekommen und den Inhalt des Vergleichs\nnach entsprechender Überprüfung feststellt. Voraussetzung für die Wirksamkeit eines Prozessvergleiches\nist, dass die Parteien entweder dem Gericht einen übereinstimmenden Vorschlag unterbreiten oder einen\nVorschlag des Gerichts annehmen. In beiden Fällen bedarf es einer entsprechenden Erklärung jeder Partei\ngegenüber dem Gericht und es genügt nicht die Einreichung einer außergerichtlichen Einigung durch die\nParteien (Zöller, 31. Aufl., § 278 Rn. 34 m.w.N., Prütting/Gehrlein, ZPO, Kommentar 8. Aufl., § 278 Nr. 16\nff., Baumbach/Lauterbach/Albers/Hartmann, 77. Aufl., § 278 Rn. 64). Ein materiellrechtlicher Vergleich nach\n§ 779 BGB kommt erst mit der Beurkundung durch das Gericht zustande (§ 154 Abs. 2 BGB). Diese\nBeurkundung ist im Zweifel als Abschlussvoraussetzung anzusehen. Haben die Parteien eine Beurkundung\nvereinbart, genügt die vollständige Willenseinigung zum Vertragsabschluss in der Regel nicht. Der Vertrag\nkommt nach § 154 Abs. 2 BGB im Zweifel erst mit der Beurkundung zustande (Palandt, 78. Aufl., § 154 Rn.\n4 m.w.N., BAG vom 16.01.1997 - 2 AZR 35/96 zitiert nach juris).\n11\nIst die Beurkundung des Vergleichstextes vereinbart, so sind besondere Anhaltspunkte dafür erforderlich,\ndass die Prozessbevollmächtigten schon dem außergerichtlichen Vergleich, der weder die\nProzessbeendigung noch einen Vollstreckungstitel schaffen konnte, eine konstitutive Bedeutung beimessen\nwollten. Sind solche besonderen Anhaltspunkte nicht ersichtlich, bleibt es bei der Auslegungsregel des\n§ 154 Abs. 2 BGB (BAG vom 16.01.1997 - 2 AZR 35/96 a.a.O.) und ist auch im\nKostenfestsetzungsverfahren zu beachten.\n12\nDamit ist die Gebühr nach VV 3200 RVG angefallen, da die vorzeitige Beendigung des Auftrags nicht\nvorliegt und die Beendigung des Verfahrens, als auch der Abschluss des materiellrechtlichen Vergleiches\nnoch eines Handelns des Prozessvertreters (Bestätigung) erforderte.\n13\nb) Daraus folgend steht dem Prozessbevollmächtigten der Klägerin auch die Terminsgebühr und die\nVergleichsgebühr in beantragter Höhe zu.\n14\nWird über einen rechtshängigen Anspruch ein schriftlicher Vergleich nach § 278 Abs. 6 ZPO geschlossen,\nentsteht für die Prozessbevollmächtigten auch eine Terminsgebühr (BGH, Beschluss vom 22.02.2007 - VII\nZB 101/06 zitiert nach juris). Der BGH hat mehrfach entschieden, dass ein Rechtsanwalt die Terminsgebühr\nnach Nr. 3104 der Anlage 1 zu § 2 Abs. 2 RVG immer dann verdient, wenn ein schriftlicher Vergleich nach\n§ 278 Abs. 6 ZPO geschlossen wird, unabhängig davon, ob dies im Verfahren nach § 128 Abs. 2 ZPO\ngeschieht oder die Parteien in einem Verfahren, in dem zunächst die mündliche Verhandlung vorgesehen\nwar, durch Abschluss eines schriftlichen Vergleichs auf die mündliche Verhandlung verzichten. Nach\nAnsicht des BGH ergibt sich dies aus der gebotenen gesetzlichen Interpretation. Der Gesetzgeber habe mit\nder Regelung in VV Nr. 3104 Abs. 1 Nr. 1 RVG erreichen wollen, dass der Prozessbevollmächtigte, der in\neinem Zivilprozess im Hinblick auf den Grundsatz der Mündlichkeit (§ 128 Abs. 1 ZPO) erwarten kann in der\nmündlichen Verhandlung seine Terminsgebühr zu verdienen, keinen Gebührennachteil erleiden soll, wenn\ndurch eine andere Verfahrensgestaltung auf eine mündliche Verhandlung verzichtet wird (BGH, Beschluss\nvom 27. Oktober 2005 - III ZB 42/05 und BGH vom 10.07.2006 - II ZB 28/05). Die erkennende Kammer\nsieht keine Veranlassung von den zitierten Entscheidungen des Bundesgerichtshofs abzuweichen.\n15\nDie Kostenfestsetzungsentscheidung des Arbeitsgerichts Nürnberg vom 25.06.2018 ist daher nicht zu\nbeanstanden und die sofortige Beschwerde als unbegründet zurückzuweisen.\n16\nDie Beschwerde ist kostenfrei (§ 56 Abs. 2 S. 2 und 3 RVG).\n\n"
+}

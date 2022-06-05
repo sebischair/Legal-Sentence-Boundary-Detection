@@ -1,0 +1,599 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltung",
+            "end": 9,
+            "start": 2,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 191,
+            "start": 189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 302,
+            "start": 297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 321,
+            "start": 306,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 401,
+            "start": 400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 512,
+            "start": 508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Guthabenkarte",
+            "end": 672,
+            "start": 659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieters",
+            "end": 813,
+            "start": 804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsabschluss",
+            "end": 834,
+            "start": 817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einverstanden",
+            "end": 1042,
+            "start": 1029,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1252,
+            "start": 1251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1465,
+            "start": 1462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 1643,
+            "start": 1635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 1755,
+            "start": 1745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1977,
+            "start": 1967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenverfügbarkeit",
+            "end": 1999,
+            "start": 1981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 2170,
+            "start": 2165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 2206,
+            "start": 2196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rückerstattet",
+            "end": 2281,
+            "start": 2268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2557,
+            "start": 2553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2665,
+            "start": 2658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 2691,
+            "start": 2682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 2860,
+            "start": 2855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuholen",
+            "end": 2968,
+            "start": 2959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegen",
+            "end": 3199,
+            "start": 3191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 3429,
+            "start": 3415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 3548,
+            "start": 3539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3898,
+            "start": 3892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 4017,
+            "start": 4010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 4028,
+            "start": 4021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 4158,
+            "start": 4144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 4262,
+            "start": 4253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbrauchern",
+            "end": 4372,
+            "start": 4360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 4410,
+            "start": 4403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagen",
+            "end": 4485,
+            "start": 4480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 4569,
+            "start": 4563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebühren",
+            "end": 4633,
+            "start": 4625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsanbieter",
+            "end": 4756,
+            "start": 4740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsdienstleisters",
+            "end": 4841,
+            "start": 4819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 5060,
+            "start": 5054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 5279,
+            "start": 5270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 5521,
+            "start": 5513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 5575,
+            "start": 5569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzierungsanfrage",
+            "end": 5814,
+            "start": 5794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 6074,
+            "start": 6069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Identifikationsverfahren",
+            "end": 6379,
+            "start": 6355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mikrofon",
+            "end": 6485,
+            "start": 6477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwort",
+            "end": 6609,
+            "start": 6601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 6739,
+            "start": 6729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterlagen",
+            "end": 6888,
+            "start": 6878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 7013,
+            "start": 7007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 7181,
+            "start": 7176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 7326,
+            "start": 7316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 7530,
+            "start": 7525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 7552,
+            "start": 7534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Saturn",
+            "end": 7637,
+            "start": 7631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abnehmer",
+            "end": 7677,
+            "start": 7669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkauft",
+            "end": 7773,
+            "start": 7765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 7837,
+            "start": 7828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 8003,
+            "start": 7993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fotoprodukten",
+            "end": 8036,
+            "start": 8023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 8151,
+            "start": 8137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweist",
+            "end": 8444,
+            "start": 8436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernehmen",
+            "end": 8756,
+            "start": 8746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbrauchers",
+            "end": 8792,
+            "start": 8780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 9082,
+            "start": 9080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 9102,
+            "start": 9084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 9117,
+            "start": 9103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 9178,
+            "start": 9169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 9198,
+            "start": 9180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 9310,
+            "start": 9301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9477,
+            "start": 9473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 9575,
+            "start": 9566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9792,
+            "start": 9789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuwickeln",
+            "end": 10022,
+            "start": 10011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10034,
+            "start": 10027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 10098,
+            "start": 10084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 10402,
+            "start": 10395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 10622,
+            "start": 10618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 10888,
+            "start": 10878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11042,
+            "start": 11036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 11146,
+            "start": 11137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelansprüche",
+            "end": 11166,
+            "start": 11151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 11261,
+            "start": 11257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 11468,
+            "start": 11462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 11592,
+            "start": 11583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 11817,
+            "start": 11813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 12099,
+            "start": 12092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 12240,
+            "start": 12231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 12338,
+            "start": 12327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 12362,
+            "start": 12343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 12493,
+            "start": 12483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Saturn",
+            "end": 12770,
+            "start": 12764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbindlich",
+            "end": 12883,
+            "start": 12872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 12977,
+            "start": 12965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 13095,
+            "start": 13085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 13160,
+            "start": 13159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 13230,
+            "start": 13221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 13353,
+            "start": 13341,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Geltung\nDiese Allgemeinen Geschäftsbedingungen gelten für die Bestellung von Waren und Dienstleistungen aus dem Sortiment von Saturn sowie die Bestellung von Fotoprodukten auf www.saturn.de. Für den Download von digitalen Inhalten auf www.saturn.de gelten diese Allgemeinen Geschäftsbedingungen nicht.\n2 Vertragspartner\n(1) Vertragspartner des Kunden ist die Anschrift (nachfolgend \"Saturn\" genannt).\n(2) Der Verkauf der Saturn Gutschein Card erfolgt im Namen und auf Rechnung der Media-Saturn Deutschland GmbH.\n(3) Der Verkauf von digitalen Guthabenkarten auf digitaleguthabenkarten.saturn.de erfolgt im Namen und auf Rechnung des jeweiligen Anbieters der Guthabenkarte. Für die Einlösung und Nutzung der digitalen Guthabenkarten gelten die jeweils beim Produkt angezeigten Bedingungen des jeweiligen Anbieters.\n3 Vertragsabschluss\n(1) Durch Klicken auf den Button „Kaufen“ gibt der Kunde ein verbindliches Angebot zum Kauf der im Warenkorb befindlichen Ware ab und ist mit der Geltung dieser Allgemeinen Geschäftsbedingungen einverstanden.\n(2) Bei der Bestellung von Waren aus dem Foto-Service erteilt der Kunde Saturn durch Zusendung von Bilddateien den Auftrag zur Herstellung von Bildern oder von mit Bildern versehenen Artikeln („Fotoprodukte“).\n(3) Die nach Absenden der Bestellung automatisch versendete Bestellbestätigung bestätigt den Inhalt und den Zugang der Bestellung des Kunden bei Saturn, stellt aber noch keine Annahme des Angebots des Kunden dar. Saturn wird die Annahme entweder durch Versenden einer Versandbestätigung oder durch Versand der Ware innerhalb von fünf Werktagen ab Eingang der Bestellung des Kunden erklären. Gibt Saturn innerhalb dieser Frist keine Annahmeerklärung ab, wurde die Bestellung des Kunden nicht angenommen.\n(4) Ein Vertrag kommt erst durch die Annahmeerklärung von Saturn zustande, die mit einer gesonderten E-Mail (Auftragsbestätigung oder Versandbestätigung) versendet wird, spätestens jedoch durch den Versand der Bestellung.\n4 Warenverfügbarkeit\n(1) Ist zum Zeitpunkt der Bestellung bestellte Ware nicht verfügbar, behält sich Saturn vor, die Bestellung der Ware nicht anzunehmen, so dass kein Vertrag zustande kommt. Hierüber wird der Kunde informiert. Bereits geleistete Zahlungen werden dem Kunden unverzüglich rückerstattet.\n(2) Absatz 1 gilt entsprechend, wenn nach Bestellung und vor Auslieferung der bestellte Artikel von der Freiwilligen Selbstkontrolle der Filmwirtschaft als „FSK 18“ oder von der Unterhaltungssoftware Selbstkontrolle der Computer-spielewirtschaft als „USK 18“ eingestuft wird. Denn in diesem Fall ist aus technischen Gründen eine Altersverifikation nach Bestellung nicht mehr möglich.\n5 Abholung und Lieferung\n(1) Bei Lieferung der Bestellung an einen vom Kunden ausgewählten Saturn Markt zur Abholung wird der Kunde benachrichtigt, wenn die Bestellung zur Abholung bereit steht. Der Kunde ist verpflichtet, die Bestellung innerhalb von 14 Tagen ab Erhalt der Benachrichtigung abzuholen. Zur Abholung muss der Kunde die Rechnung, die Bestellbestätigung oder die Abholbenachrichtigung sowie einen von einer Behörde ausgestellten Ausweis mit Foto, der die Meldeadresse des Kunden enthält (z.B. Personalausweis) vorlegen. Holt der Kunde die Bestellung nach Ablauf von 14 Tagen ab Erhalt der ersten Benachrichtigung zur Abholung nicht ab, behält sich Saturn das Recht vor, aus Gründen der Minimierung von Lagerungskosten vom Kaufvertrag zurückzutreten. In diesem Fall erhält der Kunde eine Gutschrift über den bezahlten Kaufpreis in der Form der ursprünglichen Bezahlung.\n(2) Ware, die in der Produktbeschreibung mit „FSK 18“ oder „USK 18“ gekennzeichnet ist, kann sowohl bei Abholung im Saturn Markt als auch bei Lieferung nur vom Besteller der Ware persönlich unter Vorlage eines von einer Behörde ausgestellten Ausweises mit Foto, der die Meldeadresse des Kunden enthält (z.B. Personalausweis) entgegengenommen werden. Eine Aushändigung an einen Bevollmächtigten oder eine Lieferung an eine Packstation ist bei dieser Ware nicht möglich.\n6 Zahlung\n(1) Alle Preise auf www.saturn.de sind in Euro und verstehen sich einschließlich der jeweils gültigen gesetzlichen Mehrwertsteuer.\n(2) Dem Kunden stehen die beim Abschluss des Bestell-prozesses angezeigten Zahlungsarten zur Verfügung.\n(3) Kauf auf Rechnung bietet Saturn in Zusammenarbeit mit Klarna (www.klarna.de) an, jedoch nur Verbrauchern. Die Zahlung ist an Klarna zu leisten. Der Kunde bekommt zuerst die Ware und hat eine Zahlungsfrist von 14 Tagen. Die vollständigen AGB von Klarna zum Rechnungskauf sind unter Klarna AGB zu finden. Saturn erhebt beim Kauf auf Rechnung mit Klarna keine Gebühren.\n(4) Die eingegebenen Daten werden nicht bei Saturn gespeichert, jedoch ggf. beim jeweiligen ausgewählten Zahlungsanbieter. Es gelten hierfür die jeweiligen Datenschutzbestimmungen des Zahlungsdienstleisters.\n(5) Wird bei der Bestellung von Fotoprodukten Zahlung gegen Rechnung angeboten, ist der Rechnungsbetrag innerhalb von 7 Tagen ab Lieferung der Bestellung bzw. Abholung der Bestellung im Saturn Markt zur Zahlung fällig.\n(6) Falls eine Abbuchung vom Konto des Kunden per Lastschrifteinzug aus vom Kunden zu vertretenden Gründen scheitert, hat der Kunde Saturn die durch die Rückbelastung entstehenden Bankbearbeitungsgebühren zu erstatten.\n7 Finanzierung\n(1) Wählt der Kunde eine Finanzierung als Zahlungsart, kommt bei erfolgreichem Abschluss der entsprechende Darlehensvertrag des Kunden mit der BNP Paribas S.A. Niederlassung Deutschland (nachfolgend „Consors Finanz“) zustande. Saturn wird hierbei nicht Vertragspartner des Kunden.\n(2) Nach Eingabe der Daten des Kunden prüft die Consors Finanz auf Basis der eingegebenen Daten vorläufig die Bonität des Kunden und erteilt während des Bestellprozesses eine vorläufige Genehmigung oder Ablehnung der Finanzierungsanfrage. Ist die Finanzierung vorläufig genehmigt, muss der Kunde die angezeigten PDF-Dokumente ausdrucken und ein Identifikationsverfahren durchführen, indem er sich entweder in einer Post-Filiale oder einem Saturn Markt mit Hilfe seines Ausweises legitimieren lässt. Mit dem Onlineident-Verfahren der Firma WebID Solutions GmbH (Kooperationspartner der Consors Finanz) erfolgt die Antragsstellung und Identifizierung über einen Internetbrowser oder die App WebIdent vollständig online – ein postalisches Absenden des Antrages entfällt bei diesem Identifikationsverfahren. Der Kunde benötigt außerdem einen gültigen Personalausweis oder Reisepass sowie eine WebCam mit Mikrofon. Die elektronische Signatur erfolgt über die Zusendung einer TAN mittels SMS oder E-Mail an den Kunden sowie einem Passwort. Die Einzelheiten über die notwendigen Schritte werden dem Kunden in den angezeigten Dokumenten von der Consors Finanz mitgeteilt. Die Consors Finanz trifft die endgültige Entscheidung über die Kreditzusage auf Basis der vom Kunden gemachten Angaben und eingereichten Unterlagen.\n(3) Wird die Finanzierungsanfrage von der Consors Finanz vorläufig abgelehnt, kann der Kunde eine andere Zahlungsart wählen. Lehnt die Consors Finanz die Finanzierungsanfrage des Kunden endgültig ab, wird Saturn die Bestellung des Kunden nicht bestätigen, so dass kein Vertrag zustande kommt.\n(4) Saturn reserviert die Kundenbestellung bis zu einer endgültigen Kreditzusage der Consors Finanz, längstens jedoch für 15 Tage ab Bestellung. Reicht der Kunde den Finanzierungsvertrag im Original nicht innerhalb dieser Frist bei der Consors Finanz ein, wird Saturn die Bestellung des Kunden nicht bestätigen, so dass kein Vertrag zustande kommt.\n8 Eigentumsvorbehalt\nBis zur vollständigen Bezahlung verbleibt die gelieferte Ware im Eigentum von Saturn.\n9 Kein Verkauf an gewerbliche Abnehmer\nDie im Shop angebotene Ware wird nur an Verbraucher und Unternehmer als Endverbraucher verkauft. Die gewerbliche Weiterveräußerung von Ware ist nicht gestattet. Saturn behält sich daher vor, Vertragsangebote, die den Anschein erwecken, zum Zwecke des gewerblichen Weiterverkaufs der Ware abgegeben zu werden, nicht anzunehmen.\n10 Bestellung von Fotoprodukten\n(1) Bei der Bestellung von Fotoprodukten ist der Kunde für die Inhalte der übertragenen Bilddateien verantwortlich.\n(2) Der Kunde verpflichtet sich, zur Herstellung der Fotoprodukte kein Bildmaterial hochzuladen, das Rechte Dritter, insbesondere Urheber-, Marken- oder Persönlichkeitsrechte, verletzt oder das gegen geltende Gesetze verstößt, insbesondere pornografische oder rechtsradikale Inhalte aufweist.\n(3) Der Kunde verpflichtet sich, Saturn vollumfänglich von sämtlichen Ansprüchen Dritter in Bezug auf das vom Kunden zur Herstellung der Fotoprodukte verwendete Bildmaterial freizustellen und sämtliche dadurch entstehende Kosten, einschließlich der Kosten der Verteidigung gegen solche Ansprüche, zu übernehmen.\n11 Widerrufsrecht des Verbrauchers\n(1) Ist der Kunde eine natürliche Person, die ein Rechtsgeschäft zu einem Zweck abschließt, der überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann (Verbraucher), steht dem Kunden ein Widerrufsrecht gemäß § 312g i. V. m. § 355 BGB zu.\nWiderrufsbelehrung\nMusterformular\n(5) Das Widerrufsrecht besteht nicht bei folgenden Verträgen: Sonderbestimmungen\n(6) Bei einem Widerruf der gesamten Bestellung wird dem Kunden die Versandkostenpauschale vollständig erstattet. Bei einem Widerruf eines Teils einer Bestellung wird die Versandkostenpauschale nur erstattet, wenn auf die widerrufene Ware tatsächlich Versandkosten entfallen sind. Auf welche Waren Versandkosten entfallen, wird dem Kunden zum Zeitpunkt der Bestellung angezeigt. Versandkosten werden insoweit nicht erstattet, als sie dem Kunden zusätzlich entstanden sind, weil er sich für eine andere Art der Lieferung als die von Saturn angebotene günstigste Standardlieferung entschieden hat.\n(7) Zusätzlich zu den in dieser Ziffer bestimmten Rechten hat der Kunde die Möglichkeit, den Widerruf einer Bestellung auch persönlich in jedem Saturn Markt in Deutschland innerhalb der Widerrufsfrist zu erklären und abzuwickeln.\n12 Haftung\n(1) Ansprüche des Kunden auf Schadensersatz sind ausgeschlossen. Hiervon ausgenommen sind Schadensersatzansprüche des Kunden aus der Verletzung des Lebens, des Körpers, der Gesundheit, sowie die Haftung für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung von Saturn, seiner gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Unberührt bleibt ferner die Haftung für die Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf. Bei der leicht fahrlässigen Verletzung dieser Vertragspflichten haftet Saturn nur für den vertragstypischen, vorhersehbaren Schaden, es sei denn, es handelt sich um Schadensersatzansprüche des Kunden aus einer Verletzung des Lebens, des Körpers oder der Gesundheit.\n(2) Absatz 1 gilt auch zu Gunsten der gesetzlichen Vertreter und Erfüllungsgehilfen von Saturn, wenn Ansprüche direkt gegen diese geltend gemacht werden.\n(3) Die Vorschriften des Produkthaftungsgesetzes sowie des Bundesdatenschutzgesetzes bleiben unberührt.\n13 Mängelansprüche\n(1) Für Verbraucher gilt die gesetzliche Verjährungsfrist von zwei Jahren ab Übergabe der Ware.\n(2) Während der Verjährungsfrist für Mängelansprüche kann der Kunde seine Ansprüche wegen Mängeln der Ware neben der Geltendmachung gegenüber Saturn auch in jedem Saturn Markt in Deutschland geltend machen. Alle Informationen über die Abwicklung von Mängelansprüchen stehen im Bereich „Mein Konto“ auf www.saturn.de zur Verfügung.\n(3) Ist der Kunde Unternehmer, d.h. handelt der Kunde bei seiner Bestellung in Ausübung seiner gewerblichen oder selbstständigen beruflichen Tätigkeit, verjähren Mängelansprüche innerhalb von 12 Monaten ab Übergabe der Ware. Hiervon ausgenommen sind Ansprüche wegen der Verletzung von Leben, Körper oder Gesundheit, die auf einer fahrlässigen Pflichtverletzung von Saturn oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen von Saturn beruhen.\n(4) Die gesetzlichen Mängelansprüche des Kunden bleiben im Falle des Bestehens oder Erwerbs einer Garantie für die bestellte Ware unberührt.\n(5) Die Abtretung von Mängelansprüchen ist ausgeschlossen, es sei denn der Kunde ist Verbraucher.\n14 Schlussbestimmungen\n(1) Diese Allgemeinen Geschäftsbedingungen unterliegen dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.\n(2) Sofern es sich beim Kunden um einen Kaufmann, eine juristische Person des öffentlichen Rechts oder um ein öffentlich-rechtliches Sondervermögen handelt, ist Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen dem Kunden und Saturn der Sitz von Saturn.\n(3) Der Vertrag bleibt auch bei rechtlicher Unwirksamkeit einzelner Punkte in seinen übrigen Teilen verbindlich. An die Stelle der unwirksamen Punkte treten, soweit vorhanden, die gesetzlichen Vorschriften.\n(4) Der Vertragstext wird nach Vertragsschluss vom Händler nicht gespeichert und ist für den Kunden nicht zugänglich. Einzelne Transaktionen findet der Kunde im Bereich „Mein Konto“.\n(5) Für den Vertragsschluss steht die deutsche Sprache zur Verfügung.\n(6) Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor Verbraucherschlichtungsstellen teilzunehmen.\n\n"
+}

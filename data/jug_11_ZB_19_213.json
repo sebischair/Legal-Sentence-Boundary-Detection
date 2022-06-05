@@ -1,0 +1,869 @@
+{
+    "Annotations": [
+        {
+            "annotation": "213",
+            "end": 51,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 57,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnisverweigerungsrecht",
+            "end": 109,
+            "start": 84,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 121,
+            "start": 110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31a",
+            "end": 134,
+            "start": 131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 143,
+            "start": 135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 459,
+            "start": 455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbedenklich",
+            "end": 508,
+            "start": 496,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 535,
+            "start": 534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 547,
+            "start": 536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermittlungsbemühung",
+            "end": 658,
+            "start": 639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 669,
+            "start": 659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3368",
+            "end": 721,
+            "start": 717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 732,
+            "start": 722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8672",
+            "end": 751,
+            "start": 747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 757,
+            "start": 752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 813,
+            "start": 804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zulassungsverfahrens",
+            "end": 873,
+            "start": 853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 955,
+            "start": 944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 963,
+            "start": 957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 965,
+            "start": 964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 968,
+            "start": 967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nebenverfügungen",
+            "end": 1084,
+            "start": 1068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1087,
+            "start": 1086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überschritten",
+            "end": 1240,
+            "start": 1227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 1502,
+            "start": 1499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 1657,
+            "start": 1654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnisverweigerungsrecht",
+            "end": 1896,
+            "start": 1871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1899,
+            "start": 1898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 2051,
+            "start": 2045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2121,
+            "start": 2115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingestellt",
+            "end": 2197,
+            "start": 2186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2200,
+            "start": 2199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 2392,
+            "start": 2383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 2535,
+            "start": 2529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 2834,
+            "start": 2826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2974,
+            "start": 2968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2977,
+            "start": 2976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzubewahren",
+            "end": 3324,
+            "start": 3311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3400,
+            "start": 3398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrtenbuchauflage",
+            "end": 3738,
+            "start": 3720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mache",
+            "end": 3944,
+            "start": 3939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geführt",
+            "end": 4170,
+            "start": 4163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4432,
+            "start": 4429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 4622,
+            "start": 4612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4625,
+            "start": 4624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederherzustellen",
+            "end": 4833,
+            "start": 4815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4999,
+            "start": 4997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 5106,
+            "start": 5099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5189,
+            "start": 5183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5342,
+            "start": 5338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausrichten",
+            "end": 5442,
+            "start": 5432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 5657,
+            "start": 5648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stelle",
+            "end": 5977,
+            "start": 5971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 6136,
+            "start": 6125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kämen",
+            "end": 6244,
+            "start": 6239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 6362,
+            "start": 6355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6557,
+            "start": 6553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 6656,
+            "start": 6648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mache",
+            "end": 6894,
+            "start": 6889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6985,
+            "start": 6979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedurft",
+            "end": 7057,
+            "start": 7050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 7324,
+            "start": 7315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedenken",
+            "end": 7472,
+            "start": 7464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anordne",
+            "end": 7701,
+            "start": 7694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7704,
+            "start": 7703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 7908,
+            "start": 7901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 8002,
+            "start": 7994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8202,
+            "start": 8199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8310,
+            "start": 8304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeholt",
+            "end": 8391,
+            "start": 8382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 8702,
+            "start": 8697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Maßnahme",
+            "end": 9005,
+            "start": 8997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9176,
+            "start": 9170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angestellt",
+            "end": 9228,
+            "start": 9218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 9409,
+            "start": 9402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfassungsrang",
+            "end": 9567,
+            "start": 9552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebe",
+            "end": 9787,
+            "start": 9783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeübt",
+            "end": 9890,
+            "start": 9882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GG",
+            "end": 10066,
+            "start": 10064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 10191,
+            "start": 10185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 10348,
+            "start": 10343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 10351,
+            "start": 10350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 10527,
+            "start": 10521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 10530,
+            "start": 10529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 10659,
+            "start": 10651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 10663,
+            "start": 10661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 10667,
+            "start": 10665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 10733,
+            "start": 10727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 10737,
+            "start": 10735,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10960,
+            "start": 10959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 10964,
+            "start": 10962,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11410,
+            "start": 11409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 11414,
+            "start": 11412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 11845,
+            "start": 11842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12151,
+            "start": 12148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargelegt",
+            "end": 12239,
+            "start": 12230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 12243,
+            "start": 12241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befragen",
+            "end": 12643,
+            "start": 12635,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12833,
+            "start": 12832,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13004,
+            "start": 13003,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13252,
+            "start": 13251,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13555,
+            "start": 13554,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13809,
+            "start": 13808,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14114,
+            "start": 14113,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14468,
+            "start": 14467,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14822,
+            "start": 14821,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15488,
+            "start": 15487,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15783,
+            "start": 15782,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16269,
+            "start": 16268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 16314,
+            "start": 16311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 16318,
+            "start": 16316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheidungserheblich",
+            "end": 16492,
+            "start": 16470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 16774,
+            "start": 16771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 16898,
+            "start": 16896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 17060,
+            "start": 17057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheidungserheblich",
+            "end": 17116,
+            "start": 17094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 17120,
+            "start": 17118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegensteht",
+            "end": 17358,
+            "start": 17345,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18008,
+            "start": 18007,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18492,
+            "start": 18491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 18881,
+            "start": 18875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 19148,
+            "start": 19143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 19152,
+            "start": 19150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19359,
+            "start": 19356,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19863,
+            "start": 19862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 20574,
+            "start": 20571,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20894,
+            "start": 20893,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21367,
+            "start": 21366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 21516,
+            "start": 21510,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21982,
+            "start": 21981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 22236,
+            "start": 22230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 22240,
+            "start": 22238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 22485,
+            "start": 22481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 22489,
+            "start": 22487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 22974,
+            "start": 22970,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23200,
+            "start": 23199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 23204,
+            "start": 23202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VwGO",
+            "end": 23258,
+            "start": 23254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2013",
+            "end": 23438,
+            "start": 23434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 23442,
+            "start": 23440,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23496,
+            "start": 23495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 23500,
+            "start": 23498,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23635,
+            "start": 23634,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VGH München, Beschluss v. 03.05.2019 – 11 ZB 19.213\nTitel:\nFahrtenbuchauflage trotz Zeugnisverweigerungsrecht\nNormenkette:\nStVZO § 31a\nLeitsatz:\nMacht der Halter eines Kraftfahrzeuges, mit dem ein Verkehrsverstoß begangen wurde, von seinem\nAussage- oder Zeugnisverweigerungsrecht im Ordnungswidrigkeiten- oder Strafverfahren\nGebrauch, muss er gemäß § 31a StVZO die Auflage in Kauf nehmen, ein Fahrtenbuch zu führen,\nwenn die Voraussetzungen dafür gegeben sind; dies ist auch verfassungsrechtlich unbedenklich.\n(redaktioneller Leitsatz)\nSchlagworte:\nFahrtenbuchauflage, zumutbare Ermittlungsbemühungen, Zeugnisverweigerungsrecht, zumutbare\nErmittlungsbemühung\nVorinstanz:\nVG München, Urteil vom 19.11.2018 – M 23 K 18.3368\nFundstelle:\nBeckRS 2019, 8672\nTenor\nI. Der Antrag auf Zulassung der Berufung wird abgelehnt.\nII. Die Klägerin trägt die Kosten des Zulassungsverfahrens.\nIII. Der Streitwert für das Zulassungsverfahren wird auf 4.800,- EUR festgesetzt.\nGründe\nI.\n1\nDie Klägerin wendet sich gegen die Anordnung, ein Fahrtenbuch zu führen, und die hierzu ergangenen\nNebenverfügungen.\n2\nAm 10. Januar 2018 wurde mit einem auf die Klägerin zugelassenen Kraftfahrzeug die zulässige\nHöchstgeschwindigkeit von 120 km/h um 41 km/h überschritten. Auf ein Anhörungsschreiben des\nPolizeiverwaltungsamts vom 25. Januar 2018 teilte die Klägerin mit Schreiben vom 10. Februar 2018 mit, es\nkämen mehrere Personen als Fahrer in Betracht, da das Fahrzeug zu diesem Zeitpunkt wegen eines\nUmzugs verliehen gewesen sei. Sie könne anhand der Bildkopie keine sichere Zuordnung des Fahrers\ndurchführen und bitte um einen Bildauszug, auf dem der Fahrer deutlicher erkennbar sei. Dass sie den\nFahrer aufgrund der Bildqualität nicht sicher identifizieren könne, machte die Klägerin auch bei ihrer\nZeugenvernehmung durch die Polizei am 28. Februar 2018 geltend und berief sich außerdem auf ein\nZeugnisverweigerungsrecht.\n3\nDie Polizei konnte den verantwortlichen Fahrzeugführer nicht feststellen, da sie die auf dem Foto gezeigte\nmännliche Person nicht identifizieren konnte. Nur der Ehemann der Klägerin konnte als Fahrer\nausgeschlossen werden. Mit Verfügung vom 12. März 2018 wurde das Ermittlungsverfahren eingestellt.\n4\nIm Rahmen der Anhörung zu einer beabsichtigten Fahrtenbuchauflage trug die Klägerin mit Schreiben vom\n24. April 2018 vor, es habe sich um einen Fahrzeugverleih innerhalb der Familie gehandelt. Wegen der\nUnschärfe des Fotos seien zwei Familienmitglieder als Fahrer in Betracht gekommen, die aber den\nVerkehrsverstoß abgestritten hätten. Da sie niemanden zu Unrecht bzw. nicht mehrere Familienmitglieder\nhabe beschuldigen wollen, was in der Familie kritisch gesehen worden wäre, habe ihr der sachbearbeitende\nPolizeibeamte geraten, von ihrem Zeugnisverweigerungsrecht Gebrauch zu machen und ihre Aussage\nabgekürzt zu Protokoll genommen. Hätte Sie anhand des Fotos den Fahrer zweifelsfrei identifizieren\nkönnen, hätte sie die gegebenen Umstände direkt mit diesem klären können.\n5\nMit Bescheid vom 5. Juni 2018 verpflichtete die Beklagte die Klägerin gestützt auf § 31a StVZO, bis zum 15.\nJuni 2019 ein Fahrtenbuch für das auf sie zugelassene Fahrzeug mit dem amtlichen Kennzeichen … … und\nein etwaiges Ersatzfahrzeug zu führen, dieses bis spätestens 14. Juli 2019 zur Prüfung vorzulegen und bis\n14. Dezember 2019 aufzubewahren. Hinsichtlich der Vorlagepflicht drohte sie ein Zwangsgeld von 255,-\nEUR an. Die Schwere des begangenen Verkehrsverstoßes und das darauf beruhende Gewicht der Gefahr,\ndass es auch künftig zu gleichartigen Verstößen kommen könnte, die ungeahndet bleiben müssten, weil der\nTäter wiederum nicht ermittelt werden könne, bildeten die Beurteilungskriterien für die Prüfung der\nVerhältnismäßigkeit der Fahrtenbuchauflage. Der Fahrzeughalter könne nicht verlangen, von einer\nFahrtenbuchauflage verschont zu bleiben, wenn er in einem Ordnungswidrigkeitenverfahren von einem\nZeugnis- oder Aussageverweigerungsrecht Gebrauch mache. Der vorliegende Verkehrsverstoß wäre mit\neiner Geldbuße von 160,- EUR zu ahnden gewesen und hätte zur Eintragung des Kraftfahrers in das\nFahreignungsregister mit zwei Punkten sowie zu einem Fahrverbot von einem Monat geführt. Diese\ngesetzgeberische Bewertung der Ordnungswidrigkeit rechtfertige es nach der Rechtsprechung des\nBundesverwaltungsgerichts, die Verkehrsübertretung als so gewichtig einzustufen, dass eine\nFahrtenbuchauflage auch ohne zusätzliche Umstände verhältnismäßig sei. In Anbetracht der besonders\neklatanten Geschwindigkeitsüberschreitung sei eine Auflage von sechs Monaten nicht mehr ausreichend\ngewesen, sondern eine Auflagedauer von einem Jahr angemessen.\n6\nGegen den Bescheid ließ die Klägerin am 9. Juli 2018 durch ihren Bevollmächtigten Anfechtungsklage\nerheben und gleichzeitig beantragen (M 23 S 18.3369), die aufschiebende Wirkung der Klage\nwiederherzustellen. Mit Urteil und Beschluss jeweils vom 19. November 2018, zugestellt am 9. Januar 2019,\nwies bzw. lehnte das Verwaltungsgericht München die Klage und den Eilantrag ab. In den Urteilsgründen\nwird ausgeführt, die tatbestandlichen Voraussetzungen von § 31a StVZO seien gegeben. Mit dem Fahrzeug\nder Klägerin sei ein erheblicher Verkehrsverstoß begangen worden. Die Feststellung des Fahrzeugführers\nsei nicht möglich gewesen, obwohl die zuständige Behörde alle angemessenen und zumutbaren\nMaßnahmen getroffen habe. Art und Umfang der Ermittlungstätigkeit dürfe sich an der Erklärung des\nFahrzeughalters ausrichten. Lehne dieser erkennbar die Mitwirkung an der Aufklärung des\nVerkehrsverstoßes ab, so sei es der Behörde regelmäßig nicht zuzumuten, wahllos zeitraubende, kaum\nAussicht auf Erfolg bietende Ermittlungen zu betreiben. Der Umstand, dass die Behörde mit ihrem\nAnhörungsschreiben eine Frist von zwei Wochen überschritten habe, sei unerheblich, da ein zur\nIdentifizierung ausreichendes Lichtbild vorliege und die Identifizierung somit keine Anforderungen an das\nErinnerungs-, sondern nur an das Erkenntnisvermögen des Fahrzeughalters stelle. Nach Überzeugung des\nGerichts sei das Tatbild auch von ausreichender Qualität, um der Klägerin dem Grunde nach die\nIdentifizierung des Fahrers zu ermöglichen. So sei sie auch zu der Erkenntnis gekommen, dass nur zwei\nPersonen aus dem Familienkreis in Betracht kämen. Gleichwohl habe sie diese nicht namentlich benannt\nund damit zielführende Ermittlungen der Polizei unmöglich gemacht. Bei schlechter Qualität des Messfotos\nwäre die Polizei erst recht auf eine kooperative Mitwirkung der Klägerin angewiesen gewesen, die sich\njedoch auf ein Zeugnisverweigerungsrecht berufen habe. Die Inanspruchnahme des\nZeugnisverweigerungsrechts führe nicht zu einem Nachteil für die Klägerin. Es entspreche der gefestigten\nobergerichtlichen Rechtsprechung, dass der Fahrzeughalter nicht verlangen könne, von einer\nFahrtenbuchauflage verschont zu bleiben, wenn er von einem Zeugnis- oder Auskunftsverweigerungsrecht\nGebrauch mache. Hierauf sei die Klägerin im Schreiben vom 25. Januar 2018 ausdrücklich hingewiesen\nworden. Eines erneuten Hinweises durch die Polizei habe es daher nicht bedurft. Nach Inanspruchnahme\ndes Zeugnisverweigerungsrechts und dem Ausscheiden des Ehemanns als Fahrer aufgrund eines\npolizeilichen Personenabgleichs hätten aus Sicht einer verständigen und objektiven Ermittlungsperson\nkeine realistischen Ermittlungsansätze mehr bestanden. Ferner begegne die Auferlegung eines\nFahrtenbuchs für die Dauer von zwölf Monaten in Anbetracht des Gewichts des Verkehrsverstoßes keinen\nBedenken. Die Beklagte habe in der mündlichen Verhandlung ihre nicht zu beanstandende\nVerwaltungspraxis dargelegt, wonach sie bei einem bepunkteten und mit Fahrverbot geahndeten\nVerkehrsverstoß regelmäßig eine zwölfmonatige Dauer anordne.\n7\nMit ihrem Antrag auf Zulassung der Berufung, dem die Beklagte entgegentritt, macht die Klägerin ernstliche\nZweifel an der Richtigkeit des Urteils und eine grundsätzliche Bedeutung der Rechtssache geltend. Es\nwerde auf den Schriftsatz vom 25. Februar 2019 aus dem Beschwerdeverfahren Bezug genommen. Dort\nwerde dargelegt, dass eine Fahrtenbuchauflage neben einem Verkehrsverstoß von einigem Gewicht auch\nvoraussetze, dass der Schluss auf die Unzuverlässigkeit des Fahrzeugführers gerechtfertigt sei. Von einer\nbestehenden bzw. wiederholten Unzuverlässigkeit der Klägerin könne aber nicht ausgegangen werden. Die\nBeklagte habe hierzu keine Auskünfte aus dem Fahreignungsregister eingeholt. Die Verhängung einer\nFahrtenbuchauflage kollidiere mit dem verfassungsrechtlich garantierten Zeugnis- und\nAussageverweigerungsrecht, das von der Verwaltungsbehörde nicht durch eine Sanktion wie der\nFahrtenbuchauflage und der vorgeschobenen Begründung einer vorbeugenden Gefahrenabwehr\nunterlaufen werden dürfe. Die Argumentation, es solle künftig die Feststellung des Fahrzeugführers nach\neiner Zuwiderhandlung gegen Verkehrsvorschriften ohne Schwierigkeiten möglich sein und die Klägerin\nhabe die Auferlegung eines Fahrtenbuchs durch ihr Schweigen selbst zu vertreten, belege den\nSanktionscharakter der Maßnahme. Außerdem sei für die Beklagte ersichtlich gewesen, dass es sich bei\ndem Fahrer nur um ein Mitglied aus einem beschränkt überschaubaren Familienkreis hatte handeln können.\nHierzu habe sie aber keine Ermittlungen angestellt. Die Einsichtnahme in die Einwohnermeldeunterlagen\nund die dort lagernden Fotos der Familienangehörigen wäre innerhalb der zur Verfügung stehenden Zeit\nzumutbar und möglich gewesen. Dem Zeugnis- und Aussageverweigerungsrecht, aus dessen\nWahrnehmung keine Nachteile durch eine Verwaltungsmaßnahme entstehen dürften, gebühre\nVerfassungsrang. Es könne nicht mit der Verhängung einer Fahrtenbuchauflage und der vorgeschobenen\nBegründung einer angeblich notwendig vorbeugenden Gefahrenabwehr unterlaufen werden, für deren\nNotwendigkeit es keine Anhaltspunkte gebe. Mangels ausreichender Ermittlungsansätze habe die Beklagte\nnicht das ihr zustehende Ermessen ausgeübt. Die Fahrtenbuchauflage widerspreche im Ergebnis den\nGrundsätzen eines fairen Verfahrens ebenso dem grundsätzlich garantierten Schutz von Ehe und Familie\nnach Art. 6 Abs. 1 GG. Hätte die Klägerin sofort ihren Ehemann als Fahrer benannt, wäre von der Auflage\neines Fahrtenbuchs Abstand genommen worden. Dies allein zeige, dass die Auflage tatsächlich nur eine\nSanktion darstelle und die behaupteten Anhaltspunkte der Unzuverlässigkeit nicht stichhaltig seien.\n8\nMit Beschluss vom 1. April 2019 (11 CS 19.214) wies der Bayerische Verwaltungsgerichtshof die\nBeschwerde gegen den Beschluss im Verfahren des vorläufigen Rechtsschutzes zurück.\n9\nWegen der weiteren Einzelheiten wird auf die Gerichtsakten beider Instanzen und auf die vorgelegten\nBehördenakten Bezug genommen.\nII.\n10\nDer zulässige Antrag auf Zulassung der Berufung hat keinen Erfolg.\n11\nDie geltend gemachten Zulassungsgründe, auf deren Prüfung der Senat beschränkt ist (§ 124a Abs. 5 Satz\n2 VwGO), sind nicht hinreichend dargelegt (§ 124a Abs. 4 Satz 4 VwGO) bzw. liegen nicht vor (§ 124a Abs.\n5 Satz 2 VwGO).\n12\n1. Aus dem Vorbringen der Klägerin ergeben sich keine ernstlichen Zweifel an der Richtigkeit der\nerstinstanzlichen Entscheidung (§ 124 Abs. 2 Nr. 1 VwGO), da sie weder einen tragenden Rechtssatz der\nangefochtenen Entscheidung noch eine erhebliche Tatsachenfeststellung mit schlüssigen\nGegenargumenten in Frage gestellt hat (vgl. BVerfG, B.v. 21.12.2009 - 1 BvR 812/09 - NJW 2010,\n1062/1063; B.v. 16.7.2013 - 1 BvR 3057/11 - BVerfGE 134, 106/118).\n13\nDie Anordnung, ein Fahrtenbuch zu führen, setzt nach § 31a Abs. 1 Satz 1 der Straßenverkehrs-\nZulassungs-Ordnung (StVZO) vom 26. April 2012 (BGBl I S. 679), im maßgeblichen Zeitpunkt des\nBescheiderlasses zuletzt geändert durch Verordnung vom 23. März 2017 (BGBl I S. 522), in Kraft getreten\nzum 20. Mai 2018, voraus, dass nach einer Zuwiderhandlung gegen Verkehrsvorschriften die Feststellung\ndes Fahrzeugführers nicht möglich war. Darüber hinaus setzt die Vorschrift nach ihrem Wortlaut oder ihrer\nAuslegung in der Rechtsprechung nicht voraus, dass der Fahrzeugführer oder - was hier gemeint sein\ndürfte - der Fahrzeughalter unzuverlässig ist, dass ihm die Behörde dies nachzuweisen hat oder dass der\nSchluss hierauf gerechtfertigt ist. Woraus sich diese weitere Voraussetzung ergeben soll, hat die Klägerin\nnicht dargelegt.\n14\nDas Verwaltungsgericht und die Beklagte sind zu Recht davon ausgegangen, dass die ermittelnde Behörde\nangesichts der erkennbar fehlenden Mitwirkungsbereitschaft der Klägerin mit ihrer Vorladung als Zeugin\nund dem Abgleich des Messfotos mit einem Lichtbild ihres Ehemanns ihren Pflichten genügt hat und nicht\ngehalten war, weitere in Betracht kommenden Familienmitglieder zu ermitteln und zu befragen. Art,\nZeitpunkt und Umfang der angemessenen und zumutbaren Ermittlungen stehen im pflichtgemäßen\nErmessen der Polizei (BVerwG, U.v. 13.10.1978 - VII C 77.74 - NJW 1979, 1054 = juris Rn. 16). § 31a\nStVZO verpflichtet die Polizei nicht zur Anwendung bestimmter Ermittlungsmethoden (vgl. BVerwG, B.v.\n9.12.1993 - 11 B 113.93 - juris Rn. 4; U.v. 13.10.1978 a.a.O.). Art und Ausmaß der Ermittlungen hängen\ninsbesondere von der Art des jeweiligen Verkehrsverstoßes und der Bereitschaft des Kraftfahrzeughalters\nzur Mitwirkung bei der Feststellung des Fahrers ab (BVerwG, B.v. 23.12.1996 - 11 B 84.96 - juris Rn. 3). Die\nBehörde darf ihre Bemühungen um die Feststellung des Fahrzeugführers vorrangig an den Erklärungen des\nFahrzeughalters ausrichten und aus seinem Verhalten im Ordnungswidrigkeitenverfahren auf fehlende\nMitwirkungswirkungsbereitschaft schließen (vgl. BVerwG, U.v. 17.12.1982 - 7 C 3.80 - juris Rn. 7). Der\nFahrzeughalter ist für sein Fahrzeug verantwortlich und daher erster Ansprechpartner für die\nErmittlungsbehörden (BayVGH, B.v. 16.4.2015 - 11 ZB 15.171 - VRS 128, 216 = juris Rn. 11; vgl. auch\nOVG NW, B.v. 15.3.2007 - 8 B 2746/06 - juris Rn. 11 f.). Auch wenn - wie hier - der Fahrer auf einer\nLichtbildaufnahme nicht identifiziert werden kann, ist der Fahrzeughalter insoweit zur Mithilfe bei der\nAufklärung verpflichtet, dass er zumindest den Personenkreis der möglichen Fahrzeugführer gegenüber der\nStraßenverkehrsbehörde einschränkt (BayVGH, a.a.O.). Unterbleiben dahingehende Angaben oder lehnt\nder Fahrzeughalter eine Mitwirkung erkennbar ab, so ist es der Behörde regelmäßig nicht zuzumuten,\nwahllos zeitraubende, kaum Aussicht auf Erfolg bietende Ermittlungen nach dem Fahrzeugführer zu\nbetreiben (stRspr, vgl. BVerwG, B.v. 9.12.1993 a.a.O.; U.v. 17.12.1982 - 7 C 3.80 - juris Rn. 7; BayVGH,\na.a.O.); zumal Ermittlungsbemühungen nur dann sinnvoll sind, wenn der Täter vor Ablauf der dreimonatigen\nVerjährungsfrist (§ 26 Abs. 3 StVG) und deren in Betracht kommenden Unterbrechungen so rechtzeitig\nbekannt ist, dass die Verkehrsordnungswidrigkeit noch mit Aussicht auf Erfolg geahndet werden kann (vgl.\nVGH BW, B.v. 21.7.2014 - 10 S 1256/13 - juris Rn. 5). Schickt der Fahrzeughalter den ihm übersandten\nAnhörungsbogen unausgefüllt oder kommentarlos zurück oder reagiert auf diesen nicht oder lehnt er - wie\nhier - unter ausdrücklichem Hinweis auf sein Zeugnis- oder Aussagverweigerungsrecht pauschal jede\nMitwirkung an der weiteren Aufklärung ab, darf die Ermittlungsbehörde nach ständiger Rechtsprechung\ngrundsätzlich von einer fehlenden Bereitschaft ausgehen, an der Aufklärung des Sachverhalts mitzuwirken\n(vgl. BVerwG, B.v. 1.3.1994 - 11 B 130.93 - VRS 88, 158 juris Rn. 4 m.w.N.; VGH BW, B.v. 10.8.2015 - 10\nS 278/15 - VerkMitt 2015, Nr. 61 = juris Rn. 8 m.w.N.; OVG NW, B.v. 25.1.2018 - 8 A 1587/16 - juris Rn.\n11). Dies gilt nach Maßgabe der Umstände des Einzelfalls auch und gerade in den Fällen, in denen - wie\nhier - der Fahrzeughalter in dem Anhörungsschreiben vorsorglich auch als Zeuge angesprochen worden ist,\naber bis zuletzt jede sachdienliche Äußerung abgelehnt hatte (BVerwG, B.v. 1.3.1994 a.a.O.). Erst wenn\nsich im Einzelfall besondere Beweisanzeichen ergeben haben, die auf die Person des Fahrzeugführers\nhindeuten, oder wenn besondere Umstände des Einzelfalls es naheliegend erscheinen lassen, dass der\nHalter bei Kenntnis bestimmter Ermittlungsergebnisse doch mitwirkungsbereit sein könnte, muss die\nBehörde weiter ermitteln (Dauer in Hentschel/König/Dauer, Straßenverkehrsrecht, 45. Aufl. 2019, § 31a\nStVZO Rn. 39 m.w.N.; BayVGH, B.v. 15.10.2018 - 11 CS 18.1240 - juris Rn. 14). Solche Umstände lagen\nhier jedoch nicht vor.\n15\nSoweit die Klägerin die Annahme der Beklagten angreift, das Messfoto habe eine Identifizierung des\nverantwortlichen Fahrers zugelassen, war dies nicht entscheidungserheblich. Denn für das\nVerwaltungsgericht war maßgebend, dass die Klägerin anhand dieses Fotos erkennen konnte, dass zwei\nmännliche Personen als Fahrzeugführer in Betracht kamen, und sodann an der Aufklärung nicht mitgewirkt\nhat, indem sie sich auf ein Zeugnisverweigerungsrecht berufen hat. Ihr Vortrag, es sei unstreitig, dass sie\ndas Fahrzeug zwei Familienangehörigen überlassen habe, trifft im Übrigen nicht zu. Vielmehr ist ungeklärt,\nob sie das Zeugnisverweigerungsrecht zu Recht in Anspruch genommen hat, da sie insofern lediglich nicht\nnachprüfbare Angaben gemacht hat. Dies ist jedoch ebenfalls nicht entscheidungserheblich.\n16\nWeiter ist das Verwaltungsgericht der ständigen obergerichtlichen Rechtsprechung folgend zutreffend\ndavon ausgegangen, dass die Ausübung eines Aussage- oder Zeugnisverweigerungsrechts der\nAnwendbarkeit des § 31a StVZO nicht entgegensteht. Macht der Halter eines Kraftfahrzeuges, mit dem ein\nVerkehrsverstoß begangen wurde, von seinem Aussage- oder Zeugnisverweigerungsrecht im\nOrdnungswidrigkeiten- oder Strafverfahren Gebrauch, muss er gemäß § 31a StVZO die Auflage in Kauf\nnehmen, ein Fahrtenbuch zu führen, wenn die Voraussetzungen dafür gegeben sind (BVerwG, B.v.\n11.8.1999 - 3 B 96.99 - BayVBl 2000, 380 = juris Rn. 3; B.v. 22.6.1995 - 11 B 7.95 - DAR 1995, 459 = juris\nRn. 3; OVG Hamburg, B.v. 28.6.2016 - 4 Bf 97/15.Z - VRS 130, 328 = juris Rn. 17 ff.; BayVGH, B.v.\n28.1.2015 - 11 ZB 14.1129 - juris Rn. 24 m.w.N.; SächsOVG, B.v. 4.8.2014 - 3 B 90/14 - LKV 2015, 39 =\njuris Rn. 5). Ein doppeltes „Recht“, nach einem Verkehrsverstoß im Ordnungswidrigkeiten- oder\nStrafverfahren die Aussage zu verweigern und zugleich trotz fehlender Mitwirkung bei der Feststellung des\nFahrzeugführers auch von einer Fahrtenbuchauflage verschont zu bleiben, besteht nicht, da es dem\nsicherheitsrechtlichen Zweck des § 31a StVZO widerspräche (BVerwG, B.v. 22.6.1995, a.a.O. Rn. 4 unter\nHinweis auf BVerfG, B.v. 7.12.1981 - 2 BvR 1172/81 - NJW 1982, 568 = juris Rn. 7; BayVGH, a.a.O.). Es ist\nnicht dargelegt oder ersichtlich, welche rechtlichen Folgerungen insofern aus dem Einwand einer angeblich\nfehlenden ordnungsgemäßen Belehrung über ein Zeugnis- und Aussageverweigerungsrecht resultieren\nsollen. Ungeachtet dessen sind der Klägerin bereits mit Schreiben vom 25. Januar 2018 (Seite 2, Ziffer I.\nund III.) sämtliche erforderlichen Belehrungen zutreffend erteilt worden. Auch hat sie ein Formular mit\nentsprechenden Belehrungen anlässlich ihrer Zeugeneinvernahme am 28. Februar 2018 unterschrieben\nund selbst vorgetragen, auf den Rat des sachbearbeitenden Polizeibeamten hin von ihrem\nZeugnisverweigerungsrecht Gebrauch gemacht zu haben.\n17\nFerner hat die Beklagte zu Recht darauf hingewiesen, dass die Anordnung einer Fahrtenbuchauflage auch\nbei Inanspruchnahme eines Zeugnis- oder Aussageverweigerungsrechts verfassungsrechtlich unbedenklich\nist. Allein durch die in erster Linie polizeilich begründete Mitwirkungspflicht, die der Gewährleistung der\nFreiheit und Sicherheit des Straßenverkehrs für alle zu dienen bestimmt ist, werden etwaige Aussage- und\nZeugnisverweigerungsrechte in Ordnungswidrigkeiten- oder Strafverfahren sowie auch mögliche\nentsprechende Rechte in verwaltungsbehördlichen Verfahren noch nicht berührt (BVerfG, B.v. 7.12.1981 - 2\nBvR 1172/81 - NJW 1982, 568 = juris Rn. 7; OVG NW, B.v. 3.1.2006 - 8 B 1847/05 - juris Rn. 23 f.). Bei der\nAnordnung einer Fahrtenbuchauflage handelt es sich der Zielsetzung nach nicht um eine Sanktion für die\nInanspruchnahme eines Rechts, sondern um eine präventive Maßnahme im Interesse der\nVerkehrssicherheit (vgl. BVerwG, U.v. 28.5.2015 - 3 C 13.14 - BVerwGE 152, 180 = juris Rn. 19), deren\nAnknüpfungspunkt die verkehrsrechtliche Verantwortlichkeit des Halters für sein Fahrzeug ist. Bei der\nBetrachtung der beteiligten Interessen geht es entgegen der Auffassung der Klägerin nicht um ein „Recht“\nder Beklagten, eine Fahrtenbuchauflage zu verhängen, sondern um den Schutz höchstrangiger\nRechtsgüter, nämlich das Leben und die Gesundheit der Verkehrsteilnehmer, denen die Anordnung zu\ndienen bestimmt ist. Von Verfassungs wegen ist es nicht geboten, dass sich der Fahrzeughalter seiner\nverkehrsrechtlichen Verantwortung durch die Inanspruchnahme eines Aussage- oder\nZeugnisverweigerungsrechts entziehen kann (vgl. BVerfG, B.v. 1.6.1989 - 2 BvR 239/88 u.a. - BVerfGE 80,\n109 = juris Rn. 39 zur Kostenhaftung gemäß § 25a StVG). Auch schützt die Verfassung ohne\nentsprechende gesetzliche Verankerung nicht davor, dass aus - auf zulässigen Verpflichtungen zur Führung\nvon Akten, Büchern oder Registern beruhenden - Aufzeichnungen Erkenntnisse über die Täter von\nVerkehrsordnungswidrigkeiten abgeleitet werden, auch wenn es sich dabei um den Aufzeichnenden selbst\noder jemanden handelt, hinsichtlich dessen dem Aufzeichnenden ein Aussageverweigerungsrecht zusteht\n(BVerwG, B.v. 11.8.1999, a.a.O. Rn. 3). Die Buchführungs-, Vorlage- und Aufbewahrungspflichten, die mit\nder Anordnung eines Fahrtenbuchs verbunden sind, kommen auch keiner Sanktion gleich. Sie sind nicht\nderart einschneidend oder freiheitsbeschränkend, dass sie faktisch einen Zwang zur Selbstbezichtigung\noder zum Verzicht auf das Zeugnisverweigerungsrecht bewirken könnten oder in Anbetracht der rechtlichen\nFolgen für den für die Verkehrsordnungswidrigkeit verantwortlichen Fahrzeugführer eine ernsthafte\nKonfliktsituation schaffen würden, die das Zeugnis- oder Aussageverweigerungsrecht verhindern will (vgl.\nBVerfG, a.a.O. Rn. 36 ff. zu § 25a StVG). Der in diesem Zusammenhang erhobene Einwand, dass die\nBeklagte bei Benennung des Ehemanns als Fahrer von der Anordnung eines Fahrtenbuchs abgesehen\nhätte, ist nicht nachvollziehbar, da sie den Ehemann als in Betracht kommenden Fahrer ausscheiden\nkonnte.\n18\nSoweit die Klägerin einen Widerspruch gegen die Grundsätze des fairen Verfahrens und europäisches\nVerfahrensrecht bemängelt, genügt die Begründung des Zulassungsantrags nicht ansatzweise den\nDarlegungsanforderungen aus § 124a Abs. 4 Satz 4 VwGO.\n19\n2. Soweit sie die grundsätzliche Bedeutung der Rechtssache (§ 124 Abs. 2 Nr. 3 VwGO) geltend macht, ist\nschon nicht erkennbar, welche konkrete, fallübergreifende Tatsachen- oder Rechtsfrage, deren noch\nausstehende obergerichtliche Klärung im Berufungsverfahren zu erwarten ist und zur Erhaltung der\nEinheitlichkeit der Rechtsprechung oder zu einer bedeutsamen Weiterentwicklung des Rechts geboten\nerscheint (vgl. Happ in Eyermann, VwGO, 15. Aufl. 2019, § 124 Rn. 36), aufgeworfen wird. Eine § 124a\nAbs. 4 Satz 4 VwGO genügende Darlegung von Berufungszulassungsgründen hätte jedoch eine\nsubstantielle Erörterung des in Anspruch genommenen Zulassungsgrundes erfordert (vgl. Happ in\nEyermann, VwGO, § 124a Rn. 59).\n20\n3. Die Kostenentscheidung folgt aus § 154 Abs. 2 VwGO. Die Streitwertfestsetzung beruht auf § 47, § 53\nAbs. 2 Nr. 2, § 52 Abs. 1, 2 GKG i.V.m. der Empfehlung in Nr. 46.11 des Streitwertkatalogs für die\nVerwaltungsgerichtsbarkeit 2013.\n21\n4. Der Beschluss ist unanfechtbar (§ 152 Abs. 1 VwGO).\n22\nMit der Ablehnung des Zulassungsantrags wird das angegriffene Urteil des Verwaltungsgerichts\nrechtskräftig (§ 124a Abs. 5 Satz 4 VwGO).\n\n"
+}

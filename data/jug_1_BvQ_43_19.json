@@ -1,0 +1,353 @@
+{
+    "Annotations": [
+        {
+            "annotation": "BUNDESVERFASSUNGSGERICHT",
+            "end": 24,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 40,
+            "start": 39,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VOLKES",
+            "end": 60,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustrahlen",
+            "end": 467,
+            "start": 454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellerin",
+            "end": 484,
+            "start": 469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berlin",
+            "end": 622,
+            "start": 616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bevollmächtigter",
+            "end": 641,
+            "start": 625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschlossen",
+            "end": 987,
+            "start": 976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustrahlen",
+            "end": 1335,
+            "start": 1322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1458,
+            "start": 1449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1466,
+            "start": 1460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1470,
+            "start": 1469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1473,
+            "start": 1472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszustrahlen",
+            "end": 1795,
+            "start": 1782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2116,
+            "start": 2112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 2247,
+            "start": 2239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2422,
+            "start": 2416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 2700,
+            "start": 2692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2703,
+            "start": 2702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 2989,
+            "start": 2979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "propagiere",
+            "end": 3270,
+            "start": 3260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 3355,
+            "start": 3341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehörten",
+            "end": 3605,
+            "start": 3595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3608,
+            "start": 3607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GG",
+            "end": 3760,
+            "start": 3758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhalt",
+            "end": 3862,
+            "start": 3856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 4013,
+            "start": 4007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4017,
+            "start": 4015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4020,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 4164,
+            "start": 4159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4167,
+            "start": 4166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4454,
+            "start": 4451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4668,
+            "start": 4664,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4929,
+            "start": 4928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4932,
+            "start": 4931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 5022,
+            "start": 5015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5026,
+            "start": 5024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5141,
+            "start": 5130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5372,
+            "start": 5367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5376,
+            "start": 5374,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5724,
+            "start": 5723,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5985,
+            "start": 5984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5989,
+            "start": 5987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angreift",
+            "end": 6248,
+            "start": 6240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 6341,
+            "start": 6337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6345,
+            "start": 6343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 6525,
+            "start": 6521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 6762,
+            "start": 6758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 6871,
+            "start": 6864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7163,
+            "start": 7157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bildet",
+            "end": 7330,
+            "start": 7324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedenken",
+            "end": 7460,
+            "start": 7452,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7662,
+            "start": 7661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7666,
+            "start": 7664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7894,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7898,
+            "start": 7896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BVerfGG",
+            "end": 7983,
+            "start": 7976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8108,
+            "start": 8106,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BUNDESVERFASSUNGSGERICHT\n- 1 BvQ 43/19 -\nIM NAMEN DES VOLKES\nIn dem Verfahren\nüber den Antrag,\nim Wege der einstweiligen Anordnung\nden Rundfunk Berlin-Brandenburg zu verpflichten, den von der Antragstellerin eingereichten\nüberarbeiteten Fernseh-Wahlwerbesport auf dem zugeteilten Sendeplatz am\n17. Mai 2019 um 16.58 Uhr sowie auf einem weiteren vom Rundfunk Berlin-Brandenburg\nzu bestimmenden Sendeplatz vor der am 26. Mai 2019 stattfindenden Europawahl\nauszustrahlen,\nAntragstellerin: Nationaldemokratische Partei Deutschlands (NPD),\nvertreten durch den Parteivorsitzenden Frank Franz,\nSeelenbinderstraße 42, 12555 Berlin\n- Bevollmächtigter:\nRechtsanwalt Peter Richter, LL.M.,\nBirkenstraße 5, 66121 Saarbrücken -\nhat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch\ndie Richter Masing,\nPaulus,\nChrist\ngemäß § 32 Abs. 1 in Verbindung mit § 93d Abs. 2 BVerfGG in der Fassung\nder Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 15. Mai 2019 einstimmig\nbeschlossen:\n1. Der Rundfunk Berlin-Brandenburg wird verpflichtet, den von der Antragstellerin\neingereichten überarbeiteten Fernseh-Wahlwerbespot auf dem zugeteilten Sendeplatz\nam 17. Mai 2019 um 16.58 Uhr sowie auf einem weiteren vom Rundfunk\nBerlin-Brandenburg zu bestimmenden Sendeplatz vor der am 26. Mai 2019 statt-\n1/5\nfindenden Europawahl auszustrahlen.\n2. Das Land Berlin hat der Antragstellerin die notwendigen Auslagen im Verfahren\nder einstweiligen Anordnung zu erstatten.\nGründe :\nI.\n1\n1. Die Antragstellerin ist eine politische Partei und begehrt im Wege des einstweiligen\nRechtsschutzes die Verpflichtung des Rundfunk Berlin-Brandenburg (rbb), einer öffentlich-\nrechtlichen Rundfunkanstalt, anlässlich der Europawahl einen von ihr eingereichten\nWahlwerbespot auf den zugeteilten Sendeplätzen auszustrahlen. Der Wahlwerbespot beginnt\nmit den Worten\n2\n„Seit der willkürlichen Grenzöffnung 2015 und der seither unkontrollierten Massenzuwanderung\nwerden Deutsche fast täglich zu Opfern“,\n3\nwas bildlich mit immer schneller werdenden Einblendungen von Tatorten und Namen von\nOpfern von Gewaltdelikten/Tötungsdelikten unterlegt wird. In der Folge wird die Einrichtung\nvon „Schutzzonen“ als Orten, „an denen sich Deutsche sicher fühlen sollen“ in Aussicht\ngestellt.\n4\n2. Der Antragstellerin waren seitens des rbb zwei Sendeplätze zur Ausstrahlung eines\n90-sekündigen Fernseh-Wahlwerbespots am 30. April und am 17. Mai 2019 zugeteilt\nworden. Den von der Antragstellerin zur Ausstrahlung eingereichten Wahlwerbespot lehnte\nder rbb jedoch mit für sofort vollziehbar erklärtem Bescheid vom 30. April 2019 ab, da\ndieser einen offenkundigen und schwerwiegenden Verstoß gegen den Straftatbestand\nder Volksverhetzung enthalte.\n5\n3. Das Verwaltungsgericht wies den auf Verpflichtung des rbb zur Ausstrahlung gerichteten\nEilantrag der Antragstellerin mit Beschluss vom 3. Mai 2019 zurück, die hiergegen erhobene\nBeschwerde zum Oberverwaltungsgericht Berlin-Brandenburg wurde mit Beschluss\nvom 13. Mai 2019 abgewiesen. Der Wahlwerbespot enthalte in seiner\nGesamtschau einen evidenten und schwerwiegenden Verstoß gegen § 130 Abs. 1 Nr. 2\nStGB, da er Migrantinnen und Migranten pauschal als Kriminelle diffamiere und eine\nZweiteilung der Gesellschaft in Deutsche und (kriminelle) Ausländer propagiere. Eine andere\nAuslegungsmöglichkeit zu Gunsten der Antragstellerin sei ausgeschlossen. Der\nWahlwerbespot sei vor dem Hintergrund der Zielsetzung der Antragstellerin als Partei zu\nverstehen und bringe in diesem Kontext die Missachtung der Menschenwürde all derer\n2/5\nzum Ausdruck, die der „ethnischen Volksgemeinschaft“ nicht angehörten.\n6\n4. Mit ihrem Antrag auf Erlass einer einstweiligen Anordnung rügt die Antragstellerin die\nVerletzung ihrer Meinungsfreiheit aus Art. 5 Abs. 1 Satz 1 GG. Der Wahlwerbespot habe\nkeinen - schon gar nicht evident und schwerwiegend - volksverhetzenden Inhalt. Vielmehr\nhandele es sich dabei um auch und gerade im Rahmen der Wahlwerbung zulässige Meinungsäußerungen,\nwas die Verwaltungsgerichte verkannt hätten.\nII.\n7\nDem Antrag auf Erlass einer einstweiligen Anordnung ist stattzugeben, da eine zu erhebende\nVerfassungsbeschwerde in der Hauptsache Erfolg hätte.\n8\nDas Bundesverfassungsgericht kann nach § 32 Abs. 1 BVerfGG im Streitfall einen Zustand\ndurch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer\nNachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund\nzum gemeinen Wohl dringend geboten ist. Im Eilrechtsschutzverfahren sind die erkennbaren\nErfolgsaussichten einer Verfassungsbeschwerde zu berücksichtigen, wenn absehbar\nist, dass über eine Verfassungsbeschwerde nicht rechtzeitig entschieden werden\nkann. Ergibt die Prüfung im Eilrechtsschutzverfahren, dass eine Verfassungsbeschwerde\noffensichtlich begründet wäre, läge in der Nichtgewährung von Rechtsschutz der schwere\nNachteil für das gemeine Wohl im Sinne des § 32 Abs. 1 BVerfGG (vgl. BVerfGE 111,\n147 <153>).\n9\nDanach sind die Voraussetzungen für den Erlass einer einstweiligen Anordnung hier gegeben.\n10\n1. Eine Verfassungsbeschwerde erscheint zum derzeitigen Zeitpunkt weder unzulässig\nnoch offensichtlich unbegründet. Vielmehr ergibt die Prüfung der Erfolgsaussichten einer\nzu erhebenden Verfassungsbeschwerde, dass die Verwaltungsgerichte zu Unrecht einen\nevidenten und ins Gewicht fallenden Verstoß gegen § 130 Abs. 1 Nr. 2 StGB angenommen\nhaben.\n11\na) Da die Wahlwerbung in Hörfunk und Fernsehen nach wie vor zu den wichtigen Mitteln\nim Wahlkampf der politischen Parteien gehört, muss die Vergabe von Hörfunk- und Fernsehzeiten\nfür Wahlwerbesendungen dem Grundsatz der gleichen Wettbewerbschancen\nder politischen Parteien Rechnung tragen (vgl. BVerfGE 34, 160 <163>; 47, 198 <225>;\n67, 149 <152>). Daher dürfen zum Zwecke der Wahlwerbung vorgesehene Sendungen\nder politischen Parteien nur bei einem evidenten und ins Gewicht fallenden Verstoß ge-\n3/5\ngen allgemeine Normen des Strafrechts zurückgewiesen werden (vgl. BVerfGE 47,198\n<230 ff.>; 67, 149 <152>).\n12\nFür die Frage, ob in einem Werbespot eine strafbare Volksverhetzung nach § 130 Abs. 1\nNr. 2 StGB liegt, kommt es darauf an, ob dieser einen Teil der Bevölkerung beschimpft,\nböswillig verächtlich macht oder verleumdet und dadurch dessen Menschenwürde angreift.\nMaßgeblich ist dabei, dass Teilen der Bevölkerung ihre Würde als Personen abgesprochen\nwird.\n13\nb) Aus den Entscheidungen der Verwaltungsgerichte ergibt sich nicht mit hinreichender\nGewissheit, dass dem Wahlwerbespot ein solcher volksverhetzender Inhalt entnommen\nwerden muss. Sein Fokus liegt - anders als in seiner ursprünglichen Fassung, die dem\nVerfahren 1 BvQ 36/19 zugrunde lag - auf den Deutschen als vermeintlichen „Opfern“,\nwobei auf eine Reihe von in den Medien geschilderten Straftaten angespielt wird. Als Bedrohung\nwerden lediglich abstrakt die „willkürliche Grenzöffnung“ und die „Massenzuwanderung“\ngenannt. Ein Angriff auf die Menschenwürde zur Begründung eines volksverhetzenden\nGehalts des Wahlwerbespots kann entgegen der Entscheidung des\nOberverwaltungsgerichts insbesondere nicht aus einer Auslegung des Werbespots unter\nRückgriff auf das Parteiprogramm der Antragstellerin hergeleitet werden. Maßgeblich für\ndie Beurteilung des Wahlwerbespots ist allein dieser selbst, nicht die innere Haltung oder\ndie parteiliche Programmatik, die seinen Hintergrund bildet. Insoweit begegnet die von\nden Verwaltungsgerichten vorgenommene Auslegung des Werbespots schon für sich\ndurchgreifenden Bedenken. Jedenfalls aber ist vorliegend ein Verstoß gegen § 130 Abs.\n1 Nr. 2 StGB nicht evident im Sinne der Anforderungen an die Untersagung eines Wahlwerbespots\n(vgl. BVerfGE 47,198 <230 ff.>; 67, 149 <152>).\n14\n2. Da eine Verfassungsbeschwerde danach offensichtlich begründet wäre, läge in der\nNichtgewährung von Rechtsschutz ein schwerer Nachteil für das gemeine Wohl im Sinne\ndes § 32 Abs. 1 BVerfGG, so dass dem Antrag stattzugeben ist.\n15\n3. Die Entscheidung über die Erstattung der Auslagen beruht auf § 34a Abs. 3 BVerfGG.\nMasing Paulus Christ\n4/5\nBundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom\n15. Mai 2019 - 1 BvQ 43/19\n\n"
+}

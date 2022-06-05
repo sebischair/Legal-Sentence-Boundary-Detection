@@ -1,0 +1,371 @@
+{
+    "Annotations": [
+        {
+            "annotation": "GELTUNGSBEREICH",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 390,
+            "start": 387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 244,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 801,
+            "start": 794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 584,
+            "start": 580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VERTRAGSSCHLUSS",
+            "end": 822,
+            "start": 807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 956,
+            "start": 953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1092,
+            "start": 1090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1415,
+            "start": 1407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1259,
+            "start": 1256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1546,
+            "start": 1537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 1623,
+            "start": 1614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1681,
+            "start": 1679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AUFRECHNUNG",
+            "end": 1718,
+            "start": 1707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 1820,
+            "start": 1808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 1911,
+            "start": 1902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 2092,
+            "start": 2084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenausgang",
+            "end": 2400,
+            "start": 2388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 2662,
+            "start": 2653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 2575,
+            "start": 2569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 2310,
+            "start": 2304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 2961,
+            "start": 2956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechnen",
+            "end": 2797,
+            "start": 2787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Union",
+            "end": 3109,
+            "start": 3104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügbarkeitsdatum",
+            "end": 3218,
+            "start": 3199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferzeitpunkt",
+            "end": 3305,
+            "start": 3290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3480,
+            "start": 3474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mobile",
+            "end": 3565,
+            "start": 3559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 3847,
+            "start": 3837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EIGENTUMSVORBEHALT",
+            "end": 3871,
+            "start": 3853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VERSANDKOSTEN",
+            "end": 3007,
+            "start": 2994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mobile",
+            "end": 4048,
+            "start": 4042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 4134,
+            "start": 4122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 4200,
+            "start": 4191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GARANTIEERKLÄRUNGEN",
+            "end": 4225,
+            "start": 4206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 4432,
+            "start": 4419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RÜCKGABERECHT",
+            "end": 4464,
+            "start": 4451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4598,
+            "start": 4596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 4736,
+            "start": 4729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksendet",
+            "end": 4894,
+            "start": 4882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 5096,
+            "start": 5089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mobile",
+            "end": 5152,
+            "start": 5146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 5277,
+            "start": 5271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 5412,
+            "start": 5402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 5507,
+            "start": 5497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 5606,
+            "start": 5597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5726,
+            "start": 5722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5904,
+            "start": 5901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6088,
+            "start": 6085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6552,
+            "start": 6547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mobile",
+            "end": 6579,
+            "start": 6573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 6992,
+            "start": 6980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 7388,
+            "start": 7384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 7273,
+            "start": 7266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 7453,
+            "start": 7444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GERICHTSSTAND",
+            "end": 7528,
+            "start": 7515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 7617,
+            "start": 7607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 7874,
+            "start": 7867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbindlich",
+            "end": 7988,
+            "start": 7977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 8082,
+            "start": 8070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mobile",
+            "end": 8349,
+            "start": 8343,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 GELTUNGSBEREICH\n1.1 Für die Geschäftsbeziehungen zwischen der cw-mobile GmbH (im Folgenden cw-mobile genannt) und dem Kunden gelten ausschließlich diese Allgemeinen Geschäftsbedingungen in ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Diese Allgemeinen Geschäftsbedingungen gelten für den Verkauf über den Online-Shop der cw-mobile GmbH, der unter www.cw-mobile.de erreichbar ist.\n1.2 Der Kunde ist Verbraucher, soweit der Zweck der georderten Lieferungen und Leistungen nicht überwiegend seiner gewerblichen oder selbständigen beruflichen Tätigkeit zugerechnet werden kann. Dagegen ist Unternehmer jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die beim Abschluss des Vertrags in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n§ 2 VERTRAGSSCHLUSS\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Buttons „zahlungspflichtig bestellen“ geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs der Bestellung erfolgt durch automatisierte E-Mail unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer separaten Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von fünf Tagen annehmen.\nSie haben außerdem die Möglichkeit entsprechend gekennzeichnete Artikel über den Button „Vorbestellen“ bereits vorab zu bestellen. Der voraussichtliche Liefertermin wird Ihnen auf der Produktseite angezeigt. Der weitere Bestellprozess läuft wie oben beschrieben ab.\n§ 3 PREISE, FÄLLIGKEIT, AUFRECHNUNG\n3.1 Die auf den Produktseiten genannten Preise verstehen sich inklusive der gesetzlichen Umsatzsteuer. Verpackungs- und Versandkosten fallen ggfls. zusätzlich an und werden gesondert berechnet.\n3.2 Der Kunde kann wahlweise per Vorkasse, PayPal, Kreditkarte über PayPal, Lastschrift über PayPal, Kauf auf Rechnung über PayPal (Bonität vorausgesetzt) oder Amazon pay bezahlen.\n3.2.1 Wählt der Kunde die Zahlungsart Vorkasse, ist der Kaufpreis nach Erhalt einer Vorausrechnung in Form einer Auftragsbestätigung im Voraus durch Überweisung an cw-mobile unter Angabe der Rechnungsnummer zu zahlen.\n3.2.2 Bei Zahlung per Pay-Pal erfolgt die Belastung Ihres PayPal-Kontos mit Warenausgang.\n3.3 Kosten des Zahlungsverkehrs (bspw. Bankgebühren bei Auslandszahlungen) gehen bei ordnungsgemäßer Vertragsabwicklung in Höhe der tatsächlichen Kosten zu Lasten des Kunden. Bei Zahlung per Vorauskasse und Pay-Pal – Zahlungen werden keine Aufschläge berechnet.\n3.4 Gegen Forderungen von cw-mobile kann der Kunde nur mit unwidersprochenen oder rechtskräftig festgestellten Forderungen aufrechnen. Der Kunde ist zur Aufrechnung gegenüber Forderungen von cw-mobile auch berechtigt, wenn er Mängelrügen oder Gegenansprüche aus demselben Kaufvertrag geltend macht.\n§ 4 LIEFERUNG, GEFAHRÜBERGANG, VERSANDKOSTEN\n4.1 Die Lieferung erfolgt an die vom Kunden angegebene Lieferadresse innerhalb der Europäischen Union.\n4.2 Bei vorbestellbaren Produkten richtet sich der Lieferzeitpunkt nach dem angegebenen Verfügbarkeitsdatum. Bei diesem Datum handelt es sich lediglich um einen voraussichtlichen Lieferzeitpunkt. cw-mobile übernimmt keine Gewähr dafür, dass das Produkt tatsächlich zum genannten Termin verfügbar ist, da sich aus verschiedenen Gründen Lieferverzögerungen ergeben können. Sobald das Produkt versandt wurde, erhalten Sie eine Bestätigungsmail von cw-mobile.\n4.3 Ggf. anfallende Versandkosten werden dem Kunden auf der Informationsseite „Versand & Lieferung“, die unter anderem über einen Link in den Produktseiten erreichbar ist, und im Bestellprozess bei Auswahl der Versandart sowie nochmals ausdrücklich auf der Bestellseite mitgeteilt.\n§ 5 EIGENTUMSVORBEHALT\nDie gelieferte Ware bleibt bis zur vollständigen Begleichung der aus dem zugrunde liegenden Kaufvertrag gegen den Kunden bestehenden Zahlungsansprüche im Eigentum von cw-mobile.\n§ 6 GEWÄHRLEISTUNG\n6.1 Die Gewährleistung erfolgt nach den gesetzlichen Bestimmungen.\n6.2 Die Gewährleistungsfrist beträgt zwei Jahre ab der Lieferung.\n§ 7 GARANTIEERKLÄRUNGEN\nSoweit unser Angebot eine Garantieerklärung enthält, z.B. bezüglich einer Herstellergarantie oder einer Garantie des Fachhandels, werden dadurch die gesetzlichen Gewährleistungsansprüche nicht eingeschränkt.\n§ 8 FREIWILLIGES RÜCKGABERECHT\n8.1 cw-mobile bietet dem Kunden, der Verbraucher ist, für die Dauer von 30 Tagen ab Erhalt der Ware ein freiwilliges Rückgaberecht an. Sonstige vertragliche und gesetzliche Ansprüche des Kunden (z.B. Gewährleistungsrechte oder Widerrufsrecht) werden hiervon nicht berührt.\n8.2 Die Inanspruchnahme des freiwilligen Rückgaberechts setzt voraus, dass der Kunde die Ware innerhalb der Frist von 30 Tagen an die Anschrift zurücksendet. Der Kunde hat dabei ausdrücklich (z.B. durch eine beigefügte Mitteilung oder vorab per E-Mail an info(at)cw-mobile.de) anzugeben, dass die Rücksendung im Rahmen des freiwilligen Rückgaberechts erfolgt.\n8.3 Fristwahrend ist der Zugang der Ware bei cw-mobile. Im Falle der Ausübung des freiwilligen Rückgaberechts hat der Kunde die Kosten der Hinsendung und der Rücksendung zu tragen. cw-mobile übernimmt jedoch die Kosten der Rücksendung, wenn der Preis der zurückzusendenden Sache einen Betrag von 50 Euro übersteigt. Unfreie oder nicht ausreichend frankierte Rücksendungen werden von cw-mobile nicht angenommen. Sofern die Ware ordnungsgemäß und rechtzeitig bei cw-mobile eingeht, wird der Kaufpreis erstattet.\n8.4 Im Rahmen des freiwilligen Rückgaberechts zurückgesandte Ware darf nicht beschädigt oder sonst verschlechtert sein. Eine Verschlechterung liegt vor, soweit sie auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise nicht notwendigen Umgang mit der Sache zurückzuführen ist. Unter „Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.\n8.5 Das freiwillige Rückgaberecht besteht nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse zugeschnitten sind sowie bei Verträgen zur Lieferung von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde.\n§ 9 HAFTUNG VON cw-mobile\n9.1 Für Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung von cw-mobile oder seiner Erfüllungsgehilfen beruhen, sowie für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung von cw-mobile oder seiner Erfüllungsgehilfen beruhen, haftet cw-mobile jeweils unbeschränkt nach den gesetzlichen Bestimmungen.\n9.2 Bei fahrlässig verursachten Sach- und Vermögensschäden haften cw-mobile und seine Erfüllungsgehilfen ansonsten nur, sofern eine wesentliche Vertragspflicht verletzt wird, jedoch der Höhe nach beschränkt auf die bei Vertragsschluss vorhersehbaren und vertragstypischen Schäden; wesentliche Vertragspflichten sind solche, deren Erfüllung den Vertrag prägt und auf die der Kunde vertrauen darf.\n9.3 Die Haftung nach dem Produkthaftungsgesetz bleibt unberührt.\n§ 10 ANWENDBARES RECHT, SCHRIFTFORM, SALVATORISCHE KLAUSEL, GERICHTSSTAND\n10.1 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.\n10.2 Beide Vertragsparteien können Willenserklärungen in elektronischer Form oder in Textform abgeben, soweit nicht die elektronische Form bzw. die Textform im Einzelfall ausdrücklich ausgeschlossen ist oder ein gesetzliches Schriftformerfordernis besteht.\n10.3 Der Vertrag bleibt auch bei rechtlicher Unwirksamkeit einzelner Punkte in seinen übrigen Teilen verbindlich. An die Stelle der unwirksamen Punkte treten, soweit vorhanden, die gesetzlichen Vorschriften.\n10.4 Ausschließlicher Gerichtsstand für sämtliche Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist, wenn der Kunde ein Kaufmann, eine juristische Person des öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen ist, der Sitz von cw-mobile.\n\n\n"
+}

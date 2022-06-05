@@ -1,0 +1,665 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnis",
+            "end": 101,
+            "start": 87,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 114,
+            "start": 102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 146,
+            "start": 145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 163,
+            "start": 162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 173,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 449,
+            "start": 448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 532,
+            "start": 529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 545,
+            "start": 534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeugnis",
+            "end": 644,
+            "start": 630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 655,
+            "start": 645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1305",
+            "end": 674,
+            "start": 670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 680,
+            "start": 675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 709,
+            "start": 699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 758,
+            "start": 748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 808,
+            "start": 797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 857,
+            "start": 847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 869,
+            "start": 859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 871,
+            "start": 870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 1005,
+            "start": 997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1008,
+            "start": 1007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 1169,
+            "start": 1158,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1285,
+            "start": 1284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1288,
+            "start": 1287,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1409,
+            "start": 1408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1412,
+            "start": 1411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 1518,
+            "start": 1515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Papier",
+            "end": 1595,
+            "start": 1589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfüge",
+            "end": 1670,
+            "start": 1663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnis",
+            "end": 1753,
+            "start": 1746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1869,
+            "start": 1867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortgeführt",
+            "end": 2029,
+            "start": 2018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2109,
+            "start": 2103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 2304,
+            "start": 2295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2307,
+            "start": 2306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 2330,
+            "start": 2321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 2485,
+            "start": 2477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2488,
+            "start": 2487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 2542,
+            "start": 2532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2545,
+            "start": 2544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2729,
+            "start": 2726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorhanden",
+            "end": 2815,
+            "start": 2806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2975,
+            "start": 2969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3037,
+            "start": 3031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3268,
+            "start": 3262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3271,
+            "start": 3270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 3392,
+            "start": 3383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 3548,
+            "start": 3539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 3569,
+            "start": 3550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3571,
+            "start": 3570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3754,
+            "start": 3751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3758,
+            "start": 3756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 3830,
+            "start": 3825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 3909,
+            "start": 3906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3913,
+            "start": 3911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 3954,
+            "start": 3943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 3958,
+            "start": 3956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 4162,
+            "start": 4159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4166,
+            "start": 4164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 4425,
+            "start": 4416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 4429,
+            "start": 4427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 4482,
+            "start": 4479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4486,
+            "start": 4484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeugnis",
+            "end": 4635,
+            "start": 4628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 4685,
+            "start": 4681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweisen",
+            "end": 4885,
+            "start": 4876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 5174,
+            "start": 5170,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5515,
+            "start": 5514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5519,
+            "start": 5517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5790,
+            "start": 5784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzunehmen",
+            "end": 5885,
+            "start": 5874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Farbe",
+            "end": 5972,
+            "start": 5967,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6129,
+            "start": 6128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 6133,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6305,
+            "start": 6302,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6497,
+            "start": 6496,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6766,
+            "start": 6765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 6770,
+            "start": 6768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgert",
+            "end": 6893,
+            "start": 6886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatsachen",
+            "end": 7034,
+            "start": 7025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitnehmers",
+            "end": 7163,
+            "start": 7150,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7324,
+            "start": 7323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7328,
+            "start": 7326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 7430,
+            "start": 7423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ordnungsgemäß",
+            "end": 7505,
+            "start": 7492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benutzen",
+            "end": 7624,
+            "start": 7616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7803,
+            "start": 7800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 7957,
+            "start": 7952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "glaubwürdig",
+            "end": 8001,
+            "start": 7990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellt",
+            "end": 8103,
+            "start": 8095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8107,
+            "start": 8105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 8293,
+            "start": 8288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 8569,
+            "start": 8565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 8573,
+            "start": 8571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9078,
+            "start": 9072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 9243,
+            "start": 9239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9247,
+            "start": 9245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GewO",
+            "end": 9386,
+            "start": 9382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägerin",
+            "end": 9510,
+            "start": 9502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 9805,
+            "start": 9794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9934,
+            "start": 9928,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10184,
+            "start": 10183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10188,
+            "start": 10186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 10276,
+            "start": 10273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10280,
+            "start": 10278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 10339,
+            "start": 10328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 10343,
+            "start": 10341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 10446,
+            "start": 10441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 10540,
+            "start": 10529,
+            "type": "SBD"
+        }
+    ],
+    "Text": "ArbG Weiden, Endurteil v. 09.01.2019 – 3 Ca 615/18\nTitel:\nAnspruch auf ein ungelochtes Arbeitszeugnis\nNormenketten:\nGewO § 109 Abs. 1, Abs. 2 S. 2\nBGB § 362 Abs. 1\nLeitsätze:\n1. Ein Arbeitnehmer hat einen Anspruch auf ein ungelochtes Arbeitszeugnis, wenn sein Arbeitgeber\nungelochtes Geschäftspapier besitzt und benutzt oder die Verwendung ungelochten Papiers für die\nZeugniserstellung in der betreffenden Branche Standard ist (beides hier verneint).\n2. Eine Lochung stellt kein unzulässiges Geheimzeichen i.S.d. § 109 II 2 GewO dar.\nSchlagworte:\nZeugniserteilungsanspruch, ungelochtes Geschäftspapier, Verpflichtung, ungelochtes Arbeitszeugnis\nFundstelle:\nBeckRS 2019, 1305\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Klägerin trägt die Kosten des Verfahrens.\n3. Der Streitwert wird auf 1.950,- € festgesetzt.\n4. Die Berufung wird nicht gesondert zugelassen.\nTatbestand\n1\nDie Parteien streiten um die Verpflichtung der Beklagten, der Klägerin das Arbeitszeugnis auf ungelochtem\nGeschäftspapier zu erteilen.\n2\nDie Klägerin war bei der Beklagten bzw. deren Rechtsvorgängerin vom 01.10.1979 bis 31.03.2017 mit\neinem Bruttomonatsgehalt von zuletzt ca. 1.950,- € beschäftigt. Bei der Beklagten handelt es sich um ein\nBauunternehmen (Verkauf und Verlegung von Fliesen und Natursteinarbeiten).\n3\nDie Beklagte erteilte der Klägerin unter dem 31.03.2017 ein Arbeitszeugnis auf gelochtem Geschäftspapier\n(Bl. 4 f. d.A.).\n4\nDagegen geht die Klägerin mit der vorliegenden, am 28.05.2018 beim Arbeitsgericht eingegangenen Klage\nvor. Sie habe einen Anspruch auf Erteilung des Zeugnisses auf ungelochtem Papier. Es sei nicht richtig,\ndass die Beklagte nur über gelochtes Papier verfüge. Unabhängig davon habe sie aber in jedem Fall\nAnspruch auf ein ungelochtes Zeugnis. Eine Lochung sei absolut unüblich und lasse negative Rückschlüsse\nauf das Arbeitsverhältnis und die Beurteilung zu. Die Beklagte habe nach der Geschäftsübernahme\nverschiedene Änderungen am Geschäftspapier vorgenommen und den Druckauftrag gerade nicht\nunverändert fortgeführt. Vom vorherigen Lieferanten sei auch ungelochtes Geschäftspapier bezogen\nworden. Die Herstellung auch nur weniger Bögen ungelochtes Geschäftspapier verursache keine\nwesentlichen Kosten, es sei der Beklagten zuzumuten, ungelochtes Geschäftspapier für das Zeugnis zu\nverwenden.\n5\nDie Klägerin beantragt:\nDie Beklagte wird verurteilt, der Klägerin das unter dem 31.03.2017 ausgestellte Arbeitszeugnis auf\nungelochtem Geschäftspapier der Beklagten zu erteilen.\n6\nDie Beklagte beantragt hingegen,\ndie Klage abzuweisen.\n7\nDie Beklagte trägt vor, dass das Briefpapier der Beklagten sowohl vor als auch nach der Übernahme der\nGeschäfte durch die jetzigen Geschäftsführer stets nur gelocht bezogen worden sei. Ungelochtes Papier sei\nzu keinem Zeitpunkt geliefert worden und auch nicht vorhanden. Das aktuelle Papier sei vom\nBeklagtengeschäftsführer nach dem Muster des bis dahin existierenden Papiers und damit eben auch\ngelocht in Auftrag gegeben worden. Über die Frage der Lochung sei dabei nicht gesprochen worden. Da die\nWerbefirma aber die klare Anweisung gehabt habe, mit Ausnahme der wenigen besprochenen\nunwesentlichen Änderungen exakt das bislang vorhandene Geschäftspapier zu erstellen, sei zu Recht nur\ngelochtes Papier geliefert worden.\n8\nWegen weiterer Einzelheiten zum Sach- und Streitstand wird ergänzend noch auf den gesamten übrigen\nAkteninhalt verwiesen. Die Kammer hat Beweis erhoben durch uneidliche Einvernahme der Zeugen E. und\nF.. Diesbezüglich wird auf die Sitzungsniederschrift vom 09.01.2019 verwiesen.\nEntscheidungsgründe\n9\nDie Klage konnte keinen Erfolg haben, da die Klägerin in der gegebenen Situation keinen Anspruch auf\nnochmalige Erstellung ihres Arbeitszeugnisses auf ungelochtem Geschäftspapier hat.\n10\nDer Rechtsweg zu den Arbeitsgerichten ist eröffnet, § 2 I Nr. 3 c ArbGG. Das Arbeitsgericht Weiden ist\nörtlich zuständig, §§ 46 II ArbGG, 12, 17 I ZPO.\n11\nDie Klage ist zulässig, aber unbegründet.\n12\nDie Beklagte hat den Zeugniserteilungsanspruch der Klägerin gemäß § 109 I GewO durch Erteilung des\nunter dem 31.12.2017 erstellen Arbeitszeugnis auf gelochtem Geschäftspapier bereits erfüllt, § 362 I BGB.\n13\nJedenfalls in der hier betroffenen Baubranche und mit Blick auf die Größe der Beklagten darf der\nArbeitgeber zur Überzeugung der Kammer dann, wenn im Betrieb ausschließlich gelochtes Geschäftspapier\nvorhanden ist, auch solches zur Zeugniserstellung verwenden.\n14\nDas Gericht geht dabei von folgenden Grundsätzen aus:\n15\nDer Arbeitnehmer hat nach § 109 I GewO bei Beendigung des Arbeitsverhältnisses gegen seinen\nArbeitgeber einen Anspruch auf ein schriftliches Zeugnis. Dieses Zeugnis muss auch formell in Ordnung\nsein. Das Zeugnis muss sauber und ordentlich, sinnvollerweise in Maschinenschrift mit lesbarem Schriftgrad\ngeschrieben sein und darf keine Flecken, Radierungen, Verbesserungen, Durchstreichungen aufweisen. Es\ndarf nicht der Eindruck erweckt werden, der Aussteller distanziere sich vom buchstäblichen Wortlaut seiner\nErklärung, wie dies etwa beim Weglassen eines in der Branche oder dem Gewerbe üblichen Merkmals oder\nZusatzes oder bei der Benutzung sonst nicht üblicher Formulare der Fall wäre. Daher ist, wenn im\nGeschäftszweig des Arbeitgebers für schriftliche Äußerungen üblicherweise Firmenbögen verwendet\nwerden und auch der Arbeitgeber solches Geschäftspapier verwendet, ein Zeugnis nur dann\nordnungsgemäß, wenn es auf Firmenpapier geschrieben worden ist (ErfK, 19. Aufl., § 109 GewO, Rn. 14\nmit Nachweis der BAG-Rechtsprechung).\n16\nAndererseits sind übertriebene Anforderungen an die Zeugnisästhetik (Wahl eines bestimmten Papiers,\neiner bestimmten Schriftart oder eines bestimmten Papierformats) nicht anzuerkennen, doch darf das\nZeugnis nicht durch negative Abweichungen vom Standard entwertet werden. Nicht ins Gewicht fallende\nUnvollkommenheiten des Zeugnisses hat der Arbeitnehmer hinzunehmen. Ein Rechtsanspruch auf ein\nungefaltetes Zeugnis besteht nicht, ebenso wenig auf Farbe. Besteht das Zeugnis aus 2 oder mehr Blättern,\ndürfen diese maschinell mittels Heftklammer verbunden werden (vgl. ErfK a.a.O. mit\nRechtsprechungsnachweisen).\n17\nDas Bundesarbeitsgericht stellt darauf ab, welche Gepflogenheiten in formeller Hinsicht in der betreffenden\nBranche bestehen, d.h. welches Geschäftspapier sonst üblich ist. Es kommt aber entscheidend auch auf die\nGepflogenheiten des ausstellenden Arbeitgebers und darauf an, welches Geschäftspapier dieser besitzt\nund benutzt (vgl. BAG vom 3.3.1993, 5 AZR 182/92). An die formelle Ausgestaltung eines Zeugnisses einer\ninternationalen Großkanzlei gelten beispielsweise andere Anforderungen als an die eines kleinen\nHandwerkbetriebes (Beispiel nach Boecken/Düwell/Diller/Hanau, Gesamtes Arbeitsrecht, 1. Aufl. 2016, §\n109 GewO Rn. 53).\n18\nDer Arbeitgeber hat die Tatsachen darzulegen und ggf. zu beweisen, aus denen er die Erfüllung des\nZeugnisanspruchs folgert. Dazu gehören die ein formell einwandfreies, inhaltlich vollständiges und in der\nBewertung durchschnittliches Zeugnis ausmachenden Tatsachen. Die notwendige Substantiierung seines\ndiesbezüglichen Sachvortrags ist jeweils abhängig vom Vortrag des klagenden Arbeitnehmers. Im Rahmen\nvon § 109 II 2 GewO trägt die Partei die Darlegungs- und Beweislast, die geltend macht, dass ein\nverbotenes Geheimzeichen vorliegt (vgl. ErfK Rn. 85).\n19\nGemessen an diesen Grundsätzen hat die Beklagte hier den Zeugnisanspruch der Klägerin gehörig erfüllt.\nDas Zeugnis ist formell - nur darum streiten die Parteien - ordnungsgemäß. Die Beklagte hat zur\nÜberzeugung des Gerichts nachgewiesen, nur gelochtes Geschäftspapier zu besitzen und zu benutzen. Die\nZeugin F. hat als Bürokauffrau der Beklagten erklärt, dass die Beklagte nur gelochtes Papier verwende und\nungelochtes Geschäftspapier ihrer Kenntnis nach nicht vorhanden sei. Der Zeuge E. hat als Produzent und\nLieferant des aktuellen Geschäftspapiers der Beklagten erklärt, der Beklagten nur gelochtes Papier geliefert\nzu haben. Beide Zeugen erwiesen sich als glaubwürdig. Auf diesem vorhandenen Geschäftspapier hat die\nBeklagte das Zeugnis der Klägerin unstreitig erstellt.\n20\nEin Anspruch der Klägerin gegen die Beklagte auf Beschaffung eines neuen (ungelochten)\nGeschäftspapiers zur Erstellung ihres Zeugnisses besteht aus Sicht der entscheidenden Kammer nicht.\nEiner solchen Verpflichtung würde die Beklagte nach § 109 GewO und den aufgezeigten Grundsätzen nur\nunterliegen, wenn die Zeugniserstellung auf ungelochtem Papier im betreffenden Geschäftszweig Standard\noder die Lochung ein nach § 109 II 2 GewO verbotenes Geheimzeichen wäre.\n21\nDass ein ungelochtes Zeugnis maßgebender Standard in der hier betroffenen Baubranche - bei der\nBeklagten handelt es sich nach ihrem Internetauftritt um einen eher kleinen Handwerksbetrieb für Fliesenund\nNatursteinarbeiten mit unter 20 Arbeitnehmern - wäre, ist nicht ersichtlich und kann insbesondere auch\nweder dem Vortrag der Klägerin - die nur ganz allgemein und ohne Branchenbezug davon ausgeht, dass\nZeugnisse auf ungelochtem Geschäftspapier üblich seien - noch dem Beklagtenvortrag entnommen\nwerden. Die Kammer legt aber Wert darauf festzuhalten, dass sie es nicht für ausgeschlossen erachtet,\ndass dieser Punkt von einem anderen Gericht abweichend beurteilt wird.\n22\nSchließlich sieht das Gericht in der Verwendung des gelochten Geschäftspapiers auch kein unzulässiges\nGeheimzeichen i.S.d. § 109 II 2 GewO. Das gelochte Geschäftspapier signalisiert einem\nunvoreingenommenen Leser mit Branchenkenntnis keine Kritik an der Klägerin. Ausreichende\nAnhaltspunkte dafür, dass sich der beklagte Handwerksbetrieb durch die Verwendung eines gelochten\nPapiers vom Zeugnisinhalt distanziert oder die Klägerin sonst kritisiert, sind nicht erkennbar oder von der\ni.R.d. § 109 II 2 GewO darlegungsverpflichteten Klägerin näher vorgetragen. Eine allgemein anerkannte\noder jedenfalls überwiegend vertretene Bedeutung eines gelochten Zeugnisses kann nicht erkannt werden.\nDamit entscheidet das Gericht den Fall des gelochten Arbeitszeugnisses im Ergebnis so wie den des\n„getackerten“ Zeugnisses (vgl. hierzu LAG Rheinland-Pfalz vom 9.11.2017, 5 Sa 314/17 mit zustimmender\nAnmerkung von Dahl, jurisPR-ArbR 23/2018 Anm. 6).\n23\nDie Klägerin hat als unterlegene Partei die Kosten des Verfahrens zu tragen, § 91 I ZPO.\n24\nDer Streitwert wurde gem. §§ 61 I ArbGG, 3 ZPO festgesetzt.\n25\nEin gesetzlich begründeter Anlass für eine gesonderte Berufungszulassung bestand nicht, § 64 III ArbGG.\nAuf die Möglichkeit einer Beschwerdewertberufung gem. § 64 II b) ArbGG wird aber hingewiesen.\n\n"
+}

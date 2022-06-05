@@ -1,0 +1,419 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 18,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 37,
+            "start": 19,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrechts",
+            "end": 78,
+            "start": 63,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 790,
+            "start": 785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 820,
+            "start": 811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 958,
+            "start": 955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1133,
+            "start": 1131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1272,
+            "start": 1269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1463,
+            "start": 1455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 1844,
+            "start": 1837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 1907,
+            "start": 1903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ländern",
+            "end": 2113,
+            "start": 2106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Endverbraucher",
+            "end": 2204,
+            "start": 2190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwertsteuer",
+            "end": 2281,
+            "start": 2267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ladenpreise",
+            "end": 2420,
+            "start": 2409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2435,
+            "start": 2422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "00",
+            "end": 2577,
+            "start": 2575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zone",
+            "end": 2705,
+            "start": 2701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 2881,
+            "start": 2872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2938,
+            "start": 2931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2947,
+            "start": 2940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 3093,
+            "start": 3085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 3205,
+            "start": 3198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 3252,
+            "start": 3247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 3536,
+            "start": 3523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausliefern",
+            "end": 3623,
+            "start": 3613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 3750,
+            "start": 3743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontaktieren",
+            "end": 3862,
+            "start": 3850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belasten",
+            "end": 3958,
+            "start": 3950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bankgebühren",
+            "end": 4074,
+            "start": 4062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mahnungen",
+            "end": 4120,
+            "start": 4111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4209,
+            "start": 4203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GmbH",
+            "end": 4295,
+            "start": 4291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 4451,
+            "start": 4443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4605,
+            "start": 4603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4731,
+            "start": 4729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 5007,
+            "start": 5004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 5286,
+            "start": 5275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 5363,
+            "start": 5356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 5383,
+            "start": 5365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 5446,
+            "start": 5438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 5462,
+            "start": 5448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anliefert",
+            "end": 5704,
+            "start": 5695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 5798,
+            "start": 5786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufwendungen",
+            "end": 6254,
+            "start": 6242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6415,
+            "start": 6411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechte",
+            "end": 6489,
+            "start": 6483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artikel",
+            "end": 6515,
+            "start": 6508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 6699,
+            "start": 6690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kommunikation",
+            "end": 6728,
+            "start": 6715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 6821,
+            "start": 6817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 6850,
+            "start": 6835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 6978,
+            "start": 6966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Links",
+            "end": 7015,
+            "start": 7010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Internet",
+            "end": 7088,
+            "start": 7080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 7115,
+            "start": 7111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 7234,
+            "start": 7229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigen",
+            "end": 7380,
+            "start": 7375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 7484,
+            "start": 7478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestelltextes",
+            "end": 7531,
+            "start": 7518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 7580,
+            "start": 7573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7700,
+            "start": 7694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausdrucken",
+            "end": 7791,
+            "start": 7781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bildrechte",
+            "end": 7803,
+            "start": 7793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Partnern",
+            "end": 7883,
+            "start": 7875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 7950,
+            "start": 7941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieterkennzeichnung",
+            "end": 7973,
+            "start": 7952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 7983,
+            "start": 7974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 7998,
+            "start": 7984,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Widerrufsbelehrung\nWiderrufsbelehrung\nAusschluss/Erlöschen des Widerrufsrechts\nEin Widerrufsrecht besteht nach § 312g Abs. 2 BGB u.a. nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbraucher zugeschnitten sind und es erlischt vorzeitig bei Verträgen zur Lieferung versiegelter Waren, die aus Gründen des Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind, wenn ihre Versiegelung nach der Lieferung entfernt wurde und bei Verträgen zur Lieferung von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde.\nZustandekommen des Vertrages\nDie Darstellung der Waren in unseren Onlineshops stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Onlinekatalog dar. Durch Anklicken des Buttons „Jetzt zum genannten Preis bestellen“ geben Sie an uns ein verbindliches Angebot zur Bestellung über die in Ihrem Warenkorb befindlichen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unverzüglich nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Der Kaufvertrag kommt mit Auslieferung der Ware, bei Zahlung mit Kreditkarte, PayPal, Sofortüberweisung und Paydirekt mit Zugang der Zahlungsaufforderung, die Sie von uns erhalten, zustande.\nLieferung\nBestellungen und Lieferungen sind innerhalb von Deutschland, sowie grundsätzlich nach Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Großbritannien, Irland, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien, Ungarn und Zypern möglich. Einzelne Produkte können vom Auslandsversand ausgenommen sein. Grundsätzlich erfolgt die Anlieferung durch Hermes oder die von uns beauftragte Speditionsfirma (für Speditionsartikel) in Deutschland bzw. durch DHL oder lokale Postdienstleister in allen übrigen Ländern. Die Abgabe von Artikeln erfolgt nur in haushaltsüblichen Mengen und nur an Endverbraucher. Unsere Preise sind Euro-Preise und enthalten die gesetzliche Mehrwertsteuer. Soweit die angebotenen Waren dem Gesetz über die Preisbindung für Bücher unterliegen, sind unsere Preise gesetzlich gebundene Ladenpreise.\nVersandkosten\nDie Versandkostenpauschale beträgt für Lieferungen in Deutschland € 2,95 (unabhängig vom Bestellwert). Der Mindestbestellwert beträgt € 15,00. Da Auslandssendungen deutlich höhere Kosten verursachen, ergibt sich die Versandkostenpauschale je nach der nachfolgenden Zone.\nEnthält eine Bestellung besonders sperrige oder schwere Artikel und muss deshalb per Spedition geliefert werden, wird ein gesonderter Speditionsaufschlag von € 5,00 berechnet. Der Versand von Sperrgut ist nur in Deutschland möglich.\nZahlung\nDie Zahlung kann grundsätzlich per Kreditkarte, Nachnahme, Paypal, Sofortüberweisung, Paydirekt, Lastschrift, Ratenzahlung oder Rechnung erfolgen. Bei Bezahlung per Nachnahme wird eine Servicegebühr in Höhe von EUR 7,00 bei Auslieferung durch Hermes erhoben. Die Möglichkeit zum Skontoabzug besteht nicht. Wir behalten uns vor, Ihnen für die erbetene Lieferung nur bestimmte Zahlungsarten anzubieten, beispielsweise behalten wir uns zur Absicherung des Kreditrisikos entsprechend der jeweiligen Bonität vor, die von Ihnen erbetene Lieferung nur gegen bestimmte Zahlungsarten durchzuführen. Außerhalb von Deutschland können wir die Ware gegen Kreditkarte und Paypal ausliefern. In Österreich und der Schweiz ist die Zahlung zusätzlich per Sofortüberweisung und Rechnung – Bonität vorausgesetzt – möglich.\nSollte uns ein per Lastschrift eingezogener Betrag zurückbelastet werden, werden wir Sie per Mail kontaktieren. Durch eine Rückbelastung entstehen uns Bankgebühren in Höhe von € 5,00, die wir Ihnen belasten. Sollten die Gründe für eine Rückbelastung bei uns liegen, belasten wir Ihnen selbstverständlich keine Bankgebühren.\nBei Zahlungsverzug verschicken wir Mahnungen. Bitte beachten Sie, dass hierdurch Mahngebühren anfallen, mit denen Sie belastet werden.\nZusätzliche Allgemeine Geschäftsbestimmungen und Datenschutzhinweis der RatePAY GmbH: Um Ihnen attraktive Zahlungsarten anbieten zu können, arbeiten wir mit der RatePAY GmbH, Franklinstr. 28-29, 10587 Berlin (nachfolgend \"RatePAY\") zusammen. Kommt bei Nutzung einer RatePAY-Zahlungsart ein wirksamer Kaufvertrag zwischen Ihnen und uns zustande, treten wir unsere Zahlungsforderung an RatePAY ab.\nBei Nutzung der RatePAY-Zahlungsart Ratenzahlung, treten wir unsere Zahlungsforderung an die Partnerbank der RatePAY GmbH ab. Wenn Sie eine der hier angebotenen RatePAY-Zahlungsarten wählen, willigen Sie im Rahmen Ihrer Bestellung in die Weitergabe Ihrer persönlichen Daten und die der Bestellung, zum Zwecke der Identitäts- und Bonitätsprüfung, sowie der Vertragsabwicklung, an die Rate-PAY GmbH ein. Alle Einzelheiten finden Sie in den zusätzlichen Allgemeinen Geschäftsbedingungen und dem Datenschutzhinweis für RatePAY-Zahlungsarten, die Teil dieser Allgemeinen Geschäftsbedingungen sind und immer dann Anwendung finden, wenn Sie sich für eine RatePAY-Zahlungsart entscheiden.\nWeitere Informationen zur Zahlung finden Sie auf unserer Hilfeseite Zahlung.\nEigentumsvorbehalt\nBis zur vollständigen Bezahlung bleibt die Ware unser Eigentum.\nGewährleistung\nSollten gelieferte Artikel offensichtliche Material- oder Herstellungsfehler aufweisen, wozu auch Transportschäden zählen, so reklamieren Sie bitte solche Fehler sofort gegenüber uns oder dem Mitarbeiter von Hermes, der die Artikel anliefert. Die Versäumung dieser Rüge hat allerdings für Ihre gesetzlichen Ansprüche keine Konsequenzen. Für alle während der gesetzlichen Gewährleistungspflicht auftretenden Mängel der Kaufsache gelten nach Ihrer Wahl die gesetzlichen Ansprüche auf Nacherfüllung, auf Mangelbeseitigung/Neulieferung sowie – bei Vorliegen der gesetzlichen Voraussetzungen – die weitergehenden Ansprüche auf Minderung oder Rücktritt sowie daneben auf Schadenersatz, einschließlich des Ersatzes des Schadens statt der Erfüllung sowie des Ersatzes Ihrer vergeblichen Aufwendungen. Soweit wir Ihnen eine Verkäufergarantie gewähren, ergeben sich die Einzelheiten aus den Garantiebedingungen, die dem jeweils gelieferten Artikel beigefügt sind. Garantieansprüche bestehen unbeschadet der gesetzlichen Ansprüche/Rechte.\nNicht lieferbare Artikel\nSollte ein Artikel nicht lieferbar sein, verpflichten wir uns, Sie unverzüglich über die Nichtverfügbarkeit zu informieren und etwa erhaltene Gegenleistungen unverzüglich zu erstatten.\nElektronische Kommunikation\nSie stimmen zu, dass die vertragsbezogene Kommunikation in elektronischer Form erfolgen kann.\nAlternative Streitbeilegung\nWir sind nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\nHaftungsausschluss für fremde Links\nWir verweisen auf unseren Seiten mit Links zu anderen Seiten im Internet. Für alle diese Links gilt: Wir erklären ausdrücklich, dass wir keinerlei Einfluss auf die Gestaltung und die Inhalte der verlinkten Seiten haben. Deshalb distanzieren wir uns hiermit ausdrücklich von allen Inhalten aller verlinkter Seiten Dritter und machen uns diese Inhalte nicht zu Eigen. Diese Erklärung gilt für alle angezeigten Links und für alle Inhalte der Seiten, zu denen Links führen.\nVertragssprache/Speicherung des Bestelltextes\nDer Vertragsschluss erfolgt in deutscher Sprache. Der Bestelltext wird bei uns nicht gespeichert und kann nach Abschluss des Bestellvorgangs nicht mehr abgerufen werden. Sie können Ihre Bestelldaten aber unmittelbar nach dem Absenden der Bestellung ausdrucken.\nBildrechte\nAlle Bildrechte und Messdaten liegen bei der myToys.de GmbH oder ihren Partnern. Eine Verwendung ohne ausdrückliche Zustimmung ist nicht gestattet.\nAnbieterkennzeichnung\nAnschrift\nMusterformular\n\n"
+}

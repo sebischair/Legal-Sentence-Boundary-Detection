@@ -1,0 +1,1283 @@
+{
+    "Annotations": [
+        {
+            "annotation": "ER",
+            "end": 57,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 63,
+            "start": 58,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Asylverfahren",
+            "end": 109,
+            "start": 96,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsförderung",
+            "end": 126,
+            "start": 110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Asylverfahrens",
+            "end": 237,
+            "start": 223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 250,
+            "start": 238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 262,
+            "start": 260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60a",
+            "end": 284,
+            "start": 281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "132",
+            "end": 310,
+            "start": 307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 327,
+            "start": 326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 337,
+            "start": 328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 606,
+            "start": 598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prognose",
+            "end": 960,
+            "start": 952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 973,
+            "start": 962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prognose",
+            "end": 1184,
+            "start": 1176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1195,
+            "start": 1185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "t",
+            "end": 1192,
+            "start": 1191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ER",
+            "end": 1253,
+            "start": 1251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1264,
+            "start": 1254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6852",
+            "end": 1283,
+            "start": 1279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1289,
+            "start": 1284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1470,
+            "start": 1461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1524,
+            "start": 1515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beigeordnet",
+            "end": 1654,
+            "start": 1643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1662,
+            "start": 1656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1664,
+            "start": 1663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1667,
+            "start": 1666,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1771,
+            "start": 1770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1774,
+            "start": 1773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsangehörige",
+            "end": 1847,
+            "start": 1831,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2116,
+            "start": 2115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2203,
+            "start": 2197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Helferin",
+            "end": 2290,
+            "start": 2282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebensmitteltechnik",
+            "end": 2436,
+            "start": 2417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 2523,
+            "start": 2522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 2694,
+            "start": 2687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 2867,
+            "start": 2857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2870,
+            "start": 2869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3027,
+            "start": 3025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bleibeperspektive",
+            "end": 3136,
+            "start": 3119,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3219,
+            "start": 3218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entschieden",
+            "end": 3259,
+            "start": 3248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3262,
+            "start": 3261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 3341,
+            "start": 3332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustehe",
+            "end": 3421,
+            "start": 3414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angewiesen",
+            "end": 3562,
+            "start": 3552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bleibeperspektive",
+            "end": 3642,
+            "start": 3625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 3766,
+            "start": 3758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3903,
+            "start": 3897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 4090,
+            "start": 4081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewilligen",
+            "end": 4220,
+            "start": 4210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4353,
+            "start": 4347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 4449,
+            "start": 4444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 4640,
+            "start": 4635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 4716,
+            "start": 4708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 4815,
+            "start": 4807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4818,
+            "start": 4817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingelegt",
+            "end": 4895,
+            "start": 4886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 4967,
+            "start": 4960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 5040,
+            "start": 5033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liege",
+            "end": 5186,
+            "start": 5181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufenthalt",
+            "end": 5271,
+            "start": 5261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5396,
+            "start": 5390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 5480,
+            "start": 5470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufsausbildung",
+            "end": 5586,
+            "start": 5570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufenthaltsgestattungen",
+            "end": 5686,
+            "start": 5663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "B1",
+            "end": 5888,
+            "start": 5886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bleibewahrscheinlichkeit",
+            "end": 5938,
+            "start": 5914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 6066,
+            "start": 6060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwarten",
+            "end": 6252,
+            "start": 6244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 6405,
+            "start": 6396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6408,
+            "start": 6407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 6532,
+            "start": 6524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 6536,
+            "start": 6534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 6539,
+            "start": 6538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 6656,
+            "start": 6647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 6732,
+            "start": 6720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsschutz",
+            "end": 6806,
+            "start": 6794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6809,
+            "start": 6808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BAB",
+            "end": 6850,
+            "start": 6847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 7124,
+            "start": 7115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheint",
+            "end": 7224,
+            "start": 7215,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7644,
+            "start": 7643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7647,
+            "start": 7646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 7895,
+            "start": 7889,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8112,
+            "start": 8111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8116,
+            "start": 8114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wechselbeziehung",
+            "end": 8200,
+            "start": 8184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8500,
+            "start": 8497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 8696,
+            "start": 8686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 8810,
+            "start": 8808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8814,
+            "start": 8812,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9259,
+            "start": 9258,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9879,
+            "start": 9878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9883,
+            "start": 9881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 9930,
+            "start": 9927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10033,
+            "start": 10031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10037,
+            "start": 10035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 10518,
+            "start": 10512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10522,
+            "start": 10520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 10608,
+            "start": 10605,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11052,
+            "start": 11051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 11643,
+            "start": 11639,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11860,
+            "start": 11859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11864,
+            "start": 11862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12011,
+            "start": 12008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufhalten",
+            "end": 12305,
+            "start": 12296,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12794,
+            "start": 12793,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13240,
+            "start": 13239,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13619,
+            "start": 13618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 14246,
+            "start": 14240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AufenthG",
+            "end": 14487,
+            "start": 14479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14653,
+            "start": 14647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 14657,
+            "start": 14655,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14961,
+            "start": 14960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 14965,
+            "start": 14963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 15158,
+            "start": 15150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15316,
+            "start": 15312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufenthaltserlaubnis",
+            "end": 15417,
+            "start": 15397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 15421,
+            "start": 15419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 15505,
+            "start": 15502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15742,
+            "start": 15739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwarten",
+            "end": 15885,
+            "start": 15877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 15889,
+            "start": 15887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 16026,
+            "start": 16020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 16212,
+            "start": 16205,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17278,
+            "start": 17277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 17614,
+            "start": 17610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "droht",
+            "end": 17982,
+            "start": 17977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 17986,
+            "start": 17984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 18269,
+            "start": 18263,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19152,
+            "start": 19151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 19493,
+            "start": 19482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansatz",
+            "end": 19654,
+            "start": 19648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 19787,
+            "start": 19783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgestellt",
+            "end": 20304,
+            "start": 20292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegenüber",
+            "end": 20386,
+            "start": 20377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 20483,
+            "start": 20478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 20676,
+            "start": 20671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 21003,
+            "start": 21001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beleg",
+            "end": 21190,
+            "start": 21185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21383,
+            "start": 21380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21496,
+            "start": 21490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 21500,
+            "start": 21498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bleibeperspektive",
+            "end": 21730,
+            "start": 21713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 21872,
+            "start": 21866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 22512,
+            "start": 22509,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23085,
+            "start": 23084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessert",
+            "end": 23204,
+            "start": 23194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 23208,
+            "start": 23206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 23364,
+            "start": 23355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 23578,
+            "start": 23573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 23732,
+            "start": 23726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 23736,
+            "start": 23734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 24088,
+            "start": 24083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 24354,
+            "start": 24350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 24473,
+            "start": 24467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 24626,
+            "start": 24619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 24702,
+            "start": 24696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 24881,
+            "start": 24873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 25185,
+            "start": 25180,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25382,
+            "start": 25381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 25470,
+            "start": 25462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 25645,
+            "start": 25638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 25649,
+            "start": 25647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 26033,
+            "start": 26028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 26141,
+            "start": 26134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 26221,
+            "start": 26217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 26378,
+            "start": 26373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 26474,
+            "start": 26465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 26894,
+            "start": 26887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 27130,
+            "start": 27127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 27189,
+            "start": 27182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 27193,
+            "start": 27191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 27618,
+            "start": 27614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 27936,
+            "start": 27930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 28145,
+            "start": 28139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 28288,
+            "start": 28281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 28341,
+            "start": 28336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 28539,
+            "start": 28536,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28869,
+            "start": 28868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 28873,
+            "start": 28871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 29205,
+            "start": 29201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29384,
+            "start": 29381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anderes",
+            "end": 29483,
+            "start": 29476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 29634,
+            "start": 29631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29900,
+            "start": 29897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachlage",
+            "end": 30057,
+            "start": 30049,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30327,
+            "start": 30326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 30331,
+            "start": 30329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzunehmen",
+            "end": 30611,
+            "start": 30600,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31523,
+            "start": 31522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 31798,
+            "start": 31792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 31887,
+            "start": 31881,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32458,
+            "start": 32457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 32580,
+            "start": 32573,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33210,
+            "start": 33209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 33258,
+            "start": 33244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 33827,
+            "start": 33823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 34108,
+            "start": 34102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 34112,
+            "start": 34110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 34181,
+            "start": 34179,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34608,
+            "start": 34607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortsetzen",
+            "end": 34867,
+            "start": 34857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 34871,
+            "start": 34869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 35014,
+            "start": 35004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 35018,
+            "start": 35016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 35089,
+            "start": 35086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 35093,
+            "start": 35091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 35233,
+            "start": 35230,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35348,
+            "start": 35347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 35352,
+            "start": 35350,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35438,
+            "start": 35437,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LSG München, Beschluss v. 08.04.2019 – L 10 AL 23/19 B ER\nTitel:\nwegen einstweiliger Anordnung, Asylverfahren\nArbeitsförderung: Keine Zahlung von Berufsausbildungsbeihilfe während\nAufenthaltsgestattung zur Durchführung des Asylverfahrens\nNormenketten:\nAsylG § 55\nAufenthG § 18a, § 60a\nSGB III § 51, § 59, § 132\nSGG § 86b Abs. 2\nLeitsätze:\n1. Beim Vorliegen einer Aufenthaltsgestattung zur Durchführung eines Asylverfahrens und einer\nnegativen Prognose zur Erwartung eines dauerhaften und rechtmäßigen Aufenthalts in Deutschland\nkommen Leistungen der Berufsausbildungsbeihilfe an Ausländer nicht in Betracht.\n2. Auch die ungewisse Erwartung, dass nach Abschluss des Asylverfahrens eine Duldung bis zur\nBeendigung der Berufsausbildung nach § 60a Abs. 2 Satz 4 AufenthG und daran anschließend für\neine Beschäftigung für weitere zwei Jahre eine Aufenthaltserlaubnis nach § 18a Abs. 1a AufenthG\nerteilt werden könnte, führt alleine nicht zu einer positiven Prognose.\nSchlagworte:\nAsylverfahren, Äthopien, Aufenthaltserlaubnis, Aufenthaltsgestattung, Ausländer, Berufsausbildung,\nBerufsausbildungsbeihilfe, Bleibeperspektive, Duldung, einstweiliger Rechtsschutz, Gesamtschutzquote,\nPrognose\nVorinstanz:\nSG Würzburg, Beschluss vom 07.02.2019 – S 7 AL 201/18 ER\nFundstelle:\nBeckRS 2019, 6852\nTenor\nI. Auf die Beschwerde der Antragsgegnerin wird der Beschluss des Sozialgerichts Würzburg vom\n07.02.2019 aufgehoben und der Antrag auf Erlass einer einstweiligen Anordnung abgelehnt.\nII. Außergerichtliche Kosten sind nicht zu erstatten.\nIII. Der Antragstellerin wird für das Beschwerdeverfahren Prozesskostenhilfe bewilligt und Rechtsanwalt B.,\nB-Stadt, beigeordnet.\nGründe\nI.\n1\nStreitig ist im Rahmen des einstweiligen Rechtsschutzes die Zahlung von Berufsausbildungsbeihilfe (BAB).\n2\nDie 1984 geborene Antragstellerin (ASt) ist äthiopische Staatsangehörige. Nach eigenen Angaben sei sie\nMitte 2013 in die Bundesrepublik Deutschland eingereist und betreibe nach einer ablehnenden\nEntscheidung des Bundesamtes für Migration und Flüchtlinge (BAMF) über ihren Asylantrag ein\nKlageverfahren vor dem Verwaltungsgericht B-Stadt (VG). Zur Durchführung des Asylverfahrens ist ihr eine\nAufenthaltsgestattung erteilt worden. Vom 05.01.2015 bis 31.08.2018 arbeitete sie bei der Firma C. Ltd &\nCo KG als Helferin. Dort begann sie am 01.09.2018 eine bis 31.08.2020 dauernde Ausbildung zur\nMaschinen- und Anlagenführerin mit dem Schwerpunkt Lebensmitteltechnik. Die Ausbildungsvergütung\nbeträgt im ersten Ausbildungsjahr 672 € und im zweiten 718 €. Von der Regierung von Unterfranken wurde\nder ASt mit Bescheid vom 29.08.2018 eine Erlaubnis zur Ausübung einer Berufsausbildung unter dem\nVorbehalt des Widerrufs erteilt. Sie befinde sich zwar noch im Asylverfahren, so dass nicht ersichtlich sei,\nwelche Bleibeperspektive bestehe, aber das private Interesse an der Ausbildung würde überwiegen.\n3\nEinen Antrag auf Gewährung einer BAB lehnte die Antragsgegnerin (Ag) mit Bescheid vom 16.10.2018 in\nder Gestalt des Widerspruchsbescheides vom 27.11.2018 ab. Die ASt besitze eine Aufenthaltsgestattung\nund komme aus einem Herkunftsland mit geringer Bleibeperspektive. Dagegen hat die ASt Klage beim\nSozialgericht Würzburg (SG) erhoben (S 7 AL 20/19). Hierüber ist bislang nicht entschieden.\n4\nDie ASt hat beim SG zudem die Gewährung einstweiligen Rechtsschutzes beantragt. Ihre Duldung laufe bis\nzum Abschluss ihrer Ausbildung, so dass ihr BAB zustehe. Wegen ihrer sehr geringen finanziellen Mittel\nund dem Blockunterricht in K-Stadt während der Ausbildung sei sie auf BAB dringend angewiesen.\nAufgrund der genehmigten Berufsausbildung habe sie eine gute Bleibeperspektive. Nach der sogenannten\n3+2-Regelung könne sie nach der Ausbildung eine Arbeitserlaubnis als qualifizierte Geduldete erhalten. Im\nBescheid der Regierung von Unterfranken sei bereits eine Duldung nach § 60a Aufenthaltsgesetz\n(AufenthG) in Aussicht gestellt worden. Es werde auf die Entscheidungen des Sozialgerichts Potsdam vom\n20.12.2017 (S 6 AL 237/17 ER) und des Landessozialgerichts Berlin-Brandenburg vom 24.01.2018 (L 14 AL\n5/18 B ER) verwiesen. Mit Beschluss vom 07.02.2019 hat das SG die Ag verpflichtet, der ASt BAB bis zum\nAbschluss des Hauptsachverfahrens zu bewilligen. Die Mehrkosten hinsichtlich des Blockunterrichts in KStadt\nkönnten nicht auf Dauer aus eigener Tasche von der ASt finanziert werden. Es sei zu befürchten,\ndass die Ausbildung ohne eine Förderung nicht abgeschlossen werden könne. Es bestehe eine gute\nBleibeperspektive, weil die ASt wahrscheinlich Anspruch auf eine Ausbildungsduldung bis zum Ende der\nAusbildung habe, wenn das Asylverfahren negativ abgeschlossen werde. Danach könne sie eine\nArbeitserlaubnis als qualifiziert Geduldete erhalten. Die Regierung von Unterfranken habe bereits die\nDuldung gemäß § 60a AufenthG in Aussicht gestellt.\n5\nDagegen hat die Ag Beschwerde beim Bayerischen Landessozialgericht eingelegt. Die\nFördervoraussetzungen für Ausländer seien vorliegend nicht gegeben. Eine positive Bleibeperspektive sei\nvon der ASt nicht glaubhaft gemacht. Für die diesbezüglich anzustellende Prognose sei die\nGesamtschutzquote maßgeblich, die für Äthiopien nur bei 25% bzw 28% für 2017 bzw 2018 liege. Daraus\nfolge keine überwiegende Wahrscheinlichkeit für einen dauerhaften Aufenthalt. Unabhängig davon\nvorliegende individuelle Umstände für eine positive Bleibeperspektive seien nicht glaubhaft gemacht\nworden. Die derzeitige Aufenthaltsgestattung sei zeitlich auf das Asylverfahren beschränkt. Dies gelte\nebenso für eine etwaige im Anschluss zu erteilende Duldung für die Dauer der Berufsausbildung. Hierauf\nhat die ASt erwidert, sie sei seit fast sechs Jahren im Besitz von Aufenthaltsgestattungen. Auch leiste sie\nseit fast 50 Monaten Sozialversicherungsbeiträge und verfüge über eine Bescheinigung über die Teilnahme\nam Test „Leben in Deutschland“ mit voller Punktzahl und ein Deutschzertifikat B1. Hieraus folge eine hohe\nBleibewahrscheinlichkeit. Die Gesamtschutzquote berücksichtige nicht die Gerichtsverfahren, die bei einem\nhohen Prozentteil positiv abgeschlossen würden. Aufgrund ihrer Integrationsleistungen, ihrer dreijährigen\nErwerbstätigkeit und der laufenden Berufsausbildung sei ein rechtmäßiger und dauerhafter Aufenthalt in\nDeutschland zu erwarten. Die ASt hat darüber hinaus die Bewilligung von Prozesskostenhilfe (PKH) und die\nBeiordnung ihres Bevollmächtigten für das Beschwerdeverfahren beantragt.\n6\nZur Ergänzung des Sachverhaltes wird auf die Akten der Ag sowie die Gerichtsakten erster und zweiter\nInstanz Bezug genommen.\nII.\n7\nDie form- und fristgerecht eingelegte Beschwerde ist zulässig (§§ 172, 173 Sozialgerichtsgesetz - SGG) und\nbegründet. Das SG hat zu Unrecht die Ag zur vorläufigen Leistung von BAB verpflichtet. Die ASt hat keinen\nAnspruch auf Gewährung von einstweiligem Rechtsschutz.\n8\nStreitgegenstand ist die Zahlung von BAB. Dieses Begehren kann die ASt im Rahmen einer Hauptsache\ngrundsätzlich mit einer kombinierten Anfechtungs- und Leistungsklage geltend machen, so dass vorliegend\n§ 86b Abs. 2 Satz 2 SGG die maßgebliche Rechtsgrundlage für die Gewährung einstweiligen\nRechtsschutzes darstellt. Hiernach ist eine Regelung zulässig, wenn sie zur Abwendung wesentlicher\nNachteile nötig erscheint. Das ist etwa dann der Fall, wenn die ASt ohne eine solche Anordnung schwere\nund unzumutbare, nicht anders abwendbare Nachteile entstehen, zu deren Beseitigung die Entscheidung in\nder Hauptsache nicht mehr in der Lage wäre (so BVerfG, Beschluss vom 25.10.1998 - 2 BvR 745/88 -\nBVerfGE 79, 69 (74); Beschluss vom 19.10.1977 - 2 BvR 42/76 - BVerfGE 46, 166 (179); Beschluss vom\n22.11.2002 - 2 BvR 745/88 - NJW 2003, 1236).\n9\nDie Regelungsanordnung setzt das Vorliegen eines Anordnungsgrundes - das ist in der Regel die\nEilbedürftigkeit - und das Vorliegen eines Anordnungsanspruches - das ist der materiell-rechtliche\nAnspruch, auf den die ASt ihr Begehren stützt - voraus. Die Angaben hierzu hat die ASt glaubhaft zu\nmachen (§ 86b Abs. 2 Satz 2 und 4 SGG iVm § 920 Abs. 2, § 294 Zivilprozessordnung - ZPO -; Keller in\nMeyer-Ladewig/Keller/Leitherer/Schmidt, SGG, 12. Auflage, § 86b Rn 41).\n10\nZwischen Anordnungsgrund und Anordnungsanspruch besteht dabei eine Wechselbeziehung. An das\nVorliegen des Anordnungsgrundes sind dann weniger strenge Anforderungen zu stellen, wenn bei der\nPrüfung der Sach- und Rechtslage in dem vom BVerfG vorgegebenen Umfang (BVerfG, Beschluss vom\n12.05.2005 - 1 BvR 569/05 - Breith 2005, 803) das Obsiegen in der Hauptsache sehr wahrscheinlich ist. Ist\nbzw wäre eine in der Hauptsache erhobene Klage offensichtlich unzulässig oder unbegründet, so ist wegen\ndes fehlenden Anordnungsanspruches der Erlass einer einstweiligen Anordnung abzulehnen. Sind hierbei\ndie Erfolgsaussichten in der Hauptsache offen, kommt dem Anordnungsgrund entscheidende Bedeutung\nzu.\n11\nSoweit existenzsichernde Leistungen in Frage stehen und deshalb eine erhebliche, über Randbereiche\nhinausgehende Verletzung in den Grundrechten, die durch eine der Klage stattgebende Entscheidung in der\nHauptsache nicht mehr beseitigt werden kann, droht, ist eine Versagung der Gewährung einstweiligen\nRechtsschutzes nur dann möglich, wenn die Sach- und Rechtslage abschließend geklärt ist (vgl BVerfG,\nBeschluss vom 14.09.2016 - 1 BvR 1335/13). Für eine Entscheidung aufgrund einer sorgfältigen und\nhinreichend substantiierten Folgenabwägung ist nur dann Raum, wenn eine - nach vorstehenden\nMaßstäben durchzuführende - Rechtmäßigkeitsprüfung auch unter Berücksichtigung der Kürze der im\neinstweiligen Rechtsschutzverfahren regelmäßig zur Verfügung stehenden Zeit nicht verwirklicht werden\nkann, was vom zur Entscheidung berufenen Gericht erkennbar darzulegen ist (vgl zum Ganzen auch:\nBVerfG, Beschluss vom 14.09.2016 - 1 BvR 1335/13; Beschluss vom 12.05.2005 - 1 BvR 569/05 - Breith\n2005, 803; weniger eindeutig: BVerfG, Beschluss vom 06.08.2014 - 1 BvR 1453/12).\n12\nEin Anordnungsanspruch der ASt liegt nicht vor. Ihr steht kein Anspruch auf BAB für die aufgenommene\nAusbildung zur Maschinen- und Anlagenführerin zu.\n13\nDer Anspruch auf BAB setzt nach § 56 Abs. 1 Drittes Buch Sozialgesetzbuch (SGB III) voraus, dass (1.) die\nBerufsausbildung förderungsfähig ist, (2.) die Auszubildenden zum förderungsfähigen Personenkreis\ngehören und die sonstigen persönlichen Voraussetzungen für eine Förderung erfüllt sind und (3.) ihnen die\nerforderlichen Mittel zur Deckung des Bedarfs für den Lebensunterhalt, die Fahrkosten und die sonstigen\nAufwendungen (Gesamtbedarf) nicht anderweitig zur Verfügung stehen.\n14\nDie ASt zählt nicht zum förderungsfähigen Personenkreis iSv § 56 Abs. 1 Nr. 2 SGB III. Sie unterfällt nicht\nden förderfähigen Personen iSv § 59 Abs. 1 Satz 1 SGB III, da sie weder Deutsche im Sinne des\nGrundgesetzes (Nr. 1) noch Unionsbürgerin (Nr. 2 und Nr. 4) bzw Ehegattin, Lebenspartnerin oder Kind\neines solchen ist (Nr. 3), nicht Staatsangehörige eines anderen Vertragsstaates des Abkommens über den\nEuropäischen Wirtschaftsraum ist (Nr. 5) und nicht als Flüchtling anerkannt (Nr. 6) oder heimatlose\nAusländerin ist (Nr. 7). Auch verfügt die ASt lediglich über eine Aufenthaltsgestattung zur Durchführung\neines Asylverfahrens nach § 55 Abs. 1 Satz 1 Asylgesetz (AsylG) und hat weder eine Aufenthaltserlaubnis,\nwie sie in § 8 Abs. 2 Bundesausbildungsförderungsgesetz (BAföG) vorausgesetzt wird, noch hat bzw hatte\nsie einen Ehegatten, eine Lebenspartnerin oder ein Elternteil, der bzw die als Ausländer bzw Ausländerin\neine in § 8 Abs. 2 und 4 BAföG genannte Niederlassungs- oder Aufenthaltserlaubnis hat, so dass auch die\nVoraussetzungen des § 59 Abs. 1 Satz 2 SGB III iVm § 8 Abs. 2 und 4 BAföG nicht gegeben sind. Dass\nRechts- oder Verwaltungsvorschriften, nach denen anderen Ausländern Ausbildungsförderung zu leisten ist,\nauf sie Anwendung finden könnten, ist nicht ersichtlich (§ 59 Abs. 1 Satz 2 SGB III iVm § 8 Abs. 5 BAföG).\n15\nDie ASt verfügt nicht über eine Duldung nach § 60a AufenthG, so dass der persönliche Anwendungsbereich\nnach § 59 Abs. 2 SGB III nicht eröffnet ist. Danach werden ua geduldete Ausländerinnen (§ 60a AufenthG),\ndie ihren ständigen Wohnsitz im Inland haben, während einer betrieblich durchgeführten Berufsausbildung\ngefördert, wenn sie sich seit mindestens 15 Monaten ununterbrochen rechtmäßig, gestattet oder geduldet\nim Bundesgebiet aufhalten. Nach § 60a AufenthG kommt die Erteilung einer Duldung ua aus\nvölkerrechtlichen oder humanitären Gründen (§ 60a Abs. 1 AufenthG) in Betracht, solange die Abschiebung\naus tatsächlichen oder rechtlichen Gründen unmöglich ist und keine Aufenthaltserlaubnis erteilt wird (§ 60a\nAbs. 2 Satz 1 AufenthG) oder wenn dringende humanitäre oder persönliche Gründe oder erhebliche\nöffentliche Interessen eine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern (§ 60a Abs. 2\nSatz 3 AufenthG). Eine Duldung wegen dringender persönlicher Gründe iSv § 60a Abs. 2 Satz 3 AufenthG\nist dabei zu erteilen, wenn der Ausländer eine qualifizierte Berufsausbildung in einem staatlich anerkannten\noder vergleichbar geregelten Ausbildungsberuf in Deutschland aufnimmt oder aufgenommen hat, die\nVoraussetzungen nach § 60a Abs. 6 AufenthG nicht vorliegen und konkrete Maßnahmen zur\nAufenthaltsbeendigung nicht bevorstehen (§ 60a Abs. 2 Satz 4 AufenthG). Eine solche Duldung iSv § 60a\nAbs. 2 Satz 4 AufenthG wird zudem für sechs Monate zum Zweck der Suche nach einer der erworbenen\nberuflichen Qualifikation entsprechenden Beschäftigung verlängert, wenn nach erfolgreichem Abschluss der\nBerufsausbildung, für die die Duldung erteilt wurde, eine Weiterbeschäftigung im Ausbildungsbetrieb nicht\nerfolgt (§ 60a Abs. 2 Satz 11 AufenthG). Zwar handelt es sich bei der Ausbildung zur Maschinen- und\nAnlagenführerin gemäß dem nach § 90 Abs. 3 Nr. 3 Bundesbildungsgesetz (BiBG) vom Bundesinstitut für\nBerufsbildung zu führenden und zu veröffentlichenden Verzeichnis der anerkannten Ausbildungsberufe (für\n2018: https://www.bibb.de/dokumente/pdf/verzeichnis_anerkannter_ausbildungsberufe_2018.pdf, Seite 9)\num einen staatlich anerkannten Ausbildungsberuf und hinsichtlich der Ausbildungsdauer von zwei Jahren\num eine qualifizierte Berufsausbildung (§ 6 Abs. 1 Satz 2 Beschäftigungsverordnung - BeschV), aber\nbislang ist der ASt eine solche Duldung nicht erteilt worden. Soweit eine solche Duldung in den „wichtigen\nHinweisen“ im Rahmen des Bescheides der Regierung von Unterfranken vom 29.08.2018 erwähnt wird,\nerfolgt der Hinweis unter Bezugnahme auf die gesetzliche Regelung des § 60a Abs. 2 Satz 4 AufenthG.\nEine konkrete „Inaussichtstellung“, unabhängig davon, dass diese nicht mit der Erteilung einer solchen\nDuldung gleichzustellen wäre, kann darin nicht gesehen werden.\n16\nDer persönliche Anwendungsbereich des § 59 Abs. 3 SGB III ist nicht eröffnet, da die ASt weder fünf Jahre\nlang vor Beginn der Berufsausbildung im Inland rechtmäßig erwerbstätig gewesen ist (Nr. 1) noch ein\nElternteil von ihr sich im Inland aufgehalten hat und rechtmäßig erwerbstätig gewesen ist (Nr. 2).\n17\nSchließlich kommt auch unter Berücksichtigung der Sonderregelung für die Ausbildungsförderung von\nAusländerinnen und Ausländern in § 132 SGB III keine Fördermöglichkeit für die ASt in Betracht. Wie\nbereits ausgeführt, liegt keine Duldung nach § 60a AufenthG vor, so dass die Voraussetzungen des § 132\nAbs. 2 SGB III schon von daher nicht gegeben sind. Gleiches gilt für § 132 Abs. 3 SGB III mangels\nVorliegens einer dort genannten Aufenthaltserlaubnis.\n18\nLetztlich liegen auch die Voraussetzungen des § 132 Abs. 1 Satz 1 SGB III nicht vor. Danach gehören ua\nAusländerinnen, bei denen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist, zum\nförderungsfähigen Personenkreis für Leistungen nach § 51 SGB III, wenn ihr Aufenthalt seit mindestens 15\nMonaten gestattet ist. Zwar ist der Aufenthalt der ASt seit mehr als 15 Monaten gestattet, es ist aber ein\nrechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten.\n19\nEin rechtmäßiger und dauerhafter Aufenthalt ist zu erwarten, wenn eine positive Bleibeperspektive für die\nASt festgestellt werden könnte. Eine dem entgegenstehende Vermutung iSv § 132 Abs. 1 Satz 2 SGB III\nliegt bei der ASt nicht vor, da es sich bei Äthiopien nicht um einen sicheren Herkunftsstaat iSv § 29a AsylG\nhandelt. Allerdings muss für eine positive Bleibeperspektive nach einer aus einer ex-ante-Sicht\nanzustellenden Prognose - diese hier von der Ag negativ getroffene Prognoseentscheidung ist vom Gericht\ndarauf zu überprüfen, ob der festgestellte Sachverhalt den Schluss auf die hypothetische Tatsache erlaubt,\nund dann fehlerhaft, wenn die der Prognose zugrundeliegenden Tatsachen nicht richtig festgestellt oder\nnicht alle wesentlichen in Betracht kommenden Umstände hinreichend gewürdigt worden sind oder die\nPrognose auf unrichtigen oder unsachlichen Erwägungen beruht (vgl BSG, Urteil vom 03.08.2016 - B 6 KA\n20/15 R - juris - mwN) - eine überwiegend wahrscheinliche Aussicht darauf bestehen, dass der ASt ein\nStatus als Flüchtling iSv § 3 AsylG oder ein subsidiärer Schutz iSv § 4 AsylG zuerkannt wird (vgl dazu auch\nLSG Niedersachsen-Bremen, Beschluss vom 16.11.2018 - L 11 AL 140/18 B ER; LSG Mecklenburg-\nVorpommern, Beschluss vom 27.08.2018 - L 2 AL 29/18 B ER - beide zitiert nach juris - Böttiger in\nBöttiger/Körtek/Schaumberg, SGB III, 3. Auflage 2019, § 132 Rn 5). Die Maßgeblichkeit der Aussicht\ndarauf, dass die Voraussetzungen der §§ 3 und 4 AsylG erfüllt sind, ergibt sich insbesondere auch aus der\nin § 132 Abs. 1 Satz 2 SGB III an die Herkunft aus einem sicheren Herkunftsstaat anknüpfende Vermutung,\ndass in diesen Fällen ein rechtmäßiger und dauerhafter Aufenthalt nicht erwartet werden kann. Nach § 29a\nAsylG kann bei Herkunft aus einem solchen Staat ein Asylantrag nur dann erfolgversprechend sein, wenn\ndie von dem Ausländer angegebenen Tatsachen oder Beweismittel die Annahme begründen, dass ihm\nabweichend von der allgemeinen Lage im Herkunftsstaat Verfolgung im Sinne des § 3 Abs. 1 AsylG oder\nein ernsthafter Schaden im Sinne des § 4 Abs. 1 AsylG droht.\n20\nMaßgeblich für die Prognose für die Anerkennung der Flüchtlingseigenschaft oder die Zuerkennung eines\nsubsidiären Schutzes ist nach Auffassung des Senats zunächst, ob sich eine positive Bleibeperspektive aus\nder für das Herkunftsland der ASt zu ermittelnden Gesamtschutzquote ergibt. Nach der\nGesetzesbegründung zum insoweit wortgleichen § 44 Abs. 4 Satz 2 Nr. 1 AufenthG soll dies jedenfalls dann\nder Fall sein, wenn bei Asylbewerbern aus dem entsprechenden Herkunftsland eine Gesamtschutzquote\nvon mehr als 50% besteht (vgl dazu LSG Niedersachsen-Bremen, Beschluss vom 16.11.2018 - L 11 AL\n140/18 B ER; LSG Berlin-Brandenburg, Beschluss vom 03.05.2017 - L 14 AL 52/17 B ER; LSG\nMecklenburg-Vorpommern, Beschluss vom 27.08.2018 - L 2 AL 29/18 B ER -; LSG Nordrhein-Westfalen,\nBeschluss vom 19.04.2018 - L 9 AL 227/17 - alle zitiert nach juris; Buser in Eicher/Schlegel, SGB III, Stand\nMai 2018, § 132 Rn 30 mwN; kritisch: Schmidt-De Caluwe in Mutschler/Schmidt-De Caluwe/Coseriu, SGB\nIII, 6. Auflage 2017, § 132 Rn 10; die Übertragbarkeit der Grundlagen des § 44 Abs. 4 AufenthG auf die\nBAB offen gelassen: BVerfG, Beschluss vom 28.09.2017 - 1 BvR 1510/17 - juris). Die Gesamtschutzquote\nist dabei zunächst ein objektives Kriterium, das es im Rahmen der Massenverwaltung ermöglicht,\nhinreichend schnell und zuverlässig eine Prognose für die Bleibeperspektive von Ausländern, deren\nAufenthalt zur Durchführung des Asylverfahrens gestattet ist, und bei denen dieses noch nicht\nabgeschlossen ist, vorzunehmen. Auch die bezüglich der sicheren Herkunftsstaaten aufgestellte Vermutung\neiner fehlenden Bleibeperspektive (§ 132 Abs. 1 Satz 2 SGB III) bestätigt diesen Ansatz. Für Äthiopien\nbesteht nach den von der Ag vorgelegten Unterlagen eine Gesamtschutzquote von lediglich 25% für 2017\nund 28% für 2018. Nach der Asylgeschäftsstatistik des BAMF für Januar und Februar 2019 (abgerufen\nunter http://www.bamf.de/SharedDocs/Anlagen/DE/Downloads/ Infothek/Statistik/Asyl/hkl-antragsentscheidungs-\nbestandsstatistik-kumuliert-2019.html? nn=9271904) erfolgte bei 286 Entscheidungen über\nAnträge von äthiopischen Asylsuchenden eine Asylanerkennung in keinem Fall, 38mal wurde eine\nFlüchtlingseigenschaft anerkannt, zweimal wurde ein subsidiärer Schutz zugesprochen und 19mal das\nVorliegen eines Abschiebungsverbots festgestellt. Dem standen 152 ablehnende Entscheidungen und 75\nsonstige Erledigungen gegenüber. Auch aus diesen aktuellen Zahlen wird deutlich, dass die\nGesamtschutzquote weit unter 50% liegt. Es kommt damit vorliegend nicht darauf an, ob eine positive\nBleibeperspektive auch angenommen werden kann, wenn die Gesamtschutzquote für das entsprechende\nHerkunftsland knapp unter 50% liegt. Die für Äthiopien vorliegenden Zahlen mit einer Gesamtschutzquote\nvon zumindest unter 30% für 2017 und 2018, die sich auch unter Berücksichtigung der Zahlen für Januar\nund Februar 2019 nicht signifikant verändert hat, lassen für sich genommen auch unter Außerachtlassung\neiner statischen 50%-Grenze keine positive Prognose zu. Soweit die ASt pauschal darauf hinweist, dass\nGerichtsverfahren, die bei einem hohen Prozentteil positiv abgeschlossen würden, nicht berücksichtigt\nwerden, fehlt hierfür jeglicher Beleg. Insgesamt folgt damit aus den vorliegenden und zugänglichen Daten,\ndass allein danach eine positive Bleibeperspektive für äthiopische Asylsuchende unwahrscheinlicher denn\nwahrscheinlicher ist. Jedenfalls kann eine positive Bleibeperspektive über die Zahlen zu der\nGesamtschutzquote nicht begründet werden.\n21\nSoweit nach eigenem Vortrag bereits eine ablehnende Entscheidung des BAMF über den Asylantrag\nergangen und diesbezüglich ein Klageverfahren vor dem VG anhängig ist, spricht dies ebenfalls nicht für\neine günstige Bleibeperspektive. Mit dem ablehnenden Bescheid ist bereits eine konkrete, individuelle und\nbelastbare Beurteilung des Asylbegehrens der ASt vorgenommen worden. Nach Auffassung des\nBayerischen Verwaltungsgerichtshofs (Beschluss vom 24.11.2017 - 19 C 17.1903 - juris) bietet dies im\nRahmen der Feststellung eines Anspruchs auf Teilnahme an einem Integrationskurs nach § 44 Abs. 4 Satz\n2 Nr. 1 AufenthG, bei dem es ebenfalls wortlautgleich darauf ankommt, ob ein rechtmäßiger und\ndauerhafter Aufenthalt zu erwarten ist, eine substantielle Grundlage für die Prognose der Bleibeperspektive\nauch dann, wenn die Entscheidung des BAMF angefochten wird, da - jedenfalls im Rahmen des § 44 Abs. 4\nSatz 2 Nr. 1 AufenthG - eine inhaltliche Prüfung der Erfolgsaussichten des Asylverfahrens nicht zu erfolgen\nhat. Ob diese Auffassung zu § 44 AufenthG auch auf den Bereich der BAB nach den §§ 51 ff SGB III\nübertragen werden kann (vgl dazu auch BVerfG, Beschluss vom 28.09.2017 - 1 BvR 1510/17 - juris, das die\nÜbertragbarkeit von Begründungen der Rechtsprechung zu § 44 AufenthG auf die Vorschriften zur BAB\noffen gelassen hat), braucht im Hinblick auf die geringe Gesamtschutzquote nicht entschieden werden (die\nnegative Entscheidung des BAMF als unerheblich für die Bleibeperspektive im Rahmen des § 132 SGB III\nansehend: SG Karlsruhe, Urteil vom 24.01.2018 - S 2 AL 3795/17 - juris) . Mit der negativen Entscheidung\ndes BAMF hat sich jedenfalls die objektive Bleibeperspektive der ASt nicht verbessert.\n22\nAuch individuelle Gründe, die trotz der geringen (objektiven) Gesamtschutzquote eine positive\nBleibeperspektive rechtfertigen könnten, sind nicht erkennbar. Die derzeit erteilte Aufenthaltsgestattung\nnach § 55 Abs. 1 Satz 1 AsylG endet mit dem Abschluss des Asylverfahrens, so dass diese nicht die\nErwartung eines dauerhaften und rechtmäßigen Aufenthalts erwarten lässt. Auch sind weder Gründe\nvorgetragen noch ersichtlich, weshalb die ASt eine positive Entscheidung im Gerichtsverfahren zu ihrem\nAsylantrag erwarten könnte.\n23\nSoweit die ASt vorbringt, sie habe aufgrund der genehmigten Berufsausbildung eine gute Bleibeperspektive,\nbezieht sich diese zunächst nur auf einen beschränkten Zeitraum bis längsten 31.08.2020, da - bei\nnegativem Abschluss des Asylverfahrens - eine Duldung nach § 60a Abs. 2 Satz 4 AufenthG zunächst nur\nfür die Dauer der Ausbildung in Betracht kommt. Eine verbindliche Inaussichtstellung dieser Duldung kann\nder Senat im Übrigen im Bescheid der Regierung von Unterfranken vom 29.08.2018 nicht erkennen, da dort\nin den weiteren Hinweisen weitestgehend lediglich auf den entsprechenden Gesetzeswortlaut verwiesen\nwird. Ein Recht zum dauerhaften Aufenthalt folgt daraus somit nicht, vielmehr nur noch für maximal ein Jahr\nund fünf Monate. Im Übrigen weist die Regierung von Unterfranken in ihrem Bescheid ausdrücklich darauf\nhin, dass offen sei, welche Bleibeperspektive bei der ASt bestehe. Auch die vorgebrachte sogenannten\n3+2-Regelung führt insofern nicht weiter. Zwar könnte die ASt nach ihrer Ausbildung nach § 18a Abs. 1a\nAufenthG eine weitere zweijährige Aufenthaltserlaubnis zum Zwecke der Beschäftigung in dem\nAusbildungsberuf erhalten. Es ist aber völlig offen, ob die ASt ihre Berufsausbildung erfolgreich besteht,\neine entsprechende Beschäftigung im Anschluss daran aufnehmen kann, sie die weiteren Voraussetzungen\ndes § 18a Abs. 1 Satz 1 Nrn 2 bis 7 AufenthG erfüllen und die Bundesagentur für Arbeit nach § 39\nAufenthG zustimmen würde. Eine positive Prognose zum dauerhaften Aufenthalt kann damit aufgrund der\nVielzahl von Unwägbarkeiten hinsichtlich des weiteren Geschehensablaufs nicht getroffen werden (so auch\nSG Karlsruhe aaO). Im Übrigen wäre auch die Erlaubnis nach § 18a Abs. 1a AufenthG auf zwei Jahre\nbegrenzt. Gleiches gilt für eine auf sechs Monate begrenzte Duldung nach § 60a Abs. 2 Satz 11 AufenthG\nzur Beschäftigungssuche, wenn eine Übernahme im Ausbildungsbetrieb nicht erfolgt.\n24\nNichts anderes ergibt sich aus dem Umstand, dass die ASt bei Beendigung ihres Asylverfahrens - sofern\ndie notwendigen Voraussetzungen dann vorliegen würden - eine Duldung nach § 60a Abs. 2 Satz 4\nAufenthG erhalten könnte, was - sofern auch hierfür die notwendigen Voraussetzungen erfüllt wären - zur\nZuordnung zum förderungsfähigen Personenkreis nach § 59 Abs. 2 SGB III führen würde. Derzeit verfügt\ndie ASt nicht über eine solche Duldung, weshalb derzeit auch kein Anspruch auf BAB besteht. Dies ist in\nden gesetzlichen Regelungen begründet, die insofern eindeutig sind. Raum für eine anderweitige\nAuslegung (so aber offenbar LSG Schleswig-Holstein, Beschluss vom 19.12.2018 - L 3 AL 193/18 B ER -\njuris) sieht der Senat nicht. So lassen auch § 132 Abs. 1 und 2 SGB III auf eine bewusst unterschiedliche\nRegelung schließen. Ausländerinnen und Ausländer mit einer Duldung nach § 60a AufenthG sollen nach §\n132 Abs. 2 Nr. 2 SGB III zudem nur dann zum förderungsfähigen Personenkreis nach § 59 SGB III für\nLeistungen nach den §§ 51, 56 und 122 SGB III gehören, wenn sie sich seit mindestens sechs Jahren\nununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhalten und kein\nBeschäftigungsverbot nach § 60a Abs. 6 AufenthG besteht. Damit unterscheiden sich die Normen\ninsbesondere auch im Hinblick auf die vorausgesetzte Aufenthaltsdauer, da§ 132 Abs. 2 Nr. 2 SGB III nur\ndann anwendbar ist, wenn ein mindestens sechsjähriger Aufenthalt im Bundesgebiet bestanden hat. Dies\nwäre bislang bei der ASt auch nicht der Fall gewesen.\n25\nAuch wenn für die Zeit vor der Aufnahme der Berufsausbildung bereits eine sozialversicherungspflichtige\nBeschäftigung bestanden hat, ein Aufenthalt in Deutschland seit 2013 vorliegt, die ASt am Test „Leben in\nDeutschland“ mit voller Punktzahl teilgenommen und ein Deutschzertifikat B1 erworben hat, können diese\nUmstände nicht begründen, dass damit ein dauerhafter Aufenthalt in Deutschland prognostisch erwartet\nwerden kann. Soweit die ASt auf die Entscheidungen des SG Potsdam vom 20.12.2017 (S 6 AL 237/17 ER)\nund des LSG Berlin-Brandenburg vom 24.01.2018 (L 14 AL 5/17 B ER) verweist, ist dort ein Anspruch auf\nBAB für eine Ausländerin, die eine Berufsausbildung während eines laufenden Asylverfahrens\naufgenommen hat, nicht bejaht worden. Vielmehr gingen die Gerichte davon aus, dass ein solcher\nAnspruch als offen anzusehen sei, so dass nach Vornahme einer Folgenabwägung Leistungen im Rahmen\ndes einstweiligen Rechtsschutzes zugesprochen wurden. Nach obigen Ausführungen geht des Senat aber\nvorliegend davon aus, dass ein Anspruch auf Gewährung von BAB im vorliegenden Fall nicht besteht. Einer\nweiteren Folgenabwägung bedarf es daher nicht. Auch für das Hauptsacheverfahren kommt es auf eine zu\ntreffende ex-ante-Prognose für die Bleibewahrscheinlichkeit an, so dass eine Wahrscheinlichkeit für ein\nObsiegen der ASt nicht ersichtlich ist. Selbst wenn durch den tatsächlichen Geschehensablauf die\nursprüngliche Prognose widerlegt würde, bleibt diese beachtlich, wenn sie zum Prognosezeitpunkt bei\nvorausschauender Betrachtung zutreffend gewesen ist, was im Wesen einer Prognoseentscheidung liegt\n(vgl dazu BSG, Urteil vom 06.09.2007 - B 14/7b AS 60/06 R - juris - mwN).\n26\nSchließlich liegt kein Verstoß gegen Verfassungsrecht vor, wenn vorliegend im Fall der ASt die\nZugehörigkeit zum förderfähigen Personenkreis davon abhängig gemacht wird, dass bei Auszubildenden,\ndie lediglich über eine Gestattung verfügen, auch eine positive Prognose zu deren rechtmäßigen und\ndauerhaften Aufenthalt gefordert wird. Ausländer können sich grds nicht auf die Berufsfreiheit nach Art. 12\nAbs. 1 Satz 1 Grundgesetz (GG) berufen, da dieses Grundrecht den deutschen Staatsangehörigen\nvorbehalten ist. Auch aus Art. 2 Abs. 1 und Art. 3 GG, auf die sich Ausländer berufen können, folgt nichts\nanderes. So liegt eine sachliche Rechtfertigung für eine unterschiedliche Behandlung gegenüber\nAuszubildenden, die eine Duldung nach § 60a AufenthG haben, vor. Es erfolgt während der Dauer des\nAsylverfahrens, für die eine Gestattung des Aufenthalts nach § 55 AufenthG gewährt wird, eine Klärung der\nBleibeperspektive in der Erwartung, dass Asylsuchende wieder ausreisen, wenn abschließend ihr\nAsylantrag abgelehnt worden ist. Nur wenn diese Personen trotz des negativen Ausgangs ihres\nAsylverfahrens in Deutschland verbleiben und eine Duldung erteilt wird, ändert sich die Sachlage. Dies stellt\naber keinen unsachlichen, willkürlichen Differenzierungsgrund dar (vgl dazu im Einzelnen auch LSG\nNordrhein-Westfalen, Beschluss vom 06.08.2018 - L 20 AL 74/18 B ER - juris; so auch Herbst in\nSchlegel/Voelzke, jurisPK-SGB III, 2. Auflage 2019, § 59 Rn 130).\n27\nSofern dies in Konsequenz dazu führt, dass ausländische Auszubildende, die sich noch in einem\nAsylverfahren befinden und prognostisch nicht rechtmäßig und dauerhaft in Deutschland verbleiben werden,\nvon Leistungen der BAB ausgeschlossen sind, ist dies für das SGB III hinzunehmen. Da sich\nexistenzsichernde Ansprüche zunächst auch nicht aus dem Asylbewerberleistungsgesetz (AsylbLG)\nergeben - ein Anspruch auf Leistungen nach § 3 AsylbLG besteht nur in den ersten 15 Monaten des\nAufenthalts und danach haben Asylbewerber zwar nach § 2 Abs. 1 AsylbLG einen Anspruch auf (ggf\naufstockende) Leistungen nach dem Zwölften Buch Sozialgesetzbuch (SGB XII), dort besteht jedoch nach §\n22 Abs. 1 Satz 1 SGB XII ein Leistungsausschluss für Auszubildende, deren Ausbildung ua im Rahmen der\n§§ 51, 57 und 58 SGB III dem Grunde nach förderungsfähig ist, hinsichtlich Leistungen nach dem Dritten\nund Vierten Kapitel des SGB XII -, besteht vorliegend eine Förderlücke (siehe dazu auch bereits den Antrag\ndes Landes Baden-Württemberg zu einer Entschließung des Bundesrats vom 18.04.2018, BR-Drs 123/18\nund den Antrag von verschiedenen Abgeordneten und der Fraktion der Grünen vom 17.10.2018, BT-Drs\n19/5070). Besondere Härten oder unbillige Ergebnisse sind aber nicht contra legem im Rahmen der §§ 51 ff\nSGB III zu schließen, sondern können allenfalls durch Gewährung von (aufstockenden) existenzsichernden\nLeistungen nach anderen Vorschriften außerhalb des SGB III vermieden werden. Dies ist vom Gesetzgeber\noffenbar zwischenzeitlich auch erkannt und aufgegriffen worden. So sieht der Referentenentwurf des\nBundesministeriums für Arbeit und Soziales für ein Drittes Gesetz zur Änderung des\nAsylbewerberleistungsgesetzes (abgerufen unter: https://haraldthome.\nde/fa/redakteur/Harald_2019/Ref._Entwurf_zum_AsylbLG_3.AEndG_26.03.2019.pdf) vor, dass der\nLeistungsausschluss in § 22 Abs. 1 SGB XII keine Anwendung mehr finden soll auf Leistungsberechtigte\nnach § 1 Abs. 1 Nrn 1, 3 und 4 AsylbLG, deren Ausbildung im Rahmen der §§ 51, 57 und 58 SGB III dem\nGrunde nach förderungsfähig ist (§ 2 Abs. 1 Satz 2 AsylbLG in der Neufassung des Entwurfs). Eine\nSchließung der Lücke durch eine bis dahin erweiternde Auslegung der § 59 Abs. 2 bzw § 132 SGB III ist\nnicht möglich. Allenfalls wäre denkbar, dass in solchen Fällen - insbesondere auch im Hinblick auf die\nGefahr eines Ausbildungsabbruchs und dem Setzen falscher Anreize sowie der in Diskussion stehenden\nNeuregelung des § 2 AsylbLG - das Vorliegen eines besonderen Härtefalls nach § 22 Abs. 1 Satz 2 SGB XII\ngeprüft werden könnte, bei dessen Annahme Leistungen nach dem Dritten oder Vierten Kapitel des SGB XII\nals Beihilfe oder Darlehen gewährt werden können (vgl dazu auch LSG Niedersachsen-Bremen, Beschluss\nvom 13.02.2018 - L 8 AY 1/18 B ER - juris; dagegen aber LSG Nordrhein-Westfalen, Beschluss vom\n19.02.2018 - L 20 AY 4/18 B ER - juris). Leistungen der BAB bleiben aber ausgeschlossen. Auch der\nReferentenentwurf des Bundesministeriums für Arbeit und Soziales für ein Gesetz zur Förderung der\nAusbildung und Beschäftigung von Ausländerinnen und Ausländern -\nAusländerbeschäftigungsförderungsgesetz (abgerufen unter: http://fluechtlingsrat-berlin.de/ wpcontent/\nuploads/auslbeschfoerdg_28maerz2019.pdf) sieht in einer Neuregelung des § 60 Abs. 3 Satz 1\nSGB III vor, dass Ausländerinnen und Ausländer, die eine Aufenthaltsgestattung nach dem Asylgesetz\nbesitzen, während einer Berufsausbildung nicht zum Bezug von Berufsausbildungsbeihilfe berechtigt sind.\nHieraus ergeben sich damit ebenfalls keine Anhaltspunkte dafür, dass im Rahmen der BAB Personen, die\nlediglich über eine Aufenthaltsgestattung so zu stellen wären, wie wenn sie über eine von ihnen im Falle des\nWegfalls der Gestattung zu erlangende Duldung bereits verfügen würden.\n28\nAuf das Vorliegen eines Anordnungsgrundes kam es daher nicht mehr an. Hier wäre jedoch darauf\nhinzuweisen, dass die ASt - wie oben ausgeführt - ggf Leistungen nach § 2 Abs. 1 AsylbLG iVm dem SGB\nXII erhalten kann, sofern in ihrem Fall eine besondere Härte angenommen werden könnte (§ 22 Abs. 1 Satz\n2 SGB XII - vgl dazu auch LSG Niedersachsen-Bremen, Beschluss vom 13.02.2018 - L 8 AY 1/18 B ER -\njuris; dagegen aber LSG Nordrhein-Westfalen, Beschluss vom 19.02.2018 - L 20 AY 4/18 B ER - juris).\nAuch könnte die ASt durch Beendigung ihrer Ausbildung Zugang zu existenzsichernden Leistungen nach §\n2 Abs. 1 AsylbLG iVm dem SGB XII erhalten und eine mit Mitteln der BAB geförderte Ausbildung nach\nAbschluss des Asylverfahrens aufnehmen oder ggf fortsetzen.\n29\nDamit war auf die Beschwerde der Ag der Beschluss des SG aufzuheben und der Antrag der ASt auf Erlass\neiner einstweiligen Anordnung abzulehnen.\n30\nDie Kostenentscheidung beruht auf der analogen Anwendung des § 193 SGG.\n31\nDer ASt war PKH für das Beschwerdeverfahren zu bewilligen, da sie in der ersten Instanz erfolgreich war\nund die Ag Beschwerde eingelegt hat. Auch die notwendigen persönlichen und wirtschaftlichen\nVoraussetzungen sind gegeben (§ 73a SGG iVm §§ 114 ff ZPO).\n32\nDer Beschluss ist nicht anfechtbar (§ 177 SGG bzw § 73a SGG, § 127 Abs. 2 Satz 1 ZPO).\n\n"
+}

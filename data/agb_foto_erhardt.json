@@ -1,0 +1,773 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Allgemeines",
+            "end": 13,
+            "start": 2,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 160,
+            "start": 151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprache",
+            "end": 225,
+            "start": 218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mindestbestellwert",
+            "end": 293,
+            "start": 275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 508,
+            "start": 504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 725,
+            "start": 718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 735,
+            "start": 729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 847,
+            "start": 841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ungültig",
+            "end": 1012,
+            "start": 1004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachnahmegebühren",
+            "end": 1181,
+            "start": 1164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auswählt",
+            "end": 1342,
+            "start": 1334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 1387,
+            "start": 1381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1401,
+            "start": 1391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegengenommen",
+            "end": 1563,
+            "start": 1547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 1645,
+            "start": 1639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1784,
+            "start": 1781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1899,
+            "start": 1897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 2037,
+            "start": 2034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 2183,
+            "start": 2175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 2424,
+            "start": 2417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 2508,
+            "start": 2507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 2557,
+            "start": 2546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 2675,
+            "start": 2672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2740,
+            "start": 2738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferzeiten",
+            "end": 2756,
+            "start": 2744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2841,
+            "start": 2834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktseite",
+            "end": 2911,
+            "start": 2899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 3081,
+            "start": 3072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 3207,
+            "start": 3196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 3353,
+            "start": 3343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferservice",
+            "end": 3370,
+            "start": 3357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachnahme",
+            "end": 3649,
+            "start": 3640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 3696,
+            "start": 3687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 3993,
+            "start": 3986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 4100,
+            "start": 4087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 4156,
+            "start": 4146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Paketdienst",
+            "end": 4315,
+            "start": 4304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 4705,
+            "start": 4698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4879,
+            "start": 4873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschaffungsrisiko",
+            "end": 4940,
+            "start": 4922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 5214,
+            "start": 5203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 5387,
+            "start": 5375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5493,
+            "start": 5490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausüben",
+            "end": 5591,
+            "start": 5584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 5721,
+            "start": 5712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5777,
+            "start": 5763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5883,
+            "start": 5880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "php",
+            "end": 5986,
+            "start": 5983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6025,
+            "start": 6011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6223,
+            "start": 6219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6472,
+            "start": 6468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 6585,
+            "start": 6573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 6776,
+            "start": 6762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 6941,
+            "start": 6935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7049,
+            "start": 7046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 7280,
+            "start": 7273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7385,
+            "start": 7379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 7642,
+            "start": 7639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 7975,
+            "start": 7958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 8203,
+            "start": 8194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantiehinweis",
+            "end": 8224,
+            "start": 8209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinausgehen",
+            "end": 8331,
+            "start": 8320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalte",
+            "end": 8405,
+            "start": 8386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8528,
+            "start": 8525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 8861,
+            "start": 8858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragbar",
+            "end": 8926,
+            "start": 8915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9075,
+            "start": 9071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 9203,
+            "start": 9197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 9356,
+            "start": 9350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fernabsatzgesetz",
+            "end": 9411,
+            "start": 9395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 9430,
+            "start": 9412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 9491,
+            "start": 9482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9747,
+            "start": 9743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 9909,
+            "start": 9904,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 10085,
+            "start": 10080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 10101,
+            "start": 10087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Workshops",
+            "end": 10126,
+            "start": 10117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsumfang",
+            "end": 10146,
+            "start": 10131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 10287,
+            "start": 10282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 10447,
+            "start": 10438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 10506,
+            "start": 10495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 10566,
+            "start": 10561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestätigung",
+            "end": 10593,
+            "start": 10582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erhardt",
+            "end": 10709,
+            "start": 10702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 10776,
+            "start": 10769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 10867,
+            "start": 10860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlbar",
+            "end": 10949,
+            "start": 10942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stornierung",
+            "end": 10966,
+            "start": 10955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückerstattet",
+            "end": 11128,
+            "start": 11113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 11237,
+            "start": 11223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 11309,
+            "start": 11301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seminars",
+            "end": 11334,
+            "start": 11326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzusagen",
+            "end": 11531,
+            "start": 11522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 11817,
+            "start": 11806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 11864,
+            "start": 11855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 11914,
+            "start": 11900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bildmaterial",
+            "end": 11942,
+            "start": 11930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 12219,
+            "start": 12216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urheberrechte",
+            "end": 12238,
+            "start": 12225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12484,
+            "start": 12478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umweltbestimmungen",
+            "end": 12524,
+            "start": 12506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12606,
+            "start": 12600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 12723,
+            "start": 12716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Batteriegesetz",
+            "end": 12740,
+            "start": 12726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachgekommen",
+            "end": 12824,
+            "start": 12812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Endverbraucher",
+            "end": 12857,
+            "start": 12843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hausmüll",
+            "end": 12897,
+            "start": 12889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 12977,
+            "start": 12965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeben",
+            "end": 13111,
+            "start": 13100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekennzeichnet",
+            "end": 13207,
+            "start": 13193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Symbole",
+            "end": 13226,
+            "start": 13219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Reaktorsicherheit",
+            "end": 13347,
+            "start": 13330,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13361,
+            "start": 13360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsausschluss",
+            "end": 13383,
+            "start": 13365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 13560,
+            "start": 13550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammengestellt",
+            "end": 13701,
+            "start": 13685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernehmen",
+            "end": 13831,
+            "start": 13821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 13890,
+            "start": 13879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freibleibend",
+            "end": 13923,
+            "start": 13911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "musste",
+            "end": 14226,
+            "start": 14220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auftragswertes",
+            "end": 14415,
+            "start": 14401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 14491,
+            "start": 14477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14644,
+            "start": 14641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 14668,
+            "start": 14649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsparteien",
+            "end": 14774,
+            "start": 14758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Scheckklagen",
+            "end": 15008,
+            "start": 14996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 15105,
+            "start": 15095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 15308,
+            "start": 15301,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Allgemeines\n1.1 Wir arbeiten nur zu unseren nachstehenden Geschäftsbedingungen, die Sie anerkennen, indem Sie die Waren aus unserem Internet-Katalog bestellen. Der Vertragsschluss erfolgt ausschließlich in deutscher Sprache. Die Foto Erhardt GmbH liefert weltweit und ohne Mindestbestellwert.\n1.2 Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zweck abschließt, der weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n2 Preise\n2.1 Unsere Preise sind grundsätzlich die im Warenkorb unserer Webseite zur Zeit der Bestellung genannten Preise. Abweichende Preise, die eventuell auf Seiten dargestellt werden, die aus Zwischenspeichern (Browser-Cache, Proxies) geladen werden, sind nicht aktuell und ungültig. Unsere Preise gelten, sofern nicht ausdrücklich schriftlich etwas anderes vereinbart ist, ab Versandstätte ausschließlich Verpackung, Fracht und ggf. Nachnahmegebühren. Alle Preisangaben auf unserer Website sind inkl. 7% bzw. 19% Mehrwertsteuer sofern der Kunde kein Land außerhalb der Europäischen Union als Lieferland auswählt.\n2.2 Verpackungen werden Eigentum des Kunden.\n3 Bestellung\n3.1 Bestellungen von Waren und Dienstleistungen aus dem Internet-Katalog werden von uns ausschließlich schriftlich (z.B. per email oder Telefax) entgegengenommen. Das Risiko einer nicht aufklärbaren, fehlerhaften Übermittlung liegt beim Kunden.\n3.2 Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Buttons „Kaufen“ geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von fünf Tagen annehmen.\n3.3 Sie bestellen/kaufen in unserem Shop, indem Sie a) Artikel in den Warenkorb legen, b) Ihre Liefer- und Zahlungsdaten eingeben, c) auf der Kontrollseite die Richtigkeit Ihrer Angaben bestätigen und danach auf den Button \"Kaufen\" klicken. Mehr Infos zum Bestellvorgang finden Sie auf unserer Hilfeseite \"So wird bestellt\"\n3.4 Ihre Bestelldaten werden bei uns gespeichert. Sollten Sie Ihre Unterlagen zu Ihre Bestellungen verlieren, wenden Sie sich bitte per eMail, Fax oder Telefon an uns. Wir senden Ihnen eine Kopie der Daten Ihrer Bestellung gerne zu.\n4 Lieferzeiten\n4.1 Wir liefern innerhalb von 1-3 Werktagen nach Eingang der Bestellung bzw. Zahlung. Eventuelle Ausnahmen entnehmen Sie bitte der jeweiligen Produktseite. Auf unserer Website wird durch Symbole und entsprechende Erläuterungen bei jedem Produkt die Verfügbarkeit durch Angabe des voraussichtlichen Versendungstages angezeigt. Abhängig von der gewählten Versandart erfolgt eine Lieferung anschließend innerhalb der üblichen Versandzeit aus Deutschland. Sollten nach einer Bestellung Änderungen des voraussichtlichen Versendungstages auftreten, wird der Kunde darüber umgehend per E-Mail informiert.\n5 Lieferservice\n5.1 Für jede Lieferung innerhalb Deutschlands berechnen wir einen pauschalen Kostenanteil für Porto und Verpackung in Höhe von 5.90 Euro (inkl. gesetzlicher Mehrwertsteuer) bei Zahlung per Vorkasse und von 14.90 Euro (inkl. gesetzlicher Mehrwertsteuer) bei Zahlung per Nachnahme. Expresslieferungen werden gesondert berechnet. Bei Selbstabholung in unserer Zentrale in Westerkappeln berechnen wir bei Bestellung über den Onlineshop eine Handlingpauschale von 10.00 Euro (inkl. gesetzlicher Mehrwertsteuer). Lieferungen außerhalb Deutschlands sind nur gegen Vorkasse, Kreditkarte oder PayPal und nicht per Nachnahme möglich! Wünschen Sie eine Eilzustellung, berechnen wir Ihnen die dafür anfallenden Verpackungs- und Versandkosten. Der jeweilige Betrag wird Ihnen vor Versand mitgeteilt.\n5.2 Vorbehaltlich sofortiger Verfügbarkeit der Ware liefern wir schnellstmöglich mit eigenem Kurierdienst, per Spedition, per Post (DHL) oder per Paketdienst.\n5.3 Wir liefern per Nachnahme (nur bei Lieferung innerhalb Deutschland möglich), Vorauskasse, Zahlung per Kreditkarte (Ihr Konto wird direkt mit Übermittlung der Bestellung belastet), Zahlung via PayPal (Ihr PayPal-Konto wird direkt mit Übermittlung der Bestellung belastet), per Ratenzahlung Powered by PayPal, ebenso sind Zahlungen per sofortüberweisung, giropay, eps und i-deal möglich.\n5.4 Bitte veranlassen Sie bei Vorkasse die Zahlung erst, wenn Ihnen eine Bestätigung von uns vorliegt, da wir erst dann eine sofortige Lieferung der Ware garantieren können.\n5.5 Die Foto Erhardt GmbH übernimmt kein Beschaffungsrisiko. Ist der Gegenstand trotz des vorherigen Abschlusses eines entsprechenden Einkaufsvertrags nicht oder vorübergehend nicht lieferbar, wird die Foto Erhardt GmbH den Kunden hierüber unverzüglich nach der Bestellung sowie in der Folgezeit in regelmäßigen Abständen informieren. Bis zur Selbstbelieferung durch den Vorlieferanten ist die Foto Erhardt GmbH von der Leistungspflicht befreit und kann bei fehlender Lieferbarkeit vom Vertrag zurücktreten. Dies gilt nicht, wenn die Foto Erhardt GmbH die Nichtlieferung durch den Vorlieferanten zu vertreten hat. Falls die Foto Erhardt GmbH zurücktreten will, wird sie das Rücktrittsrecht unverzüglich ausüben.\n5.6 Im Falle des Rücktritts werden bereits auf den Kaufpreis gezahlte Beträge unverzüglich durch die Foto Erhardt GmbH erstattet. Schadensersatzansprüche des Kunden sind ausgeschlossen. Dies gilt nicht, wenn die Foto Erhardt GmbH die Nichtlieferung durch den Vorlieferanten zu vertreten hat.\n5.7 Ausführliche Informationen zu den Versandkosten finden sie unter www.foto-erhardt.de/shipping.php.\n6 Gefahrenübergang und Gewährleistung\n6.1 Holt der Kunde die Ware in den Räumlichkeiten der Foto Erhardt GmbH ab, geht die Gefahr des zufälligen Unterganges oder der zufälligen Beschädigung mit der Übergabe der Ware auf den Kunden über. Versendet die Foto Erhardt GmbH die Ware an den Kunden, geht die Gefahr gegenüber Unternehmern mit Übergabe der Ware an den Transporteur und gegenüber Verbrauchern mit Übergabe der Ware durch den Transporteur an den Verbraucher auf den Kunden über.\n6.2 Die Gewährleistung beginnt mit der Ablieferung der Ware und richtet sich nach den gesetzlichen Bestimmungen. Werden Reparaturen oder Veränderungen vom Kunden oder von dritter Seite ohne schriftliche Einwilligung der Foto Erhardt GmbH am Liefergegenstand vorgenommen, so erlischt jede Gewährleistung. Satz 2 gilt nicht, wenn der Kunde nachweist, dass die in Rede stehenden Mängel nicht durch die von ihm oder dem Dritten durchgeführten Änderungen verursacht wurden.\n6.3 Die Verjährungsfrist für gesetzliche Mängelansprüche beträgt 2 Jahre, sofern der Kunde Verbraucher ist.\n6.4 Sofern der Kunde Unternehmer ist, beträgt die Verjährungsfrist für die Gewährleistungsansprüche ein Jahr und die Foto Erhardt GmbH hat die Wahl zur Nacherfüllung den Mangel zu beseitigen oder eine mangelfreie Sache zu liefern; offensichtliche Mängel der Ware oder Leistung der Foto Erhardt GmbH müssen schriftlich angezeigt werden.\n6.5 Die in den Ziffern 6.3 und 6.4 genannten Verjährungsfristen gelten nicht im Fall des Vorsatzes oder bei arglistigem Verschweigen eines Mangels oder soweit die Foto Erhardt GmbH eine Garantie für die Beschaffenheit des Liefergegenstandes übernommen hat. Die Verjährungsfristen der Ziffern 6.3 und 6.4 gelten außerdem nicht für Ansprüche wegen Sachmängeln in den Fällen der Verletzung des Lebens, des Körpers oder der Gesundheit, bei Ansprüchen nach dem Produkthaftungsgesetz, bei einer grob fahrlässigen Pflichtverletzung oder bei schuldhafter Verletzung wesentlicher Vertragspflichten.\n6.6 Die Foto Erhardt GmbH übernimmt keine Gewährleistung für die gewöhnliche Abnutzung der Ware sowie Mängel, die durch fehlerhafte oder nachlässige Behandlung oder Bedienung bzw. außergewöhnliche Betriebsbedingungen entstehen.\n6.7 Garantiehinweis: Einige Hersteller gewähren auf ihre Produkte Garantien, welche über die Gewährleistungsrechte hinausgehen. Es gelten die Garantiebestimmungen des Herstellers\n7 Eigentumsvorbehalte\n7.1 Bei Verbrauchern behalten wir uns das Eigentum an der Kaufsache bis zur vollständigen Zahlung des Rechnungsbetrags vor. Sind Sie Unternehmer in Ausübung Ihrer gewerblichen oder selbständigen beruflichen Tätigkeit, eine juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, behalten wir uns das Eigentum an der Kaufsache bis zum Ausgleich aller noch offenen Forderungen aus der Geschäftsverbindung mit dem Besteller vor. Die entsprechenden Sicherungsrechte sind auf Dritte übertragbar.\n7.2 Ein Recht zur Aufrechnung steht Ihnen nur zu, wenn Ihre Gegenansprüche rechtskräftig festgestellt oder von uns unbestritten oder anerkannt sind. Außerdem haben Sie ein Zurückbehaltungsrecht nur, wenn und soweit Ihr Gegenanspruch auf dem gleichen Vertragsverhältnis beruht.\n7.3 Befindet sich der Kunde uns gegenüber mit irgendwelchen Zahlungsverpflichtungen im Verzug, so werden sämtliche bestehende Forderungen sofort fällig.\n8 Widerrufsrecht des Kunden nach dem Fernabsatzgesetz\nWiderrufsbelehrung\nDas Widerrufsrecht besteht nicht bei den folgenden Verträgen: Verträge zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind. Verträge zur Lieferung von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde. Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben.\nMusterformular\n9 Akademie und Workshops\n9.1 Leistungsumfang: Foto Erhardt führt Kurse/Workshops zu den Themen Fotografie, Bildbearbeitung und -erstellung in Verbindung mit digitalen Technologien durch. Aufbau, Inhalt, Lernziele, Leistungsumfang und Details über die Durchführung des gewählten Angebotes sind den jeweils gültigen Kursbeschreibungen zu entnehmen. Geringfügige inhaltliche Abweichungen bleiben vorbehalten. Die Kurse finden in den jeweils angegebenen Filialen statt.\n9.2 Anmeldung/Bestätigung: Die Anmeldung erfolgt im Regelfall online unter www.foto-erhardt.de/akademie oder in den Filialen von Foto Erhardt. Durch Aufnahme in eine Teilnehmerliste wird die Anmeldung bindend. Die Anmeldebestätigung erfolgt per E-Mail an die vom Teilnehmer angegebene E-Mail Adresse. Bei Anmeldung in den Filialen sind die Seminargebühren sofort fällig und zahlbar.\n9.3 Stornierung: Die Stornierung einer Seminarbuchung ist bis eine Woche vor Seminarbeginn kostenfrei möglich, bereits geleistete Zahlungen werden in diesem Fall zurückerstattet. Erfolgt keine oder keine rechtzeitige Stornierung, ist eine Rückerstattung der Seminargebühr ausgeschlossen. Der Teilnehmer hat die Möglichkeit, einen Ersatzteilnehmer zu benennen.\n9.4 Absage des Seminars: Foto Erhardt behält sich vor, Seminare aus Gründen, die nicht von Foto Erhardt zu vertreten sind und die dazu führen, dass ein Seminar nicht wie geplant oder gar nicht stattfinden kann, abzusagen. Solche Gründe sind insbesondere Erkrankung/ Unfall eines Dozenten oder höhere Gewalt (Katastrophen, ausgerufene Notstände, Streik oder kriegerische Konflikte). Foto Erhardt wird im Falle einer Absage die Teilnehmer per E-Mail an die von den Teilnehmern hinterlegte Adresse informieren. Bereits geleistete Zahlungen werden erstattet. Weitergehender Schadensersatz ist ausgeschlossen.\n9.5 Rechte am Bildmaterial: Der Teilnehmer räumt Foto Erhardt bereits jetzt ein unwiderrufliches, ausschließliches, zeitlich und räumlich unbegrenztes, übertragbares und sämtliche bekannten und unbekannten Nutzungsarten umfassendes Nutzungsrecht an den im Rahmen eines Seminars angefertigten Bildern ein.\n9.6 Urheberrechte: Ausgehändigte Unterlagen und Seminar-Begleitmaterial sind urheberrechtlich geschützt und dürfen nicht – auch nicht auszugsweise – ohne vorherige schriftliche Einwilligung von Foto Erhardt vervielfältigt oder öffentlich zugänglich gemacht werden.\n10 Entsorgungs- und Umweltbestimmungen\n10.1 Elektro- und Elektronikgeräte dürfen nicht über den Hausmüll entsorgt werden.\n10.2 Verbraucher können ihre Elektro-/Elektronik-Altgeräte kostenlos bei einer der kommunalen Sammelstellen abgeben. \nBatteriegesetz\n10.3 Unsere Vorlieferanten sind ihrer Meldepflicht bei Umweltbundesamt nachgekommen.\n10.4 Hinweis für Endverbraucher: Batterien dürfen nicht in den Hausmüll. Endverbraucher sind zur Rückgabe gebrauchter Batterien gesetzlich verpflichtet. Endverbraucher können leere Batterien nach Gebrauch in der Verkaufsstelle oder in kommunalen Sammelstellen unentgeltlich zurückgeben. Alle Batterien oder Akkus sind mit dem Symbol der \"durchgestrichenen Mülltonne\" gekennzeichnet. Chemische Symbole: Weitere Informationen zum Batteriegestz finden Sie beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit. (www.bmu.de)\n11 Haftungsausschluss\n11.1 Die Haftungsbeschränkungen gelten nicht für Schäden, die auf Vorsatz oder grober Fahrlässigkeit beruhen, sowie für Verletzungen des Lebens, des Körpers oder der Gesundheit.\n11.2 Dieser Internet-Katalog und die darin enthaltenen Beschreibungen und Preisangaben wurden von uns mit größter Sorgfalt zusammengestellt. Trotzdem können wir eine Haftung für eventuelle Druckfehler oder für die anhaltende Lieferfähigkeit aller Waren nicht übernehmen. Preisänderungen, Irrtümer und Zwischenverkauf vorbehalten. Alle Angebote sind freibleibend.\n11.3 Unabhängig vom Rechtsgrund sind Schadensersatzansprüche sowohl gegen die Foto Erhardt GmbH als auch deren Erfüllungs- oder Verrichtungsgehilfen der Höhe nach auf diejenigen Schäden begrenzt, mit deren möglichen Eintritt die Foto Erhardt GmbH bei Vertragsabschluss vernünftigerweise rechnen musste. Sofern der Schaden nicht aus der Verletzung einer wesentlichen Vertragspflicht resultiert, beschränkt sich der Schadensersatz jedoch höchstens auf den zehnfachen Betrag des Auftragswertes. Der Kunde ist für die Sicherung seiner Datenbestände selbst verantwortlich. Die Foto Erhardt GmbH haftet nur für den Aufwand, der zur Wiederherstellung der Daten bei regelmäßiger Datensicherung durch den Kunden erforderlich ist.\n12 Schlussbestimmungen\n12.1 Diese allgemeinen Geschäftsbedingungen enthalten sämtliche Rechte und Pflichten der Vertragsparteien.\n12.2 Sofern der Kunde Kaufmann ist oder keinen Wohnsitz innerhalb der Europäischen Union hat, ist unser Geschäftssitz alleiniger Gerichtsstand für alle Streitigkeiten zwischen den Vertragsparteien, auch für Wechsel- und Scheckklagen.\n12.3 Es gilt ausschließlich deutsches Recht unter Ausschluss der Vorschriften des UN-Kaufrechts. Im Verkehr mit Endverbrauchern innerhalb der Europäischen Union kann auch das Recht am Wohnsitz des Endverbrauchers anwendbar sein, sofern es sich um zwingend verbraucherrechtliche Bestimmungen handelt.\n\n"
+}

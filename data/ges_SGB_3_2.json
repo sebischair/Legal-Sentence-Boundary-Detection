@@ -1,0 +1,3029 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Anordnungen",
+            "end": 29,
+            "start": 18,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Satzung",
+            "end": 74,
+            "start": 67,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Soziales",
+            "end": 203,
+            "start": 195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 274,
+            "start": 268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kraft",
+            "end": 376,
+            "start": 371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 436,
+            "start": 428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anpasst",
+            "end": 778,
+            "start": 771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsrat",
+            "end": 800,
+            "start": 786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltung",
+            "end": 865,
+            "start": 855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beauftragen",
+            "end": 1023,
+            "start": 1012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 1120,
+            "start": 1111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 1233,
+            "start": 1224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstützt",
+            "end": 1420,
+            "start": 1409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 1554,
+            "start": 1548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheidet",
+            "end": 1696,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vortragen",
+            "end": 1870,
+            "start": 1861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetz",
+            "end": 1964,
+            "start": 1958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedern",
+            "end": 2015,
+            "start": 2004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 2082,
+            "start": 2074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 2521,
+            "start": 2513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsausschüsse",
+            "end": 2550,
+            "start": 2529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsausschuss",
+            "end": 2616,
+            "start": 2596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 2754,
+            "start": 2742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vortragen",
+            "end": 2914,
+            "start": 2905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 3046,
+            "start": 3038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benennen",
+            "end": 3113,
+            "start": 3105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "374a",
+            "end": 3121,
+            "start": 3117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 3143,
+            "start": 3142,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3157,
+            "start": 3156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amtsdauer",
+            "end": 3173,
+            "start": 3164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahre",
+            "end": 3254,
+            "start": 3249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3379,
+            "start": 3375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berufen",
+            "end": 3500,
+            "start": 3493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstverwaltungsorgane",
+            "end": 3619,
+            "start": 3596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tätigen",
+            "end": 3665,
+            "start": 3658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entschädigung",
+            "end": 3826,
+            "start": 3813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschließen",
+            "end": 3875,
+            "start": 3864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterabschnitt",
+            "end": 3899,
+            "start": 3885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abberufung",
+            "end": 3923,
+            "start": 3913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitglieder",
+            "end": 3968,
+            "start": 3958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berufen",
+            "end": 4060,
+            "start": 4053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsrat",
+            "end": 4245,
+            "start": 4231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 4370,
+            "start": 4355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verteilen",
+            "end": 4519,
+            "start": 4510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4677,
+            "start": 4674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 4727,
+            "start": 4719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 4775,
+            "start": 4771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 4805,
+            "start": 4796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5147,
+            "start": 5144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 5282,
+            "start": 5270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 5373,
+            "start": 5364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufungsfähigkeit",
+            "end": 5399,
+            "start": 5381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5787,
+            "start": 5781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5949,
+            "start": 5945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stellen",
+            "end": 5986,
+            "start": 5979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6398,
+            "start": 6393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorschlagsberechtigt",
+            "end": 6601,
+            "start": 6581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitglied",
+            "end": 6892,
+            "start": 6884,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6912,
+            "start": 6911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behörden",
+            "end": 7244,
+            "start": 7236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzuschlagen",
+            "end": 7389,
+            "start": 7376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 7617,
+            "start": 7611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7841,
+            "start": 7839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8140,
+            "start": 8136,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8159,
+            "start": 8158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterabschnitt",
+            "end": 8182,
+            "start": 8168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neutralitätsausschuss",
+            "end": 8204,
+            "start": 8183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neutralitätsausschuss",
+            "end": 8232,
+            "start": 8211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorstands",
+            "end": 8627,
+            "start": 8618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrheit",
+            "end": 8782,
+            "start": 8774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorstands",
+            "end": 8856,
+            "start": 8847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundessozialgericht",
+            "end": 8932,
+            "start": 8913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehen",
+            "end": 9091,
+            "start": 9077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 9110,
+            "start": 9101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltung",
+            "end": 9134,
+            "start": 9124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesagentur",
+            "end": 9167,
+            "start": 9154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäfte",
+            "end": 9235,
+            "start": 9226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "außergerichtlich",
+            "end": 9299,
+            "start": 9283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedern",
+            "end": 9389,
+            "start": 9378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 9763,
+            "start": 9762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hören",
+            "end": 9920,
+            "start": 9915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahr",
+            "end": 10036,
+            "start": 10032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 10133,
+            "start": 10127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "regeln",
+            "end": 10305,
+            "start": 10299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehören",
+            "end": 10376,
+            "start": 10367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 10448,
+            "start": 10436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergreifen",
+            "end": 10489,
+            "start": 10480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 10676,
+            "start": 10668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorstandsmitglieder",
+            "end": 10722,
+            "start": 10703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschlagsrecht",
+            "end": 11010,
+            "start": 10995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbreiten",
+            "end": 11179,
+            "start": 11167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 11266,
+            "start": 11257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amtsverhältnis",
+            "end": 11391,
+            "start": 11377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ernannt",
+            "end": 11464,
+            "start": 11457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 11566,
+            "start": 11558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11722,
+            "start": 11719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entlassung",
+            "end": 11849,
+            "start": 11839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verlangen",
+            "end": 11949,
+            "start": 11940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 12150,
+            "start": 12142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urkunde",
+            "end": 12303,
+            "start": 12296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 12366,
+            "start": 12359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterzuführen",
+            "end": 12592,
+            "start": 12578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewahren",
+            "end": 12766,
+            "start": 12758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedürfen",
+            "end": 12922,
+            "start": 12914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehören",
+            "end": 13204,
+            "start": 13195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 13272,
+            "start": 13265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 13528,
+            "start": 13516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13589,
+            "start": 13586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließt",
+            "end": 13846,
+            "start": 13838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesagentur",
+            "end": 13970,
+            "start": 13957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenken",
+            "end": 14294,
+            "start": 14284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ruhestand",
+            "end": 14375,
+            "start": 14366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 14962,
+            "start": 14957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeit",
+            "end": 15011,
+            "start": 15005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleitet",
+            "end": 15135,
+            "start": 15127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedern",
+            "end": 15237,
+            "start": 15226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellt",
+            "end": 15355,
+            "start": 15347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bewerbern",
+            "end": 15456,
+            "start": 15447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 15619,
+            "start": 15607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergreifen",
+            "end": 15660,
+            "start": 15651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 15909,
+            "start": 15901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regionaldirektionen",
+            "end": 15957,
+            "start": 15938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleitet",
+            "end": 16028,
+            "start": 16020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitgliedern",
+            "end": 16122,
+            "start": 16111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellt",
+            "end": 16171,
+            "start": 16163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuhören",
+            "end": 16324,
+            "start": 16315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsmarkt",
+            "end": 16381,
+            "start": 16369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 16546,
+            "start": 16537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugeordnet",
+            "end": 16615,
+            "start": 16605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschlechtern",
+            "end": 16950,
+            "start": 16937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeitgestaltung",
+            "end": 17160,
+            "start": 17139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 17328,
+            "start": 17320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beteiligen",
+            "end": 17495,
+            "start": 17485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 17655,
+            "start": 17650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässt",
+            "end": 17889,
+            "start": 17882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwaltungsausschuss",
+            "end": 17945,
+            "start": 17925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Innenrevision",
+            "end": 17966,
+            "start": 17953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 18327,
+            "start": 18321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18395,
+            "start": 18389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18562,
+            "start": 18559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 18652,
+            "start": 18649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 18817,
+            "start": 18813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergreifen",
+            "end": 18858,
+            "start": 18849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesagentur",
+            "end": 18892,
+            "start": 18879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitnehmern",
+            "end": 18985,
+            "start": 18972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesbeamte",
+            "end": 19049,
+            "start": 19037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorstand",
+            "end": 19142,
+            "start": 19134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 19581,
+            "start": 19571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 19685,
+            "start": 19676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehen",
+            "end": 20025,
+            "start": 20011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 20228,
+            "start": 20225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befristen",
+            "end": 20337,
+            "start": 20328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 20367,
+            "start": 20359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 20519,
+            "start": 20516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20611,
+            "start": 20605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerrufen",
+            "end": 20727,
+            "start": 20717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenstehen",
+            "end": 20940,
+            "start": 20926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegeversicherung",
+            "end": 21211,
+            "start": 21193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ruhegehaltfähig",
+            "end": 21336,
+            "start": 21321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 21457,
+            "start": 21450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 21501,
+            "start": 21494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleistet",
+            "end": 21727,
+            "start": 21714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 22148,
+            "start": 22143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angerechnet",
+            "end": 22438,
+            "start": 22427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstbezügen",
+            "end": 22621,
+            "start": 22608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 23101,
+            "start": 23092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besoldungsgruppe",
+            "end": 23380,
+            "start": 23364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beamten",
+            "end": 23424,
+            "start": 23417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beamten",
+            "end": 23476,
+            "start": 23469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 23561,
+            "start": 23551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 23639,
+            "start": 23633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Führungskräfte",
+            "end": 23694,
+            "start": 23680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufsforschung",
+            "end": 24552,
+            "start": 24537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überschreiten",
+            "end": 24638,
+            "start": 24625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24675,
+            "start": 24669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 24846,
+            "start": 24836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beteiligen",
+            "end": 24948,
+            "start": 24938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesbeamtengesetzes",
+            "end": 25043,
+            "start": 25022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreicht",
+            "end": 25337,
+            "start": 25329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amt",
+            "end": 25440,
+            "start": 25437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnis",
+            "end": 25591,
+            "start": 25574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergütungen",
+            "end": 25649,
+            "start": 25638,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26073,
+            "start": 26072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzuordnen",
+            "end": 26179,
+            "start": 26169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszubringen",
+            "end": 26310,
+            "start": 26298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzulegen",
+            "end": 26485,
+            "start": 26474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuweisen",
+            "end": 26681,
+            "start": 26670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 26800,
+            "start": 26794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 27019,
+            "start": 27013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszurichten",
+            "end": 27141,
+            "start": 27129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgeblich",
+            "end": 27394,
+            "start": 27384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigen",
+            "end": 27781,
+            "start": 27770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 27962,
+            "start": 27956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 28014,
+            "start": 28005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bemessen",
+            "end": 28152,
+            "start": 28144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 28212,
+            "start": 28204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzen",
+            "end": 28375,
+            "start": 28366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 28601,
+            "start": 28597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Messgrößensystem",
+            "end": 28714,
+            "start": 28698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teil",
+            "end": 28853,
+            "start": 28849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 28917,
+            "start": 28908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 29195,
+            "start": 29191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 29247,
+            "start": 29238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stellenplan",
+            "end": 29552,
+            "start": 29541,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 29573,
+            "start": 29572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 29575,
+            "start": 29574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beförderungsämter",
+            "end": 29615,
+            "start": 29598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29937,
+            "start": 29934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 29956,
+            "start": 29947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufsicht",
+            "end": 29965,
+            "start": 29957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufsicht",
+            "end": 29980,
+            "start": 29972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Soziales",
+            "end": 30072,
+            "start": 30064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 30149,
+            "start": 30143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 30317,
+            "start": 30314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 30336,
+            "start": 30327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 30348,
+            "start": 30337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesagentur",
+            "end": 30423,
+            "start": 30410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 30603,
+            "start": 30600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzansprüchen",
+            "end": 31735,
+            "start": 31719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 31910,
+            "start": 31907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stellen",
+            "end": 32028,
+            "start": 32021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 32217,
+            "start": 32214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfasst",
+            "end": 32506,
+            "start": 32499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Maßregelungsverbot",
+            "end": 32552,
+            "start": 32534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 32827,
+            "start": 32824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitwirken",
+            "end": 32956,
+            "start": 32947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenabgleich",
+            "end": 32993,
+            "start": 32980,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34091,
+            "start": 34090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschäftigte",
+            "end": 34138,
+            "start": 34126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 34395,
+            "start": 34389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 34524,
+            "start": 34518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 34841,
+            "start": 34835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 34864,
+            "start": 34863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 35023,
+            "start": 35016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 35248,
+            "start": 35242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dritte",
+            "end": 35298,
+            "start": 35292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 35645,
+            "start": 35642,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35675,
+            "start": 35674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitel",
+            "end": 35692,
+            "start": 35685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bußgeldvorschriften",
+            "end": 35712,
+            "start": 35693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 35729,
+            "start": 35720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bußgeldvorschriften",
+            "end": 35749,
+            "start": 35730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bußgeldvorschriften",
+            "end": 35775,
+            "start": 35756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 36234,
+            "start": 36230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 36515,
+            "start": 36504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 36703,
+            "start": 36698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekanntgibt",
+            "end": 36802,
+            "start": 36791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 36925,
+            "start": 36914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausübt",
+            "end": 37024,
+            "start": 37018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 37116,
+            "start": 37109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuwiderhandelt",
+            "end": 37184,
+            "start": 37170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegt",
+            "end": 37394,
+            "start": 37387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "duldet",
+            "end": 37455,
+            "start": 37449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweist",
+            "end": 37589,
+            "start": 37581,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37608,
+            "start": 37607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegennimmt",
+            "end": 37696,
+            "start": 37683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzt",
+            "end": 37784,
+            "start": 37779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löscht",
+            "end": 37961,
+            "start": 37955,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37980,
+            "start": 37979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 38002,
+            "start": 38001,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 38020,
+            "start": 38019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweist",
+            "end": 38185,
+            "start": 38177,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 38212,
+            "start": 38211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aushändigt",
+            "end": 38454,
+            "start": 38444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bescheinigt",
+            "end": 38633,
+            "start": 38622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aushändigt",
+            "end": 38952,
+            "start": 38942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegt",
+            "end": 39065,
+            "start": 39058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausstellt",
+            "end": 39177,
+            "start": 39168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 39610,
+            "start": 39603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 39680,
+            "start": 39673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 39999,
+            "start": 39990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 40147,
+            "start": 40143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilt",
+            "end": 40376,
+            "start": 40368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 40783,
+            "start": 40777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterrichtung",
+            "end": 40837,
+            "start": 40824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbereich",
+            "end": 41236,
+            "start": 41220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 41380,
+            "start": 41368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auslagen",
+            "end": 41525,
+            "start": 41517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ordnungswidrigkeiten",
+            "end": 41620,
+            "start": 41600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 41643,
+            "start": 41642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 42113,
+            "start": 42105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 42258,
+            "start": 42256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 42460,
+            "start": 42453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegen",
+            "end": 42919,
+            "start": 42909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 43004,
+            "start": 43000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 43023,
+            "start": 43014,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43037,
+            "start": 43036,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43066,
+            "start": 43065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitel",
+            "end": 43086,
+            "start": 43079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderregelungen",
+            "end": 43103,
+            "start": 43087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 43120,
+            "start": 43111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschlands",
+            "end": 43198,
+            "start": 43186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beitragsbemessungsgrenze",
+            "end": 43255,
+            "start": 43231,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43469,
+            "start": 43468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 43637,
+            "start": 43632,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43666,
+            "start": 43665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "411",
+            "end": 43672,
+            "start": 43669,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43686,
+            "start": 43685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "412",
+            "end": 43692,
+            "start": 43689,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43706,
+            "start": 43705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "413",
+            "end": 43712,
+            "start": 43709,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43726,
+            "start": 43725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "414",
+            "end": 43732,
+            "start": 43729,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43746,
+            "start": 43745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "415",
+            "end": 43752,
+            "start": 43749,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43766,
+            "start": 43765,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43786,
+            "start": 43785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 43788,
+            "start": 43787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 43810,
+            "start": 43809,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43831,
+            "start": 43830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 43849,
+            "start": 43840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufgaben",
+            "end": 43925,
+            "start": 43917,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43945,
+            "start": 43944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitnehmer",
+            "end": 44054,
+            "start": 44042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreit",
+            "end": 44239,
+            "start": 44232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 44369,
+            "start": 44365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 44510,
+            "start": 44506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitslosengeld",
+            "end": 44591,
+            "start": 44575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 44686,
+            "start": 44677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 44833,
+            "start": 44824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 45414,
+            "start": 45407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 45532,
+            "start": 45526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 45792,
+            "start": 45789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 46052,
+            "start": 46043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewertet",
+            "end": 46246,
+            "start": 46238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelegt",
+            "end": 46406,
+            "start": 46400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 46543,
+            "start": 46534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrifft",
+            "end": 46910,
+            "start": 46902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeitsalden",
+            "end": 46997,
+            "start": 46980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 47315,
+            "start": 47306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 47622,
+            "start": 47616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezahlt",
+            "end": 47810,
+            "start": 47803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 47833,
+            "start": 47832,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 47851,
+            "start": 47850,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 47869,
+            "start": 47868,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 47887,
+            "start": 47886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 48366,
+            "start": 48361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2012",
+            "end": 48464,
+            "start": 48460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsmarkt",
+            "end": 48576,
+            "start": 48564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 48745,
+            "start": 48741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sprachkursen",
+            "end": 48792,
+            "start": 48780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 49170,
+            "start": 49163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 49315,
+            "start": 49309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 49500,
+            "start": 49497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wochen",
+            "end": 49572,
+            "start": 49566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzen",
+            "end": 49727,
+            "start": 49719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teilnehmenden",
+            "end": 50089,
+            "start": 50076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 50235,
+            "start": 50232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 50355,
+            "start": 50354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Flüchtlingsintegrationsmaßnahmen",
+            "end": 50444,
+            "start": 50412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Buches",
+            "end": 50680,
+            "start": 50674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 50830,
+            "start": 50820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitnehmer",
+            "end": 50974,
+            "start": 50962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 50993,
+            "start": 50984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsänderungen",
+            "end": 51025,
+            "start": 51009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsförderung",
+            "end": 51071,
+            "start": 51055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 51093,
+            "start": 51092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 51427,
+            "start": 51424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 51471,
+            "start": 51467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 51569,
+            "start": 51566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 51760,
+            "start": 51748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "423",
+            "end": 51767,
+            "start": 51764,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 51781,
+            "start": 51780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "424",
+            "end": 51787,
+            "start": 51784,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 51801,
+            "start": 51800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 51819,
+            "start": 51810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialgesetzbuch",
+            "end": 51923,
+            "start": 51907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungspflicht",
+            "end": 51981,
+            "start": 51961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungspflichtverhältnisses",
+            "end": 52207,
+            "start": 52174,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 52228,
+            "start": 52227,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 52248,
+            "start": 52247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mutterschaftszeiten",
+            "end": 52294,
+            "start": 52275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 52716,
+            "start": 52704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 53092,
+            "start": 53089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 53271,
+            "start": 53268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antrag",
+            "end": 53298,
+            "start": 53292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Voraussetzungen",
+            "end": 53358,
+            "start": 53343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 53770,
+            "start": 53763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schule",
+            "end": 53903,
+            "start": 53897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 54081,
+            "start": 54078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 54104,
+            "start": 54103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragen",
+            "end": 54455,
+            "start": 54445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 54603,
+            "start": 54597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 54798,
+            "start": 54789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 55018,
+            "start": 55015,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 55037,
+            "start": 55036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "429",
+            "end": 55043,
+            "start": 55040,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 55057,
+            "start": 55056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entgeltersatzleistungen",
+            "end": 55096,
+            "start": 55073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 55529,
+            "start": 55523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzusetzen",
+            "end": 55677,
+            "start": 55665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 55746,
+            "start": 55734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tage",
+            "end": 56017,
+            "start": 56013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzurunden",
+            "end": 56071,
+            "start": 56060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 56295,
+            "start": 56292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einheit",
+            "end": 57014,
+            "start": 57007,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 57035,
+            "start": 57034,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 57055,
+            "start": 57054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "433",
+            "end": 57061,
+            "start": 57058,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 57075,
+            "start": 57074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschnitt",
+            "end": 57093,
+            "start": 57084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Änderungsgesetzen",
+            "end": 57145,
+            "start": 57128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwerbsfähigkeit",
+            "end": 57216,
+            "start": 57200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 57560,
+            "start": 57556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 57583,
+            "start": 57582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsträgers",
+            "end": 58011,
+            "start": 57995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwerbsminderung",
+            "end": 58158,
+            "start": 58142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwerbsminderung",
+            "end": 58325,
+            "start": 58309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwerbsminderung",
+            "end": 58500,
+            "start": 58484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "und",
+            "end": 58866,
+            "start": 58863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tritt",
+            "end": 58991,
+            "start": 58986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufsichtsrat",
+            "end": 59078,
+            "start": 59066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ruhestand",
+            "end": 59214,
+            "start": 59205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichsteht",
+            "end": 59658,
+            "start": 59647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsmarkt",
+            "end": 59725,
+            "start": 59713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versicherungspflichtig",
+            "end": 60016,
+            "start": 59994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreit",
+            "end": 60082,
+            "start": 60075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 60124,
+            "start": 60122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 60168,
+            "start": 60158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsmarkt",
+            "end": 60235,
+            "start": 60223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zollverwaltung",
+            "end": 60534,
+            "start": 60520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 60679,
+            "start": 60670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befanden",
+            "end": 60903,
+            "start": 60895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergeleitet",
+            "end": 61203,
+            "start": 61191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 61397,
+            "start": 61394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befanden",
+            "end": 61655,
+            "start": 61647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 61678,
+            "start": 61677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 61898,
+            "start": 61892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 62207,
+            "start": 62201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 62592,
+            "start": 62587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheiden",
+            "end": 62782,
+            "start": 62771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angerechnet",
+            "end": 62928,
+            "start": 62917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusatzversorgung",
+            "end": 62984,
+            "start": 62968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 63302,
+            "start": 63295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 63563,
+            "start": 63556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wechseln",
+            "end": 63815,
+            "start": 63807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstzeiten",
+            "end": 64000,
+            "start": 63988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beamten",
+            "end": 64167,
+            "start": 64160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 64235,
+            "start": 64223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 64399,
+            "start": 64387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 64420,
+            "start": 64419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Buches",
+            "end": 64473,
+            "start": 64467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetze",
+            "end": 64510,
+            "start": 64503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 64874,
+            "start": 64868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 64925,
+            "start": 64919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Instrumente",
+            "end": 64998,
+            "start": 64987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versicherungspflichtig",
+            "end": 65211,
+            "start": 65189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Personenkreis",
+            "end": 65373,
+            "start": 65360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 65471,
+            "start": 65461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichgestellt",
+            "end": 65846,
+            "start": 65832,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 65866,
+            "start": 65865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 65888,
+            "start": 65887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 66060,
+            "start": 66056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 66159,
+            "start": 66149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rehabilitation",
+            "end": 66320,
+            "start": 66306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Krankenversicherung",
+            "end": 66371,
+            "start": 66352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 66525,
+            "start": 66515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschäftigungschancengesetz",
+            "end": 66560,
+            "start": 66533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 66927,
+            "start": 66920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 67096,
+            "start": 67089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezugsgröße",
+            "end": 67415,
+            "start": 67404,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 67524,
+            "start": 67514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsmarkt",
+            "end": 67597,
+            "start": 67585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 67978,
+            "start": 67972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 68205,
+            "start": 68199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 68307,
+            "start": 68295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchführen",
+            "end": 68539,
+            "start": 68528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichgestellt",
+            "end": 68794,
+            "start": 68780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 69121,
+            "start": 69118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 69315,
+            "start": 69311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrgenommen",
+            "end": 69427,
+            "start": 69415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amt",
+            "end": 69680,
+            "start": 69677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 69774,
+            "start": 69760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 69954,
+            "start": 69944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entlassen",
+            "end": 70109,
+            "start": 70100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amt",
+            "end": 70290,
+            "start": 70287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 70604,
+            "start": 70594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 70778,
+            "start": 70774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 70896,
+            "start": 70892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 71061,
+            "start": 71057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 71101,
+            "start": 71092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragslaufzeit",
+            "end": 71316,
+            "start": 71300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 71361,
+            "start": 71356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschäftigung",
+            "end": 71432,
+            "start": 71419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 71924,
+            "start": 71914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreit",
+            "end": 71984,
+            "start": 71977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 72038,
+            "start": 72031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 72241,
+            "start": 72238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 72295,
+            "start": 72285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 72461,
+            "start": 72449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitslosenversicherung",
+            "end": 72581,
+            "start": 72557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 72794,
+            "start": 72790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnt",
+            "end": 73025,
+            "start": 73018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 73186,
+            "start": 73182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bundesausbildungsförderungsgesetzes",
+            "end": 73272,
+            "start": 73237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 73379,
+            "start": 73369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 73482,
+            "start": 73470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fort",
+            "end": 73688,
+            "start": 73684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 73842,
+            "start": 73832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fortgesetzt",
+            "end": 74098,
+            "start": 74087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 74143,
+            "start": 74134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitslosenversicherung",
+            "end": 74253,
+            "start": 74229,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 74531,
+            "start": 74530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 74554,
+            "start": 74553,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 372 Satzung und Anordnungen\n(1) Die Bundesagentur gibt sich eine Satzung.\n(2) Die Satzung und die Anordnungen des Verwaltungsrats bedürfen der Genehmigung des Bundesministeriums\nfür Arbeit und Soziales.\n(3) Die Satzung und die Anordnungen sind öffentlich bekannt zu machen. Sie treten, wenn ein anderer Zeitpunkt\nnicht bestimmt ist, am Tag nach ihrer Bekanntmachung in Kraft. Die Art der Bekanntmachung wird durch die\nSatzung geregelt.\n(4) Das Bundesministerium für Arbeit und Soziales kann anstelle der nach diesem Gesetz vorgesehenen\nAnordnungen Rechtsverordnungen erlassen, wenn die Bundesagentur nicht innerhalb von vier Monaten,\nnachdem das Bundesministerium für Arbeit und Soziales sie dazu aufgefordert hat, eine Anordnung erlässt oder\nveränderten Verhältnissen anpasst.\n§ 373 Verwaltungsrat\n(1) Der Verwaltungsrat überwacht den Vorstand und die Verwaltung. Er kann vom Vorstand die Durchführung\nvon Prüfungen durch die Innenrevision verlangen und Sachverständige mit einzelnen Aufgaben der Überwachung\nbeauftragen.\n(2) Der Verwaltungsrat kann jederzeit vom Vorstand Auskunft über die Geschäftsführung verlangen. Auch ein\neinzelnes Mitglied des Verwaltungsrats kann einen Bericht, jedoch nur an den Verwaltungsrat, verlangen; lehnt\nder Vorstand die Berichterstattung ab, so kann der Bericht nur verlangt werden, wenn die Mehrheit der Gruppe,\nder das Antrag stellende Mitglied angehört, das Verlangen unterstützt.\n(3) Die Satzung kann bestimmen, dass bestimmte Arten von Geschäften nur mit Zustimmung des\nVerwaltungsrats vorgenommen werden dürfen. Verweigert der Verwaltungsrat die Zustimmung, so kann der\nVorstand verlangen, dass das Bundesministerium für Arbeit und Soziales entscheidet.\n(4) Ist der Verwaltungsrat der Auffassung, dass der Vorstand seine Pflichten verletzt hat, kann er die\nAngelegenheit dem Bundesministerium für Arbeit und Soziales vortragen.\n(5) Der Verwaltungsrat beschließt die Satzung und erlässt die Anordnungen nach diesem Gesetz.\n(6) Der Verwaltungsrat besteht aus 21 Mitgliedern. Jede Gruppe kann bis zu fünf stellvertretende Mitglieder\nbenennen. Für die Gruppe der öffentlichen Körperschaften können die Mitglieder des Verwaltungsrates, die auf\nVorschlag der Bundesregierung, und die Mitglieder des Verwaltungsrates, die auf Vorschlag des Bundesrates\nin den Verwaltungsrat berufen worden sind, jeweils zwei stellvertretende Mitglieder und das Mitglied, das auf\nVorschlag der kommunalen Spitzenverbände in den Verwaltungsrat berufen worden ist, ein stellvertretendes\nMitglied benennen.\n§ 374 Verwaltungsausschüsse\n(1) Bei jeder Agentur für Arbeit besteht ein Verwaltungsausschuss.\n(2) Der Verwaltungsausschuss überwacht und berät die Agentur für Arbeit bei der Erfüllung ihrer Aufgaben. § 373\nAbs. 2 gilt entsprechend.\n(3) Ist der Verwaltungsausschuss der Auffassung, dass die Geschäftsführung ihre Pflichten verletzt hat, kann er\ndie Angelegenheit dem Verwaltungsrat vortragen.\n(4) Die Zahl der Mitglieder der Verwaltungsausschüsse setzt der Verwaltungsrat fest; die Mitgliederzahl darf\nhöchstens 15 betragen. Jede Gruppe kann bis zu zwei stellvertretende Mitglieder benennen.\n§ 374a\n- Seite 122 von 141 -\n(weggefallen)\n§ 375 Amtsdauer\n(1) Die Amtsdauer der Mitglieder der Selbstverwaltungsorgane beträgt sechs Jahre.\n(2) Die Mitglieder der Selbstverwaltungsorgane bleiben nach Ablauf ihrer Amtsdauer im Amt, bis ihre Nachfolger\nberufen sind.\n(3) Scheidet ein Mitglied vor Ablauf der Amtsdauer aus, so ist für den Rest der Amtsdauer ein neues Mitglied zu\nberufen.\n(4) Die Amtsdauer der stellvertretenden Mitglieder endet mit der Amtsdauer der Mitglieder der\nSelbstverwaltungsorgane.\n§ 376 Entschädigung der ehrenamtlich Tätigen\nDie Bundesagentur erstattet den Mitgliedern und den stellvertretenden Mitgliedern der Selbstverwaltungsorgane\nihre baren Auslagen und gewährt eine Entschädigung. Der Verwaltungsrat kann feste Sätze beschließen.\nZweiter Unterabschnitt\nBerufung und Abberufung\n§ 377 Berufung und Abberufung der Mitglieder\n(1) Die Mitglieder und die stellvertretenden Mitglieder der Selbstverwaltung werden berufen.\n(2) Die Berufung erfolgt bei Mitgliedern des Verwaltungsrats durch das Bundesministerium für Arbeit und\nSoziales und bei Mitgliedern der Verwaltungsausschüsse durch den Verwaltungsrat. Die berufende Stelle hat\nFrauen und Männer mit dem Ziel ihrer gleichberechtigten Teilhabe in den Gruppen zu berücksichtigen. Liegen\nVorschläge mehrerer Vorschlagsberechtigter vor, so sind die Sitze anteilsmäßig unter billiger Berücksichtigung\nder Minderheiten zu verteilen.\n(3) Ein Mitglied ist abzuberufen, wenn\n1.\n eine Voraussetzung für seine Berufung entfällt oder sich nachträglich herausstellt, dass sie nicht vorgelegen\nhat,\n2.\n das Mitglied seine Amtspflicht grob verletzt,\n3.\n die vorschlagende Stelle es beantragt oder\n4.\n das Mitglied es beantragt.\nEine Abberufung auf Antrag der vorschlagsberechtigten Gruppe hat bei den Gruppen der Arbeitnehmerinnen\nund Arbeitnehmer oder der Arbeitgeber nur zu erfolgen, wenn die Mitglieder aus ihren Organisationen\nausgeschlossen worden oder ausgetreten sind oder die Vorschlagsberechtigung der Stelle, die das Mitglied\nvorgeschlagen hat, entfallen ist.\n(4) Für die Berufung der stellvertretenden Mitglieder gelten Absatz 2 Satz 1, Absatz 3 Satz 1 Nr. 1, 2 und 4 sowie\n§ 378 entsprechend. Ein stellvertretendes Mitglied ist abzuberufen, wenn die benennende Gruppe dies beantragt.\n§ 378 Berufungsfähigkeit\n(1) Als Mitglieder der Selbstverwaltungsorgane können nur Deutsche, die das passive Wahlrecht zum Deutschen\nBundestag besitzen, sowie Ausländerinnen und Ausländer, die ihren gewöhnlichen Aufenthalt rechtmäßig im\nBundesgebiet haben und die die Voraussetzungen des § 15 des Bundeswahlgesetzes mit Ausnahme der von der\nStaatsangehörigkeit abhängigen Voraussetzungen erfüllen, berufen werden.\n(2) Arbeitnehmerinnen und Arbeitnehmer sowie Beamtinnen und Beamte der Bundesagentur können nicht\nMitglieder von Selbstverwaltungsorganen der Bundesagentur sein.\n§ 379 Vorschlagsberechtigte Stellen\n(1) Vorschlagsberechtigt sind für die Mitglieder der Gruppen\n- Seite 123 von 141 -\n1.\n der Arbeitnehmerinnen und Arbeitnehmer die Gewerkschaften, die Tarifverträge abgeschlossen haben,\nsowie ihre Verbände,\n2.\n der Arbeitgeber die Arbeitgeberverbände, die Tarifverträge abgeschlossen haben, sowie ihre\nVereinigungen,\ndie für die Vertretung von Arbeitnehmer- oder Arbeitgeberinteressen wesentliche Bedeutung haben. Für die\nVerwaltungsausschüsse der Agenturen für Arbeit sind nur die für den Bezirk zuständigen Gewerkschaften und\nihre Verbände sowie die Arbeitgeberverbände und ihre Vereinigungen vorschlagsberechtigt.\n(2) Vorschlagsberechtigt für die Mitglieder der Gruppe der öffentlichen Körperschaften im Verwaltungsrat sind\n1.\n die Bundesregierung für drei Mitglieder,\n2.\n der Bundesrat für drei Mitglieder und\n3.\n die Spitzenvereinigungen der kommunalen Selbstverwaltungskörperschaften für ein Mitglied.\n(2a) (weggefallen)\n(3) Vorschlagsberechtigt für die Mitglieder der Gruppe der öffentlichen Körperschaften in den\nVerwaltungsausschüssen sind die gemeinsamen Rechtsaufsichtsbehörden der zum Bezirk der Agentur für\nArbeit gehörenden Gemeinden und Gemeindeverbände oder, soweit es sich um oberste Landesbehörden\nhandelt, die von ihnen bestimmten Behörden. Die zum Bezirk der Agentur für Arbeit gehörenden Gemeinden\nund Gemeindeverbände sind berechtigt, der zuständigen Behörde Personen vorzuschlagen. Einigen sie\nsich auf einen Vorschlag, ist die zuständige Behörde an diesen gebunden; im anderen Fall schlägt sie von\nsich aus Personen vor, die für die beteiligten Gemeinden oder Gemeindeverbände oder für sie tätig sein\nmüssen. Ist eine gemeinsame Gemeindeaufsichtsbehörde nicht vorhanden und einigen sich die beteiligten\nGemeindeaufsichtsbehörden nicht, so steht das Vorschlagsrecht der obersten Landesbehörde oder der von ihr\nbezeichneten Stelle zu. Mitglieder der öffentlichen Körperschaften können nur Vertreterinnen oder Vertreter der\nGemeinden, der Gemeindeverbände oder der gemeinsamen Gemeindeaufsichtsbehörde sein, in deren Gebiet\nsich der Bezirk der Agentur für Arbeit befindet, und die bei diesen hauptamtlich oder ehrenamtlich tätig sind.\n(4) (weggefallen)\nDritter Unterabschnitt\nNeutralitätsausschuss\n§ 380 Neutralitätsausschuss\n(1) Der Neutralitätsausschuss, der Feststellungen über bestimmte Voraussetzungen über das Ruhen des\nArbeitslosengeldes bei Arbeitskämpfen trifft, besteht aus\n1.\n drei Mitgliedern, die der Gruppe der Arbeitnehmerinnen und Arbeitnehmer im Verwaltungsrat angehören,\n2.\n drei Mitgliedern, die der Gruppe der Arbeitgeber im Verwaltungsrat angehören, sowie\n3.\n der oder dem Vorsitzenden des Vorstands.\nDie Gruppe der Arbeitnehmerinnen und Arbeitnehmer sowie die Gruppe der Arbeitgeber bestimmen die sie\njeweils vertretenden Personen mit einfacher Mehrheit. Vorsitzende oder Vorsitzender ist die oder der Vorsitzende\ndes Vorstands. Sie oder er vertritt den Neutralitätsausschuss vor dem Bundessozialgericht.\n(2) Die Vorschriften, die die Organe der Bundesagentur betreffen, gelten entsprechend, soweit Besonderheiten\ndes Neutralitätsausschusses nicht entgegenstehen.\nDritter Abschnitt\nVorstand und Verwaltung\n§ 381 Vorstand der Bundesagentur\n(1) Der Vorstand leitet die Bundesagentur und führt deren Geschäfte. Er vertritt die Bundesagentur gerichtlich\nund außergerichtlich.\n(2) Der Vorstand besteht aus einer oder einem Vorsitzenden und zwei weiteren Mitgliedern. Durch Satzung kann\nder Vorstand um ein weiteres Mitglied erweitert werden. Die oder der Vorsitzende führt die Amtsbezeichnung\n- Seite 124 von 141 -\n\"Vorsitzende des Vorstands der Bundesagentur für Arbeit\" oder \"Vorsitzender des Vorstands der Bundesagentur\nfür Arbeit\", die übrigen Mitglieder führen die Amtsbezeichnung \"Mitglied des Vorstands der Bundesagentur für\nArbeit\".\n(3) Die oder der Vorsitzende des Vorstands bestimmt die Richtlinien der Geschäftsführung und ist bei\nder Benennung der übrigen Vorstandsmitglieder zu hören. Innerhalb dieser Richtlinien nimmt jedes\nVorstandsmitglied die Aufgaben seines Geschäftsbereiches selbständig wahr.\n(4) Der Vorstand gibt sich eine Geschäftsordnung, die der Zustimmung des Verwaltungsrats bedarf. Die\nGeschäftsordnung hat insbesondere die Geschäftsverteilung im Vorstand festzulegen sowie die Stellvertretung\nund die Voraussetzungen für die Beschlussfassung zu regeln.\n(5) Die Vorstandsmitglieder dürfen dem Verwaltungsrat nicht angehören. Sie sind berechtigt, an den Sitzungen\ndes Verwaltungsrats teilzunehmen. Sie können jederzeit das Wort ergreifen.\n(6) Der Vorstand hat dem Verwaltungsrat regelmäßig und aus wichtigem Anlass zu berichten und ihm auf\nVerlangen jederzeit Auskunft über die Geschäftsführung der Bundesagentur zu erteilen.\n§ 382 Rechtsstellung der Vorstandsmitglieder\n(1) Die oder der Vorsitzende und die übrigen Mitglieder des Vorstands werden auf Vorschlag des Verwaltungsrats\nvon der Bundesregierung benannt. Erfolgt trotz Aufforderung durch die Bundesregierung innerhalb von\nvier Wochen kein Vorschlag des Verwaltungsrats, erlischt das Vorschlagsrecht. Findet der Vorschlag des\nVerwaltungsrats nicht die Zustimmung der Bundesregierung, kann der Verwaltungsrat innerhalb von vier\nWochen einen neuen Vorschlag unterbreiten. Das Letztentscheidungsrecht der Bundesregierung bleibt von\ndiesem Verfahren unberührt.\n(2) Die oder der Vorsitzende und die übrigen Mitglieder des Vorstands stehen in einem öffentlich-rechtlichen\nAmtsverhältnis. Sie werden von der Bundespräsidentin oder dem Bundespräsidenten ernannt. Die Amtszeit der\nMitglieder des Vorstands soll fünf Jahre betragen. Mehrere Amtszeiten sind zulässig.\n(3) Das Amtsverhältnis der Vorstandsmitglieder beginnt mit der Aushändigung der Ernennungsurkunde,\nwenn nicht in der Urkunde ein späterer Tag bestimmt ist. Es endet mit Ablauf der Amtszeit, Erreichen der\nAltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes oder Entlassung. Die Bundespräsidentin\noder der Bundespräsident entlässt ein Vorstandsmitglied auf dessen Verlangen. Eine Entlassung erfolgt\nauch auf Beschluss der Bundesregierung oder des Verwaltungsrats mit Zustimmung der Bundesregierung,\nwenn das Vertrauensverhältnis gestört ist oder ein wichtiger Grund vorliegt. Im Falle der Beendigung des\nAmtsverhältnisses erhält das Vorstandsmitglied eine von der Bundespräsidentin oder dem Bundespräsidenten\nvollzogene Urkunde. Eine Entlassung wird mit der Aushändigung der Urkunde wirksam. Auf Verlangen des\nVerwaltungsrats mit Zustimmung des Bundesministeriums für Arbeit und Soziales ist ein Vorstandsmitglied\nverpflichtet, die Geschäfte bis zur Ernennung einer Nachfolgerin oder eines Nachfolgers weiterzuführen.\n(4) Die Mitglieder des Vorstands haben, auch nach Beendigung ihres Amtsverhältnisses, über die ihnen amtlich\nbekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im\ndienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung\nbedürfen.\n(5) Die Vorstandsmitglieder dürfen neben ihrem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen\nBeruf ausüben und weder der Leitung eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder\neiner gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Sie dürfen nicht gegen Entgelt\naußergerichtliche Gutachten abgeben. Für die Zugehörigkeit zu einem Aufsichtsrat, Verwaltungsrat, Beirat oder\neinem anderen Gremium eines öffentlichen oder privaten Unternehmens oder einer sonstigen Einrichtung ist\ndie Einwilligung des Bundesministeriums für Arbeit und Soziales erforderlich; dieses entscheidet, inwieweit eine\nVergütung abzuführen ist.\n(6) Im Übrigen werden die Rechtsverhältnisse der Vorstandsmitglieder, insbesondere die Gehalts- und\nVersorgungsansprüche und die Haftung, durch Verträge geregelt, die das Bundesministerium für Arbeit\nund Soziales mit den Mitgliedern des Vorstands schließt. Die Verträge bedürfen der Zustimmung der\nBundesregierung. Der Vollzug der vertraglichen Regelung obliegt der Bundesagentur.\n(7) Wird eine Bundesbeamtin oder ein Bundesbeamter zum Mitglied des Vorstands ernannt, ruhen für die Dauer\ndes Amtsverhältnisses die in dem Beamtenverhältnis begründeten Rechte und Pflichten mit Ausnahme der\n- Seite 125 von 141 -\nPflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen oder Geschenken. Satz 1 gilt\nlängstens bis zum Eintritt oder bis zur Versetzung in den Ruhestand.\n(8) Endet das Amtsverhältnis nach Absatz 2 und wird die oder der Betroffene nicht anschließend in ein anderes\nöffentlich-rechtliches Amtsverhältnis zum Bund berufen, treten Beamtinnen und Beamte, wenn ihnen nicht\ninnerhalb von drei Monaten unter den Voraussetzungen des § 28 Abs. 2 des Bundesbeamtengesetzes oder\nvergleichbarer landesrechtlicher Regelungen ein anderes Amt übertragen wird, mit Ablauf dieser Frist aus ihrem\nDienstverhältnis als Beamtinnen oder Beamte in den einstweiligen Ruhestand, sofern sie zu diesem Zeitpunkt\nnoch nicht die gesetzliche Altersgrenze erreicht haben.\n§ 383 Geschäftsführung der Agenturen für Arbeit\n(1) Die Agenturen für Arbeit werden von einer Geschäftsführerin, einem Geschäftsführer oder einer\nGeschäftsführung geleitet. Eine Geschäftsführung besteht aus einer oder einem Vorsitzenden und bis zu zwei\nweiteren Mitgliedern.\n(2) Die Geschäftsführerin, der Geschäftsführer oder die Mitglieder der Geschäftsführung werden vom Vorstand\nbestellt. Der Vorstand hört die Verwaltungsausschüsse zu den von ihm ausgewählten Bewerberinnen und\nBewerbern.\n(3) Die Geschäftsführerin, der Geschäftsführer oder die Mitglieder der Geschäftsführung sind berechtigt, an den\nSitzungen des Verwaltungsausschusses teilzunehmen. Sie können jederzeit das Wort ergreifen.\n(4) Die Geschäftsführerin, der Geschäftsführer oder die Geschäftsführung haben dem Verwaltungsausschuss\nregelmäßig und aus wichtigem Anlass zu berichten und ihm auf Verlangen jederzeit Auskunft über die Geschäfte\nder Agentur für Arbeit zu erteilen.\n§ 384 Geschäftsführung der Regionaldirektionen\n(1) Die Regionaldirektionen werden von einer Geschäftsführung geleitet. Die Geschäftsführung besteht aus einer\noder einem Vorsitzenden und zwei weiteren Mitgliedern.\n(2) Die Mitglieder werden vom Vorstand bestellt; vor der Bestellung der vorsitzenden Mitglieder der\nGeschäftsführung hat der Vorstand den Verwaltungsrat und die beteiligten Landesregierungen anzuhören.\n§ 385 Beauftragte für Chancengleichheit am Arbeitsmarkt\n(1) Bei den Agenturen für Arbeit, bei den Regionaldirektionen und bei der Zentrale sind hauptamtliche\nBeauftragte für Chancengleichheit am Arbeitsmarkt zu bestellen. Sie sind unmittelbar der jeweiligen\nDienststellenleitung zugeordnet.\n(2) Die Beauftragten für Chancengleichheit am Arbeitsmarkt unterstützen und beraten Arbeitgeber,\nArbeitnehmerinnen und Arbeitnehmer sowie deren Organisationen in übergeordneten Fragen der\nFrauenförderung, der Gleichstellung von Frauen und Männern am Arbeitsmarkt sowie der Vereinbarkeit von\nFamilie und Beruf bei beiden Geschlechtern. Hierzu zählen insbesondere Fragen der beruflichen Ausbildung, des\nberuflichen Einstiegs und Fortkommens von Frauen und Männern nach einer Familienphase sowie hinsichtlich\neiner flexiblen Arbeitszeitgestaltung. Zur Sicherung der gleichberechtigten Teilhabe von Frauen am Arbeitsmarkt\narbeiten sie mit den in Fragen der Frauenerwerbsarbeit tätigen Stellen ihres Bezirks zusammen.\n(3) Die Beauftragten für Chancengleichheit am Arbeitsmarkt sind bei der frauen- und familiengerechten\nfachlichen Aufgabenerledigung ihrer Dienststellen zu beteiligen. Sie haben ein Informations-, Beratungs-\nund Vorschlagsrecht in Fragen, die Auswirkungen auf die Chancengleichheit von Frauen und Männern am\nArbeitsmarkt haben.\n(4) Die Beauftragten für Chancengleichheit am Arbeitsmarkt bei den Agenturen für Arbeit können mit weiteren\nAufgaben beauftragt werden, soweit die Aufgabenerledigung als Beauftragte für Chancengleichheit am\nArbeitsmarkt dies zulässt. In Konfliktfällen entscheidet der Verwaltungsausschuss.\n§ 386 Innenrevision\n(1) Die Bundesagentur stellt durch organisatorische Maßnahmen sicher, dass in allen Dienststellen durch eigenes\nnicht der Dienststelle angehörendes Personal geprüft wird, ob Leistungen unter Beachtung der gesetzlichen\n- Seite 126 von 141 -\nBestimmungen nicht hätten erbracht werden dürfen oder zweckmäßiger oder wirtschaftlicher hätten eingesetzt\nwerden können. Mit der Durchführung der Prüfungen können Dritte beauftragt werden.\n(2) Das Prüfpersonal der Bundesagentur ist für die Zeit seiner Prüftätigkeit fachlich unmittelbar der Leitung der\nDienststelle unterstellt, in der es beschäftigt ist.\n(3) Der Vorstand legt die Berichte der Innenrevision unverzüglich dem Verwaltungsrat vor. Vertreterinnen oder\nVertreter der Innenrevision sind berechtigt, an den Sitzungen des Verwaltungsrats teilzunehmen, wenn ihre\nBerichte Gegenstand der Beratung sind. Sie können jederzeit das Wort ergreifen.\n§ 387 Personal der Bundesagentur\n(1) Das Personal der Bundesagentur besteht vorrangig aus Arbeitnehmerinnen und Arbeitnehmern. Die\nBeamtinnen und Beamten der Bundesagentur sind Bundesbeamte.\n(2) Oberste Dienstbehörde für die Beamtinnen und Beamten der Bundesagentur ist der Vorstand. Soweit\nbeamtenrechtliche Vorschriften die Übertragung der Befugnisse von obersten Dienstbehörden auf\nnachgeordnete Behörden zulassen, kann der Vorstand seine Befugnisse im Rahmen dieser Vorschriften\nauf die Geschäftsführerinnen, Geschäftsführer oder Vorsitzenden der Geschäftsführungen der Agenturen\nfür Arbeit, auf die Vorsitzenden der Geschäftsführungen der Regionaldirektionen und die Leitungen der\nbesonderen Dienststellen übertragen. § 144 Abs. 1 des Bundesbeamtengesetzes und § 83 Abs. 1 des\nBundesdisziplinargesetzes bleiben unberührt.\n(3) Beamtinnen und Beamte der Bundesagentur können auf Antrag zur Wahrnehmung einer hauptberuflichen\nTätigkeit in einem befristeten Arbeits- oder Anstellungsverhältnis bei der Bundesagentur unter Wegfall der\nBesoldung beurlaubt werden, soweit das Beamtenverhältnis mindestens drei Jahre besteht und dienstliche\nGründe nicht entgegenstehen. Eine Beurlaubung ist nur zulässig, wenn der Beamtin oder dem Beamten in\ndem Arbeits- oder Anstellungsverhältnis eine Funktion übertragen wird, die höher als die bisher übertragene\nFunktion bewertet ist. Die Bewilligung der Beurlaubung dient dienstlichen Interessen und ist auf längstens zehn\nJahre zu befristen. Verlängerungen sind zulässig. Bei Abschluss eines Anstellungsvertrags nach § 389 Absatz\n1 verlängert sich die Beurlaubung um die Zeit, die im Anstellungsverhältnis zu erbringen ist. Die Bewilligung\nder Beurlaubung kann aus zwingenden dienstlichen Gründen widerrufen werden. Bei Beendigung oder Ruhen\ndes Arbeitsverhältnisses ist die Bewilligung der Beurlaubung grundsätzlich zu widerrufen. Sie kann auf Antrag\nder beurlaubten Beamtin oder des beurlaubten Beamten auch widerrufen werden, wenn ihr oder ihm eine\nFortsetzung der Beurlaubung nicht zumutbar ist und dienstliche Belange nicht entgegenstehen.\n(4) Die beurlaubten Beamtinnen und Beamten sind im Rahmen ihrer hauptberuflichen Tätigkeit nach Absatz\n3 Satz 1 nicht versicherungspflichtig im Anwendungsbereich dieses Buches, in der gesetzlichen Kranken- und\nRentenversicherung sowie in der sozialen Pflegeversicherung.\n(5) Die Zeit der hauptberuflichen Tätigkeit der nach Absatz 3 Satz 1 beurlaubten Beamtinnen und Beamten\nist ruhegehaltfähig. Die Voraussetzungen des § 28 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gelten\nfür die Zeit der Beurlaubung als erfüllt. Ein Versorgungszuschlag wird nicht erhoben. Die Anwartschaft der\nbeurlaubten Beamtinnen und Beamten auf Versorgung bei verminderter Erwerbsfähigkeit und im Alter sowie auf\nHinterbliebenenversorgung nach beamtenrechtlichen Vorschriften und Grundsätzen ist gewährleistet.\n(6) Während der hauptberuflichen Tätigkeit nach Absatz 3 Satz 1 besteht im Krankheitsfall ein zeitlich\nunbegrenzter Anspruch auf Entgeltfortzahlung in Höhe der Besoldung, die der beurlaubten Beamtin oder dem\nbeurlaubten Beamten vor der Beurlaubung zugestanden hat, mindestens jedoch in Höhe des Krankengeldes,\ndas der beurlaubten Beamtin oder dem beurlaubten Beamten nach den §§ 44 ff. des Fünften Buches zustehen\nwürde. Entgeltansprüche, die der beurlaubten Beamtin oder dem beurlaubten Beamten im Krankheitsfall\nnach dem Entgeltfortzahlungsgesetz, einem Tarifvertrag oder dem Arbeits- oder Anstellungsvertrag zustehen,\nbleiben unberührt und werden auf den Entgeltfortzahlungsanspruch nach Satz 1 angerechnet. Darüber hinaus\nbesteht bei Krankheit und Pflegebedürftigkeit ein Anspruch auf Beihilfe in entsprechender Anwendung der\nBeihilferegelungen für Beamtinnen und Beamte mit Dienstbezügen.\n(7) Werden einer Beamtin oder einem Beamten der Bundesagentur mit Bestellung zur Geschäftsführerin\noder zum Geschäftsführer einer gemeinsamen Einrichtung nach § 44d Absatz 2 Satz 1 des Zweiten\nBuches Aufgaben eines höherwertigen Amtes übertragen, erhält sie oder er ab dem siebten Monat der\nununterbrochenen Wahrnehmung dieser Aufgaben im Beamtenverhältnis eine Zulage, wenn in diesem Zeitpunkt\ndie haushaltsrechtlichen Voraussetzungen für die Übertragung dieses Amtes vorliegen. Die Zulage wird in Höhe\ndes Unterschiedsbetrages zwischen dem Grundgehalt ihrer oder seiner Besoldungsgruppe und dem Grundgehalt\n- Seite 127 von 141 -\nder Besoldungsgruppe gezahlt, der das höherwertige Amt zugeordnet ist, höchstens jedoch der dritten folgenden\nBesoldungsgruppe.\n§ 388 Ernennung der Beamtinnen und Beamten\n(1) Der Vorstand ernennt die Beamtinnen und Beamten.\n(2) Der Vorstand kann seine Befugnisse auf Bedienstete der Bundesagentur übertragen. Er bestimmt im\nEinzelnen, auf wen die Ernennungsbefugnisse übertragen werden.\n§ 389 Anstellungsverhältnisse oberster Führungskräfte\n(1) Folgende Funktionen werden vorrangig in einem befristeten außertariflichen Arbeitsverhältnis oberster\nFührungskräfte (Anstellungsverhältnis) übertragen:\n1.\n die Funktion einer Geschäftsführerin oder eines Geschäftsführers bei der Zentrale der Bundesagentur,\n2.\n die Funktion einer Bereichsleiterin oder eines Bereichsleiters mit herausgehobenen Aufgaben bei der\nZentrale der Bundesagentur,\n3.\n die Funktionen der oder des Vorsitzenden der Geschäftsführung einer Regionaldirektion und der ständigen\nVertreterin oder des ständigen Vertreters der oder des Vorsitzenden der Geschäftsführung einer\nRegionaldirektion,\n4.\n die Funktion der Leiterin oder des Leiters der Familienkasse sowie\n5.\n die Funktionen der Leiterin oder des Leiters und der stellvertretenden Leiterin oder des stellvertretenden\nLeiters des Instituts für Arbeitsmarkt- und Berufsforschung.\nEin Anstellungsverhältnis darf jeweils die Dauer von fünf Jahren nicht überschreiten. Es kann wiederholt\nbegründet werden. Wenn Beschäftigte zum Zeitpunkt der Übertragung in einem Arbeitsverhältnis zur\nBundesagentur stehen, wird die Funktion ausschließlich im Anstellungsverhältnis übertragen. Vor Begründung\neines Anstellungsverhältnisses ist der Verwaltungsrat der Bundesagentur zu beteiligen. Bei Übertragung im\nBeamtenverhältnis gilt § 24 Absatz 1 bis 4 und 6 des Bundesbeamtengesetzes.\n(2) Beamtinnen und Beamte, die ein Anstellungsverhältnis begründen, kehren nach Beendigung ihres\nAnstellungsverhältnisses in das ihnen vor der Beurlaubung nach § 387 Absatz 3 zuletzt übertragene Amt zurück,\nes sei denn, sie haben zu diesem Zeitpunkt die für sie geltende Altersgrenze erreicht. Sie erhalten die Besoldung\naus dem vor der Beurlaubung nach § 387 Absatz 3 zuletzt wahrgenommenen Amt.\n(3) Für die Dauer eines Anstellungsverhältnisses ruhen die Rechte und Pflichten aus einem mit der\nBundesagentur bereits bestehenden Arbeitsverhältnis.\n§ 390 Außertarifliche Arbeitsbedingungen und Vergütungen\n(1) Der Vorstand regelt mit Zustimmung des Verwaltungsrats und im Benehmen mit dem Bundesministerium für\nArbeit und Soziales und dem Bundesministerium der Finanzen die Bedingungen, unter denen die Bundesagentur\nAnstellungsverträge mit obersten Führungskräften und Arbeitsverträge mit den sonstigen Beschäftigten schließt,\nfür die kein Tarifvertrag der Bundesagentur gilt (obere Führungskräfte und herausgehobene Fachkräfte). Die\nFunktionen der Beschäftigten nach Satz 1 sind jeweils einer von mehreren Tätigkeitsebenen zuzuordnen. Im\nHaushaltsplan der Bundesagentur ist für die Vergütung der in Satz 1 genannten Beschäftigten ein gesonderter\nTitel auszubringen. Dabei ist in einer verbindlichen Erläuterung zum Titel und im verbindlichen Stellenplan die\nAnzahl der Beschäftigten nach Satz 1 nach Tätigkeitsebenen gegliedert festzulegen. Für die Tätigkeitsebenen\nist jeweils die Spannbreite der jährlichen Gesamtvergütungen sowie die dieser entsprechende Spannbreite der\nBesoldungsgruppen nach dem Bundesbesoldungsgesetz auszuweisen.\n(2) Die nach Absatz 1 Satz 1 zu regelnde Vergütung besteht aus einem Festgehalt, zu dem Zulagen\ngezahlt werden können. Zusätzlich können ein individueller leistungsbezogener Bestandteil sowie eine\nam Grad der Zielerreichung der Bundesagentur oder ihrer Dienststellen ausgerichtete geschäftspolitische\nErgebniskomponente geleistet werden.\n(3) Die Vergütung nach Absatz 2 Satz 1 hat sich an den Grundgehältern der Bundesbesoldungsordnungen A\nund B auszurichten. Für die Zuordnung von Festgehalt und Zulagen sind die mit der übertragenen Funktion\nverbundene Aufgaben- und Personalverantwortung, die Schwierigkeit der Aufgabe und die Bedeutung der\nFunktion oder der Grad der Anforderungen und Belastungen maßgeblich. Die Summe aus Festgehalt und Zulagen\ndarf für oberste Führungskräfte die Grundgehälter der Bundesbesoldungsordnung B, für obere Führungskräfte\n- Seite 128 von 141 -\nund herausgehobene Fachkräfte die Endgrundgehälter der Bundesbesoldungsordnung A, jeweils zuzüglich\ndes Familienzuschlags der Stufe 2, der Bundesbeamtinnen und Bundesbeamten in vergleichbaren Funktionen\nnicht übersteigen. Dabei darf für oberste Führungskräfte das Grundgehalt der Besoldungsgruppe B 7 der\nBundesbesoldungsordnung B zuzüglich des Familienzuschlags der Stufe 2 nicht überschritten werden. § 44d\nAbsatz 7 des Zweiten Buches bleibt unberührt.\n(4) Der leistungsbezogene Bestandteil nach Absatz 2 Satz 2 hat sich an der individuellen Leistung der\noder des Beschäftigten zu bemessen. Er darf nicht mehr als 20 Prozent des Festgehalts betragen. Die\ngeschäftspolitische Ergebniskomponente ist auf jährlich höchstens 10 Prozent des nach Absatz 2 Satz 1\nvorgesehenen niedrigsten Jahresfestgehalts zu begrenzen. Der Vorstand der Bundesagentur stellt unter\nvorheriger Beteiligung des Verwaltungsrats fest, zu welchem leistungsorientierten Grad die Ziele erreicht\nwurden, die für die geschäftspolitische Ergebniskomponente maßgeblich sind. Grundlage dafür ist ein mit dem\nVerwaltungsrat abgestimmtes geeignetes Ziele-, Kennzahlen- und Messgrößensystem.\n(5) Die Vergütung nach Absatz 2 Satz 1 nimmt an den Änderungen des höchsten Festgehalts für tariflich\nBeschäftigte der Bundesagentur teil. Die Regelung nach Absatz 3 Satz 3 und 4 bleibt davon unberührt.\n(6) Der Vorstand kann mit Zustimmung des Verwaltungsrats im Einzelfall Beschäftigten nach Absatz 1 Satz\n1 eine weitere Zulage zahlen, wenn ein Dienstposten auf Grund besonderer Anforderungen nicht zu den\nBedingungen der Absätze 3 und 4 besetzt werden oder besetzt bleiben kann. § 44d Absatz 7 des Zweiten Buches\nbleibt unberührt. Für solche Einzelfälle sind folgende Angaben auszuweisen:\n1.\n ein entsprechender Betrag in dem Titel nach Absatz 1 Satz 3 und\n2.\n die Anzahl der Beschäftigten, die eine Zulage nach Satz 1 erhalten können, in einer verbindlichen\nErläuterung zum Titel nach Absatz 1 Satz 3 und im verbindlichen Stellenplan.\n§ 391 (weggefallen)\n-\n§ 392 Obergrenzen für Beförderungsämter\nBei der Bundesagentur können die nach § 26 Abs. 1 des Bundesbesoldungsgesetzes zulässigen Obergrenzen für\nBeförderungsämter nach Maßgabe sachgerechter Bewertung überschritten werden, soweit dies zur Vermeidung\nvon Verschlechterungen der Beförderungsverhältnisse infolge einer Verminderung von Planstellen erforderlich\nist.\nVierter Abschnitt\nAufsicht\n§ 393 Aufsicht\n(1) Die Aufsicht über die Bundesagentur führt das Bundesministerium für Arbeit und Soziales. Sie erstreckt sich\ndarauf, dass Gesetze und sonstiges Recht beachtet werden.\n(2) Dem Bundesministerium für Arbeit und Soziales ist jährlich ein Geschäftsbericht vorzulegen, der vom\nVorstand zu erstatten und vom Verwaltungsrat zu genehmigen ist.\nFünfter Abschnitt\nDatenschutz\n§ 394 Erhebung, Verarbeitung und Nutzung von Daten durch die Bundesagentur\n(1) Die Bundesagentur darf Sozialdaten nur erheben, verarbeiten und nutzen, soweit dies zur Erfüllung ihrer\ngesetzlich vorgeschriebenen oder zugelassenen Aufgaben erforderlich ist. Ihre Aufgaben nach diesem Buch sind\n1.\n die Feststellung eines Versicherungspflichtverhältnisses einschließlich einer Versicherungsfreiheit,\n2.\n die Erbringung von Leistungen der Arbeitsförderung,\n3.\n die Erstellung von Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung,\n4.\n die Überwachung der Beratung und Vermittlung durch Dritte,\n- Seite 129 von 141 -\n5.\ndie Zustimmung zur Zulassung der Beschäftigung nach dem Aufenthaltsgesetz, die Zustimmung zur\nAnwerbung aus dem Ausland sowie die Erteilung einer Arbeitsgenehmigung-EU,\n6.\ndie Bekämpfung von Leistungsmissbrauch und illegaler Beschäftigung,\n7.\ndie Unterrichtung der zuständigen Behörden über Anhaltspunkte von Schwarzarbeit, Nichtentrichtung von\nSozialversicherungsbeiträgen oder Steuern und Verstößen gegen das Aufenthaltsgesetz,\n8.\ndie Überwachung der Melde-, Anzeige-, Bescheinigungs- und sonstiger Pflichten nach dem Achten Kapitel\nsowie die Erteilung von Auskünften,\n9.\nder Nachweis von Beiträgen sowie die Erhebung von Umlagen für die ergänzenden Leistungen nach § 102\nund das Insolvenzgeld,\n10.\ndie Durchführung von Erstattungs- und Ersatzansprüchen.\n(2) Eine Verwendung für andere als die in Absatz 1 genannten Zwecke ist nur zulässig, soweit dies durch\nRechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist.\n§ 395 Datenübermittlung an Dritte; Erhebung, Verarbeitung und Nutzung von Sozialdaten durch\nnichtöffentliche Stellen\n(1) Die Bundesagentur darf Dritten, die mit der Erfüllung von Aufgaben nach diesem Buch beauftragt sind,\nSozialdaten übermitteln, soweit dies zur Erfüllung dieser Aufgaben erforderlich ist.\n(2) Die Bundesagentur darf abweichend von § 80 Abs. 5 des Zehnten Buches zur Erfüllung ihrer Aufgaben nach\ndiesem Buch nichtöffentliche Stellen mit der Erhebung, Verarbeitung und Nutzung von Sozialdaten beauftragen,\nauch soweit die Speicherung der Daten den gesamten Datenbestand umfasst.\n§ 396 Kennzeichnungs- und Maßregelungsverbot\nDie Bundesagentur und von ihr beauftragte Dritte dürfen Berechtigte und Arbeitgeber bei der Speicherung oder\nÜbermittlung von Daten nicht in einer aus dem Wortlaut nicht verständlichen oder in einer Weise kennzeichnen,\ndie nicht zur Erfüllung ihrer Aufgaben erforderlich ist. Die Bundesagentur darf an einer Maßregelung von\nBerechtigten oder an entsprechenden Maßnahmen gegen Arbeitgeber nicht mitwirken.\n§ 397 Automatisierter Datenabgleich\n(1) Soweit für die Erbringung oder die Erstattung von Leistungen nach diesem Buch erforderlich, darf die\nBundesagentur Angaben zu Personen, die Leistungen nach diesem Buch beantragt haben, beziehen oder innerhalb\nder letzten neun Monate bezogen haben, regelmäßig automatisiert mit den folgenden nach § 36 Absatz 3 der\nDatenerfassungs- und Übermittlungsverordnung von der Datenstelle der Rentenversicherung übermittelten Daten\nabgleichen:\n1.\n Versicherungsnummer (§ 28a Absatz 3 Satz 1 Nummer 1 des Vierten Buches),\n2.\n Betriebsnummer des Arbeitgebers (§ 28a Absatz 3 Satz 1 Nummer 6 des Vierten Buches),\n3.\n zuständige Einzugsstelle (§ 28a Absatz 3 Satz 1 Nummer 8 des Vierten Buches),\n4.\n Beschäftigungsbeginn (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe b des Vierten Buches),\n5.\n Beschäftigungszeitraum (§ 28a Absatz 3 Satz 2 Nummer 2 Buchstabe d des Vierten Buches),\n6.\n Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe für die Meldungen (§ 28b Absatz 1\nSatz 1 Nummer 1 des Vierten Buches),\n7.\n Stornokennzeichen (§ 14 Absatz 1 der Datenerfassungs- und Übermittlungsverordnung).\nSatz 1 gilt auch für geringfügig Beschäftigte. Bei Beschäftigten, für die Meldungen im Rahmen des\nHaushaltsscheckverfahrens (§ 28a Absatz 7 des Vierten Buches) erstattet werden, dürfen die nach §\n28a Absatz 8 Nummer 1, 2 und 4 Buchstabe a und d des Vierten Buches übermittelten Daten\nabgeglichen werden. Die abzugleichenden Daten dürfen von der Bundesagentur, bezogen auf einzelne\nBeschäftigungsverhältnisse, zusammengeführt werden. Dabei können die nach § 36 Absatz 3 der Datenerfassungs-\nund Übermittlungsverordnung übermittelten Daten, insbesondere auch das in der Rentenversicherung oder nach\ndem Recht der Arbeitsförderung beitragspflichtige Arbeitsentgelt in Euro (§ 28a Absatz 3 Satz 2 Nummer 2\nBuchstabe b des Vierten Buches) genutzt werden.\n- Seite 130 von 141 -\n(2) Nach Durchführung des Abgleichs hat die Bundesagentur die Daten, die für die in Absatz 1 genannten\nZwecke nicht erforderlich sind, unverzüglich zu löschen. Die übrigen Daten dürfen nur für die in Absatz 1\ngenannten Zwecke und für die Verfolgung von Straftaten und Ordnungswidrigkeiten verwendet werden, die im\nZusammenhang mit der Beantragung oder dem Bezug von Leistungen stehen.\n§ 398 Datenübermittlung durch beauftragte Dritte\nHat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter beauftragt, eine ärztliche\noder psychologische Untersuchung oder Begutachtung durchzuführen, ist die Übermittlung von Daten an die\nBundesagentur durch die externe Gutachterin oder den externen Gutachter zulässig, soweit dies zur Erfüllung\ndes Auftrages erforderlich ist.\n§§ 399 bis 403 (weggefallen)\nZwölftes Kapitel\nBußgeldvorschriften\nErster Abschnitt\nBußgeldvorschriften\n§ 404 Bußgeldvorschriften\n(1) Ordnungswidrig handelt, wer als Unternehmerin oder Unternehmer Dienst- oder Werkleistungen in\nerheblichem Umfang ausführen lässt, indem sie oder er eine andere Unternehmerin oder einen anderen\nUnternehmer beauftragt, von dem sie oder er weiß oder fahrlässig nicht weiß, dass diese oder dieser zur\nErfüllung dieses Auftrags\n1.\n entgegen § 284 Absatz 1 oder § 4 Absatz 3 Satz 2 des Aufenthaltsgesetzes eine Ausländerin oder einen\nAusländer beschäftigt oder\n2.\n eine Nachunternehmerin oder einen Nachunternehmer einsetzt oder es zulässt, dass eine\nNachunternehmerin oder ein Nachunternehmer tätig wird, die oder der entgegen § 284 Absatz 1 oder § 4\nAbsatz 3 Satz 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt.\n(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig\n1.\nentgegen § 42 Absatz 4 oder § 287 Abs. 3 sich die dort genannte Gebühr oder den genannten\nAufwendungsersatz erstatten lässt,\n2.\nentgegen § 165 Absatz 5 einen dort genannten Beschluß nicht oder nicht rechtzeitig bekanntgibt,\n3.\nentgegen § 284 Abs. 1 oder § 4 Abs. 3 Satz 2 des Aufenthaltsgesetzes eine Ausländerin oder\neinen Ausländer beschäftigt,\n4.\nentgegen § 284 Abs. 1 oder § 4 Abs. 3 Satz 1 des Aufenthaltsgesetzes eine Beschäftigung ausübt,\n5.\nentgegen § 39 Abs. 2 Satz 3 des Aufenthaltsgesetzes eine Auskunft nicht richtig erteilt,\n6.\neiner vollziehbaren Anordnung nach § 288a Abs. 1 zuwiderhandelt,\n7.\nentgegen § 288a Abs. 2 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht\nrechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig\nvorlegt,\n8.\nentgegen § 288a Abs. 3 Satz 2 eine Maßnahme nicht duldet,\n9.\neiner Rechtsverordnung nach § 292 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand\nauf diese Bußgeldvorschrift verweist,\n10.\n(weggefallen)\n11.\nentgegen § 296 Abs. 2 oder § 296a eine Vergütung oder einen Vorschuss entgegennimmt,\n12.\nentgegen § 298 Abs. 1 als privater Vermittler Daten erhebt, verarbeitet oder nutzt,\n13.\nentgegen § 298 Abs. 2 Satz 1 oder 4 eine Unterlage nicht, nicht richtig, nicht vollständig oder\nnicht rechtzeitig zurückgibt oder Daten nicht oder nicht rechtzeitig löscht,\n14.\n(weggefallen)\n- Seite 131 von 141 -\n15.\n(weggefallen)\n16.\neiner Rechtsverordnung nach § 352 Abs. 2 Nr. 2 oder § 357 Satz 1 zuwiderhandelt, soweit sie für\neinen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,\n17. u. 18. \n(weggefallen)\n19.\nentgegen § 312 Abs. 1 Satz 1 oder 3, jeweils auch in Verbindung mit Absatz 3, eine\nTatsache nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bescheinigt oder eine\nArbeitsbescheinigung nicht oder nicht rechtzeitig aushändigt,\n19a.\nentgegen § 312a Absatz 1 Satz 1 oder Satz 2, jeweils auch in Verbindung mit Satz 3, eine\nTatsache nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bescheinigt,\n20.\nentgegen § 313 Abs. 1, auch in Verbindung mit Absatz 3, Art oder Dauer der Beschäftigung oder\nder selbständigen Tätigkeit oder die Höhe des Arbeitsentgelts oder der Vergütung nicht, nicht\nrichtig, nicht vollständig oder nicht rechtzeitig bescheinigt oder eine Bescheinigung nicht oder\nnicht rechtzeitig aushändigt,\n21.\nentgegen § 313 Abs. 2, auch in Verbindung mit Absatz 3, einen Vordruck nicht oder nicht\nrechtzeitig vorlegt,\n22.\nentgegen § 314 eine Bescheinigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig\nausstellt,\n23.\nentgegen § 315 Abs. 1, 2 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit Absatz 4, § 315\nAbsatz 5 Satz 1, auch in Verbindung mit Satz 2, § 316, § 317 oder als privater Arbeitgeber oder\nTräger entgegen § 318 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder\nnicht rechtzeitig erteilt oder entgegen § 318 Abs. 2 Satz 2 Nr. 2 eine Mitteilung an die Agentur für\nArbeit nicht oder nicht rechtzeitig erteilt,\n24.\nentgegen § 319 Abs. 1 Satz 1 Einsicht oder Zutritt nicht gewährt,\n25.\nentgegen § 320 Abs. 1 Satz 1, Abs. 3 Satz 1 oder 2 oder Abs. 5 einen Nachweis nicht, nicht richtig\noder nicht vollständig oder nicht rechtzeitig erbringt, eine Aufzeichnung nicht, nicht richtig\noder nicht vollständig führt oder eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht\nrechtzeitig erstattet,\n26.\nentgegen § 60 Absatz 1 Satz 1 Nummer 1 des Ersten Buches eine Angabe nicht, nicht richtig,\nnicht vollständig oder nicht rechtzeitig macht oder\n27.\nentgegen § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches eine Änderung in den Verhältnissen, die für\neinen Anspruch auf eine laufende Leistung erheblich ist, nicht, nicht richtig, nicht vollständig oder\nnicht rechtzeitig mitteilt.\n(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nr. 3 mit einer Geldbuße bis zu\nfünfhunderttausend Euro, in den Fällen des Absatzes 2 Nr. 1, 5 bis 9 und 11 bis 13 mit einer Geldbuße bis zu\ndreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2, 4, 16, 26 und 27 mit einer Geldbuße bis zu fünftausend\nEuro, in den übrigen Fällen mit einer Geldbuße bis zu zweitausend Euro geahndet werden.\n§ 405 Zuständigkeit, Vollstreckung und Unterrichtung\n(1) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind in den\nFällen\n1.\n des § 404 Abs. 1 sowie des § 404 Abs. 2 Nr. 3 und 4 die Behörden der Zollverwaltung,\n2.\n des § 404 Abs. 2 Nr. 1, 2, 5 bis 16 und 19 bis 25 die Bundesagentur,\n3.\n des § 404 Abs. 2 Nr. 26 und 27 die Behörden der Zollverwaltung und die Bundesagentur jeweils für ihren\nGeschäftsbereich.\n(2) Die Geldbußen fließen in die Kasse der Verwaltungsbehörde, die den Bußgeldbescheid erlassen hat. § 66 des\nZehnten Buches gilt entsprechend.\n(3) Die nach Absatz 2 Satz 1 zuständige Kasse trägt abweichend von § 105 Abs. 2 des Gesetzes über\nOrdnungswidrigkeiten die notwendigen Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des\nGesetzes über Ordnungswidrigkeiten.\n- Seite 132 von 141 -\n(4) Bei der Verfolgung und Ahndung der Beschäftigung oder Tätigkeit von Ausländerinnen und Ausländern ohne\nGenehmigung nach § 284 Abs. 1 oder ohne Aufenthaltstitel nach § 4 Abs. 3 Satz 1 des Aufenthaltsgesetzes\nsowie der Verstöße gegen die Mitwirkungspflicht gegenüber der Bundesagentur nach § 60 Absatz 1 Satz\n1 Nummer 1 und 2 des Ersten Buches arbeiten die Behörden nach Absatz 1 mit den in § 2 Abs. 2 des\nSchwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.\n(5) Die Bundesagentur unterrichtet das Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404\nAbs. 2 Nr. 1, 5 bis 16, 19 und 20. Die Behörden der Zollverwaltung unterrichten das Gewerbezentralregister über\nrechtskräftige Bußgeldbescheide nach § 404 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200\nEuro beträgt.\n(6) Gerichte, Strafverfolgungs- oder Strafvollstreckungsbehörden sollen den Behörden der Zollverwaltung\nErkenntnisse aus sonstigen Verfahren, die aus ihrer Sicht zur Verfolgung von Ordnungswidrigkeiten nach § 404\nAbs. 1 oder 2 Nr. 3 erforderlich sind, übermitteln, soweit nicht für die übermittelnde Stelle erkennbar ist, dass\nschutzwürdige Interessen der oder des Betroffenen oder anderer Verfahrensbeteiligter an dem Ausschluss der\nÜbermittlung überwiegen. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind.\nZweiter Abschnitt\n(weggefallen)\n§§ 406 und 407 (weggefallen)\nDreizehntes Kapitel\nSonderregelungen\nErster Abschnitt\nSonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands\n§ 408 Besondere Bezugsgröße und Beitragsbemessungsgrenze\nSoweit Vorschriften dieses Buches bei Entgelten oder Beitragsbemessungsgrundlagen\n1.\n an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3 des Einigungsvertrages genannte\nGebiet (Beitrittsgebiet),\n2.\n an die Beitragsbemessungsgrenze anknüpfen, ist die Beitragsbemessungsgrenze für das Beitrittsgebiet\nmaßgebend, wenn der Beschäftigungsort im Beitrittsgebiet liegt.\n§§ 409 u. 410 (weggefallen)\n§ 411\n(weggefallen)\n§ 412\n(weggefallen)\n§ 413\n(weggefallen)\n§ 414\n(weggefallen)\n§ 415\n(weggefallen)\n§ 416 (weggefallen)\n-\n- Seite 133 von 141 -\n§ 416a (weggefallen)\nZweiter Abschnitt\nErgänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben\n§ 417 (weggefallen)\n§ 418 Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und\nArbeitnehmer\n(1) Arbeitgeber, die ein Beschäftigungsverhältnis mit einer zuvor arbeitslosen Person, die das 55. Lebensjahr\nvollendet hat, erstmalig begründen, werden von der Beitragstragung befreit. Die versicherungspflichtig\nbeschäftigte Person trägt die Hälfte des Beitrages, der ohne die Regelung des Satzes 1 zu zahlen wäre.\n(2) Vom 1. Januar 2008 an ist Absatz 1 nur noch für Beschäftigungsverhältnisse anzuwenden, die vor dem 1.\nJanuar 2008 begründet worden sind.\n§ 419 Sonderregelungen zu Kurzarbeitergeld, Qualifizierung und Arbeitslosengeld\n(1) Kurzarbeitergeld nach § 95 wird bis zum 31. Dezember 2011 mit folgenden Maßgaben geleistet:\n1.\n dem Arbeitgeber werden auf Antrag 50 Prozent der von ihm allein zu tragenden Beiträge zur\nSozialversicherung in pauschalierter Form erstattet,\n2.\n für Zeiten der Teilnahme von Arbeitsausfall betroffenen Arbeitnehmerinnen und Arbeitnehmern an einer\nberücksichtigungsfähigen beruflichen Qualifizierungsmaßnahme, bei der die Teilnahme nicht der Rückkehr\nzur regelmäßigen wöchentlichen Arbeitszeit oder der Erhöhung der Arbeitszeit entgegensteht, werden\ndem Arbeitgeber die von ihm allein zu tragenden Beiträge zur Sozialversicherung für den jeweiligen\nKalendermonat auf Antrag in voller Höhe in pauschalierter Form erstattet, wenn der zeitliche Umfang der\nQualifizierungsmaßnahme mindestens 50 Prozent der Ausfallzeit beträgt; berücksichtigungsfähig sind\nalle beruflichen Qualifizierungsmaßnahmen, die mit öffentlichen Mitteln gefördert werden; nicht öffentlich\ngeförderte Qualifizierungsmaßnahmen sind berücksichtigungsfähig, wenn ihre Durchführung weder im\nausschließlichen oder erkennbar überwiegenden Interesse des Unternehmens liegt noch der Arbeitgeber\ngesetzlich zur Durchführung verpflichtet ist,\n3.\n für ab dem 1. Januar 2009 durchgeführte Kurzarbeit werden dem Arbeitgeber ab dem siebten\nKalendermonat des Bezugs von Kurzarbeitergeld auf Antrag 100 Prozent der von ihm allein zu tragenden\nBeiträge zur Sozialversicherung in pauschalierter Form erstattet,\n4.\n innerhalb der Bezugsdauer werden Zeiträume, in denen Kurzarbeitergeld nicht geleistet wird, auf Antrag\ndes Arbeitgebers abweichend von § 104 Absatz 2 und 3 nicht als Unterbrechung gewertet.\nFür die Pauschalierung wird die Sozialversicherungspauschale nach § 153 Absatz 1 Satz 2 Nummer 1 abzüglich\ndes Beitrages zur Arbeitsförderung zu Grunde gelegt.\n(2) Kurzarbeitergeld nach § 95 und Saison-Kurzarbeitergeld nach § 101 werden bis zum 31. Dezember 2011 mit\nfolgenden Maßgaben geleistet:\n1.\n neben den in § 96 Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen ist ein Arbeitsausfall auch dann\nerheblich, wenn im jeweiligen Kalendermonat weniger als ein Drittel der in dem Betrieb beschäftigten\nArbeitnehmerinnen und Arbeitnehmer von einem Entgeltausfall betroffen ist, soweit dieser jeweils mehr als\n10 Prozent ihres monatlichen Bruttoentgelts betrifft,\n2.\n § 96 Absatz 4 Satz 2 Nummer 3 gilt nicht für den Fall negativer Arbeitszeitsalden,\n3.\n bei der Berechnung der Nettoentgeltdifferenz nach § 106 Absatz 1 bleiben auf Grund von\nkollektivrechtlichen Beschäftigungssicherungsvereinbarungen ab dem 1. Januar 2008 durchgeführte\nvorübergehende Änderungen der vertraglich vereinbarten Arbeitszeit außer Betracht; § 106 Absatz 2 findet\ninsoweit keine Anwendung.\n(3) § 354 gilt bis zum 31. Dezember 2011 mit der Maßgabe, dass die Aufwendungen für die Erstattung der\nvon den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Bezieherinnen und Bezieher von\nSaison-Kurzarbeitergeld nach § 102 Absatz 4 zu 50 Prozent von der Bundesagentur gezahlt werden. Fällt der\nsiebte Monat des Bezugs von Kurzarbeitergeld in die Schlechtwetterzeit, werden ab diesem Monat die in Satz 1\ngenannten Aufwendungen zu 100 Prozent von der Bundesagentur gezahlt.\n- Seite 134 von 141 -\n(4) (weggefallen)\n(5) (weggefallen)\n(6) (weggefallen)\n(7) Bei der Ermittlung des Bemessungsentgelts ist § 151 mit der Maßgabe anzuwenden, dass für Zeiten, in\ndenen die durchschnittliche regelmäßige wöchentliche Arbeitszeit der oder des Arbeitslosen auf Grund einer\nBeschäftigungssicherungsvereinbarung, die ab dem 1. Januar 2008 geschlossen oder wirksam geworden ist,\nvermindert war, als Arbeitsentgelt das Arbeitsentgelt zu Grunde zu legen ist, das die oder der Arbeitslose ohne\ndiese Vereinbarung und ohne Mehrarbeit erzielt hätte; insoweit gilt § 150 Absatz 2 Satz 1 Nummer 4 nicht. Satz 1\ngilt für Zeiten bis zum 31. März 2012.\n§ 420 Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe\nam Arbeitsmarkt\nVersicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen des Bundesprogramms „Soziale Teilhabe\nam Arbeitsmarkt“ durch Zuwendungen des Bundes gefördert wird.\n§ 421 Förderung der Teilnahme an Sprachkursen\n(1) Die Agentur für Arbeit kann die Teilnahme von Ausländerinnen und Ausländern, die eine\nAufenthaltsgestattung besitzen und bei denen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist, an\nMaßnahmen zur Erlangung erster Kenntnisse der deutschen Sprache fördern, wenn dies zu ihrer Eingliederung\nnotwendig ist und der Maßnahmeeintritt bis zum 31. Dezember 2015 erfolgt. Dies gilt auch für Ausländerinnen\nund Ausländer nach Satz 1, die auf Grund des § 61 des Asylgesetzes eine Erwerbstätigkeit nicht ausüben dürfen.\nBei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird\nvermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.\n(2) Die Dauer der Teilnahme an der Maßnahme beträgt bis zu acht Wochen. Die Teilnahme kann durch\nÜbernahme der Maßnahmekosten gefördert werden, wenn die Träger die erforderliche Leistungsfähigkeit und\nZuverlässigkeit besitzen.\n(3) Dem Träger werden als Maßnahmekosten erstattet:\n1.\n die angemessenen Aufwendungen für das zur Durchführung der Maßnahme eingesetzte erforderliche\nPersonal sowie für das erforderliche Leitungs- und Verwaltungspersonal,\n2.\n die angemessenen Sachkosten einschließlich der Kosten für Lehr- und Lernmittel und\n3.\n die erforderlichen Fahrkosten der Teilnehmenden.\n(4) Die Berechtigung der Ausländerin oder des Ausländers zur Teilnahme an einem Integrationskurs schließt eine\nFörderung nach Absatz 1 nicht aus.\n(5) Die Leistungen nach dieser Vorschrift sind Leistungen der aktiven Arbeitsförderung im Sinne des § 3 Absatz 1\nund 2.\n§ 421a Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen\nArbeiten in Maßnahmen, die durch das Arbeitsmarktprogramm Flüchtlingsintegrationsmaßnahmen bereitgestellt\nwerden, begründen kein Arbeitsverhältnis im Sinne des Arbeitsrechts und kein Beschäftigungsverhältnis im\nSinne des Vierten Buches; die Vorschriften über den Arbeitsschutz und das Bundesurlaubsgesetz mit Ausnahme\nder Regelungen über das Urlaubsentgelt sind entsprechend anzuwenden. Für Schäden bei der Ausübung\nihrer Tätigkeit haften die Teilnehmerinnen und Teilnehmer an den Maßnahmen wie Arbeitnehmerinnen und\nArbeitnehmer.\nDritter Abschnitt\nGrundsätze bei Rechtsänderungen\n§ 422 Leistungen der aktiven Arbeitsförderung\n- Seite 135 von 141 -\n(1) Wird dieses Gesetzbuch geändert, so sind, soweit nichts Abweichendes bestimmt ist, auf Leistungen der\naktiven Arbeitsförderung bis zum Ende der Leistungen oder der Maßnahme die Vorschriften in der vor dem Tag\ndes Inkrafttretens der Änderung geltenden Fassung weiter anzuwenden, wenn vor diesem Tag\n1.\n der Anspruch entstanden ist,\n2.\n die Leistung zuerkannt worden ist oder\n3.\n die Maßnahme begonnen hat, wenn die Leistung bis zum Beginn der Maßnahme beantragt worden ist.\n(2) Ist eine Leistung nur für einen begrenzten Zeitraum zuerkannt worden, richtet sich eine Verlängerung nach\nden zum Zeitpunkt der Entscheidung über die Verlängerung geltenden Vorschriften.\n§ 423\n(weggefallen)\n§ 424\n(weggefallen)\nVierter Abschnitt\nSonderregelungen im Zusammenhang mit der Einordnung des\nArbeitsförderungsrechts in das Sozialgesetzbuch\n§ 425 Übergang von der Beitrags- zur Versicherungspflicht\nZeiten einer die Beitragspflicht begründenden Beschäftigung sowie sonstige Zeiten der Beitragspflicht\nnach dem Arbeitsförderungsgesetz in der zuletzt geltenden Fassung gelten als Zeiten eines\nVersicherungspflichtverhältnisses.\n§ 426 (weggefallen)\n§ 427 (weggefallen)\n§ 427a Gleichstellung von Mutterschaftszeiten\n(1) Für Personen, die in der Zeit vom 1. Januar 1998 bis zum 31. Dezember 2002 Sonderunterstützung nach\ndem Mutterschutzgesetz oder Mutterschaftsgeld bezogen haben, gilt für die Erfüllung der für einen Anspruch auf\nArbeitslosengeld erforderlichen Anwartschaftszeit und für die Dauer des Anspruchs § 107 Satz 1 Nr. 5 Buchstabe\nb des Arbeitsförderungsgesetzes in der bis zum 31. Dezember 1997 geltenden Fassung entsprechend.\n(2) Die Agentur für Arbeit entscheidet\n1.\n von Amts wegen\na)\n über Ansprüche auf Arbeitslosengeld neu, die allein deshalb abgelehnt worden sind, weil Zeiten nach\n§ 107 Satz 1 Nr. 5 Buchstabe b des Arbeitsförderungsgesetzes in der bis zum 31. Dezember 1997\ngeltenden Fassung nicht berücksichtigt worden sind, wenn die Entscheidung am 28. März 2006 noch\nnicht unanfechtbar war,\nb)\n über Ansprüche auf Arbeitslosengeld, über die wegen des Bezugs einer der in Absatz 1 genannten\nMutterschaftsleistungen bisher nicht oder nur vorläufig entschieden worden ist;\n2.\n im Übrigen auf Antrag.\n§ 428 Arbeitslosengeld unter erleichterten Voraussetzungen\n(1) Anspruch auf Arbeitslosengeld nach den Vorschriften des Ersten Abschnitts des Vierten Kapitels haben auch\nArbeitnehmerinnen und Arbeitnehmer, die das 58. Lebensjahr vollendet haben und die Regelvoraussetzungen\ndes Anspruchs auf Arbeitslosengeld allein deshalb nicht erfüllen, weil sie nicht arbeitsbereit sind und nicht alle\nMöglichkeiten nutzen und nutzen wollen, um ihre Beschäftigungslosigkeit zu beenden. Der Anspruch besteht\nauch während der Zeit eines Studiums an einer Hochschule oder einer der fachlichen Ausbildung dienenden\nSchule. Vom 1. Januar 2008 an gilt Satz 1 nur noch, wenn der Anspruch vor dem 1. Januar 2008 entstanden ist\nund die oder der Arbeitslose vor diesem Tag das 58. Lebensjahr vollendet hat.\n- Seite 136 von 141 -\n(2) Die Agentur für Arbeit soll die Arbeitslose oder den Arbeitslosen, die oder der nach Unterrichtung über die\nRegelung des Satzes 2 drei Monate Arbeitslosengeld nach Absatz 1 bezogen hat und in absehbarer Zeit die\nVoraussetzungen für den Anspruch auf Altersrente voraussichtlich erfüllt, auffordern, innerhalb eines Monats\nAltersrente zu beantragen; dies gilt nicht für Altersrenten, die vor dem für die Versicherte oder den Versicherten\nmaßgebenden Rentenalter in Anspruch genommen werden können. Stellt die oder der Arbeitslose den Antrag\nnicht, ruht der Anspruch auf Arbeitslosengeld vom Tage nach Ablauf der Frist an bis zu dem Tage, an dem die\noder der Arbeitslose Altersrente beantragt.\n(3) Der Anspruch nach Absatz 1 ist ausgeschlossen, wenn der oder dem Arbeitslosen eine Teilrente wegen Alters\naus der gesetzlichen Rentenversicherung oder eine ähnliche Leistung öffentlich-rechtlicher Art zuerkannt ist.\n(4) (weggefallen)\n§ 429\n(weggefallen)\n§ 430 Sonstige Entgeltersatzleistungen\n(1) Bei der Anwendung der Regelungen über die für Leistungen zur Förderung der beruflichen Weiterbildung und\nfür Leistungen zur Teilhabe am Arbeitsleben erforderliche Vorbeschäftigungszeit stehen Zeiten, die nach dem\nArbeitsförderungsgesetz in der zuletzt geltenden Fassung den Zeiten einer die Beitragspflicht begründenden\nBeschäftigung ohne Beitragsleistung gleichstanden, den Zeiten eines Versicherungspflichtverhältnisses gleich.\n(2) Ist ein Anspruch auf Unterhaltsgeld vor dem 1. Januar 1998 entstanden, sind das Bemessungsentgelt und der\nLeistungssatz nicht neu festzusetzen. Satz 1 gilt für die Zuordnung zu einer Leistungsgruppe entsprechend.\n(3) Die Dauer eines Anspruchs auf Eingliederungshilfe für Spätaussiedler nach § 62a Abs. 1 und 2 des\nArbeitsförderungsgesetzes, der vor dem 1. Januar 1998 entstanden und am 1. Januar 1998 noch nicht\nerloschen ist, erhöht sich um jeweils einen Tag für jeweils sechs Tage. Bruchteile von Tagen sind auf volle Tage\naufzurunden.\n(4) Die Vorschriften des Arbeitsförderungsgesetzes über das Konkursausfallgeld in der bis zum 31. Dezember\n1998 geltenden Fassung sind weiterhin anzuwenden, wenn das Insolvenzereignis vor dem 1. Januar 1999\neingetreten ist.\n(5) Ist ein Anspruch auf Kurzarbeitergeld von Arbeitnehmern, die zur Vermeidung von anzeigepflichtigen\nEntlassungen im Sinne des § 17 Abs. 1 des Kündigungsschutzgesetzes in einer betriebsorganisatorisch\neigenständigen Einheit zusammengefaßt sind, vor dem 1. Januar 1998 entstanden, sind bei der Anwendung\nder Regelungen über die Dauer eines Anspruchs auf Kurzarbeitergeld in einer betriebsorganisatorisch\neigenständigen Einheit Bezugszeiten, die nach einer auf Grundlage des § 67 Abs. 2 Nr. 3 des\nArbeitsförderungsgesetzes erlassenen Rechtsverordnung bis zum 1. Januar 1998 nicht ausgeschöpft sind,\nverbleibende Bezugszeiten eines Anspruchs auf Kurzarbeitergeld in einer betriebsorganisatorisch eigenständigen\nEinheit.\n§ 431 (weggefallen)\n§ 432 (weggefallen)\n§ 433\n(weggefallen)\nFünfter Abschnitt\nÜbergangsregelungen auf Grund von Änderungsgesetzen\n§ 434 Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit\n(1) Bei der Anwendung des § 26 Abs. 2 Nr. 3 und des § 345a gilt die Rente wegen Erwerbsunfähigkeit, deren\nBeginn vor dem 1. Januar 2001 liegt, als Rente wegen voller Erwerbsminderung; dies gilt auch dann, wenn\ndie Rente wegen Erwerbsunfähigkeit wegen eines mehr als geringfügigen Hinzuverdienstes als Rente wegen\nBerufsunfähigkeit gezahlt wird.\n- Seite 137 von 141 -\n(1a) Bei Anwendung des § 28 gilt\n1.\n eine Rente wegen Erwerbsunfähigkeit, deren Beginn vor dem 1. Januar 2001 liegt, als eine Rente wegen\nvoller Erwerbsminderung,\n2.\n eine mit der Rente wegen Erwerbsunfähigkeit vergleichbare Leistung eines ausländischen Leistungsträgers,\nderen Beginn vor dem 1. Januar 2001 liegt, als eine mit der Rente wegen voller Erwerbsminderung\nvergleichbare Leistung eines ausländischen Leistungsträgers.\n(2) Bei der Anwendung des § 28 Nr. 3 gilt die Feststellung der Berufsunfähigkeit oder Erwerbsunfähigkeit als\nFeststellung voller Erwerbsminderung.\n(3) Bei der Anwendung des § 145 gilt die Feststellung der verminderten Berufsfähigkeit im Bergbau nach § 45 des\nSechsten Buches als Feststellung der Erwerbsminderung.\n(4) Bei der Anwendung des § 156 Absatz 1 Nummer 3 gilt die Rente wegen Erwerbsunfähigkeit, deren Beginn vor\ndem 1. Januar 2001 liegt, als Rente wegen voller Erwerbsminderung.\n(5) § 142 Abs. 4 in der vor dem 1. Januar 2001 geltenden Fassung ist weiterhin auf Invalidenrenten,\nBergmannsinvalidenrenten oder Invalidenrenten für Behinderte nach Artikel 2 des Renten-Überleitungsgesetzes,\nderen Beginn vor dem 1. Januar 1997 liegt, mit der Maßgabe anzuwenden, dass\n1.\n diese dem Anspruch auf Rente wegen voller Erwerbsminderung gleichstehen und\n2.\n an die Stelle der Feststellung der Erwerbsunfähigkeit oder Berufsunfähigkeit die Feststellung der\nErwerbsminderung tritt.\n§ 435 Gesetz zur Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat\nZum 27. März 2002 treten der Präsident der Bundesanstalt für Arbeit und der Vizepräsident der Bundesanstalt\nfür Arbeit in den Ruhestand. Für die in Satz 1 genannten Beamten sind § 4 des Bundesbesoldungsgesetzes sowie\ndie Vorschriften des § 7 Nr. 2 und des § 14 Abs. 6 des Beamtenversorgungsgesetzes in der bis zum 31. Dezember\n1998 geltenden Fassung entsprechend anzuwenden mit der Maßgabe, dass dem einstweiligen Ruhestand die\nZeit von dem Eintritt in den Ruhestand bis zu dem in § 399 Abs. 4 Satz 2 in der bis zum 26. März 2002 geltenden\nFassung genannten Zeitpunkt gleichsteht.\n§ 436 Zweites Gesetz für moderne Dienstleistungen am Arbeitsmarkt\nPersonen, die am 31. März 2003 in einer mehr als geringfügigen Beschäftigung versicherungspflichtig waren,\ndie die Merkmale einer geringfügigen Beschäftigung in der ab 1. April 2003 geltenden Fassung von § 8 des\nVierten Buches erfüllt, bleiben in dieser Beschäftigung versicherungspflichtig. Sie werden auf ihren Antrag\nvon der Versicherungspflicht befreit. Die Befreiung wirkt vom 1. April 2003 an. Sie ist auf diese Beschäftigung\nbeschränkt.\n§ 437 Drittes Gesetz für moderne Dienstleistungen am Arbeitsmarkt\n(1) Die Beamtinnen und Beamten der Bundesanstalt, die vor dem 2. Juli 2003 ganz oder überwiegend Aufgaben\nder Arbeitsmarktinspektion wahrgenommen haben und diese am 31. Dezember 2003 noch wahrnehmen, sind\nmit Wirkung vom 1. Januar 2004 Bundesbeamtinnen und Bundesbeamte im Dienst der Zollverwaltung. § 130 Abs.\n1 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654)\nfindet entsprechend Anwendung. Von der Überleitung nach Satz 1 ausgenommen sind Beamtinnen und Beamte,\ndie am 2. Juli 2003 die Antragsaltersgrenze des § 52 des Bundesbeamtengesetzes erreicht haben oder sich zu\ndiesem Zeitpunkt in Altersteilzeit befanden.\n(2) Die Angestellten der Bundesanstalt, die vor dem 2. Juli 2003 ganz oder überwiegend Aufgaben der\nArbeitsmarktinspektion wahrgenommen haben und diese am 31. Dezember 2003 noch wahrnehmen,\nsind mit Wirkung vom 1. Januar 2004 Angestellte des Bundes und in den Dienst der Zollverwaltung\nübergeleitet. Die Bundesrepublik Deutschland tritt unbeschadet der nachfolgenden Absätze in die\narbeitsvertraglichen Rechte und Pflichten der im Zeitpunkt der Überleitung bestehenden Arbeitsverhältnisse\nein. Von der Überleitung nach den Sätzen 1 und 2 ausgenommen sind Angestellte, die am 2. Juli 2003 die\nAnspruchsvoraussetzungen für eine gesetzliche Rente wegen Alters erfüllt haben oder sich zu diesem Zeitpunkt\nin einem Altersteilzeitarbeitsverhältnis befanden.\n- Seite 138 von 141 -\n(3) Vom Zeitpunkt der Überleitung an gelten die für Angestellte des Bundes bei der Zollverwaltung jeweils\ngeltenden Tarifverträge und sonstigen Bestimmungen, soweit sich aus den Sätzen 2 bis 4 nicht etwas anderes\nergibt. Die Eingruppierung in die im Zeitpunkt der Überleitung erreichte Vergütungsgruppe besteht fort, solange\nüberwiegend Aufgaben der Arbeitsmarktinspektion wahrgenommen und keine neuen Aufgaben, die nach\ndem Tarifrecht des Bundes zu einer Eingruppierung in eine höhere Vergütungsgruppe führen, übertragen\nwerden. Soweit in den Fällen einer fortbestehenden Eingruppierung nach Satz 2 in der bisherigen Tätigkeit ein\nBewährungsaufstieg oder sonstiger Aufstieg vorgesehen war, sind Angestellte nach Ablauf der bei Überleitung\ngeltenden Aufstiegsfrist in diejenige Vergütungsgruppe eingruppiert, die sich nach dem bei Inkrafttreten dieses\nGesetzes geltenden Tarifrecht der Bundesanstalt ergeben hätte. Eine Eingruppierung nach den Sätzen 2 und 3\nentfällt mit dem Ende des Kalendermonats, in dem sich Angestellte schriftlich für eine Eingruppierung nach dem\nTarifrecht des Bundes entscheiden.\n(4) Die bei der Bundesanstalt anerkannten Beschäftigungszeiten werden auf die Beschäftigungszeit im Sinne\ndes Tarifrechts des Bundes angerechnet; Entsprechendes gilt für Zeiten in der Zusatzversorgung. Nehmen die\nübergeleiteten Angestellten Vollzugsaufgaben wahr, die ansonsten Beamten obliegen, wird eine Zulage nach\nVorbemerkung Nummer 9 zu den Besoldungsordnungen A und B des Bundesbesoldungsgesetzes nach Maßgabe\nder für vergleichbare Beamtinnen und Beamte der Zollverwaltung jeweils geltenden Vorschriften gewährt. Soweit\nes darüber hinaus im Zusammenhang mit dem überleitungsbedingten Wechsel des Arbeitgebers angemessen ist,\nkann das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern außer- und\nübertariflich ergänzende Regelungen treffen.\n(5) Die Absätze 3 und 4 gelten entsprechend für Angestellte, die im Zusammenhang mit der Übertragung von\nAufgaben der Arbeitsmarktinspektion von der Bundesagentur in sonstiger Weise als Angestellte des Bundes in\nden Dienst der Zollverwaltung wechseln.\n(6) Die Bundesagentur trägt die Versorgungsbezüge der gemäß Absatz 1 in den Dienst des Bundes\nübernommenen Beamtinnen und Beamten für die bis zur Übernahme zurückgelegten Dienstzeiten. Der Bund\nträgt die Versorgungsbezüge für die seit der Übernahme in den Dienst des Bundes zurückgelegten Dienstzeiten\nder in Absatz 1 genannten Beamtinnen und Beamten. Im Übrigen gilt § 107b des Beamtenversorgungsgesetzes\nentsprechend.\n(7) § 15 Abs. 1 des Bundespersonalvertretungsgesetzes gilt für die nach den Absätzen 1 und 2 übergeleiteten\nBeamtinnen und Beamten sowie Angestellten entsprechend.\n§ 438 (weggefallen)\n§ 439 Siebtes Gesetz zur Änderung des Dritten Buches\nSozialgesetzbuch und anderer Gesetze\nIst ein Anspruch auf Arbeitslosengeld mit einer dem Lebensalter der oder des Arbeitslosen entsprechenden\nHöchstanspruchsdauer nach § 127 Abs. 2 in der bis zum 31. Dezember 2007 geltenden Fassung am 31.\nDezember 2007 noch nicht erschöpft, erhöht sich die Anspruchsdauer bei Arbeitslosen, die vor dem 1. Januar\n2008\ndas 50. Lebensjahr vollendet haben, auf 15 Monate,\ndas 58. Lebensjahr vollendet haben, auf 24 Monate.\n§ 440 Gesetz zur Neuausrichtung der arbeitsmarktpolitischen Instrumente\n(1) Arbeitnehmerinnen und Arbeitnehmer, die am 31. Dezember 2008 in einer Arbeitsgelegenheit in der\nEntgeltvariante versicherungspflichtig beschäftigt waren, bleiben in dieser Beschäftigung versicherungspflichtig.\n(2) § 38 Abs. 4 in der bis zum 31. Dezember 2008 geltenden Fassung ist weiterhin anzuwenden für den von § 237\nAbs. 5 des Sechsten Buches erfassten Personenkreis. In diesen Fällen ist § 38 Abs. 3 in der vom 1. Januar 2009 an\ngeltenden Fassung nicht anzuwenden.\n(3) Soweit Zeiten der Teilnahme an einer Maßnahme nach § 46 bei der Berechnung von Fristen oder als\nFördertatbestand berücksichtigt werden, sind ihnen Zeiten der Teilnahme an einer Maßnahme nach den §§ 37,\n37c, 48 und 421i in der bis zum 31. Dezember 2008 geltenden Fassung und einer Maßnahme nach § 241 Abs. 3a\nin der bis zum 31. Juli 2009 geltenden Fassung gleichgestellt.\n(3a) (weggefallen)\n- Seite 139 von 141 -\n(4) § 144 Abs. 4 in der bis zum 31. Dezember 2008 geltenden Fassung ist weiterhin anzuwenden auf Ansprüche\nauf Arbeitslosengeld, die vor dem 1. Januar 2009 entstanden sind. In diesen Fällen ist § 144 Abs. 4 in der vom 1.\nJanuar 2009 an geltenden Fassung nicht anzuwenden.\n(5) Die §§ 248 und 249 in der bis zum 31. Dezember 2008 geltenden Fassung sind weiterhin anzuwenden für\nTräger von Einrichtungen der beruflichen Rehabilitation.\n§ 441 Bürgerentlastungsgesetz Krankenversicherung\nIst der Anspruch auf Arbeitslosengeld vor dem 1. Januar 2010 entstanden, ist § 133 Absatz 1 in der bis zum 31.\nDezember 2009 geltenden Fassung anzuwenden.\n§ 442 Beschäftigungschancengesetz\n(1) Personen, die als Selbständige oder Auslandsbeschäftigte vor dem 1. Januar 2011 ein\nVersicherungspflichtverhältnis auf Antrag nach § 28a in der bis zum 31. Dezember 2010 geltenden\nFassung begründet haben, bleiben in dieser Tätigkeit oder Beschäftigung über den 31. Dezember 2010\nversicherungspflichtig nach § 28a in der ab dem 1. Januar 2011 an geltenden Fassung. Sie können die\nVersicherungspflicht auf Antrag bis zum 31. März 2011 durch schriftliche Erklärung gegenüber der\nBundesagentur rückwirkend zum 31. Dezember 2010 beenden.\n(2) Abweichend von § 345b Satz 1 Nummer 2 und Satz 2 gilt als beitragspflichtige Einnahme für alle\nSelbständigen und Auslandsbeschäftigten, die in einem Versicherungspflichtverhältnis auf Antrag stehen,\nvom 1. Januar 2011 bis zum 31. Dezember 2011 ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen\nBezugsgröße. § 345b Satz 1 Nummer 2 und Satz 2 in der vom 1. Januar 2011 geltenden Fassung ist insoweit nicht\nanzuwenden.\n§ 443 Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt\n(1) Für Arbeitsbeschaffungsmaßnahmen nach § 260 und Arbeitsgelegenheiten nach § 16d des Zweiten\nBuches in der vor dem 1. April 2012 geltenden Fassung gilt § 27 Absatz 3 Satz 1 Nummer 5 in der vor dem\n1. April 2012 geltenden Fassung entsprechend, wenn und solange die Arbeitsbeschaffungsmaßnahmen und\nArbeitsgelegenheiten nach dem vor diesem Tag geltenden Recht durchgeführt werden.\n(2) Beschäftigungen im Sinne des § 159 Absatz 1 Satz 2 Nummer 1 und 2 sind auch\nArbeitsbeschaffungsmaßnahmen, wenn und solange diese Arbeitsbeschaffungsmaßnahmen nach dem bis zum\n31. März 2012 geltenden Recht gefördert werden.\n(3) Für Träger ist eine Zulassung nach § 176 bis einschließlich 31. Dezember 2012 nicht erforderlich. Dies\ngilt weder für Träger, die Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 Absatz 4 Satz\n3 Nummer 1 durchführen, noch für Träger, die Maßnahmen der beruflichen Weiterbildung nach den §§ 81\nund 82 durchführen. Zulassungen von Trägern und Maßnahmen der beruflichen Weiterbildung, die nach den\n§§ 84 und 85 in der bis zum 31. März 2012 geltenden Fassung erteilt wurden, sind den Zulassungen nach\nden §§ 176 und 178 sowie § 179 in Verbindung mit § 180 gleichgestellt. Ein Anspruch auf Vergütung für die\nArbeitsvermittlung in eine versicherungspflichtige Beschäftigung nach § 45 Absatz 4 Satz 3 Nummer 2 besteht\nfür bis einschließlich 31. Dezember 2012 erfolgte Vermittlungen nur, wenn der Träger zum Zeitpunkt der\nVermittlung die Arbeitsvermittlung als Gegenstand seines Gewerbes angezeigt hat.\n(4) Anerkennungen nach den §§ 2 und 3 der Anerkennungs- und Zulassungsverordnung – Weiterbildung, die\nbis zum 31. März 2012 erteilt wurden, behalten ihre Gültigkeit bis längstens 31. März 2015. Die jährliche\nÜberprüfung anerkannter Stellen wird ab 1. April 2012 von der Akkreditierungsstelle wahrgenommen.\n(5) Beamtinnen und Beamten, denen am 27. Dezember 2011 ein Amt im Beamtenverhältnis auf Zeit im Sinne\nder §§ 389 und 390 in der bis zum 27. Dezember 2011 geltenden Fassung übertragen ist, verbleiben bis zum\nAblauf der jeweiligen Amtszeit in diesem Amt. Zeiten einer Beurlaubung nach § 387 Absatz 3 Satz 1 werden\nnicht als Amtszeit berücksichtigt. Wird nach Ablauf der Amtszeit festgestellt, dass sich die Beamtin oder der\nBeamte in dem übertragenen Amt bewährt hat, wird das Amt im Beamtenverhältnis auf Lebenszeit übertragen.\nHat sich die Beamtin oder der Beamte in dem übertragenen Amt nicht bewährt, wird die Beamtin oder der\nBeamte aus dem Beamtenverhältnis auf Zeit entlassen. In diesem Fall enden der Anspruch auf Besoldung und,\nsoweit gesetzlich nichts anderes bestimmt ist, alle sonstigen Ansprüche aus dem im Beamtenverhältnis auf\nZeit übertragenen Amt. Tritt eine Beamtin auf Zeit oder ein Beamter auf Zeit nach der Entlassung wieder in ihr\noder sein vorheriges Amt im Beamtenverhältnis ein oder tritt sie oder er wegen Erreichens der gesetzlichen\n- Seite 140 von 141 -\nAltersgrenze in den Ruhestand, ist § 15a des Beamtenversorgungsgesetzes entsprechend anzuwenden. § 15a\nAbsatz 4 des Beamtenversorgungsgesetzes gilt entsprechend, wenn eine Beamtin auf Zeit oder ein Beamter auf\nZeit wegen Dienstunfähigkeit in den Ruhestand versetzt wird.\n(6) § 389 ist anzuwenden, sofern nach dem 27. Dezember 2011 eine Funktion im Sinne dieser Vorschrift\nübertragen wird. Satz 1 gilt auch, wenn eine vor dem 28. Dezember 2011 übertragene Funktion ab dem 28.\nDezember 2011 auf veränderter vertraglicher Grundlage fortgesetzt werden soll. § 387 Absatz 3 Satz 2 bleibt\nunberührt.\n(7) § 421s in der am 31. März 2012 geltenden Fassung ist weiterhin anzuwenden auf Maßnahmen, über die die\nBundesagentur vor dem 31. März 2012 Verträge mit Trägern geschlossen hat, bis zum Ende der Vertragslaufzeit;\n§ 422 Absatz 1 Nummer 3 gilt insoweit nicht.\n§ 444 Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung\n(1) Personen, die am 31. Dezember 2012 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer\n1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren, die die\nMerkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1. Januar 2013 geltenden\nFassung erfüllt, bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2014 versicherungspflichtig,\nsolange das Arbeitsentgelt 400 Euro monatlich übersteigt. Sie werden auf Antrag von der Versicherungspflicht\nbefreit. Der Antrag ist bei der Agentur für Arbeit zu stellen. Die Befreiung wirkt vom 1. Januar 2013 an, wenn sie bis\nzum 31. März 2013 beantragt wird, im Übrigen von dem Beginn des Kalendermonats an, der auf den Monat folgt,\nin dem der Antrag gestellt worden ist. Die Befreiung ist auf diese Beschäftigung beschränkt.\n(2) Bei Anwendung des Absatzes 1 gilt § 276b Absatz 1 des Sechsten Buches und bei Anwendung des § 344 Absatz\n4 gilt § 276b Absatz 2 des Sechsten Buches entsprechend.\n§ 444a Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der\nArbeitslosenversicherung\n(1) § 28a Absatz 1 Satz 1 Nummer 4 und 5 in der Fassung vom 1. August 2016 gilt mit der Maßgabe, dass ein\nAntrag unberührt von § 28a Absatz 3 innerhalb von drei Monaten nach dem 31. Juli 2016 gestellt werden kann.\n(2) Der Anspruch auf Zahlung einer Weiterbildungsprämie nach § 131a Absatz 3 gilt für Arbeitnehmerinnen und\nArbeitnehmer, die an einer nach § 81 geförderten beruflichen Weiterbildung teilnehmen, die nach dem 31. Juli\n2016 beginnt.\n(3) § 151 Absatz 3 Nummer 3 in der Fassung vom 1. August 2016 ist nur für Ansprüche auf Arbeitslosengeld\nanzuwenden, die nach dem 31. Juli 2016 entstanden sind.\n§ 445 Fünfundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes\nAbweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 116 und 123 bis 126 ab dem 1. August 2016 anzuwenden.\n§ 446 Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer\nVorschriften\n(1) Für Personen, die am 31. Dezember 2016 nach § 26 Absatz 2b in der am 31. Dezember 2016 geltenden\nFassung versicherungspflichtig waren, besteht die Versicherungspflicht für die Dauer der Pflegezeit fort. Für\ndiese Zeit sind § 345 Nummer 8, § 347 Nummer 10, § 349 Absatz 4a Satz 1 und Absatz 5 Satz 2 in der am 31.\nDezember 2016 geltenden Fassung anzuwenden.\n(2) Für Pflegepersonen, die am 31. Dezember 2016 nach § 28a Absatz 1 Satz 1 Nummer 1 in der am\n31. Dezember 2016 geltenden Fassung versicherungspflichtig waren, wird ab dem 1. Januar 2017 das\nVersicherungspflichtverhältnis nach § 26 Absatz 2b fortgesetzt. § 26 Absatz 3 Satz 5 und 6 bleibt unberührt.\n§ 447 Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der\nArbeitslosenversicherung\nAbweichend von § 422 ist § 153 Absatz 1 Satz 2 Nummer 1 in der ab dem 1. Januar 2019 geltenden Fassung\nanzuwenden auf Ansprüche auf Arbeitslosengeld bei beruflicher Weiterbildung (§ 144) und für die Berechnung\nvon Ansprüchen auf Berufsausbildungsbeihilfe für Arbeitslose (§ 70).\n- Seite 141 von 141 -"
+}

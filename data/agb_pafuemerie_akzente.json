@@ -1,0 +1,563 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsnachfolgern",
+            "end": 315,
+            "start": 298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 434,
+            "start": 414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäuferin",
+            "end": 549,
+            "start": 538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäuferin",
+            "end": 697,
+            "start": 686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 809,
+            "start": 807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Endverbraucher",
+            "end": 856,
+            "start": 842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 877,
+            "start": 862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1064,
+            "start": 1061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 1250,
+            "start": 1246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1392,
+            "start": 1384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1516,
+            "start": 1513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1555,
+            "start": 1542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1778,
+            "start": 1775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertreten",
+            "end": 2020,
+            "start": 2011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 2151,
+            "start": 2146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 2263,
+            "start": 2255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzug",
+            "end": 2297,
+            "start": 2291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2402,
+            "start": 2396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2510,
+            "start": 2504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäuferin",
+            "end": 2603,
+            "start": 2592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 2696,
+            "start": 2690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsarten",
+            "end": 2849,
+            "start": 2836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 3011,
+            "start": 3008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 3106,
+            "start": 3097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3310,
+            "start": 3307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 3460,
+            "start": 3453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzuweisen",
+            "end": 3597,
+            "start": 3585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmöglichkeiten",
+            "end": 3624,
+            "start": 3603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 3875,
+            "start": 3867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rügepflichten",
+            "end": 3926,
+            "start": 3913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufsache",
+            "end": 4052,
+            "start": 4043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sache",
+            "end": 4145,
+            "start": 4140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 4454,
+            "start": 4447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 4731,
+            "start": 4724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "HGB",
+            "end": 4833,
+            "start": 4830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4857,
+            "start": 4839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4972,
+            "start": 4969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktionsgutscheinen",
+            "end": 5009,
+            "start": 4991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einlösbar",
+            "end": 5274,
+            "start": 5265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 5342,
+            "start": 5338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 5422,
+            "start": 5411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 5508,
+            "start": 5499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5593,
+            "start": 5587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 5643,
+            "start": 5636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinst",
+            "end": 5728,
+            "start": 5720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5794,
+            "start": 5788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5864,
+            "start": 5858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6024,
+            "start": 6018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6232,
+            "start": 6227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenke",
+            "end": 6247,
+            "start": 6238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 6329,
+            "start": 6327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenkorb",
+            "end": 6508,
+            "start": 6499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenk",
+            "end": 6580,
+            "start": 6572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 6716,
+            "start": 6710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 6907,
+            "start": 6900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzusenden",
+            "end": 7002,
+            "start": 6988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 7182,
+            "start": 7175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzusenden",
+            "end": 7277,
+            "start": 7263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 7381,
+            "start": 7372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsfreistellung",
+            "end": 7430,
+            "start": 7410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 7583,
+            "start": 7575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 7913,
+            "start": 7907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Handlungen",
+            "end": 8050,
+            "start": 8040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 8124,
+            "start": 8110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenzt",
+            "end": 8514,
+            "start": 8506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewinn",
+            "end": 8586,
+            "start": 8580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftungsgesetzes",
+            "end": 8708,
+            "start": 8685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Elektrogeräte",
+            "end": 8728,
+            "start": 8715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 8860,
+            "start": 8851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzutreten",
+            "end": 8986,
+            "start": 8972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 9103,
+            "start": 9097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 9151,
+            "start": 9142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 9169,
+            "start": 9158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäuferin",
+            "end": 9246,
+            "start": 9235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückgaberecht",
+            "end": 9279,
+            "start": 9266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 9579,
+            "start": 9572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücksenden",
+            "end": 9930,
+            "start": 9918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 9986,
+            "start": 9983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückschicken",
+            "end": 10172,
+            "start": 10158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 10201,
+            "start": 10199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 10212,
+            "start": 10203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 10334,
+            "start": 10329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 10416,
+            "start": 10410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 10554,
+            "start": 10545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedingungen",
+            "end": 10684,
+            "start": 10673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 10848,
+            "start": 10841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherschlichtungsstelle",
+            "end": 10884,
+            "start": 10855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teil",
+            "end": 11004,
+            "start": 11000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 11050,
+            "start": 11031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 11113,
+            "start": 11103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 11226,
+            "start": 11223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäuferin",
+            "end": 11576,
+            "start": 11565,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\n(1) Die nachstehenden Allgemeinen Geschäftsbedingungen sind Bestandteil eines jeden über diese Internetseite abgeschlossenen Vertrages zwischen der Parfümerie Akzente GmbH, Meisenstraße 12, 74629 Pfedelbach, Deutschland (im Folgenden: Verkäuferin) und dem Käufer wie auch deren Rechtsnachfolgern.\n(2) Die Verkäuferin erbringt ihre Leistungen ausschließlich auf der Grundlage dieser Allgemeinen Geschäftsbedingungen. Abweichende Bestimmungen des Käufers gelten nur bei ausdrücklicher schriftlicher Zustimmung durch die Verkäuferin.\n(3) Die Gültigkeit dieser Allgemeinen Geschäftsbedingungen erstreckt sich auf alle auf dieser Internetseite angebotenen Leistungen der Verkäuferin. Der Käufer erkennt mit deren Inanspruchnahme diese Allgemeinen Geschäftsbedingungen als für ihn verbindlich an.\n(4) Der Verkauf erfolgt nur an Endverbraucher.\n§ 2 Vertragsschluss\n(1) Die Produktpräsentation der Verkäuferin auf dieser Internetseite stellt noch kein bindendes Angebot der Verkäuferin, sondern lediglich eine Aufforderung zur Abgabe eines Angebots dar.\n(2) Der Vertrag in Form eines Kaufvertrages kommt durch Abgabe eines Kaufangebots durch den Käufer und\na) die Vertragsannahme durch den Verkäufer in Form einer Auftragsbestätigung oder\nb) konkludent durch den unverzüglichen Versand der von dem Käufer angeforderten Ware an die von dem Käufer angegebene Versandadresse zustande.\n(3) Eine per E-Mail an den Käufer versandte Bestellbestätigung stellt noch keine Vertragsannahme durch die Verkäuferin dar.\n§ 3 Lieferbedingungen / Versandkosten\n(1) Die Lieferung erfolgt unverzüglich nach Zahlungseingang (§ 4 dieser Allgemeinen Geschäftsbedingungen) an die von dem Käufer angegebene Lieferadresse, soweit keine schriftlich bestätigte Abweichung vereinbart worden ist.\n(2) Entstehen der Verkäuferin aufgrund der Angabe einer falschen Lieferadresse oder eines falschen Adressaten zusätzlich Versandkosten, so sind diese Kosten von dem Käufer zu ersetzen, es sei denn, er hat die Falschangabe nicht zu vertreten.\n(3) Bei Artikeln der Marke \"Kerastase\" kann der Käufer maximal 4 Artikel des identischen Produkts pro Bestellung in Auftrag geben. Die Bestellung des identischen Produkts ist über einen Zeitraum von 12 Monaten auf maximal 12 Artikel begrenzt.\n§ 4 Zahlungsbedingungen / Verzug\n(1) Es gelten die zum Zeitpunkt der Bestellung auf der Internetseite der Verkäuferin aufgeführten Preise. Die aufgeführten Preise gelten ausschließlich für Bestellungen, die über die Internetseite getätigt werden. Sie gelten insbesondere nicht für Angebote in den örtlichen Geschäftsräumen der Verkäuferin.\n(2) Der Kaufpreis zuzüglich Versandkosten wird mit Vertragsschluss sofort ohne Abzug fällig. Die Zahlung des Kaufpreises nebst Versandkosten erfolgt nach Wahl des Käufers mittels einer der im Rahmen des Bestellvorgangs angezeigten Zahlungsarten. Bei Kreditkartenzahlung wird das Kreditkarteninstitut des Käufers beauftragt, den Rechnungsbetrag einzuziehen, sobald der Käufer die Bestellung durchgeführt hat.\n(3) Alle Preise sind als Endkundenpreise inklusive der gesetzlichen Umsatzsteuer zu verstehen.\n(4) Bei Zahlungsverzug des Käufers ist dieser verpflichtet, Verzugszinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz an die Verkäuferin zu leisten, wenn er Verbraucher (§ 13 BGB) ist. Ist der Käufer Unternehmer (§ 14 BGB), gilt § 4 Abs. 4 S. 1 mit der Maßgabe, dass der Verzugszinssatz 9 Prozentpunkte über dem Basiszinssatz beträgt.\n(5) Unabhängig von § 4 Abs. 4 bleibt es der Verkäuferin unbenommen, einen höheren Verzugsschaden wie auch sonstige Schäden nachzuweisen.\n(6) Zahlungsmöglichkeiten: Sie können derzeit wahlweise per Vorkasse, Nachnahme, Sofortüberweisung, Rechnung ( nach Überprüfung ), Kreditkarte, Bankeinzug (nach Überprüfung, frühestens ab dem zweiten Einkauf), Paypal, Paypal Express, Amazon Payments oder Barzahlen.de bezahlen.\n§ 5 Verjährung / Untersuchungs- und Rügepflichten\n(1) Die Verjährungsfrist für die Ansprüche aus Sachmängelhaftung beträgt 24 Monate und beginnt mit der Übergabe der Kaufsache. Ist der Käufer Unternehmer (§ 14 BGB), so beträgt die Frist 12 Monate ab Übergabe der Sache.\n(2) § 5 Absatz 1 gilt nicht für die Haftung für Schäden aus der Verletzung des Körpers oder der Gesundheit, die auf einer fahrlässigen Pflichtverletzung der Verkäuferin oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen der Verkäuferin beruhen.\n(3) Absatz 1 gilt nicht für die Haftung für sonstige Schäden, die auf einer grob fahrlässigen Pflichtverletzung der Verkäuferin oder auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen der Verkäuferin beruhen.\n(4) Für Kaufleute gelten die Rechtsvorschriften, Untersuchungs- und Rügeverpflichtungen nach dem HGB.\n§ 6 Eigentumsvorbehalt\nBis zur vollständigen Zahlung des Kaufpreises behält sich die Verkäuferin das Eigentum an der gelieferten Ware vor.\n§ 7 Einlösen von Aktionsgutscheinen\n(1) Aktionsgutscheine (Gutscheine, die Sie nicht käuflich erwerben können, sondern die wir im Rahmen von Werbekampagnen mit einer bestimmten Gültigkeitsdauer ausgeben) sind nur im angegebenen Zeitraum gültig und nur einmal im Rahmen eines Bestellvorgangs einlösbar. Einzelne Marken können von der Gutscheinaktion ausgeschlossen sein.\n(2) Der Warenwert muss mindestens dem Betrag des Aktionsgutscheins entsprechen. Aus administrativen Gründen ist es nicht möglich, etwaiges Restguthaben zu erstatten.\n(3) Aktionsgutscheine können nur vor Abschluss des Bestellvorgangs eingelöst werden. Eine nachträgliche Verrechnung ist nicht möglich. Das Guthaben eines Aktionsgutscheins wird weder in Bargeld ausgezahlt noch verzinst.\n(4) Der Aktionsgutschein kann nicht auf Dritte übertragen werden. Mehrere Aktionsgutscheine können nicht miteinander kombiniert werden.\n(5) Reicht das Guthaben eines Aktionsgutscheins für die Bestellung nicht aus, kann die Differenz mit den angebotenen Zahlungsmöglichkeiten ausgeglichen werden.\n(6) Der Aktionsgutschein wird nicht erstattet, wenn Ware ganz oder teilweise retourniert wird, sofern der Aktionsgutschein im Rahmen einer Werbeaktion ausgegeben und dafür keine Gegenleistung erbracht wurde.\n§ 8 Geschenke\n(1) Die Verkäuferin bietet den Käufern im Rahmen bestimmter Aktionen Geschenke an. Während der Laufzeit einer Geschenkaktion erscheint der Geschenkartikel bei Kauf einer bestimmten Ware und/oder bei Erreichen eines Mindesteinkaufswerts automatisch im Warenkorb.\n(2) Pro Bestellung erhält der Kunde höchstens ein identisches Geschenk.\n(3) Sind die Aktionen an einen Mindesteinkaufswert gebunden, muss über diesen Betrag ein bestandskräftiger Kaufvertrag zustande kommen. Verringert sich der Wert der Bestellung durch Ausübung des fernabsatzrechtlichen Widerrufsrechts unter den jeweiligen Mindesteinkaufswert, wird für diesen Einkauf das Geschenk nicht gewährt. Das Geschenk ist in solchen Fällen mit Rücksendung der Ware an die Verkäuferin zurückzusenden.\n(4) Sind die Aktionen an den Einkauf eines bestimmten Produkts gebunden, wird das Geschenk bei Ausübung des fernabsatzrechtlichen Widerrufsrechts für dieses Produkt nicht gewährt. Das Geschenk ist in solchen Fällen mit Rücksendung der Ware an die Verkäuferin zurückzusenden.\n(5) Haben die Aktionen eine feste Dauer, so ist diese der Bewerbung der jeweiligen Aktion zu entnehmen.\n§ 9 Haftungsbeschränkung / Haftungsfreistellung\n(1) Es besteht grundsätzlich das gesetzliche Mängelhaftungsrecht, es sei denn in § 5 oder in § 9 Abs. 2 bis Abs. 4 dieser AGB ist etwas anderes geregelt.\n(2) Für andere als durch Verletzung von Leben, Körper und Gesundheit entstehende Schäden haftet die Verkäuferin lediglich, soweit diese auf vorsätzlichem oder grob fahrlässigem Handeln oder auf schuldhafter Verletzung einer wesentlichen Vertragspflicht durch die Verkäuferin, ihre Mitarbeiter oder ihre Erfüllungsgehilfen beruht. Dies gilt auch für Schäden aus der Verletzung von Pflichten bei Vertragsverhandlungen sowie aus der Vornahme von unerlaubten Handlungen. Eine darüber hinausgehende Haftung auf Schadensersatz ist ausgeschlossen.\n(3) Die Haftung ist außer bei vorsätzlichem oder grob fahrlässigem Verhalten, der Verletzung einer Kardinalspflicht oder der Verletzung von Leben, Körper und Gesundheit durch die Verkäuferin, ihre Mitarbeiter oder ihre Erfüllungsgehilfen auf die bei Vertragsschluss typischerweise vorhersehbaren Schäden und im übrigen der Höhe nach auf die vertragstypischen Durchschnittsschäden begrenzt. Dies gilt auch für mittelbare Schäden, insbesondere entgangenen Gewinn.\n(4) § 5 dieser Allgemeinen Geschäftsbedingungen bleibt unberührt ebenso wie die Bestimmungen des Produkthaftungsgesetzes.\n§ 10 Elektrogeräte\nBei Sachmängeln an Elektrogeräten hat der Käufer zunächst nur das Recht, Nacherfüllung (Ersatzlieferung/Nachbesserung) zu verlangen. Nur falls dieses zweimalig fehlschlägt, hat der Käufer das Recht zu mindern oder nach seiner Wahl vom Vertrag zurückzutreten. Dies gilt nicht, wenn sich aus der Art der Sache oder des Mangels oder den sonstigen Umständen etwas anderes ergibt. Ansprüche auf Schadensersatz bleiben unberührt.\n§ 11 Datenschutz\nHinsichtlich des Datenschutzes gilt die Datenschutzerklärung der Verkäuferin.\n§ 12 Freiwilliges Rückgaberecht\n(1) Für alle über die Nutzung von www.parfumdreams.de zustande gekommenen Einkäufe gewährt Ihnen die Parfümerie Akzente GmbH neben dem gesetzlichen Widerrufsrecht ein freiwilliges Rückgaberecht von insgesamt 180 Tagen ab Warenerhalt, wenn es sich bei Ihnen um einen Verbraucher iSd. § 13 BGB handelt. Mit diesem Rückgaberecht können Sie sich auch nach Ablauf der 14-tägigen Widerrufsfrist (siehe Verbraucherinformationen) vom Vertrag lösen, indem Sie die Ware innerhalb von 180 Tagen nach deren Erhalt (Fristbeginn am Tag nach Warenerhalt) an die Parfümerie Akzente GmbH und zwar konkret an die am Ende dieser Ziff. (1) genannte Adresse, zurücksenden. Die rechtzeitige Absendung reicht zur Fristwahrung aus. Voraussetzung für die Ausübung des freiwilligen Rückgaberechts ist jedoch, dass Sie die Ware vollständig, in ihrem ursprünglichen Zustand unversehrt und originalverpackt zurückschicken. Bitte senden Sie Artikel an: Anschrift\n(2) Die Rückzahlung erfolgt, bei Ausübung des freiwilligen Rückgaberechts, auf das von Ihnen zur Zahlung verwendete Konto. Sofern dies nicht mehr möglich ist werden wir uns mit Ihnen in Verbindung setzen.\n(3) Das gesetzliche Widerrufsrecht sowie die gesetzlichen Gewährleistungsansprüche des Kunden bleiben von diesem Rückgaberecht unberührt.\nBis zum Ablauf der Frist für das gesetzliche Widerrufsrecht gelten ausschließlich die dort aufgeführten gesetzlichen Bedingungen. Das vertraglich eingeräumte (freiwillige) Rückgaberecht beschränkt zudem nicht Ihre gesetzlichen Gewährleistungsrechte, die Ihnen uneingeschränkt erhalten bleiben.\n§ 13 Verbraucherschlichtungsstelle\nDie Parfümerie Akzente GmbH nimmt nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.\n§ 14 Anwendbares Recht / Schlussbestimmungen\n(1) Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Unberührt bleiben zwingende Bestimmungen des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat.\n(2) Sofern der Käufer Kaufmann ist oder keinen allgemeinen Gerichtsstand im Inland hat oder nach Vertragsschluss seinen Wohnsitz ins Ausland verlegt oder seinen Wohnsitz zum Zeitpunkt der Klageerhebung nicht bekannt ist, sind der Erfüllungsort und der Gerichtsstand für die sich aus diesem Vertrag ergebenden Streitigkeiten der Sitz der Verkäuferin.\n\n"
+}

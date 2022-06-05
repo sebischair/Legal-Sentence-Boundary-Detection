@@ -1,0 +1,1079 @@
+{
+    "Annotations": [
+        {
+            "annotation": "ER",
+            "end": 55,
+            "start": 53,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 61,
+            "start": 56,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückkehr",
+            "end": 114,
+            "start": 106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 127,
+            "start": 115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 147,
+            "start": 146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 170,
+            "start": 169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 238,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 248,
+            "start": 239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Land",
+            "end": 553,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 563,
+            "start": 562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dauer",
+            "end": 653,
+            "start": 648,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 663,
+            "start": 662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 675,
+            "start": 664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rückkehr",
+            "end": 971,
+            "start": 963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 982,
+            "start": 972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7687",
+            "end": 1001,
+            "start": 997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1007,
+            "start": 1002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1082,
+            "start": 1073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1136,
+            "start": 1127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1144,
+            "start": 1138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1146,
+            "start": 1145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1149,
+            "start": 1148,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1348,
+            "start": 1347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1351,
+            "start": 1350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsangehöriger",
+            "end": 1420,
+            "start": 1403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 1512,
+            "start": 1509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugewiesen",
+            "end": 1629,
+            "start": 1619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AsylbLG",
+            "end": 1710,
+            "start": 1703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1713,
+            "start": 1712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeordnet",
+            "end": 1908,
+            "start": 1898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 2003,
+            "start": 1992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 2227,
+            "start": 2222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2230,
+            "start": 2229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2355,
+            "start": 2353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollziehbar",
+            "end": 2423,
+            "start": 2412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergeleitet",
+            "end": 2597,
+            "start": 2585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2672,
+            "start": 2670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regensburg",
+            "end": 2765,
+            "start": 2755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 2813,
+            "start": 2810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2816,
+            "start": 2815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AsylbLG",
+            "end": 2927,
+            "start": 2920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 3045,
+            "start": 3036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereitelt",
+            "end": 3102,
+            "start": 3093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3206,
+            "start": 3201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3209,
+            "start": 3208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewandt",
+            "end": 3387,
+            "start": 3380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3578,
+            "start": 3575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereitelt",
+            "end": 3648,
+            "start": 3639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 3742,
+            "start": 3735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geflohen",
+            "end": 3850,
+            "start": 3842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3853,
+            "start": 3852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 4022,
+            "start": 4014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4025,
+            "start": 4024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 4076,
+            "start": 4066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4079,
+            "start": 4078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehe",
+            "end": 4235,
+            "start": 4228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4278,
+            "start": 4273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 4478,
+            "start": 4474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausreise",
+            "end": 4627,
+            "start": 4619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 4672,
+            "start": 4665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entzogen",
+            "end": 4726,
+            "start": 4718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4730,
+            "start": 4728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 4909,
+            "start": 4900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4913,
+            "start": 4911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4917,
+            "start": 4915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5017,
+            "start": 5006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5021,
+            "start": 5019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 5079,
+            "start": 5075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5083,
+            "start": 5081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AsylbLG",
+            "end": 5167,
+            "start": 5160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 5171,
+            "start": 5169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsbehelf",
+            "end": 5329,
+            "start": 5317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 5414,
+            "start": 5406,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5577,
+            "start": 5576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 5645,
+            "start": 5643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statthaft",
+            "end": 5756,
+            "start": 5747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 5760,
+            "start": 5758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 5939,
+            "start": 5931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 5943,
+            "start": 5941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheint",
+            "end": 6177,
+            "start": 6168,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6378,
+            "start": 6377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellers",
+            "end": 6565,
+            "start": 6551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptsacheverfahrens",
+            "end": 6626,
+            "start": 6606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eilbedürftigkeit",
+            "end": 6685,
+            "start": 6669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6799,
+            "start": 6796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 6937,
+            "start": 6933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kompensieren",
+            "end": 7084,
+            "start": 7072,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7314,
+            "start": 7313,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7489,
+            "start": 7488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 7493,
+            "start": 7491,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7791,
+            "start": 7790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7795,
+            "start": 7793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AsylbLG",
+            "end": 7898,
+            "start": 7891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7902,
+            "start": 7900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8125,
+            "start": 8120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 8129,
+            "start": 8127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtsmissbräuchlich",
+            "end": 8242,
+            "start": 8222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufenthaltes",
+            "end": 8323,
+            "start": 8311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 8432,
+            "start": 8430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 8436,
+            "start": 8434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Land",
+            "end": 8737,
+            "start": 8733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 8880,
+            "start": 8875,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9062,
+            "start": 9061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 9066,
+            "start": 9064,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9304,
+            "start": 9303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 9488,
+            "start": 9480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Asylverfahrens",
+            "end": 9722,
+            "start": 9708,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9958,
+            "start": 9957,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10146,
+            "start": 10145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzusetzen",
+            "end": 10215,
+            "start": 10202,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10270,
+            "start": 10269,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10412,
+            "start": 10411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 10416,
+            "start": 10414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Duldung",
+            "end": 10664,
+            "start": 10657,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10766,
+            "start": 10765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 10770,
+            "start": 10768,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10919,
+            "start": 10918,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11226,
+            "start": 11225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuordnen",
+            "end": 11552,
+            "start": 11542,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11879,
+            "start": 11878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 11883,
+            "start": 11881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geduldet",
+            "end": 11968,
+            "start": 11960,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12361,
+            "start": 12360,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12591,
+            "start": 12590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 12595,
+            "start": 12593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsordnung",
+            "end": 12721,
+            "start": 12708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 12851,
+            "start": 12845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 12855,
+            "start": 12853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtsmissbräuchlich",
+            "end": 12928,
+            "start": 12908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 13051,
+            "start": 13047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 13176,
+            "start": 13167,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13324,
+            "start": 13323,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13513,
+            "start": 13512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Duldungen",
+            "end": 13708,
+            "start": 13699,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13773,
+            "start": 13772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 13857,
+            "start": 13846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 13861,
+            "start": 13859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorwerfbar",
+            "end": 13966,
+            "start": 13956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergab",
+            "end": 14125,
+            "start": 14120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 14129,
+            "start": 14127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zumutbar",
+            "end": 14225,
+            "start": 14217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VO",
+            "end": 14373,
+            "start": 14371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Art",
+            "end": 14507,
+            "start": 14504,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14599,
+            "start": 14598,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14763,
+            "start": 14762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 14767,
+            "start": 14765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14934,
+            "start": 14930,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15024,
+            "start": 15023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 15028,
+            "start": 15026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 15173,
+            "start": 15162,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15336,
+            "start": 15335,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15576,
+            "start": 15575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 15698,
+            "start": 15687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 15725,
+            "start": 15717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausreise",
+            "end": 15843,
+            "start": 15835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16068,
+            "start": 16065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16242,
+            "start": 16239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16381,
+            "start": 16378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zweckerreichung",
+            "end": 16495,
+            "start": 16480,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16837,
+            "start": 16836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 16841,
+            "start": 16839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 16925,
+            "start": 16923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 16929,
+            "start": 16927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 16955,
+            "start": 16945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 16959,
+            "start": 16957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bietet",
+            "end": 17085,
+            "start": 17079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 17558,
+            "start": 17557,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17891,
+            "start": 17890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prüfen",
+            "end": 18010,
+            "start": 18004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gemeinschaftsunterkunft",
+            "end": 18078,
+            "start": 18055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 18154,
+            "start": 18146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 18215,
+            "start": 18204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeschlossen",
+            "end": 18297,
+            "start": 18284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 18608,
+            "start": 18599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 18852,
+            "start": 18849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtmäßig",
+            "end": 18907,
+            "start": 18897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 19063,
+            "start": 19059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 19067,
+            "start": 19065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 19146,
+            "start": 19143,
+            "type": "SBD"
+        }
+    ],
+    "Text": "SG Landshut, Beschluss v. 06.05.2019 – S 11 AY 38/19 ER\nTitel:\nAufenthaltsverlängerung durch unterlassene Rückkehr\nNormenketten:\nAsylbLG § 2 Abs. 1\nAsylG § 55 Abs. 1 S. 1\nAufenthG § 4 Abs. 1, § 50 Abs. 1, Abs. 2, § 58 Abs. 1, § 60a Abs. 2\nLeitsätze:\n1. Unter rechtsmissbräuchlicher Selbstbeeinflussung der Aufenthaltsdauer versteht § 2 Abs. 1\nAsylbLG nach Auffassung der Kammer auch eine von der Rechtsordnung missbilligte, subjektiv\nvorwerfbare Aufenthaltsverlängerung durch unterlassene Rückkehr in das für das Asylverfahren\neigentlich zuständige Land. (Rn. 21)\n2. § 2 AsylbLG bietet keine Grundlage für einen Ausschluss von Analogleistungen auf Dauer. (Rn.\n34)\nSchlagworte:\nAufenthaltsdauer, Aufenthaltsverlängerung, kein Ausschluss von Analogleistungen, unterlassene Rückkehr\nin das Asylverfahren, Abschiebungsanordnung, Anordnungsanspruch, Anordnungsgrund, Asylantrag,\naufschiebende Wirkung, Ausreisepflicht, Unterkunft, Verwaltungsakt, Selbstbeeinflussung, Rückkehr\nFundstelle:\nBeckRS 2019, 7687\nTenor\nI. Der Antrag auf einstweiligen Rechtsschutz vom 16.04.2019 wird abgelehnt.\nII. Außergerichtliche Kosten sind nicht zu erstatten.\nGründe\nI.\n1\nGegenstand des Eilverfahrens sind sog. Analogleistungen nach § 2 Abs. 1 Asylbewerberleistungsgesetz\n(AsylbLG) in entsprechender Anwendung des Zwölften Buches Sozialgesetzbuch - Sozialhilfe (SGB XII).\n2\nDer 1992 geborene Antragsteller ist nigerianischer Staatsangehöriger. Er reiste am 05.11.2016 über Italien\nund die Schweiz in die Bundesrepublik Deutschland ein. Der Antragsteller ist seit dem 28.11.2016 dem\nLandkreis R. mit Wohnsitz in einer Gemeinschaftsunterkunft zugewiesen. Seitdem bezieht der Antragsteller\nvom Antragsgegner Leistungen nach § 3 AsylbLG.\n3\nMit Bescheid des Bundesamtes für Migration und Flüchtlinge (BAMF) vom 08.02.2017 wurde der Antrag\ndes Antragstellers auf Asyl als unzulässig abgelehnt und die Abschiebung nach Italien angeordnet. Im\nBescheid wurde der Antragsteller auf die Möglichkeit der freiwilligen Ausreise hingewiesen. Am 20.02.2017\nerhob der Antragsteller Klage vor dem Verwaltungsgericht Regensburg gegen die ablehnende\nEntscheidung sowie die Abschiebungsanordnung und beantragte außerdem die Anordnung der\naufschiebenden Wirkung der Klage.\n4\nMit Beschluss vom 09.03.2017 lehnte das Verwaltungsgericht Regensburg den Antrag auf Anordnung der\naufschiebenden Wirkung ab. Die Abschiebungsanordnung wurde demgemäß ab 09.03.2017 vollziehbar.\nNachdem die Überstellungsfrist nach Italien, die bis zum 09.09.2017 lief, abgelaufen war, wurde das\nAsylverfahren des Antragstellers in das nationale Verfahren übergeleitet. Mit Bescheid vom 23.10.2017\nlehnte das BAMF erneut den Antrag auf Asyl ab. Gegen diesen Bescheid erhob der Kläger abermals Klage\nvor dem Verwaltungsgericht Regensburg. Eine Entscheidung liegt bislang noch nicht vor.\n5\nMit Schreiben vom 19.02.2019 beantragte der Antragsteller beim Antragsgegner Analogleistungen nach § 2\nAsylbLG. Mit Bescheid vom 15.03.2019 wurde der Antrag auf Analogleistungen mit der Begründung des\nRechtsmissbrauchs abgelehnt. Der Kläger habe die Überstellung nach Italien vereitelt. Mit Schreiben vom\n12.04.2019 legte der Kläger Widerspruch ein, über den bisher nicht entschieden wurde.\n6\nMit seinem Antrag vom 16.04.2019 auf einstweiligen Rechtsschutz hat sich der Antragsteller, vertreten\ndurch seinen Prozessbevollmächtigten, an das Sozialgericht Landshut gewandt. Eine für den 05.09.2017\nvorgesehene Überstellung des Antragstellers nach Italien habe nicht durchgeführt werden können, weil der\nAntragsteller nicht in der Unterkunft angetroffen worden sei. Der Antragsteller habe die Überstellung nach\nItalien nicht vereitelt. Er sei schlicht zum Zeitpunkt der beabsichtigten Abschiebung nicht in der Unterkunft\ngewesen. Er habe weder die Tür seines Zimmers mit einem Kühlschrank versperrt, noch sei er aus dem\nFenster geflohen.\n7\nDer Antragsteller beantragt,\nden Antragsgegner im Wege der einstweiligen Anordnung zu verpflichten, ihm ab 16.04.2019 vorläufig\nLeistungen gemäß § 2 AsylbLG zu gewähren.\n8\nDer Antragsgegner beantragt,\nden Antrag abzulehnen.\n9\nEs liege schon keine Eilbedürftigkeit vor, nachdem der Antragsteller uneingeschränkte Leistungen gemäß §\n3 AsylbLG in Höhe von monatlich 320,14 EUR beziehe. Auch ein Anordnungsanspruch bestehe nicht. Es\nsei dem Polizeibericht zu entnehmen, dass der Antragsteller am Tag der versuchten Abschiebung nach\nItalien sich durch einen Sprung aus dem Fenster des Nachbarzimmers der Abschiebung entzogen habe.\nDem Antragsteller sei bekannt gewesen, dass er die Bundesrepublik verlassen müsse, entweder im Wege\nder Abschiebung oder durch freiwillige Ausreise. Eine freiwillige Ausreise sei nicht erfolgt. Der Antragsteller\nhabe sich der Abschiebung entzogen.\n10\nWegen der weiteren Einzelheiten des Sachverhaltes sowie des weiteren Vortrags der Beteiligten wird auf\ndie Akte des Gerichts und die beigezogene Akte des Antragsgegners verwiesen.\nII.\n11\nDer zulässige Antrag ist als Antrag auf Erlass einer Regelungsanordnung statthaft, aber unbegründet.\n12\nGegenstand des Verfahrens ist der Bescheid vom 15.03.2019.\n13\nDer Antragsteller hat aktuell keinen Anspruch auf Analogleistungen nach § 2 AsylbLG.\n14\nMaßgebend für die Bestimmung, in welcher Weise vorläufiger gerichtlicher Rechtsschutz zu gewähren ist,\nist der im Hauptsacheverfahren statthafte Rechtsbehelf. Das Rechtsschutzziel des Antragstellers besteht\ndarin, Analogleistungen zu erhalten. Richtige Klageart im Hauptsacheverfahren wäre eine kombinierte\nAnfechtungs- und Leistungsklage nach §§ 54 Abs. 1 Satz 1 und Abs. 4, 56 Sozialgerichtsgesetz (SGG). Der\nAntragsteller strebt eine Erweiterung seiner Rechtsposition an; daher ist eine einstweilige Anordnung in\nForm einer Regelungsanordnung nach § 86b Abs. 2 Satz 2 SGG statthaft.\n15\nDer Antrag auf eine einstweilige Anordnung ist auch zulässig, denn der angefochtene Ablehnungsbescheid\nvom 15.03.2019 ist aufgrund des Widerspruchs nicht bestandskräftig geworden.\n16\nNach § 86 b Abs. 2 Satz 2 SGG sind einstweilige Anordnungen zur Regelung eines vorläufigen Zustands in\nBezug auf ein streitiges Rechtsverhältnis zulässig, wenn eine solche Regelung zur Abwendung wesentlicher\nNachteile nötig erscheint. Voraussetzung für den Erlass einer so genannten Regelungsanordnung ist, dass\nein Anordnungsanspruch und ein Anordnungsgrund glaubhaft gemacht werden (§ 86 b Abs. 2 Satz 4 SGG,\n§ 920 Abs. 1 und 2 ZPO). Der Anordnungsanspruch bezieht sich auf den materiell-rechtlichen Anspruch, für\nden vorläufiger Rechtsschutz begehrt wird, also auf ein subjektives öffentliches Recht des Antragstellers. Er\nentspricht dem Streitgegenstand des Hauptsacheverfahrens. Der Anordnungsgrund bezieht sich auf die\nEilbedürftigkeit; er liegt bei einer Regelungsanordnung vor, wenn die Anordnung zur Abwendung\nwesentlicher Nachteile notwendig ist. Der Antragsteller muss also darlegen, welche Nachteile zu erwarten\nsind, wenn er auf den Ausgang des Hauptsacheverfahrens verwiesen wird. Er muss auch plausibel\nvortragen, dass er keine anderen zumutbaren Möglichkeiten hat, die Nachteile einstweilen zu vermeiden\noder zu kompensieren. Die dem Anordnungsanspruch und dem Anordnungsgrund zu Grunde liegenden\nTatsachen müssen glaubhaft gemacht werden, wobei als Beweismittel auch eine eidesstattliche\nVersicherung möglich ist (§ 294 Abs. 1 Zivilprozessordnung (ZPO)). Hinsichtlich des Beweismaßes genügt\nalso überwiegende Wahrscheinlichkeit, verbleibende Zweifel sind unschädlich (Burkiczak in:\nSchlegel/Voelzke, jurisPK-SGG, § 86 b Rn. 415).\n17\nDer Erlass einer einstweiligen Anordnung verlangt grundsätzlich die - summarische - Prüfung der\nErfolgsaussichten in der Hauptsache (Anordnungsanspruch) sowie die Erforderlichkeit einer vorläufigen\ngerichtlichen Entscheidung, die sich in der Regel aus der Eilbedürftigkeit ergibt (Anordnungsgrund).\n18\nVorliegend fehlt es an einem glaubhaften Anordnungsanspruch auf ungekürzte Leistungen nach § 2\nAsylbLG.\n19\nLeistungsberechtigt nach § 2 Abs. 1 AsylbLG sind Antragsteller, die sich über 15 Monate ohne wesentliche\nUnterbrechung im Bundesgebiet aufhalten und ihre Aufenthaltsdauer nicht rechtsmissbräuchlich selbst\nbeeinflusst haben.\n20\nVorliegend war bereits das Verbleiben in Deutschland bzw. die fehlende freiwillige Ausreise\nrechtsmissbräuchlich. Das Unterlassen der Ausreise war auch ursächlich für die Dauer des Aufenthaltes.\nAuf die Frage, ob der Antragsteller sich der Abschiebung durch Flucht entzogen hat, kommt es schon nicht\nan.\n21\nUnter rechtsmissbräuchlicher Selbstbeeinflussung der Aufenthaltsdauer versteht § 2 Abs. 1 AsylbLG nach\nAuffassung der Kammer auch eine von der Rechtsordnung missbilligte, subjektiv vorwerfbare\nAufenthaltsverlängerung durch unterlassene Rückkehr in das für das Asylverfahren eigentlich zuständige\nLand. Neben Italien kommt vorliegend noch die Schweiz in Frage, wo der Antragsteller nach eigenen\nAngaben ebenfalls einen Asylantrag gestellt hatte. Ein vorwerfbares Fehlverhalten kann grundsätzlich auch\nim Verweilen im Bundesgebiet liegen (Bayerisches Landessozialgericht, Beschluss vom 17. September\n2018 - L 8 AY 13/18 B ER -).\n22\n1. Die Rechtsordnung verlangt von Ausländern für die Einreise und den Aufenthalt im Bundesgebiet einen\nAufenthaltstitel in Form eines Visums, einer Aufenthalts- oder einer Niederlassungserlaubnis (§ 4 Abs. 1\nAufenthaltsgesetz (AufenthG)). Einem Asylsuchenden sind die Einreise und der Aufenthalt im Inland\naußerdem grundsätzlich bis zur Feststellung der Asylberechtigung auch ohne die erforderlichen Dokumente\nzu gewähren. § 55 Asylgesetz (AsylG) schafft dafür die gesetzliche Grundlage in Form eines besonderen\nkraft Gesetzes entstehenden Aufenthaltsrechts für den rechtmäßigen Aufenthalt eines Asylbewerbers im\nInland zur Durchführung des Asylverfahrens. Gemäß § 55 Abs. 1 S. 1 AsylG ist einem Ausländer, der um\nAsyl nachsucht, zur Durchführung des Asylverfahrens der Aufenthalt im Bundesgebiet gestattet\n(Aufenthaltsgestattung) (BeckOK AuslR/ Neundorf, 21. Ed. 1.2.2019, AsylG § 55 Rn. 1). Wer über keines\nder oben genannten Aufenthaltsrechte (mehr) verfügt, ist unverzüglich oder bis zum Ablauf einer ihm\ngesetzten Frist zur Ausreise verpflichtet (§ 50 Abs. 1 und 2 AufenthG). Kommt er dem nicht nach, ist die\nAusreise zwangsweise durchzusetzen: Der Ausländer wird abgeschoben (§ 58 Abs. 1 AufenthG). Ist das\naus rechtlichen oder tatsächlichen Gründen unmöglich, wird die Abschiebung vorübergehend ausgesetzt\n(Duldung, § 60a Abs. 2 AufenthG).\n23\n2. Der Antragsteller war seit der ablehnenden Entscheidung des Verwaltungsgerichtes Regensburg\n(Beschluss vom 09.03.2017) über den Antrag auf aufschiebende Wirkung nicht mehr Inhaber einer\nAufenthaltsgestattung und auch nicht Inhaber einer Duldung. Die Klage gegen die Abschiebungsanordnung\nhatte keine aufschiebende Wirkung (vgl. § 75 Abs. 1 AsylG).\n24\na) Mit der Vollziehbarkeit der Abschiebungsanordnung nach § 34a AsylG am 09.03.2017 erlosch die\nAufenthaltsgestattung (§ 67 Abs. 1 S. 1 Nr. 5 AslyG). § 67 Abs. 1 S. 1 Nr. 5 erfasst demnach Fälle, in denen\nder Aufenthalt von Ausländern zunächst infolge der ersten Asylantragstellung gestattet wurde trotz Einreise\naus einem Mitgliedsstaat im Sinne der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und\ndes Rates vom 26. Juni 2013 (Dublin-III-VO). § 34a AsylG ermächtigt das BAMF im Fall der Ablehnung\nwegen der Zuständigkeit eines anderen Mitgliedsstaates für die Durchführung des Asylverfahrens nach der\nDublin-III-VO dazu, sogleich die Abschiebung des Ausländers in einen sicheren Drittstaat bzw. den für die\nDurchführung des Asylverfahrens zuständigen Staat anzuordnen. Zu beachten ist außerdem, dass von den\nDublin-Staaten alle EU-Mitgliedstaaten sowie von den Nicht-EU-Mitgliedstaaten Norwegen und die Schweiz\nzugleich sichere Drittstaaten iSd § 26a sind (vgl. Art. 16a Abs. 2 S. 1 und 2 GG sowie § 26a Abs. 2 iVm\nAnlage I zu § 26a, BeckOK AuslR/Pietzsch, 21. Ed. 1.8.2018, AsylG § 34a Rn. 3b).\n25\nb) Der Antragsteller wurde auch bis zum Ablauf der Überstellungsfrist nicht geduldet. Da die\nAbschiebungsanordnung nach 34a AsylG, für die wiederum allein das Bundesamt zuständig ist, erst\nerlassen werden kann, wenn „feststeht“, dass die Abschiebung durchgeführt werden kann, obliegt es\ninsoweit auch dem Bundesamt zu prüfen, ob inlandsbezogene Abschiebungshindernisse der Abschiebung\nentgegenstehen (vgl. BVerfG, Nichtannahmebeschluss vom 17. September 2014 - 2 BvR 1795/14 -). Das\nBundesamt hat daher bei seiner Entscheidung, ob es nach § 34a Abs. 1 die Abschiebung anordnet, auch\nDuldungsgründe iSv § 60a Abs. 2 AufenthG zu prüfen (BeckOK AuslR/Pietzsch, 21. Ed. 01.08.2018, AsylG\n§ 34a Rn. 14a m. w. N.).\n26\n3. Nach dieser Konzeption widerspricht der weitere Inlandsaufenthalt des ausreisepflichtigen Antragstellers\nder Rechtsordnung. Die Pflicht selbstständig auszureisen, sei es auch unter Mithilfe des Antragsgegners,\nbestand ab dem 09.03.2017 für sechs Monate.\n27\nWer diese Pflicht vorwerfbar nicht befolgt, handelt rechtsmissbräuchlich. Vorwerfbar in diesem Sinne ist es\nregelmäßig, wenn der Ausländer nicht ausreist, obwohl ihm das möglich und zumutbar wäre. Diese\nInterpretation des Begriffs „rechtsmissbräuchlich“ in § 2 Abs. 1 AsylbLG wird durch die Gesetzesmaterialien\nbestätigt. Danach sollen nur diejenigen Ausländer Leistungen nach § 2 AsylbLG erhalten, „die\nunverschuldet nicht ausreisen können“ (BT-Drucks 15/420, S. 121). Dazu zählt nicht, wer der\nAusreisepflicht nicht nachkommt, obwohl das sowohl tatsächlich und rechtlich möglich als auch zumutbar ist\n(BSG, Urteil vom 08. Februar 2007, - B 9b AY 1/06 R -). Soweit das BSG alleine die fehlende Ausreise nicht\nals rechtsmissbräuchlich ansah (BSG, Urteil vom 17. Juni 2008 - B 8/9b AY 1/07 R -), bezog sich diese\nRechtsprechung auf Inhaber von Duldungen. Der Antragsteller war nicht Inhaber einer Duldung (siehe 2.\nb)). Objektive Hinderungsgründe an der Ausreise sind weder vorgetragen noch ersichtlich.\n28\n4. Der Verbleib in Deutschland trotz der Ausreisepflicht ist dem Antragsteller auch subjektiv vorwerfbar.\nZunächst war dem Antragsteller die Pflicht zur Ausreise bekannt, nachdem sich diese bereits aus den\nEntscheidungen des BAMF und des Verwaltungsgerichts ergab.\n29\na) Dem Antragsteller war die Ausreise in die Schweiz oder nach Italien auch persönlich zumutbar. Nach\nÜberzeugung der Kammer bestanden 2017 in Italien keine systemischen Schwachstellen im Sinne des Art.\n3 Abs. 2 Unterabsatz 2 der Dublin-III-VO. Die Abschiebung nach Italien war nicht etwa wegen einer dort\ndrohenden unmenschlichen und erniedrigenden Behandlung im Sinne von Art. 3 EMRK unmöglich (so\njedoch SG Lüneburg, Beschluss vom 06. Juni 2017 - S 26 AY 10/17 ER -). Zur Begründung wird auf den\nBeschluss des Verwaltungsgerichts Regensburg vom 09.03.2017 verwiesen (ebenso OVG Lüneburg, Urteil\nvom 04. April 2018 - 10 LB 96/17 -).\n30\nDarüber hinaus geht die Kammer davon aus, dass Abschiebungshindernisse grundsätzlich im\nVerwaltungsverfahren und letztlich von den Verwaltungsgerichten zu prüfen sind. Eine inzidente Prüfung im\nLeistungsrecht scheidet schon aus (formelle Betrachtungsweise).\n31\nb) Sonstige berechtigten Interessen des Antragstellers zum Verbleib in Deutschland trotz Ausreisepflicht\nsind weder vorgetragen noch ersichtlich. Berechtigte Interessen sind Gründe, die einer freiwilligen Ausreise\nentgegenstehen (z.B. Reiseunfähigkeit, humanitäre oder familiäre Gesichtspunkte, Integration). Bei nicht zu\nvertretenden Gründen, die einer freiwilligen Ausreise entgegenstehen, wäre eine Rechtsmissbräuchlichkeit\nzu verneinen (vgl. Oppermann in: Schlegel/Voelzke, jurisPK-SGB XII, 2. Aufl. 2014, § 2 AsylbLG 1.\nÜberarbeitung, Rn. 64). Alleine die Durchführung der Hauptsache vor dem Verwaltungsgericht erfordert\njedenfalls keinen Aufenthalt in Deutschland. Die Klage bleibt zulässig. Weder die Unzulässigkeitserklärung\ndes Asylantrags noch die Abschiebungsanordnung erledigen sich durch eine Ausreise. Nach § 43 Abs. 2\nVerwaltungsverfahrensgesetz (VwVfG) bleibt ein Verwaltungsakt wirksam, solange und soweit er nicht\nzurückgenommen, widerrufen, anderweitig aufgehoben oder durch Zeitablauf oder auf andere Weise\nerledigt ist. Erledigung in anderer Weise im Sinne dieser Vorschrift tritt ein, wenn die mit dem\nVerwaltungsakt verbundene rechtliche oder sachliche Beschwer nachträglich weggefallen ist. Dies ist\njedenfalls solange nicht der Fall, wie der mit einer behördlichen Maßnahme erstrebte Erfolg noch nicht\nendgültig eingetreten ist. Der zwangsweise Vollzug eines Verwaltungsakts führt nicht stets schon für sich\ngenommen zu einer Zweckerreichung. Im vorliegenden Fall hätte nach einer Ausreise sowohl die\nAblehnung des Asylantrags als unzulässig, als auch die Abschiebungsanordnung insoweit noch\nRegelungswirkung entfaltet, als sie nach wie vor die Rechtsgrundlage für die Abschiebung des Klägers\ngebildet hätten (vgl. VG Düsseldorf, Urteil vom 27. Juni 2014 - 13 K 654/14.A -, m. w. N.).\n32\nNachdem kein Anordnungsanspruch vorliegt, kommt es auf den Anordnungsgrund nicht an.\n33\nDer Antrag war abzulehnen.\n34\nErgänzend ist darauf hingewiesen, dass § 2 AsylbLG keine Grundlage für einen Ausschluss von\nAnalogleistungen auf Dauer bietet. Anknüpfend an seine Entscheidung vom 09.02.2010 zur Unvereinbarkeit\nder Regelleistungen nach dem SGB II hat das BVerfG in seiner Entscheidung vom 18.07.2012 darauf\nhingewiesen, dass „jedenfalls für die in § 2 Abs. 1 AsylbLG vorgesehene Dauer von mittlerweile vier Jahren\ndes Leistungsbezugs und folglich auch einem eventuell längerem Aufenthalt (es) nicht mehr gerechtfertigt\n(ist), von einem kurzen Aufenthalt mit möglicherweise spezifisch niedrigerem Bedarf auszugehen“. Hieraus\nergibt sich sehr deutlich, dass eine pauschale Leistungsabsenkung von (mehr als) vier Jahren für alle\nLeistungsberechtigten nach dem AsylbLG bei nicht rechtsmissbräuchlichem Verhalten nicht mehr\nverfassungsgemäß ist (vgl. Oppermann in: Schlegel/Voelzke, jurisPK-SGB XII, 2. Aufl. 2014, § 2 AsylbLG 1.\nÜberarbeitung, Rn. 20). Nach hiesiger Auffassung ist die zumutbare Dauer der pauschalen\nLeistungsabsenkung im jeweiligen Einzelfall zu prüfen. Der Antragsteller wohnt weiterhin in einer\nGemeinschaftsunterkunft. Erhebliche Teile der Bedarfe werden demgemäß durch Sachleistungen erbracht.\nGesonderte Bedarfe sind weder vorgetragen, noch ersichtlich. Das gerichtliche Verfahren wegen des\nAsylverfahrens ist noch nicht abgeschlossen. Der Gesetzgeber geht in § 3 AsylbLG pauschalierend von\neiner abweichenden Bedarfssituation aus, weil die Leistungsberechtigten noch keine Perspektive auf einen\nDaueraufenthalt haben, sondern sich der Aufenthalt in Deutschland bis zur rechtskräftigen Entscheidung\ndes Asylverfahrens als nur vorläufig darstellt. Im vorliegenden Einzelfall geht die Kammer daher davon aus,\ndass der Antragsteller bis zum Abschluss des gerichtlichen Verfahrens, indem über den Antrag auf Asyl\nentschieden wird, keine Perspektive auf einen Daueraufenthalt in Deutschland hat. Die aktuelle pauschale\nAbsenkung ist daher rechtmäßig. Das Gericht musste daher nicht mehr prüfen, ob dem Antragsteller\ngegebenenfalls weitere Rechtsmissbräuche im Sinne des § 2 Abs. 1 AsylbLG vorzuwerfen sind.\n35\nDie Kostenentscheidung beruht auf einer entsprechenden Anwendung von § 193 SGG.\n\n"
+}

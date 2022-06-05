@@ -1,0 +1,1277 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 57,
+            "start": 55,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 63,
+            "start": 58,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bürgers",
+            "end": 149,
+            "start": 142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 162,
+            "start": 150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 201,
+            "start": 200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 239,
+            "start": 238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 289,
+            "start": 288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 315,
+            "start": 314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 325,
+            "start": 316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlässt",
+            "end": 487,
+            "start": 480,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 509,
+            "start": 508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahlrecht",
+            "end": 725,
+            "start": 716,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 740,
+            "start": 739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagwort",
+            "end": 751,
+            "start": 741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Popularklage",
+            "end": 765,
+            "start": 753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 777,
+            "start": 766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "260",
+            "end": 795,
+            "start": 792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "241",
+            "end": 809,
+            "start": 806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25461",
+            "end": 828,
+            "start": 823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "169",
+            "end": 846,
+            "start": 843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25461",
+            "end": 862,
+            "start": 857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 868,
+            "start": 863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 895,
+            "start": 885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 916,
+            "start": 897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 918,
+            "start": 917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 921,
+            "start": 920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1275,
+            "start": 1272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 1384,
+            "start": 1376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 1554,
+            "start": 1546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1557,
+            "start": 1556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 1628,
+            "start": 1623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stimmrechts",
+            "end": 1669,
+            "start": 1658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“\r",
+            "end": 1939,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufhalten",
+            "end": 2089,
+            "start": 2080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wählbarkeit",
+            "end": 2110,
+            "start": 2099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Person",
+            "end": 2152,
+            "start": 2146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 2155,
+            "start": 2154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2158,
+            "start": 2156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2161,
+            "start": 2160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schweiz",
+            "end": 2225,
+            "start": 2218,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2621,
+            "start": 2620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 2848,
+            "start": 2837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2851,
+            "start": 2850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 2884,
+            "start": 2877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2887,
+            "start": 2886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "definiere",
+            "end": 3017,
+            "start": 3008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 3133,
+            "start": 3130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 3220,
+            "start": 3212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 3449,
+            "start": 3442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Volksgesetzgebers",
+            "end": 3540,
+            "start": 3523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3543,
+            "start": 3542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinnvoll",
+            "end": 3654,
+            "start": 3646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konstituieren",
+            "end": 3787,
+            "start": 3774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3902,
+            "start": 3896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4115,
+            "start": 4112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahlrecht",
+            "end": 4184,
+            "start": 4175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4187,
+            "start": 4186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausschließe",
+            "end": 4425,
+            "start": 4414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 4542,
+            "start": 4536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mehr",
+            "end": 4667,
+            "start": 4663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 4794,
+            "start": 4787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessert",
+            "end": 4922,
+            "start": 4912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auswählen",
+            "end": 5083,
+            "start": 5074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5233,
+            "start": 5227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5236,
+            "start": 5235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5499,
+            "start": 5496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lasse",
+            "end": 5716,
+            "start": 5711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprechen",
+            "end": 5795,
+            "start": 5787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 5983,
+            "start": 5975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6079,
+            "start": 6074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfassungswidrig",
+            "end": 6175,
+            "start": 6158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 6180,
+            "start": 6177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6183,
+            "start": 6182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6279,
+            "start": 6268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6283,
+            "start": 6281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 6518,
+            "start": 6514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 6656,
+            "start": 6648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfassungskonform",
+            "end": 6739,
+            "start": 6721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 6743,
+            "start": 6741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6868,
+            "start": 6857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6872,
+            "start": 6870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 7070,
+            "start": 7060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 7197,
+            "start": 7186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7201,
+            "start": 7199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Popularklage",
+            "end": 7424,
+            "start": 7412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 7458,
+            "start": 7447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbar",
+            "end": 7633,
+            "start": 7624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7637,
+            "start": 7635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 7858,
+            "start": 7849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbar",
+            "end": 8019,
+            "start": 8010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehöre",
+            "end": 8294,
+            "start": 8288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8298,
+            "start": 8296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erweitern",
+            "end": 8407,
+            "start": 8398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeräumt",
+            "end": 8512,
+            "start": 8502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 8610,
+            "start": 8605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 8771,
+            "start": 8767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 8869,
+            "start": 8867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 9011,
+            "start": 9004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreicht",
+            "end": 9184,
+            "start": 9176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9188,
+            "start": 9186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 9324,
+            "start": 9313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgestellt",
+            "end": 9387,
+            "start": 9377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 9714,
+            "start": 9710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 10046,
+            "start": 10037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10050,
+            "start": 10048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 10480,
+            "start": 10469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 10603,
+            "start": 10595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 10700,
+            "start": 10697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "knüpfen",
+            "end": 10947,
+            "start": 10940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 11260,
+            "start": 11254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 11485,
+            "start": 11482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 11489,
+            "start": 11487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 11493,
+            "start": 11491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 11525,
+            "start": 11515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 11529,
+            "start": 11527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränken",
+            "end": 11683,
+            "start": 11671,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11854,
+            "start": 11853,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12004,
+            "start": 12003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 12008,
+            "start": 12006,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12130,
+            "start": 12129,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12371,
+            "start": 12370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12375,
+            "start": 12373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügt",
+            "end": 12496,
+            "start": 12489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 12810,
+            "start": 12806,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13069,
+            "start": 13068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 13073,
+            "start": 13071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränkt",
+            "end": 13359,
+            "start": 13348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 13363,
+            "start": 13361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfassung",
+            "end": 13589,
+            "start": 13579,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13955,
+            "start": 13954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13959,
+            "start": 13957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anstrebt",
+            "end": 14053,
+            "start": 14045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 14137,
+            "start": 14133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzgebers",
+            "end": 14299,
+            "start": 14287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14425,
+            "start": 14419,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14805,
+            "start": 14804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 14809,
+            "start": 14807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 14863,
+            "start": 14858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 14867,
+            "start": 14865,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15015,
+            "start": 15014,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15457,
+            "start": 15456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 15461,
+            "start": 15459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 15630,
+            "start": 15627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 15759,
+            "start": 15756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 15763,
+            "start": 15761,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16192,
+            "start": 16191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16407,
+            "start": 16401,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16604,
+            "start": 16603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 16608,
+            "start": 16606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargelegt",
+            "end": 16891,
+            "start": 16882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 16895,
+            "start": 16893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 17123,
+            "start": 17117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 17127,
+            "start": 17125,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17569,
+            "start": 17568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetz",
+            "end": 17791,
+            "start": 17785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsangehörigkeit",
+            "end": 17940,
+            "start": 17921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 18044,
+            "start": 18036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 18165,
+            "start": 18157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 18169,
+            "start": 18167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 18367,
+            "start": 18361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermitteln",
+            "end": 18560,
+            "start": 18550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 18564,
+            "start": 18562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getreten",
+            "end": 18632,
+            "start": 18624,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18740,
+            "start": 18739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "absehbar",
+            "end": 18888,
+            "start": 18880,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19476,
+            "start": 19475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 19480,
+            "start": 19478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 19719,
+            "start": 19716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 19871,
+            "start": 19869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 20038,
+            "start": 20030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 20243,
+            "start": 20239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 20311,
+            "start": 20309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20416,
+            "start": 20410,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20556,
+            "start": 20555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 20560,
+            "start": 20558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinander",
+            "end": 20688,
+            "start": 20677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 20799,
+            "start": 20792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellers",
+            "end": 20962,
+            "start": 20948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgeblich",
+            "end": 21243,
+            "start": 21233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 21247,
+            "start": 21245,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21389,
+            "start": 21388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21916,
+            "start": 21910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 22473,
+            "start": 22461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 22477,
+            "start": 22475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 22772,
+            "start": 22771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 23126,
+            "start": 23120,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23243,
+            "start": 23242,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23409,
+            "start": 23408,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23688,
+            "start": 23687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 23692,
+            "start": 23690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 23935,
+            "start": 23930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 23939,
+            "start": 23937,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24164,
+            "start": 24163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einklang",
+            "end": 24586,
+            "start": 24578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 24590,
+            "start": 24588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 24816,
+            "start": 24812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 24944,
+            "start": 24939,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25278,
+            "start": 25277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verloren",
+            "end": 25409,
+            "start": 25401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angelegt",
+            "end": 25688,
+            "start": 25680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 25692,
+            "start": 25690,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25876,
+            "start": 25875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 26358,
+            "start": 26353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 26561,
+            "start": 26554,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26841,
+            "start": 26840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 27000,
+            "start": 26994,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27485,
+            "start": 27484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulassen",
+            "end": 27648,
+            "start": 27640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 27921,
+            "start": 27918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "V",
+            "end": 27924,
+            "start": 27923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 27928,
+            "start": 27926,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27987,
+            "start": 27986,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 09.10.2018 – Vf. 1-VII-17\nTitel:\nPopularklage und bayerische Staatsbürgerschaft - kein Anspruch des einzelnen\nBürgers\nNormenketten:\nBV Art. 7 Abs. 3, Art. 14 Abs. 1 S. 1\nLWG Art. 1 Abs. 1 Nr. 2, Art. 22 S. 1\nGG Art. 33 Abs. 1, Art. 74 Nr. 8, Art. 144 Abs. 1\nVfGHG Art. 55 Abs. 1 S. 1\nLeitsätze:\n1. Der einzelne Bürger hat keinen mit der Popularklage einklagbaren Anspruch darauf, dass der\nLandtag ein Gesetz über die bayerische Staatsangehörigkeit erlässt. (Rn. 26 und 30 – 37)\n2. Art. 7 Abs. 3 BV, wonach die Teilnahme an Wahlen zum Landtag von der Dauer eines Aufenthalts\nin Bayern bis zu einem Jahr abhängig gemacht werden kann, gilt sowohl für das aktive als auch für\ndas passive Wahlrecht. (Rn. 39 – 41)\nSchlagwort:\nPopularklage\nFundstellen:\nBayVBl 2019, 260\nDÖV 2019, 241\nBeckRS 2018, 25461\nNVwZ-RR 2019, 169\nLSK 2018, 25461\nTenor\nDer Antrag wird abgewiesen.\nEntscheidungsgründe\nI.\n1\nGegenstand der Popularklage ist Art. 22 Satz 1 i. V. m. Art. 1 Abs. 1 Nr. 2 des Gesetzes über\nLandtagswahl, Volksbegehren, Volksentscheid und Volksbefragung (Landeswahlgesetz - LWG) in der\nFassung der Bekanntmachung vom 5. Juli 2002 (GVBl S. 277, ber. S. 620, BayRS 1das zuletzt durch § 8\ndes Gesetzes vom 12. Juli 2017 (GVBl S. 362) geändert worden ist. In den angegriffenen Vorschriften sind\nVoraussetzungen für die Wählbarkeit zum Bayerischen Landtag geregelt. Des Weiteren betrifft die\nPopularklage die Frage, ob der Landtag verpflichtet ist, in diesem Zusammenhang ein Gesetz über die\nbayerische Staatsangehörigkeit zu erlassen.\n2\nDie angegriffenen Vorschriften des Landeswahlgesetzes lauten wie folgt:\n„Art. 1 Voraussetzungen des Stimmrechts\n(1) Stimmberechtigt bei den Wahlen zum Landtag, bei Volksbegehren, Volksentscheiden und\nVolksbefragungen sind alle Deutschen im Sinn des Art. 116 Abs. 1 des Grundgesetzes, die am Tag der\nAbstimmung, bei Volksbegehren spätestens am letzten Tag der Eintragungsfrist,\n1.“\n2. seit mindestens drei Monaten in Bayern ihre Wohnung, bei mehreren Wohnungen ihre Hauptwohnung,\nhaben oder sich sonst in Bayern gewöhnlich aufhalten,\nArt. 22 Wählbarkeit\n\"Wählbar ist jede stimmberechtigte Person. …\nII.\n3\nDer Antragsteller ist in Bayern geboren und lebt in der Schweiz. Nach seiner Auffassung verletzt die\ngesetzliche Regelung, wonach die Kandidatur für die Wahlen zum Landtag eine Wohnung oder einen\ngewöhnlichen Aufenthalt in Bayern seit mindestens drei Monaten voraussetzt, die verfassungsmäßig\ngewährleisteten Rechte der Allgemeinheit der Wahl (Art. 14 Abs. 1 Satz 1, Abs. 2 BV) und auf Teilhabe an\nder Staatsgewalt durch Teilnahme an Wahlen (Art. 7 Abs. 2 BV). Außerdem ist er der Meinung, der\nGesetzgeber sei verpflichtet, ein Ausführungsgesetz über die bayerische Staatsangehörigkeit zu erlassen,\num die Wählbarkeit bayerischer Staatsangehöriger ohne Wohnsitz in Bayern zu ermöglichen.\n4\nIm Wesentlichen macht er geltend:\n5\nBayern sei in der Bundesrepublik Deutschland das einzige Land, das sein Staatsvolk über eine eigene\nStaatsangehörigkeit definiere. Art. 6 Abs. 3 BV sehe ein Gesetz zur Regelung des Näheren über die\nbayerische Staatsangehörigkeit ausdrücklich vor. Ein solches Gesetz habe der Landtag trotz verschiedener\nAnläufe bisher nicht erlassen. Es sei jedoch notwendig, damit der zum Landtag wählbare Personenkreis\nkorrekt abgegrenzt werden könne und „auswärtige“, nicht in Bayern wohnende oder sich dort gewöhnlich\naufhaltende Personen für den Landtag kandidieren könnten. Die Unterlassung des parlamentarischen\nGesetzgebers verletze Rechte des Volksgesetzgebers.\n6\nDie Differenzierung nach bayerischer Staatsangehörigkeit für die Wählbarkeit zum Landtag sei sachlich\nsinnvoll; denn die Staatsangehörigkeit und/oder der Wohnsitz würden jeweils den rechtlich fassbaren Bezug\nzum bayerischen Staat konstituieren. Eines der beiden Kriterien müsse erfüllt sein, um Rechte gegenüber\ndem bayerischen Staat geltend machen zu können. Dabei könne die Staatsangehörigkeit als dauerhaftes\nstaatsrechtliches Zugehörigkeitsverhältnis zum bayerischen Staatsverband angesehen werden, das der\nDisposition des einfachrechtlichen Gesetzgebers entzogen sei. Mögliche Anwendungsfälle seien das aktive\nund das passive Wahlrecht.\n7\nDie in Art. 1 Abs. 1 Nr. 2 und Art. 22 Satz 1 LWG festgelegte Ortsbindung als Voraussetzung für die\nTeilnahme an Wahlen sei verfassungswidrig, soweit sie bayerische Staatsangehörige ohne Wohnsitz in\nBayern von der Wählbarkeit ausschließe. Die Ortsansässigkeit als Wählbarkeitsvoraussetzung treffe\nbesonders Regionen, die mit Abwanderung zu kämpfen hätten. Die Wohnsitzverlagerung eines Bayern ins\nAusland aus beruflichen oder persönlichen Gründen sei heute kein Ausnahmefall mehr. Da die\nAbgeordneten Vertreter des ganzen Volkes seien, sei es konsequent, dass auch sie selbst nicht in Bayern\nwohnen müssten. Die Möglichkeiten, ein Mandat von einem anderen Bundesland oder vom Ausland aus\nwahrzunehmen, hätten sich erheblich verbessert. Mit der Wählbarkeit Auswärtiger könnten die Wähler im\nInteresse des politischen Wettbewerbs geeignete Kandidaten aus einem größeren Personalreservoir\nauswählen. Unter den nicht in Bayern wohnhaften Deutschen könne die bayerische Staatsangehörigkeit\nzum ausschlaggebenden Kriterium für subjektive Rechte werden.\n8\nVon zentraler Bedeutung für das passive Wahlrecht sei der in Art. 14 Abs. 2 BV verwendete Begriff\n„wahlfähig“, der - wie die Historie belege - mit den Begriffen „wahlberechtigt“ und „wählbar“ nicht\ndeckungsgleich und auch von der Ortsbindung zu unterscheiden sei. Mit der „Wahlfähigkeit“ kopple Art. 14\nAbs. 2 BV die Wählbarkeit an einen Begriff, der zwar einen Großteil des Begriffsgehalts von\nWahlberechtigung umfasse, an der entscheidenden Stelle aber genügend Spielraum lasse. Man könne\nauch von „latenter“ oder „manifestierter“ Wahlberechtigung sprechen. Art. 14 Abs. 2 BV regle das passive\nWahlrecht für den Landtag abschließend und verdränge als lex specialis die Regelung in Art. 7 Abs. 3 BV,\ndie zudem nur eine „Kann-Bestimmung“ enthalte. Eine verfassungsrechtliche Notwendigkeit der\nOrtsbindung beim passiven Wahlrecht bestehe nicht. Vielmehr widerspreche diese dem Wortlaut des Art. 14\nAbs. 2 BV und sei daher verfassungswidrig.\nIII.\n9\n1. Der Bayerische Landtag hält die Popularklage für unzulässig, jedenfalls aber für unbegründet.\n10\nEin Unterlassen des Gesetzgebers könne nur gerügt werden, wenn in substanziierter Weise die Verletzung\neines Anspruchs auf Erlass einer bestimmten Rechtsvorschrift geltend gemacht werde und der Gesetzgeber\nzum Erlass verpflichtet wäre. Der Verfassungsgerichtshof habe jedoch mehrfach ein subjektives Recht auf\nBesitz oder Bestätigung der Landesstaatsangehörigkeit verneint. Die gesetzlichen Bestimmungen über das\npassive Wahlrecht seien verfassungskonform.\n11\n2. Die Bayerische Staatsregierung ist ebenfalls der Auffassung, die Popularklage sei unzulässig, jedenfalls\naber unbegründet.\n12\na) Soweit der Antragsteller die Feststellung beantrage, dass der Gesetzgeber verpflichtet sei, ein\nAusführungsgesetz zur bayerischen Staatsangehörigkeit zu erlassen, sei die Popularklage unzulässig. Wie\nder Verfassungsgerichtshof bereits entschieden habe, sei ein Anspruch auf Erlass eines solchen Gesetzes\nnicht ersichtlich.\n13\nb) Hinsichtlich der geltend gemachten Verfassungswidrigkeit von Vorschriften des Landeswahlgesetzes\nbestünden mit Blick auf das Erfordernis einer substanziierten Grundrechtsrüge Zweifel an der Zulässigkeit\nder Popularklage. Diese sei jedenfalls unbegründet. Die angegriffenen gesetzlichen Bestimmungen über die\nWählbarkeit zum Landtag (Art. 22 Satz 1 i. V. m. Art. 1 Abs. 1 Nr. 2 LWG) seien mit der Bayerischen\nVerfassung vereinbar.\n14\nDer Begriff der „Wahlfähigkeit“ in Art. 14 Abs. 2 BV sei nach der Rechtsprechung des\nVerfassungsgerichtshofs und der Kommentarliteratur im Sinn der Wahlberechtigung, also des Besitzes des\naktiven Wahlrechts, zu verstehen. Die Anknüpfung an einen Wohnsitz oder Mindestaufenthalt in Bayern sei\nauch mit dem Grundsatz der Allgemeinheit der Wahl nach Art. 14 Abs. 1 Satz 1 BV vereinbar. Das\nBundesverfassungsgericht habe mehrfach bestätigt, dass das Erfordernis der Sesshaftigkeit im Wahlgebiet,\ndem der Gedanke der besonderen Verbundenheit mit diesem Gebiet zugrunde liege, zu den\nverfassungsrechtlich zulässigen Begrenzungen der Allgemeinheit der Wahl gehöre.\n15\nDer Gesetzgeber sei nicht verpflichtet, den Kreis der Wahlberechtigten um die Auslandsdeutschen zu\nerweitern. Der Bundesgesetzgeber habe zwar inzwischen auch im Ausland wohnenden Deutschen das\nWahlrecht eingeräumt. Dies bedeute aber nicht, dass auch der Landesgesetzgeber entsprechende\nRegelungen schaffen müsse. Nach Art. 7 Abs. 3 BV könne der Gesetzgeber das Wahlrecht davon abhängig\nmachen, dass der Staatsbürger in Bayern wohne oder seinen gewöhnlichen Aufenthalt habe. Art. 7 Abs. 3\nBV lasse die Anknüpfung an einen Mindestaufenthalt auch beim passiven Wahlrecht zu. Von dieser\nMöglichkeit habe der Gesetzgeber mit der in Art. 22 Satz 1 LWG normierten Bezugnahme auf Art. 1 Abs. 1\nNr. 2 LWG Gebrauch gemacht. Damit werde eine für die parlamentarische Arbeit im Landtag wichtige\nOrtsbindung des Gewählten zu den Wählern und eine Vertrautheit mit den hiesigen Verhältnissen erreicht.\n16\nDas Wohnsitzprinzip im Hinblick auf das aktive und passive Wahlrecht gelte auch in allen anderen Ländern\nder Bundesrepublik Deutschland. Bei mehreren Wohnsitzen werde auf die Hauptwohnung abgestellt.\nHierdurch würden eine Mehrfachmitgliedschaft in verschiedenen Landtagen und eine erweiterte Möglichkeit\nder Einflussnahme auf die Gesetzgebung des Bundes und die Bundespolitik, in der Bundesversammlung\nund bei der Wahl der Bundesrichter verhindert, was innerhalb der föderalen Staatsordnung der\nBundesrepublik bedenklich wäre. Historische Vergleiche mit früheren Wählbarkeitsvorschriften im\nKönigreich Bayern, im Norddeutschen Bund und im Deutschen Reich könnten eine Verfassungswidrigkeit\nder geltenden Wählbarkeitsbestimmungen oder einen Anspruch auf Erstreckung der Wählbarkeit auf\naußerhalb Bayerns wohnende „bayerische Staatsangehörige“ nicht begründen.\n17\nAuch aus dem Grundsatz der Allgemeinheit der Wahl (Art. 14 Abs. 1 Satz 1 BV) in Verbindung mit dem\nRecht auf Teilnahme der Staatsbürger an der Wahl (Art. 14 Abs. 2 und Art. 7 Abs. 2 BV) ergebe sich keine\nverfassungsrechtliche Verpflichtung, den Kreis der wählbaren „Staatsbürger“ durch ein Ausführungsgesetz\nzur bayerischen Staatsangehörigkeit zu bestimmen und ihnen auch außerhalb Bayerns die Wählbarkeit zum\nLandtag einzuräumen. Der Begriff des wahlberechtigten bzw. wahlfähigen Staatsbürgers sei auch ohne ein\nsolches Ausführungsgesetz klar bestimmt. Staatsbürger sei jeder, der die deutsche Staatsangehörigkeit\nbesitze und in Bayern wohnhaft sei. Aber selbst wenn ein Ausführungsgesetz zur bayerischen\nStaatsangehörigkeit erlassen würde, bliebe es dem Gesetzgeber unbenommen, das passive Wahlrecht\ngemäß Art. 7 Abs. 3 BV weiterhin an einen Wohnsitz oder Mindestaufenthalt in Bayern zu knüpfen. Im\nÜbrigen würde die Zuerkennung des passiven Wahlrechts für „bayerische Staatsangehörige“, die außerhalb\nBayerns wohnten, dazu führen, dass deutsche Staatsangehörige ohne bayerische Staatsangehörigkeit, die\nnach dem Wegzug aus Bayern das Wahlrecht verlören, insoweit ungleich behandelt und benachteiligt\nwürden. Art. 33 Abs. 1 GG als Gebot der strikten Gleichbehandlung schließe die Landeszugehörigkeit als\nDifferenzierungskriterium in Bezug auf den Bestand und die Reichweite staatsbürgerlicher Rechte und\nPflichten in den Ländern aus.\nIV.\n18\nDie Popularklage ist unzulässig.\n19\nNach Art. 98 Satz 4 BV hat der Verfassungsgerichtshof Gesetze und Verordnungen für nichtig zu erklären,\ndie ein Grundrecht verfassungswidrig einschränken. Die Verfassungswidrigkeit einer Rechtsvorschrift des\nbayerischen Landesrechts kann jedermann durch Beschwerde (Popularklage) geltend machen (Art. 55 Abs.\n1 Satz 1 VfGHG). Hierzu muss er darlegen, dass ein durch die Verfassung gewährleistetes Grundrecht\nverfassungswidrig eingeschränkt wird (Art. 55 Abs. 1 Satz 2 VfGHG).\n20\nZwar bestehen keine Bedenken gegen die Zulässigkeit der Popularklage unter dem Gesichtspunkt der\nAntragsberechtigung (1.). Die Ausführungen des Antragstellers genügen allerdings nicht den Anforderungen\nan die Darlegung einer verfassungswidrigen Grundrechtseinschränkung durch die angegriffenen Normen\noder durch das beanstandete Unterlassen des Gesetzgebers (2.).\n21\n1. Der Zulässigkeit der Popularklage steht nicht entgegen, dass der Antragsteller über keinen Wohnsitz in\nBayern verfügt. Im Hinblick auf den Gesetzeswortlaut des Art. 55 Abs. 1 Satz 1 VfGHG („jedermann“) lässt\nder Verfassungsgerichtshof in ständiger Rechtsprechung alle natürlichen und juristischen Personen als\nPopularkläger zu, stellt also insoweit keine weiteren Anforderungen als die, dass der Popularkläger\nrechtsfähig sein muss. Die Befugnis zur Erhebung einer Popularklage ist daher nicht davon abhängig, dass\nder Antragsteller in Bayern seinen Wohnsitz hat oder sonst in bestimmten Rechtsbeziehungen zum\nFreistaat Bayern steht (vgl. VerfGH vom 12.6.2013 VerfGHE 66, 70/80 f. m. w. N.).\n22\n2. Zu den prozessualen Voraussetzungen einer Popularklage gehört nach Art. 55 Abs. 1 Satz 2 VfGHG,\ndass der Antragsteller darlegt, inwiefern die angegriffene Rechtsvorschrift oder der Nichterlass einer Norm\nein in der Verfassung gewährleistetes Grundrecht verfassungswidrig einschränkt.\n23\na) Eine ausreichende Grundrechtsrüge liegt nicht schon dann vor, wenn ein Antragsteller lediglich\nbehauptet, eine Rechtsvorschrift oder der Nichterlass einer solchen verstoße gegen Grundrechtsnormen\nder Bayerischen Verfassung. Vielmehr muss er seinen Vortrag so präzisieren, dass eine Verletzung der\nbezeichneten Grundrechtsnorm zumindest möglich erscheint (ständige Rechtsprechung; vgl. VerfGH vom\n21.2.1986 VerfGHE 39, 17/21; vom 12.4.1988 VerfGHE 41, 33/36 f.; vom 26.6.2012 VerfGHE 65, 118/122\nf.; vom 17.7.2017 - Vf. 9-VII-15 - juris Rn. 46; vom 26.6.2018 - Vf. 8-VII-17 - juris Rn. 35).\n24\nBesondere Anforderungen gelten, wenn der Antragsteller ein gesetzgeberisches Handeln anstrebt. Zwar\nkann auch ein Unterlassen des Gesetzgebers Gegenstand einer Popularklage sein. Allerdings besteht nach\nbayerischem Verfassungsrecht grundsätzlich kein verfassungsgerichtlich verfolgbarer Anspruch auf ein\nbestimmtes Handeln des Gesetzgebers. Das Verlangen nach Erlass einer bestimmten Regelung kann nur\nausnahmsweise im Wege einer Popularklage geltend gemacht werden. Hierzu muss der Antragsteller in\nsubstanziierter Weise darlegen, dass der Normgeber aufgrund einer Grundrechtsnorm der Bayerischen\nVerfassung zum Erlass einer bestimmten Regelung verpflichtet ist (VerfGH vom 25.9.2015 VerfGHE 68,\n198 Rn. 115 m. w. N.; vom 12.9.2016 BayVBl 2017, 478 Rn. 44; vom 26.3.2018 NVwZ-RR 2018, 457 Rn.\n56, 122; vom 26.6.2018 Vf. 8-VII-17 - juris Rn. 41).\n25\nb) Diesen Anforderungen genügt die Popularklage nicht.\n26\nZwar enthalten Art. 7 Abs. 2 und Art. 14 Abs. 2 BV subjektive verfassungsmäßige Rechte, die mit der\nPopularklage geltend gemacht werden können (aa). Aus dem Vorbringen des Antragstellers ergibt sich\njedoch weder, dass der einzelne Bürger einen Anspruch auf Erlass eines Gesetzes über die bayerische\nStaatsangehörigkeit hätte, noch, dass die angegriffenen Vorschriften des Landeswahlgesetzes über den\nWohnsitz oder gewöhnlichen Aufenthalt in Bayern seit mindestens drei Monaten als Voraussetzung für das\naktive und passive Wahlrecht ein Grundrecht verfassungswidrig einschränken würden (bb).\n27\naa) Nach Art. 7 Abs. 2 BV übt der Staatsbürger seine Rechte durch Teilnahme an Wahlen, Bürgerbegehren\nund Bürgerentscheiden sowie Volksbegehren und Volksentscheiden aus. Wählbar bei der Wahl zum\nLandtag ist nach Art. 14 Abs. 2 BV jeder wahlfähige Staatsbürger, der das 18. Lebensjahr vollendet hat.\n28\nDer Verfassungsgerichtshof geht in ständiger Rechtsprechung davon aus, dass Art. 7 Abs. 2 und Art. 14\nAbs. 2 BV Grundrechtscharakter haben und daher im Wege der Popularklage geltend gemacht werden\nkönnen (VerfGH vom 24.11.1966 VerfGHE 19, 105/108 f.; vom 12.4.1967 VerfGHE 20, 58/59 f.; vom\n12.3.1986 VerfGHE 39, 30/33 ff.; VerfGHE 66, 70/83; vom 21.11.2016 BayVBl 2017, 192 Rn. 87, 102;\nVerfGH NVwZ-RR 2018, 457 Rn. 66, 75, 99). Dabei erstreckt sich das gemäß Art. 14 Abs. 2 BV als\nGrundrecht garantierte passive Wahlrecht darauf, vom Staat als wählbar behandelt und bei einer Kandidatur\nnicht einseitig behindert oder benachteiligt zu werden. Dies beinhaltet das Recht, sich um ein Mandat zu\nbewerben, es anzunehmen und auszuüben (VerfGH vom 1.8.1958 VerfGHE 11, 103/107; vom 6.5.2005\nVerfGHE 58, 113/124; VerfGH NVwZ-RR 2018, 457 Rn. 75).\n29\nbb) Eine mögliche Verletzung dieser Rechte durch den Nichterlass eines Gesetzes über die bayerische\nStaatsangehörigkeit (1) oder durch die angegriffenen Vorschriften des Landeswahlgesetzes (2) hat der\nAntragsteller trotz seiner umfangreichen Ausführungen nicht ausreichend dargelegt.\n30\n(1) Aus seinem Vorbringen geht nicht plausibel hervor, dass ohne den Erlass eines Gesetzes über die\nbayerische Staatsangehörigkeit subjektive, in der Bayerischen Verfassung gewährleistete Rechte einzelner\nBürger verletzt würden.\n31\nDer Verfassungsgerichtshof hat bereits mehrfach entschieden, dass dem einzelnen Bürger kein subjektives,\nmit der Popularklage einklagbares Recht darauf zusteht, dass der Landtag ein Gesetz über die bayerische\nStaatsangehörigkeit erlässt (VerfGH vom 15.12.1959 VerfGHE 12, 171/176; vom 21.7.1965 VerfGHE 18,\n79/82 f.; VerfGHE 39, 30/33 ff.; a. A. Lindner in Lindner/Möstl/Wolff, Verfassung des Freistaates Bayern, 2.\nAufl. 2017, Art. 6 Rn. 6). Zwar habe Art. 6 BV die bayerische Staatsangehörigkeit als Institution wieder\neingeführt. Allerdings sei Art. 6 BV für sich allein nicht vollziehbar, sondern bedürfe der Ergänzung durch\ndas in Absatz 3 vorgesehene Gesetz. Art. 6 gewähre jedoch ebenso wenig wie Art. 7 und 8 BV ein\nsubjektives Recht auf den Besitz und die Bestätigung der bayerischen Staatsangehörigkeit. Auf den Erlass\neines bayerischen Staatsangehörigkeitsgesetzes habe der einzelne Bürger keinen Anspruch. Deshalb\nkönne offenbleiben, ob Art. 6 Abs. 3 BV den bayerischen Gesetzgeber verpflichte, ein solches Gesetz zu\nerlassen.\n32\nAus den Ausführungen des Antragstellers ergeben sich keine neuen Gesichtspunkte, die für einen\nsubjektiven Anspruch auf Erlass eines Gesetzes über die bayerische Staatsangehörigkeit sprechen würden.\nInsbesondere würde ein solches Gesetz bayerischen Staatsangehörigen, die außerhalb Bayerns wohnen\noder sich dort gewöhnlich aufhalten, weder ein aktives noch ein passives Wahlrecht vermitteln.\n33\nDie Bayerische Verfassung ist am 8. Dezember 1946 in Kraft getreten. Art. 6 BV hatte die Schaffung einer\nneuen selbständigen Landeszugehörigkeit zum Ziel (VerfGHE 12, 171/175). Zu diesem Zeitpunkt war die\nstaatsrechtliche Zukunft Deutschlands, insbesondere die Errichtung der Bundesrepublik Deutschland, noch\nnicht absehbar. Nachdem der Bayerische Landtag mit Beschluss vom 20. Mai 1949 (Stenographischer\nBericht über die Verhandlungen des Bayerischen Landtags Nr. 110 S. 177, Beilage 2479) die\nRechtsverbindlichkeit des Grundgesetzes auch für Bayern gemäß Art. 144 Abs. 1 GG deklaratorisch\nanerkannt hat (vgl. VerfGH vom 16.7.1991 VerfGHE 44, 85/89; vom 21.1.2016 BayVBl 2016, 337 Rn. 36 f.),\nhat die in Art. 6 BV vorgesehene bayerische Staatsangehörigkeit aufgrund der in Art. 116 Abs. 1 GG\ngetroffenen Regelung über die deutsche Staatsangehörigkeit ihre praktische Bedeutung eingebüßt\n(VerfGHE 39, 30/33 ff.).\n34\nEin passives Wahlrecht potenzieller Kandidaten mit Wohnsitz außerhalb Bayerns für die Wahlen zum\nLandtag ergibt sich nicht daraus, dass nach Art. 14 Abs. 2 BV jeder wahlfähige Staatsbürger wählbar ist, der\ndas 18. Lebensjahr vollendet hat. Entgegen der Auffassung des Antragstellers knüpft der Begriff „wahlfähig“\nan die Wahlberechtigung, also an das aktive Wahlrecht (Art. 7 Abs. 2 BV), an. Wie der\nVerfassungsgerichtshof bereits entschieden hat (vgl. VerfGHE 11, 103/108), sind die Voraussetzungen der\nWählbarkeit zum Landtag in Art. 14 Abs. 2 BV geregelt. Dabei kann Art. 14 Abs. 2 BV nach seinem Wortlaut\nnur bedeuten, dass die Wählbarkeit von dem Besitz der Wahlberechtigung, d. h. des aktiven Wahlrechts,\nund dem festgelegten Lebensalter abhängig sein soll. Der Ausdruck „wahlfähig“ lässt hier eine andere\nAuslegung nicht zu. Es kann hierunter nicht etwa die Wählbarkeit, also der Besitz des passiven Wahlrechts\nverstanden werden; denn dann hätte Art. 14 Abs. 2 BV den nicht sinnvollen Inhalt: „Wählbar ist jeder\nwählbare Staatsbürger, der …“ (vgl. VerfGHE 11, 103/108).\n35\nDiese Entscheidung zitiert der Antragsteller zwar in seiner Antragsbegründung, setzt sich mit ihr aber nicht\nweiter auseinander. Dies wäre jedoch für eine ausreichende Substanziierung gemäß Art. 55 Abs. 1 Satz 2\nVfGHG erforderlich gewesen. Der notwendigen Darlegung einer möglichen Verletzung subjektiver Rechte\ngenügen auch nicht die rechtspolitischen und historischen Ausführungen des Antragstellers. Für die Frage,\nob und unter welchen Voraussetzungen nicht in Bayern ansässigen Personen das aktive und passive\nWahlrecht zum Landtag zusteht, sind ausschließlich die Bestimmungen der Bayerischen Verfassung und\ndie auf ihrer Grundlage erlassenen gesetzlichen Regelungen maßgeblich.\n36\nDas Volk als Träger der Staatsgewalt (Art. 2 Abs. 1 Satz 2 BV) tut seinen Willen durch Wahlen und\nAbstimmungen kund (Art. 2 Abs. 2 Satz 1 BV). Dabei ist die Ausübung der Staatsgewalt hinsichtlich der\nLandtagswahlen auf die stimm- bzw. wahlberechtigten Staatsbürger (Art. 7 Abs. 1 BV) und die ihnen\ngleichgestellten deutschen Staatsangehörigen, die in Bayern ihren Wohnsitz haben (Art. 8 BV), beschränkt\n(Art. 4, 14 Abs. 1 Satz 1 BV). Gemäß Art. 7 Abs. 3 BV, der nach dem Vorstehenden sowohl für das aktive\nals auch für das passive Wahlrecht gilt, kann die Ausübung der staatsbürgerlichen Rechte von der Dauer\neines Aufenthalts bis zu einem Jahr abhängig gemacht werden. Auch der Erlass eines Gesetzes über die\nbayerische Staatsangehörigkeit, wozu dem Landtag seit der Aufhebung der konkurrierenden\nGesetzgebungszuständigkeit gemäß Art. 74 Nr. 8 GG für die Staatsangehörigkeit in den Ländern durch\nGesetz vom 27. Oktober 1994 (BGBl I S. 3146) die ausschließliche Gesetzgebungskompetenz zusteht,\nwürde somit nicht zwangsläufig dazu führen, dass bayerische Staatsangehörige mit einem (Haupt-)\nWohnsitz oder gewöhnlichen Aufenthalt außerhalb Bayerns berechtigt wären, als Wähler oder Kandidaten\nan den Landtagswahlen teilzunehmen.\n37\nDie nach Art. 98 Satz 4 BV i. V. m. Art. 55 Abs. 1 Satz 2 VfGHG erforderliche Darlegung einer\nverfassungswidrigen Grundrechtseinschränkung ergibt sich auch nicht aus den Ausführungen des\nAntragstellers, die Unterlassung des parlamentarischen Gesetzgebers verletze „Rechte des\nVolksgesetzgebers“. Unabhängig davon, ob es sich dabei um popularklagefähige Grundrechte handelt, auf\ndie sich der Einzelne unmittelbar berufen kann, ist weder dargelegt noch ersichtlich, inwieweit der\nNichterlass eines Gesetzes über die bayerische Staatsangehörigkeit durch den Landtag einer\nGesetzesinitiative durch das Volk gemäß Art. 71 und 74 BV entgegenstehen sollte. Die gesetzgebende\nGewalt steht dem Volk und der Volksvertretung gleichermaßen zu (Art. 5 Abs. 1, Art. 72 Abs. 1 BV).\nGesetzesvorlagen können vom Ministerpräsidenten namens der Staatsregierung, aus der Mitte des\nLandtags oder vom Volk (Volksbegehren) eingebracht werden (Art. 71 BV). Das Recht des Volkes zur\nGesetzgebung durch Volksbegehren und Volksentscheid und die Gesetzgebungsbefugnis des Parlaments\nstehen nach Maßgabe der Verfassung grundsätzlich gleichberechtigt nebeneinander (VerfGH vom\n17.9.1999 VerfGHE 52, 104/126; vom 31.3.2000 VerfGHE 53, 42/61).\n38\n(2) Der Antragsteller hat auch nicht hinreichend dargelegt, dass die in Art. 22 Satz 1 i. V. m. Art. 1 Abs. 1 Nr.\n2 LWG getroffene Regelung über die Ortsbindung als Wählbarkeitsvoraussetzung subjektive\nverfassungsmäßige Rechte verletzen würde.\n39\nWie bereits ausgeführt, kann die Ausübung der staatsbürgerlichen Rechte des Art. 7 Abs. 2 BV,\ninsbesondere die Teilnahme an Wahlen, von der Dauer eines Aufenthalts bis zu einem Jahr abhängig\ngemacht werden (Art. 7 Abs. 3 BV). Die in Art. 1 Abs. 1 Nr. 2 und Art. 22 Satz 1 LWG getroffenen\nRegelungen, die das aktive und passive Wahlrecht an eine (Haupt-)Wohnung in Bayern bzw. in\nErmangelung einer solchen an einen gewöhnlichen Aufenthalt in Bayern seit mindestens drei Monaten\nknüpfen, schöpfen in ihrer jetzigen Fassung die verfassungsrechtliche Ermächtigungsgrundlage des Art. 7\nAbs. 3 BV nicht aus und stehen mit ihr offensichtlich in Einklang.\n40\nDer Gesetzgeber verfügt hinsichtlich der Voraussetzungen für die Wahlberechtigung über einen\nErmessensspielraum, der nur durch die Wahlrechtsnormen der Verfassung, das Willkürverbot und\neinschlägiges Bundesrecht begrenzt wird. Den Ausführungen des Antragstellers ist nicht zu entnehmen,\ndass der Gesetzgeber diesen Ermessensspielraum überschritten hätte. Art. 7 Abs. 3 BV und das auf seiner\nGrundlage erlassene Wohnungs- bzw. Aufenthaltserfordernis in Art. 1 Abs. 1 Nr. 2 und Art. 22 Satz 1 LWG\nlassen den Gedanken der Sesshaftigkeit zum Zuge kommen und widersprechen nicht dem in Art. 14 Abs. 1\nSatz 1 BV verankerten Grundsatz der Allgemeinheit der Wahl (VerfGHE 19, 105/111; 20, 58/59). Nach Art.\n19 BV geht die Mitgliedschaft beim Landtag während der Wahldauer unter anderem durch Verlust der\nWahlfähigkeit verloren. Da die Wahlfähigkeit den Besitz der Wahlberechtigung, also das aktive Wahlrecht\nvoraussetzt, das wiederum von der Dauer eines Aufenthalts bis zu einem Jahr abhängig gemacht werden\nkann, ist die Möglichkeit einer Ortsbindung für das passive Wahlrecht auch in Art. 19 BV angelegt.\n41\nGewisse Grundvoraussetzungen, wie das Erfordernis einer bestimmten Aufenthaltsdauer für die Ausübung\ndes Wahlrechts, müssen die Bürger hinnehmen (VerfGHE 19, 105/108 f.; 20, 58/59 f.). Im Hinblick auf das\nGebot der Gleichbehandlung aller Staatsbürger bei der Ausübung des aktiven und passiven Wahlrechts,\ndas eine der wesentlichen Grundlagen der freiheitlichdemokratischen Grundordnung darstellt (zuletzt\nVerfGH NVwZ-RR 2018, 457 Rn. 77, 99; vom 30. Juli 2018 - Vf. 11-VIII-17 - juris Rn. 57), bestünden\nerhebliche verfassungsrechtliche Bedenken gegen eine Regelung, die das Wahlrecht für den Landtag nicht\nan das Wohnungs- bzw. Aufenthaltserfordernis koppeln würde. Ohne dieses Erfordernis könnten in Bayern\nwahlberechtigte Staatsbürger, die nicht im Ausland, sondern in einem anderen Bundesland leben, ihre\nStimme bei Landtagswahlen in mehreren Bundesländern abgeben. Hierdurch könnten sie im Vergleich zu\nPersonen, die lediglich in einem Bundesland stimmberechtigt sind, mehr Einfluss auf die Zusammensetzung\ndes Bundesrates und der Bundesversammlung sowie auf die Wahl von Bundesrichtern nehmen (vgl. hierzu\nThum, BayVBl 2016, 579/584; 774/775). Gleiches gilt für ein passives Wahlrecht in mehreren\nBundesländern, das eine Mehrfachmitgliedschaft in verschiedenen Länderparlamenten zur Folge haben\nkönnte. Das Homogenitätsgebot des Art. 28 Abs. 1 Sätze 1 und 2 GG, das bei der Auslegung der\nverfassungsrechtlichen Gewährleistungen in Art. 7 Abs. 2 und Art. 14 Abs. 1 Satz 1, Abs. 2 BV und bei der\nBestimmung des Inhalts des Demokratieprinzips zu berücksichtigen ist (VerfGH NVwZ-RR 2018, 457 Rn.\n97, 111), will dasjenige Maß an struktureller Homogenität zwischen Gesamtstaat und Gliedstaaten\ngewährleisten, das für das Funktionieren eines Bundesstaates unerlässlich ist (VerfGHE 66, 70/92).\nDeshalb müssen Stimmenungleichgewichte und eine Mehrfachwahl durch Regelungen ausgeschlossen\nwerden, die eine Wahl grundsätzlich nur in einem Bundesland zulassen. Hierzu ist das in Art. 7 Abs. 3 BV\nund Art. 1 Abs. 1 Nr. 2 LWG festgelegte Wohnungs- oder Aufenthaltserfordernis als\nWahlberechtigungsvoraussetzung das geeignete und „übliche“ Instrumentarium, das in vergleichbarer\nWeise auch in allen anderen Bundesländern vorgesehen ist.\nV.\n42\nDas Verfahren ist kostenfrei (Art. 27 Abs. 1 Satz 1 VfGHG).\n\n"
+}

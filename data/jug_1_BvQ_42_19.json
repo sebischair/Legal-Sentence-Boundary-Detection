@@ -1,0 +1,689 @@
+{
+    "Annotations": [
+        {
+            "annotation": "BUNDESVERFASSUNGSGERICHT",
+            "end": 24,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 40,
+            "start": 39,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VOLKES",
+            "end": 60,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 753,
+            "start": 742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuschränken",
+            "end": 1338,
+            "start": 1324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 1853,
+            "start": 1842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragstellerin",
+            "end": 1870,
+            "start": 1855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weidenthal",
+            "end": 2135,
+            "start": 2125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bevollmächtigter",
+            "end": 2154,
+            "start": 2138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschlossen",
+            "end": 2359,
+            "start": 2348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 2865,
+            "start": 2854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3075,
+            "start": 3066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 3115,
+            "start": 3106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 3246,
+            "start": 3237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 3254,
+            "start": 3248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 3258,
+            "start": 3257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 3261,
+            "start": 3260,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3502,
+            "start": 3501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragsgegnerin",
+            "end": 3657,
+            "start": 3642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 3660,
+            "start": 3659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3665,
+            "start": 3663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trägt",
+            "end": 3885,
+            "start": 3880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anderem",
+            "end": 3915,
+            "start": 3908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 4057,
+            "start": 4052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4328,
+            "start": 4327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 4330,
+            "start": 4329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoße",
+            "end": 4494,
+            "start": 4486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4615,
+            "start": 4609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4837,
+            "start": 4834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4840,
+            "start": 4839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuschränken",
+            "end": 5372,
+            "start": 5358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5375,
+            "start": 5374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 5448,
+            "start": 5442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5757,
+            "start": 5754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belegt",
+            "end": 5869,
+            "start": 5863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6099,
+            "start": 6096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 6326,
+            "start": 6319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 6503,
+            "start": 6498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6506,
+            "start": 6505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6753,
+            "start": 6750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 6870,
+            "start": 6865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 7048,
+            "start": 7042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7051,
+            "start": 7050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 7166,
+            "start": 7160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7321,
+            "start": 7315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 7600,
+            "start": 7593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 7603,
+            "start": 7602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorwegnehme",
+            "end": 7708,
+            "start": 7697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 7882,
+            "start": 7875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheine",
+            "end": 8027,
+            "start": 8018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 8068,
+            "start": 8057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werbe",
+            "end": 8217,
+            "start": 8212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eröffnen",
+            "end": 8425,
+            "start": 8417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8428,
+            "start": 8427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GG",
+            "end": 8710,
+            "start": 8708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8714,
+            "start": 8712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 8869,
+            "start": 8862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 8873,
+            "start": 8871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8877,
+            "start": 8875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9168,
+            "start": 9165,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9447,
+            "start": 9446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9451,
+            "start": 9449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 9630,
+            "start": 9620,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9812,
+            "start": 9811,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10120,
+            "start": 10119,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10699,
+            "start": 10698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10703,
+            "start": 10701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 10810,
+            "start": 10802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10814,
+            "start": 10812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 10945,
+            "start": 10934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 11281,
+            "start": 11278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11285,
+            "start": 11283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügt",
+            "end": 11622,
+            "start": 11615,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11899,
+            "start": 11898,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12101,
+            "start": 12100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geklärt",
+            "end": 12598,
+            "start": 12591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ungeklärt",
+            "end": 12673,
+            "start": 12664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 12677,
+            "start": 12675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigen",
+            "end": 12971,
+            "start": 12958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 13070,
+            "start": 13059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13074,
+            "start": 13072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 13209,
+            "start": 13203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 13355,
+            "start": 13344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgenabwägung",
+            "end": 13419,
+            "start": 13405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 13423,
+            "start": 13421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 13493,
+            "start": 13490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 14036,
+            "start": 14033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 14286,
+            "start": 14283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14290,
+            "start": 14288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 14554,
+            "start": 14548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 14826,
+            "start": 14819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 14985,
+            "start": 14976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treten",
+            "end": 15238,
+            "start": 15232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 15475,
+            "start": 15471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 15811,
+            "start": 15806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15815,
+            "start": 15813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 16119,
+            "start": 16111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinausgehen",
+            "end": 16336,
+            "start": 16325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 16545,
+            "start": 16541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16549,
+            "start": 16547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 16826,
+            "start": 16820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 17113,
+            "start": 17104,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17603,
+            "start": 17602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 17607,
+            "start": 17605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fiele",
+            "end": 17979,
+            "start": 17974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 17983,
+            "start": 17981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 18068,
+            "start": 18062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstünden",
+            "end": 18224,
+            "start": 18214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzustellen",
+            "end": 18450,
+            "start": 18438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 18459,
+            "start": 18457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BVerfGG",
+            "end": 18544,
+            "start": 18537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 18548,
+            "start": 18546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unanfechtbar",
+            "end": 18584,
+            "start": 18572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 18710,
+            "start": 18708,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BUNDESVERFASSUNGSGERICHT\n- 1 BvQ 42/19 -\nIM NAMEN DES VOLKES\nIn dem Verfahren\nüber den Antrag,\nim Wege der einstweiligen Anordnung\ndie Beschlüsse des Landgerichts Frankenthal (Pfalz)\nvom 8. März 2019 - 6 O 56/19 -\nund des Pfälzischen Oberlandesgerichts Zweibrücken\nvom 17. April 2019 - 4 W 20/19 -\naufzuheben und festzustellen, dass\n1.die Antragsgegnerin, bei Meidung eines für jeden Fall der Nichtvornahme\nfälligen Zwangsgeldes bis zu 250.000 Euro, ersatzweise Zwangshaft bis zu\nsechs Monaten, oder Zwangshaft bis zu sechs Monaten, verpflichtet wird,\ndie Facebookseite der Antragstellerin unter der URL https://www.facebook.com/ mit\nder Bezeichnung „Der III. Weg“ zu entsperren und ihr die Nutzung der Funktionen\nvon www.facebook.com wieder einzuräumen;\n2.die Antragsgegnerin, bei Meidung eines für jeden Fall der Nichtvornahme\nfälligen Zwangsgeldes bis zu 250.000 Euro, ersatzweise Zwangshaft bis zu\n1/10\nsechs Monaten, oder Zwangshaft bis zu sechs Monaten, verpflichtet wird,\nes zu unterlassen, die Facebookseite der Antragstellerin unter der URL\nhttps://www.facebook.com/ mit der Bezeichnung „Der III. Weg\" wegen\ndes Teilens des Beitrags „Winterhilfestand in Zwickau-Neuplanitz“ zu\nsperren und die Nutzung der Funktionen von www.facebook.com\nvorzuenthalten oder den Beitrag zu löschen beziehungsweise deren\nSichtbarkeit einzuschränken;\n3.hilfsweise, im Falle einer unwiederbringlichen Löschung der Daten der\nAntragstellerin, die Antragsgegnerin, bei Meidung eines für jeden Fall der\nNichtvornahme fälligen Zwangsgeldes bis zu 250.000 Euro, ersatzweise\nZwangshaft bis zu sechs Monaten, oder Zwangshaft bis zu sechs Monaten,\nverpflichtet wird, die Facebookseite der Antragstellerin unter der URL\nhttps://www.facebook.com/ mit der Bezeichnung „Der III. Weg\" erneut\neinzurichten und ihr die Nutzung der Funktionen von www.facebook.com\nwieder einzuräumen.\nAntragstellerin: Der Dritte Weg,\nvertreten durch den Gesamtvorstand, bestehend aus dem Vorsitzenden\n2/10\nKlaus Armstroff, dem Stellvertreter Matthias Fischer, dem Schatzmeister\nMatthias Hermann und den Beisitzern René Teufer und Robin Liebers,\nEisenkehlstraße 35, 67475 Weidenthal\n- Bevollmächtigter:\nRechtsanwalt Andreas Wölfel,\nSchloßweg 8, 95709 Tröstau -\nhat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch\ndie Richter Masing,\nPaulus,\nChrist\nam 22. Mai 2019 einstimmig beschlossen:\n1.Facebook Ireland Ldt., 4 Grand Canal Square, Dublin 2, Irland, wird im Wege einer\neinstweiligen Anordnung verpflichtet, den Internetauftritt der Antragstellerin\nunter der Adresse www.facebook.com/ mit der Bezeichnung „Der III. Weg“ für die\nZeit bis zur Feststellung des amtlichen Endergebnisses der Wahl der Abgeordneten\ndes Europäischen Parlaments aus der Bundesrepublik Deutschland vorläufig\nzu entsperren und ihr für diesen Zeitraum die Nutzung der Funktionen von\nwww.facebook.com wieder einzuräumen. Das Recht und die Pflicht, einzelne Inhalte\nauf ihre Vereinbarkeit mit ihren Nutzungsbedingungen, den Rechten Dritter\noder den Strafgesetzen zu prüfen und gegebenenfalls zu löschen, bleibt hierdurch\nunberührt.\n2.Im Übrigen wird der Antrag abgelehnt.\n3.Das Land Rheinland-Pfalz hat der Antragstellerin die notwendigen Auslagen im\nVerfahren der einstweiligen Anordnung zu erstatten.\nGründe :\nI.\n1\nDie Antragstellerin greift zum Zweck der Stellungnahme zum aktuellen politischen Tagesgeschehen\nund der Berichterstattung über ihre Parteiarbeit auf das in in Deutschland weit\nverbreitete soziale Netzwerk „Facebook“ zurück (Antragsgegnerin). Mit ihrem Eilantrag\nwendet sie sich gegen die Löschung eines ihrer Beiträge und die anschließende Sperrung\nihres Nutzeraccounts durch die Antragsgegnerin.\n2\n3/10\nAm 21. Januar 2019 veröffentlichte die Antragstellerin unter dem in ihrem Namen betriebenen\nNutzeraccount einen Link zu einem Artikel auf ihrer Internetseite, der den Titel\n„Winterhilfestand in Zwickau-Neuplanitz“ trägt. Darin heißt es unter anderem:\n„Im Zwickauer Stadtteil Neuplanitz gibt es zahlreiche Menschen, die man landläufig wohl\nals sozial und finanziell abgehängt bezeichnen würde. Während nach und nach immer\nmehr art- und kulturfremde Asylanten in Wohnungen in den dortigen Plattenbauten einquartiert\nwurden, die mitunter ihrer Dankbarkeit mit Gewalt und Kriminalität Ausdruck verleihen,\nhaben nicht wenige Deutsche im Viertel kaum Perspektiven (…)“\n3\nUnmittelbar nach der Veröffentlichung teilte die Antragsgegnerin der Antragstellerin mit,\ndass der Beitrag als „Hassrede“ gegen die Gemeinschaftsstandards verstoße. Die Sichtbarkeit\ndes Beitrags sei daher eingeschränkt und das Veröffentlichen von Beiträgen für\n30 Tage gesperrt worden. Auf Einspruch der Antragstellerin, der unter Verweis auf die\nMeinungsfreiheit der Antragstellerin begründet wurde, erfolgte am 30. Januar 2019 die\nLöschung des Nutzerkontos, dessen Inhalt seitdem nicht mehr verfügbar ist.\n4\nNach erfolgloser Abmahnung beantragte die Antragstellerin sodann vor dem Landgericht\nden Erlass einer einstweiligen Verfügung mit dem Inhalt, die Antragsgegnerin unter Androhung\nvon Ordnungsmitteln zu verpflichten, den Auftritt der Antragstellerin zu entsperren\nund ihr die Nutzung wieder einzuräumen sowie der Antragsgegnerin zu untersagen,\nden Auftritt wegen des Teilens des genannten Beitrages zu sperren, die Nutzung der\nFunktionen von Facebook vorzuenthalten oder den Beitrag zu löschen bzw. dessen\nSichtbarkeit einzuschränken.\n5\n1. Das Landgericht wies den Antrag mit Beschluss vom 8. März 2019 zurück. Die Seite\ndürfe schon deshalb gesperrt und gelöscht werden, weil die Äußerung jedenfalls in der\nBundesrepublik Deutschland nach dem Netzwerkdurchsetzungsgesetz rechtswidrig sei\nund die Antragsgegnerin gemäß § 1 Abs. 3 NetzDG in Verbindung mit § 130 StGB zur Ergreifung\nvon Maßnahmen verpflichtet gewesen sei. Der Verstoß gegen die Pflichten des\nPlattformbetreibers sei mit empfindlichen Geldbußen nach § 4 NetzDG belegt. Die genannten\nÄußerungen gäben dem Plattformbetreiber jedenfalls Anlass zur Prüfung des §\n130 StGB, da die Gruppe der „Asylanten“ als Bevölkerungsgruppe im Sinne des § 130\nStGB taugliches Angriffsobjekt einer Volksverletzung sei. Durch die Bezeichnung als artund\nkulturfremd sowie die Kombination mit dem „Dankbarkeit zeigen durch Gewalt und\nKriminalität“ werde diese Bevölkerungsgruppe in ihrer Menschenwürde angegriffen und\nböswillig verächtlich gemacht. Damit bestehe für die Antragsgegnerin zumindest die Gefahr\neiner Inanspruchnahme nach § 4 NetzDG, weshalb die Sperrung und auch die Löschung\ndes Beitrags verhältnismäßig seien.\n6\nAuch ein Anspruch auf Wiedereinräumung der Nutzung bestehe nicht, da eine Anspruchsgrundlage\nfür eine Pflicht der Antragsgegnerin zur erneuten Kontrahierung mit der\n4/10\nAntragstellerin und zur Veröffentlichung von Beiträgen nicht ersichtlich sei. Zwar spiele\ndie Antragsgegnerin als wohl bekanntestes soziales Netzwerk bei der Meinungsbildung\neine wichtige Rolle. Gleichwohl könne die Antragstellerin auch andere Formen der Meinungskundgabe\n- wie ihre Homepage im Internet, E-Mail, andere soziale Netzwerke oder\nandere Medienträger - nutzen.\n7\n2. Mit Beschluss vom 17. April 2019 wies das Oberlandesgericht die sofortige Beschwerde\nder Antragstellerin zurück. Nach dem Vortrag der Antragstellerin sei deren Internetauftritt\nbereits vor Einleitung des einstweiligen Rechtsschutzverfahrens endgültig gelöscht\nworden. Bei sachgerechter Auslegung des Rechtsschutzbegehrens sei dieses daher auf\ndie Neubegründung eines Rechts zur aktiven Nutzung der Plattform und auf Ausspruch\neines Verbotes gerichtet, den einzurichtenden Account in der Folgezeit aus denselben\nGründen zu sperren oder zu löschen.\n8\nDieser Antrag habe schon deshalb keinen Erfolg, weil er in unzulässiger Weise die\nHauptsache vorwegnehme. In der Sache begehre die Antragstellerin vorliegend die uneingeschränkte\nZurverfügungstellung eines Accounts zwecks öffentlicher Zugänglichmachung\nihrer politischen Werbung. Eine derartige Leistungsverfügung komme nur ganz\nausnahmsweise in Betracht, wenn sie zur Abwendung wesentlicher Nachteile unabweisbar\nerscheine. Dafür sei vorliegend nichts ersichtlich. Zwar sei die Antragstellerin eine politische\nPartei, die unter anderem für die Wahlen zum europäischen Parlament im Mai\n2019 um Wählerstimmen werbe. Das allein begründe für die Antragsgegnerin als privates\nUnternehmen - auch bei unterstellt marktbeherrschender Stellung in Deutschland - indes\nkeine Rechtspflicht, der Antragstellerin ein Forum zu eröffnen.\n9\n3. Mit ihrem Antrag auf Erlass einer einstweiligen Anordnung verfolgt die Antragstellerin\nihr Begehr fort. Sie rügt eine Verletzung ihrer Grundrechte und grundrechtsgleichen\nRechte aus Art. 5 Abs. 1, Art. 21 Abs. 1 Satz 1 i.V.m. Art. 3, Art. 2 Abs. 1, Art. 38 und Art.\n19 Abs. 4 GG.\n10\n4. Die Antragsgegnerin des Ausgangsverfahrens hat von ihrer durch das Bundesverfassungsgericht\neingeräumten Gelegenheit zur Stellungnahme Gebrauch gemacht.\nII.\n11\n1. Gemäß § 32 Abs. 1 BVerfGG kann das Bundesverfassungsgericht im Streitfall einen\nZustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer\nNachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund\nzum gemeinen Wohl dringend geboten ist. Bei der Prüfung, ob die Voraussetzungen des\n§ 32 Abs. 1 BVerfGG gegeben sind, ist wegen der weittragenden Folgen einer einstweili-\n5/10\ngen Anordnung regelmäßig ein strenger Maßstab anzulegen (vgl. BVerfGE 55, 1 <3>; 82,\n310 <312>; 94, 166 <216 f.>; 104, 23 <27>; 106, 51 <58>).\n12\nAls Mittel des vorläufigen Rechtsschutzes hat die einstweilige Anordnung auch im verfassungsgerichtlichen\nVerfahren die Aufgabe, die Schaffung vollendeter Tatsachen zu verhindern;\nsie soll auf diese Weise dazu beitragen, Wirkung und Bedeutung einer erst noch\nzu erwartenden Entscheidung in der Hauptsache zu sichern und zu erhalten (vgl.\nBVerfGE 42, 103 <119>). Deshalb bleiben die Gründe, die für die Verfassungswidrigkeit\nder angegriffenen Maßnahme vorgetragen werden, grundsätzlich außer Betracht, es sei\ndenn, die Hauptsache erwiese sich als von vornherein unzulässig oder offensichtlich unbegründet\n(vgl. BVerfGE 89, 38 <44>; 103, 41 <42>; 118, 111 <122>; stRspr). Ist der\nAusgang des Hauptsacheverfahrens offen, so hat das Bundesverfassungsgericht grundsätzlich\nlediglich im Rahmen einer Folgenabwägung die Nachteile abzuwägen, die einträten,\nwenn eine einstweilige Anordnung nicht erginge, die Verfassungsbeschwerde aber in\nder Hauptsache Erfolg hätte, gegenüber den Nachteilen, die entstünden, wenn die begehrte\neinstweilige Anordnung erlassen würde, der Verfassungsbeschwerde in der\nHauptsache aber der Erfolg zu versagen wäre (vgl. BVerfGE 105, 365 <371>; 106, 351\n<355>; 108, 238 <246>; 125, 385 <393>; 132, 195 <232 f. Rn. 87>; stRspr).\n13\n2. Nach diesen Maßstäben ist eine einstweilige Anordnung im aus dem Tenor ersichtlichen\nUmfang zu erlassen.\n14\na) Eine gegebenenfalls noch zu erhebende Verfassungsbeschwerde ist weder von vornherein\nunzulässig noch offensichtlich unbegründet. Es erscheint vielmehr nicht ausgeschlossen,\ndass die angegriffene Entscheidung des Oberlandesgerichts mit dem Grundgesetz\nunvereinbar ist, soweit dieses den Antrag auf Erlass einer einstweiligen\nAnordnung mit dem Ziel der Ermöglichung einer weiteren Nutzung des Internetangebots\nwww.facebook.com durch die Antragstellerin verneint hat.\n15\nDie angegriffenen Entscheidungen betreffen die Gewährung von einstweiligem Rechtsschutz\nin einem Rechtsstreit zwischen sich als Private gegenüberstehenden Parteien\nüber die Reichweite der zivilrechtlichen Befugnisse des Betreibers eines sozialen Netzwerks,\ndas innerhalb der Bundesrepublik Deutschland über erhebliche Marktmacht verfügt.\nNach ständiger Rechtsprechung des Bundesverfassungsgerichts können die Grundrechte\nin solchen Streitigkeiten im Wege der mittelbaren Drittwirkung Wirksamkeit\nentfalten (vgl. BVerfGE 7, 198 <205 f.>; 42, 143 <148>; 89, 214 <229>; 103, 89 <100>;\n137, 273 <313 Rn. 109>; stRspr). Dabei können sich aus Art. 3 Abs. 1 GG jedenfalls in\nspezifischen Konstellationen auch gleichheitsrechtliche Anforderungen für das Verhältnis\nzwischen Privaten ergeben (vgl. BVerfGE 148, 267 <283 f.>). Ob und gegebenenfalls\nwelche rechtlichen Forderungen sich insoweit auch für Betreiber sozialer Netzwerke im\nInternet - etwa in Abhängigkeit vom Grad deren marktbeherrschender Stellung, der Ausrichtung\nder Plattform, des Grads der Angewiesenheit auf eben jene Plattform und den\n6/10\nbetroffenen Interessen der Plattformbetreiber und sonstiger Dritter - ergeben, ist jedoch\nweder in der Rechtsprechung der Zivilgerichte noch in der Rechtsprechung des Bundesverfassungsgerichts\nabschließend geklärt. Die verfassungsrechtlichen Rechtsbeziehungen\nsind insoweit noch ungeklärt.\n16\nAuch ergibt sich aus den angegriffenen Entscheidungen nicht mit hinreichender Gewissheit,\ndass dem beanstandeten Beitrag bei Beachtung grundrechtlicher Maßstäbe ein\nstrafbarer Inhalt entnommen werden muss und sich die Sperrung des Beitrages sowie\ndes Nutzerkontos bereits hieraus rechtfertigen. Auch von daher wäre eine noch zu erhebende\nVerfassungsbeschwerde nicht offensichtlich unbegründet.\n17\nZur Entscheidung stehen damit schwierige Rechtsfragen, die im Verfahren des vorläufigen\nRechtsschutzes nicht entschieden werden können. Ihre Klärung ist - gegebenenfalls\nnach Durchführung eines Hauptsacheverfahrens vor den Fachgerichten - der Klärung in\nder Hauptsache vorbehalten. Es bedarf daher gemäß § 32 Abs. 1 BVerfGG einer Folgenabwägung.\n18\nb) Die Folgenabwägung geht zum Teil zugunsten der Antragstellerin aus. Die Folgen, die\neinträten, wenn der Antragstellerin eine Nutzung ihres Internetangebots auf Facebook\nversagt bliebe, sich später aber herausstellte, dass die Antragsgegnerin des Ausgangsverfahrens\nzur Wiedereröffnung des Zugangs hätte verpflichtet werden müssen, wiegen\nerheblich schwerer als die Folgen, die entstünden, wenn die Antragsgegnerin des Ausgangsverfahrens\neinstweilig zur Wiederherstellung des Zugangs verpflichtet würde, sich\nspäter aber herausstellte, dass die Sperrung beziehungsweise Zugangsverweigerung zu\nRecht erfolgt war. Dies gilt jedenfalls für den Zeitraum bis zur Durchführung der Wahl der\nAbgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland (Europawahl),\nfür den die Antragstellerin eine besondere Dringlichkeit in ihrem Antrag dargelegt\nhat.\n19\nDie Antragstellerin bedient sich des Angebots der Antragsgegnerin, das nach deren Werbeangaben\nvon über 30 Millionen Menschen in Deutschland monatlich genutzt wird, um\nihre politischen Auffassungen darzulegen und zu Ereignissen der Tagespolitik Stellung zu\nnehmen. Die Nutzung dieses von der Antragsgegnerin zum Zweck des gegenseitigen\nAustausches und der Meinungsäußerung eröffneten Forums ist für die Antragstellerin von\nbesonderer Bedeutung, da es sich um das von der Nutzerzahl her mit Abstand bedeutsamste\nsoziale Netzwerk handelt. Gerade für die Verbreitung von politischen Programmen\nund Ideen ist der Zugang zu diesem nicht ohne weiteres austauschbaren Medium\nvon überragender Bedeutung. Durch den Ausschluss wird der Antragstellerin eine wesentliche\nMöglichkeit versagt, ihre politischen Botschaften zu verbreiten und mit Nutzern\ndes von der Antragsgegnerin des Ausgangsverfahrens betriebenen sozialen Netzwerks\naktiv in Diskurs zu treten. Diese Möglichkeiten blieben ihr bei Nichterlass einer einstweiligen\nAnordnung verwehrt und würden dazu führen, dass die Wahrnehmbarkeit der An-\n7/10\ntragstellerin und ihrer Foren für diese Zeit in erheblichem Umfang beeinträchtigt wäre.\nDas gilt mit besonderer Dringlichkeit für den Zeitraum bis zum Abschluss der unmittelbar\nbevorstehenden Europawahl, an der die Antragstellerin als politische Partei mit einem gemäß\n§ 14 Abs. 1 Satz 1 EuWG vom Bundeswahlausschuss zugelassenen Wahlvorschlag\nteilnimmt und für den allein sie eine besondere Eilbedürftigkeit geltend macht.\n20\nDemgegenüber wird die Antragsgegnerin des Ausgangsverfahrens durch eine stattgebende\nEntscheidung lediglich verpflichtet, die von ihr aus freien Stücken eingegangene\nvertragliche Verpflichtung zur Verbreitung und Vorhaltung der von der Antragstellerin eingestellten\nAngebote vorläufig weiter zu erfüllen. Ihr entstehen durch die weitere Vorhaltung\ndes Angebots an sich insbesondere keine wirtschaftlichen Kosten, die über das mit\nder ordnungsgemäßen Vertragserfüllung gegenüber anderen Nutzern verbundene Maß\nhinausgehen. Die Privatautonomie der Antragsgegnerin des Ausgangsverfahrens wird\ndaher nur insoweit tangiert, als ihr eine Loslösung von der ursprünglich freiwillig eingegangenen\nVertragsbeziehung vorläufig verwehrt wird.\n21\nInsbesondere wird die Antragsgegnerin des Ausgangsverfahrens durch den Erlass einer\neinstweiligen Anordnung mit dem tenorierten Inhalt nicht dazu verpflichtet, rechtswidrige\noder gegen ihre Nutzungsbestimmungen verstoßende Beiträge ungeprüft vorhalten und\nverbreiten zu müssen. Denn ihr Recht und ihre Pflicht, einzelne Inhalte auf ihre Vereinbarkeit\nmit ihren Nutzungsbedingungen, den Rechten Dritter oder den Strafgesetzen zu\nprüfen und diese gegebenenfalls zu löschen, bleibt durch die vorläufige Bereitstellung\ndes Accounts aufgrund dieser Anordnung unberührt. Gegen etwaige Löschungsentscheidungen\nder Antragsgegnerin des Ausgangsverfahrens ist dann der Rechtsweg zu den Zivilgerichten\neröffnet, denen im Rahmen der Prüfungen vertraglicher oder quasivertraglicher\nAnsprüche der Antragstellerin dann auch die Prüfung obliegt, ob die Entscheidung\nder Antragsgegnerin des Ausgangsverfahren auch unter Berücksichtigung der besonderen\nUmstände des Einzelfalls mit der Werteordnung des Grundgesetzes vereinbar ist\n(vgl. BVerfGE 148, 267 <280 f., 283 f.>).\n22\nSeitens der Antragsgegnerin des Ausgangsverfahrens ist nicht konkret dargetan, dass\ndie Antragstellerin in der Vergangenheit wiederholt Anlass zu beanstandungswürdigen Inhalten\ngegeben hätte, die besonderen Überwachungs- und Bearbeitungsaufwand erwarten\nließe, der angesichts der großen Zahl der Nutzer und des daraufhin ausgerichteten\nGeschäftsbetriebs ins Gewicht fiele.\n23\n3. Im Übrigen bleibt der Antrag auf Erlass einer einstweiligen Anordnung ohne Erfolg.\nDenn die Antragstellerin hat nicht substantiiert dargetan, dass ihr durch die Sperrung des\nvon ihr genannten Beitrags weitere schwere Nachteile entstünden; insbesondere steht es\nihr frei, erneut Beiträge - unter Achtung der Strafgesetze, der Nutzungsbedingungen der\nAntragsgegnerin des Ausgangsverfahrens und entgegenstehender Rechte Dritter - in das\nsoziale Netzwerk einzustellen.\n8/10\n24\n4. Die Entscheidung über die Erstattung der Auslagen beruht auf § 34a Abs. 3 BVerfGG.\n25\nDiese Entscheidung ist unanfechtbar.\nMasing Paulus Christ\n9/10\nBundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom\n22. Mai 2019 - 1 BvQ 42/19\n\n"
+}

@@ -1,0 +1,683 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 286,
+            "start": 279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausdrucken",
+            "end": 405,
+            "start": 395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 442,
+            "start": 427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 580,
+            "start": 577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 642,
+            "start": 628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 844,
+            "start": 836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 908,
+            "start": 903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1024,
+            "start": 1016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 1083,
+            "start": 1072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1193,
+            "start": 1191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenkreis",
+            "end": 1227,
+            "start": 1216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 1367,
+            "start": 1359,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschlands",
+            "end": 1502,
+            "start": 1490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Postfilialen",
+            "end": 1570,
+            "start": 1558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1600,
+            "start": 1587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 1734,
+            "start": 1721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1782,
+            "start": 1772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 1875,
+            "start": 1869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktbeschreibung",
+            "end": 1941,
+            "start": 1922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2050,
+            "start": 2047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Liefergarantie",
+            "end": 2090,
+            "start": 2076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 2270,
+            "start": 2265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versandkostenfrei",
+            "end": 2352,
+            "start": 2335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 2436,
+            "start": 2433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rabatte",
+            "end": 2516,
+            "start": 2509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 2529,
+            "start": 2522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2577,
+            "start": 2575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2593,
+            "start": 2579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2654,
+            "start": 2647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzuführen",
+            "end": 2788,
+            "start": 2775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 2876,
+            "start": 2870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 3052,
+            "start": 3044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kosten",
+            "end": 3224,
+            "start": 3218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einfach",
+            "end": 3277,
+            "start": 3270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellt",
+            "end": 3386,
+            "start": 3378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 3471,
+            "start": 3465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3654,
+            "start": 3648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 3800,
+            "start": 3786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abschließen",
+            "end": 3863,
+            "start": 3852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3887,
+            "start": 3869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rouge",
+            "end": 3980,
+            "start": 3975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rabattgutscheine",
+            "end": 4002,
+            "start": 3986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4121,
+            "start": 4115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Seite",
+            "end": 4220,
+            "start": 4215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angerechnet",
+            "end": 4286,
+            "start": 4275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 4402,
+            "start": 4395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4495,
+            "start": 4489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 4740,
+            "start": 4734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hèrmes",
+            "end": 4868,
+            "start": 4862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gültig",
+            "end": 4936,
+            "start": 4929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5001,
+            "start": 4995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5118,
+            "start": 5112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5181,
+            "start": 5167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5317,
+            "start": 5314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Restguthaben",
+            "end": 5405,
+            "start": 5393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 5504,
+            "start": 5490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzubieten",
+            "end": 5674,
+            "start": 5664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einlösens",
+            "end": 5797,
+            "start": 5788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutscheincodes",
+            "end": 5968,
+            "start": 5954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenkgutscheine",
+            "end": 5992,
+            "start": 5974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6137,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einlösung",
+            "end": 6247,
+            "start": 6238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6417,
+            "start": 6411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wert",
+            "end": 6678,
+            "start": 6674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgezahlt",
+            "end": 6775,
+            "start": 6765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 6982,
+            "start": 6972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschenkgutscheinen",
+            "end": 7089,
+            "start": 7070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 7104,
+            "start": 7095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutschrift",
+            "end": 7285,
+            "start": 7275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktseite",
+            "end": 7355,
+            "start": 7343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 7445,
+            "start": 7441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 7471,
+            "start": 7453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 7490,
+            "start": 7472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hinweise",
+            "end": 7563,
+            "start": 7555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7920,
+            "start": 7915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8063,
+            "start": 8059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Illustrierten",
+            "end": 8125,
+            "start": 8112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 8391,
+            "start": 8385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freiwillig",
+            "end": 8444,
+            "start": 8434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichten",
+            "end": 8553,
+            "start": 8543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 8711,
+            "start": 8707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 8746,
+            "start": 8737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 8897,
+            "start": 8893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 9037,
+            "start": 9025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 9160,
+            "start": 9152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beiliegen",
+            "end": 9287,
+            "start": 9278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenservice",
+            "end": 9436,
+            "start": 9423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anliefert",
+            "end": 9651,
+            "start": 9642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüche",
+            "end": 9775,
+            "start": 9766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 9862,
+            "start": 9856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 10009,
+            "start": 10004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10023,
+            "start": 10016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 10136,
+            "start": 10124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10463,
+            "start": 10460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10701,
+            "start": 10698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Handlung",
+            "end": 11032,
+            "start": 11024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufwendungen",
+            "end": 11101,
+            "start": 11089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbunden",
+            "end": 11212,
+            "start": 11203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 11234,
+            "start": 11219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 11347,
+            "start": 11341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 11503,
+            "start": 11497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichbar",
+            "end": 11609,
+            "start": 11599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beizulegen",
+            "end": 11717,
+            "start": 11707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 11901,
+            "start": 11893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 11927,
+            "start": 11908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 12077,
+            "start": 12068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "München",
+            "end": 12369,
+            "start": 12362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbindlich",
+            "end": 12482,
+            "start": 12471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 12571,
+            "start": 12559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unwirksam",
+            "end": 12693,
+            "start": 12684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Impressum",
+            "end": 12719,
+            "start": 12710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 12729,
+            "start": 12720,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\n(1) Für die Geschäftsbeziehung zwischen dem Webshopanbieter, point-rouge (ladungsfähige Anschrift siehe Ende der AGB), und Ihnen als Kunde gelten ausschließlich die nachfolgenden Allgemeinen Geschäftsbedingungen in Ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Sie können unsere AGB unter http://www.point-rouge.de/agb/ einsehen, auf Ihren Computer herunterladen oder ausdrucken. \n§ 2 Bestellung und Vertragsschluss\n(1) Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar.\n(2) Sie bestellen in unserem Shop, indem Sie: Bestellvorgang\n(3) Nach dem Absenden erhalten Sie eine E-Mail, die den Empfang Ihrer Bestellung bei uns bestätigt und deren Einzelheiten aufführt (Empfangsbestätigung). Der Kaufvertrag kommt damit noch nicht zustande. Es wird nur bestätigt, dass wir Ihre Bestellung erhalten haben.\n(4) Der Kaufvertrag kommt erst durch den Versand der Ware oder eine separate E-Mail „Auftragsbestätigung“ zustande.\n(5) Die Bestell-/Vertragsdaten werden von uns gespeichert. Sollten Sie Ihre Bestell-/Vertragsdaten verlieren, senden wir Ihnen auf Nachfrage gerne eine Kopie dieser zu.\n§ 3 Liefergebiet und Kundenkreis\n(1) point-rouge liefert ausschließlich, wenn sich sowohl die Lieferadresse als auch die Rechnungsadresse innerhalb von Deutschland befindet. Die Lieferung erfolgt ab unserem Auslieferungslager an die von Ihnen angegebene Lieferadresse oder Packstation innerhalb Deutschlands. Ausgenommen ist die Lieferung an Postfachadressen und Postfilialen.\n§ 4 Preise und Versandkosten\n(1) Alle Preisangaben sind Endverbraucherpreise, beinhalten die gesetzliche Mehrwertsteuer und verstehen sich zuzüglich Versandkosten. Es gilt der Preis zum Zeitpunkt der Bestellung.\n(2) Bitte beachten Sie, dass Angebote in unserem Online Shop zeitlich befristet sein können. Einzelheiten ergeben sich aus der jeweiligen Produktbeschreibung. Trotz sorgfältiger Bevorratung kann es vorkommen, dass ein Artikel schneller als vorgesehen ausverkauft ist. Wir geben deshalb keine Liefergarantie.\n(3) Die entsprechenden Versandkosten werden dem Kunden im Bestellformular angegeben und sind vom Kunden zu tragen, soweit der Kunde nicht von seinem Widerrufsrecht Gebrauch macht. Ab einem Warenbestellwert von 29 EUR liefern wir an den Kunden versandkostenfrei. Liegt der Bestellwert einer Bestellung unter diesem Betrag, berechnen wir 3,95 EUR. Unter der Bestellsumme versteht sich die Zwischensumme abzüglich aller Rabatte.\n§ 5 Zahlung \n(1) Wir bieten Ihnen folgende Zahlungsarten an: Bezahlmethoden\n(2) Die Zahlung auf Rechnung und per Lastschrift ist möglich. Außerdem behalten wir uns zur Absicherung des Kreditrisikos vor, die von Ihnen erbetene Lieferung nicht gegen Rechnung durchzuführen.\n(3) Der Kunde kann die in seinem Nutzerkonto gespeicherte Zahlungsart jederzeit ändern.\n(4) Amazon Payments ermöglicht es Ihnen im Online-Shop von point-rouge (d. h. nicht bei Amazon direkt), die bei Amazon.de hinterlegten Zahlungsdaten zu nutzen, um zu bezahlen. Somit können Sie mit einem Amazon Payments-Konto im Online-Shop von point-rouge sicher einkaufen, ohne Ihre Zahlungsdaten offenlegen zu müssen und ohne zusätzliche Kosten. Bestellungen über Amazon Payments sind ganz einfach. Wenn Sie bereits ein Amazon.de-Kundenkonto haben, hat Amazon automatisch ein Amazon Payments-Konto erstellt. Dieses wird aktiviert, wenn Sie erstmals Amazon Payments für eine Bestellung nutzen. Dieses Konto ist mit Ihrem Amazon.de-Kundenkonto verknüpft, so dass Sie sofort mit der dort hinterlegten Zahlungsart - entweder per Bankeinzug oder mit Kreditkarte – bezahlen können. Wenn Sie eine Bestellung im Online-Shop von point-rouge aufgeben, werden Sie während des Bestellprozesses auf die Amazon Webseite weitergeleitet. Dort können sie sich einloggen und die Bestellung abschließen.\n§ 6 Eigentumsvorbehalt\nBis zur vollständigen Bezahlung verbleiben die gelieferten Waren im Eigentum von point-rouge.\n§ 7 Rabattgutscheine\n(1) Der Rabattgutschein kann für den Kauf über unsere Webseite point-rouge.de vertriebene Produkte eingesetzt werden.\n(2) Die Einlösung erfolgt durch Eingabe des Gutscheincodes auf der Checkout (Kaufabschluss) Seite. Der Gutscheinwert wird dabei auf den Rechnungsbetrag angerechnet. Bitte achten Sie darauf, nach der Eingabe der Gutscheincodes den roten Bestätigungsbutton mit dem Pfeil zu klicken. Der Rabatt wir andernfalls nicht angewendet und kann auch nicht nachträglich gewährt werden.\n(3) Der Rabattgutschein kann bestimmten Beschränkungen und/oder Begrenzungen unterliegen, beispielsweise in Bezug auf die Benutzung des Gutscheins für bestimmte Produktgruppen, auch können zeitliche und/oder mengenmäßige Beschränkungen gelten.\n(4) Rabattgutscheine sind generell nicht anwendbar auf den Kauf von Produkten der Marken Azzaro, Clarins,  Mugler sowie Hèrmes.\n(5) Jeder Rabattgutschein ist für einen Nutzer nur einmal gültig.\n(6) Je Bestellung kann nur ein Rabattgutschein eingelöst werden. Ein Rabattgutschein kann nicht gemeinsam mit einem Sonderangebot oder einem weiteren Rabattgutschein genutzt werden.\n(7) Eine Barauszahlung des Gutscheinwertes ist ausgeschlossen.\n(8) Im Falle einer Bestelländerung verfällt der eingesetzte Rabattgutschein, so dass der ursprüngliche Gesamtbetrag zu entrichten ist. Übersteigt der Gutscheinwert den Rechnungsbetrag, verfällt das eventuelle Restguthaben. Eine Barauszahlung des (Rest-)Wertes des Rabattgutscheines ist auch in diesem Fall ausgeschlossen.\n(9) Rabattgutscheine dürfen nicht veräußert werden, insbesondere ist es nicht gestattet, den Gutschein auf sogenannten Internet Auktionsplattformen zum Kauf anzubieten. In dieser Form erworbene Gutscheine verlieren ihre Gültigkeit und befreien point-rouge GmbH von der Pflicht des Einlösens.\n(10) point-rouge GmbH übernimmt keine Haftung bei Missbrauch, Diebstahl oder für die verzögerte Übermittlung (z.B. wegen technischer Schwierigkeiten) des Gutscheincodes.\n§ 8 Geschenkgutscheine\n(1) point-rouge Geschenkgutscheine können nicht auf Rechnung erworben und auch nicht zum Kauf von weiteren Geschenkgutscheinen eingesetzt werden.\n(2) Bei Verwendung von Geschenkgutscheinen ist maßgeblich das jeweilige Guthaben zum Zeitpunkt der Einlösung. Überschreitet der Wert der Bestellung den Wert der eingesetzten Gutscheine, kann der Differenzbetrag bequem über eine der unter § 5 genannten Zahlarten beglichen werden.\n(3) Wird gekaufte Ware zurückgenommen, die ganz oder teilweise mit Geschenkgutscheinen bezahlt wurde, erfolgt die Erstattung des Teils des Kaufpreises, der auf eine Zahlung mit Gutscheinen entfällt, durch Ausgabe eines neuen Gutscheines in entsprechendem Wert.\n(4) Das Guthaben auf Geschenkgutscheinen wird nicht verzinst und nicht gegen Bargeld ausgezahlt.\n(5) Ist eine Zahlung aufgrund einer technischen Störung nicht möglich, bleibt es point-rouge für die Dauer von maximal einer Woche vorbehalten, eine Zahlung mit Geschenkgutscheinen vorübergehend abzulehnen.\n(6) point-rouge übernimmt keine Haftung bei Verlust, Entwendung oder Unlesbarkeit von Geschenkgutscheinen.\n§ 9 Lieferung\nSoweit nicht anders vereinbart oder am Artikel anders angegeben ist, liefern wir innerhalb von 2–4 Werktagen nach Erhalt Ihrer Bestellung bzw. nach  Zahlungseingang oder Gutschrift. Eventuelle Ausnahmen entnehmen Sie bitte der jeweiligen Produktseite. Kann die Lieferzeit nicht eingehalten werden, informieren wir Sie automatisch per E-Mail. \n§ 10 Widerrufsbelehrung\nWiderrufsbelehrung\n§ 11 Ausschluss des Widerrufsrechts, Kosten der Rücksendung und Hinweise\n(1) Das Widerrufsrecht besteht nicht bei Fernabsatzverträgen: zur Lieferung von Waren, die nach Kundenspezifikation angefertigt werden oder eindeutig auf die persönlichen Bedürfnisse zugeschnitten sind oder die aufgrund ihrer Beschaffenheit nicht für eine Rücksendung geeignet sind oder schnell verderben können oder deren Verfallsdatum überschritten wurde; zur Lieferung von Audio- und Videoaufzeichnungen oder von Software, sofern die gelieferten Datenträger vom Verbraucher entsiegelt worden sind; zur Lieferung von Zeitungen, Zeitschriften und Illustrierten.\n(2) Um Ihnen die Rücksendung zu erleichtern, können Sie sich mit unserem Kundenservice telefonisch unter 0800 411 4111 in Verbindung setzen und sich einen Retourenschein per Post oder E-Mail zusenden lassen, den Sie für eine kostenlose Rücksendung verwenden können. Die Verwendung eines Retourenscheins ist freiwillig. Wir bitten Sie aber höflich, auf unfreie Rücksendung der Ware im Rahmen Ihres Widerrufsrechts zu verzichten. Bitte beachten Sie, dass bei Wahl einer unnötig teuren Versandart ein Anspruch auf Zahlung der Differenz zu einer Rücksendung auf dem Postweg entstehen kann.\n§ 12 Gewährleistung und Garantien\n(1) Das Widerrufsrecht gemäß Ziffer 9 berührt nicht Ihr Recht auf Gewährleistung wegen mangelhafter oder nicht der bestellten Ware entsprechender Ware. Sollte die von uns gelieferte Ware einen Mangel aufweisen oder nicht der bestellten Ware entsprechen, gelten die gesetzlichen Bestimmungen.\n(2) Sollten für Produkte besondere Garantien gelten, bleiben Ihre gesetzlichen Mängelansprüche davon unbeschadet bestehen. Der Ansprechpartner für die jeweilige Garantie wird in den Garantiebestimmungen genannt, die dem bestellten Produkt beiliegen. Haben Sie diese Bestimmungen nicht zur Hand oder handelt es sich nicht um einen technischen Artikel, wenden Sie sich bitte an unseren Kundenservice.\n(3) Sollten gelieferte Artikel offensichtliche Material-, Herstellungsfehler oder Transportschäden aufweisen, so melden Sie bitte solche Fehler sofort gegenüber uns oder dem Transporteur, der die Artikel anliefert. Eine Verpflichtung des Kunden hierzu besteht nicht und ist auch nicht Voraussetzung für die Geltendmachung Ihrer Ansprüche. Allerdings können wir ansonsten keine Ansprüche gegen den Transporteur geltend machen. Die Einhaltung der vorstehenden Regelung berührt Ihre gesetzlichen Ansprüche nicht, soweit Sie zu privaten Zwecken als Verbraucher bestellt haben.\n§ 13 Haftung\n(1) point-rouge haftet in Fällen des Vorsatzes oder der groben Fahrlässigkeit nach den gesetzlichen Bestimmungen. Im Übrigen haftet point-rouge nur nach dem Produkthaftungsgesetz, wegen der Verletzung des Lebens, des Körpers oder der Gesundheit oder wegen der schuldhaften Verletzung wesentlicher Vertragspflichten, oder soweit point-rouge den Mangel arglistig verschwiegen oder eine Garantie für die Beschaffenheit der Ware übernommen hat. Der Schadensersatzanspruch für die Verletzung wesentlicher Vertragspflichten ist jedoch auf den vertragstypischen vorhersehbaren Schaden begrenzt, soweit nicht zugleich ein weiterer Fall zwingender Haftung nach Satz 1 oder 2 gegeben ist.\n(2) Die Regelungen des vorstehenden Absatzes gelten für alle Schadensersatzansprüche (insbesondere für Schadensersatz neben der Leistung und Schadensersatz statt der Leistung), und zwar gleich aus welchem Rechtsgrund, insbesondere wegen Mängeln, der Verletzung von Pflichten aus dem Schuldverhältnis oder aus unerlaubter Handlung. Sie gilt auch für den Anspruch auf Ersatz vergeblicher Aufwendungen.\n(3) Eine Änderung der Beweislast zum Nachteil des Käufers ist mit den vorstehenden Regelungen nicht verbunden.\n§ 14 Streitbeilegung\nSeit dem 15. Februar 2016 stellt die EU-Kommission eine Plattform für außergerichtliche Streitschlichtung bereit. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link http://ec.europa.eu/consumers/odr/ erreichbar.\npoint-rouge ist bemüht, eventuelle Meinungsverschiedenheiten aus unserem Vertrag einvernehmlich beizulegen. Darüber hinaus ist point-rouge zu einer Teilnahme an einem Schlichtungsverfahren nicht verpflichtet und kann Ihnen die Teilnahme an einem solchen Verfahren leider auch nicht anbieten.\n§ 15 Schlussbestimmungen\n(1) Auf Verträge zwischen der point-rouge und den Kunden findet das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts Anwendung.\n(2) Sofern es sich beim Kunden um einen Kaufmann, eine juristische Person des öffentlichen Rechts oder um ein öffentlich-rechtliches Sondervermögen handelt, ist Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen dem Kunden und der point-rouge der Gerichtsstand München.\n(3) Der Vertrag bleibt auch bei rechtlicher Unwirksamkeit einzelner Punkte in seinen übrigen Teilen verbindlich. Anstelle der unwirksamen Punkte treten, soweit vorhanden, die gesetzlichen Vorschriften. Soweit dies für eine Vertragspartei eine unzumutbare Härte darstellen würde, wird der Vertrag jedoch im Ganzen unwirksam.\n§ 16 Anschrift/Impressum\nAnschrift\n\n"
+}

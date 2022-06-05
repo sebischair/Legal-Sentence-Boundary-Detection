@@ -1,0 +1,695 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitgenossen",
+            "end": 151,
+            "start": 137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 163,
+            "start": 152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 179,
+            "start": 177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 189,
+            "start": 180,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 443,
+            "start": 442,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 453,
+            "start": 452,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 479,
+            "start": 478,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 809,
+            "start": 808,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 819,
+            "start": 818,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 845,
+            "start": 844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreien",
+            "end": 1233,
+            "start": 1225,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1243,
+            "start": 1242,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1269,
+            "start": 1268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1281,
+            "start": 1270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Emittent",
+            "end": 1496,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1507,
+            "start": 1497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7323",
+            "end": 1526,
+            "start": 1522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1532,
+            "start": 1527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 1631,
+            "start": 1628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1639,
+            "start": 1633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1641,
+            "start": 1640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1644,
+            "start": 1643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 1959,
+            "start": 1952,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2072,
+            "start": 2071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2075,
+            "start": 2074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wohnhaft",
+            "end": 2159,
+            "start": 2151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 2367,
+            "start": 2360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 2496,
+            "start": 2490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landshut",
+            "end": 2569,
+            "start": 2561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2572,
+            "start": 2571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fondsgesellschaft",
+            "end": 2890,
+            "start": 2873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezeichnet",
+            "end": 3016,
+            "start": 3006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwesend",
+            "end": 3107,
+            "start": 3099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Falschberatung",
+            "end": 3213,
+            "start": 3199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 3336,
+            "start": 3328,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3689,
+            "start": 3688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 3774,
+            "start": 3764,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3914,
+            "start": 3913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrages",
+            "end": 4102,
+            "start": 4094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4105,
+            "start": 4104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 4235,
+            "start": 4228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4368,
+            "start": 4362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unklar",
+            "end": 4542,
+            "start": 4536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stilllegen",
+            "end": 4733,
+            "start": 4723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 4877,
+            "start": 4870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5009,
+            "start": 5003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sittenwidrig",
+            "end": 5116,
+            "start": 5104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzurechnen",
+            "end": 5176,
+            "start": 5165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 5390,
+            "start": 5382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5393,
+            "start": 5392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 5523,
+            "start": 5514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5526,
+            "start": 5525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "äußern",
+            "end": 5708,
+            "start": 5702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5711,
+            "start": 5710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5967,
+            "start": 5964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6137,
+            "start": 6131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 6158,
+            "start": 6154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargestellt",
+            "end": 6296,
+            "start": 6285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6299,
+            "start": 6298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingegangen",
+            "end": 6341,
+            "start": 6330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 6345,
+            "start": 6343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6348,
+            "start": 6347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 6705,
+            "start": 6700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6709,
+            "start": 6707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6820,
+            "start": 6817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 6824,
+            "start": 6822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 6962,
+            "start": 6954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7118,
+            "start": 7115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 7269,
+            "start": 7268,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7507,
+            "start": 7506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7511,
+            "start": 7509,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7863,
+            "start": 7862,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8038,
+            "start": 8037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8042,
+            "start": 8040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bilden",
+            "end": 8270,
+            "start": 8264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszulegen",
+            "end": 8320,
+            "start": 8310,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8533,
+            "start": 8532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 8537,
+            "start": 8535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befreien",
+            "end": 8763,
+            "start": 8755,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9339,
+            "start": 9338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9343,
+            "start": 9341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 9525,
+            "start": 9518,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9996,
+            "start": 9995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10000,
+            "start": 9998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 10173,
+            "start": 10168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10177,
+            "start": 10175,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10739,
+            "start": 10738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 10986,
+            "start": 10981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10990,
+            "start": 10988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streitgegenständlich",
+            "end": 11241,
+            "start": 11221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 11524,
+            "start": 11517,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11667,
+            "start": 11666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fallkonstellation",
+            "end": 11828,
+            "start": 11811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 11832,
+            "start": 11830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 12005,
+            "start": 12000,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12254,
+            "start": 12253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 12258,
+            "start": 12256,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12343,
+            "start": 12342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12503,
+            "start": 12500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12507,
+            "start": 12505,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13017,
+            "start": 13016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 13021,
+            "start": 13019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Falschberatung",
+            "end": 13131,
+            "start": 13117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prospekt",
+            "end": 13273,
+            "start": 13265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 13322,
+            "start": 13317,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13498,
+            "start": 13497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausreichend",
+            "end": 13855,
+            "start": 13844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 13859,
+            "start": 13857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Emittentin",
+            "end": 14344,
+            "start": 14334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 14348,
+            "start": 14346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 14796,
+            "start": 14787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 14800,
+            "start": 14798,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14989,
+            "start": 14988,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BayObLG München, Beschluss v. 30.04.2019 – 1 AR 15/19\nTitel:\nVoraussetzungen für die Bestimmung des zuständigen Gerichts bei Klage gegen\nStreitgenossen\nNormenkette:\nZPO § 36, § 60\nLeitsätze:\n1. Gegen einen Antragsgegner, dem kein rechtliches Gehör gewährt werden kann, weil er\nunbekannten Aufenthalts ist, kommt aus diesem Grund eine Zuständigkeitsbestimmung nach § 36\nAbs. 1 Nr. 6 ZPO nicht in Betracht (so auch BayObLG BeckRS 2003, 30313585). (Rn. 11)\n(redaktioneller Leitsatz)\n2. Die Bestimmung in § 36 Abs. 1 Nr. 3 ZPO ist im Grundsatz nur dann anwendbar, wenn für mehrere\nals Streitgenossen im allgemeinen Gerichtsstand zu verklagende Personen hinsichtlich sämtlicher\nKlagegründe kein gemeinschaftlicher allgemeiner oder besonderer Gerichtsstand im Inland gegeben\nist (so auch OLG Hamm BeckRS 2018, 1296). (Rn. 15) (redaktioneller Leitsatz)\n3. Die gegen Anlagevermittler und Fondsgesellschaft gerichteten Ansprüche wegen einer zur\nKündigung der Beteiligung berechtigenden, nicht ordnungsgemäßen Aufklärung über für die\nAnlageentscheidung wesentliche Umstände sind ihrem Inhalt nach gleichartig im Sinne von § 60\nZPO, weil sie jeweils darauf gerichtet sind, den Treugeber von den Folgen seines (mittelbaren)\nBeitritts zu befreien. (Rn. 14) (redaktioneller Leitsatz)\nSchlagworte:\nRückabwicklung, Publikums-KG, Gerichtsstandstbestimmung, gemeinsamer Gerichtsstand, besonderer\nGerichtsstand, Fondsgesellschaft, Falschberatung, Prospektfehler, Bestimmungsverfahren,\nStreitgenossenschaft, Emittent\nFundstelle:\nBeckRS 2019, 7323\nTenor\nDie Voraussetzungen für eine Zuständigkeitsbestimmung gemäß § 36 Abs. 1 Nr. 3 ZPO liegen nicht vor.\nGründe\nI.\n1\nDer im Landgerichtsbezirk Chemnitz wohnhafte Antragsteller macht mit seiner am 6. Februar 2019 bei dem\nLandgericht Landshut eingegangenen, soweit ersichtlich noch nicht zugestellten, Klage Ansprüche aus\neigenem Recht und Ansprüche seiner Ehefrau aus abgetretenem Recht - teilweise im Wege der\nStufenklage - geltend. Er begehrt Rückabwicklung mehrerer (mittelbarer) Beteiligungen an einer Publikums\nKG, der Antragsgegnerin zu 4).\n2\nDie Antragsgegner zu 1) und zu 2) sind im Bezirk des Landgerichts Chemnitz wohnhaft. Für den\nAntragsgegner zu 3) hat der Antragsteller eine Adresse im Bezirk des Landgerichts Dresden angegeben\nund ausgeführt, in Parallelverfahren sei die Zustellung an verschiedene Adressen erfolglos gewesen; der\nAntragsgegner zu 3) habe seinen allgemeinen Gerichtsstand am Sitz der Rechtsanwälte, die ihn bislang\nimmer vertreten hätten. Die Antragsgegnerin zu 4) hat ihren Sitz im Landgerichtsbezirk Landshut.\n3\nNach dem Klagevortrag erwarb die Ehefrau des Antragstellers am 11. und 25. Februar 2009 jeweils\naufgrund einer von der Antragsgegnerin zu 1) und dem Antragsgegner zu 2) am selben Tag in der\nWohnung des Antragstellers und seiner Ehefrau durchgeführten Beratung eine treuhänderische Beteiligung\nan der Fondsgesellschaft. Weitere Beteiligungen wurden von dem Antragsteller und seiner Ehefrau am 13.\nOktober 2009 und am 9. November 2009 gezeichnet; bei diesen Terminen war nach dem Klagevortrag wohl\nnur die Antragsgegnerin zu 1) anwesend. Von den Antragsgegnern zu 1) und 2) verlangt der Antragsteller\nSchadensersatz wegen ihrer Falschberatung. Der Antragsgegner zu 3) wird als Gründungsgesellschafter\nund „Geschäftsführer der Fondsgesellschaft“ in Anspruch genommen. Ausweislich des vom Antragsteller\nals Anlage K 3 vorgelegten Prospekts vom 5. Dezember 2007 in der Fassung vom 8. September 2008 war\nder Antragsgegner zu 3) Kommanditist (Seite 67 des Prospekts) sowie Geschäftsführer der\nProspektverantwortlichen, der Komplementärin der Fondsgesellschaft, deren Sitz in Dresden angegeben\nwurde (Seite 39 des Prospekts); auf Seite 77 des Prospekts wird er als „geschäftsführender Kommanditist“\nbezeichnet. Der Antragsgegner zu 3) war ausweislich des Prospekts ferner Geschäftsführer der Emittentin\nund Fondsgesellschaft (Seite 66 des Prospekts). Von der Antragsgegnerin zu 4) begehrt der Antragsteller\ninsbesondere im Wege der Stufenklage Auskunft über den Wert der Beteiligungen zum 31. Dezember 2018\nund Auszahlung dieses Betrages.\n4\nDer Antragsteller macht geltend, die Beratung durch die Antragsgegner zu 1) und zu 2) sei weder anlegernoch\nanlagegerecht gewesen. Insbesondere sei über die vielfältigen, im Fondsprospekt dargestellten\nRisiken der Kapitalanlage nicht zutreffend aufgeklärt worden. Der Prospekt, der nicht übergeben worden,\naber Grundlage der Beratung gewesen sei, sei hinsichtlich der Folgen einer Sonderkündigung bzw.\nStilllegung der Beteiligung unklar. Dem Anleger werde suggeriert, er könne - ohne größere Nachteile - den\nFonds nach 10 Jahren kündigen bzw. die Beteiligung im Fall von Ratenzahlungen nach Einzahlung von\n3.600,00 € stilllegen. Tatsächlich führten die beiden Beendigungsmöglichkeiten fast zwangsläufig dazu,\ndass die Anleger einen sicheren Verlust in Kauf nehmen müssten. Auf diese Prospektfehler seien der\nAntragsteller und seine Ehefrau von den Antragsgegnern zu 1) und zu 2) nicht hingewiesen worden. Die\nüberlange Laufzeit des Fonds verbunden mit dem Ausschluss der ordentlichen Kündigung sei sittenwidrig.\nDie Falschberatung sei dem Antragsgegner zu 3) zuzurechnen. Die Antragsgegnerin zu 4) werde als\nFondsgesellschaft auf Grund sittenwidrigen Gesellschaftsvertrags beziehungsweise außerordentlicher\nKündigung wegen Falschberatung beziehungsweise Widerrufs in Anspruch genommen.\n5\nDer Antragsteller hat Antrag auf Bestimmung des zuständigen Gerichts gestellt und angeregt, das\nLandgericht Landshut zu bestimmen.\n6\nDie Antragsgegner zu 1), 2) und 4) sowie die für den Antragsgegner zu 3) vom Antragsteller angegebenen\nRechtsanwälte haben Gelegenheit erhalten, sich zum Bestimmungsantrag zu äußern.\n7\nDie Antragsgegner zu 1) und zu 2) sind der Meinung, der Antrag sei zurückzuweisen, weil für den\nRechtsstreit insgesamt am Ort der Beratung, der im Landgerichtsbezirk Chemnitz liege, der besondere\nGerichtsstand des Erfüllungsorts gemäß § 29 ZPO gegeben sei. Eine Zuständigkeit des Landgerichts\nLandshut nach § 32b Abs. 1 ZPO könne erst bei schlüssigem Vortrag des Antragstellers zu angeblichen\nProspektfehlern begründet werden. Daran fehle es hier; das Risiko der Stilllegung der Beteiligung und der\nAusübung des Sonderkündigungsrechts sei im Prospekt auf den Seiten 18 ff. dargestellt.\n8\nWeitere Äußerungen sind nicht eingegangen.\nII.\n9\n1. Das Bayerische Oberste Landesgericht ist das nach § 36 Abs. 2 ZPO i. V. m. § 9 EGZPO für das\nBestimmungsverfahren zuständige Gericht, weil die Antragsgegner ihren jeweiligen allgemeinen\nGerichtsstand (§§ 12, 13, 17 ZPO) in verschiedenen Oberlandesgerichtsbezirken (Dresden und München)\nhaben und das zuerst mit der Sache befasste Gericht in Bayern liegt.\n10\n2. Die Voraussetzungen für die Bestimmung des zuständigen Gerichts nach § 36 Abs. 1 Nr. 3 ZPO liegen\nnicht vor.\n11\na) Hinsichtlich des Antragsgegners zu 3) kommt eine Zuständigkeitsbestimmung nach § 36 Abs. 1 Nr. 3\nZPO derzeit ohnehin nicht in Betracht. Da eine Zustellung an den Antragsgegner zu 3) unter verschiedenen\nAnschriften nicht möglich war, ist davon auszugehen, dass er unbekannten Aufenthalts ist. Entgegen der\nAnsicht des Antragstellers hat er seinen allgemeinen Gerichtsstand nicht am Sitz der Rechtsanwaltskanzlei,\ndie „ihn immer vertreten hat“. Da sich für den Antragsgegner zu 3) bislang kein Rechtsanwalt bestellt hat,\nkann ihm kein rechtliches Gehör gewährt werden, was einer Bestimmung entgegensteht (vgl. BayObLG,\nBeschluss vom 27. März 2003, 1Z AR 28/03, MDR 2003, 893 Rn. 9).\n12\nb) Die Antragsgegner zu 1), 2) und 4), die ihren allgemeinen Gerichtsstand bei verschiedenen Gerichten\nhaben, sind zwar nach dem im Bestimmungsverfahren maßgeblichen (Schultzky in Zöller, ZPO, 32. Aufl.\n2018, § 36 Rn. 28), insoweit auch schlüssigen Vortrag des Antragstellers hinsichtlich der geltend\ngemachten Ansprüche Streitgenossen (§§ 59, 60 ZPO). Auf die Schlüssigkeit der Klage im Übrigen kommt\nes nicht an (BayObLG, Beschluss vom 28. Oktober 1997, 1Z AR 74/97, NJW-RR 1998, 1291; Schultzky in\nZöller, ZPO, § 36 Rn. 28).\n13\nStreitgenossenschaft nach § 60 ZPO setzt voraus, dass gleichartige und auf einem im Wesentlichen\ngleichartigen tatsächlichen und rechtlichen Grund beruhende Ansprüche oder Verpflichtungen den\nGegenstand des Rechtsstreits bilden. Die Vorschrift ist grundsätzlich weit auszulegen. Es genügt, dass die\nAnsprüche in einem inneren sachlichen Zusammenhang stehen, der sie ihrem Wesen nach als gleichartig\nerscheinen lässt (auch BGH, Beschluss vom 6. Juni 2018, X ARZ 303/18, MDR 2018, 951 Rn. 12).\n14\nDie gegen die Anlagevermittler und die Fondsgesellschaft gerichteten Ansprüche sind ihrem Inhalt nach\ngleichartig, weil sie jeweils darauf gerichtet sind, die Treugeber von den Folgen ihres (mittelbaren) Beitritts\nzu befreien. Maßgeblicher Anknüpfungspunkt des Klagevorbringens ist die nicht ordnungsgemäße\nAufklärung über die für die Anlageentscheidung wesentlichen Umstände, die einen Treugeber, der einem\nGesellschafter einer Personengesellschaft aufgrund der Regelungen im Treuhand- und im\nGesellschaftsvertrag gleichgestellt ist, berechtigt, die Beteiligung durch Kündigung gegenüber der\nGesellschaft zu beenden, und die zu Schadensersatzansprüchen führen kann (vgl. BGH, Beschluss vom\n24. Februar 2015, II ZR 104/13, Rn. 26 und 33 juris; Urt. v. 30. März 2017, III ZR 139/15, WM 2017, 800 Rn.\n9).\n15\nc) Die Voraussetzungen für eine Gerichtsstandsbestimmung gemäß § 36 Abs. 1 Nr. 3 ZPO liegen jedoch\nnicht vor, da am Landgericht Landshut ein gemeinschaftlicher Gerichtsstand besteht. Denn § 36 Abs. 1 Nr.\n3 ZPO ist im Grundsatz, d. h. von - hier nicht gegebenen - Sonderfällen abgesehen, nur dann anwendbar,\nwenn für mehrere als Streitgenossen im allgemeinen Gerichtsstand zu verklagende Personen hinsichtlich\nsämtlicher Klagegründe kein gemeinschaftlicher allgemeiner oder besonderer Gerichtsstand im Inland\ngegeben ist (OLG Hamm, Beschluss vom 16. Januar 2018, I-32 SA 57/17, FamRZ 2018, 931/932, juris Rn.\n7; Schulzky in Zöller, ZPO, § 36 ZPO Rn. 23).\n16\n1) Ein gemeinsamer besonderer Gerichtsstand am Erfüllungsort (§ 29 Abs. 1 ZPO) besteht allerdings\nentgegen der von den Antragsgegnern zu 1) und 2) vertretenen Ansicht nicht.\n17\nSchadensersatz wegen Verletzung einer auf Vertrag beruhenden primären Beratungspflicht einerseits und\nwegen vorvertraglichen Aufklärungsverschuldens andererseits ist jeweils an dem Ort zu erbringen, an dem\ndie verletzte primäre Leistungspflicht bzw. die Hauptleistungspflicht zu erfüllen waren (vgl. BGH, Urt. v. 7.\nNovember 2012, VIII ZR 108/12, BGHZ 195, 243 Rn. 14; BGH, Beschluss vom 7. Januar 2014, X ARZ\n578/13, ZIP 2014, 243 Rn. 13 Schultzky in Zöller, ZPO, § 29 Rn. 25 Stichworte „Schadensersatz“,\n„Nebenpflicht“ und „culpa in contrahendo“, je m. w. N.). Die Hauptpflicht im Vertragsverhältnis zu den\nAntragsgegnern zu 1) und zu 2), die Beratungspflicht, ist am Ort der Beratung zu erbringen (Schultzky in\nZöller, ZPO, § 29 Rn. 25 „Anlageberatung“), der hier im Bezirk des Landgerichts Chemnitz liegt.\n18\nAnders als in der von den Antragsgegnern zu 1) und zu 2) zitierten Entscheidung des Oberlandesgerichts\nZweibrücken (Beschluss vom 1. Dezember 2011, 2 AR 29/11, Rn. 3 juris) sind hier außerdem Ansprüche\ngegen die Fondsgesellschaft streitgegenständlich. Gegen die Antragsgegnerin zu 4) wird im Wege der\nStufenklage ein Anspruch auf Zahlung eines nach den Regeln des Gesellschaftsvertrags oder - soweit der\nGesellschaftsvertrag keine Regelungen enthält - den gesetzlichen Bestimmungen zu berechnenden\nAbfindungsguthabens geltend gemacht. Für diesen Anspruch ist Leistungsort am Sitz der Gesellschaft\n(BayObLG, Beschluss vom 10. Mai 1996, 1Z AR 28/96, DB 1996, 1818, juris Rn. 11). Die Entscheidung des\nOberlandesgerichts Hamm (Beschluss vom 13. November 2006, 8 U 139/06, NJW-RR 2007, 478, juris Rn.\n13) betraf eine andere Fallkonstellation.\n19\n2) Ein gemeinsamer besonderer Gerichtsstand nach § 29c ZPO kommt schon deshalb nicht in Betracht,\nweil der Antragsteller auch Ansprüche aus abgetretenem Recht geltend macht. § 29c ZPO gewährt jedoch\nein Forum für eine bestimmte Person (Verbraucher) und nicht für den Anspruch selbst (BGH, Beschluss\nvom 18. November 2009, IV ZR 36/09, VersR 2010, 645 Rn. 5; vgl. Hüßtege in Thomas/Putzo, ZPO, 40.\nAufl. 2019, § 29c Rn. 3).\n20\n3) Es besteht jedoch ein gemeinsamer Gerichtsstand am Sitz der Antragsgegnerin zu 4). Für die\nAntragsgegner zu 1) bis 3) besteht am allgemeinen Gerichtsstand der Antragsgegnerin zu 4) der\ngemeinsame besondere Gerichtsstand nach § 32b Abs. 1 ZPO.\n21\nFür Schadensersatzansprüche gegen die Antragsgegner zu 1) und 2) gilt § 32b Abs. 1 Nr. 2 ZPO. Soweit\nder Antragsteller seine Ansprüche darauf stützt, unter Verletzung der jeweiligen vertraglichen Pflicht über\ndie im Prospekt umfangreich dargestellten Risiken nicht aufgeklärt worden zu sein, fehlt es zwar an dem\nerforderlichen Bezug zwischen dem geltend gemachten Schadensersatzanspruch und einer öffentlichen\nKapitalmarktinformation (BGH, Beschluss vom 8. Dezember 2015, X ARZ 573/15, NJW 2016, 1178 Rn. 10).\n22\nDer Antragsteller begründet seine Ansprüche aber auch mit einer auf Prospektfehlern beruhenden\nFalschberatung. Ohne Erfolg wenden die Antragsgegner zu 1) und 2) insoweit ein, die Folgen der\nSonderkündigung und Stilllegung ergäben sich aus dem Prospekt. Dies ist eine Frage der Begründetheit der\nKlage. Für die Frage des Gerichtsstandes genügt die Schlüssigkeit der insoweit als wahr zu unterstellenden\nBehauptungen (Toussaint in BeckOK ZPO, 32. Ed. 1. März 2019, § 32b Rn. 20). Der Klagevortrag, die im\nProspekt abgedruckten - und für den durchschnittlichen Anleger nicht verständlichen - Regelungen des\nGesellschaftsvertrags zur Laufzeit des Fonds und zum Sonderkündigungsrecht bzw. der Stilllegung der\nBeteiligung suggerierten dem Anleger, die Kündigung bzw. Stilllegung sei ohne größere Nachteile möglich,\nist insoweit ausreichend.\n23\nDie Klage wurde ferner zumindest gegen einen Beklagten auf eine der in § 32b Abs. 1 Nr. 1 ZPO\naufgeführten Handlungen gestützt (vgl. BGH, Beschluss vom 30. Juli 2013, X ARZ 320/13, NJW-RR 2013,\n1302 Rn. 28; Schultzky in Zöller, ZPO, § 32b Rn. 7b). Denn der Antragsteller nimmt den Antragsgegner zu\n3) als Gründungsgesellschafter und damit als Prospektverantwortlichen in Anspruch, auch wenn dessen\nAufenthalt derzeit unbekannt ist. Die Klage richtet sich außerdem gegen die Emittentin.\n24\nNach allgemeiner Meinung ist Emittent einer sonstigen Vermögensanlage derjenige, der sie erstmals auf\nden Markt bringt und für seine Rechnung unmittelbar oder durch Dritte öffentlich zum Erwerb anbietet (BGH,\nBeschluss vom 30. Juli 2013, X ARZ 320/13, Rn. 10, juris; Toussaint a .a. O. Rn. 14; Schultzky a. a. O. Rn.\n7a). Die Antragsgegnerin zu 4) ist nach dem Prospekt auch Emittentin, so dass deren Sitz den\nGerichtsstand des § 32b ZPO begründet.\n25\nDas nach § 32b ZPO zuständige Gericht ist zur umfassenden Entscheidung des Rechtsstreits untern allen\nin Betracht kommenden rechtlichen Gesichtspunkten zuständig (Schultzky a. a. O. Rn. 7).\n\n"
+}

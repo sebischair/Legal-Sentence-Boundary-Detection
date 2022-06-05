@@ -1,0 +1,539 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltung",
+            "end": 10,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegen",
+            "end": 214,
+            "start": 208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 350,
+            "start": 341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausführen",
+            "end": 600,
+            "start": 591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 836,
+            "start": 832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1007,
+            "start": 998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 1097,
+            "start": 1086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Feiertagen",
+            "end": 1251,
+            "start": 1241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstext",
+            "end": 1304,
+            "start": 1292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1463,
+            "start": 1455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 1584,
+            "start": 1577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 2028,
+            "start": 2022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abspeichern",
+            "end": 2203,
+            "start": 2192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abrufbar",
+            "end": 2325,
+            "start": 2317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2414,
+            "start": 2412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 2708,
+            "start": 2702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 2757,
+            "start": 2742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ganderkesee",
+            "end": 2935,
+            "start": 2924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 3025,
+            "start": 3016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3135,
+            "start": 3129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3260,
+            "start": 3258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 3356,
+            "start": 3346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3562,
+            "start": 3556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 3702,
+            "start": 3699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3838,
+            "start": 3836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 3976,
+            "start": 3973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 4122,
+            "start": 4114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 4280,
+            "start": 4274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preisbestandteile",
+            "end": 4433,
+            "start": 4416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schweiz",
+            "end": 4525,
+            "start": 4518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 4558,
+            "start": 4545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 4700,
+            "start": 4687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4796,
+            "start": 4794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 4844,
+            "start": 4838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 4867,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4917,
+            "start": 4915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Paypal",
+            "end": 4978,
+            "start": 4972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Speditionssendungen",
+            "end": 5071,
+            "start": 5052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wunschadresse",
+            "end": 5162,
+            "start": 5149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spedition",
+            "end": 5238,
+            "start": 5229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DHL",
+            "end": 5311,
+            "start": 5308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferadresse",
+            "end": 5466,
+            "start": 5453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5543,
+            "start": 5540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DHL",
+            "end": 5599,
+            "start": 5596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 5736,
+            "start": 5729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artikeldetailseiten",
+            "end": 5815,
+            "start": 5796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewalt",
+            "end": 6056,
+            "start": 6050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 6141,
+            "start": 6132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6373,
+            "start": 6369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6447,
+            "start": 6442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6727,
+            "start": 6723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherbestellungen",
+            "end": 6774,
+            "start": 6751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 6808,
+            "start": 6794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 6917,
+            "start": 6908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 6937,
+            "start": 6919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6956,
+            "start": 6938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 6971,
+            "start": 6957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6993,
+            "start": 6975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 7054,
+            "start": 7046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdemanagement",
+            "end": 7098,
+            "start": 7078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 7179,
+            "start": 7158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenzufriedenheit",
+            "end": 7229,
+            "start": 7210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wenden",
+            "end": 7317,
+            "start": 7311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "melden",
+            "end": 7477,
+            "start": 7471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 7587,
+            "start": 7581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeben",
+            "end": 7801,
+            "start": 7794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nach",
+            "end": 7893,
+            "start": 7889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterblieben",
+            "end": 8087,
+            "start": 8075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 8183,
+            "start": 8174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 8194,
+            "start": 8185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 8230,
+            "start": 8217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 8355,
+            "start": 8344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 8509,
+            "start": 8500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 8854,
+            "start": 8850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 9161,
+            "start": 9151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 9232,
+            "start": 9226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 9259,
+            "start": 9252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 9514,
+            "start": 9507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 9595,
+            "start": 9583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweisen",
+            "end": 9700,
+            "start": 9691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Batterieentsorgung",
+            "end": 9732,
+            "start": 9714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schädigen",
+            "end": 9860,
+            "start": 9851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10004,
+            "start": 9998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 10065,
+            "start": 10056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10138,
+            "start": 10132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsorgen",
+            "end": 10302,
+            "start": 10293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 10448,
+            "start": 10441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10658,
+            "start": 10655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 10772,
+            "start": 10766,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltung\n1.1. Wir liefern ausschließlich zu den nachfolgenden Allgemeinen Geschäftsbedingungen, die sämtlichen mit uns aufgrund der Angebote auf unserer Internet- Shopseite geschlossenen Verträgen zugrunde liegen. Den nachfolgenden Bestimmungen entgegenstehende oder abweichende Allgemeine Geschäftsbedingungen des Bestellers finden keine Anwendung. Die nachfolgenden Geschäftsbedingungen gelten auch dann ausschließlich, wenn wir in Kenntnis entgegenstehender oder von den nachfolgenden Geschäftsbedingungen abweichender Bedingungen des Bestellers die Lieferung und Leistung vorbehaltlos ausführen.\n1.2. Sofern in diesen Geschäftsbedingungen von Verbrauchern die Rede ist, sind dies natürliche Personen, bei denen der Zweck der Bestellung nicht einer gewerblichen, selbständigen oder freiberuflichen Tätigkeit zugerechnet werden kann. Unternehmer sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die zu gewerblichen, selbständigen oder freiberuflichen Zwecken bestellen. Kunden im Sinne dieser Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.\n1.3. Werden als Fristen Werktage angegeben, so verstehen sich darunter alle Wochentage mit Ausnahme von Samstagen, Sonntagen und gesetzlichen Feiertagen.\n2. Speichermöglichkeit und Einsicht in Vertragstext\n2.1. Sie können diese Allgemeinen Geschäftsbedingungen mit den enthaltenen allgemeinen Vertragsbestimmungen auf unserer Shopseite www.elektroradar.de einsehen. Sie können dieses Dokument ferner ausdrucken oder speichern, indem Sie auf den Button Druckversion unten rechts klicken.\n2.2. Sie können auch zusätzlich die Daten Ihrer Bestellung einfach archivieren, indem Sie entweder die AGB herunterladen und die auf der letzten Seite des Bestellablaufs im Internetshop zusammengefassten Daten mit Hilfe der Funktionen Ihres Browsers speichern oder Sie warten die automatische Bestelleingangsbestätigung ab, die wir Ihnen zusätzlich per eMail nach Abschluss Ihrer Bestellung an die von Ihnen angegebene Adresse zukommen lassen. Diese Bestelleingangsbestätigungsmail enthält noch einmal die Daten Ihrer Bestellung und diese AGB und lässt sich leicht ausdrucken bzw. mit ihrem eMail-Programm abspeichern.\n2.3. Ihre Bestelldaten werden bei uns gespeichert, sind aber aus Sicherheitsgründen nicht unmittelbar von Ihnen abrufbar. Wir bieten für jeden Kunden einen passwortgeschützten direkten Zugang („Mein Konto“) an. Hier können Sie bei entsprechender Registrierung Daten über Ihre abgeschlossenen, offenen und kürzlich versandten Bestellungen einsehen und Ihre Adressdaten, Der Kunde verpflichtet sich, die persönlichen Zugangsdaten vertraulich zu behandeln und keinem unbefugten Dritten zugänglich zu machen.\n3. Vertragspartner, Sprache und Vertragsschluss\n3.1. Ihr Vertragspartner ist die Elektro Reiners Systemtechnik GmbH, Geschäftsführer sind Frau Sonja Reiners und Frau Sandra Reiners, Schulze-Delitzsch-Str.8A, 27777 Ganderkesee. Verträge in unserem Internetshop lassen sich zur Zeit nur in deutscher Sprache schließen. Alle unsere Angebote sind freibleibend, solange sie nicht zum Inhalt einer vertraglichen Vereinbarung werden.\n3.2. Durch Anklicken des Buttons [\"Bestellen\"] geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unmittelbar nach dem Absenden der Bestellung. Diese Eingangsbestätigung stellt keine Annahme Ihres Auftrages dar, sondern soll Sie nur darüber informieren, dass Ihre Bestellung bei uns eingegangen ist und kann für Archivierungszwecke verwendet werden.\n3.3. Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Durch Anklicken des Buttons \"zahlungspflichtig bestellen“ geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Eingangs der Bestellung folgt unmittelbar nach dem Absenden der Bestellung und stellt noch keine Vertragsannahme dar. Wir können Ihre Bestellung durch Versand einer Auftragsbestätigung per E-Mail oder durch Auslieferung der Ware innerhalb von zwei Tagen annehmen.\n4. Preise, Liefergebiet, Versandkosten\n4.1. Für Bestellungen in unserem Internet-Shop gelten die zum Zeitpunkt der Bestellung im Angebot aufgeführten Preise. Die angegebenen Preise sind Endpreise, das heißt, sie beinhalten die jeweils gültige deutsche gesetzliche Mehrwertsteuer und sonstige Preisbestandteile.\n4.2. Die Lieferung erfolgt nur innerhalb der Länder der Europäischen Union und die Schweiz.\n4.3. Zur Höhe der Versandkosten: Durch Anklicken des Buttons \"zzgl. Versand\" auf der Artikeldetailseite erhalten Sie detaillierte Information zu den jeweiligen Versandkosten.\n4.4. Bei Lieferungen in das Nicht-EU-Ausland fallen zusätzliche Zölle, Steuern und Gebühren an. Diese sonstigen Kosten hat der Kunde zu tragen.\n5. Zahlung, Lieferung\n5.1. Wir bieten folgende Zahlungsmöglichkeiten an: Vorkasseüberweisung, Nachnahme,  Sofort-Überweisung, Paypal. \n5.2. Wir nutzen DHL für Postsendungen und Kühne&Nagel und Schenker für Speditionssendungen. Grundsätzlich liefern wir Pakete mit DHL an Ihre Hausanschrift oder an eine Wunschadresse. Waren, die als Sperrgut gekennzeichnet sind, liefern wir mit der Spedition. Sendungen an Postfächer oder postlagernde Sendungen liefern wir mit DHL. Sofern nicht anders vereinbart, erfolgt die Lieferung durch Spedition bis vor die erste verschließbare Tür, an die vom Besteller angegebene Lieferadresse. Sie erhalten von uns eine Nachricht, wenn die Ware unser Haus verlassen hat. Zustellungen in sog. Packstationen liefern wir mit DHL. Ist die Zustellung nicht möglich gewesen, erhalten Sie vom Transporteur eine Nachricht, aus der sich die weiteren Möglichkeiten ergeben.\n5.3. Informationen zu den Lieferzeiten finden Sie auf den Artikeldetailseiten\n5.4. Die Lieferzeit verlängert sich angemessen bei die Lieferung beeinträchtigenden Streikmaßnahmen und Aussperrungen sowie weiteren von uns nicht zu vertretenden Umständen, insbesondere in Fällen von Lieferverzögerungen durch höhere Gewalt. Beginn und Ende derartiger Hindernisse werden wir dem Käufer unverzüglich mitteilen.\n5.5. Bei Verbrauchern geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware beim Versendungskauf mit der Übergabe der Ware an den Verbraucher oder einen von ihm bestimmten Empfänger über. Dies gilt unabhängig davon, ob der Versand versichert erfolgt oder nicht. Ansonsten geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt auf den Käufer über.\n6. Widerrufsrecht bei Verbraucherbestellungen\n6.1. Ausnahmen vom Widerrufsrecht\nDas Widerrufsrecht besteht, soweit die Parteien nicht anders vereinbart haben, nicht bei folgenden Verträgen: Sonderbestimmungen\nWiderrufsbelehrung\nMusterformular\n7. Eigentumsvorbehalt\nBis zur vollständigen Zahlung bleibt die Ware unser Eigentum.\n8. Gewährleistung und Beschwerdemanagement\n8.1. Bei allen Waren aus unserem Shop bestehen gesetzliche Gewährleistungsrechte.\n8.2. Wir legen Wert auf Ihre Kundenzufriedenheit. Sie können sich jederzeit auf einem der eingangs angegebenen Kontaktwege an uns wenden. Wir bemühen uns Ihr Anliegen möglichst schnell zu prüfen und werden uns hierzu nach Eingang der Unterlagen bzw. Ihrer Eingabe oder Beschwerde bei Ihnen melden. Geben Sie uns aber etwas Zeit, da es in Gewährleistungsfällen häufig der Einschaltung des Herstellers bedarf. Bei Beschwerden helfen Sie uns, wenn Sie uns möglichst genau den Gegenstand des Problems schildern und gegebenenfalls Bestellunterlagen in Kopie übermitteln oder zumindest Bestellnummer, Kundennummer etc. angeben. Sollten Sie auch binnen 5 Werktagen keine Reaktion von uns erhalten, fragen Sie bitte nach. In seltenen Fällen können E-Mails in Spamfiltern bei uns oder bei Ihnen „hängen“ geblieben sein oder eine Nachricht auf sonstigem Weg hat Sie nicht erreicht oder ist versehentlich unterblieben. Bei Serviceanfragen wenden Sie sich bitte an unseren Kundendienst, den Sie wie folgt erreichen: Anschrift\n9. Anwendbares Recht, Gerichtsstand\n9.1. Für sämtliche Rechtsgeschäfte oder andere rechtlichen Beziehungen mit uns gilt das Recht der Bundesrepublik Deutschland. Das UN-Kaufrecht (CISG) sowie etwaige sonstige zwischenstaatliche Übereinkommen, auch nach ihrer Übernahme in das deutsche Recht, finden keine Anwendung. Bei Verträgen zu einem Zweck, der nicht der beruflichen oder gewerblichen Tätigkeit des Berechtigten zugerechnet werden kann (Vertrag mit Verbraucher), gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n9.2. Im Geschäftsverkehr mit Kaufleuten und mit juristischen Personen des öffentlichen Rechts wird als Gerichtsstand für alle Rechtsstreitigkeiten über diese Geschäftsbedingungen und unter deren Geltung geschlossenen Einzelverträge, einschließlich Wechsel- und Scheckklagen, unser Geschäftssitz vereinbart. Wir sind in diesem Fall auch berechtigt, am Sitz des Kunden zu klagen.\n10. Salvatorische Klausel\nSollten einzelne Bestimmungen dieser allgemeinen Geschäftsbedingungen ganz oder teilweise nicht rechtswirksam sein oder ihre Rechtswirksamkeit später verlieren, so wird hierdurch die Gültigkeit der allgemeinen Geschäftsbedingungen ansonsten nicht berührt. An die Stelle der unwirksamen Bestimmungen treten die gesetzlichen Bestimmungen. Das gleiche gilt, soweit die allgemeinen Geschäftsbedingungen eine nicht vorhergesehene Lücke aufweisen.\nHinweis zur Batterieentsorgung\nDie chemischen Inhaltsstoffe von Batterien können bei nicht sachgemäßer Lagerung und Entsorgung Umwelt und Gesundheit schädigen. Nur über eine vom sonstigen Hausmüll getrennte Sammlung und Verwertung können gesundheits- und umweltschädigende Auswirkungen vermieden werden. Batterien können auch wiederverwertbare Rohstoffe enthalten. Batterien dürfen daher nicht über den normalen Hausmüll entsorgt werden. Sie sind als Endnutzer gesetzlich verpflichtet, gebrauchte Altbatterien (wiederaufladebar und nicht-wiederaufladbar) zurückzugeben bzw. ordnungsgemäß zu entsorgen. Dazu können Sie Ihre gebrauchten Altbatterien bei den öffentlichen Sammelstellen in Ihrer Gemeinde oder in Verkaufsstellen unentgeltlich abgeben. Die Abgabe in Verkaufsstellen ist dabei auf für Endnutzer für die Entsorgung übliche Mengen sowie solche Altbatterien beschränkt, die der Vertreiber als Neubatterien in seinem Sortiment führt oder geführt hat. Dieses Zeichen bedeutet, dass Sie Batterien aufgrund ihres Schadstoffgehaltes nicht in den Hausmüll geben dürfen.\n\n"
+}

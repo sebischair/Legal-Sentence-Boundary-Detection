@@ -1,0 +1,3161 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsrente",
+            "end": 134,
+            "start": 121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 147,
+            "start": 135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "254",
+            "end": 171,
+            "start": 168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 205,
+            "start": 204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 221,
+            "start": 220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 230,
+            "start": 222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 459,
+            "start": 451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 592,
+            "start": 581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 945,
+            "start": 939,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 959,
+            "start": 958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 971,
+            "start": 960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrauensschaden",
+            "end": 1319,
+            "start": 1302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1330,
+            "start": 1320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1384,
+            "start": 1382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1395,
+            "start": 1385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41286",
+            "end": 1415,
+            "start": 1410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1421,
+            "start": 1416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1573,
+            "start": 1559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1644,
+            "start": 1634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1683,
+            "start": 1673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1695,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1697,
+            "start": 1696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1864,
+            "start": 1861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 2066,
+            "start": 2058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2069,
+            "start": 2068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AG",
+            "end": 2321,
+            "start": 2319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 2591,
+            "start": 2585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2594,
+            "start": 2593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 2919,
+            "start": 2910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 2963,
+            "start": 2953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geltungsbereich",
+            "end": 2985,
+            "start": 2970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmensgruppe",
+            "end": 3064,
+            "start": 3046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3217,
+            "start": 3213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 3220,
+            "start": 3219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsarten",
+            "end": 3259,
+            "start": 3245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 3448,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersversorgung",
+            "end": 3468,
+            "start": 3452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 3576,
+            "start": 3573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 3579,
+            "start": 3578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstzeit",
+            "end": 3612,
+            "start": 3602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3836,
+            "start": 3834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsfalles",
+            "end": 3911,
+            "start": 3894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anrechnungsfähig",
+            "end": 3962,
+            "start": 3946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 3968,
+            "start": 3967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gearbeitet",
+            "end": 4202,
+            "start": 4192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 4353,
+            "start": 4339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 4356,
+            "start": 4355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Renten",
+            "end": 4376,
+            "start": 4370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersrente",
+            "end": 4391,
+            "start": 4380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 4398,
+            "start": 4397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 4664,
+            "start": 4656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4738,
+            "start": 4732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4980,
+            "start": 4976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 4983,
+            "start": 4982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4986,
+            "start": 4985,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5277,
+            "start": 5276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 5510,
+            "start": 5503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 5668,
+            "start": 5659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5671,
+            "start": 5670,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5959,
+            "start": 5958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 5993,
+            "start": 5988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgung",
+            "end": 6099,
+            "start": 6089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 6273,
+            "start": 6267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 6399,
+            "start": 6393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 6580,
+            "start": 6576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 6642,
+            "start": 6636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mtl",
+            "end": 6735,
+            "start": 6732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betragen",
+            "end": 6976,
+            "start": 6968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 7153,
+            "start": 7147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 7309,
+            "start": 7305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 7426,
+            "start": 7422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 7584,
+            "start": 7577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mtl",
+            "end": 7630,
+            "start": 7627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 7633,
+            "start": 7632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 7725,
+            "start": 7711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorausgesetzt",
+            "end": 7863,
+            "start": 7850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeglichen",
+            "end": 8065,
+            "start": 8053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 8279,
+            "start": 8271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 8282,
+            "start": 8281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 8285,
+            "start": 8284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2005",
+            "end": 8445,
+            "start": 8441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 8448,
+            "start": 8447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 8767,
+            "start": 8763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 8770,
+            "start": 8769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 9045,
+            "start": 9041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 9156,
+            "start": 9153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 9440,
+            "start": 9436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergebe",
+            "end": 9636,
+            "start": 9630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1993",
+            "end": 9741,
+            "start": 9737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 9890,
+            "start": 9884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 9893,
+            "start": 9892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 10196,
+            "start": 10188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrage",
+            "end": 10362,
+            "start": 10355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "arbeiten",
+            "end": 10559,
+            "start": 10551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 10770,
+            "start": 10767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 10845,
+            "start": 10839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 11058,
+            "start": 11054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11202,
+            "start": 11196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 11482,
+            "start": 11474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 11790,
+            "start": 11785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 11794,
+            "start": 11792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuletzt",
+            "end": 11840,
+            "start": 11833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 12148,
+            "start": 12145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 12329,
+            "start": 12321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 12333,
+            "start": 12331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 12395,
+            "start": 12385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 12399,
+            "start": 12397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 12541,
+            "start": 12537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 12710,
+            "start": 12701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 12917,
+            "start": 12908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesagt",
+            "end": 13054,
+            "start": 13046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 13269,
+            "start": 13265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 13273,
+            "start": 13271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 13421,
+            "start": 13413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 13710,
+            "start": 13704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Information",
+            "end": 13753,
+            "start": 13742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 13946,
+            "start": 13941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 14111,
+            "start": 14103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "falsch",
+            "end": 14158,
+            "start": 14152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14322,
+            "start": 14318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 14491,
+            "start": 14484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festsetze",
+            "end": 14675,
+            "start": 14666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 14815,
+            "start": 14812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 14970,
+            "start": 14964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "85",
+            "end": 15080,
+            "start": 15078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auskunft",
+            "end": 15174,
+            "start": 15166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 15336,
+            "start": 15329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 15524,
+            "start": 15521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 15748,
+            "start": 15744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 15892,
+            "start": 15883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 16050,
+            "start": 16045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 16366,
+            "start": 16361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16565,
+            "start": 16559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mindern",
+            "end": 16634,
+            "start": 16627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 16638,
+            "start": 16636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgegeben",
+            "end": 16777,
+            "start": 16765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 17074,
+            "start": 17070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 17184,
+            "start": 17181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 17434,
+            "start": 17426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 17438,
+            "start": 17436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschieden",
+            "end": 17573,
+            "start": 17560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 17666,
+            "start": 17657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgenommen",
+            "end": 17814,
+            "start": 17803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfülle",
+            "end": 18019,
+            "start": 18012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 18116,
+            "start": 18112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 18225,
+            "start": 18216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 18355,
+            "start": 18347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelte",
+            "end": 18555,
+            "start": 18550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 18681,
+            "start": 18678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 18966,
+            "start": 18963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 18970,
+            "start": 18968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 19051,
+            "start": 19048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 19353,
+            "start": 19346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 19516,
+            "start": 19505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissenserklärung",
+            "end": 19673,
+            "start": 19657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 19677,
+            "start": 19675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 19834,
+            "start": 19827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 20087,
+            "start": 20083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 20298,
+            "start": 20293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 20548,
+            "start": 20540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 20552,
+            "start": 20550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 20656,
+            "start": 20652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 20764,
+            "start": 20759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 21025,
+            "start": 21021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrage",
+            "end": 21257,
+            "start": 21250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrage",
+            "end": 21533,
+            "start": 21526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einschränkungen",
+            "end": 21652,
+            "start": 21637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhänge",
+            "end": 21823,
+            "start": 21816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgestellt",
+            "end": 22012,
+            "start": 22002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 22179,
+            "start": 22176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 22373,
+            "start": 22368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 22524,
+            "start": 22513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 22692,
+            "start": 22686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2005",
+            "end": 22851,
+            "start": 22847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auskunftsschreibens",
+            "end": 22933,
+            "start": 22914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsfalls",
+            "end": 23191,
+            "start": 23175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 23523,
+            "start": 23519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 23789,
+            "start": 23786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ende",
+            "end": 24029,
+            "start": 24025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrage",
+            "end": 24219,
+            "start": 24212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 24436,
+            "start": 24433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetze",
+            "end": 24692,
+            "start": 24681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 24892,
+            "start": 24883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 24896,
+            "start": 24894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 25063,
+            "start": 25058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 25145,
+            "start": 25141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 25311,
+            "start": 25303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 25400,
+            "start": 25399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Besonderheiten",
+            "end": 25548,
+            "start": 25534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 25689,
+            "start": 25684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 25870,
+            "start": 25861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 26111,
+            "start": 26105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 26289,
+            "start": 26283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 26709,
+            "start": 26706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 26926,
+            "start": 26918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hafte",
+            "end": 27065,
+            "start": 27060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 27228,
+            "start": 27223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 27486,
+            "start": 27482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2005",
+            "end": 27707,
+            "start": 27703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 27917,
+            "start": 27910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 28066,
+            "start": 28061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 28070,
+            "start": 28068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 28202,
+            "start": 28197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 28383,
+            "start": 28378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 28999,
+            "start": 28994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 29190,
+            "start": 29186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 29378,
+            "start": 29375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 29623,
+            "start": 29618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekündigt",
+            "end": 29742,
+            "start": 29733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 30015,
+            "start": 30011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 30019,
+            "start": 30017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 30134,
+            "start": 30131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 30409,
+            "start": 30406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 30643,
+            "start": 30631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 30965,
+            "start": 30962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ziehen",
+            "end": 31259,
+            "start": 31253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 31396,
+            "start": 31390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränken",
+            "end": 31585,
+            "start": 31574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 31589,
+            "start": 31587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 31722,
+            "start": 31716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingegangen",
+            "end": 31870,
+            "start": 31859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 32069,
+            "start": 32065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 32073,
+            "start": 32071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 32189,
+            "start": 32185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 32226,
+            "start": 32215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 32494,
+            "start": 32489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 32625,
+            "start": 32620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 32703,
+            "start": 32697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 32832,
+            "start": 32824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 33030,
+            "start": 33024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 33164,
+            "start": 33153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelte",
+            "end": 33352,
+            "start": 33344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Voraussetzungen",
+            "end": 33506,
+            "start": 33491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesprochen",
+            "end": 33647,
+            "start": 33635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 33910,
+            "start": 33902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 33914,
+            "start": 33912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachgekommen",
+            "end": 34067,
+            "start": 34055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 34143,
+            "start": 34135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 34270,
+            "start": 34267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kündigen",
+            "end": 34399,
+            "start": 34391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 34403,
+            "start": 34401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 34635,
+            "start": 34630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 34809,
+            "start": 34802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festsetze",
+            "end": 34985,
+            "start": 34976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstreiche",
+            "end": 35130,
+            "start": 35117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 35260,
+            "start": 35253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 35487,
+            "start": 35481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 35683,
+            "start": 35678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestünde",
+            "end": 35860,
+            "start": 35852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 36063,
+            "start": 36057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 36248,
+            "start": 36243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszutauschen",
+            "end": 36475,
+            "start": 36462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnten",
+            "end": 36650,
+            "start": 36643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 36754,
+            "start": 36739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 36864,
+            "start": 36859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 37037,
+            "start": 37032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuklären",
+            "end": 37224,
+            "start": 37213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationspflicht",
+            "end": 37346,
+            "start": 37327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweisen",
+            "end": 37646,
+            "start": 37637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 37879,
+            "start": 37871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 38112,
+            "start": 38109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewusst",
+            "end": 38255,
+            "start": 38248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 38259,
+            "start": 38257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 38387,
+            "start": 38379,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrauensinteresse",
+            "end": 38602,
+            "start": 38583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beklagten",
+            "end": 38858,
+            "start": 38849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 39010,
+            "start": 39004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ereignis",
+            "end": 39111,
+            "start": 39103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtige",
+            "end": 39277,
+            "start": 39263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 39442,
+            "start": 39434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 39736,
+            "start": 39731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 40053,
+            "start": 40048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 40593,
+            "start": 40588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 40682,
+            "start": 40671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 40686,
+            "start": 40684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "daher",
+            "end": 40715,
+            "start": 40710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 40868,
+            "start": 40858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 40926,
+            "start": 40912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 40930,
+            "start": 40928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 41357,
+            "start": 41354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 41408,
+            "start": 41394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 41460,
+            "start": 41447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 41464,
+            "start": 41462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 41650,
+            "start": 41645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 41816,
+            "start": 41810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 41924,
+            "start": 41915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 42069,
+            "start": 42060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 42366,
+            "start": 42360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 42604,
+            "start": 42601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 42678,
+            "start": 42672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 42980,
+            "start": 42977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollte",
+            "end": 43199,
+            "start": 43193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 43325,
+            "start": 43318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 43538,
+            "start": 43529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 43676,
+            "start": 43670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festhalten",
+            "end": 43787,
+            "start": 43777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 43791,
+            "start": 43789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 43990,
+            "start": 43987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 44093,
+            "start": 44084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unerheblich",
+            "end": 44189,
+            "start": 44178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 44387,
+            "start": 44383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zufügen",
+            "end": 44617,
+            "start": 44610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechnen",
+            "end": 44748,
+            "start": 44741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bearbeitet",
+            "end": 44884,
+            "start": 44874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 45051,
+            "start": 45043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 45303,
+            "start": 45299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lebensfremd",
+            "end": 45539,
+            "start": 45528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 45824,
+            "start": 45821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 45828,
+            "start": 45826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begangen",
+            "end": 46006,
+            "start": 45998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 46072,
+            "start": 46065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadensersatz",
+            "end": 46362,
+            "start": 46348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 46463,
+            "start": 46458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 46723,
+            "start": 46720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesucht",
+            "end": 46851,
+            "start": 46844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 47235,
+            "start": 47228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezogen",
+            "end": 47388,
+            "start": 47381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezogen",
+            "end": 47504,
+            "start": 47497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 47725,
+            "start": 47719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 47930,
+            "start": 47925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 48235,
+            "start": 48230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 48518,
+            "start": 48512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 48642,
+            "start": 48637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 48943,
+            "start": 48940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 49166,
+            "start": 49163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 49296,
+            "start": 49290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 49656,
+            "start": 49651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 49757,
+            "start": 49750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszutauschen",
+            "end": 49888,
+            "start": 49875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 50222,
+            "start": 50218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 50501,
+            "start": 50490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ankäme",
+            "end": 50664,
+            "start": 50658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 50668,
+            "start": 50666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 50852,
+            "start": 50849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "e",
+            "end": 50851,
+            "start": 50850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 50961,
+            "start": 50956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstanden",
+            "end": 51159,
+            "start": 51149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 51352,
+            "start": 51348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuwarten",
+            "end": 51616,
+            "start": 51606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigung",
+            "end": 51704,
+            "start": 51695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 51946,
+            "start": 51941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stichtag",
+            "end": 52129,
+            "start": 52121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unverfallbarkeitsfrist",
+            "end": 52310,
+            "start": 52288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 52645,
+            "start": 52640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekündigt",
+            "end": 52736,
+            "start": 52727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 52892,
+            "start": 52888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersvorsorge",
+            "end": 53016,
+            "start": 53002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 53199,
+            "start": 53194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 53203,
+            "start": 53201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 53504,
+            "start": 53498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 53719,
+            "start": 53714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 53894,
+            "start": 53879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 54075,
+            "start": 54068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszutauschen",
+            "end": 54277,
+            "start": 54264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 54530,
+            "start": 54524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsfolgen",
+            "end": 54603,
+            "start": 54591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 54746,
+            "start": 54740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 54921,
+            "start": 54915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 55131,
+            "start": 55127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 55297,
+            "start": 55288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 55413,
+            "start": 55407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 55682,
+            "start": 55678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 55855,
+            "start": 55852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 55937,
+            "start": 55930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehöre",
+            "end": 56088,
+            "start": 56082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsrentenauskunft",
+            "end": 56222,
+            "start": 56200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorgesetzten",
+            "end": 56333,
+            "start": 56321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzurechnen",
+            "end": 56454,
+            "start": 56443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 56458,
+            "start": 56456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 56726,
+            "start": 56723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 56922,
+            "start": 56915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 57080,
+            "start": 57074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 57275,
+            "start": 57269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereinigen",
+            "end": 57629,
+            "start": 57619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 57775,
+            "start": 57768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 57850,
+            "start": 57841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besprochen",
+            "end": 57993,
+            "start": 57983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigt",
+            "end": 58225,
+            "start": 58215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 58338,
+            "start": 58329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 58519,
+            "start": 58513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ziehen",
+            "end": 58634,
+            "start": 58628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertrauen",
+            "end": 58721,
+            "start": 58712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 58833,
+            "start": 58826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 58963,
+            "start": 58960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 58967,
+            "start": 58965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 59194,
+            "start": 59191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 59198,
+            "start": 59196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 59325,
+            "start": 59317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 59346,
+            "start": 59327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 59348,
+            "start": 59347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 59352,
+            "start": 59350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 59397,
+            "start": 59389,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 59529,
+            "start": 59528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "B",
+            "end": 59532,
+            "start": 59531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 59536,
+            "start": 59534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 59591,
+            "start": 59585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 59595,
+            "start": 59593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgegeben",
+            "end": 59660,
+            "start": 59648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 59852,
+            "start": 59846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veranlasst",
+            "end": 60066,
+            "start": 60056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 60069,
+            "start": 60068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 60073,
+            "start": 60071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusteht",
+            "end": 60213,
+            "start": 60206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebszugehörigkeit",
+            "end": 60428,
+            "start": 60407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 60432,
+            "start": 60430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 60578,
+            "start": 60575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzustellen",
+            "end": 61075,
+            "start": 61064,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 61079,
+            "start": 61077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezugnahmeklausel",
+            "end": 61296,
+            "start": 61279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitnehmer",
+            "end": 61535,
+            "start": 61523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 61669,
+            "start": 61660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 61817,
+            "start": 61810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorsehen",
+            "end": 62054,
+            "start": 62046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 62227,
+            "start": 62221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 62478,
+            "start": 62474,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 62631,
+            "start": 62630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 62635,
+            "start": 62633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 62902,
+            "start": 62896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 63039,
+            "start": 63034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 63043,
+            "start": 63041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 63259,
+            "start": 63253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 63450,
+            "start": 63444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 63454,
+            "start": 63452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angesehen",
+            "end": 63567,
+            "start": 63558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 63763,
+            "start": 63754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 63827,
+            "start": 63824,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 64098,
+            "start": 64097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 64280,
+            "start": 64274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Parteien",
+            "end": 64405,
+            "start": 64397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 64409,
+            "start": 64407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 64592,
+            "start": 64586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betroffen",
+            "end": 64679,
+            "start": 64670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 64800,
+            "start": 64797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 64804,
+            "start": 64802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 64808,
+            "start": 64806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 64851,
+            "start": 64840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 65183,
+            "start": 65178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 65187,
+            "start": 65185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 65520,
+            "start": 65516,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 65733,
+            "start": 65732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 65827,
+            "start": 65824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 65972,
+            "start": 65966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 65976,
+            "start": 65974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustand",
+            "end": 66186,
+            "start": 66179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 66365,
+            "start": 66353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 66369,
+            "start": 66367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 66747,
+            "start": 66741,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 66935,
+            "start": 66934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 66939,
+            "start": 66937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 67087,
+            "start": 67078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzudecken",
+            "end": 67311,
+            "start": 67300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rentenanwartschaft",
+            "end": 67416,
+            "start": 67398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 67420,
+            "start": 67418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 67649,
+            "start": 67644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 67757,
+            "start": 67754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 68001,
+            "start": 67987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rentenansprüche",
+            "end": 68137,
+            "start": 68122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 68141,
+            "start": 68139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 68274,
+            "start": 68263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 68499,
+            "start": 68493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 69025,
+            "start": 69021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 69213,
+            "start": 69207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 69353,
+            "start": 69348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 69357,
+            "start": 69355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kündigen",
+            "end": 69451,
+            "start": 69443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 69660,
+            "start": 69657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandelt",
+            "end": 69829,
+            "start": 69820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 69982,
+            "start": 69976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigenkündigung",
+            "end": 70054,
+            "start": 70040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 70058,
+            "start": 70056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 70174,
+            "start": 70170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 70178,
+            "start": 70176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hatte",
+            "end": 70387,
+            "start": 70382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abweichendes",
+            "end": 70788,
+            "start": 70776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 70792,
+            "start": 70790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 71008,
+            "start": 71005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 71364,
+            "start": 71357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 71368,
+            "start": 71366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 71478,
+            "start": 71471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgestellt",
+            "end": 71572,
+            "start": 71562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lebensjahres",
+            "end": 71713,
+            "start": 71701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rede",
+            "end": 71771,
+            "start": 71767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 71911,
+            "start": 71900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 72102,
+            "start": 72095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 72248,
+            "start": 72243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benützt",
+            "end": 72349,
+            "start": 72342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 72580,
+            "start": 72577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 72765,
+            "start": 72761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 72769,
+            "start": 72767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 72983,
+            "start": 72976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rentenhöhe",
+            "end": 73147,
+            "start": 73137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 73151,
+            "start": 73149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 73321,
+            "start": 73318,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 73627,
+            "start": 73626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 73631,
+            "start": 73629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 73820,
+            "start": 73812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 74019,
+            "start": 74014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 74159,
+            "start": 74155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beurteilen",
+            "end": 74266,
+            "start": 74256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 74270,
+            "start": 74268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 74563,
+            "start": 74558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 74567,
+            "start": 74565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eindeutig",
+            "end": 74641,
+            "start": 74632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 74895,
+            "start": 74889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gestaltung",
+            "end": 75093,
+            "start": 75083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 75319,
+            "start": 75314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befristet",
+            "end": 75360,
+            "start": 75351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 75613,
+            "start": 75608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 75617,
+            "start": 75615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kündigung",
+            "end": 75694,
+            "start": 75685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 75810,
+            "start": 75803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pensionszusage",
+            "end": 75944,
+            "start": 75930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 76098,
+            "start": 76090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 76102,
+            "start": 76100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 76200,
+            "start": 76189,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 76363,
+            "start": 76362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 76437,
+            "start": 76427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erworben",
+            "end": 76571,
+            "start": 76563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "C",
+            "end": 76574,
+            "start": 76573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 76578,
+            "start": 76576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 76621,
+            "start": 76618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "D",
+            "end": 76624,
+            "start": 76623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 76628,
+            "start": 76626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anlass",
+            "end": 76702,
+            "start": 76696,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 12.10.2018 – 8 Sa 176/18\nTitel:\nFehlerhafte Auskunft der Arbeitgebers zur Unverfallbarkeit von Betriebsrente\nNormenketten:\nBGB § 249,§ 280, § 254\nBetrAVG § 1b Abs. 1, § 30f Abs. 1\nHGB § 84 Abs. 1\nLeitsatz:\nTeilt der Arbeitgeber dem Arbeitnehmer fälschlicherweise mit, dass seine Ansprüche auf\nbetriebliche Altersversorgung unverfallbar sind, so hat der Arbeitgeber grundsätzlich den hieraus\nentstehenden Vertrauensschaden zu ersetzen. Dieser kann im Einzelfall auch darin bestehen, den\nArbeitnehmer so zu stellen, als sei die Unverfallbarkeit tatsächlich eingetreten. Dies war hier\nanzunehmen, da der Arbeitnehmer das Arbeitsverhältnis nach der Auskunftserteilung zwei Monate\nvor der Unverfallbarkeit kündigte, um auf selbstständiger Basis mit dem bisherigen Arbeitgeber\nweiter zusammen zu arbeiten und kein Grund ersichtlich war, warum der Arbeitnehmer mit seiner\nKündigung nicht noch zwei Monate hätte zuwarten können. (Rn. 60 ff.)\nSchlagworte:\nAltersrente, Arbeitnehmer, Arbeitsvertrag, Arbeitszeit, Ausbildungsverhältnis, betriebliche Altersversorgung,\nBetriebsrente, Eigenkündigung, Eintritt des Versorgungsfalls, Rentenversicherung, Schadensersatz,\nSchadensersatzanspruch, Tarifvertrag, unverfallbare Anwartschaft, Unverfallbarkeitsfrist, Versorgung,\nVersorgungszusage, Vertrauensschaden\nVorinstanz:\nArbG Bamberg, Endurteil vom 04.04.2018 – 2 Ca 732/17\nFundstelle:\nBeckRS 2018, 41286\nTenor\n1. Die Berufungen des Klägers und der Beklagten gegen das Endurteil des Arbeitsgerichts Bamberg vom\n04.04.2018 - Az. 2 Ca 732/17, werden zurückgewiesen.\n2. Die Kosten des Berufungsverfahrens werden gegeneinander aufgehoben.\n3. Die Revision wird nicht zugelassen.\nTatbestand\n1\nDie Parteien streiten darüber, ob der Kläger eine unverfallbare Anwartschaft auf tarifvertraglich geregelte\nLeistungen der betrieblichen Altersversorgung erworben hat. Hilfsweise begehrt der Kläger die Feststellung,\ndass die Beklagte auf Grund einer fehlerhaften Auskunft verpflichtet ist, den Kläger so zu stellen, als habe\ner eine unverfallbare Anwartschaft erworben.\n2\nDer am ... 1969 geborene Kläger befand sich ab dem 01.01.1994 in einem Ausbildungsverhältnis und\nanschließend ab dem 01.06.1995 in einem Arbeitsverhältnis als Versicherungsvertreter bei der\nRechtsvorgängerin der Beklagten, der A. Lebensversicherung AG. Die Rechtsvorgängerin der Beklagten\nteilte dem Kläger mit Schreiben vom 09.11.1993 (Anlage K 2, Bl. 15 - 17 der Akte) im Hinblick auf das\nAusbildungsverhältnis unter der Überschrift „Vergütung“ u.a. mit, dass die betrieblichen und tariflichen\nLeistungen gewährt würden.\n3\nBei der Rechtsvorgängerin der Beklagten fand seinerzeit der zwischen der Tarifgemeinschaft A.\nUnternehmensgruppe und der Gewerkschaft Handel, Banken und Versicherungen Düsseldorf geschlossene\n„Tarifvertrag über die betriebliche Versorgungsordnung - 01.04.85 -“ (Anlage K 5, Bl. 21 ff. der Akte; im\nfolgenden VO 85) Anwendung. Die VO 85 enthält u.a. folgende Regelungen:\n„§ 1 Geltungsbereich\n1. Diese Versorgungszusage gilt für die Arbeitnehmer der A. Unternehmensgruppe; ausgeschlossen sind\ndie leitenden Angestellten sowie Arbeitnehmer, die nebenberuflich, aushilfsweise, zeitlich befristet oder zur\nAusbildung tätig sind. …\n§ 2 Voraussetzungen und Leistungsarten\n1. Gewährt werden\n- Altersrenten (Ziffer 4)\n- Invaliditätsrenten (Ziffer 5)\n- Witwen- oder Witwerrenten (Ziffer 6)\n- Abfindung bei Wiederheirat (§ 7 Ziffer 3.3)\n- Waisenrenten (Ziffer 6) …\n4. Altersversorgung\nDer Versorgungsfall für die Zahlung der Altersrente tritt spätestens mit dem vollendeten 65. Lebensjahr ein.\n…\n§ 3 Anrechnungsfähige Dienstzeit\n1. Als anrechnungsfähige Dienstzeit zählt die in der A. Unternehmensgruppe zurückgelegte, durch\nArbeitsvertrag anerkannte Dienstzeit in einem unbefristeten Anstellungsverhältnis, frühestens vom\nvollendeten 18. Lebensjahr an. Die anrechnungsfähige Dienstzeit endet mit Eintritt des Versorgungsfalles.\nEs sind höchstens 30 Dienstjahre anrechnungsfähig.\n2. …\n3. Ab einer 10jährigen anrechnungsfähigen Dienstzeit wird der Arbeitnehmer, der das 55. Lebensjahr noch\nnicht vollendet hat, im Invaliditätsfall so gestellt, als hätte er bis zur Vollendung seines 55. Lebensjahr bei\nder A. gearbeitet.\nZeiten der Berufsausbildung in der Unternehmensgruppe werden für die geforderte 10jährige Wartezeit ab\nVollendung des 18. Lebensjahres berücksichtigt. …\n§ 5 Höhe der Renten\n1. Altersrente\n1.1. …\n8. Beendigung des Arbeitsverhältnisses vor Eintritt des Versorgungsfalles\n8.1. Scheidet der Arbeitnehmer aus den Diensten der A.\nUnternehmensgruppe vor Eintritt des Versorgungsfalles aus, so wird seine Rentenanwartschaft gemäß den\ngesetzlichen Bestimmungen geregelt.\n8.2. Ein unverfallbarer Versorgungsanspruch darf nicht abgefunden werden.\n8.3. Sind die Voraussetzungen für eine unverfallbare betriebliche Altersversorgung erfüllt, so erhält der\nArbeitnehmer eine Mitteilung darüber, daß eine unverfallbare Anwartschaft besteht und in welcher Höhe er\nAltersrente beanspruchen kann. …“\n4\nIm Januar 2004 erhielt der Kläger ein unter der Bezeichnung „Personal/Betriebliches Versorgungswerk“\nunterzeichnetes Schreiben der Rechtsvorgängerin der Beklagten mit der Überschrift „Auskünfte über Ihre\nbetrieblichen Rentenanwartschaften (Stand 2003)“ (vgl. Anlage K 6, Bl. 80/81 der Akte). In diesem\nSchreiben heißt es u.a., dass die betriebliche Altersversorgung des Klägers in der VO 85 geregelt ist und\ndass die Rente nach Eintritt des Versorgungsfalls nach Vollendung des 65. Lebensjahres 2.057,49 €\nmonatlich beträgt. Eine Mitteilung über die Höhe des unverfallbaren Rentenanspruchs ist in dem unter der\nDatumsangabe Januar 2004 verfassten Auskunftsschreiben nicht enthalten.\n5\nIm Januar 2005 erhielt der Kläger ein unter der Bezeichnung „Personal/Betriebliches Versorgungswerk“\nunterzeichnetes Schreiben der Rechtsvorgängerin der Beklagten mit der Überschrift „Auskünfte über Ihre\nbetrieblichen Rentenanwartschaften (Stand 2004)“ (vgl. Anlage K 1, Bl. 14 der Akte). Es lautet\nauszugsweise wie folgt:\n„Sehr geehrter Herr B.,\nmit diesem Brief erhalten Sie eine Information über Ihre betriebliche Versorgung.\nDas Unternehmen wird Ihnen nach Eintritt des Versorgungsfalles gemäß Tarifvertrag über die betriebliche\nVersorgungsordnung vom 01.04.85 (VO 85) Versorgungsleistungen zahlen. Bitte beachten Sie, dass zum\nBezug der betrieblichen Versorgungsleistungen alle Leistungsvoraussetzungen erfüllt sein müssen;\ninsbesondere muss der gesetzliche Rentenversicherungsträger eine Vollrente bewilligt haben und das\nArbeitsverhältnis mit dem Unternehmen muss aus diesem Grunde beendet worden sein.\nDie Rente beträgt nach Eintritt des Versorgungsfalles brutto:\nbei voller Erwerbsminderung 681,70 EURO mtl.\nnach Vollendung des 65. Lbj. 2.045,11 EURO mtl.\nDie Betriebsrente darf gemäß § 5 der VO 85 zusammen mit der ungeminderten Rente der gesetzlichen\nRentenversicherung höchstens 70% des durchschnittlichen monatlichen Bruttoeinkommens der letzten 12\nMonate (einschl. Sonderzahlungen) betragen. Ob es in Ihrem Fall zu einer Limitierung der Betriebsrente\nkommen würde, kann erst nach Vorlage des Rentenbescheides des gesetzlichen\nRentenversicherungsträgers geprüft werden.\nBeachten Sie bitte, dass bei einer Alterspensionierung vor dem 65. Lbj. (z. B. bei einer Pensionierung nach\neiner Altersteilzeit) die Rente abweichen kann.\nDie Hinterbliebenenrente würde 60% der Rente betragen, die im Falle der vollen Erwerbsminderung gezahlt\nworden wäre.\nDie Höhe des unverfallbaren Rentenanspruches, welcher nach einem vorzeitigen Ausscheiden aus dem\nUnternehmen zum 65. Lebensjahr fällig werden würde, beträgt:\nnach Vollendung des 65. Lbj. 555,45 EURO mtl.\n… Bei der Berechnung Ihrer Rentenanwartschaft wurden die heute bekannten Daten berücksichtigt.\nAußerdem haben wir eine durchgehende Beschäftigung bis zum Versorgungsfall und eine unveränderte\nwöchentlichen Arbeitszeit vorausgesetzt. Minderungen in der gesetzlichen Rentenversicherung, wie z. B.\naufgrund von Rentenabschlägen wegen der vorzeitigen Inanspruchnahme der Rente, werden durch die\nbetriebliche Versorgung nicht ausgeglichen.\nAuch wenn wir Ihnen mit dieser Rentenauskunft nach keinen endgültigen Rentenbetrag nennen können, so\nglauben wir doch, dass Sie hierdurch einen guten Überblick über Ihre zu erwartende Versorgungsleistung\nerhalten. …“\n6\nMit Schreiben vom 17.03.2005 erklärte der Kläger die Eigenkündigung des mit der Rechtsvorgängerin der\nBeklagten bestehenden Arbeitsverhältnisses zum 31.03.2005.\n7\nAuf Anfrage des Klägers teilte die Beklagte mit Schreiben vom 22.05.2013 (Anlage K 4, Bl. 20 der Akte) mit,\ndass er keine unverfallbaren Ansprüche auf betriebliche Altersversorgung erworben habe, da die Zusage\nauf die betriebliche Altersversorgung zum Zeitpunkt seines Ausscheidens noch keine zehn Jahre bestanden\nhabe.\n8\nDer Kläger vertrat erstinstanzlich die Ansicht, dass er im Zeitpunkt des Ausscheidens aus dem\nArbeitsverhältnis mit der Rechtvorgängerin der Beklagten eine unverfallbare Anwartschaft auf die in der VO\n85 geregelten Leistungen der betrieblichen Altersversorgung erworben habe. Die hierfür nach § 1 b Abs. 1\nBetrAVG i. V. m. § 30 f Abs. 1 BetrAVG erforderlichen Voraussetzungen lägen vor. Insbesondere habe die\nVersorgungszusage am 31.03.2005 auch bereits mehr als zehn Jahre bestanden, da das\nAusbildungsverhältnis bei der Rechtsvorgängerin der Beklagten bereits am 01.01.1994 begonnen habe und\nsich das Arbeitsverhältnis unmittelbar ab dem 01.06.1995 angeschlossen habe. Zutreffend sei zwar, dass\nsich die Versorgungszusage gemäß § 1 Ziffer 1 VO 85 im Ausbildungsverhältnis mangels Eröffnung des\npersönlichen Anwendungsbereichs nicht direkt aus der VO selbst ergebe. Dies folge jedoch auf Grund der\nIndividualvereinbarung auf Seite 2 im Ausbildungsvertrag vom 09.11.1993. Dort sei unter „Vergütung“\nvereinbart worden, dass dem Kläger die tariflichen Leistungen und damit auch die Leistungen aus der VO\n85 gewährt würden.\n9\nSofern dem Kläger im Zeitpunkt seines Ausscheidens noch keine unverfallbare Anwartschaft auf die in der\nVO 85 geregelten Leistungen in der betrieblichen Altersversorgung erworben haben sollte, sei die Beklagte\nverpflichtet, ihn so zu stellen, als habe er eine solche unverfallbare Anwartschaft erworben. Die\nRechtsvorgängerin der Beklagten habe dem Kläger im Januar 2005 die Auskunft erteilt, dass die Höhe des\nunverfallbaren Rentenanspruchs 555,45 € monatlich betrage. Der Kläger habe sein Arbeitsverhältnis im\nMärz 2005 gekündigt, um im Rahmen einer selbständigen Tätigkeit im Sinne des § 84 Abs. 1 HGB mit der\nRechtsvorgängerin der Beklagten zusammen zu arbeiten. Im März 2005 habe deshalb ein Treffen des\nKlägers mit seinem damaligen Vorgesetzten, Herrn E., stattgefunden, in dem der Wechsel des Klägers vom\nArbeitsverhältnis in die Selbstständigkeit besprochen worden sei. Im Rahmen dieses Gesprächs sei auch\ndie Betriebsrente thematisiert worden. Herr E. habe dem Kläger nochmals ausdrücklich zugesichert, dass\ndie Auskunft aus Januar 2005 zutreffend sei und der Kläger die Voraussetzung für eine entsprechende\nunverfallbare Anwartschaft bereits erfüllt habe. Hintergrund sei gewesen, dass dem Kläger kein festes\nDatum vorgegeben worden sei, bis zu dem er in die Selbstständigkeit hätte wechseln können. Hätte der\nKläger gewusst, dass er bei einem Ausscheiden zum 31.03.2005 noch keine unverfallbare Anwartschaft in\nHöhe von 555,45 € monatlich erworben habe, hätte er mit der Kündigung noch bis Juni 2005 gewartet, um\ndie Voraussetzung für die unverfallbare Anwartschaft zu erfüllen. Es sei selbstverständlich, dass eine\nzusätzliche monatliche Altersrente von mindestens 555,45 € Grund sei, mit einer Eigenkündigung noch\nkurze Zeit zu warten, insbesondere dann, wenn die Zusammenarbeit mit der Rechtsvorgängerin der\nBeklagten im Ergebnis nicht aufgegeben, sondern lediglich umgestellt würde.\n10\nDer Kläger beantragte erstinstanzlich zuletzt:\n1. Es wird festgestellt, dass der Kläger gegenüber der Beklagten eine unverfallbare Anwartschaft auf die in\nder Versorgungsordnung vom 01.04.1985 vorgesehenen Leistungen der betrieblichen Altersversorgung\nunter Berücksichtigung einer anrechnungsfähigen Dienstzeit vom 01.01.1994 bis 31.03.2005 erworben hat.\n2. Hilfsweise festzustellen, dass die Beklagte im Wege des Schadensersatzes verpflichtet ist, den Kläger so\nzu stellen, als habe er eine solche unverfallbare Anwartschaft erworben.\n11\nDie Beklagte beantragte erstinstanzlich,\ndie Klage abzuweisen.\n12\nDie Beklagte vertrat erstinstanzlich die Ansicht, dass der Kläger keine unverfallbare Anwartschaft auf\nBetriebsrentenleistungen erworben habe. Zum Zeitpunkt seines Ausscheidens am 31.03.2005 habe die\nVersorgungszusage entgegen § 1 b Abs. 1 BetrAVG i. V. m. § 30 f Abs. 1 BetrAVG noch keine zehn Jahre\nbestanden. Da Ausbildungsverhältnisse aus dem persönlichen Anwendungsbereich der VO 85 ausdrücklich\nausgenommen worden seien, habe die Versorgungszusage erst ab Beginn des Arbeitsverhältnisses am\n01.06.1995 bestanden. Die Rechtsvorgängerin der Beklagten habe dem Kläger unter dem Punkt\n„Vergütung“ seines Ausbildungsvertrags auch nichts Anderes zugesagt. Soweit ausgeführt sei, dass die\nbetrieblichen und tariflichen Leistungen gewährt würden, dann bedeute dies selbsterklärend, dass hierfür\ndas Vorliegen der tatbestandlichen Voraussetzungen Grundvoraussetzungen wäre.\n13\nDie Beklagte sei auch nicht verpflichtet, den Kläger wegen des Schadensersatzes so zu stellen, als habe er\neine unverfallbare Anwartschaft erworben. Bei der Auskunft der Rechtsvorgängerin der Beklagten aus\nJanuar 2005 handele es sich nicht um ein abstraktes oder deklaratorisches Schuldanerkenntnis, sondern\num eine unverbindliche Auskunft, die grundsätzlich zum Jahreswechsel in standardisierter Form an die\nArbeitnehmer gesandt würden. Es handele sich um eine bloße Information. Hinzu komme, dass bei der\nAbfassung dieses standardisierten Schreibens im Januar 2005 nicht absehbar gewesen sei, dass die\nklagende Partei das Arbeitsverhältnis etwaig zum April beenden würde. Der Kläger habe die Beklagte zu\ndiesem Zeitpunkt auch nicht um eine Auskunft ersucht, sondern vielmehr habe diese die Auskunft autonom\nals Serviceleistung erbracht. Die Auskunft sei im Übrigen auch nicht falsch. Im Auskunftsschreiben sei klar\nund verständlich ausgedrückt, dass das Unternehmen nach Eintritt des Versorgungsfalls gemäß VO 85\nVersorgungsleistungen zahlen wird. Darüber hinaus werde ausdrücklich darum gebeten, zu beachten, dass\nzum Bezug der betrieblichen Versorgungsleistungen alle Leistungsvoraussetzungen erfüllt sein müssten.\nBeide Formulierungen würden unmissverständlicher Weise darauf hinweisen, dass noch weitere\nBedingungen erfüllt sein müssten und dieses Schreiben keine bestehenden Ansprüche festsetze. Zu\nberücksichtigen sei auch, dass die Mitteilung zur Höhe der unverfallbaren Anwartschaft ganz bewusst im\nKonjunktiv formuliert worden sei. Dies würde dem Leser wiederum darauf stoßen lassen, dass noch weitere\nBedingungen erfüllt sein müssten, bevor ein solcher Anspruch hätte entstehen können. Bei dem Schreiben\nvom Januar 2005 handele es sich auch um keine Mitteilung im Sinne von § 5 Ziffer 8.3 VO 85. Von einer\nsolchen Mitteilung gehe eine größere Verbindlichkeit einher als bei einer Auskunft. Darüber hinaus erfordere\ndie Mitteilung nach § 5 Ziffer 8.3 VO 85 eine Formulierung im Indikativ, also, dass tatsächlich eine\nunverfallbare Anwartschaft bestehe. Mit vorliegender Auskunft habe in keinem Fall eine förmliche Mitteilung\ngemacht werden sollen, dass eine unverfallbare Anwartschaft bestehe, was für den Kläger auch erkennbar\ngewesen sei. Hinzukomme, dass der Arbeitgeber nach der Rechtsprechung des Bundesarbeitsgerichts\nnicht verpflichtet sei, den Arbeitnehmer darauf hinzuweisen, dass er die Unverfallbarkeitsfristen des § 1 b\nBetrAVG noch nicht erfüllt habe. Im Übrigen könne der Kläger im Rahmen eines Schadenersatzanspruchs\nlediglich den Ersatz der sogenannten negativen Interessen ersetzt verlangen. Der Arbeitgeber müsste nur\nSchadenersatz leisten, wenn der Arbeitnehmer falsche Dispositionen wegen mangelhafter oder falscher\nInformationen getroffen hätte. Ansprüche könnten folglich nur bestehen, sofern der Versorgungsberechtigte\nim Vertrauen auf die Richtigkeit des Leistungsbescheids Vermögensdispositionen getroffen oder zu treffen\nunterlassen habe, die er auch für die Zukunft nicht mehr oder nur unter unzumutbaren Nachteilen\nrückgängig machen bzw. nachholen könne. Ein etwaiger Schaden müsse vorliegend schließlich im Lichte\ndes rentenrechtlich noch sehr jungen Alters der klagenden Partei bei seinem Ausscheiden (nämlich 39\nJahre und 9 Monate) betrachtet werden. Etwaiger Schadensersatzanspruch sei daher nach § 254 BGB zu\nmindern.\n14\nDas Arbeitsgericht Bamberg hat mit Endurteil vom 04.04.2018 nach Abweisung des Hauptantrages als\nunbegründet, dem Hilfsantrag stattgegeben. Der Kläger habe gemäß § 1 b Abs. 1 BetrAVG i. V. m. § 30 f\nAbs. 1 BetrAVG keine unverfallbare Anwartschaft auf die in der VO 85 vorgesehenen Leistung in der\nbetrieblichen Altersversorgung erworben, weil die Versorgungszusage zum Zeitpunkt seines Ausscheidens\nnoch keine zehn Jahre bestanden habe. Es liege auch keine davon abweichende vertragliche Zusage bzw.\nein darauf gerichtetes Schuldanerkenntnis vor. Die Beklagte sei aber aufgrund der im Januar 2005\nfehlerhaft erteilten Auskunft gemäß §§ 280 Abs. 1, 241 Abs. 2 i. V. m. § 249 ff. BGB verpflichtet, den Kläger\nso zu stellen, als habe er eine unverfallbare Anwartschaft auf diese Leistungen erworben.\n15\nDer Kläger sei mit Ablauf des 31.03.2005 nach Vollendung seines 35. Lebensjahres bei der\nRechtsvorgängerin der Beklagten ausgeschieden. Zu diesem Zeitpunkt habe die Versorgungszusage der\nVO 85 aber noch keine 10 Jahre bestanden. Die zu Beginn des Ausbildungsverhältnisses des Klägers\ngeltende VO 85 habe ausdrücklich Auszubildende vom persönlichen Geltungsbereich ausgenommen. Falle\nder Arbeitnehmer erst nachträglich unter den Geltungsbereich eines Versorgungstarifvertrages sei die\nZusage erst erteilt, sobald der Arbeitnehmer die Tatbestandsvoraussetzungen der Regelung erfülle. Dies\nsei im Fall des Klägers erst mit Beginn seines Arbeitsverhältnisses am 01.06.1995 der Fall. Die\nVersorgungszusage habe daher im Zeitpunkt seines Ausscheidens lediglich 9 Jahre und 10 Monate\nbestanden. Der Nichtberücksichtigung der Ausbildungszeit stünde weder § 17 Abs. 1 Satz 1 Hs. 2 BetrAVG\nnoch § 3 Nr. 3 Satz 2 VO 85 entgegen. § 17 Abs. 1 Satz 1 Hs. 2 BetrAVG regele zwar die Gleichstellung\nvon Berufsausbildungsverhältnissen mit Arbeitsverhältnissen, was insbesondere auch für die gesetzlichen\nUnverfallbarkeitsfristen gelte. Voraussetzung sei aber, dass dem Auszubildenden eine Versorgungszusage\nerteilt worden sei, was vorliegend nicht der Fall sei. § 3 Nr. 3 Satz 2 VO 85, der die Berücksichtigung der\nAusbildungszeiten bei der 10-jährigen Wartezeit im Zusammenhang mit der Invalidenversorgung regele,\nerweitere nicht den persönlichen Geltungsbereich der tariflichen Versorgungszusage, sondern setze voraus,\ndass dieser eröffnet sei.\n16\nEine davon zu Gunsten des Klägers abweichende vertragliche Zusage läge nicht vor. Aus dem Hinweis im\nSchreiben der Rechtsvorgängerin der Beklagten vom 09.11.1993, dass neben der Vergütung in Höhe von\nDM 2.435,- die betrieblichen und tariflichen Leistungen gewährt würden, folge nicht, dass diese unabhängig\nvom Vorliegen der tarifvertraglichen Voraussetzungen gewährt werden sollten. Anhaltspunkte dafür, dass\ndie Rechtsvorgängerin der Beklagten mit dieser Formulierung eine übertarifliche Verpflichtung begründen\nwollte, seien nicht ersichtlich. Das Auskunftsschreiben aus dem Januar 2005 stelle weder ein abstraktes\nnoch ein deklaratorisches Schuldanerkenntnis dar, sondern eine sog. Wissenserklärung.\n17\nDie Rechtsvorgängerin der Beklagten habe im Januar 2005 dem Kläger hinsichtlich eines unverfallbaren\nRentenanspruchs jedoch eine unrichtige Auskunft erteilt. Aufgrund dieser Auskunft habe der Kläger im\nZeitpunkt seiner Eigenkündigung im März 2005 davon ausgehen dürfen, dass er bereits eine unverfallbare\nAnwartschaft auf die in der VO 85 geregelten Leistungen der betrieblichen Altersversorgung erworben habe.\nEs sei davon auszugehen, dass der Kläger das Arbeitsverhältnis ohne fehlerhafte Auskunft nicht bereits\nzum Ablauf des 31.03.2005, sondern erst zum Ablauf der gesetzlichen Unverfallbarkeitsfrist gekündigt hätte.\nDie Beklagte sei daher gemäß §§ 280 Abs. 1, 241 Abs. 2 i. V. m. § 249 ff. BGB verpflichtet, den Kläger so\nzu stellen, als habe er eine unverfallbare Anwartschaft auf die in der VO 85 geregelten Leistungen der\nbetrieblichen Altersversorgung erworben.\n18\nErteilt ein Arbeitgeber Auskünfte an Arbeitnehmer, müssen diese richtig, eindeutig und vollständig sein.\nDies gelte unabhängig davon, ob der Arbeitgeber zur Auskunftserteilung verpflichtet gewesen sei oder nicht.\nDie von der Rechtsvorgängerin der Beklagten im Januar 2005 erteilte Auskunft erwecke den unzutreffenden\nEindruck, dass der Kläger zu diesem Zeitpunkt bereits eine unverfallbare Anwartschaft auf die in der VO 85\nvorgesehenen Versorgungsleistungen erworben habe. Aus der Auskunft aus dem Januar 2005 ergebe sich\nausdrücklich und durch Fettdruck optisch hervorgehoben, dass „Stand 2004“ die Höhe des unverfallbaren\nRentenanspruchs nach Vollendung des 65. Lebensjahres € 555,45 monatlich betrage. Damit sei der\nunzutreffende Eindruck erweckt worden, dass der Kläger im Januar 2005 bereits eine unverfallbare\nAnwartschaft erworben habe, die nach einem vorzeitigen Ausscheiden mit Vollendung des 65.\nLebensjahres fällig werde und die „Stand 2004“ € 555,45 monatlich betrage. Was die Unverfallbarkeit der\nRentenanwartschaft anbelange, enthalte die Auskunft keine Vorbehalte und Einschränkungen.\nInsbesondere habe sie nicht zu erkennen gegeben, dass die Unverfallbarkeit noch von einem weiteren\nFortbestand des Arbeitsverhältnisses über das Jahr 2004 hinaus abhänge. Im Gegenteil werde hinsichtlich\nder Fälligkeit nur auf ein vorzeitiges Ausscheiden (und nicht auf ein erforderliches weiteres Verbleiben) und\ndas Erreichen des 65. Lebensjahres abgestellt. Hinzu komme, dass eine entsprechende Mitteilung über die\nHöhe des „unverfallbaren Rentenanspruchs“ in dem Auskunftsschreiben aus Januar 2004 noch nicht\nenthalten war. Der Kläger habe daher davon ausgehen dürfen, dass er nunmehr einen „unverfallbaren\nRentenanspruch“ erworben habe, der durch eine Kündigung des Arbeitsverhältnisses nicht mehr „verfallen“\nkönne. Ein anderer Grund für die erstmalige Mitteilung der Höhe des „unverfallbaren Rentenanspruchs“ im\nAuskunftsschreiben Januar 2005 sei nicht ersichtlich. Insbesondere sei nicht ersichtlich, dass diese darauf\nberuhen solle, dass der Kläger im Laufe des Jahres 2005 erstmals eine unverfallbare Anwartschaft\nerwerben könnte. Die Auskunft gebe ausdrücklich den „Stand 2004“ wieder und beziehe sich damit auf das\nvergangene Jahr 2004 und nicht auf den weiteren Verlauf des Jahres 2005. Abweichendes ergäbe sich\nauch nicht aus dem übrigen Text des Auskunftsschreibens. Soweit darauf hingewiesen werde, „dass zum\nBezug der betrieblichen Versorgungsleistungen alle Leistungsvoraussetzungen erfüllt sein müssen“,\nbetreffe das die Leistungsvoraussetzungen der VO 85 und „insbesondere“ die Rente nach Eintritt des\nVersorgungsfalls. Im Übrigen müsse auch bei einer unverfallbaren Anwartschaft - mit Ausnahme des\nFortbestandes des Arbeitsverhältnisses bis zum Eintritt des Versorgungsfalles - die in der\nVersorgungszusage geregelten Leistungsvoraussetzungen bei Eintritt des Versorgungsfalls erfüllt bzw. im\nZeitpunkt des Ausscheidens bis dahin noch erfüllbar sein. Soweit es darin heiße, dass der Rentenanspruch\n„nach einem vorzeitigem Ausscheiden aus dem Unternehmen zum 65. Lebensjahr fällig werden würde“,\nstelle dies keinen Hinweis darauf dar, dass eine unverfallbare Betriebsrentenanwartschaft noch nicht\nerworben worden sei. Dadurch werde vielmehr zum Ausdruck gebracht, dass der „unverfallbare\nRentenanspruch“ der Anspruch sei, der dem Kläger zustehe, wenn das Arbeitsverhältnis nicht bis zum\nEintritt des Versorgungsfalles fortbestünde, sondern „vorzeitig“ ende. Aus der Auskunft ergäbe sich damit,\ndass der Rentenanspruch bei einem vorzeitigen Ausscheiden des Klägers nicht „verfällt“, sondern\n„unverfallbar“ sei und zum „Stand 2004“ € 555,45 betrage. Dass der die Fälligkeit des Anspruchs\nbetreffende Relativsatz im Konjunktiv formuliert sei, bringe nicht zum Ausdruck, dass die Unverfallbarkeit\ndes Anspruchs noch unsicher bzw. von weiteren Bedingungen abhängig sei. Dadurch sei lediglich zum\nAusdruck gebracht, dass der „Rentenanspruch“ im Falle eines (im Zeitpunkt der Auskunft nicht\nfeststehenden) vorzeitigen Ausscheidens bestünde und - wie die reguläre Vollrente auch - das Erreichen\ndes 65. Lebensjahres voraussetze. Die sonstigen Vorbehalte würden die im Zeitpunkt der Auskunft\nebenfalls nicht abschließend feststehende Rentenhöhe und nicht den möglichen „Verfall“ im Falle eines\nvorzeitigen Ausscheidens betreffen.\n19\nDie Beklagte entlaste nicht, dass es sich dem Auskunftsschreiben um eine standardisierte Serviceleistung\nhandelte, die turnusmäßig an die Arbeitnehmer versendet werde. Auch in derartigen Schreiben enthaltene\nAuskünfte dürfen nicht unzutreffend sein. Im Übrigen sei das Schreiben insoweit individualisiert, als es die\npersönliche Anrede mit dem Namen des Klägers und Angaben zur Höhe seiner Rentenansprüche enthalte.\nAußerdem enthalte es erstmals eine Angabe zur Höhe des „unverfallbaren Rentenanspruchs“. Insoweit\nrichte sich die Auskunft also nicht an sämtliche Arbeitnehmer gleichermaßen, sondern berücksichtige den\nKläger betreffende Besonderheiten. Die Beklagte entlaste auch nicht, dass im Zeitpunkt der Auskunft nicht\nabsehbar gewesen sei, dass der Kläger im März 2005 ausscheiden werde. Die Auskunft dürfe unabhängig\ndavon, ob mit einem Ausscheiden des Mitarbeiters zu rechnen sei, keine unzutreffenden Angaben zur\nunverfallbaren Betriebsrentenanwartschaft enthalten. Das gelte umso mehr, als die Auskunft darüber, ob\nund in welcher Höhe eine unverfallbare Rentenanwartschaft erworben worden sei, gerade und vor allem für\nMitarbeiter Bedeutung habe, die ein vorzeitiges Ausscheiden in Betracht ziehen würden. Selbst wenn der\nVorgesetzte des Klägers, Herr E., nicht ausdrücklich die Richtigkeit dieser Auskunft bestätigt hätte, würde\ndies nichts an der Unrichtigkeit der Auskunft ändern. Vielmehr hätte Herr E. als Erfüllungsgehilfe der\nRechtsvorgängerin der Beklagten bei Gesprächen über ein Ausscheiden aus dem Arbeitsverhältnis und\neine künftige Zusammenarbeit auf selbständiger Basis darauf hinweise müssen, dass der Kläger noch keine\nunverfallbare Anwartschaft erworben habe, da mit der im Januar 2005 erteilten fehlerhaften Auskunft eine\n„Gefahrenquelle“ durch die Arbeitgeberin geschaffen worden sei. Die Beklagte sei aufgrund der fehlerhaften\nAuskunft im Wege des Schadenersatzes verpflichtet, den Kläger so zu stellen, als habe er eine\nunverfallbare Anwartschaft auf die Betriebsrentenleistungen der VO 85 erworben. Es sei anerkannt, dass\nder Arbeitgeber, der fehlerhafte Auskünfte über Versorgungsansprüche erteile, für daraus entstandene\nSchäden hafte. Der Arbeitgeber sei gemäß §§ 249 ff BGB verpflichtet, den Zustand herzustellen, der\nbestünde, wenn er keine falsche, sondern eine richtige Auskunft erteilt hätte. Es käme vorliegend daher\ndarauf an, was passiert wäre, wenn die Rechtsvorgängerin der Beklagten im Auskunftsschreiben aus dem\nJanuar 2005 nicht den unzutreffenden Eindruck erweckt hätte, dass der Kläger bereits eine unverfallbare\nAnwartschaft erworben habe. Es sei davon auszugehen, dass der Kläger in diesem Fall das\nArbeitsverhältnis nicht bereits zum 31.03.2005 gekündigt hätte, sondern erst zum Ablauf der gesetzlichen\nUnverfallbarkeitsfrist, d.h. zum Ablauf des 31.05.2005. In diesem Fall wäre der Kläger mit einer\nunverfallbare Anwartschaft auf die Betriebsrentenleistungen der VO 85 aus dem Arbeitsverhältnis\nausgeschieden, so dass die Beklagte verpflichtet sei, ihn so zu stellen. Die Beklagte selbst habe auch keine\nAnhaltspunkte vorgebracht, die dafür sprechen würden, dass der Kläger gleichwohl zum 31.03.2005\ngekündigt hätte.\n20\nDie Beklagte könne nicht einwenden, dass der Schadensersatzanspruch des Klägers nur auf das negative\nInteresse gerichtet sein könne. Zwar treffe zu, dass der Arbeitnehmer bei fehlerhaften Auskünften\nregelmäßig nicht das Erfüllungs-, sondern das negative Interesse (sog. Vertrauensschaden) ersetzt\nverlangen könne. Dies hat in den Fällen, in denen der Arbeitnehmer fehlerhaft über die Höhe der\nBetriebsrente bzw. der unverfallbaren Anwartschaft informiert worden sei, zur Folge, dass er als\nSchadensersatz nicht die Betriebsrente in der falsch mitgeteilten Höhe beanspruchen könne, sondern\nfestzustellen sei, welche Versorgung der Arbeitnehmer bei richtiger Auskunft nach dem gewöhnlichen Lauf\nder Dinge oder nach den besonderen Umständen, insbesondere nach den getroffenen Vorkehrungen durch\nAbschluss einer zusätzlichen privaten Versorgung erhalten hätte, wobei ersparte Versicherungsbeiträge\nschadensmindernd anzurechnen seien. Vorliegend ginge es jedoch nicht darum, dass der Kläger im\nHinblick auf die ihm fehlerhaft mitgeteilte Höhe der unverfallbaren Anwartschaft eine zusätzliche\nEigenversorgung unterlassen habe. Es ginge darum, dass der Kläger aufgrund der Auskunft zu einem\nZeitpunkt gekündigt habe, zu dem seine Betriebsrentenanwartschaft entgegen der Auskunft noch nicht\nunverfallbar gewesen sei. Die im Vertrauen auf die Richtigkeit der Auskunft unterlassene Disposition des\nKlägers, die zu Versorgungseinbußen führte, sei nicht der Abschluss einer zusätzlichen Versorgung, für die\nvon ihm Versicherungsbeiträge zu entrichten gewesen wären. Vielmehr hätte der Kläger bei richtiger\nInformation erst zum Ablauf der gesetzlichen Unverfallbarkeitsfrist gekündigt. Die im Vertrauen auf die\nRichtigkeit der Auskunft vom Kläger vorgenommene Disposition sei die „verfrühte“ Kündigung gewesen, der\ndaraus resultierende Schaden bestünde darin, dass er keine unverfallbare Anwartschaft auf die\nBetriebsrentenleistungen der VO 85 erworben habe.\n21\nEin den Umfang der Schadenersatzpflicht einschränkendes Mitverschulden des Klägers gemäß § 254 BGB\nliege nicht vor. Aus den dem Kläger zugänglichen gesetzlichen Regelungen der §§ 1 b Abs. 1 und 30 f Abs.\n1 BetrAVG i. V. m. der tarifvertraglichen Bestimmung des § 1 Nr.1 VO 85 ergäbe zwar, dass die\nAusbildungszeit bei der erforderlichen 10-jährigen Zusagedauer nicht zu berücksichtigen sei. Diese\nRechtsfolge erschließe sich aber nicht unmittelbar aus dem Gesetz bzw. der VO 85, sondern erst aus einer\nGesamtbetrachtung der verschiedenen, nicht zusammenhängend und in unterschiedlichen Rechtsquellen\ngeregelten Vorschriften. Hinzu komme, dass § 17 Abs. 1 Satz 1 Hs. 2 BetrAVG ausdrücklich die\nGleichstellung von Berufsausbildungsverhältnissen mit Arbeitsverhältnissen regele, ohne ausdrücklich\nklarzustellen, dass dies im Hinblick auf die Unverfallbarkeitsfristen nur dann gelte, wenn dem\nAuszubildenden eine Versorgungszusage erteilt worden sei. Vor diesem Hintergrund hätte der Kläger keine\nVeranlassung gehabt, die Richtigkeit der Auskunft, die noch dazu von der Abteilung „Personal/Betriebliches\nVersorgungswerk“, also offenbar von einer mit dem betrieblichen Versorgungswerk befassten Fachabteilung\nerteilt wurde, in Zweifel zu ziehen. Der Kläger hätte eine unverfallbare Anwartschaft mit Ablauf der\nUnverfallbarkeitsfrist erworben, ohne hierfür Beiträge zahlen zu müssen. Er sei daher auch nicht verpflichtet\ngewesen, auf eigene Kosten Versorgungsverträge abzuschließen, um den von der Beklagten\ngegebenenfalls zu ersetzenden Versorgungsschaden zu beschränken.\n22\nDas Urteil des Arbeitsgerichts Bamberg vom 04.04.2018 ist dem Kläger am 08.05.2018 und der Beklagten\nam 09.05.2018 zugestellt worden. Die Berufungsschrift der Beklagten ist beim Landesarbeitsgericht\nNürnberg am 16.05.2018, die Berufungsbegründungsschrift am 09.07.2018 eingegangen. Die\nBerufungsschrift des Klägers ist beim Landesarbeitsgericht Nürnberg am 07.06.2018 eingegangen, die\nBerufungsbegründungsschrift innerhalb der verlängerten Berufungsbegründungsfrist am 08.08.2018.\n23\nDie Beklagte vertritt die Ansicht, dass das Arbeitsgericht Bamberg der Klage zu Unrecht teilweise\nstattgegeben habe. Die Klage sei insgesamt unbegründet. Zwar habe das Arbeitsgericht Bamberg zu Recht\nfestgestellt, dass keine betriebliche Rentenanwartschaft der klagenden Partei bestünde, da der Kläger bei\nAusscheiden zum 31.03.2005 zwar 35 Jahre alt gewesen sei, die Zusage aber noch keine 10 Jahre\nBestand gehabt hätte. Die Versorgungsordnung sei diesbezüglich eindeutig, dass vorher bestehende\nAusbildungsverhältnisse nicht zu berücksichtigen seien. Die einschlägige Zusagedauer sei somit vom\nKläger nicht voll erreicht worden. Ebenfalls habe das Arbeitsgericht Bamberg zutreffenderweise eine\nzugunsten des Klägers abweichende vertragliche Zusage verneint. Aus dem Hinweis auf die Gewährung\ntariflicher Leistungen im Schreiben vom 09.11.1993 folge nicht, dass diese unabhängig vom Vorliegen ihrer\ntarifvertraglichen Voraussetzungen gewährt werden sollen. Anhaltspunkte dafür, dass mit dieser\nFormulierung eine übertarifliche Verpflichtung begründet werden sollte, seien nicht ersichtlich.\nZutreffenderweise stelle das Arbeitsgericht Bamberg auch fest, dass es sich bei der Auskunft aus dem\nJanuar 2005 nicht um ein abstraktes oder deklaratorisches Schuldanerkenntnis handelte. Der\nPrimäranspruch auf eine betriebliche Versorgungsleistung scheitere demnach, völlig unabhängig von der\nBeklagten, an den gesetzlichen Voraussetzungen. Das Arbeitsgericht Bamberg habe dem Kläger jedoch\ngenau diesen Primäranspruch über den Schadenersatzanspruch des Hilfsantrages zugesprochen. Dabei\nhabe das Arbeitsgericht zunächst die Frage, ob durch das Auskunftsschreiben eine Pflichtverletzung im\nSinne der §§ 280 Abs. 1, 241 Abs. 2 BGB begangen worden sei, zu Unrecht bejaht und darüber hinaus die\nArt und Höhe des Schadens rechtsfehlerhaft bestimmt.\n24\nDie insoweit beweisbelastete Klagepartei sei bereits ihrer Darlegungslast bezüglich einer Pflichtverletzung\nder Beklagten nicht ausreichend nachgekommen. Die Beklagte habe durch das Auskunftsschreiben keine\nNebenpflicht verletzt. Das Auskunftsschreiben habe ein Standardauskunftsschreiben dargestellt, zu dem\nder Arbeitgeber nicht verpflichtet gewesen sei. Der Kläger habe aus einer Position der Stärke heraus die\nvollständige autonome Entscheidung getroffen, von sich aus zu kündigen.\n25\nIn dem Auskunftsschreiben sei klar und verständlich ausgedrückt, dass das Unternehmen nach Eintritt des\nVersorgungsfalles gemäß Tarifvertrag über die betriebliche Versorgungsordnung vom 01.04.1985\nVersorgungsleistungen zahlen werde. Darüber hinaus sei ausdrücklich darum gebeten worden, zu\nbeachten, dass zum Bezug der betrieblichen Versorgungsleistungen alle Leistungsvoraussetzungen erfüllt\nsein müssten. Beide Formulierungen wiesen unmissverständlich darauf hin, dass noch weitere\nBedingungen hätten erfüllt sein müssen und dieses Schreiben keine bestehenden Ansprüche festsetze. Die\nAuskunftsschreiben werden turnusmäßig an die Arbeitnehmer versandt, was den informatorischen\nCharakter nochmals grundsätzlich unterstreiche. In keinem Fall sollte mit dieser Auskunft eine förmliche\nMitteilung gemacht werden, dass eine unverfallbare Anwartschaft bestehe. Dass im Januar 2005 erstmals\ndie unverfallbare Anwartschaft in dem Auskunftsschreiben erwähnt worden sei, sei folgerichtig, denn im\nJahr 2005 hätten die Voraussetzungen für die unverfallbare Anwartschaft erfüllt werden können. In dem\njahresturnusmäßigen Auskunftsschreiben sei ausdrücklich erwähnt, dass ein Anspruch auf eine\nVersorgungsleistung nur dann bestünde, wenn am Ende alle Anspruchsvoraussetzungen erfüllt seien. Aus\nder Formulierung „unverfallbaren Anwartschaft“ könne entgegen der Bewertung des Arbeitsgerichts nicht\ngeschlossen werden, dass bereits ein unverfallbarer Anspruch bestünde. Bewusst sei der Konjunktiv\nverwendet worden, welcher den jeweiligen Adressaten darauf stoßen lasse, dass noch weitere\nBedingungen erfüllt sein müssten, bevor ein solcher Anspruch hätte entstehen können. Darüber hinaus sei\nvon einem vorzeitigen Ausscheiden die Rede, der unbestimmte Artikel untermauere nochmals, dass hiermit\nkeinesfalls ein bereits konkreter Zeitpunkt ausgedrückt werde. Nach diesem Sinn und Zweck des\nAuskunftsschreibens hätte die klagende Partei folglich auf Grundlage dieses Auskunftsschreibens die\nGelegenheit gehabt, sich mit der Beklagten über ihre zu erwartende Betriebsrente auszutauschen. Der\nKläger habe hingegen durch seine autonome Kündigung zum 31.03.2005 Fakten dahingehend geschaffen,\ndass die gesetzlichen Voraussetzungen nicht mehr erfüllt werden konnten. Bei der Bewertung der\nAuskunftspflichtverletzung seien die Begleitumstände zwingend zu berücksichtigen. Als Grundsatz gelte,\ndass jeder Vertragspartner selbst für die Wahrnehmung seiner Interessen zu sorgen hätte. Erforderlich sei\neine Abwägung der Interessen des Arbeitgebers und des versorgungsberechtigten Arbeitnehmers, wobei\nalle Umstände des Einzelfalles zu berücksichtigen seien. Nach ständiger Rechtsprechung sei der\nArbeitgeber zunächst nicht verpflichtet, den Arbeitnehmer über die knappe Nichterfüllung der\nUnverfallbarkeitsfristen des § 1 b BetrAVG aufzuklären. Den Arbeitgeber treffe grundsätzlich bei Abschluss\neines Aufhebungsvertrages keine Mitwirkungs- noch Informationspflicht. Nur wenn der Arbeitnehmer\ndeutlich erkennbar vor Abschluss eines Aufhebungsvertrages auf die Sicherung einer\nAltersversorgungsanwartschaft Wert legte, und diese Wertung einem selbständigen Verein obliege, müsse\nder Arbeitgeber den Arbeitnehmer wegen damit zusammenhängenden Fragen dorthin verweisen.\nUnterlasse der Arbeitgeber dies in zurechenbarer Weise und erwecke zugleich die Vorstellung, es bestünde\neine unverfallbare Anwartschaft, so sei er verpflichtet, den aus dem Verfall der Anwartschaft erwachsenden\nSchaden zu ersetzen. Für einen gesteigerten Informationsbedarf des Arbeitnehmers sei somit die Kenntnis\ndes Arbeitgebers Voraussetzung, dass der Arbeitnehmer besonderen Wert auf die unverfallbare\nAnwartschaft lege und dies relevant für sein Handeln sei. Bei Ausfertigung des Informationsschreibens im\nJanuar 2005 habe die Beklagte jedoch nichts vor einem etwaigen Ausscheiden des Klägers gewusst.\n26\nNehme man eine Pflichtverletzung an, so habe das Arbeitsgericht Bamberg die Art und Höhe des Schadens\nrechtsfehlerhaft bestimmt. Das Arbeitsgericht Bamberg habe verkannt, dass es vorliegend um\nSchadenersatz neben der Leistung ginge, bei welchem grundsätzlich gerade nicht das Erfüllungsinteresse\ngeschützt sei, sondern das Vertrauensinteresse. Das Erfüllungsinteresse scheitere vorliegend aufgrund\neiner gesetzlichen Stichtagsregelung, welche aufgrund der eigenverantwortlichen Kündigung der klagenden\nPartei nicht mehr erreicht werden könne und nicht aufgrund einer Pflichtverletzung der Beklagten. Dieses\nErfüllungsinteresse dürfe aus diesem Grund keinesfalls im Rahmen der Bestimmung des kausalen und\nzurechenbaren Schadens Berücksichtigung finden. Die vorliegend im Raum stehende\nAuskunftspflichtverletzung sei lediglich ein vorgelagertes Ereignis. Sie könne ausschließlich\nschadensrechtliche „Weiche“ für den hypothetischen Kausalverlauf sein, der als geschütztes Interesse das\nVertrauensinteresse berücksichtige. Aufgrund des Schutzzweckes sei ausgeschlossen, die klagende Partei\neinfach so zu stellen, als habe sie nicht gekündigt und eine unverfallbare Anwartschaft erworben.\nHypothetisch sei anknüpfend an die Eigenkündigung und die dadurch nicht bestehende unverfallbare\nAnwartschaft zu fragen, ob und welche Dispositionen die klagende Partei getroffen hätte, wenn sie gewusst\nhätte, dass ihre Eigenkündigung zum Verlust der unverfallbaren Anwartschaft geführt hätte. Ansprüche\nkönnten folglich nur bestehen, sofern der Versorgungsberechtigte im Vertrauen auf die Richtigkeit des\nAuskunftsschreibens Vermögensdispositionen getroffen oder zu treffen unterlassen habe, die er auch für\ndie Zukunft nicht mehr oder nur unter unzumutbaren Nachteilen rückgängig machen bzw. nachholen könne.\nNehme man nun also eine Pflichtverletzung im Sinne einer Auskunftspflichtverletzung an, durch die das\nVertrauen erweckt worden sein könnte, dass bereits eine gewisse Altersversorgung bestünde, so käme\neben ein Schaden in Betracht, der sich aus der Gewinnchance/Zinsen der damals abgeschlossenen\nprivaten Altersvorsorge ergeben hätte, denn ein verletztes Vertrauen auf die unverfallbare Anwartschaft\nselbst sei eben nicht der Beklagten anzulasten, sondern vielmehr vom Gesetz vorgesehene Folge, wenn die\nVoraussetzungen nicht erfüllt seien. Zur Vermögensdisposition hat der Kläger jedoch nicht in ausreichender\nWeise vorgetragen.\n27\nDie Beklagte beantragt daher:\n1. Auf die Berufung der Beklagten wird das Urteil des Arbeitsgerichts Bamberg vom 04. April 2018, Az.: 2\nCa 732/17, abgeändert und die Klage abgewiesen.\n2. Die Berufung der klagenden Partei wird zurückgewiesen.\n28\nDer Kläger beantragt,\n1. Unter Abänderung des am 04.04.2018 verkündeten Urteils des Arbeitsgerichts Bamberg, Az.: 2 Ca\n732/17 wird festgestellt, dass der Kläger gegenüber der Beklagten eine unverfallbare Anwartschaft auf die in\nder Versorgungsordnung vom 01.04.1985 vorgesehenen Leistungen der betrieblichen Altersversorgung\nunter Berücksichtigung einer anrechnungsfähigen Dienstzeit vom 01.01.1994 bis 31.03.2005 erworben hat.\n2. Die Berufung der Beklagten wird zurückgewiesen.\n3. Die Beklagte trägt die Kosten des Rechtsstreits.\n29\nDer Kläger vertritt die Ansicht, dass das Arbeitsgericht rechtsirrig und fehlerhaft davon ausgegangen sei,\ndass eine Versorgungszusage zum 31.05.2005 noch nicht 10 Jahre bestanden hätte. Im Ausbildungsvertrag\nvom 09.11.1993 sei unter der Überschrift „Vergütung“ ausdrücklich die Gewährung der betrieblichen und\ntariflichen Leistungen vereinbart worden. Dabei habe es sich nicht lediglich um einen Hinweis auf die\nGewährung der tariflichen Leistungen gehandelt. Tatsächlich habe es sich um eine vertragliche\nVereinbarung und somit letztlich um eine vertragliche Zusage der tariflichen Leistungen gehandelt. Die\nGewährung der tariflichen Leistungen, somit auch die Versorgungszusage, die laut Tarifvertrag für\nAuszubildende nicht gelte, hätte überhaupt nur dann Sinn gemacht, wenn die Versorgungszusage entgegen\ndes Geltungsbereichs des Tarifvertrages auch dem Auszubildenden erteilt hätte werden sollen. Sofern der\nAusbildungsvertrag tarifliche Leistungen für Auszubildende gewähre, der Tarifvertrag tarifliche Leistungen\nfür Auszubildende hingegen nicht, hätte das Arbeitsgericht prüfen müssen, welche Regelung für den Kläger\ngünstiger sei. Diese Prüfung sei vom Arbeitsgericht fehlerhaft nicht vorgenommen worden. Hätte das\nArbeitsgericht geprüft, welche Regelung für den Kläger günstiger sei, wäre das Arbeitsgericht zu dem\nErgebnis gekommen, dass die Regelungen im Ausbildungsvertrag günstiger und damit vorrangig wirksam\nseien und aufgrund dessen eine Versorgungszusage bereits zum 01.01.2004 erteilt worden sei. Das\nArbeitsgericht sei auch unzutreffend davon ausgegangen, dass keine Anhaltspunkte dafür bestünden, dass\ndie Rechtsvorgängerin der Beklagten mit dieser Formulierung eine übertarifliche Verpflichtung begründen\nwollte. Entsprechende Anhaltspunkte würden sich vielmehr bereits aus den beiden vorgelegten\nAuskunftsschreiben der Beklagten ergeben. Bezeichnenderweise habe die Rechtsvorgängerin der\nBeklagten dem Kläger mit Auskunftsschreiben aus Januar 2005 betreffend den „Stand 2004“ einen\nunverfallbaren Rentenanspruch bei vorzeitigem Ausscheiden bestätigt. Das Bestehen der unverfallbaren\nAnwartschaft sei deshalb auch von dem Vorgesetzten des Klägers auf dessen Nachfrage hin bestätigt\nworden. Lediglich die Beklagte will Jahrzehnte später nicht mehr an der Vereinbarung der\nRechtsvorgängerin festhalten.\n30\nDie Berufung der Beklagten sei in jedem Fall zurückzuweisen, da, selbst wenn man wie das Arbeitsgericht\ndavon ausginge, dass der Hauptantrag unbegründet sei, jedenfalls der Hilfsantrag begründet sei. Bei der\nAuskunft aus dem Januar 2005 habe es sich nicht um ein reines Informationsschreiben gehandelt. Soweit\ndie Beklagte bemängele, die Auskunft sei nicht verlangt worden, so sei dies unerheblich. Die Beklagte möge\nzwar ohne entsprechende Aufforderung nicht zur Auskunft verpflichtet gewesen sein, wenn die Beklagte\naber dennoch Auskunft erteile, so müsse diese selbstverständlich richtig sein. Die Beklagte habe ihre\nRücksichtnahme- und Fürsorgepflicht verletzt, wenn sie Arbeitnehmern vermeintlich unrichtige Auskünfte\nerteile, die, weil Arbeitnehmer auf diese vertrauen, diesen Arbeitnehmern finanziellen Schaden zufügen.\nWer Auskunft über Ansprüche im Falle eines vorzeitigen Ausscheidens erteile, müsse auch mit einem\nvorzeitigen Ausscheiden rechnen. Es habe sich auch nicht um ein standardmäßiges Auskunftsschreiben\ngehandelt, vielmehr sei dieses Schreiben aktualisiert und bearbeitet. Zweck des Schreibens aus Januar\n2005 könne nur gewesen sein, dem Kläger Auskunft über den Stand seiner Ansprüche bzw. Anwartschaften\nzu der Betriebsrente zu erteilen. Der damalige Vorgesetzte des Klägers, Herr E., habe in einem Gespräch\nim März 2005 zugesichert, dass die Auskunft aus Januar 2005 zutreffend sei und der Kläger die\nVoraussetzungen für eine entsprechende unverfallbare Anwartschaft bereits erfüllt habe. Das Bestreiten der\nBeklagten, der Kläger hätte mit seiner Kündigung nicht noch einige Monate zugewartet, wenn ihm mitgeteilt\nworden wäre, dass die Versorgungszusage erst am 01.06.2005 10 Jahre Bestand hätte, sei vollkommen\nlebensfremd. Dies insbesondere unter dem Gesichtspunkt, dass die Zusammenarbeit zwischen dem Kläger\nund der Rechtsvorgängerin der Beklagten auch nach der Kündigung, lediglich seitens des Klägers nicht\nmehr als Arbeitnehmer, sondern als selbständiger Versicherungsvertreter, fortgesetzt worden sei.\n31\nZutreffend habe das Arbeitsgericht Bamberg die Auffassung vertreten, die Arbeitgeberseite habe eine\nPflichtverletzung im Sinne der §§ 280 Abs. 1 i. V. m. 241 Abs. 2 BGB begangen. Der Arbeitgeber habe\nvorliegend eine unrichtige Auskunft erteilt. Am Ergebnis änderten weder die Frage, ob ein\n„Standardauskunftsschreiben“ oder ein „Auskunftsschreiben“ vorliege, noch die Begleitumstände, in die das\nAuskunftsschreiben nach Auffassung der Beklagten eingeordnet werden solle, etwas an dem Anspruch des\nKlägers zumindest auf Schadensersatz. Unzutreffend sei auch, dass der Kläger ohne weitere\nKommunikation mit der Beklagten gekündigt hätte. Zum einen sei sowohl die Kündigung als auch die\nweitere Zusammenarbeit nach der Beendigung des Arbeitsverhältnisses mit der Rechtsvorgängerin der\nBeklagten abgesprochen gewesen, auch wenn hierfür von beiden Seiten kein genauer Zeitpunkt\nvorgegeben worden sei. Zum anderen habe der Kläger sogar vor der Kündigung noch das Gespräch mit\nseinem Vorgesetzten, dem Bezirksdirektor E., gesucht. Entgegen der Ansicht der Beklagten sei in dem\nAuskunftsschreiben weder klar und verständlich ausgedrückt worden, dass das Unternehmen nach Eintritt\ndes Versorgungsfalles gemäß VO 85 Versorgungsleistungen zahlen werde noch darüber hinaus\nausdrücklich darauf hingewiesen worden, dass zum Bezug der betrieblichen Versorgungsleistungen alle\nLeistungsvoraussetzungen erfüllt sein müssten. Die von der Beklagten zitierten Formulierungen aus dem\noberen Teil des Auskunftsschreibens haben sich offensichtlich nur auf die Höhe der Rente bezogen. Die\nLeistungsvoraussetzungen haben sich ausdrücklich auf den Bezug der betrieblichen Versorgungsleistungen\nbezogen. Als Beispiel für die Leistungsvoraussetzungen seien deshalb auch die Bewilligung der Vollrente\ndurch den gesetzlichen Rentenversicherungsträger und die Beendigung des Arbeitsverhältnisses aus\ndiesem Grund genannt worden. Beide Formulierungen haben sich offensichtlich nicht auf den\n„unverfallbaren Rentenanspruch“ bezogen, welcher nach einem vorzeitigen Ausscheiden aus dem\nUnternehmen zum 65. Lebensjahr fällig werden würde. Dies werde bereits dadurch belegt, dass Bewilligung\nder Vollrente durch den gesetzlichen Rentenversicherungsträger und die Beendigung des\nArbeitsverhältnisses aus diesem Grund keine Voraussetzungen für das Entstehen einer unverfallbaren\nAnwartschaft bei vorzeitigem Ausscheiden aus dem Unternehmen seien. Ins Leere ginge auch die\nArgumentation der Beklagten, es sei folgerichtig, dass im Januar 2005 erstmals die unverfallbare\nAnwartschaft in dem Auskunftsschreiben erwähnt worden sei, da im Jahr 2005 die Voraussetzungen für\neine unverfallbare Anwartschaft hätten erfüllt werden können. Die Beklagte verkenne hierbei, dass das\nAuskunftsschreiben aus Januar 2005 ausdrücklich den Stand 2004 wiedergegeben haben. Ebenfalls\nversucht die Beklagte unzutreffend darzulegen, dass aus der Formulierung betreffend die unverfallbare\nAnwartschaft im Auskunftsschreiben aus Januar 2005 nicht hervorginge, dass bereits ein unverfallbarer\nAnspruch bestanden habe, da im Auskunftsschreiben der Konjunktiv verwendet worden sei. Der Konjunktiv\n„würde“ sei nämlich offensichtlich nur deshalb verwendet, da zum Zeitpunkt des Auskunftsschreibens die\ndort genannte Bedingung, das vorzeitige Ausscheiden aus dem Unternehmen, noch nicht erfüllt gewesen\nsei. Hinsichtlich der Höhe des unverfallbaren Rentenanspruchs sei nämlich bezeichnenderweise der\nIndikativ „beträgt“ verwendet worden. Unzutreffend sei daher die lebensfremde Auffassung der Beklagten,\nder Adressat und Leser würde beim Lesen dieser Formulierung davon ausgehen müssen, dass die\nBedingungen aus der VO 85 erfüllt sein müssten und nicht lediglich, dass die dort ausdrücklich und einzig\ngenannte Bedingung, nämlich das vorzeitige Ausscheiden aus dem Unternehmen, erfüllt sein müsse. Der\nKläger sei zum Zeitpunkt des Auskunftsschreibens noch kein ausgeschiedener Arbeitnehmer gewesen.\nSinn und Zweck des Auskunftsschreibens sei es deshalb auch nicht gewesen, sich über die zu erwartende\nBetriebsrente auszutauschen. Vorliegend ginge es nicht darum, dass ein Arbeitgeber über Fristen oder\nPflichten nicht aufgeklärt habe, somit eine bloße Untätigkeit des Arbeitgebers, sondern, dass ein\nArbeitgeber einem Arbeitnehmer aktiv unrichtige Auskunft erteilt habe, auf die der Arbeitnehmer, nach\nnochmaliger Nachfrage bei seinem Vorgesetzten, vertraut habe. Lediglich im Rahmen der Prüfung, ob eine\nHinweispflicht für den Arbeitgeber zur Vermeidung von Rechtsnachteilen des Arbeitnehmers bestünde,\nseien nach der Rechtsprechung des BAG die besonderen Umstände des Einzelfalles zu berücksichtigen\nund eine Interessenabwägung vorzunehmen. Vorliegend habe der Arbeitgeber jedoch eine falsche Auskunft\nerteilt, so dass es auf besondere Umstände des Einzelfalles und eine Interessenabwägung nicht ankäme.\n32\nDas Arbeitsgericht habe in seiner Entscheidung auch berücksichtigt, dass nicht das Erfüllungsinteresse,\nsondern das Vertrauensinteresse bei fehlerhaft erteilter Auskunft geschützt sei. Gemäß § 249 BGB sei der\nKläger so zu stellen, wie er bei ordnungsgemäßer Auskunftserteilung gestanden hätte. In diesem Fall hätte\nder Kläger nicht vorzeitig, sondern erst nach Ablauf der gesetzlichen Unverfallbarkeitsfrist gekündigt und die\nunverfallbare Anwartschaft wäre zugunsten des Klägers entstanden. Die Beklagte habe im Rahmen der\nHaftung für den Vertrauensschaden denjenigen Schaden zu ersetzen, der dem Kläger dadurch entstanden\nsei, dass er auf die Richtigkeit der Auskunft vertraut habe. Der Kläger habe vorliegend zum Zeitpunkt der\nKündigung aufgrund der Auskunft geglaubt, es bestünde bereits eine unverfallbare Anwartschaft und habe\ndeshalb bereits zum 31.03.2005 gekündigt, statt noch den Ablauf der gesetzlichen Unverfallbarkeitsfrist\nabzuwarten. Die falsche Auskunft der Arbeitgeber sei somit ursächlich für die vorzeitige Kündigung. Der\nsogenannte Vertrauensschaden entspreche daher vorliegend ohnehin dem Erfüllungsinteresse, so dass die\nAusführungen der Beklagten zur Differenzierung zwischen negativem Interesse und Erfüllungsinteresse\nnicht entscheidungserheblich seien. Der zum Ersatz verpflichtende Umstand sei vorliegend die falsche\nAuskunft der Beklagten und nicht das Nichterreichen des Ablaufs der gesetzlichen Unverfallbarkeitsfrist als\nStichtag. Relevant sei insoweit alleine, dass die Pflichtverletzung der Arbeitgeberin ursächlich gewesen sei\nfür die Kündigung des Klägers vor Ablauf der gesetzlichen Unverfallbarkeitsfrist. Abzustellen sei auch nicht\nerst darauf, welche Disposition der Kläger getroffen hätte, wenn er gewusst hätte, dass die Eigenkündigung\nbereits zum Verlust der unverfallbaren Anwartschaft geführt hätte, sondern, welche Disposition der Kläger\nim Vertrauen auf die Richtigkeit der von der Arbeitgeberin erteilten Auskunft getroffen hätte. Der Kläger\nhabe im Vertrauen auf die Richtigkeit der erteilten Auskunft zu früh gekündigt. Der daraus resultierende\nSchaden bestünde darin, dass der Kläger keine unverfallbare Anwartschaft auf die Betriebsrentenleistungen\nder VO 85 erworben habe. Der Schaden bestünde eben gerade nicht nur in der Gewinnchance/Zinsen einer\ndamals abgeschlossenen privaten Altersvorsorge. Die Beklagte verkenne, dass selbst wenn man, wie die\nBeklagte lediglich vom Ersatz des Vertrauensschadens ausginge, dieser durchaus die Höhe des\nErfüllungsinteresses erreichen könne.\n33\nDie Beklagte erwiderte hierauf, dass bei einer tarifvertraglichen Bezugnahmeklausel in einen Arbeitsvertrag\nselbstverständlich nur die Regelungen des Tarifvertrages mit der Konsequenz Anwendung fänden, dass\nauch dessen Bedingungen erfüllt sein müssten, um subjektive Rechte aus ihm ableiten zu können. Eine\nsolche Klausel habe auch einen eigenen Sinn und Zweck, da ansonsten ein Tarifvertrag bei fehlender\nOrganisation des Arbeitnehmers oder fehlender Allgemeinverbindlichkeitserklärung keine Anwendung\nfinden würde. Da die Voraussetzungen des in Bezug genommen Tarifvertrages eben nicht vorgelegen\nhaben, seien auch die Ausführungen bezüglich des Günstigkeitsprinzips nicht nachvollziehbar. Aus dem\nHinweis auf die Gewährung der tariflichen Leistungen folge somit nicht, dass diese unabhängig vom\nVorliegen ihrer tarifvertraglichen Voraussetzungen gewährt werden sollten. Nach Sinn und Zweck des\nAuskunftsschreibens hätte der Kläger auf Grundlage dieses Auskunftsschreibens die Gelegenheit gehabt,\nsich mit der Beklagten über ihre zu erwartende Betriebsrente auszutauschen. Ohne diese Gelegenheit\nwahrzunehmen habe der Kläger hingegen durch seine autonome Kündigung zum 31.03.2005 Fakten\ndahingehend geschaffen, dass die gesetzlichen Voraussetzungen für eine unverfallbare Anwartschaft nicht\nmehr erfüllt hätten werden können. Eine Eigenkündigung auszusprechen habe stets weitreichende\nRechtsfolgen. So müsse im Vorfeld einer solchen einseitigen Willenserklärung selbständig eine sorgfältige\nÜberprüfung der Gegebenheiten durchgeführt werden. Das vorschnelle Handeln mit der Eigenkündigung\nmüsse sich der Kläger auch im Rahmen der Prüfung einer Pflichtverletzung für einen\nSchadenersatzanspruch entgegenhalten lassen. Es müsse bestritten werden, dass der Kläger sich mit\nseinem Vorgesetzten, Herrn E., vor Ausspruch der Eigenkündigung ausgetauscht habe und dieser das\nVorliegen einer unverfallbaren Anwartschaft bestätigt habe. Eine solche bestätigende Aussage des Herrn E.\nkönne jedoch, auch nicht in Kombination mit dem Auskunftsschreiben, eine Pflichtverletzung der\nArbeitgeberin begründen. Eine entsprechende betriebsrentenrechtliche Aussage des Herrn E. hätte sich die\nBeklagte nicht zurechnen zu lassen. Es sei tatsächlich nicht nachvollziehbar, warum sich der Kläger nicht\nan die bei der Beklagten existierenden und aus dem Auskunftsschreiben hervorgehenden Experten\ngewandt habe, bevor er eine solch weitreichende autonome Entscheidung der Eigenkündigung getroffen\nhabe. Diese Umstände ließen sogar eher darauf schließen, dass eine unverfallbare Anwartschaft nie\nEntscheidungskriterium im Entscheidungsprozess der klagenden Partei gewesen sei. Herr E. sei in diesen\nKontext auch nicht Erfüllungsgehilfe der Beklagten gewesen. Bei der Auskunft über eine betriebliche\nAltersvorsorge handele es sich nicht um eine Thematik, welche zur Funktion eines normalen Vorgesetzten\ngehöre. Es bestünde kein ausreichender innerer sachlicher Zusammenhang zwischen der Funktion als\nVorgesetzter und der Betriebsrentenauskunft. Diese hochkomplexe Thematik sei kein Teil der\nWeisungsbefugnis und der Personalverantwortung von Vorgesetzten. Die seitens des Klägers vorgetragene\nAuskunft des Herrn E. sei folglich der Beklagten nicht gemäß § 278 BGB zuzurechnen.\n34\nHierauf erwiderte der Kläger, dass gerade aufgrund der Klausel in der Versorgungsordnung, die\nAuszubildende grundsätzlich aus dem Geltungsbereich der Versorgungsordnung herausnimmt, die\nstreitgegenständliche Vereinbarung im Ausbildungsvertrag erforderlich gewesen sei. Wären Auszubildende\nbereits nach § 1 VO 85 vom Geltungsbereich der Versorgungsordnung erfasst worden, wäre die\nstreitgegenständliche Vereinbarung im Ausbildungsvertrag nicht erforderlich gewesen. Eine Bezugnahme in\neinem Ausbildungsvertrag auf betriebliche bzw. tarifliche Leistungen, die für Auszubildende nicht gelten\nsollen, würde keinen Sinn machen. Die Regelung könne daher sinnvollerweise nur dahingehend verstanden\nwerden, dass die Versorgungsordnung entgegen des Wortlautes ihres § 1 auch im Ausbildungsverhältnis\ndes Klägers gelten sollte. Das Auskunftsschreiben hätte auch nicht alleine dazu gedient,\nMeinungsverschiedenheiten über Berechnungsgrundlagen aufzudecken und den ausgeschiedenen\nArbeitnehmern Gelegenheit zu geben, derartige Streitigkeiten noch vor Eintritt des Versorgungsfalles durch\neine Klage auf Feststellung des Inhalts und der Höhe der Versorgungsanwartschaft zu bereinigen. Zum\nZeitpunkt des Auskunftsschreibens habe es zwischen den Parteien überhaupt keine\nMeinungsverschiedenheiten über Berechnungsgrundlagen gegeben. Der Kläger habe auch bei seiner\nEigenkündigung nicht vorschnell gehandelt. Im Rahmen der Kündigung habe der Kläger alle relevanten\nThemen, so auch die betriebliche Altersversorgung, mit seinem Vorgesetzten besprochen. Weder der\nVorgesetzte des Klägers im Rahmen dieses Gesprächs im März 2005 noch die Rechtsvorgängerin der\nBeklagten hätten im Zeitraum zwischen Auskunftsschreiben und Eigenkündigung des Klägers die\nunzutreffende Auskunft berichtigt. Bei dem Vorgesetzten des Klägers habe es sich auch um einen\nErfüllungsgehilfen im Sinne des § 278 BGB gehandelt. Sofern die Beklagte nicht damit einverstanden\ngewesen sei, dass sich Vorgesetzte mit derartigen Themen befassen, möge dies die Beklagte im Rahmen\nihrer Betriebsorganisation klären. Der Kläger habe auch keinerlei Anlass gehabt, die Richtigkeit der\nAuskunft der Fachabteilung in Zweifel zu ziehen. Er konnte auf die Richtigkeit der Auskunft der\nentsprechenden Fachabteilung vertrauen. Eine weitere Nachfrage bei der Abteilung Personal/Betriebliches\nVersorgungswerk sei nicht erforderlich gewesen. Lebensfremd sei, dass eine unverfallbare Anwartschaft nie\nEntscheidungskriterium im Entscheidungsprozess des Klägers gewesen sei.\n35\nIn der mündlichen Verhandlung musste der Kläger auf Frage des Gerichtes einräumen, dass bei Abschluss\ndes Ausbildungsvertrages explizit von einer Pensionszusage auch für dieses Ausbildungsverhältnis nicht\ngesprochen worden sei.\n36\nWegen des weiteren Vorbringens der Parteien wird auf die zwischen ihnen gewechselten Schriftsätze nebst\nAnlagen Bezug genommen.\nEntscheidungsgründe\nA.\n37\nDie Berufungen beider Parteien sind zulässig. Sie sind form- und fristgerecht eingelegt und auch begründet\nworden (§§ 66 Abs. 1 Satz 1, 64 Abs. 6 ArbGG i. V m. §§ 519, 520 ZPO).\nB.\n38\nDie Berufungen haben in der Sache jedoch keinen Erfolg.\n39\nDas Erstgericht hat völlig zu Recht dem Hilfsantrag stattgegeben. Es kann insoweit vollumfänglich auf die\näußerst sorgfältigen, überaus umfassenden und rechtlich völlig zutreffenden Ausführungen in den\nEntscheidungsgründen des Erstgerichts verwiesen werden. Im Hinblick auf das Berufungsvorbringen, das\njedoch überwiegend die bereits erstinstanzlich vorgebrachten Argumente aufgreift, sieht sich das\nBerufungsgericht noch zu folgenden ergänzenden Ausführungen veranlasst.\nI.\n40\nDie Berufung des Klägers gegen die Abweisung des Hauptantrags ist unbegründet, da ihm ein Anspruch\naus dem Tarifvertrag VO 85 nicht zusteht. Er erfüllt bei seinem Ausscheiden zum 31.03.2005 nicht die für\nden Erwerb einer unverfallbaren Anwartschaft erforderliche Voraussetzung einer 10-jährigen\nPensionszusage bzw. einer 12-jährigen Betriebszugehörigkeit.\n41\na) Der vom Arbeitgeber formulierte Ausbildungsvertrag aus dem Jahr 1993 unterfällt nicht dem Regime der\nAuslegung nach Maßgabe der §§ 305 ff. BGB. Nach den allgemeinen Auslegungsgrundsätzen der §§ 133,\n157 BGB ist nach Ermittlung von Wortsinn und unter Einbeziehung der dem objektiven\nErklärungsempfänger bekannten und jedenfalls erkennbaren wesentlichen Begleitumständen, bezogen auf\nden Zeitpunkt des Vertragsabschlusses, wie etwa Entstehungsgeschichte des Vertrages, Parteigebräuche\netc. und unter Berücksichtigung von Treu und Glauben maßgeblich vor allem auf Zweck und Interessenlage\ndes auslegungsbedürftigen Rechtsgeschäfts abzustellen.\n42\nNach Auffassung des Landesarbeitsgerichtes handelt es sich bei der vertraglichen Formulierung unter\n„Vergütung“, dass die „betrieblichen und tariflichen Leistungen gewährt werden“ um eine allgemeine\nBezugnahmeklausel. Der Kläger soll grundsätzlich - unabhängig von einer Mitgliedschaft bei der\ntarifschließenden Gewerkschaft Handel, Banken und Versicherungen - vergütungsrechtlich so gestellt\nwerden, wie die an diese Tarifverträge gebundenen Arbeitnehmer. Die bei der Beklagten geltenden\nTarifverträge finden somit unabhängig von einer Gewerkschaftsmitgliedschaft auf den Kläger Anwendung.\nDer Kläger kann die tariflich gewährten Leistungen neben seiner Festvergütung beanspruchen, sofern er die\nAnspruchsvoraussetzungen hierfür erfüllt. In Betracht kämen insoweit z.B. Leistungen, die\nVergütungscharakter besitzen wie vermögenswirksame Leistungen, Urlaubsgeld oder Weihnachtsgeld,\nsofern diese Tarifverträge eine Leistung auch während des Ausbildungsverhältnisses vorsehen. Es handelt\nsich somit offensichtlich um tarifliche Leistungen, die zusätzlich zum Festgehalt monatlich oder jährlich als\nSynallagma für die erbrachte Arbeit gewährt werden. Leistungen aus einer Pensionszusage werden nicht\nals Vergütung für die geleistete Arbeit gewährt, sondern im Versorgungsfall aus Anlass der Tätigkeit für\neinen Arbeitgeber für geleistete Betriebstreue, die über eine längere Zeit erbracht werden muss. Das\nRuhegeld steht nicht in unmittelbarer Beziehung zur eigentlichen Arbeitsleistung (BAG, Beschluss v.\n12.06.1975, 3 ABR 13/74, in juris recherchiert).\n43\nAus dieser Formulierung kann somit keinesfalls entnommen werden, dass eine übertarifliche Verpflichtung\nbegründet werden sollte, insbesondere dass dem Kläger eine Pensionszusage im Sinne des Tarifvertrages\nVO 85 auch während der Ausbildungszeit erteilt werden sollte. Der Kläger musste auf Frage des\nBerufungsgerichtes auch vielmehr einräumen, dass über eine Pensionszusage gerade nicht gesprochen\nwurde.\n44\nDie Auskunft aus dem Jahr 2005, die rechtsfehlerhaft von einer unverfallbaren Anwartschaft bereits im\nJanuar 2005 ausging, kann nicht zur Auslegung der vertraglichen Regelung im Sinne des Klägers\nherangezogen werden. Bezogen auf den Zeitpunkt des Vertragsabschlusses ergeben sich keine\nAnhaltspunkte dafür, dass von der Beklagten eine Pensionszusage auch für das Ausbildungsverhältnis\nerteilt werden sollte.\n45\nb) Zu Recht hat das Erstgericht das Auskunftsschreiben auch nicht als konstitutives Schuldanerkenntnis\nangesehen. Ein selbständiger Verpflichtungswille zur Begründung einer vom zugrundeliegenden\nRechtsverhältnis unabhängigen selbständigen Verpflichtung ist aus diesem Schreiben in keinster Weise zu\nentnehmen. Ebenso wenig liegt ein deklaratorisches Schuldanerkenntnis vor. Ein solches\nSchuldanerkenntnis setzt voraus, dass die Vertragsparteien das Schuldverhältnis ganz oder teilweise dem\nStreit oder der Ungewissheit der Parteien entziehen wollen und sich dahingehend einigten (BAG, Urteil v.\n22.07.2010, 8 AZR 144/09, in juris recherchiert). Es bestand jedoch zum Zeitpunkt der Auskunft im Januar\n2005 gerade insoweit kein Streit oder eine Ungewissheit zwischen den Parteien, die mit diesem Schreiben\ngeklärt werden sollte. Vielmehr war die Frage der betrieblichen Altersversorgung bis zu diesem\nAuskunftsschreiben kein Thema zwischen den Parteien.\n46\nDer vom Kläger gegen das Erstgericht erhobene Vorwurf, dass dieses unterlassen hätte, zu überprüfen,\nwelche Regelungen für den Kläger günstiger wären, kann nicht nachvollzogen werden. Das\nGünstigkeitsprinzip des § 4 Abs. 3 TVG ist vorliegend in keinster Weise betroffen. Vielmehr liegt gerade\neine im Verhältnis zum Tarifvertrag für den Kläger günstigere vertragliche Vereinbarung nicht vor.\nII.\n47\nDie Berufung der Beklagten ist unbegründet. Das Erstgericht hat zutreffend entschieden, dass dem Kläger\naufgrund der falschen Auskunft im Schreiben vom Januar 2005 ein Schadenersatzanspruch zusteht und\nzwar dergestalt, dass er so zu stellen ist, als ob er das Arbeitsverhältnis nicht vorzeitig vor Ablauf der\nerforderlichen 10-jährigen Dauer der Pensionszusage beendet hätte.\n48\n1. Zu Recht weist das Erstgericht darauf hin, dass eine unrichtige Auskunft eine Pflichtverletzung darstellt,\ndie gemäß § 280 Abs. 1 BGB zu einem Schadenersatzanspruch führen kann (BAG, Urteil v. 12.11.1984, 3\nAZR 255/84, in juris recherchiert) und zwar unabhängig davon, ob der Arbeitgeber zu der Auskunft\nverpflichtet gewesen wäre. Auch wenn der Arbeitgeber freiwillig und ohne Aufforderung des Arbeitnehmers\neine Auskunft erteilt, so hat diese vollständig und zutreffend zu sein (BAG, Urteil v. 03.07.1990, 3 AZR\n382/89, in jurs recherchiert). Entgegen der Ansicht des Klägers liegt jedoch keine Mitteilung nach Nummer\n8.3 der VO 85 vor. Diese Mitteilungspflicht über eine unverfallbare Anwartschaft setzt die Beendigung des\nArbeitsverhältnisses zum Zeitpunkt der Mitteilung voraus.\n49\nDas Erstgericht geht zu Recht davon aus, dass der Kläger nach dem Inhalt des Auskunftsschreibens davon\nausgehen konnte, dass ihm bereits im Januar 2005 eine unverfallbare Anwartschaft auf Betriebsrente\nzustand. Weitere Schritte des Klägers, diese Auskunft zu hinterfragen und sich noch einmal bei der\nBeklagten insoweit zu versichern, waren auch nach Auffassung des LAG nicht erforderlich.\n50\na) Es liegt - entgegen der Ansicht der Beklagten - gerade nicht der Fall vor, dass dem Kläger vorgeworfen\nwerden müsste, sich vor der Eigenkündigung über die rechtlichen Folgen dieses Schrittes keine Klarheit\nverschafft zu haben bzw. dass der Vorwurf im Raum stünde, dass die Beklagte den Kläger auf die knappe\nNichterfüllung der Unverfallbarkeitsfristen hätte hinweisen müssen. Eine derartige Hinweispflicht besteht -\nwie die Beklagte zu Recht hinweist - nach höchstrichterlicher Rechtsprechung nicht (BAG, Urteil v.\n15.10.2013, 3 AZR 10/12, in juris recherchiert).\n51\nDas Auskunftsschreiben der Beklagten gab in keinster Weise Anlass dazu, die Auskunft nicht als\nvollständig, richtig und damit verbindlich anzusehen. Das Schreiben enthält keinerlei Hinweise darauf, dass\nes sich lediglich um ein Diskussionspapier handele bzw. dieses nur den Sinn und Zweck hätte,\nMeinungsverschiedenheiten über Berechnungsgrundlagen frühzeitig aufzudecken. Es handelt sich nach\ndem eindeutigen Wortlaut um eine Auskunft über die betriebliche Rentenanwartschaft.\n52\nb) Wie das Erstgericht völlig zutreffend ausführt, entlastet der Einwand, es handele sich bei dem\nAuskunftsschreiben um eine standardisierte Serviceleistung, die turnusmäßig an die Arbeitnehmer versandt\nwerde, die Beklagte nicht. Insoweit liegt auch nach Auffassung des LAG bereits ein reines standardisiertes\nSchreiben gerade nicht vor. Das Schreiben ist vielmehr sehr wohl individualisiert, als es sich an den Kläger\npersönlich richtet und konkrete Angaben zur Höhe dessen unverfallbarer Anwartschaft enthält und somit\nallein den Kläger betreffende Besonderheiten berücksichtigt. Es liegt darin gerade keine allgemeine\nAuskunft über die bei der Beklagten geltenden Regularien hinsichtlich möglicher Rentenansprüche.\n53\nDarüber hinaus ist auf die Unterschiede im Auskunftsschreiben vom Januar 2004 und dem\nAuskunftsschreiben vom Januar 2005 hinzuweisen. Im ersten Schreiben ist von einer unverfallbaren\nAnwartschaft nicht die Rede, das heißt, aus den beiden Auskunftsschreiben ist ersichtlich, dass\nVeränderungen der konkret beim Kläger gegebenen Umstände berücksichtigt wurden. Auch wenn für die\nBeklagte gegebenenfalls zum Zeitpunkt der Auskunftserteilung nicht ersichtlich gewesen war, dass der\nKläger geplant hatte, sein Anstellungsverhältnis zu beenden und somit davon ausgegangen ist, dass die\nVoraussetzungen für die Unverfallbarkeit der Anwartschaft tatsächlich im Laufe des Jahres 2005 eintreten\nwerden, ändert dies nichts an der Tatsache, dass die Auskunft über die unverfallbare Anwartschaft zu ihrer\nRichtigkeit voraussetzt, dass das Arbeitsverhältnis jedenfalls bis 31.05.2005 bestehen muss. Vielmehr wird\ndagegen ausdrücklich auf den Stand 2004 hingewiesen und darauf, dass für die Berechnung der\nRentenanwartschaft die heute (Januar 2005) bekannten Daten berücksichtigt wurden. Im Januar 2005\nkonnte aber gerade nicht davon ausgegangen werden, dass das Arbeitsverhältnis jedenfalls noch bis\n31.05.2005 bestehen werde.\n54\nDer Kläger hat auch nicht völlig autonom die Entscheidung getroffen, von sich aus zu kündigen. Vielmehr\nerfolgte die Eigenkündigung des Klägers jedenfalls nach Absprache mit dem Bezirksdirektor E., dass\nnämlich zukünftig eine weitere Zusammenarbeit mit dem Kläger auf selbständiger Basis vorgesehen war.\nHerr E. hat insoweit ohne Zweifel als direkter Vorgesetzter und Bezirksdirektor im Rahmen dieser\nSondierungsgespräche als Erfüllungsgehilfe der Arbeitgeberin gehandelt. Die Möglichkeit einer zukünftigen\nTätigkeit nunmehr als selbständiger Versicherungsvertreter für die Arbeitgeberseite war von Herrn E.\nbestätigt worden. Dies war Grundlage für die Entscheidung des Klägers zur Eigenkündigung.\n55\nDarüber hinaus müssen auch Auskünfte in standardisierten Schreiben an die Arbeitnehmer vollständig und\nrichtig sein.\n56\nc) Entgegen der Ansicht der Beklagten konnte der Kläger mit dem Auskunftsschreiben sehr wohl davon\nausgehen, dass er jedenfalls zum Zeitpunkt Januar 2005 bereits eine unverfallbare Anwartschaft erworben\nhatte. Wie das Erstgericht völlig zutreffend darstellt, ergibt sich aus dem Hinweis, dass das Unternehmen\nnach Eintritt des Versorgungsfalles gemäß Tarifvertrag über die betriebliche Versorgungsordnung vom\n01.04.1985 Versorgungsleistungen zahlen werde und der Bitte zu beachten, „dass zum Bezug der\nbetrieblichen Versorgungsleistungen alle Leistungsvoraussetzungen erfüllt sein müssen“, nichts\nAbweichendes.\n57\nDiese Einschränkungen betreffen gerade den Bezug betrieblicher Versorgungsleistungen und weisen\ninsbesondere auf die Voraussetzung der Bewilligung einer Vollrente durch den gesetzlichen\nRentenversicherungsträger hin. Nach allgemeinen Hinweisen zur Rente nach Eintritt des Versorgungsfalles\nerfolgt in einem eigenen Absatz und durch Fettdruck optisch hervorgehoben der Hinweis, dass die Höhe\ndes unverfallbaren Rentenanspruchs, welcher nach einem Ausscheiden aus dem Unternehmen zum 65.\nLebensjahr fällig werden würde, nach Vollendung des 65. Lebensjahres 555,45 € beträgt.\n58\nHinsichtlich der Unverfallbarkeit der Rentenanwartschaft wurden keine Vorbehalte oder Einschränkungen\ngemacht. Lediglich hinsichtlich der Fälligkeit wird auf das Erreichen des 65. Lebensjahres abgestellt. Der\nKonjunktiv „fällig werden würde“ bezieht sich somit eindeutig allein auf das - nicht unbedingt sichere -\nErreichen des 65. Lebensjahres. Es ist allein von einem vorzeitigen Ausscheiden die Rede. Dass dieses\nAusscheiden aber nicht vor dem 01.06.2005 erfolgen dürfe, um die unverfallbare Anwartschaft zu erwerben,\nist nicht ersichtlich. Vielmehr ergibt sich aus dem Schreiben, dass „Stand 2004“ bzw. unter Zugrundelegung\nder heute (Januar 2005) bekannten Daten die Rentenanwartschaft berechnet wurde und diese 555,45 €\nbeträgt. Dass im Laufe des Jahres 2005 noch der Eintritt einer weiteren Bedingung für die unverfallbare\nAnwartschaft Voraussetzung ist, ergibt sich nicht. Insoweit ist für die Höhe der unverfallbaren\nRentenanwartschaft gerade nicht der Konjunktiv benützt. Damit ist offensichtlich mit „einem vorherigen\nAusscheiden“ ein Ausscheiden vor dem 65. Lebensjahr gemeint, wobei eine weitere Einschränkung\nhinsichtlich des frühest möglichen Zeitpunktes des Ausscheidens gerade nicht erfolgt ist. Objektiv ist diese\nAuskunft somit so zu lesen, dass bei einem Ausscheiden im Zeitraum Januar 2005 bis zum Erreichen des\n65. Lebensjahres eine unverfallbare Anwartschaft begründet wird.\n59\nAus der Auskunft ergibt sich somit auch nach Auffassung des Berufungsgerichts, dass der Rentenanspruch\nbei einem vorzeitigen Ausscheiden nicht verfällt, sondern unverfallbar ist und zum Stand 2005 555,45 €\nbeträgt. Die sonstigen Vorbehalte betreffen - wie das Erstgericht zutreffend hinweist - nicht den möglichen\nVerfall, sondern die nicht abschließend feststehende Rentenhöhe.\n60\n2. Bei einer unrichtigen Auskunft hat der Arbeitgeber dem Arbeitnehmer den Schaden zu ersetzen, der ihm\ndaraus erwächst, dass er auf die unrichtige Auskunft vertraut hat. Erweckt der Arbeitgeber in zurechenbarer\nWeise beim Arbeitnehmer die Vorstellung, es bestünde eine unverfallbare Anwartschaft, ist er somit\nverpflichtet, den aus dem Verfall der Anwartschaft erwachsenen Schaden zu ersetzen (LAG Rheinland-\nPfalz, Urteil v. 14.01.1992, 10 Sa 531/91, in juris recherchiert).\n61\nZwar ist - wie die Beklagte zu Recht darauf hinweist - bei einem Schadenersatz wegen fehlerhafter Auskunft\ngrundsätzlich der Vertrauensschaden und nicht das Erfüllungsinteresse zu ersetzen. Der Arbeitnehmer ist\naber so zu stellen, wie er stehen würde, wenn der Arbeitgeber ihn von vornherein richtig über das Bestehen\nbzw. Nichtbestehen einer unverfallbaren Anwartschaft informiert hätte. Nach §§ 249 i.V.m. 252 BGB ist\nallein zu beurteilen, was der Arbeitnehmer getan hätte, wenn ihm eine richtige Auskunft erteilt worden wäre.\nDies ist gemäß § 287 ZPO vom Gericht unter Würdigung aller Umstände nach freier Überzeugung zu\nbeurteilen.\n62\nVorliegend steht nach freier Überzeugung des Gerichtes fest, dass der Kläger, der aufgrund der falschen\nAuskunft durch eine um zwei Monate verfrühte Eigenkündigung tatsächlich eine unverfallbare Anwartschaft\nnicht erworben hatte, bei richtiger Auskunft erst zwei Monate später gekündigt hätte.\n63\nDies ergibt sich aus den Besonderheiten des vorliegenden Falles eindeutig. Es ging gerade nicht darum,\ndass der Kläger gegebenenfalls eine erheblich höher dotierte Stelle bei einem anderen Arbeitgeber\nannehmen wollte und diese Stelle nur zu einem bestimmten Zeitpunkt, nämlich vor dem 31.05.2005, hätte\nangetreten werden müssen. Vielmehr liefen Gespräche zwischen dem Kläger und insbesondere seinem\nVorgesetzten, dem Bezirksdirektor Herrn E., über eine Änderung der seiner Tätigkeit zugrundeliegenden\nvertraglichen Gestaltung. Anstatt weiterhin im Rahmen eines Anstellungsverhältnisses weiterbeschäftigt zu\nwerden, war abgesprochen, dass der Kläger zukünftig mit der Arbeitgeberin als selbständiger\nVersicherungsvertreter weiter zusammenarbeiten solle. Dieses Angebot war auch nicht befristet; es hätte\nkeinen Unterschied gemacht, ob der Kläger erst zwei Monate später das Anstellungsverhältnis gekündigt\nund damit erst ab 01.06.2005 anstatt ab 01.04.2005 als selbständiger Versicherungsvertreter den Weg in\ndie Selbständigkeit beschritten hätte.\n64\nDie fehlerhafte Auskunft ist somit allein kausal für die verfrühte Kündigung. Bei richtiger Auskunft hätte der\nKläger zwei Monate später gekündigt und die Stichtagsregelung des BetrAVG erfüllt. Die fehlerhafte\nAuskunft ist somit conditio sine qua non für das Nichterreichen der notwendigen 10-Jährigen Dauer der\nPensionszusage. Der Kläger hätte bei richtiger Auskunft die Disposition getroffen, erst zwei Monate später\nzu kündigen und damit die unverfallbare Anwartschaft erworben.\n65\nDer zu ersetzende Vertrauensschaden kann in bestimmten Fällen dem Erfüllungsinteresse entsprechen.\nDer Vertrauensschaden kann ausnahmsweise mit dem Erfüllungsschaden übereinstimmen\n(Brandenburgisches OLG, Urteil v. 27.05.2010, 5 U 97/09, in juris recherchiert). Diesen Ausnahmefall hat\ndas Erstgericht vorliegend zutreffend angenommen. Der Kläger ist somit so zu stellen, als hätte er erst zwei\nMonate später gekündigt und damit die unverfallbare Anwartschaft erworben.\nC.\n66\nDie Kostenentscheidung beruht auf § 92 ZPO.\nD.\n67\nFür die Zulassung der Revision besteht kein gesetzlich begründeter Anlass.\n\n"
+}

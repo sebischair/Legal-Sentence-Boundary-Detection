@@ -1,0 +1,827 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kartell",
+            "end": 171,
+            "start": 164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 184,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "101",
+            "end": 199,
+            "start": 196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "81",
+            "end": 211,
+            "start": 209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 220,
+            "start": 218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 242,
+            "start": 241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 289,
+            "start": 288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 311,
+            "start": 310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 321,
+            "start": 312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 572,
+            "start": 568,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 599,
+            "start": 598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VO",
+            "end": 811,
+            "start": 809,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 821,
+            "start": 820,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 847,
+            "start": 846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VO",
+            "end": 1121,
+            "start": 1119,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1136,
+            "start": 1135,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1162,
+            "start": 1161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitgenossenschaft",
+            "end": 1484,
+            "start": 1464,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1499,
+            "start": 1498,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1525,
+            "start": 1524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1537,
+            "start": 1526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zuständigkeit",
+            "end": 1690,
+            "start": 1677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1701,
+            "start": 1691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7913",
+            "end": 1720,
+            "start": 1716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1726,
+            "start": 1721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 1800,
+            "start": 1792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1808,
+            "start": 1802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1810,
+            "start": 1809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1813,
+            "start": 1812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 2313,
+            "start": 2309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2316,
+            "start": 2315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 2650,
+            "start": 2641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlt",
+            "end": 2811,
+            "start": 2804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 2985,
+            "start": 2976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2988,
+            "start": 2987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansässig",
+            "end": 3063,
+            "start": 3055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stuttgart",
+            "end": 3141,
+            "start": 3132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3144,
+            "start": 3143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 3316,
+            "start": 3307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuwählen",
+            "end": 3375,
+            "start": 3364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Niederlassung",
+            "end": 3469,
+            "start": 3456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sachkundig",
+            "end": 3614,
+            "start": 3604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3617,
+            "start": 3616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 3698,
+            "start": 3690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 3782,
+            "start": 3777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 3977,
+            "start": 3970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4061,
+            "start": 4060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreit",
+            "end": 4189,
+            "start": 4177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4192,
+            "start": 4191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 4356,
+            "start": 4349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4359,
+            "start": 4358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 4493,
+            "start": 4486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4497,
+            "start": 4495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4500,
+            "start": 4499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gericht",
+            "end": 4615,
+            "start": 4608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 4618,
+            "start": 4617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 4977,
+            "start": 4972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4981,
+            "start": 4979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 5099,
+            "start": 5096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5103,
+            "start": 5101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5491,
+            "start": 5488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5495,
+            "start": 5493,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5992,
+            "start": 5991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eröffnet",
+            "end": 6145,
+            "start": 6137,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6441,
+            "start": 6440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 6570,
+            "start": 6559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6574,
+            "start": 6572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6680,
+            "start": 6676,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7275,
+            "start": 7274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7279,
+            "start": 7277,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7643,
+            "start": 7642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7647,
+            "start": 7645,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7996,
+            "start": 7995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 8197,
+            "start": 8189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargetan",
+            "end": 8291,
+            "start": 8283,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8542,
+            "start": 8541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8546,
+            "start": 8544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 8826,
+            "start": 8819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 8989,
+            "start": 8982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8993,
+            "start": 8991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 9217,
+            "start": 9214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9221,
+            "start": 9219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9336,
+            "start": 9333,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9980,
+            "start": 9979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 9984,
+            "start": 9982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 10503,
+            "start": 10494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 10946,
+            "start": 10941,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11444,
+            "start": 11443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11448,
+            "start": 11446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VO",
+            "end": 11723,
+            "start": 11721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 11727,
+            "start": 11725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 11952,
+            "start": 11943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 12392,
+            "start": 12385,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13125,
+            "start": 13124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 13129,
+            "start": 13127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "allerdings",
+            "end": 13242,
+            "start": 13232,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13731,
+            "start": 13730,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14145,
+            "start": 14144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 14149,
+            "start": 14147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitgenossenschaft",
+            "end": 14471,
+            "start": 14451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 14690,
+            "start": 14682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 14694,
+            "start": 14692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15078,
+            "start": 15075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 15082,
+            "start": 15080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 15452,
+            "start": 15445,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15722,
+            "start": 15721,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15984,
+            "start": 15983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 15988,
+            "start": 15986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 16420,
+            "start": 16417,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16631,
+            "start": 16630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 16635,
+            "start": 16633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 16792,
+            "start": 16787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 16796,
+            "start": 16794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedarf",
+            "end": 17082,
+            "start": 17076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 17086,
+            "start": 17084,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17521,
+            "start": 17520,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17788,
+            "start": 17787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 18034,
+            "start": 18031,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18270,
+            "start": 18269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 18274,
+            "start": 18272,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18595,
+            "start": 18594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geht",
+            "end": 18968,
+            "start": 18964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veranlassung",
+            "end": 19467,
+            "start": 19455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 19517,
+            "start": 19506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 19522,
+            "start": 19519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19526,
+            "start": 19524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gericht",
+            "end": 19626,
+            "start": 19619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19630,
+            "start": 19628,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19875,
+            "start": 19874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 19879,
+            "start": 19877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antragsgegnerinnen",
+            "end": 20010,
+            "start": 19992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 20150,
+            "start": 20141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügt",
+            "end": 20581,
+            "start": 20574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ließen",
+            "end": 20729,
+            "start": 20723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 20765,
+            "start": 20754,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BayObLG München, Beschluss v. 30.04.2019 – 1 AR 30/19\nTitel:\nGerichtsstandsbestimmung für Schadensersatzklagen in- und ausländischer\nUnternehmen gegen das sog. Lkw-Kartell\nNormenketten:\nAEUV Art. 101\nEGV Art. 81\nGWB § 33\nZPO § 36 Abs. 1 Nr. 3\nBrüssel Ia-VO Art. 1 Abs. 1 S. 1, Art. 8 Nr. 1\nEuGVVO Art. 4, Art. 8\nLeitsätze:\n1. Gerichtsstandsbestimmung für Klagen von 428 Unternehmen mit Sitzen im In- und Ausland gegen\nzwei Beklagte als Gesamtschuldner auf Ausgleich des Schadens, der dem jeweiligen Kläger durch\nden Einkauf überteuerter Lastkraftwagen entstanden sein soll. (redaktioneller Leitsatz)\n2. Klagen auf Schadensersatz wegen Verletzung des EU-Wettbewerbsrechts stellen eine\nzivilrechtliche Streitigkeit dar und fallen unter den Begriff der Zivil- und Handelssache nach Art. 1\nAbs. 1 S. 1 Brüssel Ia-VO. (Rn. 12) (redaktioneller Leitsatz)\n3. Für die grenzüberschreitenden Sachverhalte ergibt sich ein inländischer Gerichtsstand, in dem\ndie Klage des jeweiligen Kartellgeschädigten gegen beide Streitgenossinnen unter jedem der in\nBetracht kommenden Klagegründe geführt werden kann, aus Art. 8 Nr. 1 Brüssel Ia-VO. (Rn. 20 – 21)\n(redaktioneller Leitsatz)\n4. Einer Gerichtsstandsbestimmung steht nicht entgegen, dass der Verlust des für Einzelklagen\nvorhandenen gemeinsamen besonderen Gerichtsstands seine Ursache in der gewählten Art der\nProzessführung hat, nämlich in der Bündelung mehrerer Ansprüche und der gerichtlichen\nVerfolgung derselben in aktiver Streitgenossenschaft. (Rn. 23 – 30) (redaktioneller Leitsatz)\nSchlagworte:\nGerichtsstand, Gemeinschaftlicher besonderer Gerichtsstand, Gerichtsstandsbestimmung, mehrere\nStreitgenossen, Lkw-Kartell, internationale Zuständigkeit\nFundstelle:\nBeckRS 2019, 7913\nTenor\nAls (örtlich) zuständiges Gericht wird das Landgericht Stuttgart bestimmt.\nGründe\nI.\n1\nMit ihrer am 27. Dezember 2018 beim Landgericht München I erhobenen Klage verlangen die 428\nAntragsteller, Unternehmen mit Sitzen im In- und Ausland (Ungarn, Polen, Österreich, Tschechien,\nSlowenien, Niederlande, Kroatien, Griechenland, Rumänien, Montenegro, Slowakei, Serbien sowie Bosnien\nund Herzegowina), von den beiden Antragsgegnerinnen als Gesamtschuldnerinnen jeweils Ausgleich des\nSchadens, der dem jeweiligen Antragsteller durch den Einkauf überteuerter Lastkraftwagen entstanden sein\nsoll.\n2\nUnter Bezugnahme auf den Beschluss der Europäischen Kommission vom 19. Juli 2016 in Sachen AT-\n39824 - Trucks machen sie geltend, die Antragsgegnerinnen und weitere Lastkraftwagen-Hersteller hätten\nzwischen 1997 und 2011 Bruttopreislisten für mittlere und schwere Lastkraftwagen abgesprochen und\ndadurch gegen Art. 101 AEUV verstoßen. Die jeweiligen Antragsteller hätten in diesem Zeitraum Lkws\ngemäß tabellarischer Auflistung erworben und hierfür aufgrund des Kartells überhöhte Preise bezahlt. Sie\nkönnten deshalb von den Antragsgegnerinnen als Gesamtschuldnerinnen nach § 823 Abs. 2 BGB i.V. m.\nArt. 81 EGV bzw. Art. 101 AEUV sowie § 33 GWB Schadensersatz verlangen.\n3\nDie Antragsgegnerin zu 1 ist im Bezirk des Landgerichts München I ansässig; die Antragsgegnerin zu 2 hat\nihren Sitz im Bezirk des Landgerichts Stuttgart.\n4\nDie Antragsteller haben beantragt, gemäß § 36 Abs. 1 Nr. 3 ZPO ein gemeinsam zuständiges Gericht für\nden gegen die Antragsgegnerinnen gerichteten Rechtsstreit zu bestimmen. Sie haben angeregt, das\nLandgericht München I auszuwählen. Im Bezirk dieses Landgerichts hätten weitere Kartellanten ihren Sitz\noder eine Niederlassung. Dieses Gericht sei bereits mit zahlreichen Schadensersatzklagen im\nZusammenhang mit dem sog. Lkw-Kartell befasst und somit besonders sachkundig.\n5\nDie Antragsgegnerinnen würden jeweils als Streitgenossinnen in Anspruch genommen. Ein\ngemeinschaftlicher besonderer Gerichtsstand bestehe für den Rechtsstreit nicht. Maßgeblich sei hierfür\nnicht, ob die Antragsteller, sofern sie nicht als Streitgenossen klagen würden, die beiden\nAntragsgegnerinnen jeweils an einem gemeinsamen Gerichtsstand verklagen könnten. Einzelklagen der\njeweiligen Antragsteller wären nämlich ein „anderer Rechtsstreit“. Die Gerichtsstandsbestimmung sei jedoch\nerforderlich für den aufgrund der gebündelten Klage tatsächlich gegebenen Rechtsstreit.\n6\nDie Antragsgegnerin zu 1) hat sich sowohl mit der Bestimmung eines gemeinsamen Gerichts als auch mit\nder Auswahl des vorgeschlagenen Gerichts einverstanden erklärt.\n7\nDie Antragsgegnerin zu 2) hat von der ihr eingeräumten Möglichkeit, zum Bestimmungsantrag Stellung zu\nnehmen, keinen Gebrauch gemacht.\nII.\n8\nAuf den zulässigen Antrag bestimmt der Senat das Landgericht Stuttgart als (örtlich) gemeinsam\nzuständiges Gericht.\n9\n1. Das Bayerische Oberste Landesgericht ist das nach § 36 Abs. 2 ZPO i.V. m. § 9 EGZPO für das\nBestimmungsverfahren zuständige Gericht, weil die Antragsgegnerinnen ihren jeweiligen allgemeinen\nGerichtsstand (§§ 12, 17 ZPO) in verschiedenen Oberlandesgerichtsbezirken (München und Stuttgart)\nhaben und das zuerst mit der Sache befasste Gericht in Bayern liegt.\n10\n2. Die Voraussetzungen für die Bestimmung eines gemeinsam zuständigen Gerichts gemäß § 36 Abs. 1 Nr.\n3 ZPO liegen vor.\n11\na) Die deutschen Gerichte sind, was Voraussetzung einer Bestimmungsentscheidung ist (vgl. BGH, Beschl\nv. 22. Februar 1995, XII ARZ 2/95, NJW-RR 1995, 641; Beschluss vom 17. September 1980, IVb ARZ\n557/80, NJW 1980, 2646), für die erhobene Klage in der Sache auch insoweit international zuständig, als\nwegen des Sitzes einzelner Kläger außerhalb Deutschlands ein Auslandsbezug gegeben ist.\n12\nSoweit Kläger ihren Sitz in einem Mitgliedstaat der Europäischen Union haben, folgt die internationale\nZuständigkeit für ihre Klage und somit auch für das Verfahren auf Bestimmung des Gerichtsstands aus Art.\n4 Abs. 1 der Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12.\nDezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung\nvon Entscheidungen in Zivil- und Handelssachen (nachfolgend: Brüssel Ia-VO; vgl. Wurmnest NZKart 2017,\n2/3). Der Anwendungsbereich der Brüssel Ia-VO ist in zeitlicher (Art. 66 Abs. 1 Brüssel Ia-VO) und\nsachlicher (Art. 1 Abs. 1 Brüssel Ia-VO) Hinsicht eröffnet. Klagen auf Schadensersatz wegen Verletzung\ndes EU-Wettbewerbsrechts stellen eine zivilrechtliche Streitigkeit dar und fallen unter den Begriff der Zivilund\nHandelssache nach Art. 1 Abs. 1 Satz 1 Brüssel Ia-VO (EuGH, Urt. v. 23. Oktober 2014, C-302/13 -\nflyLAL-Lithuanian Airlines, juris Rn. 29). Beide Beklagte haben ihren satzungsmäßigen Sitz (vgl. Art. 63 Abs.\n1 Buchst. a Brüssel Ia-VO) in der Bundesrepublik Deutschland.\n13\nNichts anderes gilt im Ergebnis insoweit, als einzelne Kläger in Drittstaaten wohnhaft oder ansässig sind.\nDie Verordnung findet auch Anwendung auf einen Rechtsstreit zwischen einem Beklagten, der seinen\nWohnsitz (Art. 63 Brüssel Ia-VO) in einem Mitgliedstaat hat, und einem Kläger eines Drittstaats (EuGH, Urt.\nv. 17. März 2016, C-175/15 - Taser International, juris Rn. 20 noch zur Verordnung (EG) Nr. 44/2001 des\nRates vom 22. Dezember 2000 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung\nvon Entscheidungen in Zivil- und Handelssachen; Geimer in Zöller, ZPO, 32. Aufl. 2018, Art. 4 Brüssel Ia-\nVO Rn. 13; Hüßtege in Thomas/Putzo, ZPO, 40. Aufl. 2019, Vorb EuGVVO Rn. 21).\n14\nb) Eine Bestimmungsentscheidung nach § 36 Abs. 1 Nr. 3 ZPO kommt über den Wortlaut der Norm hinaus\nauch noch nach Klageerhebung in Betracht (st. Rspr.; z. B. BGH, Beschluss vom 27. November 2011, X\nARZ 321/18, juris Rn. 10; Beschluss vom 23. Februar 2011, X ARZ 388/10, NJW-RR 2011, 929 Rn. 6 f.;\nToussaint in BeckOK, ZPO, 32. Ed. Stand 1. März 2019, § 36 Rn. 19).\n15\nc) Die Antragsgegnerinnen, die ihren allgemeinen Gerichtsstand jeweils bei verschiedenen Gerichten\nhaben, sind zudem nach dem im Bestimmungsverfahren maßgeblichen (Schultzky in Zöller, ZPO, § 36 Rn.\n28), insoweit auch schlüssigen Vortrag der Antragsteller hinsichtlich der mit der Klage geltend gemachten\nAnsprüche Streitgenossinnen (§§ 59, 60 ZPO). Sie werden im Prozessrechtsverhältnis zu den jeweiligen\nKlägern jeweils gesamtschuldnerisch (§ 830 Abs. 1 Satz 1 BGB) auf Ersatz des dem Kartellgeschädigten\nentstandenen Schadens in Anspruch genommen. Damit ist eine Rechtsgemeinschaft zwischen den\nAntragsgegnerinnen i. S. v. § 59 ZPO dargetan. Zwischen sämtlichen prozessualen Ansprüchen, die den\nStreitgegenstand des Rechtsstreits bilden, besteht zudem ein Zusammenhang im Sinne von § 60 bzw. §\n260 ZPO (hierzu: BGH, Beschluss vom 23. Oktober 2018, X ARZ 252/18 - Zuckerkartell, juris Rn. 16).\n16\nd) Die Gerichtsstandsbestimmung ist nicht deshalb abzulehnen, weil den Antragstellern zur Verfolgung ihres\n(behaupteten) Anspruchs jeweils ein besonderer Gerichtsstand zur Verfügung stünde, an dem sie beide\nAntragsgegnerinnen als Gesamtschuldnerinnen auf Ersatz verklagen könnten. Für die Verfolgung ihrer in\neiner Klage gebündelten Ansprüche ist nämlich kein gemeinschaftlicher besonderer Gerichtsstand gegen\nbeide Antragsgegnerinnen gegeben.\n17\naa) Für die reinen Inlandssachverhalte ergibt sich ein besonderer Gerichtsstand, an dem der jeweilige\n(behauptete) Schaden eines einzelnen Antragstellers gegen beide Antragsgegnerinnen eingeklagt werden\nkönnte, aus § 32 ZPO.\n18\nDanach ist für Klagen aus unerlaubten Handlungen das Gericht zuständig, in dessen Bezirk die Handlung\nbegangen ist. Begehungsort der deliktischen Handlung ist sowohl der Handlungs- als auch der Erfolgsort,\nso dass eine Zuständigkeit wahlweise dort gegeben ist, wo eine der Verletzungshandlungen begangen\nwurde (Handlungsort), oder dort, wo in das geschützte Rechtsgut eingegriffen wurde (Erfolgsort), sowie,\nwenn der Schadenseintritt selbst zum Tatbestandsmerkmal der Rechtsverletzung gehört, am Ort des\nSchadenseintritts (BGH, Urt. v. 28. Februar 1996, XII ZR 181/93, BGHZ 132, 105/111; BayObLG Beschluss\nvom 22. Januar 2004, 1Z AR 4/04, Rpfleger 2004, 365/366; Beschluss vom 27. März 2003, 1Z AR 28/03,\nMDR 2003, 893; Schultzky in Zöller, ZPO, § 32 Rn. 19).\n19\nEin Ort, an dem das Kartell definitiv gegründet oder gegebenenfalls eine spezifische Absprache getroffen\nwurde, die für sich allein als das ursächliche Geschehen für den (gesamten) behaupteten Kartellschaden\nbestimmt werden kann (vgl. EuGH, Urt. v. 21. Mai 2015, C-352/13 - CDC Hydrogen Peroxide, juris Rn. 46,\n50 und 56; auch OLG Düsseldorf, Urt. v. 18. Februar 2015, VI-U (Kart) 3/14, juris Rn. 177; Wurmnest\nNZKart 2017, 2/4), - und damit ein Handlungsort - ist zwar dem Vortrag der Antragsteller nicht zu\nentnehmen; auch die in der Kommissionsentscheidung v. 19. Juli 2016 - AT.39824 - Trucks (veröffentlicht\nnur auf Englisch unter http://ec.europa.eu/competition/antitrust/cases/dec_docs/39824/39824_6567_14.pdf,\ndort Rn. 59) beispielhaft dargestellten Unterredungen und Treffen einschließlich eines Treffens der\n„representatives of the German Subsidiaries“ in München reichen zur Bestimmung eines Handlungsortes im\nSinne der genannten Rechtsprechung nicht. Jedoch liegt der Ort des Schadenseintritts - und damit der\nErfolgsort - bei Vermögensschäden des Abnehmers der kartellbefangenen Sache grundsätzlich am Sitz des\ndurch die Kartellabsprache Geschädigten (vgl. BGH, Beschluss vom 27. November 2018, X ARZ 321/18,\njuris Rn. 18; Urt. v. 28. Februar 1996, XII ZR 181/93, BGHZ 132, 105/111; EuGH, Urt. v. 21. Mai 2015, C-\n352/13 - CDC Hydrogen Peroxide, juris Rn. 52; Urt v. 16. Juli 2009, C-189/08 - Zuid-Chemie, juris Rn. 27;\nWurmnest NZKart 2017, 2/5).\n20\nbb) Für die grenzüberschreitenden Sachverhalte ergibt sich ein inländischer Gerichtsstand, in dem die\nKlage des jeweiligen Kartellgeschädigten gegen beide Streitgenossinnen unter jedem der in Betracht\nkommenden Klagegründe geführt werden kann, aus Art. 8 Nr. 1 Brüssel Ia-VO.\n21\nDer internationale Bezug des Rechtsstreits als notwendige Anwendungsvoraussetzung für Art. 8 Brüssel Ia-\nVO wird insoweit durch den Sitz (Art. 63 Abs. 1 Buchst. a Brüssel Ia-VO) der Kläger außerhalb des\nForumstaats begründet. Gemäß Art. 8 Nr. 1 Brüssel Ia-VO ist ein mitgliedstaatliches Gericht gegenüber\nmehreren Beklagten zuständig, wenn es sich bei diesem Gericht für einen der Beklagten um das Gericht an\ndessen allgemeinem Gerichtsstand i. S. v. Art. 4 Abs. 1, Art. 62, 63 Brüssel Ia-VO handelt und ein\nhinreichender Sachzusammenhang zwischen der Klage gegen diesen sog. Ankerbeklagten\n(„Erstbeklagten“) und den übrigen Beklagten („Sekundärbeklagten“) besteht. Weil bei\nKartellschadensersatzklagen das autonom auszulegende Kriterium des Sachzusammenhangs trotz\nunterschiedlicher Beteiligung der Kartellanten an der Umsetzung des von der Kommission festgestellten\nKartells erfüllt ist (hierzu allgemein: EuGH, Urt. v. 21. Mai 2015, C-352/13 - CDC Hydrogen Peroxide, juris\nRn. 21, 25; Wurmnest NZKart 2017, 2/6), besteht an dem nach nationalem Verfahrensrecht (§§ 12, 17 ZPO)\nzu beurteilenden allgemeinen Gerichtsstand einer Ankerbeklagten ebenfalls eine örtliche Zuständigkeit für\ndie Schadensersatzklage gegen den Sekundärbeklagten (BayObLG, Beschluss vom 25. März 1997, 1Z AR\n2/97, AG 1997, 329/330), wobei der Kläger die Person des Erstbeklagten frei wählen kann (Wurmnest\nNZKart 2017, 2/6).\n22\ncc) Der für individuelle Klagen jeweils gegebene gemeinschaftliche besondere Gerichtsstand differiert\nallerdings. Ein gemeinsamer Gerichtsstand für die in einer Klage gebündelten Einzelansprüche der als\nStreitgenossen klagenden Antragsteller ist schon deshalb nicht ersichtlich, weil die Zuständigkeit des\nGerichts, das nach § 32 ZPO auf der Grundlage der Verwirklichung des Schadenserfolgs angerufen wird,\nauf den Schaden desjenigen Klägers beschränkt ist, dessen Sitz im Zuständigkeitsbereich dieses Gerichts\nliegt (vgl. EuGH, Urteil vom 21. Mai 2015, C-352/13 - CDC Hydrogen Peroxide, juris Rn. 55). Da die reinen\nInlandssachverhalte von der Brüssel Ia-VO nicht erfasst werden (EuGH, Urt v. 19. Dezember 2013, C-9/12,\njuris Rn. 18; Hüßtege in Thomas/Putzo, ZPO, Vorb EuGVVO Rn. 20; a.A. Geimer in Zöller, ZPO, Art. 4\nEuGVVO Rn. 9), ergibt sich insoweit kein inländischer besonderer Gerichtsstand der Streitgenossenschaft\nnach Art. 8 Nr. 1 Brüssel Ia-VO (einschränkend: Geimer in Zöller, ZPO, Art. 8 EuGVVO Rn. 2).\n23\nd) Einer Gerichtsstandsbestimmung steht nicht entgegen, dass der Verlust des für Einzelklagen\nvorhandenen gemeinsamen besonderen Gerichtsstands seine Ursache in der gewählten Art der\nProzessführung hat, nämlich in der Bündelung mehrerer Ansprüche und der gerichtlichen Verfolgung\nderselben in aktiver Streitgenossenschaft. Dass das Fehlen eines gemeinschaftlichen besonderen\nGerichtsstands der Beklagten erst durch die gemeinsame Klageerhebung bewirkt wird, steht der\nAnwendung des § 36 Abs. 1 Nr. 3 ZPO nämlich nicht ohne weiteres entgegen.\n24\naa) Das Bayerische Oberste Landesgericht hat mit Beschluss vom 8. Oktober 1998 (1Z AR 59/98, NJW-RR\n1999, 1293) entschieden, das Bestimmungsverfahren nach § 36 Abs. 1 Nr. 3 ZPO könne nicht dazu dienen,\nfür mehrere gegen einen der Streitgenossen erhobene Ansprüche einen einheitlichen Gerichtsstand zu\nschaffen, wenn ein solcher nach den gesetzlichen Bestimmungen nicht vorgesehen ist.\n25\nIn gleicher Weise hat das Oberlandesgericht München am 25. April 2018 (34 AR 62/18, NJW-RR 2018,\n699) entschieden, dass die Möglichkeit einer Gerichtsstandsbestimmung nicht eröffnet ist für einen\nRechtsstreit, in dem mehrere Streitgenossen als Kläger ihre behaupteten Ansprüche gegen einen Beklagten\nverfolgen und ein gemeinsam zuständiges Gericht hierfür nicht besteht. Denn auf mögliche Fälle der aktiven\nStreitgenossenschaft kann § 36 Abs. 1 Nr. 3 ZPO nicht analog angewendet werden (auch OLG München,\nBeschluss vom 12. Mai 2010, 34 AR 9/10, IBRRS 2010, 2097, beckonline; Patzina in Münchener\nKommentar, ZPO, 5. Aufl. 2016, § 36 Rn. 22). Werden gegen einen einzigen Beklagten mehrere Ansprüche\ngeltend gemacht, für die keine einheitliche (örtliche, sachliche oder funktionelle) Zuständigkeit begründet ist,\nscheidet eine Gerichtsstandsbestimmung mithin aus (Toussaint in BeckOK, ZPO, § 36 Rn. 12.1).\n26\nRichtet sich ausnahmsweise die - ausschließliche - örtliche Zuständigkeit nach dem allgemeinen\nGerichtsstand des Klägers und fehlt es deshalb für einen in aktiver Streitgenossenschaft zu führenden\nRechtsstreit gegen den Beklagten an einem gemeinsam zuständigen Gericht, weil dieser nicht an seinem\nallgemeinen Gerichtsstand in Anspruch genommen werden kann, scheidet eine analoge Anwendung von §\n36 Abs. 1 Nr. 3 ZPO gleichfalls aus. Stattdessen wird § 35 ZPO analog angewandt (BGH, Beschluss vom\n11. Juli 1991, I ARZ 447/91, NJW 1991, 2910; Toussaint in BeckOK, ZPO, § 36 Rn. 12.2; Heinrich in\nMusielak/Voit, ZPO, 16. Aufl. 2019, § 36 Rn. 17).\n27\nbb) Um einen prozessualen Sachverhalt vergleichbarer Art und um die Frage einer analogen Anwendung\nvon § 36 Abs. 1 Nr. 3 ZPO geht es vorliegend jedoch nicht.\n28\nVielmehr werden die Antragsgegnerinnen hinsichtlich aller Klagegegenstände als passive Streitgenossinnen\nin Anspruch genommen, wobei dem Klägergerichtsstand keine Bedeutung zukommt, so dass der\nAnwendungsbereich des § 36 Abs. 1 Nr. 3 ZPO eröffnet ist und es einer Analogie nicht bedarf.\n29\nFür die gerichtliche Durchsetzung von Ersatzansprüchen mehrerer Kartellgeschädigter durch einen\nZessionar, der die gebündelten Einzelansprüche gegen die Kartellanten als Gesamtschuldner in einem\n(einzigen) Rechtsstreit aufgrund Abtretung gerichtlich verfolgt, hat der Bundesgerichtshof eine\nGerichtsstandsbestimmung nach § 36 Abs. 1 Nr. 3 ZPO für zulässig erachtet (Beschluss vom 23. Oktober\n2018, X ARZ 252/18 - Zuckerkartell, juris). In diesem Zusammenhang wurde obiter dicta ausgesprochen,\ndass „die beantragte Gerichtsstandsbestimmung … auch dann möglich wäre, wenn die Klägerin und die\nZedentin ihre Ansprüche jeweils aus eigenem Recht als Streitgenossinnen geltend machen würden“ (a.a.O.\nRn. 18). Zwar sei § 260 ZPO zu entnehmen, dass eine objektive Klagehäufung für sich gesehen nicht die\nZuständigkeit eines Gerichts für die Entscheidung über einen Anspruch begründen könne, für den es nach\nden allgemeinen Vorschriften nicht zuständig sei. Zu den allgemeinen Zuständigkeitsvorschriften gehöre\naber auch § 36 ZPO. Deshalb sei es auch im Anwendungsbereich von § 260 ZPO nicht ausgeschlossen,\neine Zuständigkeit im Wege der Gerichtsstandsbestimmung zu begründen (a.a.O. Rn. 21).\n30\ncc) Dem schließt sich der Senat für den hier gegebenen Sachverhalt an, in dem die mehreren (nach dem im\nBestimmungsverfahren maßgeblichen Vortrag) Kartellgeschädigten ihre Ansprüche jeweils aus eigenem\nRecht als Streitgenossen geltend machen (vgl. OLG Düsseldorf, Urt v. 18. Februar 2015, VI-U (Kart) 3/14,\njuris Rn. 49). Dem Wortlaut des § 36 Abs. 1 Nr. 3 ZPO, der ausdrücklich auf den „Rechtsstreit“ abstellt, lässt\nsich kein Gebot einer restriktiven Anwendung dahingehend entnehmen, dass eine\nGerichtsstandsbestimmung bereits dann ausscheide, wenn der für die prozessualen Ansprüche jeweils\neinzeln gegebene gemeinschaftliche Gerichtsstand infolge der Bündelung in einer Klage verloren geht.\nJedenfalls wenn - wie hier - die kollektive Anspruchsverfolgung in einer Klage durch aktive Streitgenossen\nauf einem im Wesentlichen gleichartigen tatsächlichen und rechtlichen Grund beruht und von im\nWesentlichen einheitlich zu beantwortenden Vorfragen - wie dem hypothetischen Marktpreis (vgl. OLG\nFrankfurt, Urt. v. 17. November 2015, 11 U 73/11 (Kart), juris Rn. 57 ff.; Wurmnest NZKart 2017, 2/5) -\nabhängen, besteht für eine restriktive Auslegung von § 36 Abs. 1 Nr. 3 ZPO keine Veranlassung. Auch für\nRechtsmissbrauch ist nichts ersichtlich.\nIII.\n31\nDer Senat bestimmt das Landgericht Stuttgart als für den Rechtsstreit gemeinsam zuständiges Gericht.\n32\nBei der Bestimmung des zuständigen Gerichts stehen nach ständiger Rechtsprechung die Gesichtspunkte\nder Prozessökonomie und Zweckmäßigkeit im Vordergrund (BGH, Beschluss vom 23. Oktober 2018, X ARZ\n252/18 - Zuckerkartell, juris Rn. 29 m. w. N.).\n33\nZur Auswahl stehen hinsichtlich sämtlicher prozessualer Ansprüche die Gerichte am allgemeinen\nGerichtsstand der Antragsgegnerinnen. Ein wirtschaftlicher Schwerpunkt, der in die Auswahlentscheidung\neinfließen könnte, lässt sich dem Vorbringen der Parteien nicht entnehmen. Für die Auswahl des\nLandgerichts Stuttgart spricht der Umstand, dass dieses Gericht nicht nur - wie das Landgericht München I -\nmit Schadensersatzklagen im Zusammenhang mit dem Lkw-Kartell befasst ist, sondern dieses Gericht\nausweislich der am 23. Juli 2018 (30 O 37/17, juris) und 28. Februar 2019 (30 O 39/17, juris) ergangenen\nEntscheidungen bereits mit dem Streitstoff vertraut ist und hierzu über besondere Sachkunde verfügt. Die\nAntragsgegnerin zu 1) hat keine Gründe aufgezeigt, die für sie eine Verteidigung vor dem Landgericht in\nStuttgart unzumutbar erscheinen ließen. Solche sind auch nicht ersichtlich.\n\n\n\n\n\n\n"
+}

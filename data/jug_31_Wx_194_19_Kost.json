@@ -1,0 +1,347 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kost",
+            "end": 56,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 62,
+            "start": 57,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berichtigungsverfahren",
+            "end": 236,
+            "start": 214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 249,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "84",
+            "end": 286,
+            "start": 284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 327,
+            "start": 326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 336,
+            "start": 328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trifft",
+            "end": 631,
+            "start": 625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 644,
+            "start": 633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berichtigungsverfahren",
+            "end": 818,
+            "start": 796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 829,
+            "start": 819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 885,
+            "start": 883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 896,
+            "start": 886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8034",
+            "end": 915,
+            "start": 911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 921,
+            "start": 916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1094,
+            "start": 1084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1257,
+            "start": 1243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 1401,
+            "start": 1392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1481,
+            "start": 1470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1489,
+            "start": 1483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1491,
+            "start": 1490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1494,
+            "start": 1493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 1564,
+            "start": 1558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Raum",
+            "end": 1735,
+            "start": 1731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1738,
+            "start": 1737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2155,
+            "start": 2152,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2316,
+            "start": 2315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2319,
+            "start": 2318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Frage",
+            "end": 2455,
+            "start": 2450,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2668,
+            "start": 2667,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2880,
+            "start": 2879,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3111,
+            "start": 3110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3114,
+            "start": 3113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 3275,
+            "start": 3268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trifft",
+            "end": 3433,
+            "start": 3427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3536,
+            "start": 3531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3539,
+            "start": 3538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 3884,
+            "start": 3882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erklärung",
+            "end": 4226,
+            "start": 4217,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4459,
+            "start": 4458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 4532,
+            "start": 4521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 4634,
+            "start": 4627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 4787,
+            "start": 4779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 4791,
+            "start": 4789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4794,
+            "start": 4793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4890,
+            "start": 4888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FamFG",
+            "end": 5025,
+            "start": 5020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5400,
+            "start": 5397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwiesen",
+            "end": 5463,
+            "start": 5455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 5625,
+            "start": 5616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 5630,
+            "start": 5627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5633,
+            "start": 5632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 5879,
+            "start": 5876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezug",
+            "end": 6005,
+            "start": 6000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 6009,
+            "start": 6007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6012,
+            "start": 6011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 6088,
+            "start": 6085,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG München, Beschluss v. 07.05.2019 – 31 Wx 194/19 Kost\nTitel:\nErstattungspflicht, Berichtigung, Tragung der außergerichtlichen Kosten, Pflicht des\nStandesamtes, grobes Verschulden, Rücknahme der Namenserklärung,\nBerichtigungsverfahren\nNormenketten:\nFamFG § 7 Abs. 6, § 81 Abs. 4, § 84\nPStG § 47, § 48 Abs. 1 S. 1, § 51 Abs. 2\nLeitsatz:\nEine Pflicht des Standesamtes zu Tragung der außergerichtlichen Kosten eines anderen Beteiligten\nim Berichtigungsverfahren besteht nur dann, wenn das Standesamt entweder dem\nBerichtigungsverfahren beigetreten ist oder das Verfahren von ihm veranlasst wurde und es ein\ngrobes Verschulden trifft.\nSchlagworte:\nErstattungspflicht, Berichtigung, Tragung der außergerichtlichen Kosten, Pflicht des Standesamtes, grobes\nVerschulden, Rücknahme der Namenserklärung, Berichtigungsverfahren\nVorinstanz:\nAG Traunstein, Beschluss vom 17.01.2019 – UR III 18/18\nFundstelle:\nBeckRS 2019, 8034\nTenor\n1. Auf Beschwerde der Beteiligten zu 2 wird der Beschluss des Amtsgerichts Traunstein vom 17.01.2019 in\nZiffer 1 (Abhilfeentscheidung) und 2 (Kostenentscheidung) aufgehoben.\n2. Die Beschwerde des Beteiligten zu 1 vom 19.11.2018 gegen die Kostenentscheidung in dem Beschluss\ndes Amtsgerichts Traunstein vom 9.11.2018 wird zurückgewiesen.\n3. Der Beteiligte zu 1 hat die der Beteiligten zu 2 in dem Beschwerdeverfahren entstandenen notwendigen\naußergerichtlichen Kosten zu erstatten.\n4. Der Geschäftswert für das Beschwerdeverfahren wird auf 492,54 € festgesetzt.\nGründe\nI.\n1\nDie zulässige Beschwerde der Beteiligten zu 2 hat in der Sache Erfolg. Für eine Anordnung der Erstattung\nder dem Beteiligten zu 1 im Verfahren vor dem Amtsgericht erwachsenen außergerichtlichen Kosten durch\ndie Beteiligte zu 2 ist kein Raum.\n2\n1. Entgegen der Auffassung des Verfahrensbevollmächtigten des Beteiligten zu 1 ergibt sich eine solche\nErstattungspflicht nicht aus § 91 ZPO, denn bei dem vor dem Amtsgericht geführten Verfahren handelt es\nsich um kein Klageverfahren im Sinne eines kontradiktorischen Zivilverfahrens der ZPO, sondern um ein\ngerichtliches Verfahren im Sinne des § 48 PStG, das auf eine Berichtigung des Registereintrags gerichtet\nist. Hierbei handelt es sich um ein Antragsverfahren (vgl. § 48 Abs. 2 PStG), für dessen Durchführung die\nVorschriften des FamFG Anwendung finden (§ 51 Abs. 1 PStG).\n3\n2. Demgemäß kommen als mögliche Rechtsgrundlage für die Anordnung der erstrebten Erstattungspflicht\nallein die §§ 80 ff. FamFG in Frage. Deren Anwendungsbereich setzt aber voraus, dass das Standesamt\nder Beteiligten zu 2 die Stellung als Beteiligte im Sinne des § 7 FamFG inne hatte (vgl. Bornhofen in:\nGaaz/Bornhofen 4. Auflage <2018> § 51 Rn. 29). Dies ist vorliegend nicht der Fall, da das Standesamt dem\nvon dem Beteiligten zu 1 auf dessen Antrag hin durchgeführten (Berichtigungs) Verfahren nicht gemäß § 51\nAbs. 2 FamFG beigetreten ist (Bornhofen a.a.O.). Dass das Standesamt im Verfahren angehört wurde und\nzum Antrag des Beteiligten zu 1 Stellung genommen hat, macht das Standesamt nicht zum Beteiligten im\nSinne des § 7 FamFG (vgl. nur § 7 Abs. 6 FamFG sowie Wall StAZ 2013, 360 f.).\n4\n3. Demgemäß kann sich eine Pflicht des Standesamtes bzw. der Beteiligten zu 2 zur Tragung der\naußergerichtlichen Kosten allenfalls aus § 81 Abs. 4 FamFG ergeben. Dies kommt aber nur dann in\nBetracht, wenn die Tätigkeit des Gerichts durch das Standesamt veranlasst wurde und das Standesamt ein\ngrobes Verschulden trifft. Dies ist vorliegend nicht der Fall, da das Verfahren auf Antrag des Beteiligten zu 1\nveranlasst wurde.\n5\nDie Auffassung des Amtsgerichts und des Verfahrensbevollmächtigten des Beteiligten zu 1, wonach sich\ndie Tragung der außergerichtlichen Kosten des Beteiligten zu 1 daraus rechtfertigt, dass allein das\nStandesamt der Beteiligten zu 2 eine Rücknahme der Namenserklärung bedurfte und der Beteiligte zu 1 in\nder Sache obsiegt hatte, trifft nicht zu. Denn Hintergrund des hier inmitten stehenden Verfahrens war die\nvon dem Beteiligten zu 1 erstrebte Eintragung seines Familiennamens in die Geburtsurkunde seiner Tochter\nund der Hinweis der Standesamtsaufsicht der … auf die hierzu erforderliche Rücknahme seiner vor dem\nStandesamt der Beteiligten zu 2 abgegebenen namensrechtlichen Erklärung. Da eine solche einen\nabgeschlossenen Registereintrag betrifft und kein Fall des § 47 PStG vorliegt, darf nach § 48 Abs. 1 Satz 1\nPStG allein das Gericht über die Frage der Berichtigung entscheiden (vgl. Bornhofen a.a.O. § 48 Rn. 7).\nHierauf hat das Standesamt zu Recht in seiner Stellungnahme hingewiesen. Insofern war für das\nStandesamt von vornherein keine Entscheidungszuständigkeit in der Sache gegeben. Im Übrigen hat\ndieses stets betont, dass es die erstrebte Berichtung umsetzt, sofern eine Entscheidung des hierfür allein\nzuständigen Gerichts vorliegt.\nII.\n6\nDa die Beschwerde der Beteiligten zu 2 erfolgreich war, fallen insoweit keine Gerichtskosten an. Die\nAnordnung der Erstattung der außergerichtlichen Kosten der Beteiligten zu 2 durch den Beteiligten zu 1\nberuht auf §§ 84, 81 FamFG. Denn das dem Senat angefallene Beschwerdeverfahren fußt auf der zunächst\neingelegten Beschwerde des Beteiligten zu 1 gegen die Kostenentscheidung in dem Beschluss des\nAmtsgerichts vom 9.11.2018, mit der er die Erstattung seiner ihm in dem von ihm angestrengten\nBerichtigungsverfahren entstandenen notwendigen außergerichtlichen Kosten durch die Beteiligte zu 2\nerstrebt hat. Diese Beschwerde hat sich letztendlich als erfolglos erwiesen. Insofern hält es der Senat für\ngeboten, dass er die der Beteiligten zu 2 in dem Beschwerdeverfahren entstandenen notwendigen\naußergerichtlichen Kosten erstattet.\nIII.\n7\nDer Geschäftswert für das Beschwerdeverfahren entspricht den außergerichtlichen Kosten, die dem\nBeteiligten zu 1 im Verfahren nach § 48 PStG erwachsen sind, und deren Erstattung er durch seine von ihm\nveranlasste (Kosten) Beschwerde erstrebt hat. Insofern nimmt der Senat zur Vermeidung von\nWiederholungen auf seine Ausführungen in dem Hinweisbeschluss vom 4.4.2019 Bezug.\nIV.\n8\nDie Voraussetzungen für die Zulassung der Rechtsbeschwerde liegen nicht vor.\n\n"
+}

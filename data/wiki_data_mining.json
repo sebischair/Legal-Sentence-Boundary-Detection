@@ -1,0 +1,1331 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Mining",
+            "end": 11,
+            "start": 5,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeitet",
+            "end": 441,
+            "start": 430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 343,
+            "start": 335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 805,
+            "start": 795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "selbst",
+            "end": 1014,
+            "start": 1008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 1216,
+            "start": 1206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgesetzt",
+            "end": 1074,
+            "start": 1062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammenhänge",
+            "end": 1475,
+            "start": 1462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 1728,
+            "start": 1721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fachbereichen",
+            "end": 1771,
+            "start": 1758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "approximiert",
+            "end": 2035,
+            "start": 2023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrektheit",
+            "end": 2393,
+            "start": 2382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2219,
+            "start": 2213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2701,
+            "start": 2694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 2843,
+            "start": 2833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umgekehrt",
+            "end": 3130,
+            "start": 3121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 2641,
+            "start": 2635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reduzieren",
+            "end": 3307,
+            "start": 3297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwandt",
+            "end": 3041,
+            "start": 3033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3506,
+            "start": 3500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "profitiert",
+            "end": 3617,
+            "start": 3607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernens",
+            "end": 2922,
+            "start": 2915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 4083,
+            "start": 4079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzer",
+            "end": 3755,
+            "start": 3749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gruppiert",
+            "end": 3957,
+            "start": 3948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4279,
+            "start": 4273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4591,
+            "start": 4585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4439,
+            "start": 4435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezeichnung",
+            "end": 4614,
+            "start": 4603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4716,
+            "start": 4711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 4865,
+            "start": 4859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mining",
+            "end": 4965,
+            "start": 4959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Übersetzung",
+            "end": 5325,
+            "start": 5314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschläge",
+            "end": 5459,
+            "start": 5449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5193,
+            "start": 5189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 5696,
+            "start": 5687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthält",
+            "end": 5915,
+            "start": 5908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bildet",
+            "end": 6149,
+            "start": 6143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozess",
+            "end": 6172,
+            "start": 6165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 6186,
+            "start": 6174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Databases",
+            "end": 6220,
+            "start": 6211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozesses",
+            "end": 6315,
+            "start": 6306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umrissen",
+            "end": 6373,
+            "start": 6365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fokussieren",
+            "end": 6394,
+            "start": 6383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 6480,
+            "start": 6473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorverarbeitung",
+            "end": 6501,
+            "start": 6486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datensätzen",
+            "end": 6665,
+            "start": 6654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werte",
+            "end": 6810,
+            "start": 6805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Analyseschritt",
+            "end": 6859,
+            "start": 6845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ziele",
+            "end": 6951,
+            "start": 6946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 7138,
+            "start": 7130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mining",
+            "end": 7175,
+            "start": 7169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 7225,
+            "start": 7221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkennung",
+            "end": 7257,
+            "start": 7248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Änderungen",
+            "end": 7338,
+            "start": 7328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Clusteranalyse",
+            "end": 7358,
+            "start": 7344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ähnlichkeiten",
+            "end": 7411,
+            "start": 7398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassifikation",
+            "end": 7431,
+            "start": 7417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugeordnet",
+            "end": 7516,
+            "start": 7506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Assoziationsanalyse",
+            "end": 7542,
+            "start": 7523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "C",
+            "end": 7668,
+            "start": 7667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regressionsanalyse",
+            "end": 7694,
+            "start": 7676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Variablen",
+            "end": 7785,
+            "start": 7776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationsverlust",
+            "end": 7904,
+            "start": 7885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammenfassung",
+            "end": 7806,
+            "start": 7791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regressionsanalyse",
+            "end": 8084,
+            "start": 8066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkennung",
+            "end": 8107,
+            "start": 8098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 8121,
+            "start": 8109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausreißer",
+            "end": 8132,
+            "start": 8123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 8327,
+            "start": 8318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkennung",
+            "end": 8518,
+            "start": 8509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 8688,
+            "start": 8682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Objekte",
+            "end": 8799,
+            "start": 8792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Clusteranalyse",
+            "end": 8816,
+            "start": 8802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 8830,
+            "start": 8818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Clusteranalyse",
+            "end": 8846,
+            "start": 8832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gruppen",
+            "end": 8989,
+            "start": 8982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 9207,
+            "start": 9199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 9443,
+            "start": 9437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Cluster",
+            "end": 9303,
+            "start": 9296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 9075,
+            "start": 9070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassifikation",
+            "end": 9460,
+            "start": 9446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 9474,
+            "start": 9462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassifikationsverfahren",
+            "end": 9500,
+            "start": 9476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzuordnen",
+            "end": 9623,
+            "start": 9613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzuordnen",
+            "end": 9869,
+            "start": 9859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Assoziationsanalyse",
+            "end": 9891,
+            "start": 9872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 9905,
+            "start": 9893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Assoziationsanalyse",
+            "end": 9926,
+            "start": 9907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "formuliert",
+            "end": 10049,
+            "start": 10039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgendes",
+            "end": 10210,
+            "start": 10201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bier",
+            "end": 10480,
+            "start": 10476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10768,
+            "start": 10762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitnehmen",
+            "end": 10635,
+            "start": 10626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regressionsanalyse",
+            "end": 10789,
+            "start": 10771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 10803,
+            "start": 10791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regressionsanalyse",
+            "end": 10823,
+            "start": 10805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "modelliert",
+            "end": 10935,
+            "start": 10925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11235,
+            "start": 11229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkennung",
+            "end": 11075,
+            "start": 11066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11350,
+            "start": 11344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammenfassung",
+            "end": 11368,
+            "start": 11353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Menge",
+            "end": 11540,
+            "start": 11535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 11641,
+            "start": 11635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reduziert",
+            "end": 11839,
+            "start": 11830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 12095,
+            "start": 12090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 11956,
+            "start": 11951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinfacht",
+            "end": 12259,
+            "start": 12248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Spezialisierungen",
+            "end": 12279,
+            "start": 12262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datentypen",
+            "end": 12441,
+            "start": 12431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Textmining",
+            "end": 12454,
+            "start": 12444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 12468,
+            "start": 12456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Textmining",
+            "end": 12480,
+            "start": 12470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenbeständen",
+            "end": 12555,
+            "start": 12541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klassifizieren",
+            "end": 12653,
+            "start": 12639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Webmining",
+            "end": 12665,
+            "start": 12656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 12679,
+            "start": 12667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mining",
+            "end": 12691,
+            "start": 12685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 12785,
+            "start": 12775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herausforderungen",
+            "end": 13101,
+            "start": 13084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbunden",
+            "end": 13176,
+            "start": 13167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 12966,
+            "start": 12956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeitreihenanalyse",
+            "end": 13196,
+            "start": 13179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 13210,
+            "start": 13198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeitreihenanalyse",
+            "end": 13229,
+            "start": 13212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 13319,
+            "start": 13314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 13513,
+            "start": 13503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweist",
+            "end": 13700,
+            "start": 13692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mining",
+            "end": 13727,
+            "start": 13721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Defekte",
+            "end": 13742,
+            "start": 13735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14087,
+            "start": 14081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfassung",
+            "end": 13902,
+            "start": 13893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stichprobe",
+            "end": 14183,
+            "start": 14173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13998,
+            "start": 13992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Parametrisierung",
+            "end": 14202,
+            "start": 14186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14303,
+            "start": 14299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Benutzers",
+            "end": 14460,
+            "start": 14451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zerteilen",
+            "end": 14752,
+            "start": 14743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hilfreich",
+            "end": 14896,
+            "start": 14887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eliminiert",
+            "end": 15142,
+            "start": 15132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 14997,
+            "start": 14991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Evaluation",
+            "end": 15155,
+            "start": 15145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 15515,
+            "start": 15506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 15356,
+            "start": 15352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schwieriger",
+            "end": 15615,
+            "start": 15604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verglichen",
+            "end": 15858,
+            "start": 15848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassen",
+            "end": 15760,
+            "start": 15753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewertet",
+            "end": 16047,
+            "start": 16039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interpretation",
+            "end": 16064,
+            "start": 16050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 16174,
+            "start": 16165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 16492,
+            "start": 16488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 16266,
+            "start": 16259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 16333,
+            "start": 16318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendungsgebiete",
+            "end": 16512,
+            "start": 16495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Industrie",
+            "end": 16637,
+            "start": 16628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsunterstützungssystem",
+            "end": 16677,
+            "start": 16644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzsektor",
+            "end": 16698,
+            "start": 16686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrugserkennung",
+            "end": 16746,
+            "start": 16730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16878,
+            "start": 16872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marketing",
+            "end": 16896,
+            "start": 16887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbemaßnahmen",
+            "end": 17029,
+            "start": 17015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Supermarkt",
+            "end": 17113,
+            "start": 17103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbekampagnen",
+            "end": 17161,
+            "start": 17147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systemen",
+            "end": 17276,
+            "start": 17268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Intelligence",
+            "end": 17307,
+            "start": 17295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Internet",
+            "end": 17324,
+            "start": 17316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angriffserkennung",
+            "end": 17352,
+            "start": 17335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musik",
+            "end": 17428,
+            "start": 17423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Netzwerken",
+            "end": 17476,
+            "start": 17466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "analysieren",
+            "end": 17540,
+            "start": 17529,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Textbeständen",
+            "end": 17598,
+            "start": 17585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ereignisse",
+            "end": 17716,
+            "start": 17706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Medizin",
+            "end": 17730,
+            "start": 17723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflegewesen",
+            "end": 17747,
+            "start": 17736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bibliometrie",
+            "end": 17765,
+            "start": 17753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenanalyse",
+            "end": 17795,
+            "start": 17783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "optimierung",
+            "end": 17832,
+            "start": 17821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermitteln",
+            "end": 17986,
+            "start": 17977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozessen",
+            "end": 18046,
+            "start": 18037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18161,
+            "start": 18155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktdaten",
+            "end": 18196,
+            "start": 18184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18281,
+            "start": 18275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 18341,
+            "start": 18339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 18477,
+            "start": 18475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aspekte",
+            "end": 18530,
+            "start": 18523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wertneutral",
+            "end": 18600,
+            "start": 18589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Probleme",
+            "end": 18880,
+            "start": 18872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Knochenfunden",
+            "end": 18764,
+            "start": 18751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 19089,
+            "start": 19088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aspekte",
+            "end": 19111,
+            "start": 19104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 19125,
+            "start": 19113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 19165,
+            "start": 19160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deanonymisierung",
+            "end": 19454,
+            "start": 19438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19313,
+            "start": 19307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identifizieren",
+            "end": 19728,
+            "start": 19714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20082,
+            "start": 20076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20500,
+            "start": 20494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kennt",
+            "end": 19960,
+            "start": 19955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aspekte",
+            "end": 20521,
+            "start": 20514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Statistik",
+            "end": 20344,
+            "start": 20335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 20624,
+            "start": 20621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 20704,
+            "start": 20698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rasterfahndung",
+            "end": 20804,
+            "start": 20790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kritisiert",
+            "end": 21024,
+            "start": 21014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aspekte",
+            "end": 21049,
+            "start": 21042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hervorrufen",
+            "end": 21345,
+            "start": 21334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kennen",
+            "end": 21195,
+            "start": 21189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konfrontiert",
+            "end": 21442,
+            "start": 21430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "falsch",
+            "end": 21589,
+            "start": 21583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 21849,
+            "start": 21842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21702,
+            "start": 21699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21788,
+            "start": 21782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mining",
+            "end": 21882,
+            "start": 21876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Clusteranalyse",
+            "end": 21953,
+            "start": 21939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkennung",
+            "end": 22100,
+            "start": 22091,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KNIME",
+            "end": 22139,
+            "start": 22134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 22197,
+            "start": 22191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "orientiert",
+            "end": 22282,
+            "start": 22272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abdeckend",
+            "end": 22627,
+            "start": 22618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 22718,
+            "start": 22712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernen",
+            "end": 22772,
+            "start": 22766,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Data-Mining\r\nUnter Data-Mining [ˈdeɪtə ˈmaɪnɪŋ] (von englisch data mining, aus englisch data ‚Daten‘ und englisch mine ‚graben‘, ‚abbauen‘, ‚fördern‘)[1] versteht man die systematische Anwendung statistischer Methoden auf große Datenbestände (insbesondere „Big Data“ bzw. Massendaten) mit dem Ziel, neue Querverbindungen und Trends zu erkennen. Solche Datenbestände werden aufgrund ihrer Größe mittels computergestützter Methoden verarbeitet. In der Praxis wurde der Unterbegriff Data-Mining auf den gesamten Prozess der sogenannten „Knowledge Discovery in Databases“ (englisch für Wissensentdeckung in Datenbanken; KDD) übertragen, der auch Schritte wie die Vorverarbeitung und Auswertung beinhaltet, während Data-Mining im engeren Sinne nur den eigentlichen Verarbeitungsschritt des Prozesses bezeichnet.[2]\r\nDie Bezeichnung Data-Mining (eigentlich etwa „Abbau von Daten“) ist etwas irreführend, denn es geht um die Gewinnung von Wissen aus bereits vorhandenen Daten und nicht um die Generierung von Daten selbst.[3] Die prägnante Bezeichnung hat sich dennoch durchgesetzt. Die reine Erfassung, Speicherung und Verarbeitung von großen Datenmengen wird gelegentlich ebenfalls mit dem Buzzword Data-Mining bezeichnet. Im wissenschaftlichen Kontext bezeichnet es primär die Extraktion von Wissen, das „gültig (im statistischen Sinne), bisher unbekannt und potentiell nützlich“[4] ist „zur Bestimmung bestimmter Regelmäßigkeiten, Gesetzmäßigkeiten und verborgener Zusammenhänge“.[5] Fayyad definiert es als „ein[en] Schritt des KDD-Prozesses, der darin besteht, Datenanalyse- und Entdeckungsalgorithmen anzuwenden, die unter akzeptablen Effizienzbegrenzungen eine spezielle Auflistung von Mustern (oder Modellen) der Daten liefern“.[2]\r\nAbgrenzung von anderen Fachbereichen\r\nViele der im Data-Mining eingesetzten Verfahren stammen eigentlich aus der Statistik, insbesondere der multivariaten Statistik und werden oft nur in ihrer Komplexität für die Anwendung im Data-Mining angepasst, oft dabei zu Ungunsten der Genauigkeit approximiert. Der Verlust an Genauigkeit geht oft mit einem Verlust an statistischer Gültigkeit einher, so dass die Verfahren aus einer rein statistischen Sicht mitunter sogar „falsch“ sein können. Für die Anwendung im Data-Mining sind oft jedoch der experimentell verifizierte Nutzen und die akzeptable Laufzeit entscheidender als eine statistisch bewiesene Korrektheit.\r\nEbenfalls eng verwandt ist das Thema maschinelles Lernen, jedoch ist bei Data-Mining der Fokus auf dem Finden neuer Muster, während im maschinellen Lernen primär bekannte Muster vom Computer automatisch in neuen Daten wiedererkannt werden sollen. Eine einfache Trennung ist hier jedoch nicht immer möglich: Werden beispielsweise Assoziationsregeln aus den Daten extrahiert, so ist das ein Prozess, der den typischen Data-Mining-Aufgaben entspricht; die extrahierten Regeln erfüllen aber auch die Ziele des maschinellen Lernens. Umgekehrt ist der Teilbereich des unüberwachten Lernens aus dem maschinellen Lernen sehr eng mit Data-Mining verwandt. Verfahren aus dem maschinellen Lernen finden oft im Data-Mining Anwendung und umgekehrt.\r\nDie Forschung im Bereich der Datenbanksysteme, insbesondere von Indexstrukturen spielt für das Data-Mining eine große Rolle, wenn es darum geht, die Komplexität zu reduzieren. Typische Aufgaben wie Nächste-Nachbarn-Suche können mit Hilfe eines geeigneten Datenbankindex wesentlich beschleunigt werden und die Laufzeit eines Data-Mining-Algorithmus dadurch verbessert werden.\r\nDas Information Retrieval (IR) ist ein weiteres Fachgebiet, das von Erkenntnissen des Data-Mining profitiert. Hier geht es vereinfacht gesprochen um die computergestützte Suche nach komplexen Inhalten, aber auch um die Präsentation für den Nutzer. Data-Mining-Verfahren wie die Clusteranalyse finden hier Anwendung, um die Suchergebnisse und ihre Präsentation für den Nutzer zu verbessern, beispielsweise indem man ähnliche Suchergebnisse gruppiert. Text Mining und Web Mining sind zwei Spezialisierungen des Data-Mining, die eng mit dem Information Retrieval verbunden sind.\r\nDie Datenerhebung, also das Erfassen von Informationen in einer systematischen Art und Weise, ist eine wichtige Voraussetzung, um mit Hilfe von Data-Mining gültige Ergebnisse bekommen zu können. Wurden die Daten statistisch unsauber erhoben, so kann ein systematischer Fehler in den Daten vorliegen, der anschließend im Data-Mining-Schritt gefunden wird. Das Ergebnis ist dann unter Umständen keine Konsequenz der beobachteten Objekte, sondern verursacht durch die Art, in welcher die Daten erfasst wurden.\r\nDeutsche Bezeichnung\r\nEine etablierte deutsche Übersetzung für den englischen Terminus Data-Mining existiert bislang nicht.[6]\r\nEs gibt verschiedene Versuche, eine sachlich in allen Aspekten zutreffende deutsche Bezeichnung für den ungenauen englischen Ausdruck zu finden. Der Duden[5] beschränkt sich auf den eingedeutschten Anglizismus „Data-Mining“ (engl. „data mining“). Vorschläge zur Eindeutschung sind beispielsweise „Datenmustererkennung“[7] (was oft als Wiedererkennung bestehender Muster missinterpretiert wird) und „Datenschürfung“ (was der Originalbedeutung nicht vollkommen gerecht wird). Der Fremdwörter-Duden verwendet als wörtliche Übersetzung „Datenförderung“, kennzeichnet dies aber als nicht passende Übersetzung.[8] Auch der gezielte Aufruf nach Vorschlägen durch die Zeitschrift für Künstliche Intelligenz brachte keine überzeugenden Vorschläge.[6] Keiner dieser Bezeichner konnte nennenswerte Verbreitung erreichen, oft da bestimmte Aspekte des Themas wie die Wissensentdeckung verloren gehen, und falsche Assoziationen wie zur Mustererkennung im Sinne von Bilderkennung entstehen.\r\nGelegentlich wird die deutsche Bezeichnung „Wissensentdeckung in Datenbanken“ (für das englische Knowledge Discovery in Databases) verwendet, die den gesamten Prozess umfasst, der auch den Data-Mining-Schritt enthält. Des Weiteren betont diese Bezeichnung sowohl die wissenschaftlichen Ansprüche, als auch, dass der Prozess in der Datenbank abläuft (und sich eben nicht beispielsweise ein Mensch durch Interpretation eine Meinung aus den Daten bildet).\r\nData-Mining-Prozess\r\nHauptartikel: Knowledge Discovery in Databases\r\nData-Mining ist der eigentliche Analyseschritt des Knowledge Discovery in Databases Prozesses. Die Schritte des iterativen Prozesses sind grob umrissen:[4]\r\n    Fokussieren: die Datenerhebung und Selektion, aber auch das Bestimmen bereits vorhandenen Wissens\r\n    Vorverarbeitung: die Datenbereinigung, bei der Quellen integriert und Inkonsistenzen beseitigt werden, beispielsweise durch Entfernen oder Ergänzen von unvollständigen Datensätzen.\r\n    Transformation in das passende Format für den Analyseschritt, beispielsweise durch Selektion von Attributen oder Diskretisierung der Werte\r\n    Data-Mining, der eigentliche Analyseschritt\r\n    Evaluation der gefundenen Muster durch den Experten und Kontrolle der erreichten Ziele\r\nIn weiteren Iterationen kann nun bereits gefundenes Wissen verwendet („in den Prozess integriert“) werden um in einem erneuten Durchlauf zusätzliche oder genauere Ergebnisse zu erhalten.\r\nAufgabenstellungen des Data-Mining\r\nTypische Aufgabenstellungen des Data-Mining sind:[2][4]\r\n    Ausreißer-Erkennung: Identifizierung von ungewöhnlichen Datensätzen: Ausreißern, Fehlern, Änderungen\r\n    Clusteranalyse: Gruppierung von Objekten aufgrund von Ähnlichkeiten\r\n    Klassifikation: bisher nicht Klassen zugeordnete Elemente werden den bestehenden Klassen zugeordnet.\r\n    Assoziationsanalyse: Identifizierung von Zusammenhängen und Abhängigkeiten in den Daten in Form von Regeln wie „Aus A und B folgt normalerweise C“.\r\n    Regressionsanalyse: Identifizierung von Beziehungen zwischen (mehreren) abhängigen und unabhängigen Variablen\r\n    Zusammenfassung: Reduktion des Datensatzes auf eine kompaktere Beschreibung ohne wesentlichen Informationsverlust\r\nDiese Aufgabenstellungen können noch grob gegliedert werden in Beobachtungsprobleme (Ausreißer-Erkennung, Clusteranalyse) und Prognoseprobleme (Klassifikation, Regressionsanalyse).\r\nAusreißer-Erkennung\r\nHauptartikel: Ausreißer\r\nIn dieser Aufgabe werden Datenobjekte gesucht, die inkonsistent zu dem Rest der Daten sind, beispielsweise indem sie ungewöhnliche Attributswerte haben oder von einem generellen Trend abweichen. Das Verfahren Local Outlier Factor sucht beispielsweise Objekte, die eine von ihren Nachbarn deutlich abweichende Dichte aufweisen, man spricht hier von „dichtebasierter Ausreißer-Erkennung“.\r\nIdentifizierte Ausreißer werden oft anschließend manuell verifiziert und aus dem Datensatz ausgeblendet, da sie die Ergebnisse anderer Verfahren verschlechtern können. In manchen Anwendungsfällen wie der Betrugserkennung sind aber gerade die Ausreißer die interessanten Objekte.\r\nClusteranalyse\r\nHauptartikel: Clusteranalyse\r\nBei der Clusteranalyse geht es darum, Gruppen von Objekten zu identifizieren, die sich auf eine gewisse Art ähnlicher sind als andere Gruppen. Oft handelt es sich dabei um Häufungen im Datenraum, woher der Begriff Cluster kommt. Bei einer dichteverbundenen Clusteranalyse wie beispielsweise DBSCAN oder OPTICS können die Cluster aber beliebige Formen annehmen. Andere Verfahren wie der EM-Algorithmus oder k-Means-Algorithmus bevorzugen sphärische Cluster.\r\nObjekte, die keinem Cluster zugeordnet wurden, können als Ausreißer im Sinne der zuvor genannten Ausreißer-Erkennung interpretiert werden.\r\nKlassifikation\r\nHauptartikel: Klassifikationsverfahren\r\nBei der Klassifikation geht es ähnlich der Clusteranalyse darum, Objekte Gruppen (hier als Klassen bezeichnet) zuzuordnen. Im Gegensatz zur Clusteranalyse sind hier aber in der Regel die Klassen vordefiniert (Beispielsweise: Fahrräder, Autos) und es werden Verfahren aus dem maschinellen Lernen eingesetzt um bisher nicht zugeordnete Objekte diesen Klassen zuzuordnen.\r\nAssoziationsanalyse\r\nHauptartikel: Assoziationsanalyse\r\nIn der Assoziationsanalyse werden häufige Zusammenhänge in den Datensätzen gesucht und meist als Schlussregeln formuliert. Ein beliebtes (wenn auch anscheinend fiktives) Beispiel, das unter anderem in der Fernsehserie Numbers – Die Logik des Verbrechens erwähnt wurde, ist folgendes: bei der Warenkorbanalyse wurde festgestellt, dass die Produktkategorien „Windeln“ und „Bier“ überdurchschnittlich oft zusammen gekauft werden, meist dargestellt in Form einer Schlussregel „Kunde kauft Windeln ⇒ {\\displaystyle \\Rightarrow } \\Rightarrow Kunde kauft Bier“. Die Interpretation dieses Ergebnisses war, dass Männer, wenn sie von ihren Ehefrauen Windeln kaufen geschickt werden, sich gerne noch ein Bier mitnehmen. Durch Platzierung des Bierregals auf dem Weg von den Windeln zur Kasse konnte angeblich[9] der Bierverkauf weiter gesteigert werden.\r\nRegressionsanalyse\r\nHauptartikel: Regressionsanalyse\r\nBei der Regressionsanalyse wird der statistische Zusammenhang zwischen unterschiedlichen Attributen modelliert. Dies erlaubt unter anderem die Prognose von fehlenden Attributswerten, aber auch die Analyse der Abweichung analog zur Ausreißer-Erkennung. Verwendet man Erkenntnisse aus der Clusteranalyse und berechnet separate Modelle für jeden Cluster, so können typischerweise bessere Prognosen erstellt werden. Wird ein starker Zusammenhang festgestellt, so kann dieses Wissen auch gut für die Zusammenfassung genutzt werden.\r\nZusammenfassung\r\nDa Data-Mining oft auf große und komplexe Datenmengen angewendet wird, ist eine wichtige Aufgabe auch die Reduktion dieser Daten auf eine für den Nutzer handhabbare Menge. Insbesondere die Ausreißer-Erkennung identifiziert hierzu einzelne Objekte, die wichtig sein können; die Clusteranalyse identifiziert Gruppen von Objekten, bei denen es oft reicht, sie nur anhand einer Stichprobe zu untersuchen, was die Anzahl der zu untersuchenden Datenobjekte deutlich reduziert. Die Regressionsanalyse erlaubt es, redundante Informationen zu entfernen und reduziert so die Komplexität der Daten. Klassifikation, Assoziationsanalyse und Regressionsanalyse (zum Teil auch die Clusteranalyse) liefern zudem abstraktere Modelle der Daten.\r\nMit Hilfe dieser Ansätze wird sowohl die Analyse der Daten als auch beispielsweise deren Visualisierung (durch Stichproben und geringere Komplexität) vereinfacht.\r\nSpezialisierungen\r\nWährend die meisten Data-Mining-Verfahren versuchen mit möglichst allgemeinen Daten umgehen zu können, gibt es auch Spezialisierungen für speziellere Datentypen.\r\nTextmining\r\nHauptartikel: Textmining\r\nIm Textmining geht es um die Analyse von großen textuellen Datenbeständen. Dies kann beispielsweise der Plagiats-Erkennung dienen oder um den Textbestand zu klassifizieren.\r\nWebmining\r\nHauptartikel: Web Mining\r\nBeim Webmining geht es um die Analyse von verteilten Daten, wie es Internetseiten darstellen. Für die Erkennung von Clustern und Ausreißern werden hier aber nicht nur die Seiten selbst, sondern insbesondere auch die Beziehungen (Hyperlinks) der Seiten zueinander betrachtet. Durch die sich ständig ändernden Inhalte und die nicht garantierte Verfügbarkeit der Daten ergeben sich zusätzliche Herausforderungen. Dieser Themenbereich ist auch eng mit dem Information Retrieval verbunden.\r\nZeitreihenanalyse\r\nHauptartikel: Zeitreihenanalyse\r\nIn der Zeitreihenanalyse spielen die temporalen Aspekte und Beziehungen eine große Rolle. Hier können mittels spezieller Distanzfunktionen wie der Dynamic-Time-Warping-Distanz bestehende Data-Mining-Verfahren verwendet werden, es werden aber auch spezialisierte Verfahren entwickelt. Eine wichtige Herausforderung besteht darin, Reihen mit einem ähnlichen Verlauf zu erkennen, auch wenn dieser etwas zeitlich versetzt ist, aber dennoch ähnliche Charakteristika aufweist.\r\nProbleme des Data-Mining\r\nDaten-Defekte\r\nViele der Probleme bei Data-Mining stammen aus einer ungenügenden Vorverarbeitung der Daten oder aus systematischen Fehlern und Verzerrung bei deren Erfassung. Diese Probleme sind oft statistischer Natur und müssen bereits bei der Erfassung gelöst werden: aus nicht repräsentativen Daten können keine repräsentativen Ergebnisse gewonnen werden. Hier sind ähnliche Aspekte zu beachten wie bei der Erstellung einer repräsentativen Stichprobe.\r\nParametrisierung\r\nDie im Data-Mining verwendeten Algorithmen haben oft mehrere Parameter, die geeignet zu wählen sind. Mit allen Parametern liefern sie gültige Ergebnisse, und die Parameter so zu wählen, dass die Ergebnisse auch nützlich sind, ist eine Aufgabe des Benutzers. Wählt man beim Clusteranalyse-Algorithmus DBSCAN beispielsweise die Parameter m i n P t s {\\displaystyle minPts} minPts und ε {\\displaystyle \\varepsilon } \\varepsilon klein, so findet der Algorithmus eine fein aufgelöste Struktur, neigt aber auch dazu, Cluster in kleine Stücke zu zerteilen. Wählt man die Parameter größer, so findet er nur noch die Hauptcluster, die jedoch schon bekannt sein können, und dadurch auch nicht hilfreich. Weiterentwickelte Methoden haben oft weniger Parameter oder diese Parameter sind leichter zu wählen. Beispielsweise ist OPTICS eine Weiterentwicklung von DBSCAN, die den Parameter ε {\\displaystyle \\varepsilon } \\varepsilon weitgehend eliminiert.\r\nEvaluation\r\nDie Bewertung von Data-Mining-Ergebnissen stellt den Benutzer vor das Problem, dass er einerseits neue Erkenntnisse gewinnen möchte, andererseits Verfahren dann nur schwer automatisiert bewerten kann. Bei Prognoseproblemen wie der Klassifikation, Regressionsanalyse und Assoziationsanalyse lässt sich hier die Prognose auf neuen Daten zur Bewertung verwenden. Bei Beschreibungsproblemen wie der Ausreißer-Erkennung und der Clusteranalyse ist dies schwieriger. Cluster werden meist intern oder extern bewertet, also anhand ihrer mathematischen Kompaktheit oder ihrer Übereinstimmung mit bekannten Klassen.[10] Die Ergebnisse von Ausreißer-Erkennungs-Verfahren werden mit bekannten Ausreißern verglichen. Bei beiden stellt sich jedoch die Frage, ob diese Bewertung wirklich zur Aufgabenstellung der „neuen Erkenntnisse“ passt und nicht letztlich die „Reproduktion alter Erkenntnisse“ bewertet.\r\nInterpretation\r\nAls statistische Verfahren analysieren die Algorithmen die Daten ohne Hintergrundwissen über deren Bedeutung. Daher können die Verfahren meist nur einfache Modelle wie Gruppen oder Mittelwerte liefern. Oftmals sind die Ergebnisse als solche nicht mehr nachvollziehbar. Diese maschinell gewonnenen Ergebnisse müssen aber anschließend noch von dem Benutzer interpretiert werden, bevor man sie wirklich als Wissen bezeichnen kann.\r\nAnwendungsgebiete\r\nNeben den Anwendungen in den verwandten Bereichen der Informatik findet Data-Mining auch zunehmend Einsatz in der Industrie:\r\n    Entscheidungsunterstützungssystem\r\n    Im Finanzsektor:\r\n        Rechnungsprüfung zur Betrugserkennung\r\n        Kreditscoring zur Bestimmung von Ausfallswahrscheinlichkeiten kann als klassisches Beispiel von Data-Mining gesehen werden\r\n    Im Marketing:\r\n        Marktsegmentierung, beispielsweise Kunden in Bezug auf ähnliches Kaufverhalten bzw. Interessen für gezielte Werbemaßnahmen\r\n        Warenkorbanalyse zur Preisoptimierung und Produktplatzierung im Supermarkt\r\n        Zielgruppen-Auswahl für Werbekampagnen\r\n        Kundenprofil-Erstellung zum Management von Kundenbeziehungen in Customer-Relationship-Management-Systemen\r\n        Business Intelligence\r\n    Im Internet:\r\n        Angriffserkennung\r\n        Empfehlungsdienste für Produkte wie beispielsweise Filme und Musik\r\n        Netzwerkanalyse in sozialen Netzwerken\r\n        Web-Usage-Mining um das Nutzerverhalten zu analysieren\r\n        Text Mining zur Analyse von großen Textbeständen\r\n    Pharmakovigilanz (Arzneimittelüberwachung nach Marktzulassung im Hinblick auf unbekannte unerwünschte Ereignisse)\r\n    Medizin\r\n    Pflegewesen\r\n    Bibliometrie\r\n    Explorative Datenanalyse\r\n    Prozessanalyse und -optimierung:\r\n        Mit Hilfe des Data-Mining lassen sich technische Prozesse analysieren und die Zusammenhänge der einzelnen Prozessgrößen untereinander ermitteln. Dies hilft bei der Steuerung und Optimierung von Prozessen. Erste erfolgreiche Ansätze konnten bereits in der chemischen Industrie und Kunststoffverarbeitung erreicht werden.[11]\r\n    Analyse von Produktdaten: auch Daten aus dem Produktlebenszyklus können mittels Data Mining analysiert werden. Diese Daten fallen insbesondere bei Wartung und Service an. Sie lassen sich zur Optimierung und Weiterentwicklung des Produktes verwenden und können dazu beitragen, Innovationen zu generieren[12].\r\nRechtliche, moralische und psychologische Aspekte\r\nData-Mining als wissenschaftliche Disziplin ist zunächst wertneutral. Die Verfahren erlauben die Analyse von Daten aus nahezu beliebigen Quellen, beispielsweise Messwerte von Bauteilen oder die Analyse von historischen Knochenfunden. Beziehen sich die analysierten Daten jedoch auf Personen, so entstehen wichtige rechtliche und moralische Probleme; typischerweise aber bereits bei der Erfassung und Speicherung dieser Daten, nicht erst bei der Analyse, und unabhängig von der konkret verwendeten Analysemethode (Statistik, Datenbankanfragen, Data-Mining, …).\r\nRechtliche Aspekte\r\nHauptartikel: Datenschutz und Personenbezogene Daten\r\nDaten, die unzulänglich anonymisiert wurden, können möglicherweise durch Datenanalyse wieder konkreten Personen zugeordnet (deanonymisiert) werden. Typischerweise wird man hier jedoch nicht Data-Mining einsetzen, sondern einfachere und spezialisierte Analysemethoden zur Deanonymisierung. Eine derartige Anwendung – und vor allem die unzulängliche Anonymisierung zuvor – sind dann möglicherweise illegal (nach dem Datenschutzrecht). So gelang es Forschern beispielsweise anhand weniger Fragen Nutzerprofile eindeutig in einem sozialen Netzwerk zu identifizieren.[13] Werden beispielsweise Bewegungsdaten nur pseudonymisiert, so kann mit einer einfachen Datenbankanfrage (technisch gesehen kein Data-Mining!) oft der Nutzer identifiziert werden, sobald man seinen Wohnort und Arbeitsplatz kennt: die meisten Personen können anhand der 2–3 Orte, an denen sie am meisten Zeit verbringen, eindeutig identifiziert werden.\r\nDas Datenschutzrecht spricht allgemein von der „Erhebung, Verarbeitung oder Nutzung“ personenbezogener Daten, da diese Problematik nicht erst bei der Verwendung von Data-Mining auftritt, sondern auch bei der Verwendung anderer Analysemethoden (bspw. Statistik). Ein zuverlässiger Schutz vor einer missbräuchlichen Analyse ist nur möglich, indem die entsprechenden Daten gar nicht erst erfasst und gespeichert werden.\r\nMoralische Aspekte\r\nDie Anwendung von Data-Mining-Verfahren auf personenbeziehbare Daten wirft auch moralische Fragen auf. Beispielsweise, ob ein Computerprogramm Menschen in „Klassen“ einteilen sollte. Zudem eignen sich viele der Verfahren zur Überwachung und für eine fortgeschrittene Rasterfahndung. So stellt beispielsweise der SCHUFA-Score eine durch Statistik, vielleicht auch Data-Mining, gewonnene Einteilung der Menschen in die Klassen „kreditwürdig“ und „nicht kreditwürdig“ dar und wird entsprechend kritisiert.\r\nPsychologische Aspekte\r\nData-Mining-Verfahren selbst arbeiten wertneutral und berechnen nur Wahrscheinlichkeiten, ohne die Bedeutung dieser Wahrscheinlichkeit zu kennen. Werden Menschen jedoch mit dem Ergebnis dieser Berechnungen konfrontiert, so kann das überraschte, beleidigte oder befremdete Reaktionen hervorrufen. Daher ist es wichtig abzuwägen, ob und wie man jemanden mit derartigen Ergebnissen konfrontiert.\r\nGoogle gewährt seinen Nutzern Einblick in die für sie ermittelten Zielgruppen[14] – sofern kein Opt-Out erfolgt ist – und liegt dabei oft falsch. Eine amerikanische Kaufhauskette kann aber anhand des Einkaufsverhaltens erkennen, ob eine Kundin schwanger ist.[15] Mit Hilfe dieser Information können gezielt Einkaufsgutscheine verschickt werden. Selbst eine Vorhersage des Datums der Geburt ist so möglich.\r\nSoftwarepakete für Data-Mining\r\n    Clustan mit Schwerpunkt statistische Verfahren zur Clusteranalyse\r\n    Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) mit Schwerpunkten auf Clusteranalyse und Ausreißer-Erkennung\r\n    Konstanz Information Miner (KNIME)\r\n    Neural Designer mit Schwerpunkt Maschinelles Lernen\r\n    GNU R-Projekt mit Schwerpunkt Statistik, skript-/programmiersprachen-orientiert\r\n    RapidMiner (früher YALE („Yet Another Learning Environment“)) mit Schwerpunkt Maschinelles Lernen, alle Phasen des gesamten Data-Mining-Prozess von der Datenintegration und -transformation (ETL-Prozess) über die Modellierung, automatische Optimierung und Evaluierung bis zur operativen Anwendung und Berichterstellung (Reporting) abdeckend\r\n    Waikato Environment for Knowledge Analysis (WEKA) mit Schwerpunkt Maschinelles Lernen\r\n    Scikit-learn mit Schwerpunkt Maschinelles Lernen\n"
+}

@@ -1,0 +1,389 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 19,
+            "start": 4,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 95,
+            "start": 92,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 157,
+            "start": 146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 358,
+            "start": 352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 580,
+            "start": 573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 618,
+            "start": 603,
+            "type": "SBD"
+        },
+        {
+            "annotation": ".",
+            "end": 680,
+            "start": 679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 815,
+            "start": 812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1065,
+            "start": 1059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1178,
+            "start": 1176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1288,
+            "start": 1278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1433,
+            "start": 1423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1477,
+            "start": 1469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 1598,
+            "start": 1596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1663,
+            "start": 1661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsart",
+            "end": 1759,
+            "start": 1748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 1775,
+            "start": 1761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 1820,
+            "start": 1797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 1891,
+            "start": 1884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1986,
+            "start": 1984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugänglich",
+            "end": 2071,
+            "start": 2061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 2094,
+            "start": 2077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 2170,
+            "start": 2165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 2237,
+            "start": 2228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandweg",
+            "end": 2268,
+            "start": 2258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 2323,
+            "start": 2316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 2476,
+            "start": 2469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 2566,
+            "start": 2563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 2636,
+            "start": 2632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2660,
+            "start": 2642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 2679,
+            "start": 2661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 2695,
+            "start": 2681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kostentragungsvereinbarung",
+            "end": 2726,
+            "start": 2700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kostenfrei",
+            "end": 2811,
+            "start": 2801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2841,
+            "start": 2828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2920,
+            "start": 2914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrwehrsteuer",
+            "end": 3012,
+            "start": 2998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 3027,
+            "start": 3018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 3071,
+            "start": 3065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsart",
+            "end": 3150,
+            "start": 3139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuschalten",
+            "end": 3241,
+            "start": 3229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3414,
+            "start": 3411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 3500,
+            "start": 3491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 3516,
+            "start": 3502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 3540,
+            "start": 3522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 3603,
+            "start": 3595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 3626,
+            "start": 3610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 3814,
+            "start": 3811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 3993,
+            "start": 3981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4123,
+            "start": 4117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 4158,
+            "start": 4149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 4256,
+            "start": 4237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 4284,
+            "start": 4280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 4400,
+            "start": 4386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4585,
+            "start": 4579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5268,
+            "start": 5265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 5448,
+            "start": 5438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 5462,
+            "start": 5455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5855,
+            "start": 5852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 6327,
+            "start": 6323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 6388,
+            "start": 6374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 6410,
+            "start": 6395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 6555,
+            "start": 6554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 6690,
+            "start": 6684,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop gelten die nachfolgenden AGB. Unser Online-Shop richtet sich ausschließlich an Verbraucher.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n§ 2 Vertragspartner, Vertragsschluss\nDer Kaufvertrag kommt zustande mit Beauty Perfectionists Ltd..\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung. Nach Abgabe der Bestellung werden Sie auf die Webseite des Online-Anbieters Sofort GmbH weitergeleitet, wo Sie die Zahlungsanweisung bestätigen. Dadurch kommt der Vertrag mit uns zustande.\nSollten Sie Ihre Unterlagen zu Ihren Bestellungen verlieren, wenden Sie sich bitte per Email an service@easycosmetic.de. Wir senden Ihnen eine Kopie der Daten Ihrer Bestellung gerne zu.\nWann der Vertrag mit uns zustande kommt, richtet sich nach der von Ihnen gewählten Zahlungsart: Bezahlmethoden\n§ 3 Vertragssprache, Vertragstextspeicherung\nDie für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.\nWir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per E-Mail zu. Der Vertragstext ist aus Sicherheitsgründen nicht mehr über das Internet zugänglich.\n§ 4 Lieferbedingungen\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\nWir liefern nur im Versandweg. Eine Selbstabholung der Ware ist leider nicht möglich.\nNach Eingang des Angebots und Bestätigung durch Beauty Perfectionists Ltd. erfolgt die Lieferung an die vom Kunden in der Bestellung angegebene Adresse. Auf abweichende Lieferzeiten weisen wir auf der jeweiligen Produktseite ausdrücklich hin. Detaillierte Informationen zu den Versandbedingungen finden Sie hier.\n§ 5 Widerrufsbelehrung\nWiderrufsbelehrung \nMusterformular\n§ 6 Kostentragungsvereinbarung\nMachen Sie von Ihrem Widerrufsrecht Gebrauch, ist die Rücksendung für Sie kostenfrei.\n§ 7 Preise und Versandkosten\nFür die Berechnung gelten immer die am Tag der Auftragsannahme gültigen Preise. Die angegebenen Preise verstehen sich in Euro und enthalten die gesetzliche Mehrwehrsteuer.\n§ 8 Bezahlung\nDer Kaufpreis wird mit der Lieferung fällig. Die Zahlung erfolgt durch eine auf dem Bestellformular angebotene Zahlungsart. Beauty Perfectionists Ltd. behält sich vor, einzelne Zahlungsarten zeitweise abzuschalten. Bei Vorkasse, d.h. bei Überweisung des Gesamtbetrags auf das Konto von Beauty Perfectionists Ltd. wird die Ware erst verschickt, wenn die Bezahlung bei uns eingegangen ist.\nIn unserem Shop stehen Ihnen grundsätzlich die folgenden Zahlungsarten zur Verfügung: Bezahlmethoden \n§ 9 Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\n§ 10 Transportschäden\nWerden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\n§ 11 Gewährleistung und Garantien\nSoweit nicht nachstehend ausdrücklich anders vereinbart, gilt das gesetzliche Mängelhaftungsrecht.\nBei gebrauchten Waren gilt: wenn der Mangel nach Ablauf eines Jahres ab Ablieferung der Ware auftritt, sind die Mängelansprüche ausgeschlossen. Mängel, die innerhalb eines Jahres ab Ablieferung der Ware auftreten, können im Rahmen der gesetzlichen Verjährungsfrist von zwei Jahren ab Ablieferung der Ware geltend gemacht werden.\nDie vorstehenden Einschränkungen und Fristverkürzungen gelten nicht für Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung sowie Arglist, bei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf (Kardinalpflichten) im Rahmen eines Garantieversprechens, soweit vereinbart oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist. \nInformationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.\n§ 12 Haftung\nFür Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränkt bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung, bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nBei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n§ 13 Streitbeilegung\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.\nZur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.\n\n"
+}

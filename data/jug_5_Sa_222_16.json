@@ -1,0 +1,1973 @@
+{
+    "Annotations": [
+        {
+            "annotation": "16",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mitarbeiter",
+            "end": 125,
+            "start": 114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 138,
+            "start": 126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "157",
+            "end": 156,
+            "start": 153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "d",
+            "end": 258,
+            "start": 257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 268,
+            "start": 259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrt",
+            "end": 494,
+            "start": 489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 650,
+            "start": 645,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1004,
+            "start": 1003,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1474,
+            "start": 1473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziffern",
+            "end": 1690,
+            "start": 1681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahreseinkommens",
+            "end": 2208,
+            "start": 2192,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2218,
+            "start": 2217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 2230,
+            "start": 2219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahresvergütung",
+            "end": 2351,
+            "start": 2336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 2362,
+            "start": 2352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 2429,
+            "start": 2427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 2440,
+            "start": 2430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40220",
+            "end": 2460,
+            "start": 2455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 2466,
+            "start": 2461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 2588,
+            "start": 2578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 2758,
+            "start": 2752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Revisionsverfahrens",
+            "end": 2859,
+            "start": 2840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 2892,
+            "start": 2882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 2904,
+            "start": 2894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 2906,
+            "start": 2905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einhält",
+            "end": 3063,
+            "start": 3056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 3066,
+            "start": 3065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 3162,
+            "start": 3151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgte",
+            "end": 3426,
+            "start": 3418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfirmierte",
+            "end": 3535,
+            "start": 3524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 3538,
+            "start": 3537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ernannt",
+            "end": 3712,
+            "start": 3705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 3751,
+            "start": 3750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 3861,
+            "start": 3860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "F",
+            "end": 4067,
+            "start": 4066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 4070,
+            "start": 4069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4072,
+            "start": 4071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 4287,
+            "start": 4282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 4348,
+            "start": 4338,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 4570,
+            "start": 4560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kraft",
+            "end": 4616,
+            "start": 4611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4765,
+            "start": 4759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellt",
+            "end": 5000,
+            "start": 4994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5133,
+            "start": 5127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kriterien",
+            "end": 5209,
+            "start": 5200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "A",
+            "end": 5227,
+            "start": 5226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beeinflussen",
+            "end": 5644,
+            "start": 5632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entlohnung",
+            "end": 5657,
+            "start": 5647,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5818,
+            "start": 5817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehoben",
+            "end": 5988,
+            "start": 5979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5991,
+            "start": 5990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 6230,
+            "start": 6224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6233,
+            "start": 6232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 6304,
+            "start": 6303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 6589,
+            "start": 6584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umbenannt",
+            "end": 6672,
+            "start": 6663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugeordnet",
+            "end": 6873,
+            "start": 6863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festlegen",
+            "end": 7032,
+            "start": 7023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozentsatz",
+            "end": 7194,
+            "start": 7183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7430,
+            "start": 7424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhöht",
+            "end": 7622,
+            "start": 7616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 7973,
+            "start": 7960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7976,
+            "start": 7975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 8309,
+            "start": 8301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 8312,
+            "start": 8311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 8649,
+            "start": 8648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesichert",
+            "end": 8799,
+            "start": 8788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8803,
+            "start": 8802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 9166,
+            "start": 9165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzt",
+            "end": 9525,
+            "start": 9518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 9530,
+            "start": 9528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bayern",
+            "end": 9696,
+            "start": 9690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 9700,
+            "start": 9698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 9833,
+            "start": 9832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geltungsbereich",
+            "end": 9857,
+            "start": 9842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 9880,
+            "start": 9876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Persönlich",
+            "end": 9895,
+            "start": 9885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auszubildenden",
+            "end": 9951,
+            "start": 9937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 10012,
+            "start": 10006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 10379,
+            "start": 10369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "d",
+            "end": 10415,
+            "start": 10414,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10541,
+            "start": 10540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelegt",
+            "end": 10715,
+            "start": 10709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitszeit",
+            "end": 10745,
+            "start": 10734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stunden",
+            "end": 10823,
+            "start": 10816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stundenentgelt",
+            "end": 10892,
+            "start": 10878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 10901,
+            "start": 10900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Formel",
+            "end": 11109,
+            "start": 11103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "u",
+            "end": 11182,
+            "start": 11181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 11185,
+            "start": 11183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11306,
+            "start": 11304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 11381,
+            "start": 11373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geltungsbereich",
+            "end": 11417,
+            "start": 11402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lag",
+            "end": 11824,
+            "start": 11821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 11828,
+            "start": 11826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewahrt",
+            "end": 11934,
+            "start": 11927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 12069,
+            "start": 12065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "a",
+            "end": 12154,
+            "start": 12153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 12216,
+            "start": 12206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bayer",
+            "end": 12545,
+            "start": 12540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 12753,
+            "start": 12749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 12759,
+            "start": 12757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet.“",
+            "end": 12852,
+            "start": 12841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 12855,
+            "start": 12853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 13003,
+            "start": 13001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab.“",
+            "end": 13084,
+            "start": 13080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13087,
+            "start": 13085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterverfolgt",
+            "end": 13326,
+            "start": 13312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 13561,
+            "start": 13556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 13938,
+            "start": 13933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 13942,
+            "start": 13940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 14224,
+            "start": 14221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausrichtete",
+            "end": 14502,
+            "start": 14491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteige",
+            "end": 14883,
+            "start": 14873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EFA",
+            "end": 14980,
+            "start": 14977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14984,
+            "start": 14982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 15077,
+            "start": 15069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungsabreden",
+            "end": 15150,
+            "start": 15134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 15210,
+            "start": 15204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 15254,
+            "start": 15247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 15258,
+            "start": 15256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 15517,
+            "start": 15509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15521,
+            "start": 15519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 15857,
+            "start": 15849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 15861,
+            "start": 15859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 16180,
+            "start": 16177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 16288,
+            "start": 16276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16292,
+            "start": 16290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückverwiesen",
+            "end": 16650,
+            "start": 16635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Übung",
+            "end": 16729,
+            "start": 16724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 16924,
+            "start": 16916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 17225,
+            "start": 17220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrt",
+            "end": 17466,
+            "start": 17461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 17470,
+            "start": 17468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 17620,
+            "start": 17614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ernennungsschreiben",
+            "end": 17688,
+            "start": 17669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwende",
+            "end": 17802,
+            "start": 17794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zeige",
+            "end": 18003,
+            "start": 17998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transparenzgebot",
+            "end": 18153,
+            "start": 18137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergütung",
+            "end": 18348,
+            "start": 18339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinnentleert",
+            "end": 18409,
+            "start": 18397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "m",
+            "end": 18549,
+            "start": 18548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 18553,
+            "start": 18551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegolten",
+            "end": 18770,
+            "start": 18762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 18855,
+            "start": 18845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 19036,
+            "start": 19031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollten",
+            "end": 19173,
+            "start": 19166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19280,
+            "start": 19274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 19284,
+            "start": 19282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 19624,
+            "start": 19621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 19693,
+            "start": 19686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19757,
+            "start": 19751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 19881,
+            "start": 19873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 19885,
+            "start": 19883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeändert",
+            "end": 20029,
+            "start": 20019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 20219,
+            "start": 20213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 20223,
+            "start": 20221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 20275,
+            "start": 20261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 20279,
+            "start": 20277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 20406,
+            "start": 20403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 20513,
+            "start": 20507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgezählt",
+            "end": 20615,
+            "start": 20605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 20653,
+            "start": 20646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 20802,
+            "start": 20796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 20806,
+            "start": 20804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 21149,
+            "start": 21143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsste",
+            "end": 21378,
+            "start": 21372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 21382,
+            "start": 21380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestand",
+            "end": 21534,
+            "start": 21527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betriebsvereinbarung",
+            "end": 21663,
+            "start": 21643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 21792,
+            "start": 21784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 21930,
+            "start": 21925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 22179,
+            "start": 22172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entgelt",
+            "end": 22297,
+            "start": 22290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dargelegt",
+            "end": 22330,
+            "start": 22321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 22477,
+            "start": 22469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 22498,
+            "start": 22479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 22501,
+            "start": 22499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 22553,
+            "start": 22547,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22896,
+            "start": 22895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattzugeben",
+            "end": 23005,
+            "start": 22993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 23008,
+            "start": 23007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 23012,
+            "start": 23010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Status",
+            "end": 23276,
+            "start": 23270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhaltet",
+            "end": 23564,
+            "start": 23554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestand",
+            "end": 23918,
+            "start": 23911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 23922,
+            "start": 23920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzustellen",
+            "end": 24069,
+            "start": 24056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzt",
+            "end": 24318,
+            "start": 24311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 24322,
+            "start": 24320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 24581,
+            "start": 24578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 24585,
+            "start": 24583,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25048,
+            "start": 25047,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25289,
+            "start": 25288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beteiligten",
+            "end": 25476,
+            "start": 25465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 25803,
+            "start": 25798,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26068,
+            "start": 26067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 26072,
+            "start": 26070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 26170,
+            "start": 26160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heißt",
+            "end": 26241,
+            "start": 26236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "F",
+            "end": 26448,
+            "start": 26447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fanden",
+            "end": 26746,
+            "start": 26740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 27054,
+            "start": 27047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 27058,
+            "start": 27056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstreicht",
+            "end": 27389,
+            "start": 27376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 27551,
+            "start": 27540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hergestellt",
+            "end": 27692,
+            "start": 27681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 28150,
+            "start": 28143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 28154,
+            "start": 28152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 28286,
+            "start": 28281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutlich",
+            "end": 28428,
+            "start": 28420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "es",
+            "end": 28448,
+            "start": 28446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28582,
+            "start": 28576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 28728,
+            "start": 28725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 28979,
+            "start": 28976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 28983,
+            "start": 28981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrt",
+            "end": 29429,
+            "start": 29424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 29552,
+            "start": 29540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 29676,
+            "start": 29671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 29680,
+            "start": 29678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 29866,
+            "start": 29859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 29992,
+            "start": 29990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 30486,
+            "start": 30482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 30490,
+            "start": 30488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirkt",
+            "end": 30681,
+            "start": 30676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "regelt",
+            "end": 30905,
+            "start": 30899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängig",
+            "end": 31001,
+            "start": 30993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 31246,
+            "start": 31241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 31250,
+            "start": 31248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 31395,
+            "start": 31387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31686,
+            "start": 31685,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 31862,
+            "start": 31861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 31866,
+            "start": 31864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 31974,
+            "start": 31968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kläger",
+            "end": 32265,
+            "start": 32259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 32269,
+            "start": 32267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 32661,
+            "start": 32655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eindeutig",
+            "end": 33008,
+            "start": 32999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 33253,
+            "start": 33250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 33487,
+            "start": 33480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 33622,
+            "start": 33616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedurft",
+            "end": 33707,
+            "start": 33700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 33711,
+            "start": 33709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 33967,
+            "start": 33956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genannt",
+            "end": 34059,
+            "start": 34052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 34117,
+            "start": 34110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 34337,
+            "start": 34328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 34341,
+            "start": 34339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "relevant",
+            "end": 34583,
+            "start": 34575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 34819,
+            "start": 34813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 34823,
+            "start": 34821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 35028,
+            "start": 35026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 35181,
+            "start": 35173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 35399,
+            "start": 35393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 35615,
+            "start": 35611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 35619,
+            "start": 35617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzustellen",
+            "end": 35762,
+            "start": 35751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 35910,
+            "start": 35900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klägers",
+            "end": 36141,
+            "start": 36134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 36145,
+            "start": 36143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 36506,
+            "start": 36501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 36510,
+            "start": 36508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrt",
+            "end": 36744,
+            "start": 36739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuhalten",
+            "end": 37006,
+            "start": 36995,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37158,
+            "start": 37157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 37162,
+            "start": 37160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 37289,
+            "start": 37279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 37472,
+            "start": 37469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzustellen",
+            "end": 37540,
+            "start": 37529,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 37846,
+            "start": 37845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 37850,
+            "start": 37848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 38060,
+            "start": 38055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 38258,
+            "start": 38255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besteht",
+            "end": 38450,
+            "start": 38443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festlegt",
+            "end": 38640,
+            "start": 38632,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 38731,
+            "start": 38730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 38842,
+            "start": 38834,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 39141,
+            "start": 39140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 39145,
+            "start": 39143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Differenzierung",
+            "end": 39227,
+            "start": 39212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schaffen",
+            "end": 39508,
+            "start": 39500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 39717,
+            "start": 39712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 39881,
+            "start": 39872,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40202,
+            "start": 40201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 40639,
+            "start": 40635,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40953,
+            "start": 40952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 40957,
+            "start": 40955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgebend",
+            "end": 41081,
+            "start": 41072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MTV",
+            "end": 41224,
+            "start": 41221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammensetzte",
+            "end": 41564,
+            "start": 41550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammengefasst",
+            "end": 41712,
+            "start": 41697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugleichen",
+            "end": 42039,
+            "start": 42026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 42188,
+            "start": 42184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundlage",
+            "end": 42304,
+            "start": 42295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgrundlage",
+            "end": 42451,
+            "start": 42436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzustellen",
+            "end": 42605,
+            "start": 42594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 42609,
+            "start": 42607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 42711,
+            "start": 42701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 42715,
+            "start": 42713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umzurechnen",
+            "end": 42954,
+            "start": 42943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezieht",
+            "end": 43172,
+            "start": 43165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 43348,
+            "start": 43343,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43633,
+            "start": 43632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 43637,
+            "start": 43635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 43848,
+            "start": 43838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 44079,
+            "start": 44073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 44271,
+            "start": 44265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewahrt",
+            "end": 44378,
+            "start": 44371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 44382,
+            "start": 44380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 44500,
+            "start": 44494,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgegangen",
+            "end": 44683,
+            "start": 44672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 44869,
+            "start": 44862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 45002,
+            "start": 44997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 45137,
+            "start": 45134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 45141,
+            "start": 45139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 45421,
+            "start": 45417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 45594,
+            "start": 45588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 45598,
+            "start": 45596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 45734,
+            "start": 45727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 45792,
+            "start": 45783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 46022,
+            "start": 46019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 46026,
+            "start": 46024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 46030,
+            "start": 46028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 46098,
+            "start": 46095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 46103,
+            "start": 46100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 46540,
+            "start": 46534,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG München, Urteil v. 28.11.2018 – 5 Sa 222/16\nTitel:\nBerechnung der höheren Vergütung bei Tarifabstand für AT-Mitarbeiter\nNormenketten:\nBGB § 133, § 157\nMTV für die Arbeitnehmer der bayerischen Metall- und Elektroindustrie § 1 Ziff. 3 Abs. (II) Buchst. d\nLeitsätze:\n1. Die Vertragsauslegung ergibt nach der neuen Rechtsprechung des BAG (25.4.2018, 5 AZR 84/18)\ndie Vereinbarung einer AT-Stellung und damit einen Anspruch des Klägers auf eine Vergütung, die\nmindestens den Tarifabstand wahrt. Nach der zurückverweisenden Entscheidung des BAG ist auch\nbei nicht tarifgebundenen Parteien vor allem der Wortlaut des Arbeitsvertrages zugrunde zu legen.\nMit der Vereinbarung einer AT-Stellung - auch ohne weitere Anhaltspunkte für den weitreichenden\nBindungswillen - ist die gleichzeitige Vereinbarung einer Vergütung verbunden, die dynamisch den\nTarifabstand zu dem bei Abschluss des Arbeitsvertrages im Unternehmen angewendeten\nTarifvertrag in seiner aktuallen Fassung wahrt (dynamische Ewigkeitsklausel). (Rn. 36 – 40)\n2. § 1 Ziff. 3 Abs. (II) Buchst. d MTV für die Arbeitnehmer der bayerischen Metall- und\nElektroindustrie ist so auszulegen, dass die Berechnung der den Tarifabstand wahrenden\nBruttovergütung gem. § 1 Ziff. 3 Abs. (II) Buchst. d Unterabs. 2 MTV (Jahreseinkommen) zu erfolgen\nhat, wenn das Abstandsgebot nicht bereits durch das garantierte Monatsentgelt gem. § 1 Ziff. 3 Abs.\n(II) Buchst. d Unterabs. 1 MTV eingehalten wurde (BAG 03.09.2014, 5 AZR 1020/12). (Rn. 48 – 54)\n3. Der Anspruch auf eine Vergütung, die den tariflichen Mindestabstand wahrt, wird frühestens mit\ndem Zeitpunkt fällig, in dem ein AT-Mitarbeiter in der Lage ist seinen Anspruch annähernd zu\nbeziffern. Die zweistufige Prüfung des Tarifabstands nach § 1 Ziff. 3 Abs. (II) Buchst. d Unterabs. 1\nund 2 MTV, bei der für den Fall, dass der AT-Mitarbeiter keine monatliche Vergütung erhält, die den\nTarifabstand nach Unterabs. 1 wahrt, alle außertariflichen Vergütungsansprüche einschließlich\nsolcher aus Betriebsvereinbarung in die Berechnung der Jahresvergütung mit einzubeziehen sind,\nführt zu einer Fälligkeit des Anspruchs auf Wahrung des Tarifabstands erst am Jahresende mit\nBekanntwerden der Höhe des Jahreseinkommens. (Rn. 59)\nSchlagworte:\nVertragsauslegung AT-Mitarbeiter, Ewigkeitsklausel, Tarifabstand, Arbeitsvertrag, Betriebsvereinbarung,\nJahresvergütung\nVorinstanz:\nArbG München, Berichtigungsbeschluss vom 25.04.2018 – 5 AZR 85/17\nFundstelle:\nBeckRS 2018, 40220\nTenor\n1. Auf die Berufung des Klägers wird das Urteil des Arbeitsgerichts München vom 02.02.2016, Az.: 17 Ca\n3108/15 abgeändert:\nDie Beklagte wird verurteilt, an den Kläger € 4.304,30 brutto nebst Verzugszinsen hieraus in Höhe von 5%\nüber dem jeweiligen Basiszinssatz seit dem 01.01.2015 zu zahlen:\n2. Die Beklagte trägt die Kosten des Rechtstreits einschließlich der Kosten des Revisionsverfahrens.\n3. Die Revision wird zugelassen.\nTatbestand\n1\nDie Parteien streiten über einen Anspruch des Klägers auf Zahlung einer höheren Vergütung für das Jahr\n2014, die den Tarifabstand für AT-Mitarbeiter einhält.\n2\nDer Kläger ist seit dem 16.09.1985 bei der Beklagten und deren Rechtsvorgängerinnen beschäftigt. Am\n01.10.1990 erfolgte ein Betriebsübergang des Bereiches DI der E. AG, dem auch der Kläger zugeordnet\nwar, auf die F. AG, zum 01.01.1998 ein weiterer Betriebsübergang auf die G. und zum 01.10.1998 ein\nBetriebsübergang von der G. auf die H. GmbH & Co.KG erfolgte. Von der H. GmbH & Co.KG erfolgte im\nJahr 2004 ein Betriebsübergang auf die Beklagte, die danach umfirmierte.\n3\nMit (vom Kläger gegengezeichnetem) Schreiben vom 04.08.1993 (Bl. 9 d.A.) wurde der Kläger von der F.\nmit Wirkung zum 01.10.1993 zum „Mitarbeiter des Führungskreises“ ernannt. Im „Ernennungsschreiben“\nheißt es u.a.:\nMit Wirkung zum 01.10.1993 ernennen wir Sie zum Mitarbeiter des Führungskreises der F. AG,\nVertragsgruppe A.\nAn die Stelle der bisher für Sie gültigen tarifvertraglichen Regelungen tritt dieser Arbeitsvertrag mit den\nbeiliegenden unternehmenseinheitlichen Allgemeinen Vertragsbestandteilen für den Führungskreis F. …\n4\nZu diesem Zeitpunkt galt die Betriebsvereinbarung „Entlohnungsgrundsätze für außertarifliche Angestellte“\nvom 15.11.1991, in der die allgemeinen Regelungen für die Mitarbeiter des Führungskreises niedergelegt\nwaren. Diese Betriebsvereinbarung enthält u.a. folgende Regelungen:\n„Entlohnungsgrundsätze für außertarifliche Angestellte Zwischen Betriebsleitung und Betriebsrat wurden die\nEntlohnungsgrundsätze für außertarifliche Angestellte am F.-Standort Mch P incl. seiner Nebenstandorte\nfestgelegt. Die Regelungen treten am 01.01.1992 in Kraft. Sie entsprechen im Wesentlichen den E.-MFKRegelungen,\ndie schon bisher für über 2.000 Mitarbeiterinnen und Mitarbeiter am Standort angewandt\nwurden. Grundsätze Außertarifliche Angestellte sind entweder in einer Vorgesetztenfunktion tätig oder\nführen eine fachlich besonders qualifizierte Tätigkeit aus, welche an Kenntnisse, Erfahrung und\nSelbstständigkeit hohe Anforderungen stellt.\nIm außertariflichen Bereich werden die beiden Vertragsgruppen A und B gebildet, die als „Mittlerer\nFührungskreis“ bezeichnet werden.\nDie Zuordnung zu den Vertragsgruppen erfolgt gemäß den folgenden Kriterien:\nVertragsgruppe A:\nAngestellte, die regelmäßig einen umfangreichen und schwierigen Tätigkeitsbereich selbständig und\nverantwortlich bearbeiten, wozu vielseitige Fachkenntnisse auch in angrenzenden Arbeitsbereichen und in\nder Regel langjährige Berufserfahrung erforderlich sind, die nennenswert über die Anforderungen der\nhöchsten Tarifgruppe hinausgehen und die Entscheidungen in Teilbereichen des Unternehmens wesentlich\nbeeinflussen.“\nEntlohnung\nDas Jahreseinkommen besteht aus\n- dem Monatsgehalt\n- der Jahreszahlung (…)\n- einer Zusatz-Jahreszahlung (…)\n- ggf. einer Beteiligung am Betriebserfolg (BaV) (…)\nDie tarifliche AT-Grenze bei 40-Stunden-Woche beträgt derzeit DM 7.525,00. Bei einer allgemeinen\nErhöhung werden die Stufen jeweils um den gleichen Prozentsatz angehoben.\n5\nMit Wirkung zum 01.10.1996 erfolgte die Umbenennung des bisherigen „Führungskreises“ in „ÜT-Kreis“,\nohne dass sich nach dem Willen der Arbeitsvertragsparteien an den getroffenen Regelungen zur Vergütung\nund Arbeitszeit etwas ändern sollte.\n6\nIn dem Informationsschreiben an den Kläger vom 26.08.1996 heißt es u.a.:\n„Ihr Beschäftigungsverhältnis als Mitarbeiter des ÜT-Kreises Sehr geehrter Herr A.,\nIm ÜT-Kreis ergeben sich die für Sie maßgeblichen Änderungen im Wesentlichen aus der\nBetriebsvereinbarung zum AT-Bereich der F., die mit dem 3. Nachtrag vom 27.06.1996 entsprechend\nmodifiziert wurde.\nDer bisherige Führungskreis wird mit Wirkung zum 01.10.1996 in ÜT-Kreis umbenannt.\nGemäß der modifizierten Betriebsvereinbarung zum AT-Bereich werden alle Mitarbeiter der Vertragsgruppe\nB der Funktionsstufe 4 und alle Mitarbeiter der Vertragsgruppe A der Funktionsstufe 5 zugeordnet.\nDie Unternehmensleitung wird auch weiterhin jährlich die Einkommensbänder im Hinblick auf die allgemeine\nEinkommensbewegung überprüfen und ggf. neu festlegen. Werden die Einkommensbänder erhöht, erfolgt\nim Grundsatz bei allen Mitarbeitern des ÜT-Kreises eine Anhebung des Monatsgehalts um den\nentsprechenden Prozentsatz. Mitarbeiter, die von der allgemeinen Erhöhung ausgenommen werden, sollten\nmindestens eine Gehaltsanpassung in Höhe von 30% der allgemeinen Erhöhung erhalten, wobei die\nAusnahmen bis zu 5% der Mitarbeiter des ÜT-Kreises umfassen können.\nAus Vereinfachungsgründen wird ab dem 01.10.1996 Ihr persönlicher Grundbetrag für die Jahreszahlung\num den ihrer Vertragsgruppe entsprechenden Grundbetrag für die Zusatz-Jahreszahlung erhöht.\nDa die vorstehenden Ausführungen keine substantielle Änderung Ihres Beschäftigungsverhältnisses\ndarstellen, gehen wir unter Bezugnahme auf den Passus „Vereinbarungen“ Ihrer allgemeinen\nVertragsbestandteile davon aus, dass Sie mit diesen Änderungen einverstanden sind, wenn Sie ihnen nicht\ninnerhalb von 6 Wochen nach Zugang schriftlich widersprechen.\n7\nDie in dem Informationsschreiben vom 26.08.1996 in Bezug genommene modifizierte „Betriebsvereinbarung\nzum AT-Bereich der F.“ meint die aktualisierte Fassung der Betriebsvereinbarung „Entlohnungsgrundsätze\nfür außertarifliche Angestellte“ vom 15.11.1991, die in dieser aktualisierten Fassung den beiden Parteien\njedoch nicht vorliegt.\n8\nAm 19.12.2000 schloss die H. GmbH & Co. KG mit dem bei ihr bestehenden Betriebsrat eine\n„Betriebsvereinbarung zur Entwicklung, Förderung und Anerkennung (EFA)“ geschlossen (fortan: BV EFA =\nBl. 169ff d. A.) ab. In ihr war geregelt, dass Teile der EFA-Regelung der G. bei der Beklagten entsprechend\ngelten. Weiter stand in der BV EFA u.a.:\n„Die Einhaltung der bayerischen Tarifabstandsklausel wird in Bezug auf das Einstiegsgehalt in die\nFunktionsstufe 5 für alle Mitarbeiter zugesichert.“\n9\nAm 01.01.2005 trat eine von der H. GmbH & Co. KG mit dem bei ihr bestehenden Gesamtbetriebsrat\nabgeschlossene „Gesamtbetriebsvereinbarung zur Einkommenssystematik im ÜT-Kreis“ (von den\nBetriebsparteien unterschrieben am 24.08.2005; im Folgenden: GBV ÜT-Kreis; Bl. 259ff d. A.) in Kraft, die\nkeine Regelung zum Tarifabstand enthielt. In der GBV ÜT-Kreis stand u.a.:\n„Die Betriebsvereinbarung zur Entwicklung, Förderung und Anerkennung (EFA) vom 19.12.2000 inklusive\nder Anlage-1 vom 01.10.2000, Anlage-2 vom 01 vom 01.09.1999, Anlage-3 vom 01.10.1997 und Anlage-4\nProtokollnotiz-1 vom 14.01.1998 wird einvernehmlich mit sofortiger Wirkung ohne Nachwirkung für die H.\naufgehoben und durch diese Betriebsvereinbarung ersetzt.“\n10\nDer Kläger ist seit 1.11.2005 Mitglied der Gewerkschaft IG Metall. Die Beklagte ist sog. OT-Mitglied im\nArbeitgeberverband der Metall- und Elektroindustrie in Bayern.\n11\nDer Manteltarifvertrag für die Arbeitnehmer der bayerischen Metall- und Elektroindustrie vom 23.6.2008 (im\nFolgenden MTV) regelt u.a.:\n„§ 1. Geltungsbereich. Der Tarifvertrag gilt:\n3. Persönlich:\n(I) Für alle Arbeitnehmer sowie für die Auszubildenden.\n(II) Nicht als Arbeitnehmer im Sinne dieses Vertrags gelten:\nd) sonstige Arbeitnehmer, denen auf außertariflicher Grundlage ein garantiertes monatliches Entgelt\nzugesagt worden ist, das den Tarifsatz der Entgeltgruppe 12 (Stufe B) um 30,5% übersteigt, oder denen auf\naußertariflicher Grundlage ein garantiertes Jahreseinkommen zugesagt worden ist, das den zwölffachen\nTarifsatz der Entgeltgruppe 12 (Stufe B) um 35% übersteigt.\nAnmerkung zu § 1 Nr. 3 Abs. (II) d\nDer Tarifsatz der Entgeltgruppe 12 (Stufe B) bezieht sich auf die tarifliche wöchentliche Arbeitszeit gem. § 2\nNr. 1 Abs. (I). Bei einer abweichenden individuellen regelmäßigen wöchentlichen Arbeitszeit wird das nach\nder Formel gem. § 15 Nr. 1 Abs. (II) berechnete Monatsgrundentgelt zugrunde gelegt.\n§ 2. Regelmäßige Arbeitszeit\n1. (I) Die tarifliche wöchentliche Arbeitszeit ohne Pausen beträgt 35 Stunden.\n§ 15. Tarifliches Monatsgrundentgelt und tarifliches Stundenentgelt\n1. (I) …\n(II) Bei einer von der tariflichen wöchentlichen Arbeitszeit abweichenden individuellen regelmäßigen\nwöchentlichen Arbeitszeit (IRWAZ) errechnen sich die tariflichen Monatsgrundentgelte nach folgender\nFormel:\nMonatsgrundentgelt gemäß Entgelttabelle x IRWAZ in Stunden\n35 Stunden u\n12\nDie Vergütung im Betrieb der Beklagte lehnt sich an den ERA-Tarifvertrag der bayerischen Metall- und\nElektroindustrie an. Die Betriebsvereinbarung vom 28.5.2009 (BV ERA) enthält folgende Regelung:\n„§ 1. Persönlicher Geltungsbereich.“\nDiese Betriebsvereinbarung gilt für alle Arbeitnehmer der H.-GmbH an den Standorten A-Stadt und\nNürnberg, mit Ausnahme derer, die einen arbeitsvertraglichen Anspruch auf übertarifliche Bezahlung haben\nbzw. nach Funktionsstufe 4 oder 5 vergütet werden In den Jahren seit seiner „Ernennung“ erhielt der Kläger\nbis 2009 eine Vergütung, die über dem Tarifabstand nach § 1 Ziffer 3 Abs. (II) Buchst. d MTV lag.\n13\nIn den Jahren 2010 bis 2013 wurde der Tarifabstand nur aufgrund von Sonderzahlungen am Jahresende\ngewahrt. Diese beruhten auf Regelungsabreden der Beklagten mit dem Gesamtbetriebsrat über die Zahlung\ndes Tarifabstands für das jeweilige Jahr. In der Regelungsabrede vom 01.12.2013 für das Jahr 2013 (Bl.\n421 d.A.) heißt es u.a.:\n„wird analog zum Vorgehen Im Jahr 2012 Folgendes vereinbart:\nSollte bei ÜT-MitarbeiterInnen das tatsächliche Brutto-Jahreseinkommen 2013 (= monatliches\nFixeinkommen * Faktor 12 zuzüglich BaG-Auszahlung im Februar 2013) auf Basis einer IRWAZ von 40\nStunden den Betrag von derzeit 91.684,00 € brutto (Vorjahr 88.911,00 € brutto) gemäß Abstandsregelung\ndes MTV für die Arbeitnehmer der bayer. Metall- und Elektroindustrie vom 23.06.2008 unterschreiten, findet\nmit der Dezember-Abrechnung 2013 eine Einmalzahlung in der Form statt, dass der Differenzbetrag\naufgerundet auf volle EUR ausgeglichen wird .“\n14\nFür das Jahr 2014 wurde eine entsprechende Sonderzahlung von der Beklagten nicht geleistet.“\n15\nMit Schreiben vom 13.01.2015 machte der Kläger geltend, ihm stehe noch eine Tarifabstandszahlung in\nHöhe von € 4.304,30 brutto für das Jahr 2014 zu. Die Beklagte lehnte die Forderung des Klägers mit\nSchreiben vom 30.01.2015 ab.“\n16\nMit seiner Klage vom 19.03.2015, eingegangen beim Arbeitsgericht München am 20.03.2015, hat der\nKläger die Aufstockung seines Jahreseinkommens 2014 in Höhe des Abstands zum höchsten Tarifgehalt\nder Entgeltgruppe 12 B ERA-TV weiterverfolgt. Er hat geltend gemacht, ihm sei mit dem Angebot eines\nArbeitsvertrages „außer Tarif“ das Angebot unterbreitet worden, dass die vertragsgemäße Vergütung\nmindestens den maßgeblichen Tarifabstand einhält und auch künftig einhalten werde. Ein auf Änderung des\nArbeitsvertrags abzielendes Angebot „außer Tarif“ im räumlichen und fachlichen Geltungsbereich eines\nTarifvertrages in einem Unternehmen, in dem auch der ERA-Tarifvertag als betriebliche Entgeltstruktur\nAnwendung finde, könne nicht anders gewertet werden, als dass dem Arbeitnehmer eine Vergütung unter\nEinhaltung des Mindestabstandgebotes zugesagt werde.\n17\nEin arbeitsvertraglicher Anspruch auf den Tarifabstand ergebe sich auch aus der vertraglichen Zuordnung\nzum „Führungskreis“, die den Status als außertariflicher Angestellter beinhalte, womit ihm zugleich eine\nVergütung unter Einhaltung des Mindestabstandsgebots zugesagt worden sei. Die Vereinbarung sei zu\neinem Zeitpunkt erfolgt, zu dem die Beklagte, selbst wenn sie zu diesem Zeitpunkt nicht mehr tarifgebunden\ngewesen sein sollte, ihre betriebliche Entgeltstruktur in Anlehnung an die Tarifverträge der Bayerischen\nMetall- und Elektroindustrie ausrichtete. Die Vereinbarung, dass der Kläger in den außertariflich geführten\nMitarbeiterkreis eingestellt oder überführt werde, könne nur bedeuten, dass er nun den Status als\naußertariflicher Angestellter habe und dass sein Gehalt auf außertariflicher Grundlage den Rahmen des\nhöchsten Tarifsatzes der Entgeltgruppe 12 (B) um 35% gemäß der Regelung in § 1 Ziffer 3 (II) d des MTV\nübersteige. Eine ausdrückliche Zusicherung auf Einhaltung des Tarifabstands ergebe sich auch aus der BV\nEFA.\n18\nDie Beklagte hat weitere Zahlungsansprüche abgelehnt und einen Anspruch des Klägers verneint. Die\nZahlungen in den Jahren 2010 bis 2013 beruhten auf Regelungsabreden. Für das Jahr 2014 sei eine solche\nnicht geschlossen worden. Etwaige Ansprüche seien jedenfalls erfüllt.\n19\nWegen des unstreitigen Sachverhalts im Übrigen und des streitigen Vorbringens sowie der Anträge der\nParteien im Ersten Rechtszug wird auf den Tatbestand des angefochtenen Endurteils des Arbeitsgerichts\nMünchen vom 02.02.2016, Az. 17 Ca 3108/15 Bezug genommen.\n20\nDas Arbeitsgericht München hat die Klage mit Verweis auf die frühere Rechtsprechung des BAG zum\nfehlenden Bindungswillen des Arbeitgebers hinsichtlich einer dynamischen Tarifabstandsklausel bei\nfehlender Tarifbindung mangels einer entsprechenden arbeitsvertraglichen Vereinbarung abgewiesen und\nauch andere Anspruchsgrundlagen verneint.\n21\nGegen dieses Urteil des Arbeitsgerichts München vom 02.02.2016, dem Kläger zugestellt am 16.02.2016,\nlegte dieser am 14.03.2016 Berufung ein, welche er mit einem am 17.05.2016 (dem Dienstag nach\nPfingsten) eingegangenen Schriftsatz begründete, nachdem die Berufungsbegründungsfrist bis 16.05.2016\nverlängert worden war. Das LAG München bestätigte mit seinem Urteil vom 16.11.2016, 5 Sa 222/16 die\nerstinstanzliche Entscheidung.\n22\nDas BAG hat mit Urteil vom 25.04.2018, 5 AZR 85/17 die Entscheidung aufgehoben und zur weiteren\nKlärung der vertraglichen Grundlagen und der Frage, ob die Verwendung des Begriffs „ÜT“, d.h.\n„übertariflich“, im Unternehmen der Beklagten gleichbedeutend mit „außertariflich“ gewesen ist und in\nwelcher Höhe ggf. ein Anspruch in Betracht kommt, zurückverwiesen. Ein Zahlungsanspruch folge weder\naus der BV EFA, noch aus betrieblicher Übung. Allerdings komme möglicherweise unter Berücksichtigung\nder einzelnen Vertragsbestandteile bei der Auslegung der arbeitsvertraglichen Vereinbarungen ein\nAnspruch auf den Tarifabstand in Betracht. Aufgrund der Bezugnahme im Anstellungsschreiben vom 30.\nAugust 1985 auf tarifvertragliche Regelungen könne es naheliegen, dass dem Kläger durch die Ernennung\nzum Mitarbeiter des „Führungskreises“ und die spätere Umbenennung in „ÜT-Kreis“ der Status eines\naußertariflichen Angestellten zugesagt wurde. Bei synonymer Verwendung der Begriffe „übertariflich“ und\n„außertariflich“ wäre mit der vertraglich vereinbarten Aufnahme des Klägers in den „Übertariflichen Kreis“\ndie Zusage verbunden, eine Vergütung zu zahlen, die den Tarifabstand wahrt.\n23\nDer Kläger vertritt die Ansicht, dass sich aus der Vereinbarung der Zugehörigkeit zum Führungskreis die\nVereinbarung des Mindestabstandsgebots ergibt. Dies entspreche der ausdrücklichen Regelung im\nErnennungsschreiben. Bei dem Ernennungsschreiben handele es sich um arbeitsvertragliche Regelungen,\ndie die Beklagte als AGB verwende. Dies zeige sich daran, dass andere Mitarbeiter im Wesentlichen\nwortgleiche Schreiben erhalten hätten, wie auch das Ernennungsschreiben vom 25.06.1993 an eine andere\nMitarbeiterin (Bl. 422 d.A.) zeige. Sollte der Arbeitgeber dennoch keine Stellung als AT-Mitarbeiter gemeint\nhaben, verstoße das Ernennungsschreiben insoweit gegen das Transparenzgebot. Werde mit einem\nMitarbeiter im Arbeitsvertrag/ Änderungsvertrag ausdrücklich der Status als außertariflicher Mitarbeite\nvereinbart, sei dieser Tarifvertrag Maßstab für die zu zahlende Vergütung. Andernfalls wäre die vertragliche\nVereinbarung sinnentleert. Der Tarifabstand kompensiere vielmehr auch die fehlende Anwendung der\nsonstigen tariflichen Bestimmungen z.B. zu Arbeitszeit, Urlaub u.v.m.\n24\nDa im Zeitpunkt der Ernennung bzw. vor der Ernennung der Tarifvertrag jedenfalls kraft arbeitsvertraglicher\ndynamischer Bezugnahme Anwendung gefunden habe, habe der Grundsatz des § 4 Abs. 3 TVG\ngleichermaßen gegolten. Nur unter dieser Voraussetzung habe der Kläger das Änderungsangebot auch\nangenommen. Hinzukomme, dass durch Bezugnahme die Betriebsvereinbarung „Entlohnungsgrundsätze\nfür außertarifliche Angestellte“ der F. vom 15.11.1991 Inhalt des Arbeitsvertrages geworden seien. Auch\nUmstände außerhalb der vertraglichen Vereinbarung sprächen dafür, dass die Arbeitsvertragsparteien den\nTarifabstand wahren wollten. Dieser Vereinbarung entsprechend seien die Anpassungen jährlich in den\nRegelungsabsprachen fixiert worden.\n25\nDer Kläger macht außerdem geltend, dass nach dem Arbeitsvertrag und der in Bezug genommenen\nBetriebsvereinbarung, in dem Umbenennungsschreiben vom 26.08.1996 (Jahreszahlung) und im\nÜbertrittsschreiben vom 29.10.1997 (Bl. 17f d.A.) ein Jahreseinkommen geregelt sei, das für das Jahr 2014\ngem. § 614 BGB zum 31.12.2014 zur Zahlung fällig war. Die Geltendmachung sei mit Schreiben vom\n13.01.2015 zeitnah erfolgt. Ausschlussfristen seien mit dem Kläger nicht vereinbart worden. Für den\nweiteren Vortrag des Klägers wird auf dessen Schriftsätze vom 16.5.2016, 08.11.2016, und 08.10.2018\nBezug genommen.\n26\nDer Kläger beantragt,\n1. Auf die Berufung des Klägers wird das Urteil des Arbeitsgerichts München vom 02.02.2016, Az. 17 Ca\n3108/15, abgeändert.\n2. Die Beklagte wird verurteilt, an den Kläger € 4.304,30 brutto nebst Verzugszinsen hieraus in Höhe von\nfünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 01.01.2015 zu zahlen.\n27\nDie Beklagte beantragt,\ndie Berufung zurückzuweisen.\n28\nDie Beklagte ist der Ansicht, dass das Arbeitsgericht zu Recht einen Anspruch des Klägers aus dem\nArbeitsvertrag abgelehnt hat. Das Ernennungsschreiben sei nicht dahingehend auszulegen, dass der\nTarifabstand zugesichert werden sollte. In den Vertragsbedingungen für den ÜT-Kreis seien die\nVergütungsbestandteile abschließend aufgezählt. Der Tarifabstand werde nicht genannt. Es werde\nbestritten, dass mit dem Wort „ÜT“ automatisch auch der Begriff „AT“ gemeint und diese Begriffe bei der\nBeklagten synonym gebraucht wurden.\n29\nNach der Alemo-Herron-Entscheidung des Europäischen Gerichtshofs (C-426/11) sei es zudem den\nMitgliedsstaaten verwehrt, dynamische Bezugnahmeklauseln so auszulegen, dass nicht tarifgebundene\nErwerber an Tarifentwicklungen gebunden seien, auf deren Zustandekommen sie mangels Mitgliedschaft im\nArbeitgeberverband keinen Einfluss ausüben können. Die vom Kläger begehrte Auslegung würde dazu\nführen, dass ein Erwerber zwar seine Tarifbeschäftigten nur noch statisch nach dem Tarifvertrag bezahlen,\naber an die übertariflich Beschäftigten die Tariferhöhung weitergeben müsste.\n30\nDie Beklagte macht geltend, dass kein garantiertes Jahreseinkommen vereinbart wurde, sondern nur ein\nJahreszieleinkommen, auf das kein Anspruch bestand. Die Beteiligung am Geschäftserfolg beruhe nicht auf\neiner arbeitsvertraglichen Garantie, sondern auf einer Betriebsvereinbarung. Auf eine Zahlung bestehe\nweder bei einem ausbleibenden Geschäftserfolg noch bei Wegfallen der Betriebsvereinbarung ein\nAnspruch. Daher sei lediglich das Monatsgehalt i.S. der tarifvertraglichen Abstandsregelung garantiert, das\ndementsprechend monatlich fällig werde. Zum Zeitpunkt der Geltendmachung mit Schreiben vom\n13.01.2015 sei daher ein etwaiger Anspruch auf höhere Vergütung bis auf den Differenzlohn der letzten drei\nMonate nach den vertraglichen und tariflichen Ausschlussfristen bereits verfallen gewesen. Zudem verlange\nder Kläger mit seiner Klageforderung auch gar keine Differenz zu einem monatlich garantierten Entgelt.\nEine solche sei nicht dargelegt. Für das weitere Vorbringen der Beklagten im Berufungsverfahren wird auf\ndie Schriftsätze vom 18.07.2016, 09.11.2016 und 09.11.2018 Bezug genommen.\nEntscheidungsgründe\n31\nDie zulässige Berufung hat auch in der Sache Erfolg. Der Kläger hat für das Jahr 2014 einen Anspruch auf\nweitere Vergütung mindestens in der geltend gemachten Höhe von € 4.304,30 brutto zzgl. Zinsen zur\nWahrung des vertraglich vereinbarten Mindestabstands für AT-Angestellte gem. § 1 Ziff. 3 Abs. (II) d des\nManteltarifvertrags für Angestellte der Bayerischen Metall- und Elektroindustrie (MTV). Deshalb war das\nerstinstanzliche Urteil entsprechend abzuändern und der Klage in vollem Umfang stattzugeben.\nI.\n32\nDer Anspruch des Klägers folgt aus der arbeitsvertraglichen Vereinbarung mit der Rechtsvorgängerin der\nBeklagten vom 04.08.1993 (Ernennungsschreiben, das vom Kläger gegengezeichnet wurde). Die\nAuslegung des Arbeitsvertrages ergibt die Vereinbarung eines AT-Status. Die Begründung des ATArbeitsvertrages\nbedeutet gleichzeitig die Vereinbarung einer dynamischen Tarifabstandsklausel, die einen\nAnspruch des Klägers auf Zahlung einer garantierten Vergütung in einer den Tarifabstand wahrenden Höhe\nbezogen auf den jeweils aktuell geltenden MTV beinhaltet. Da der Arbeitsvertrag keinen Hinweis auf eine\nAbhängigkeit der Tarifabstandsvereinbarung von einer (künftigen) Tarifgebundenheit des Arbeitgebers\nenthält, hat die Vereinbarung unabhängig von einer Tarifbindung der Beklagten oder deren\nRechtsvorgängerinnen und den zwischenzeitlich erfolgten Betriebsübergängen für das laufende\nArbeitsverhältnis Bestand.\n33\n1. Ob dem Kläger ein arbeitsvertraglicher Anspruch zusteht, ist durch Auslegung der zwischen den Parteien\ngetroffenen Vereinbarungen festzustellen. Maßgeblich ist hier zunächst das vom Kläger gegengezeichnete\nErnennungsschreiben vom 04.08.1993, mit dem dieser mit Wirkung zum 01.10.1993 zum „Mitarbeiter des\nFührungskreises“ ernannt wurde und das den ersten Arbeitsvertrag vom 30.08.1985 ersetzt.\n34\n1.1 Das Ernennungsschreiben enthält Allgemeine Geschäftsbedingungen i.S.v. §§ 305 Abs. 1, 310 Abs. 3\nund 4 BGB, da es sich um einen Text handelt, der von der Beklagten vorformuliert war und zumindest auch\nfür eine andere Mitarbeiterin Verwendung gefunden hat.\n35\n1.2 Allgemeine Geschäftsbedingungen sind nach ihrem objektiven Inhalt und typischen Sinn einheitlich so\nauszulegen, wie sie von verständigen und redlichen Vertragspartnern unter Abwägung der Interessen der\nnormalerweise beteiligten Verkehrskreise verstanden werden, wobei nicht die Verständnismöglichkeit des\nkonkreten, sondern die des durchschnittlichen Vertragspartners des Verwenders zugrunde zu legen ist (st.\nRspr., s. BAG 21.04.2016, 8 AZR 753/14 m. w. N.). Ausgangspunkt für die nicht am Willen der konkreten\nVertragspartner zu orientierende Auslegung allgemeiner Geschäftsbedingungen ist in erster Linie der\nVertragswortlaut (BAG 23.01.2014, 8 AZR 130/13; BAG 19.03.2014, 10 AZR 622/13 m. w. N.). Von\nBedeutung für das Auslegungsergebnis sind ferner der von den Vertragsparteien verfolgte\nRegelungszweck, sowie die der jeweils anderen Seite erkennbare Interessenlage der Beteiligten. Zu\nberücksichtigen sind außerdem die zum Vertragsschluss führenden, für die Vertragspartner des\nVerwenders allgemein erkennbaren äußeren Umstände, die auf einen verallgemeinerbaren Willen des\nVerwenders schließen lassen und einem verständigen und redlichen Erklärungsempfänger Anhaltspunkte\nfür eine bestimmte Auslegung geben. Umstände, die den konkreten Arbeitnehmer bzw. die konkreten\nUmstände des Vertragsschlusses treffen sind nur dann von Belang, wenn im konkreten Einzelfall die\nBeteiligten übereinstimmend eine Erklärung im selben Sinn verstanden haben (BAG 13.12.2011, 3 AZR\n791/09).\n36\n1.3 Ausgehend vom Wortlaut des Ernennungsschreibens wurde mit dem Kläger ein AT-Status vereinbart.\nHierfür spricht zunächst der Wortlaut des Schreibens, in dem es heißt: „An die Stelle der bisher für Sie\ngültigen tarifvertraglichen Regelungen tritt dieser Arbeitsvertrag mit den beiliegenden\nunternehmenseinheitlichen Allgemeinen Vertragsbestandteilen für den Führungskreis F.“. Die Vereinbarung\nbasiert auf dem beiden Parteien bekannten Umstand, dass aufgrund des vorherigen Arbeitsvertrages vom\n30.08.1985 die tarifvertraglichen Regelungen des Manteltarifvertrags für Angestellte der Bayerischen Metallund\nElektroindustrie (MTV) auf das Arbeitsverhältnis Anwendung fanden. Dieser neue Arbeitsvertrag ist\ndurch die Gegenzeichnung des Ernennungsschreibens vom 04.08.1993 durch den Kläger zustande\ngekommen und sollte den alten Arbeitsvertrag ablösen und auch die Anwendbarkeit der tarifvertraglichen\nRegelungen entfallen lassen, den Kläger also außerhalb des Tarifvertrages stellen.\n37\nDie im Wortlaut in Bezug genommenen „allgemeinen Vertragsbestandteile für den Führungskreis F.„waren\nzum Zeitpunkt der Ernennung des Klägers in der Betriebsvereinbarung „Entlohnungsgrundsätze für\naußertarifliche Angestellte“ vom 15.11.1991 niedergelegt, die schon von ihrem Titel her die Vereinbarung\neines AT-Status unterstreicht. In der Betriebsvereinbarung wird außerdem darauf hingewiesen, dass die\ngetroffenen Regelungen im Wesentlichen den vorher geltenden E.-MFK-Regelungen entsprechen. Auch\nhierdurch wird ein Bezug zwischen der Zugehörigkeit zum Führungskreis und der Entlohnung als\naußertariflicher Angestellter hergestellt. Die in Bezug genommene Betriebsvereinbarung gehört zu den für\nden Kläger als Vertragspartner des Verwenders allgemein erkennbaren äußeren Umständen, die auf einen\nverallgemeinerbares Verständnis schließen lassen, was eine Ernennung in den Führungskreis F. bedeutet\nund einem verständigen und redlichen Erklärungsempfänger Anhaltspunkte für die Auslegung geben, dass\nes sich bei den Mitarbeitern des Führungskreises F. um außertarifliche Mitarbeiter handelt.\n38\nIn dem Schreiben heißt es außerdem, dass der Kläger „zum Mitarbeiter des Führungskreises der F. AG,\nVertragsgruppe A“ ernannt wurde. Was diese Formulierung bedeutet, wird wiederum aus der\nBetriebsvereinbarung „Entlohnungsgrundsätze für außertarifliche Angestellte“ deutlich. In dieser heißt es:\n„Im außertariflichen Bereich werden die beiden Vertragsgruppen A und B gebildet, die als „Mittlerer\nFührungskreis“ bezeichnet werden.“ Hierdurch wird zweifelsfrei bestätigt, dass ein Mitarbeiter des\nFührungskreises der Vertragsgruppe A dem außertariflichen Bereich zugehörig ist. Der Wortlaut des\nErnennungsschreibens ist folglich dahingehend auszulegen, dass durch die Ernennung des Klägers zum\nMitarbeiter des Führungskreises der F. AG, Vertragsgruppe A. arbeitsvertraglich der Status eines ATMitarbeiters\nvereinbart worden ist.\n39\n1.4 Mit der Vereinbarung eines AT-Arbeitsvertrages steht nach der Rechtsprechung des BAG (Urteil vom\n25.4.2018, 5 AZR 84/17) fest, dass dem Kläger dem Grunde nach aus dem in § 1 Ziff. 3 Abs. (II) Buchst. d\nMTV enthaltenen Mindestabstandsgebot für AT-Angestellte in Verbindung mit der vertraglichen Ernennung\nzum AT-Angestellten ein Individualanspruch auf eine Gehaltshöhe zusteht, die den Tarifabstand bezogen\nauf den aktuell geltenden MTV wahrt. Ein besonderer Rechtsbindungswille des Arbeitgebers bei fehlender\nbeiderseitiger Tarifgebundenheit ist nicht erforderlich. Genügend ist vielmehr, dass das Arbeitsverhältnis,\nwie hier der Fall, vom Geltungsbereich des Tarifvertrages erfasst wurde.\n40\n1.4.1 Im Vertragstext findet sich keine Regelung dazu, dass eine Bindung an den Tarifabstand davon\nabhängen soll, ob eine Tarifbindung des Arbeitgebers und/oder des Mitarbeiters besteht. Auf einen\nmöglicherweise abweichenden Willen des Arbeitgebers, der im Vertragstext keinen Ausdruck findet, kommt\nes nicht an. Da der Arbeitsvertrag keinen Hinweis auf eine Abhängigkeit der Tarifabstandsvereinbarung von\neiner (künftigen) Tarifgebundenheit des Arbeitgebers enthält, hat die Vereinbarung unabhängig von den\nzwischenzeitlich erfolgten Betriebsübergängen für das laufende Arbeitsverhältnis Bestand und führt zu einer\ndynamischen Fortgeltung des Anspruchs in Abhängigkeit von dem jeweils maßgebenden höchsten\nTarifentgelt, so dass die Vereinbarung auch als dynamische Ewigkeitsklausel bezeichnet werden kann.\n41\n1.4.2 Die Wirksamkeit der Vereinbarung wird auch nicht dadurch in Frage gestellt, dass die\nTarifabstandsklausel für den vorliegenden „Altvertrag“ quasi als „negative Bezugnahmeklausel“ wirkt. Zwar\nstellt auch eine Tarifabstandsklausel eine Bezugnahmeklausel im weiteren Sinne dar, da sie auf den\nTarifvertrag insoweit Bezug nimmt, als dieser den persönlichen Anwendungsbereich und die höchste\nTarifvergütung regelt. Hiervon wird dynamisch ein Vergütungsanspruch in Höhe einer übertariflichen\nVergütung abhängig. Eine gefestigte Rechtsprechung, die geeignet wäre einen Vertrauensschutz zu\nbegründen, wie dies bei der Gleichstellungsabrede der Fall war, gab es zu der Auslegung eines AT-Status\nund der damit verbundenen Tarifabstandsklausel allerdings nicht.\n42\n1.4.3 Auch die Rechtsprechung des EuGH steht einer dynamischen Weitergeltung der Tarifabstandsklausel\nnach den Betriebsübergängen nicht entgegen. Der EuGH hat zwischenzeitlich seine Rechtsprechung in der\nAlemo-Herron-Entscheidung (EuGH 18. 7. 2013 - C-426/11) modifiziert die Möglichkeiten des Arbeitgebers,\ndie Arbeitsbedingungen nach dem Betriebsübergang anzupassen, für ausreichend erachtet (EuGH\n27.4.2017 - C - 680/15 (Asklepios)). Auch für eine dynamische Bezugnahmeklausel geht deshalb ihre\nDynamik im Arbeitsverhältnis nicht allein aufgrund eines Betriebsübergangs verloren (BAG 30.8.2017 - 4\nAZR 95/14).\n43\n2. Die Stellung des Klägers als AT-Mitarbeiter ist durch das Schreiben vom 26.08.1996 nicht geändert\nworden. Hierbei handelt es sich um ein Informationsschreiben über eine Änderung der allgemeinen\nVertragsbestandteile (hier Aktualisierung der Betriebsvereinbarung „Entlohnungsgrundsätze für\naußertarifliche Angestellte“ vom 15.11.1991) und nicht um eine Änderung des Arbeitsvertrages mit dem\nKläger.\n44\n2.1 Nach dem Willen der Rechtsvorgängerin der Beklagten sollte sich - ausgehend von der Formulierung\ndes Schreibens durch die Umbenennung des bisherigen „Führungskreises“ in „ÜT-Kreis“ und die\nentsprechende Aktualisierung der Betriebsvereinbarung „Entlohnungsgrundsätze für außertarifliche\nAngestellte“ - an den getroffenen Regelungen zur Vergütung und Arbeitszeit nichts Wesentliches ändern.\nDer Wortlaut, nach dem es heißt, dass „die vorstehenden Ausführungen keine substantielle Änderung Ihres\nBeschäftigungsverhältnisses darstellen“ und der in dem Schreiben enthaltene Hinweis, dass es sich\nlediglich um eine Änderung der allgemeinen Vertragsbestandteile handelt, die in den Arbeitsvertrag\nmiteinbezogen wurden, ist insoweit eindeutig. Eine Änderung des arbeitsvertraglich vereinbarten AT-Status\nund der damit vereinbarten Höhe einer den Tarifabstand wahrenden Vergütung hätte zudem eine\nwesentliche Änderung des Arbeitsvertrages dargestellt, die ersichtlich nicht vorgesehen war. Auch heißt es\nin dem Schreiben, dass, dass der neue Name „ÜT-Kreis“ für den bisherigen „Führungskreis“ gilt und sich für\nden Kläger im „ÜT-Kreis“ die für ihn maßgeblichen Änderungen aus der Betriebsvereinbarung zum ATBereich\nergeben. Diese Formulierung spricht ebenfalls dagegen, dass durch den neuen Namen für den\nFührungskreis der „AT-Bereich“ berührt werden sollte. Zudem hätte eine Änderung des Arbeitsvertrages\neiner Zustimmung des Klägers bedurft.\n45\n2.2 Umstände, nach denen die Betriebsparteien durch die Aktualisierung der Betriebsvereinbarung\n„Entlohnungsgrundsätze für außertarifliche Angestellte“ einen arbeitsvertraglich mit Mitarbeitern\nvereinbarten AT-Status ändern wollten, sind nicht ersichtlich. Die wesentlichen Änderungen der\nBetriebsvereinbarung sind im Informationsschreiben genannt. Hiervon wird der Status der AT-Mitarbeiter\nnicht berührt. Eine solche Vertragsänderung, für die vorliegend die Beklagte die Darlegungs- und\nBeweislast tragen würde, wird von den Parteien auch gar nicht behauptet und die aktualisierte\nBetriebsvereinbarung wurde nicht vorgelegt.\n46\nEntgegen der vom BAG in der zurückverweisenden Entscheidung aufgeworfenen Frage nach dem genauen\nInhalt der aktualisierten Fassung der Betriebsvereinbarung mit dem Stand von August 1996, ist diese für die\nEntscheidung folglich nicht relevant. Zudem kann eine arbeitsvertragliche Vereinbarung auf Zahlung einer\nVergütung, die den Tarifabstand wahrt, nach dem Verständnis der entscheidenden Berufungskammer auch\nnicht ohne Weiteres durch eine Betriebsvereinbarung geändert werden.\n47\n2.3 Auch auf die vom BAG aufgeworfene Frage einer synonymen Verwendung der Begriffe „ÜT“ und „AT“\nkommt es aus Sicht der erkennenden Kammer aufgrund der vertraglichen Vereinbarung eines AT-Status\nnicht an. Dennoch ist das Berufungsgericht auf der Basis der vorliegenden Tatsachen zu der Überzeugung\ngelangt, dass ein synonymer Gebrauch der Begriffe vorliegt. Wenn nach dem Informationsschreiben vom\n26.08.1996 für den „ÜT-Kreis“ die Betriebsvereinbarung zum AT-Bereich maßgeblich ist, folgt daraus, dass\ndie Begriffe zumindest zum damaligen Zeitpunkt synonym verwendet wurden. In der Regelungsabrede vom\n01.12.2013 für das Jahr 2013 wird diese synonyme Verwendung fortgeführt, da hierin für die „ÜT\nMitarbeiterInnen“ der Tarifabstand und damit ihr außertariflicher Status sichergestellt wird.\n48\n3. Für die Berechnung des weiteren Vergütungsanspruchs des Klägers ist auf die Regelung in § 1 Ziff. 3\nAbs. (II) d Unterabs. 2 MTV abzustellen. Danach steht dem Kläger der Anspruch auf ein festes\nJahreseinkommen zu, das den zwölffachen Tarifsatz der höchsten Entgeltgruppe um 35% übersteigt.\nHierfür ist der auf die Wochenarbeitszeit des Klägers von 40 Stunden umgerechnete zwölffache Tarifsatz\nder Entgeltgruppe 12 (Stufe B) multipliziert mit dem Faktor 1,35 abzugleichen mit dem garantierten\nJahreseinkommen des Klägers.\n49\n3.1 Die Tarifabstandsregelung des MTV ist dahingehend auszulegen, dass im streitgegenständlichen Fall\ndie Berechnung der dem Kläger mindestens zustehenden Bruttovergütung gem. § 1 Ziff. 3 Abs. 2 d\nUnterabs. 2 MTV zu erfolgen hat, da das Abstandsgebot nicht bereits durch das garantierte Monatsentgelt\ngem. § 1 Ziff. 3 Abs. 2 d Unterabs. 1 MTV eingehalten wurde.\n50\nNach Wortlaut, Sinn und Zweck der Tarifbestimmung ist das Abstandsgebot bereits nach § 1 Ziff. 3 Abs. (II)\nBuchst. d MTV eingehalten, wenn das in Monatsbeträgen zugesagte, garantierte Entgelt den\nMindestabstand nach Unterabs. 1 wahrt. Erst wenn dies nicht der Fall ist und dem Angestellten als\ngarantiertes Jahreseinkommen neben dem in Monatsbeträgen zu zahlenden Entgelt weitere, nicht im\nMonatsturnus zu erbringende Leistungen zugesagt sind, ist der Mindestabstand nach Unterabs. 2\neinzuhalten. Nicht entscheidend ist, ob die Arbeitsvertragsparteien eine Monatsvergütung oder ein\nJahreseinkommen vereinbart haben (BAG 03.09.2014 - 5 AZR 1020/12).\n51\n3.1.1 Für die Auslegung von Tarifnormen ist genauso, wie für die Auslegung von Gesetzesnormen zunächst\nvom Wortlaut auszugehen. Außerdem ist über den reinen Tarifwortlaut hinaus der wirkliche Wille der\nTarifvertragsparteien zu berücksichtigen, wie er in den tariflichen Normen seinen Niederschlag gefunden\nhat. Hierzu ist auch auf den tariflichen Gesamtzusammenhang abzustellen. Für die bei Zweifeln darüber\nhinaus mögliche Heranziehung weiterer Auslegungskriterien (Tarifgeschichte, praktische Tarifübung und\nEntstehungsgeschichte des Tarifvertrages) gibt es keinen Zwang zu einer bestimmten Reihenfolge (BAG\n14.08.1991, 4 AZR 649/90 und BAG 12.09.1984, 4 AZR 336/82, NZA 1985, 160).\n52\n3.1.2 Der Wortlaut der tariflichen Abstandsklausel spricht gegen die Annahme, der Tarifvertrag stelle rein\nformal darauf ab, ob arbeitsvertraglich eine Monatsvergütung oder ein Jahreseinkommen vereinbart wurde.\n§ 1 Ziff. 3 Abs. 2 d MTV bezieht sich in Unterabs. 1 und Unterabs. 2 gleichermaßen auf das monatliche\nEntgelt bzw. Jahreseinkommen, das „auf außertariflicher Grundlage“ zugesagt und garantiert ist. Erfasst\nsind damit nicht nur Leistungen, deren Zahlung und Zahlungsmodalitäten arbeitsvertraglich vereinbart ist,\nsondern alle, auf die auf „nicht tariflicher“ Grundlage ein Anspruch besteht. Dies können z.B.\nEntgeltansprüche aus Betriebsvereinbarungen sein, deren Zahlweise die Betriebspartner bestimmen, oder\naus Gesamtzusagen, deren Zahlungsbedingungen der Arbeitgeber festlegt. Dies ergibt sich auch aus der\nHistorie der Norm (BAG 03.09.2014 - 5 AZR 1020/12, Rn 16 f). Die Verwendung der Begriffe „monatliches\nEntgelt“ und „Jahreseinkommen“ steht dieser Auslegung nicht entgegen. Die Tarifvertragsparteien haben\nhiermit lediglich zum Ausdruck gebracht, dass bei der Prüfung, ob der einzuhaltende Mindestabstand\ngewahrt ist, eine auf das monatlich zu zahlende Entgelt oder eine auf das Jahreseinkommen bezogene\nBetrachtung vorzunehmen ist (BAG 03.09.2014 - 5 AZR 1020/12, Rn 18).\n53\n3.1.3 Auch Sinn und Zweck der Regelung sprechen gegen eine solche Differenzierung. Der Zweck\ntariflicher Abstandsregelungen ist es, durch das Anknüpfen an einen Mindestabstand des dem\naußertariflichen Angestellten zugesagten Entgelts zum höchsten tariflichen Entgelt eine Kompensation für\ndie mit dem AT-Status verbundene Preisgabe tariflicher Rechte zu schaffen. Hierfür ist die Höhe des dem\naußertariflichen Angestellten als Ausgleich zugesagten Entgelts entscheidend und nicht, ob die\nArbeitsvertragsparteien ein Monatsentgelt oder ein Jahreseinkommen vereinbart haben. Dass die\nTarifvertragsparteien entscheidend auf die Höhe der Vergütung abgestellt haben, wird durch die Anmerkung\nzu § 1 Ziff. 3 Abs. (II) Buchst. d MTV bestätigt. Entsprechend der darin enthaltenen Definition des\n„garantierten“ Monatsentgelts bzw. Jahreseinkommens i.S.v. § 1 Ziff. 3 Abs. (II) Buchst. d MTV ist Entgelt\nnur zu berücksichtigen, wenn der Anspruch auch der Höhe nach nur einvernehmlich oder durch\nÄnderungskündigung änderbar ist (BAG 03.09.2014 - 5 AZR 1020/12, Rn 20). Der Kompensationszweck\ndes tariflichen Abstandsgebots spricht auch dagegen anzunehmen, bei der Berechnung des tariflichen\nMindestabstands nach § 1 Ziff. 3 Abs. (II) Buchst. d MTV sei Unterabs. 1 nur zugrunde zu legen, wenn dem\nAngestellten ausschließlich ein monatliches Entgelt zugesagt ist und Unterabs. 2 schon dann, wenn\nzusätzlich zu monatlichen Zahlungen weitere außerhalb des Monatsturnus zu erbringende Leistungen\nzugesagt sind. Vielmehr ist Unterabs. 2 nur anzuwenden, wenn nicht bereits mit dem in Monatsbeträgen\nzugesagten, garantierten Entgelt der Mindestabstand nach Unterabs. 1 gewahrt ist und dem Angestellten\nneben dem garantierten monatlichen Entgelt weitere Entgeltbestandteile zugesagt sind (BAG 03.09.2014 - 5\nAZR 1020/12, Rn 21).\n54\n3.1.4 Nach diesen Grundsätzen ist vorliegend für die Berechnung § 1 Ziff. 3 Abs. (II) Buchst. d Unterabsatz\n2 MTV maßgebend. Die dem Kläger garantierte monatliche Vergütung wahrt unstreitig nicht das\nAbstandsgebot nach § 1 Ziff. 3 Abs. (II) Buchst. d Unterabs. 1 MTV. Zudem erhielt der Kläger ein\nJahreseinkommen, das sich gemäß dem Arbeitsvertrag zunächst in Verbindung mit der\nBetriebsvereinbarung „Entlohnungsgrundsätze für außertarifliche Angestellte“ vom 15.11.1991 aus einem\nMonatsgehalt, der Jahreszahlung und einer Zusatz-Jahreszahlung, sowie ggf. einer Beteiligung am\nBetriebserfolg zusammensetzte. Durch die Aktualisierung der Betriebsvereinbarung wurden entsprechend\ndem Informationsschreiben vom 26.08.1996 die Jahreszahlungen zusammengefasst. Zuletzt erhielt der\nKläger zusätzlich zu seiner monatlichen Vergütung einmalig im Jahr eine Beteiligung am Geschäftserfolg\n(BaG) ebenfalls auf der Grundlage einer Betriebsvereinbarung und in den Jahren 2010 bis 2013, in denen\nder Tarifabstand nicht gewahrt war, jeweils am Jahresende eine Sonderzahlung, um dies auszugleichen.\nDie Sonderzahlungen beruhten auf Regelungsabreden der Beklagten mit dem Gesamtbetriebsrat über die\nZahlung des Tarifabstands für das jeweilige Jahr. Die BaG und die Sonderzahlung beeinflussen die Höhe\nder Vergütung und beruhen auf einer außertariflichen Grundlage. Unerheblich ist, ob der Anspruch auf einer\narbeitsvertraglichen Grundlage beruht oder auf einer Betriebsvereinbarung oder anderen Rechtsgrundlage.\nDaher ist für die Berechnung des Anspruchs auf eine Vergütung, die den tariflichen Mindestabstand wahrt,\nauf das garantierte Jahreseinkommen abzustellen.\n55\n3.2 Die vom Kläger geltend gemachte Höhe der Vergütungsforderung von € 4.304,30 brutto ist berechtigt.\n56\n3.2.1 Bei Berechnung der Klageforderung ist nach der Anmerkung zu § 1 Nr. 3 Abs. (II) Buchst. d MTV das\nTabellenentgelt der Entgeltgruppe 12 (Stufe B) von einer 35-Stundenwoche in die mit dem Kläger\nvereinbarte 40-Stundenwoche umzurechnen. Die Anmerkung gehört zum Tariftext und hat\nRegelungscharakter und macht deutlich, dass sich der Tarifsatz der Entgeltgruppe 12 (Stufe B) auf die\ntarifliche wöchentliche Arbeitszeit gem. § 2 Nr. 1 Abs. (I) MTV bezieht. Bei einer hiervon abweichenden\nindividuellen regelmäßigen wöchentlichen Arbeitszeit ist ein nach § 15 Nr. 1 Abs. (II) MTV zu berechnendes\nMonatsgrundentgelt zugrunde zu legen. Hierzu ist nach § 15 Nr. 1 Abs. (II) MTV das Monatsgrundentgelt\ngemäß Entgelttabelle mit der individuellen regelmäßigen Wochenarbeitszeit in Stunden (IRWAZ) zu\nmultiplizieren und durch die tarifliche wöchentliche Arbeitszeit von 35 Stunden zu dividieren (BAG 25.4.2018\n- 5 AZR 84/17).\n57\n3.2.2 Das tarifliche Abstandsgebot nach § 1 Nr. 3 Abs. (II) Buchst. d Unterabs. 2 MTV ist gewahrt, wenn das\ngarantierte Jahreseinkommen den zwölffachen Tarifsatz der Entgeltgruppe 12 (Stufe B) um 35% übersteigt.\nDer Tarifsatz der Entgeltgruppe 12 (Stufe B) betrug bis zum 30.04.2014 monatlich € 5.035,00 brutto\nbezogen auf die tarifliche Arbeitszeit von 35 Stunden, was umgerechnet auf eine 40-Stunden-Woche €\n5.754,29 brutto im Monat ergibt. Ab 01.05.2014 betrug der Tarifsatz der Entgeltgruppe 12 (Stufe B) €\n5.146,00 brutto bei der tariflichen Arbeitszeit von 35 Stunden und umgerechnet auf eine 40-Stunden-Woche\n€ 5.881,14 brutto. Der Tarifabstand ist damit ab einer garantierten Bruttojahresvergütung von mindestens €\n94.589,48 gewahrt.\n58\nDer Kläger hat im Jahr 2014 € 81.528,18 brutto erhalten zuzüglich einer Gewinnbeteiligung (BaG) von €\n8.757,00 brutto. Für die Berechnung seiner Klageforderung hat der Kläger die Gewinnbeteiligung mit\neinberechnet und ist deshalb von einer Differenzforderung in Höhe von € 4.304,30 brutto ausgegangen.\nNach dem Vortrag der Beklagten ist die BaG in einer Betriebsvereinbarung geregelt und es besteht z.B. bei\nwirtschaftlichen Schwierigkeiten der Beklagten kein Anspruch auf diese Zahlung. Daher ist durchaus\nfraglich, ob es sich bei der BaG um den Teil einer garantierten Jahresvergütung i.S. des MTV handelt, oder\nnicht. Dies kann jedoch dahinstehen, da der Kläger jedenfalls in der Höhe der von ihm geltend gemachten\nForderung einen Zahlungsanspruch hat.\n59\n3.3 Der geltend gemachte Zinsanspruch in Höhe von 5 Prozentpunkten über dem Basiszinssatz besteht für\nVergütungsansprüche gem. § 288 Abs. 1 i.V.m. §§ 286 Abs. 1, 284 Abs. 2, 614 BGB regelmäßig ab dem\nEnde des Zeitraums, für den die Vergütung zu zahlen ist und damit ab 01.01.2015. Da für die Berechnung\ndes Tarifabstands die Jahresvergütung maßgebend ist und diese erst mit der Dezemberabrechnung\nfeststand, war die Klageforderung zum 31.12.2014 fällig.\n60\n4. Für das Arbeitsverhältnis zwischen den Parteien gelten keine Ausschlussfristen, die der Forderung des\nKlägers entgegenstehen könnten. Der MTV findet auf den Kläger unstreitig keine Anwendung. Auf\nNachfrage in der mündlichen Verhandlung vom 28.11.2018 konnte die Beklagte keine Angabe dazu\nmachen, auf welche angeblich arbeitsvertraglich vereinbarte Ausschlussfrist sie in ihrem schriftsätzlichen\nVorbringen behauptet hat.\nII.\n61\nDie Kostenentscheidung folgt aus § 64 Abs. 6 ArbGG, § 97 Abs. 1 ZPO.\nIII.\n62\nDie Revision war gem. § 72 Abs. 2 Ziff. 2 ArbGG zuzulassen, da die Berechnung und die Fälligkeit einer\nVergütung, die den Tarifabstand nach dem MTV wahrt, von grundsätzlicher Bedeutung ist und das BAG in\nder zurückverweisenden Entscheidung diesbezüglich nicht seine Rechtsprechung aus dem Jahre 2014\n(BAG 03.09.2014 - 5 AZR 1020/12) zugrunde gelegt hat, so dass diese Rechtsfragen nicht als endgültig\ngeklärt angesehen werden können.\n\n"
+}

@@ -1,0 +1,569 @@
+{
+    "Annotations": [
+        {
+            "annotation": "31719",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschiebungsandrohung",
+            "end": 138,
+            "start": 117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 151,
+            "start": 139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 191,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 212,
+            "start": 211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 229,
+            "start": 228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 259,
+            "start": 258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16a",
+            "end": 271,
+            "start": 268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 283,
+            "start": 272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorverfolgung",
+            "end": 562,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 574,
+            "start": 563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62018CC0019",
+            "end": 595,
+            "start": 584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9550",
+            "end": 613,
+            "start": 609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 619,
+            "start": 614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 831,
+            "start": 822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 886,
+            "start": 876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 923,
+            "start": 916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 931,
+            "start": 925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 933,
+            "start": 932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 936,
+            "start": 935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nigeria",
+            "end": 1105,
+            "start": 1098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1108,
+            "start": 1107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Asylantrag",
+            "end": 1400,
+            "start": 1390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegen",
+            "end": 1455,
+            "start": 1447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1458,
+            "start": 1457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beizutreten",
+            "end": 1698,
+            "start": 1687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1847,
+            "start": 1837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzt",
+            "end": 1916,
+            "start": 1908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 1968,
+            "start": 1962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "freigekommen",
+            "end": 2130,
+            "start": 2118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2254,
+            "start": 2251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "helfen",
+            "end": 2342,
+            "start": 2336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehme",
+            "end": 2449,
+            "start": 2442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehabt",
+            "end": 2506,
+            "start": 2500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kenne",
+            "end": 2632,
+            "start": 2627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 2713,
+            "start": 2708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "töten",
+            "end": 2773,
+            "start": 2768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 2853,
+            "start": 2847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "suche",
+            "end": 2958,
+            "start": 2953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 3045,
+            "start": 3034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3048,
+            "start": 3047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3190,
+            "start": 3188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 3347,
+            "start": 3337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3350,
+            "start": 3349,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3733,
+            "start": 3732,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3925,
+            "start": 3924,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4066,
+            "start": 4065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schutz",
+            "end": 4272,
+            "start": 4266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 4430,
+            "start": 4419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 4487,
+            "start": 4478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4490,
+            "start": 4489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzuerkennen",
+            "end": 4850,
+            "start": 4838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuordnen",
+            "end": 4991,
+            "start": 4981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4994,
+            "start": 4993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzukehren",
+            "end": 5139,
+            "start": 5125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenarbeite",
+            "end": 5243,
+            "start": 5228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5246,
+            "start": 5245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 5331,
+            "start": 5328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterblieb",
+            "end": 5363,
+            "start": 5353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5366,
+            "start": 5365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 5453,
+            "start": 5445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5457,
+            "start": 5455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5461,
+            "start": 5459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 5551,
+            "start": 5545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5555,
+            "start": 5553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 5849,
+            "start": 5845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AsylG",
+            "end": 5948,
+            "start": 5943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5952,
+            "start": 5950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5986,
+            "start": 5975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehen",
+            "end": 6299,
+            "start": 6291,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6593,
+            "start": 6592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 6970,
+            "start": 6966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6974,
+            "start": 6972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschiebungsandrohung",
+            "end": 7123,
+            "start": 7102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedenken",
+            "end": 7483,
+            "start": 7475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 7698,
+            "start": 7689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahren",
+            "end": 8029,
+            "start": 8020,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8173,
+            "start": 8172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 8177,
+            "start": 8175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegensteht",
+            "end": 8414,
+            "start": 8401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedrohungslage",
+            "end": 8572,
+            "start": 8558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verletzung",
+            "end": 8862,
+            "start": 8852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 9072,
+            "start": 9067,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9483,
+            "start": 9482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhelfen",
+            "end": 9638,
+            "start": 9629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügen",
+            "end": 9746,
+            "start": 9738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abschiebungsverbote",
+            "end": 9892,
+            "start": 9873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9896,
+            "start": 9894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 9972,
+            "start": 9962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9976,
+            "start": 9974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerichtskostenfrei",
+            "end": 10030,
+            "start": 10012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10034,
+            "start": 10032,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10081,
+            "start": 10080,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VG München, Beschluss v. 06.05.2019 – M 27 S 19.31719\nTitel:\nErfolgloser Antrag auf aufschiebende Wirkung gegen eine Abschiebungsandrohung\nNormenketten:\nAsylG § 3, § 4, § 30, § 36 Abs. 3 S. 1\nAufenthG § 60 Abs. 5\nVwGO § 80 Abs. 5\nDublin-VO Art. 29 Abs. 1 u. 2\nGG Art. 16a\nSchlagworte:\nOffensichtlich unbegründeter Asylantrag, Kein Vorliegen von nationalen Abschiebungsverboten, Kriminelles\nUnrecht im Einzelfall, Inländische Fluchtalternative, Asylantrag, Abschiebungsverbot, Fluchtalternative,\nAbschiebung, Asylanerkennung, Flüchtlingseigenschaft, Vorverfolgung\nFundstellen:\nCELEX , 62018CC0019\nBeckRS 2019, 9550\nTenor\nI. Der Antrag auf Anordnung der aufschiebenden Wirkung der Klage gegen die in Nr. 5 des Bescheids des\nBundesamts für Migration und Flüchtlinge vom 12. Februar 2019 enthaltene Abschiebungsandrohung wird\nabgelehnt.\nII. Der Antragsteller trägt die Kosten des Verfahrens. Gerichtskosten werden nicht erhoben.\nGründe\nI.\n1\nDer Antragsteller begehrt einstweiligen Rechtsschutz gegen die vom Bundesamt für Migration und\nFlüchtlinge (im Folgenden: Bundesamt) angedrohte Abschiebung nach Nigeria.\n2\nBei dem Antragsteller handelt es sich um einen nach eigenen Angaben im Jahre 1989 geborenen,\nnigerianischen Staatsangehörigen christlichen Glaubens von dem Volksstamm der … Er reiste am … …\n2017 auf dem Landweg in das Bundesgebiet ein und stellte dort am … … 2017 einen förmlichen Asylantrag.\nGültige Ausweispapiere konnte er dabei nicht vorlegen.\n3\nBei einer persönlichen Anhörung durch das Bundesamt am … … 2018 gab der Antragsteller als Grund für\ndas Verlassen Nigerias im Wesentlichen an, dass sein Vater ihn unter Todesdrohungen aufgefordert habe,\ndem muslimischen Glauben beizutreten. Sein Vater habe im Jahre 2014 den Drohungen Taten folgen\nlassen und ihn versucht zu töten, da er sich weigerte, den muslimischen Glauben anzunehmen. Dabei habe\nsein Vater ihn mit einem Messer angegriffen und verletzt. Anschließend sei dieser deswegen inhaftiert\nworden. Da sein Vater jedoch Mitglied einer mächtigen muslimischen Society sei, der auch der Polizeichef\nangehöre, sei sein Vater schnell aus dem Gefängnis freigekommen. Mitglieder des Ältestenrats der\nmuslimischen Society hätten ihm geraten, Nigeria zu verlassen, da er dort nicht sicher sei. Die Polizei könne\nihm in Nigeria wegen der Macht der muslimischen Society nicht helfen. Auch vier Freunde seines Vaters\nhätten ihm gedroht und verlangt, dass er den muslimischen Glauben annehme. Andere Probleme hätte er in\nNigeria jedoch nicht gehabt. In eine andere Region Nigerias könne er nicht ziehen, da er ein\nFamilienmensch sei und beispielsweise in „…“ niemanden kenne. Der Ältestenrat hätte ihm mitgeteilt, dass\ner an einen sicheren Ort gehen solle. Würde er zurückkehren nach Nigeria, so werde man ihn töten. Für die\nmuslimische Society sei es in Nigeria sehr einfach, jemanden zu finden. Auch nach seiner Flucht aus\nNigeria habe man ihm mitgeteilt, dass die Society noch immer nach ihm suche. Im Übrigen sei er gesund\nund derzeit mit seiner nigerianischen Ehefrau in Deutschland.\n4\nMit Bescheid vom 19. Februar 2018 lehnte das Bundesamt den Asylantrag erstmalig als unzulässig ab und\nordnete die Abschiebung nach Italien an. Aufgrund des Ablaufes der Überstellungsfrist gemäß Art. 29 Abs.\n1 und 2 der Dublin-VO wurde vorbezeichneter Akt mit Bescheid vom 28. August 2018 aufgehoben.\n5\nMit Bescheid vom 12. Februar 2019, zugestellt am 13. Februar 2019, lehnte das Bundesamt den Antrag des\nAntragstellers auf Zuerkennung der Flüchtlingseigenschaft, dessen Asylantrag sowie dessen Antrag auf\nsubsidiären Schutz als offensichtlich unbegründet ab (Nr. 1 bis 3) und stellte fest, dass\nAbschiebungsverbote gemäß § 60 Abs. 5 und Abs. 7 Satz 1 AufenthG nicht vorliegen (Nr. 4). Der\nAntragsteller wurde unter Androhung der Abschiebung nach Nigeria aufgefordert, die Bundesrepublik\nDeutschland innerhalb einer Woche nach Bekanntgabe der Entscheidung zu verlassen (Nr. 5). Das\ngesetzliche Einreise- und Aufenthaltsverbot gemäß § 11 Abs. 1 AufenthG wurde auf 12 Monate ab dem Tag\nder Abschiebung befristet (Nr. 6). Zur Begründung wurde im Wesentlichen ausgeführt, dem Antragsteller\ndrohe in Nigeria offensichtlich weder Verfolgung noch ein ernsthafter Schaden im Sinne der gesetzlichen\nDefinition zum subsidiären Schutz. Auch konkrete individuelle Gefahren im Sinne des § 60 Abs. 5 und Abs.\n7 Satz 1 AufenthG seien in Bezug auf das Heimatland nicht vorgetragen oder ersichtlich. Ergänzend wird\nauf die Begründung im Bescheid verwiesen.\n6\nDer Antragsteller erhob am 20. Februar 2019 Klage zur Niederschrift beim Bayerischen Verwaltungsgericht\nMünchen und beantragte u.a. die Aufhebung des Bescheids, die Verpflichtung der Antragsgegnerin zur\nFeststellung, dass die Voraussetzungen für die Zuerkennung der Flüchtlingseigenschaft beim Vorliegen\nsowie die Verpflichtung subsidiären Schutz zuzuerkennen. Zudem beantragte er gemäß § 80 Abs. 5 VwGO\nsinngemäß,\ndie aufschiebende Wirkung der Klage hinsichtlich der Abschiebungsandrohung anzuordnen.\n7\nZur Begründung nimmt er auf seine Angaben gegenüber dem Bundesamt Bezug und führt ergänzend aus,\ner habe große Angst nach Nigeria zurückzukehren. Sein Leben sei in Gefahr aufgrund der „… … …“, die mit\nder muslimischen Society in … … zusammenarbeite.\n8\nAm 28. Februar 2019 legte das Bundesamt die Behördenakten in elektronischer Form vor; eine\nAntragstellung unterblieb.\n9\nWegen der weiteren Einzelheiten wird auf die Gerichts- und Behördenakte Bezug genommen.\nII.\n10\nDer zulässige Antrag auf Anordnung der aufschiebenden Wirkung der Klage hat keinen Erfolg.\n11\nDer Antrag ist zulässig, soweit damit die Anordnung der aufschiebenden Wirkung der Klage gegen die kraft\nGesetzes (§ 80 Abs. 2 Nr. 3 VwGO, § 75 i.V.m. § 36 AsylG) sofort vollziehbare Abschiebungsandrohung in\nNr. 5 des streitgegenständlichen Bescheides vom 12. Februar 2019 erreicht werden soll. Die Antragstellung\nerfolgte fristgerechnet innerhalb der Wochenfrist des § 36 Abs. 3 Satz 1 AsylG.\n12\nDer Antrag ist jedoch unbegründet. Gemäß Art. 16a Grundgesetz (GG), § 36 Abs. 4 AsylG darf das\nVerwaltungsgericht auf Antrag nach § 80 Abs. 5 VwGO in Fällen offensichtlicher Unbegründetheit eines\nAsylantrags die Aussetzung der Abschiebung nur dann anordnen, wenn ernstliche Zweifel an der\nRechtmäßigkeit des angegriffenen Verwaltungsakts bestehen. Ernstliche Zweifel liegen vor, wenn\nerhebliche Gründe dafür sprechen, dass die Abschiebungsandrohung - insbesondere das\nOffensichtlichkeitsurteil des Bundesamts - einer rechtlichen Prüfung wahrscheinlich nicht standhält (vgl.\nBVerfG, U.v. 14.5.1996 - 2 BvR 1507/93, 1508/93 - DVBl. 1996, 729). Im Rahmen der Entscheidung über\nden Antrag ist im Hinblick auf den durch Art. 19 Abs. 4 GG gebotenen effektiven Rechtsschutz auch zu\nprüfen, ob das Bundesamt zu Recht davon ausgegangen ist, dass der geltend gemachte Anspruch auf\nAsylanerkennung bzw. auf Zuerkennung des internationalen Schutzes offensichtlich nicht besteht und ob\ndiese Ablehnung weiterhin Bestand haben kann.\n13\nGemessen an diesen Grundsätzen bestehen in dem hiesigen Fall keine ernstlichen Zweifel an der\nRechtmäßigkeit der angegriffenen Abschiebungsandrohung. Die Ablehnung des Antrags auf Zuerkennung\nder Flüchtlingseigenschaft (§ 3 AsylG), des Asylantrags (Art. 16a Abs. 1 GG) sowie des Antrags auf\nsubsidiären Schutz (§ 4 AsylG) als offensichtlich unbegründet und die Verneinung des Vorliegens von\nAbschiebungsverboten nach § 60 Abs. 5 und Abs. 7 Satz 1 AufenthG begegnen keinen durchgreifenden\nrechtlichen Bedenken. Dem Vortrag des Antragstellers beim Bundesamt lassen sich keine Gründe für eine\nVorverfolgung in Nigeria in Anknüpfung an eines der in Art. 16a Abs. 2 GG oder in § 3 Abs. 1 Nr. 1 AsylG\ngenannten Merkmale entnehmen. Erhebliche konkrete Gefahren im Sinne von § 60 Abs. 7 Satz 1 AufenthG,\ndenen die Bevölkerung allgemein ausgesetzt ist, sind allenfalls bei Anordnungen nach § 60a Abs. 1 Satz 1\nAufenthG (Vorübergehende Aussetzung der Abschiebung) zu berücksichtigen (§ 60 Abs. 7 Satz 5\nAufenthG), regelmäßig aber nicht im asylrechtlichen Verfahren. Das Gericht sieht von einer weiteren\nDarstellung der Gründe ab und verweist auf die Begründung des angefochtenen Bescheids (§ 77 Abs. 2\nAsylG).\n14\nErgänzend ist auszuführen, dass die Behauptung des Antragstellers, er könne wegen der Drohungen\nseines Vaters und der muslimischen Society nicht nach Nigeria zurückkehren, der Rechtmäßigkeit der\nAbschiebungsandrohung nicht entgegensteht. Vorgetragen ist hierdurch lediglich kriminelles Unrecht in\neinem örtlich eng begrenzten Einzelfall und keine asylerhebliche Verfolgungs- oder Bedrohungslage. Dem\nAntragsteller droht in Nigeria dadurch weder im Hinblick auf § 60 Abs. 5 AufenthG und Art. 3 EMRK eine\nungewöhnlich schlechte humanitäre Situation, noch führt eine Rückkehr des Antragstellers für ihn zu einer\nextremen Gefahrenlage in Form des sicheren Todes oder schwerster Verletzung. Warum Mitglieder einer\nreligiösen Vereinigung den Antragsteller in Nigeria überall suchen, finden und töten würden, um zu\nerzwingen, dass er den muslimischen Glauben annimmt, erschließt sich dem Gericht nicht. Selbst wenn\nman die von dem Antragsteller behauptete Nachstellung durch seinen Vater und die muslimische Society\nals flüchtlingsrechtlich relevante Verfolgungshandlung gemäß § 3a AsylG ansehen würde und er nicht in\nseine Heimatstadt zurückkehren könnte, bestünde für ihn nach der Auffassung des Gerichts jedenfalls die\nMöglichkeit internen Schutz in anderen Landesteilen Nigerias zu finden (§ 3e Abs. 1 AsylG). Die\nBehauptung, er sei ein „Familienmensch“ und könne daher in keinem anderen Teil Nigerias leben, als in …\n…, kann dem Antrag nicht zum Erfolg verhelfen. Darüber hinaus hat der Antragsteller selbst angegeben,\nüber keinerlei gesundheitliche Probleme zu verfügen. Deshalb ergeben sich aus dem Vortrag weder\nflüchtlingsrechtlich relevante Hinweise noch solche auf das Vorliegen eventueller Abschiebungsverbote.\n15\nDer Antrag war daher unter der Kostenfolge des § 154 Abs. 1 VwGO abzulehnen.\n16\nDas Verfahren ist nach § 83b AsylG gerichtskostenfrei.\n17\nDieser Beschluss ist unanfechtbar (§ 80 AsylG).\n\n"
+}

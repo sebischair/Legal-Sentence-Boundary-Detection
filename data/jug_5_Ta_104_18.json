@@ -1,0 +1,545 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrvergleich",
+            "end": 110,
+            "start": 97,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 123,
+            "start": 111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 172,
+            "start": 171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 189,
+            "start": 188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 198,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RVG",
+            "end": 421,
+            "start": 418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagwort",
+            "end": 433,
+            "start": 423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsanwaltsvergütung",
+            "end": 457,
+            "start": 435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 468,
+            "start": 458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 524,
+            "start": 522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 536,
+            "start": 525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "191",
+            "end": 555,
+            "start": 552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29202",
+            "end": 574,
+            "start": 569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29202",
+            "end": 590,
+            "start": 585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 596,
+            "start": 591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 789,
+            "start": 775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 797,
+            "start": 791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 799,
+            "start": 798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 802,
+            "start": 801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragt",
+            "end": 931,
+            "start": 922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 1236,
+            "start": 1233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichsabschluss",
+            "end": 1439,
+            "start": 1420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 1573,
+            "start": 1568,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1798,
+            "start": 1797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1801,
+            "start": 1800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 2134,
+            "start": 2123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2137,
+            "start": 2136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 2419,
+            "start": 2418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2422,
+            "start": 2421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fest",
+            "end": 2550,
+            "start": 2546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2807,
+            "start": 2804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3053,
+            "start": 3050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 3193,
+            "start": 3179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3196,
+            "start": 3195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 3290,
+            "start": 3286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzusetzen",
+            "end": 3468,
+            "start": 3456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 3606,
+            "start": 3597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3609,
+            "start": 3608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 3740,
+            "start": 3726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 3844,
+            "start": 3834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingelegt",
+            "end": 3939,
+            "start": 3930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 4317,
+            "start": 4312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozesskostenhilfeverfahren",
+            "end": 4501,
+            "start": 4474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4635,
+            "start": 4629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4788,
+            "start": 4782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 4837,
+            "start": 4830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4998,
+            "start": 4995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegen",
+            "end": 5218,
+            "start": 5208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5473,
+            "start": 5466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5578,
+            "start": 5572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhalte",
+            "end": 5707,
+            "start": 5698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 5907,
+            "start": 5902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebühr",
+            "end": 6055,
+            "start": 6049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 6058,
+            "start": 6057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 6174,
+            "start": 6163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 6303,
+            "start": 6295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasse",
+            "end": 6468,
+            "start": 6461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 6573,
+            "start": 6565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 6634,
+            "start": 6626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6637,
+            "start": 6636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 6732,
+            "start": 6723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 6736,
+            "start": 6734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6739,
+            "start": 6738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6794,
+            "start": 6783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6798,
+            "start": 6796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 6893,
+            "start": 6885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7108,
+            "start": 7102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7112,
+            "start": 7110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 7166,
+            "start": 7155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeholfen",
+            "end": 7262,
+            "start": 7252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7266,
+            "start": 7264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 7498,
+            "start": 7493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzutreffend",
+            "end": 7530,
+            "start": 7518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstrecken",
+            "end": 7673,
+            "start": 7663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7829,
+            "start": 7826,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8235,
+            "start": 8234,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8582,
+            "start": 8581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 8868,
+            "start": 8864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8872,
+            "start": 8870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 9264,
+            "start": 9259,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9806,
+            "start": 9805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10227,
+            "start": 10221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10231,
+            "start": 10229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10544,
+            "start": 10538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 10548,
+            "start": 10546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 10688,
+            "start": 10674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10692,
+            "start": 10690,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10756,
+            "start": 10755,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 02.11.2018 – 5 Ta 104/18\nTitel:\nReduzierung der Einigungsgebühr bei Mehrvergleich\nNormenketten:\nVV-RVG Nr. 1003, Nr. 7002, Nr. 1003 Abs. 1 S. 1\nZPO § 114 Abs. 2\nLeitsatz:\nBeantragt die Partei Prozesskostenhilfe-Erstreckung auch für einen Mehrvergleich führt dies\nbezogen auf die nicht anhängigen Gegenstände des Vergleichs zu einer Reduzierung der\nEinigungsgebühr auf 1,0 gem. Nr. 1003 VV RVG.\nSchlagwort:\nRechtsanwaltsvergütung\nVorinstanz:\nArbG Nürnberg, Beschluss vom 25.07.2018 – 11 Ca 729/18\nFundstellen:\nJurBüro 2019, 191\nBeckRS 2018, 29202\nLSK 2018, 29202\nTenor\nDie sofortige Beschwerde des Prozessbevollmächtigten des Klägers vom 13.08.2018 gegen den Beschluss\ndes Arbeitsgerichts Nürnberg vom 25.07.2018, Aktenzeichen: 11 Ca 729/18, wird zurückgewiesen.\nGründe\nI.\n1\nDer Kläger hat am 12.02.2018 Kündigungsschutzklage erhoben und mit Schriftsatz vom 01.03.2018 zudem\nProzesskostenhilfe beantragt. Im Gütetermin vom 09.03.2018 (vgl. Sitzungsprotokoll; Bl. 35 ff der Akte)\nschlossen die Parteien einen widerruflichen Vergleich nach Erörterung der Sach- und Rechtslage unter\nanderem mit dem Inhalt der Erteilung eines qualifizierten Zeugnisses, welches in der Klageschrift nicht\nmitbeantragt gewesen war. Nach Erörterung der Sach- und Rechtslage und vor Abschluss des\nwiderruflichen Vergleichs beantragte der Klägervertreter die Erstreckung der Prozesskostenhilfe auf den\nbeabsichtigten Vergleichsabschluss. Daraufhin erging Beschluss des Arbeitsgerichts Nürnberg, dass eine\nEntscheidung über die Prozesskostenhilfe im Büroweg ergehen werde. Dies geschah mit Beschluss vom\n09.03.2018, mit dem dem Kläger Prozesskostenhilfe für die 1. Instanz (Verfahren und Vergleich) bewilligt\nund Rechtsanwalt H… mit Wirkung vom 01.03.2018 beigeordnet wurde (vgl. Bl. 38 der Akte).\n2\nMit Beschluss des Arbeitsgerichts Nürnberg vom 05.04.2018 (vgl. Bl. 44 der Akte) wurde der Wert des\nStreitgegenstandes für das Verfahren auf 7.500,- € (= 3 Bruttomonatsgehälter der Klagepartei) sowie für\nden Vergleich überschießend auf weitere 2.500,- € (= 1 Bruttomonatsgehalt für das im Vergleich\nmitgeregelte Zeugnis) festgesetzt.\n3\nMit Kostenfestsetzungsantrag vom 13.04.2018 begehrte der Prozessbevollmächtigte des Klägers Vergütung\naus der Staatskasse in Höhe von 1.508,92 €, hierin enthalten eine 1,5 Einigungsgebühr aus dem\nVergleichsmehrwert sowie die Post- und Telekommunikationspauschale in Höhe von 40,- €.\n4\nMit Beschluss vom 04.05.2018 (vgl. Bl. I des Kostenhefts) setzte das Arbeitsgericht einen Erstattungsbetrag\nvon 1.302,46 € fest. Berücksichtigt dabei wurde eine 1,0 Einigungsgebühr aus dem Vergleichsmehrwert von\n2.500,- € mit der Begründung, dass aufgrund der Erstreckung der Prozesskostenhilfe auch auf den\nVergleich eine Anhängigkeit im Sinne der Nr. 1003 VV RVG gegeben gewesen sei. Darüber hinaus sei der\nVergleich nach Erörterung der Sach- und Rechtslage geschlossen worden, sodass das Gericht mit allen\nRegelungstatbeständen des Vergleichs befasst gewesen und nicht lediglich als „reines\nBeurkundungsorgan“ tätig gewesen sei. Auch wurde die Post- und Telekommunikationspauschale gemäß\nNr. 7002 VV RVG nur in Höhe von 20,-€, statt wie beantragt 40,-€ berücksichtigt.\n5\nHiergegen richtete sich die Erinnerung des Prozessbevollmächtigten des Klägers vom 01.06.2018. Er\nbeantragte den Beschluss vom 04.05.2018 abzuändern und die ihm aus der Staatskasse zu gewährende\nVergütung - wie ursprünglich von ihm beantragt - auf 1.508,92 € festzusetzen. Die Kostenbeamtin hat der\nErinnerung mit Beschluss vom 07.06.2018 nicht abgeholfen und der Kammervorsitzenden zur Entscheidung\nvorgelegt.\n6\nDas Arbeitsgericht Nürnberg hat mit Beschluss vom 25.07.2018 die Erinnerung des\nProzessbevollmächtigten des Klägers zurückgewiesen. Der Beschluss wurde dem Klägervertreter am\n30.07.2018 ausweislich des Empfangsbekenntnisses zugestellt. Der Klägervertreter hat hierauf mit\nSchriftsatz vom 13.08.2018 sofortige Beschwerde eingelegt. Die Beschwerde wird damit begründet, dass\nnach Nr. 1003 VV RVG nur dann eine Reduktion der grundsätzlich gegebenen Einigungsgebühr von 1,5 auf\n1,0 vorzunehmen sei, wenn ein Verfahren über die Prozesskostenhilfe anhängig ist, soweit nicht lediglich\nProzesskostenhilfe für ein selbständiges Beweisverfahren oder die gerichtliche Protokollierung eines\nVergleiches beantragt werde. Vorliegend sei zwar ursprünglich ein Hauptsacheverfahren über den\nGegenstand „Kündigungsschutz“ anhängig gewesen mit einem entsprechende dazu zugeordneten\nProzesskostenhilfeverfahren. In diesem Hauptsacheverfahren sei ausweislich des Protokolls der\nVerhandlung vom 08.03.2018 die Sach- und Rechtslage erörtert worden. Nach Erörterung der Sach- und\nRechtslage sei dann eine Erstreckung der Prozesskostenhilfe auf einen beabsichtigten Vergleichsabschluss\nbeantragt worden. Danach sei dann der Vergleichsabschluss erfolgt. Mithin trete hier die Nr. 1003 VV RVG\ngenannte Gegenausnahme ein, nämlich dass lediglich die gerichtliche Protokollierung eines Vergleichs\nbeantragt worden sei. Vor der Beantragung der Erstreckung der Prozesskostenhilfe hätte keine\nAnhängigkeit des Gegenstandes „Arbeitszeugnis“, weder in Form eines Hauptsacheverfahrens noch in\nForm eines Prozesskostenhilfeverfahrens vorgelegen. Selbst wenn das Gericht sich an den Erörterungen\nüber einen Vergleichsabschluss betreffend Arbeitszeugnis beteiligt hätte, wäre zu diesem Zeitpunkt noch\ngar keine Anhängigkeit eines entsprechenden Prozesskostenhilfeerstreckungsverfahrens gegeben\ngewesen. Eine Erstreckung sei erst nach Erörterung für einen beabsichtigten Vergleichsabschluss\nbeantragt worden. Das sei aber genau der Fall, der in Nr. 1003 Abs. 1 Satz 1 VV RVG die Gegenausnahme\nmit einer Einigungsgebühr von 1,5 beinhalte. Nachdem lediglich für die Protokollierung des beabsichtigten\nVergleiches Prozesskostenhilfe beantragt worden sei, greife auch die Entscheidung des\nLandesarbeitsgerichts Nürnberg vom 27.03.2017 nicht. Mithin sei nicht, wie vom Arbeitsgericht\nangenommen, aus dem Vergleichsmehrwert eine 1,0-Gebühr anzusetzen, sondern wie beantragt eine 1,5-\nGebühr.\n7\nDarüber hinaus habe das Arbeitsgericht lediglich eine Auslagenpauschale nach Nr. 7002 VV RVG mit 20,- €\nfestgesetzt. Die Auslagenpauschale Nr. 7002 VV RVG sei nach Auffassung des Klägervertreters nach der\ngebührenrechtlichen Instanz zu gewähren. Eine gebührenrechtliche Instanz sei auch die außergerichtliche\nTätigkeit, die hier bezogen auf den Vergleichsmehrwert ausmachenden nicht gerichtlichen Teil erfasse. Für\ndas Gerichtsverfahren sei als weitere Gebühreninstanz eine Auslagenpauschale von 20,- € zu gewähren.\nMithin seien insgesamt 40,- € Auslagenpauschale zu gewähren.\n8\nHinsichtlich der weiteren Einzelheiten wird auf die Beschwerdeschrift vom 13.08.2018 verwiesen.\nII.\n9\nDie sofortige Beschwerde ist zulässig aber unbegründet.\n10\n1. Die Beschwerde gegen den Beschluss des Arbeitsgerichts Nürnberg vom 25.07.2018 ist zulässig. Sie ist\ninsbesondere gemäß §§ 56 Abs. 2, 33 Abs. 3 Satz 2 RVG statthaft und gemäß §§ 56 Abs. 2 Satz 1, 33 Abs.\n3 Satz 3 RVG innerhalb von zwei Wochen nach Zustellung des Beschlusses vom 25.07.2018 eingelegt\nworden.\n11\n2. Die Beschwerde erweist sich jedoch als unbegründet. Das Arbeitsgericht hat mit zutreffender\nBegründung der Erinnerung des Klägers nicht abgeholfen.\n12\nDie Klagepartei begründet ihre Beschwerde letztendlich damit, dass sie lediglich für die Protokollierung des\nbeabsichtigten Vergleiches Prozesskostenhilfe beantragt habe und es sich insoweit um eine\nNurprotokollierung handeln würde. Diese Ansicht ist unzutreffend. Im streitgegenständlichen Fall hat die\nKlagepartei beantragt, die Prozesskostenhilfe auf den beabsichtigten Vergleichsabschluss zu erstrecken.\nDer Antrag setzt also voraus, dass schon Streitgegenstände beim Gericht anhängig sind für die\nProzesskostenhilfe beantragt oder schon bewilligt worden ist. Mit dem Antrag wird daher geregelt, welchen\nUmfang eine Beiordnung eines Verfahrensbevollmächtigten in einem bereits rechtshängigen Verfahren hat,\nin dem zulässigerweise materiell-rechtliche Gegenstände geregelt werden, die außerhalb des Prozesses\nstreitig oder ungewiss sind (so auch BGH vom 17.01.2018, II ZB 248/16 unter Bezugnahme auf OLG\nSchleswig, FamRZ 2012, 1416, 1417 m.w.N., zitiert nach Juris). Nur unter dieser Voraussetzung ist es auch\ngerechtfertigt im Rahmen der miterledigten nicht rechtshängigen Verfahrensgegenständen den\nunbemittelten Beteiligten einen Anspruch auf Erweiterung der im bewilligten Verfahrenskostenhilfe auf\nsämtliche in diesem Zusammenhang ausgelösten Gebühren zuzuerkennen, so zutreffend BGH vom\n17.01.2018, a.a.O.). Für eine Nurprotokollierung entsprechend Nr. 1003 Abs. 1 Satz 1 VV RVG wäre aber\nVoraussetzung, dass kein Verfahren über eine Prozesskostenhilfe anhängig ist, dies ist allerdings im Falle\neiner beantragten Erstreckung der Prozesskostenhilfe auf einen Vergleichsmehrwert nicht der Fall.\n13\nAus diesen Gründen ist der Antrag auf Erweiterung einer bereits beantragten oder bewilligten\nVerfahrenskostenhilfe in derartigen Fällen nicht mit der Einleitung eines neuen, nicht auf den\nVerfahrensgegenstand bezogenen, Verfahrenskostenhilfeverfahrens vergleichbar, in dem die Bewilligung\nvon Prozesskostenhilfe von der hinreichenden Aussicht des Erfolges der Rechtsverfolgung abhängen\nwürde. In diesem Fall der Einleitung eines neuen Prozesskostenhilfeverfahrens wäre allerdings im Rahmen\neines Prozesskostenhilfeverfahrens zu hinterfragen, inwieweit die damit auslösenden höheren Gebühren\nnicht mutwillig im Sinne des § 114 Abs. 2 ZPO sind, dies ist dann anzunehmen, wenn der\nProzesskostenhilfesteller bei zwei gleichwertigen prozessualen Wegen denjenigen beschreitet, von dem er\nvon vornherein annehmen musste, dass er für ihn der kostenspieligere ist (vgl. hierzu auch Zöller,\nKommentar zur ZPO, 30. Aufl., § 114 RdNr. 34 m.w.N.). Nachdem wie oben dargelegt im vorliegenden\nAusgangsverfahren die Prozesskostenhilfe nicht lediglich für eine gerichtliche Protokollierung eines\nVergleiches beantragt worden ist, kann im Übrigen auf die völlig zutreffenden Ausführungen des\nArbeitsgerichts Nürnberg in seiner Entscheidung über die Zurückweisung der Erinnerung vom 25.07.2018\nunter Bezugnahme auf LAG Nürnberg vom 27.03.2017, 6 Ta 186/16, verwiesen werden.\n14\nDies gilt auch, soweit die Klagepartei eine weitere zweite Post- und Telekommunikationspauschale begehrt.\nNachdem es sich um ein einheitliches Prozesskostenhilfeverfahren handelt, kann auch für mitverglichene\nnicht anhängige Streitgegenständen lediglich eine Pauschale nach Nr. 7002 VV RVG geltend gemacht\nwerden.\n15\nNachdem Kostenberechnung der zu erstattenden Gebühren und Auslagen richtig berechnet ist, war die\nBeschwerde als unbegründet zurückzuweisen.\n16\n3. Die Beschwerde ist kostenfrei (§ 56 Abs. 2 Satz 2 und 3 RVG).\n\n"
+}

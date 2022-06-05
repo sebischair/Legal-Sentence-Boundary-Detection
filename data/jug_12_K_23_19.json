@@ -1,0 +1,461 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 48,
+            "start": 46,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 54,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehlerhaftigkeit",
+            "end": 299,
+            "start": 283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 311,
+            "start": 300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 355,
+            "start": 353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 365,
+            "start": 356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Befangenheit",
+            "end": 468,
+            "start": 456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 689,
+            "start": 686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urteil",
+            "end": 825,
+            "start": 819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 838,
+            "start": 827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehlerhaftigkeit",
+            "end": 1083,
+            "start": 1067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1094,
+            "start": 1084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4252",
+            "end": 1113,
+            "start": 1109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1119,
+            "start": 1114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1210,
+            "start": 1201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1218,
+            "start": 1212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1220,
+            "start": 1219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1223,
+            "start": 1222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsgang",
+            "end": 1275,
+            "start": 1265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückverwiesen",
+            "end": 1497,
+            "start": 1482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1500,
+            "start": 1499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geladen",
+            "end": 1617,
+            "start": 1610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Termins",
+            "end": 1700,
+            "start": 1693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 1847,
+            "start": 1843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzubereiten",
+            "end": 1931,
+            "start": 1918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1934,
+            "start": 1933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2174,
+            "start": 2169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2177,
+            "start": 2176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MM",
+            "end": 2258,
+            "start": 2256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 2436,
+            "start": 2430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 2545,
+            "start": 2540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 2799,
+            "start": 2794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 2948,
+            "start": 2940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Termins",
+            "end": 3045,
+            "start": 3038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3048,
+            "start": 3047,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3277,
+            "start": 3276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3280,
+            "start": 3279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entbinden",
+            "end": 3412,
+            "start": 3403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3416,
+            "start": 3414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3419,
+            "start": 3418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 3459,
+            "start": 3453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3462,
+            "start": 3461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 3749,
+            "start": 3740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3752,
+            "start": 3751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigen",
+            "end": 3976,
+            "start": 3963,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4256,
+            "start": 4255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 4333,
+            "start": 4325,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4513,
+            "start": 4512,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4876,
+            "start": 4875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4880,
+            "start": 4878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitzuwirken",
+            "end": 4990,
+            "start": 4979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4994,
+            "start": 4992,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5207,
+            "start": 5206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5211,
+            "start": 5209,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5438,
+            "start": 5437,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5662,
+            "start": 5661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5808,
+            "start": 5804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "glaubhaft",
+            "end": 6065,
+            "start": 6056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6069,
+            "start": 6067,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6223,
+            "start": 6222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6227,
+            "start": 6225,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6540,
+            "start": 6539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6781,
+            "start": 6778,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7154,
+            "start": 7153,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7503,
+            "start": 7502,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7680,
+            "start": 7679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7765,
+            "start": 7762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7951,
+            "start": 7946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 8263,
+            "start": 8257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8267,
+            "start": 8265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "feststellen",
+            "end": 8386,
+            "start": 8375,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8631,
+            "start": 8630,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8841,
+            "start": 8840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8845,
+            "start": 8843,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8898,
+            "start": 8897,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9090,
+            "start": 9089,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Beschluss v. 05.02.2019 – 12 K 23/19\nTitel:\nErkrankung, Ablehnung, Befangenheit, Attest, Verfahren, Mitwirkung,\nAblehnungsgesuch, Verlegung, Besorgnis, Finanzgerichtsordnung, Urlaub,\nAusschluss, Terminsverlegung, Einstellung, Besorgnis der Befangenheit, keine\nAblehnung, Fehlerhaftigkeit\nNormenkette:\nFGO § 51 Abs. 1; ZPO § 42 § 44, § 45, § 46\nLeitsätze:\n1. Die Ablehnung eines Antrags auf Terminsverlegung rechtfertigt nicht die Besorgnis der\nBefangenheit.\n2. Die Mitwirkung eines Richters an einem früheren Verfahren rechtfertig grundsätzlich auch dann\nkeine Ablehnung, wenn über den gleichen Sachverhalt in einer für den Beteiligten nachteiligen\nWeise entschieden worden ist.\n3. Dies gilt insbesondere auch für die Mitwirkung an einem im ersten Rechtszug erlassenen und\nvom Revisionsgericht aufgehobenen Urteil.\nSchlagworte:\nErkrankung, Ablehnung, Befangenheit, Attest, Verfahren, Mitwirkung, Ablehnungsgesuch, Verlegung,\nBesorgnis, Finanzgerichtsordnung, Urlaub, Ausschluss, Terminsverlegung, Einstellung, Besorgnis der\nBefangenheit, keine Ablehnung, Fehlerhaftigkeit\nFundstelle:\nBeckRS 2019, 4252\nTenor\nDas Ablehnungsgesuch gegen den Vorsitzenden Richter am Finanzgericht [… MM] wird abgelehnt.\nGründe\nI.\n1\nDie Streitsache befindet sich im zweiten Rechtsgang. Das Urteil des Finanzgerichts München (FG) vom 17.\nApril 2018 (Az. 12 K 693/17) wurde durch Beschluss des Bundesfinanzhofs (BFH) vom 26. November 2018\n(Az. VIII B 84/18) aufgehoben und die Sache an das FG zurückverwiesen.\n2\nMit Verfügung vom 7. Januar 2019 wurde der Kläger zur mündlichen Verhandlung am 29. Januar 2019 um\n14:00 Uhr geladen. Mit Schreiben vom 21. Januar 2019 beantragte der Kläger die Verlegung des Termins.\nZur Begründung führte er aus, dass er erst am 17. Januar 2019 aus dem Urlaub zurückgekehrt sei und die\nLadung erst am 18. Januar vorgefunden habe. Er sehe sich nicht in der Lage, in so kurzer Zeit den\nGerichtstermin vorzubereiten.\n3\nMit Schreiben vom 22. Januar 2019 lehnte der Vorsitzende Richter am Finanzgericht [… MM] (VRiFG MM)\nden Antrag auf Verlegung des Termins zur mündlichen Verhandlung ab, da keine erheblichen Gründe für\neine Terminsverlegung vorgetragen seien.\n4\nMit Schreiben vom 26. Januar 2019 rügte der Kläger die Befangenheit des VRiFG MM. Das FG-Urteil vom\n17. April 2018 sei unter dem Vorsitz von VRiFG MM zustande gekommen und vom BFH wegen\nrechtsfehlerhafter Verweigerung des rechtlichen Gehörs aufgehoben worden. In dem FG-Urteil fänden sich\nzahlreiche Argumentationen, die mutmaßlich wider besseres Wissen erfolgt seien. So sei bereits sein\nAntrag auf Verlegung des Termins am 17. April 2018 wegen einer Erkrankung am Sitzungstag abgelehnt\nworden und es sei ihm unterstellt worden, dass er telefonisch erklärt habe, dass er im Laufe des Vormittags\nein Attest vorlegen werde. Es bestehe erheblicher Anlass zu der Besorgnis, dass sich das Bemühen\nfortsetze, rechtliches Gehör zu verweigern bzw. nur eingeschränkt zu gewähren. Dies zeige sich in der\nerneuten Ablehnung eines berechtigten Antrages auf Verlegung des Termins.\n5\nDie dienstliche Äußerung des VRiFG MM vom 28. Januar 2019 wurde den Beteiligten mit gerichtlichen\nSchreiben vom 30. Januar 2019 zur Kenntnisnahme übermittelt (hinsichtlich des Inhalts wird auf die\ndienstliche Äußerung verwiesen).\n6\nDer Kläger beantragt,\nden VRiFG MM wegen der Besorgnis der Befangenheit von der Verhandlungsführung in der Streitsache zu\nentbinden.\nII.\n7\nDas Ablehnungsgesuch bleibt ohne Erfolg.\n8\n1. Der Senat hat gemäß § 51 Abs. 1 Satz 1 Finanzgerichtsordnung (FGO) i.V.m. § 45 Abs. 1, § 46 Abs. 1\nZivilprozessordnung (ZPO) ohne Mitwirkung des VRiFG MM durch Beschluss darüber zu entscheiden, ob\nein Grund besteht, der aus Sicht einer Partei die Besorgnis der Befangenheit begründet.\n9\nNach § 51 Abs. 1 Satz 1 FGO i.V.m. § 42 ZPO findet die Ablehnung eines Richters wegen der Besorgnis\nder Befangenheit statt, wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen seine Unparteilichkeit\nzu rechtfertigen. Dies ist dann der Fall, wenn aus der Sicht einer Partei bei vernünftiger Würdigung aller\nUmstände Anlass gegeben ist, an der Unvoreingenommenheit und objektiven Einstellung des Richters zu\nzweifeln (BFH-Beschluss vom 5. September 2018 XI R 45/17, BFH/NV 2019, 37 jeweils m.w.N.). Nicht\nerforderlich ist dagegen, dass tatsächlich eine Befangenheit vorliegt. Vielmehr genügt es, dass die\naufgezeigten Umstände geeignet sind, einem Beteiligten Anlass zu begründeten Zweifeln zu geben (vgl.\nBFH-Beschluss in BFH/NV 2019, 37 jeweils m.w.N.). Gemäß § 51 Abs. 1 Satz 1 FGO i.V.m. § 44 Abs. 2\nZPO sind die das Misstrauen in die Unparteilichkeit rechtfertigenden Umstände im Ablehnungsgesuch\nsubstantiiert darzulegen und glaubhaft zu machen (BFH-Beschlüsse vom 10. März 2015 V B 108/14,\nBFH/NV 2015, 849; vom 4. Mai 2016 V B 108/15, BFH/NV 2016, 1289 und vom 4. September 2017 IX B\n84/17, BFH/NV 2017, 1619).\n10\n2. Ausgehend von diesen Grundsätzen ist der VRiFG MM nicht gehindert, an dem Verfahren 12 K 23/19\nmitzuwirken.\n11\na) Anhaltspunkte für eine Befangenheit des Richters VRiFG MM durch die Zurückweisung des Antrags auf\nVerlegung des Termins sind aus dem Vortrag des Klägers nicht erkennbar (§ 51 Abs. 1 Satz 1 FGO i.V.m. §\n42 ZPO).\n12\nDie Ablehnung eines Antrags auf Terminsverlegung rechtfertigt nicht die Besorgnis der Befangenheit (vgl.\nGräber/Stapperfend, FGO, 8. Aufl. 2015, § 51 Rz 52; BFH-Beschluss vom 4. August 2004 VII B 240,\n241/03, BFH/NV 2005, 218). Der Umstand, dass der vom Kläger im Januar angetretene Urlaub nur noch\neine etwas mehr als zehntägige Vorbereitungszeit ermöglichen würde, kann eine Terminsverlegung nicht\nrechtfertigen (BFH-Beschluss in BFH/NV 2017, 1619). Dabei legt der Senat den Vortrag des Klägers aus\ndem Terminsverlegungsantrag zugrunde, nachdem er die Ladung am 18. Januar 2019 vorgefunden habe.\nDie Ausführungen des Klägers im Ablehnungsgesuch vom 26. Januar 2019, dass er erst Tage nach der\nRückkehr aus Hongkong von dem Termin zur mündlichen Verhandlung am 29. Januar 2019 erfahren habe,\nwidersprechen diesem ersten Vortrag und sind nicht glaubhaft.\n13\nb) Auch Rechtsfehler in einem früheren Verfahrensabschnitt können eine Befangenheit des VRiFG MM\nnicht begründen (§ 51 Abs. 1 Satz 1 FGO i.V.m. § 42 ZPO).\n14\nÜber die gem. § 51 Abs. 1 Satz 1 FGO i.V.m. § 41 Nr. 5 und 6 ZPO zum Ausschluss führende Mitwirkung in\neinem Verfahren hinaus kommt eine Ablehnung wegen Besorgnis der Befangenheit aufgrund einer\nVorbefassung nur ausnahmsweise in Betracht (Leipold in Hübschmann/Hepp/Spitaler, AO/FGO, § 51 FGO\nRz. 70 [Jan. 2016]). Deshalb berechtigt nach h.M. die Mitwirkung einer Gerichtsperson an einem früheren\nVerfahren grundsätzlich auch dann keine Ablehnung, wenn über den gleichen Sachverhalt in einer für den\nBeteiligten nachteiligen Weise entschieden worden ist. Dies gilt insbesondere auch für die Mitwirkung an\neinem im ersten Rechtszug erlassenen und vom Revisionsgericht aufgehobenen Urteil (BFH-Beschlüsse\nvom 11. März 1986 VII B 54/85, BFH/NV 1986, 543; vom 23. Juni 2014 X R 13/14, BFH/NV 2014, 1758;\nGräber/Stapperfend, FGO, 8. Aufl. 2015, § 51 Rz. 53; Leipold in Hübschmann/Hepp/Spitaler, AO/FGO, § 51\nFGO Rz. 70 [Jan. 2016]). Anders verhält es sich nur, wenn Anhaltspunkte dafür bestehen, dass die\nFehlerhaftigkeit auf einer unsachlichen Einstellung des Richters oder auf Willkür beruht (BFH-Beschlüsse\nvom 11. Januar 1995 IV B 104/93, BFH/NV 1995, 629; vom 27. März 1997 XI B 190/96, BFH/NV 1997, 780;\nvom 12. September 2013 X S. 30-31/13, BFH/NV 2014, 51, jeweils m.w.N.). Darauf kann etwa eine\nHäufung von Verfahrensfehlern hinweisen (BFH-Beschlüsse vom 29. Oktober 1993 XI B 91/92, BFH/NV\n1994, 489; vom 28. Juni 2002 IV B 75/01, BFH/NV 2003, 45). Eine solche Häufung von Verfahrensfehlern\nliegt aber im Streitfall gerade nicht vor. Aus dem Beschluss des BFH vom 26. November 2018 (VIII B 84/18\nn.v.) ergibt sich vielmehr, dass das FG-Urteil vom 17. April 2018 wegen eines einzelnen Verfahrensfehlers\naufgehoben wurde. Der BFH führte dort aus, dass das FG wegen der angekündigten Vorlage des Attestes\nfür die kurzfristig aufgetretenen Gesundheitsprobleme das Urteil noch nicht am Sitzungstag um 12:51 Uhr\nhätte verkünden dürfen und so die Möglichkeit der Wiedereröffnung der mündlichen Verhandlung nicht hätte\nausschließen dürfen.\n15\nAuch lässt sich die vom Kläger behauptete „Argumentation wider besseres Wissen“ im ersten Rechtsgang\nnicht feststellen. Aus den FG-Akten ergibt sich, dass die Senatsgeschäftsstelle dem VRiFG MM schriftlich\nam 17. April 2018 vor dem Beginn des Termins mitgeteilt hat, dass der Kläger im Lauf des Vormittags ein\nAttest nachreichen werde (FG-Akte 12 K 693/17, Bl 40). Dass der Kläger dies nicht gesagt haben soll, ergibt\nsich erst aus seiner späteren eidesstattlichen Versicherung vom 10. Juli 2018 im Verfahren über die\nNichtzulassungsbeschwerde (BFH-Akte VIII B 84/18 Bl 63).\n16\n3. Der Beschluss ist unanfechtbar (§ 128 Abs. 2 FGO). Eine Kostenentscheidung ist nicht zu treffen, da das\nVerfahren über die Richterablehnung ein bloßes Zwischenverfahren darstellt (BFH-Beschluss vom 6. Juli\n2005 II R 28/02, BFH/NV 2005, 2027).\n\n"
+}

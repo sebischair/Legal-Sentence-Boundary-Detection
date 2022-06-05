@@ -1,0 +1,413 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sommerfest",
+            "end": 108,
+            "start": 98,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 121,
+            "start": 109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 137,
+            "start": 135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 146,
+            "start": 144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 155,
+            "start": 147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügungsklägerin",
+            "end": 330,
+            "start": 312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 343,
+            "start": 332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tagesverdienst",
+            "end": 392,
+            "start": 378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 403,
+            "start": 393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 455,
+            "start": 453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 466,
+            "start": 456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41090",
+            "end": 486,
+            "start": 481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 492,
+            "start": 487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 658,
+            "start": 644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 666,
+            "start": 660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 668,
+            "start": 667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 671,
+            "start": 670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 935,
+            "start": 933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 938,
+            "start": 937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 1151,
+            "start": 1140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1154,
+            "start": 1153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 1263,
+            "start": 1256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1266,
+            "start": 1265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "orientiert",
+            "end": 1444,
+            "start": 1434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1448,
+            "start": 1447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 1670,
+            "start": 1663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 1673,
+            "start": 1672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "pflegen",
+            "end": 1884,
+            "start": 1877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2023,
+            "start": 2020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2026,
+            "start": 2025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 2176,
+            "start": 2167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 2179,
+            "start": 2178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 2268,
+            "start": 2260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2272,
+            "start": 2270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 2276,
+            "start": 2274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 2307,
+            "start": 2299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 2311,
+            "start": 2309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2479,
+            "start": 2476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 2483,
+            "start": 2481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 2540,
+            "start": 2539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 2544,
+            "start": 2542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 2661,
+            "start": 2658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 2665,
+            "start": 2663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2745,
+            "start": 2743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 2749,
+            "start": 2747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 2796,
+            "start": 2787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 2800,
+            "start": 2798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3018,
+            "start": 3012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 3022,
+            "start": 3020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitwertkatalogs",
+            "end": 3223,
+            "start": 3205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 3227,
+            "start": 3225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewerten",
+            "end": 3543,
+            "start": 3535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 3547,
+            "start": 3545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 3849,
+            "start": 3845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4091,
+            "start": 4085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 4242,
+            "start": 4240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bringen",
+            "end": 4355,
+            "start": 4348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 4359,
+            "start": 4357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschäftigungsverhältnisses",
+            "end": 4659,
+            "start": 4632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 4663,
+            "start": 4661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4922,
+            "start": 4916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 4927,
+            "start": 4924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 4931,
+            "start": 4929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 5040,
+            "start": 5035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 5044,
+            "start": 5042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 5198,
+            "start": 5195,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 31.10.2018 – 4 Ta 120/18\nTitel:\nStreitwertfestsetzung - Teilnahme am Sommerfest\nNormenketten:\nGKG § 63, § 68\nRVG § 23\nLeitsatz:\nBewertung des Verfahrens zur Durchsetzung der Teilnahme an einem betrieblichen Sommerfest im\nWege der einstweiligen Verfügung mit einem Tagesverdienst der Verfügungsklägerin.\nSchlagworte:\nGerichtsgebühr, Gegenstandswert, Tagesverdienst\nVorinstanz:\nArbG Bamberg, Beschluss vom 17.08.2018 – 2 Ga 7/18\nFundstelle:\nBeckRS 2018, 41090\nTenor\nDie Beschwerde der Prozessbevollmächtigten der Verfügungsklägerin gegen den Beschluss des\nArbeitsgerichts Bamberg vom 17.08.2018, Az.: 2 Ga 7/18, wird zurückgewiesen.\nGründe\nI.\n1\nDie bei der Verfügungsbeklagten gegen ein Bruttomonatseinkommen von zuletzt ca.\n2\nEUR 6.100,- beschäftigte Verfügungsklägerin hat wegen ihrer Freistellung ab dem 20.03.2018 beim\nArbeitsgericht Bamberg Klage auf tatsächliche Beschäftigung erhoben, Az.: 1 Ca 408/18.\n3\nMit Antragsschrift vom 13.07.2018 begehrt sie Wege der einstweiligen Verfügung die Verfügungsbeklagte\nzu verpflichten, ihr die Teilnahme an dem am 17.08.2018 stattfindenden betrieblichen Sommerfest zu\nermöglichen.\n4\nNach Absage des geplanten Sommerfestes haben die Parteien das Verfahren übereinstimmend für erledigt\nerklärt.\n5\n(Mit Beschluss vom 17.08.2018 hat das Erstgericht den Streitwert für das Verfahren auf EUR 300,-\nfestgesetzt und sich hierbei am Tagesverdienst der Verfügungsklägerin orientiert.)\n6\nGegen den ihnen am 21.08.20186 zugestellten Beschluss haben die Prozessbevollmächtigten der\nVerfügungsklägerin beim Erstgericht am 04.09.2018 Beschwerde eingereicht und die Anhebung des\nStreitwerts auf EUR 5.000,- begehrt.\n7\nSie vertreten die Auffassung, durch die Nichteinladung zu dem Sommerfest sollte der Verfügungsklägerin\ndie Möglichkeit genommen werden, die sozialen und kollegialen Kontakte im Betrieb aufzubauen und zu\npflegen. Ein finanzielles Interesse bestehe für sie an der begehrten Teilnahme nicht, weshalb der Streitwert\ngem. § 23 Abs. 3 RVG festzusetzen sei.\n8\nDas Erstgericht hat mit Beschluss vom 14.09.2018 der Beschwerde nicht abgeholfen und sie dem\nLandesarbeitsgericht Nürnberg zur Entscheidung vorgelegt.\n9\nHinsichtlich weiterer Einzelheiten wird auf den Inhalt der Beschwerdeakte Bezug genommen.\nII.\n10\n1. Die Beschwerde ist zulässig.\n11\nSie ist statthaft, § 68 Abs. 1 GKG, denn sie richtet sich gegen einen Beschluss, durch den der Wert für die\nGerichtsgebühr gemäß § 63 Abs. 2 GKG festgesetzt worden ist.\n12\nDer Wert des Beschwerdegegenstandes übersteigt EUR 200,-.\n13\nDie Beschwerde ist innerhalb der in § 63 Abs. 3 Satz 2 GKG bestimmten Frist eingelegt worden, § 68 Abs. 1\nSatz 3 GKG.\n14\nDen Beschwerdeführern steht ein eigenes Beschwerderecht gem. § 32 Abs. 2 RVG zu.\n15\n2. Die Beschwerde ist sachlich nicht begründet.\n16\nDas Erstgericht hat den Gegenstandswert des Verfahrens ermessensfehlerfrei auf EUR 300,- festgesetzt,\ndenn der Tagesverdienst der Verfügungsklägerin kann für die Bewertung ihres Antragsbegehrens zugrunde\ngelegt werden.\n17\nHierbei war auf den Wert eines Hauptsacheverfahrens abzustellen, da die erstrebte einstweilige Verfügung\nzu einer Vorwegnahme der Hauptsache führen würde, vgl. Ziffer I Nr. 16.1 des Streitwertkatalogs.\n18\nNachdem die Verfügungsklägerin nach eigenem Bekunden mit der begehrten Teilnahme an dem geplanten\nSommerfest keinerlei wirtschaftliche Interessen verfolgte, war lediglich die eintägige Suspendierung ihrer\nFreistellung und die hierdurch ermöglichte Pflege der persönlichen Kontakte zu den Arbeitskollegen zu\nbewerten.\n19\nDiesbezüglich kann in Bezug auf die nur für einen Arbeitstag streitige Aufhebung der Freistellung bzw.\nTeilnahme an einer betrieblichen Veranstaltung aus ideellem/nichtvermögensrechtlichem Interesse darauf\nabgestellt werden, welcher Wert für eine streitige tatsächliche Beschäftigung festzusetzen wäre. Auch die\ntatsächliche Beschäftigung eines Arbeitnehmers ermöglicht diesem nämlich die sozialen und kollegialen\nKontakte zu pflegen, so dass auf die Empfehlungen in Ziffer I Nr. 12 und Nr. 25.1.4 des Streitwertkatalogs\nzurückgegriffen werden. Diese lassen einen Wert bis zu einem Bruttomonatseinkommen bei zeitlich\nunbegrenztem Streit über eine tatsächliche Beschäftigung bzw. Freistellung zu. Begrenzt sich dieser Streit\nauf nur einen Arbeitstag, ist ein entsprechend geringerer Wert in Ansatz zu bringen.\n20\nDie Bewertung eines Bestandsstreits für nur einen Tag bildet insoweit eine relevante Obergrenze (vgl. Ziffer\nI Nr. 20 des Streitwertkatalogs), denn dieser betrifft sowohl das wirtschaftliche als auch das ideelle Interesse\ndes Arbeitnehmers an der Aufrechterhaltung seines Beschäftigungsverhältnisses.\n21\nDa der Streit der Parteien nicht die Durchführung mehrerer betrieblicher Veranstaltungen und die begehrte\nTeilnahme daran betraf, kann eine Parallele zu dem vom Arbeitsgericht Köln (Urteil v. 22.06.2017 - 8 Ca\n5233/16) entschiedenen Fall nicht gezogen werden.\nIII.\n22\nDie Entscheidung konnte ohne mündliche Verhandlung durch den Vorsitzenden alleine ergehen, § 78 Satz\n3 ArbGG.\n23\nFür eine Kostenentscheidung bestand kein Anlass, da das Beschwerdeverfahren gebührenfrei ist und eine\nKostenerstattung nicht stattfindet, § 68 Abs. 3 GKG.\n\n"
+}

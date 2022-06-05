@@ -1,0 +1,917 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 47,
+            "start": 45,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 53,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dokument",
+            "end": 370,
+            "start": 362,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 380,
+            "start": 371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AO",
+            "end": 559,
+            "start": 557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 743,
+            "start": 732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Absender",
+            "end": 810,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 991,
+            "start": 985,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1428,
+            "start": 1425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1441,
+            "start": 1430,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dokument",
+            "end": 1758,
+            "start": 1750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1769,
+            "start": 1759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4251",
+            "end": 1788,
+            "start": 1784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1794,
+            "start": 1789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1823,
+            "start": 1813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrens",
+            "end": 1872,
+            "start": 1862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1893,
+            "start": 1874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1895,
+            "start": 1894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1898,
+            "start": 1897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2010,
+            "start": 2007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2013,
+            "start": 2012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2355,
+            "start": 2352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 2482,
+            "start": 2479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 2593,
+            "start": 2588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 2821,
+            "start": 2813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeführt",
+            "end": 2973,
+            "start": 2963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2976,
+            "start": 2975,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3273,
+            "start": 3272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bei",
+            "end": 3349,
+            "start": 3346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3493,
+            "start": 3488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 3569,
+            "start": 3566,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3617,
+            "start": 3616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "NN",
+            "end": 3756,
+            "start": 3754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 3791,
+            "start": 3790,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4015,
+            "start": 4014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 4121,
+            "start": 4120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4374,
+            "start": 4370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 4377,
+            "start": 4376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4576,
+            "start": 4573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 4816,
+            "start": 4811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 5028,
+            "start": 5019,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5186,
+            "start": 5185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 5189,
+            "start": 5188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klage",
+            "end": 5220,
+            "start": 5215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 5401,
+            "start": 5398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 5552,
+            "start": 5547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 5619,
+            "start": 5611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versendet",
+            "end": 5735,
+            "start": 5726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5796,
+            "start": 5789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 5895,
+            "start": 5891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6076,
+            "start": 6073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 6158,
+            "start": 6149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 6217,
+            "start": 6209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 6368,
+            "start": 6361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 6371,
+            "start": 6370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 6778,
+            "start": 6774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bemerkt",
+            "end": 6821,
+            "start": 6814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 6980,
+            "start": 6975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 7178,
+            "start": 7170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachgeholt",
+            "end": 7328,
+            "start": 7318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 7475,
+            "start": 7469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7478,
+            "start": 7477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7780,
+            "start": 7775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 7783,
+            "start": 7782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 7828,
+            "start": 7818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7831,
+            "start": 7830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einspruchsentscheidung",
+            "end": 7900,
+            "start": 7878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "falle",
+            "end": 8032,
+            "start": 8027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8036,
+            "start": 8034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 8134,
+            "start": 8125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8138,
+            "start": 8136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angefordert",
+            "end": 8220,
+            "start": 8209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dauert",
+            "end": 8478,
+            "start": 8472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8482,
+            "start": 8480,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8610,
+            "start": 8609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 8614,
+            "start": 8612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 8618,
+            "start": 8616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 8644,
+            "start": 8633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 8648,
+            "start": 8646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verworfen",
+            "end": 8779,
+            "start": 8770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8783,
+            "start": 8781,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8915,
+            "start": 8914,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9144,
+            "start": 9143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingegangen",
+            "end": 9338,
+            "start": 9327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugegangen",
+            "end": 9455,
+            "start": 9445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 9581,
+            "start": 9578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 9585,
+            "start": 9583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 9703,
+            "start": 9695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 9880,
+            "start": 9872,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9988,
+            "start": 9987,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10137,
+            "start": 10136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10141,
+            "start": 10139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 10245,
+            "start": 10234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10249,
+            "start": 10247,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10486,
+            "start": 10485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "streitig",
+            "end": 10550,
+            "start": 10542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugegangen",
+            "end": 10630,
+            "start": 10620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 10634,
+            "start": 10632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10847,
+            "start": 10844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 10851,
+            "start": 10849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werten",
+            "end": 11371,
+            "start": 11365,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11987,
+            "start": 11986,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12212,
+            "start": 12211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12216,
+            "start": 12214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 12502,
+            "start": 12491,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12628,
+            "start": 12627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 12632,
+            "start": 12630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 12785,
+            "start": 12782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 12789,
+            "start": 12787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 12921,
+            "start": 12914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kopie",
+            "end": 13034,
+            "start": 13029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 13103,
+            "start": 13100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 13220,
+            "start": 13216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 13263,
+            "start": 13260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13267,
+            "start": 13265,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13533,
+            "start": 13532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monatsfrist",
+            "end": 13665,
+            "start": 13654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 13669,
+            "start": 13667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trifft",
+            "end": 13926,
+            "start": 13920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14054,
+            "start": 14048,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14273,
+            "start": 14270,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14615,
+            "start": 14614,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14765,
+            "start": 14764,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 14983,
+            "start": 14982,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 15423,
+            "start": 15422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 15427,
+            "start": 15425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15801,
+            "start": 15798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weggefallen",
+            "end": 15872,
+            "start": 15861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 16056,
+            "start": 16050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 16366,
+            "start": 16363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 16370,
+            "start": 16368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 16579,
+            "start": 16573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 16850,
+            "start": 16845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 16976,
+            "start": 16971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17374,
+            "start": 17371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhalteten",
+            "end": 17690,
+            "start": 17678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lag",
+            "end": 17936,
+            "start": 17933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 17940,
+            "start": 17938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 18277,
+            "start": 18271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 18281,
+            "start": 18279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18875,
+            "start": 18872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "XX",
+            "end": 19130,
+            "start": 19128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 19134,
+            "start": 19132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "musste",
+            "end": 19585,
+            "start": 19579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 19589,
+            "start": 19587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19914,
+            "start": 19908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 19918,
+            "start": 19916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existiert",
+            "end": 20256,
+            "start": 20247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20412,
+            "start": 20406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 20681,
+            "start": 20670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 20685,
+            "start": 20683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 20739,
+            "start": 20736,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Urteil v. 29.01.2019 – 12 K 1888/18\nTitel:\nBescheid, Kindergeld, Verwaltungsakt, Wiedereinsetzung, Einspruchsfrist, Einspruch,\nFrist, Verschulden, Festsetzung, Familienkasse, Abgabenordnung, Zugang, Aktenlage,\nHinweis, Wiedereinsetzung in den vorigen Stand, Wegfall des Hindernisses, fehlendes\nVerschulden, Antragstellung, Zustellung, elektronisches Dokument\nLeitsätze:\n1. Die Übermittlung eines Einspruchsschreibens per E-Mail an die Beklagte ist gemäß § 87a Abs. 1\nSatz 1 AO ebenso zulässig wie die Einlegung des Einspruchs gemäß § 357 Abs. 1 AO.\n2. Es liegt im Verantwortungsbereich der Klägerin, die E-Mail auch an die richtige E-Mail-Adresse\ndes Empfängers zu versenden und die Adressierung frei von Schreibfehlern vorzunehmen. Das\nRisiko einer fehlgeschlagenen Übermittlung trägt der Absender.\n3. Wurde die E-Mail an eine falsche E-Mail-Adresse versendet, kann gegebenenfalls\nWiedereinsetzung in den vorigen Stand wegen der Versäumnis der Einspruchsfrist in Betracht\nkommen.\n4. Zu den Umständen die innerhalb der Monatsfrist des § 110 Abs. 2 AO vorzutragen sind, gehört der\nHinweis, wer die E-Mail verfasst hat, ob die Klägerin vor Versendung die E-Mail auf die korrekte\nAdressierung kontrolliert hat, ob bei diesem unterlaufenen Adressierungsfehler ein entsprechender\nHinweis auf die Unzustellbarkeit der E-Mail zurück-kam, ob eine Kontrolle auf den Zugang einer so\ngenannten Unzustellbarkeitsmail erfolgt ist.\nSchlagworte:\nBescheid, Kindergeld, Verwaltungsakt, Wiedereinsetzung, Einspruchsfrist, Einspruch, Frist, Verschulden,\nFestsetzung, Familienkasse, Abgabenordnung, Zugang, Aktenlage, Hinweis, Wiedereinsetzung in den\nvorigen Stand, Wegfall des Hindernisses, fehlendes Verschulden, Antragstellung, Zustellung, elektronisches\nDokument\nFundstelle:\nBeckRS 2019, 4251\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Klägerin trägt die Kosten des Verfahrens.\nEntscheidungsgründe\nI.\n1\nStreitig ist, ob wegen der Versäumnis der Einspruchsfrist Wiedereinsetzung in den vorigen Stand zu\ngewähren ist.\n2\nDer Klägerin wurde von der Beklagten - der […] (Familienkasse) - laufend aufgrund der Festsetzung vom\n26. Oktober 2016 Kindergeld ab August 2016 für ihren Sohn [… NN] (geboren am […] 1997) gewährt, da\nNN seine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen könne und daher\nkindergeldrechtlich zu berücksichtigen sei. Mit Verwaltungsakt vom 18. August 2017 hob die Familienkasse\ndie Kindergeldfestsetzung für NN ab dem Monat September 2017 auf. Zur Begründung wurde ausgeführt,\ndass NN nach Aktenlage eine Ausbildung nicht bzw. nicht mehr anstreben würde. In der\nRechtsbehelfsbelehrung:zu diesem Bescheid war u.a. angegeben: „Der Einspruch ist bei der\nvorbezeichneten Familienkasse schriftlich einzureichen, dieser elektronisch zu übermitteln oder dort zur\nNiederschrift zu erklären.“ Unter den Angaben zum Absender ist in diesem Bescheid im Briefkopf die EMail-\nAdresse der Beklagten „Familienkasse-[…] @arbeitsagentur.de“ aufgeführt.\n3\nMit Schreiben vom 18. Juni 2018 teilte die Klägerin der Beklagten mit, dass sie auf ihre Schreiben vom 26.\nJuli 2017 (sic!) und vom 10. Dezember 2017 keine Antworten erhalten habe und deshalb nochmals\nEinspruch hinsichtlich der Festsetzung des Kindergeldes für NN erheben wolle (KG-Akte Bl 59 f.). Als\nAnlagen fügte sie diesem Schreiben einen Ausdruck von zwei E-Mails bei. Aus diesem Ausdruck ergibt\nsich, dass von dem E-Mail Konto des Ehemanns der Klägerin, […] (XX), am 26. August 2017 eine E-Mail\nversendet wurde. Diese E-Mail weist die folgenden Empfängerangaben für das E-Mail Konto aus:\n„Familienkasse-[…] @arbeitsargentur.de“ (sic!). Der Inhalt der E-Mail lautet: „Sehr geehrte Damen und\nHerren, anbei erhalten Sie unseren Einspruch über die Festsetzung unseres Kindes NN. Mit freundlichen\nGrüßen [… Klin]“. Weiter ergibt sich aus diesem Ausdruck, dass von diesem E-Mail Konto am 10.\nDezember 2017 eine weitere E-Mail mit diesen Empfängerdaten versendet wurde und darin von der\nKlägerin der Sachstand erfragt wurde (KG-Akte Bl 60); in dieser zweiten E-Mail ist unter den Anlagen die\nfolgende Datei genannt: „Einspruch Familienkasse.pdf“. Außerdem wurde neben einem\nEinspruchsschreiben - ohne Datum - gegen den Bescheid vom 18. August 2017 noch ein Schreiben an NN\nvon dessen Ausbildungsbetrieb vom 31. Juli 2017 beigefügt, in der ein Ausbildungsbeginn zum 1.\nSeptember 2017 mitgeteilt wird.\n4\nMit Einspruchsentscheidung vom 29. Juni 2018 verwarf die Beklagte den mit Schreiben vom 18. Juni 2018\nerhobenen Einspruch als unzulässig, da dieser Einspruch erst nach Fristablauf erhoben worden sei. Zur\nBegründung führte die Beklagte aus, dass die Einspruchsfrist auch nicht durch die Schreiben vom 26.\nAugust 2017 und 10. Dezember 2017 habe gewahrt werden können, da diese Schreiben nicht an die\nkorrekte E-Mail-Adresse adressiert waren. Die Verwendung der falschen E-Mail-Adresse „Familienkasse-\n[…] @ arbeitsargentur.de“ falle in die Risikosphäre der Einspruchsführerin und könne mangels Zugangs bei\nder Familienkasse keine Fristwahrung begründen. Wiedereinsetzung in den vorigen Stand könne nicht\ngewährt werden (wegen des weiteren Inhalts wird auf die Einspruchsentscheidung verwiesen; FG-Akte Bl 5-\n8).\n5\nDagegen richtet sich die Klage. Zur Begründung führt die Klägerin aus (Schreiben vom 5. Juli 2018 und 13.\nAugust 2018), dass der mit E-Mail vom 26. August 2017 übersendete Einspruch fristwahrend und zulässig\nsei. Der Rechtsbehelfsbelehrung: des angefochtenen Bescheids sei unter anderem zu entnehmen, dass der\nEinspruch auch elektronisch übermittelt werden könne. Die Einlegung des Einspruchs mittels E-Mail sei\ndemgemäß zulässig. Die Klägerin, habe ihren Einspruch auch an die im Bescheid vom 18. August 2017\nangegebene E-Mail-Adresse versendet. Alternative E-Mail-Adressen seien ihr nicht bekannt gewesen. Die\nBeklagte räume zwar ein, dass sie ihr Schreiben vom 26. August 2017 per E-Mail übersandt habe. Die\nBeklagte rüge jedoch, dass dieses Schreiben zwar an die im Bescheid vom 18. August 2017 angegebene\nE-Mail-Adresse gesendet worden sei, dies aber die falsche E-Mail-Adresse sei. Der\nRechtsbehelfsbelehrung: seien aber keine anderen E-Mail-Adressen zu entnehmen. Nach alledem sei der\nEinspruch fristwahrend und zulässig. Da NN sich seit dem 1. September 2017 in einem\nAusbildungsverhältnis befinde, seien auch die Voraussetzungen für die Gewährung von Kindergeld erfüllt.\n6\nAuf die Klageerwiderung der Beklagten vom 28. August 2018, dass die Klägerin die E-Mails an eine falsch\ngeschriebene E-Mail-Adresse „[…]@arbeitsargentur.de“ versendet habe, ergänzte die Klägerin ihr\nVorbringen mit Schriftsatz vom 18. Oktober 2018 wie folgt: Zwar sei richtig, dass die Klägerin bei der\nVersendung ihrer E-Mails den Buchstaben „r“ zu viel in die E-Mail-Adresse des Beklagten aufgenommen\nhabe. Dies habe die Klägerin aber nicht bemerkt. Sie habe auch nicht den üblichen Hinweis per E-Mail\nerhalten, dass diese E-Mail-Adresse nicht existierte und deshalb die E-Mail nicht zugestellt werden könne.\nDie Prozessbevollmächtigten hätten zur Kontrolle eine E-Mail an die von der Klägerin verwendete E-Mail-\nAdresse gesendet und ebenfalls keine Nachricht über die Unzustellbarkeit der E-Mail erhalten. Mit\nSchreiben vom 18. Juni 2018, also noch innerhalb der Jahresfrist des § 110 Abs. 4 Abgabenordnung (AO)\nhabe die Klägerin den Einspruch nachgeholt. Die Beklagte habe die unverschuldete Fristversäumnis der\nKlägerin erkennen können und hätte Wiedereinsetzung in den vorigen Stand gewähren müssen.\n7\nDie Klägerin beantragt sinngemäß,\nunter Wiedereinsetzung in den vorigen Stand wegen Versäumnis der Einspruchsfrist den Bescheid vom 18.\nAugust 2017 in Gestalt der Einspruchsentscheidung vom 29. Juni 2018 aufzuheben, soweit darin die\nFestsetzung von Kindergeld für NN ab September 2017 aufgehoben wurde.\n8\nDie Beklagte beantragt,\ndie Klage abzuweisen.\n9\nDie Beklagte verweist zur Begründung auf ihre Einspruchsentscheidung. Ergänzend weist sie darauf hin,\ndass der Schreibfehler in der E-Mail-Adresse der Beklagten in den Risikobereich der Klägerin falle.\n10\nWegen des weiteren Vorbringens der Beteiligten wird auf die ausgetauschten Schriftsätze verwiesen.\n11\nDie Beklagte hat zwischenzeitlich weitere Unterlagen von der Klägerin angefordert; die Klägerin hat mit\nFormblatt am 6. August 2018 einen neuen Antrag auf Festsetzung von Kindergeld gestellt und einen\nNachweis der Handwerkskammer vorgelegt, dass das Ausbildungsverhältnis 36 Monate und zwar vom 1.\nSeptember 2017 bis 31. August 2020 dauert.\n12\nDie Entscheidung ergeht mit Einverständnis der Beteiligten ohne mündliche Verhandlung (§ 90 Abs. 2\nFinanzgerichtsordnung <FGO>).\nII.\n13\nDie Klage ist unbegründet.\n14\n1. Die Beklagte hat zu Recht die Einsprüche der Klägerin gegen den Aufhebungsbescheid vom 18. August\n2017 als unzulässig verworfen.\n15\nDer Einspruch ist innerhalb eines Monats nach Bekanntgabe des Verwaltungsaktes einzulegen (§ 355 Abs.\n1 Satz 1 Abgabenordnung <AO>). Da der Kindergeldaufhebungsbescheid vom 18. August 2017 (Freitag)\nam 21. August 2017 (Montag) als bekanntgegeben gilt (§ 122 Abs. 2 Nr. 1 AO), endete die Frist für die\nEinlegung des Einspruchs am 21. September 2017 (Donnerstag). Das - in Papierform abgefasste -\nEinspruchsschreiben der Klägerin vom 16. Juni 2018 (KG-Akte Bl 61) ist am 20. Juni 2018 (Datum des\nScanvorgangs) und damit verspätet beim Beklagten eingegangen. Frühere Einspruchsschreiben der\nKlägerin sind der Beklagten nach Auffassung des erkennenden Senats nicht zugegangen; die Klägerin trägt\nnun nach der Klageerwiderung der Beklagten mit Schreiben vom 28. August 2018 auch nichts anderes\nmehr vor.\n16\n2. Der Klägerin ist auch nicht Wiedereinsetzung in den vorigen Stand wegen Versäumnis der Einspruchsfrist\nzu gewähren. Gemäß § 110 Abs. 1 Satz 1 AO ist, wenn jemand ohne Verschulden verhindert war, eine\ngesetzliche Frist einzuhalten, auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Der Antrag\nmuss binnen eines Monats nach Wegfall des Hindernisses gestellt werden (§ 110 Abs. 2 Satz 1 AO). Die\nTatsachen zur Begründung des Antrags sind bei der Antragstellung oder im Verfahren über den Antrag\nglaubhaft zu machen (§ 110 Abs. 2 Satz 2 AO).\n17\nIm Streitfall ist die Überschreitung der Einspruchsfrist durch ein Verschulden der Klägerin eingetreten.\n18\na) Die Übermittlung eines Einspruchsschreibens per E-Mail an die Beklagte ist gemäß § 87a Abs. 1 Satz 1\nAO ebenso zulässig wie die Einlegung des Einspruchs gemäß § 357 Abs. 1 AO (Schmieszek in Gosch,\nAO/FGO, § 87a AO Rz. 53 [Okt. 2017]); dies ist zu Recht zwischen den Beteiligten auch nicht streitig.\nJedoch ist der Beklagten kein Einspruch als elektronisches Dokument zugegangen.\n19\nDurch die Datumsangabe auf dem Ausdruck der E-Mail ist nur nachgewiesen, dass das\nEinspruchsschreiben am 26. August 2017, d.h. deutlich vor Ablauf der Einspruchsfrist, als Anhang zu der EMail\nversendet worden ist.\n20\nb) Nach ständiger Rechtsprechung (vgl. Beschluss des Bundesverfassungsgerichts <BVerfG> vom 5.\nFebruar 1980 2 BvR 914/79, BVerfGE 53, 148, BStBl II 1980, 544; BFH-Urteil vom 10. Juni 1999 V R 33/97,\nBFHE 189, 573, BStBl II 2000, 235; BFH-Beschluss vom 28. November 1996 XI R 76/95, BFH/NV 1997,\n497; Gräber/Stapperfend, FGO, 8. Aufl. 2015, § 56 Rz. 20 Stichwort: Postbeförderung) sind Verzögerungen\nbei der Briefbeförderung oder -zustellung, die ein Kläger nicht zu vertreten hat, nicht als dessen\nVerschulden zu werten. In der Verantwortung eines Klägers liegt nur, dass das zu befördernde Schriftstück\nzutreffend und vollständig adressiert ist (BFH-Beschluss vom 1. Dezember 1987 VI R 27/87, BFH/NV 1988,\n381; Gräber/Stapperfend, FGO, 8. Aufl. 2015, § 56 Rz. 20 Stichwort: Fehler des Beteiligten), den\npostalischen Bestimmungen entsprechend und so rechtzeitig zur Post geben wird, dass es nach den\norganisatorischen und betrieblichen Vorkehrungen der Post bei regelmäßigem Betriebsablauf den\nEmpfänger fristgerecht erreicht (BFH-Beschlüsse vom 4. Juli 1987 IX R 100/83, BFH/NV 1988, 26; vom 15.\nJuli 1992 X B 13/92, BFH/NV 1992, 763). Diesen Anforderungen entsprochen zu haben, muss der Kläger\nindessen schlüssig darlegen und glaubhaft machen (BFH-Beschlüsse vom 7. November 1995 VII R 34/94,\nBFH/NV 1996, 343; vom 18. März 1996 I R 103/95, BFH/NV 1996, 630).\n21\nAuf die Übermittlung von Einspruchsschreiben per E-Mail übertragen, bedeuten diese Rechtsgrundsätze,\ndass es im Verantwortungsbereich der Klägerin liegt, die E-Mail auch an die richtige E-Mail-Adresse des\nEmpfängers zu versenden und die Adressierung frei von Schreibfehlern vorzunehmen. Das Risiko einer\nfehlgeschlagenen Übermittlung trägt der Absender (Schmieszek in Gosch, AO/FGO, § 87a AO Rz. 56 [Okt.\n2017]).\n22\nc) Im Streitfall ist nach Auffassung des Senats davon auszugehen, dass ein Verschulden in der Sphäre der\nKlägerin für die Fristversäumnis ursächlich war.\n23\nDenn der fehlende Zugang des Einspruchsschreibens innerhalb der Einspruchsfrist beruht auf der Angabe\neiner falschen E-Mail-Adresse. Dies ergibt sich eindeutig aus der Angabe der gewählten E-Mail-Adresse\ndes Empfängers auf der vorgelegten Kopie. Die Adressenangabe weist den Schreibfehler\n„[…]@[…]argentur.de“ aus. Dieser Fehler ist der Klägerin zweimal unterlaufen, in der E-Mail vom 26. August\n2017 und der vom 10. Dezember 2017. Die Klägerin räumt diesen Fehler auch ein.\n24\nd) Die Klägerin muss aber auch solche Umstände darlegen, wonach ein Verschulden ihrerseits als Ursache\nfür die Fristversäumung auszuschließen ist (BFH-Beschlüsse vom 19. Dezember 1985 VIII R 3/85, BFH/NV\n1987, 648; vom 1. Dezember 1987 VI R 27/87, BFH/NV 1988, 381). Im Streitfall fehlt es an der Darlegung\nentsprechender Tatsachen innerhalb der in § 110 Abs. 2 Satz 1 AO festgesetzten Monatsfrist.\n25\naa) Nach § 110 Abs. 2 Satz 1 AO ist erforderlich, dass der Antragsteller innerhalb der Antragsfrist von\neinem Monat diejenigen Umstände darlegt, aus denen sich ergibt, dass ihn hinsichtlich der Versäumung der\ngesetzlichen Frist ein Verschulden nicht trifft. Nach Ablauf der Frist des § 110 Abs. 2 Satz 1 AO können\n(selbständige) Wiedereinsetzungsgründe nicht mehr nachgeschoben werden. Jedoch können unklare oder\nunvollständige Angaben auch nach Ablauf der Antragsfrist noch erläutert oder ergänzt werden, sofern\ninnerhalb der Frist der Kern der Wiedereinsetzungsgründe in sich schlüssig vorgetragen ist. Das erfordert\neine substantiierte, in sich schlüssige Darstellung aller entscheidungserheblichen Umstände innerhalb der\nMonatsfrist (BFH-Urteile vom 31. Januar 2017 IX R 19/16, BFH/NV 2017, 885 Rz. 21, juris; vom 20.\nNovember 2013 X R 2/12, BFHE 243, 158, BStBl II 2014, 236; vom 18. März 2014 VIII R 33/12, BFHE 246,\n1, BStBl II 2014, 922).\n26\nDie Monatsfrist beginnt mit dem Wegfall des Hindernisses, das den Beteiligten von der Wahrung der Frist\nabgehalten hat („Wiedereinsetzungsgrund“). Das ist der Tag an dem der Beteiligte bei gebotener Sorgfalt\nhätte erkennen können, dass er die Frist, in die Wiedereinsetzung gewährt werden soll, versäumt hat\n(Klein/Rätke, AO, 14. Aufl. 2018, § 110 Rz. 101 m.w.N.). Ist dem Beteiligten - wie im Streitfall der Klägerin -\ndie Fristversäumung nicht bekannt, fällt das Hindernis spätestens weg, wenn die Behörde ihm oder seinem\nVertreter (BFH-Urteil vom 10. März 1994 IX R 43/90, BFH/NV 1994, 814) mitteilt, dass die Frist versäumt ist\n(BFH-Urteile vom 6. März 2006 X B 104/05, BFH/NV 2006, 1136; vom 21. Oktober 2008 V R 19/08,\nBFH/NV 2009, 396; Brandis in Tipke/Kruse, AO/FGO, § 110 AO Rz. 31 [Okt. 2018]).\n27\nbb) Nach Auffassung des Senats beginnt diese Monatsfrist im Streitfall allerspätestens mit der Bekanntgabe\nder Einspruchsentscheidung vom 29. Juni 2018 (abgesandt am 2. Juli 2018), denn in diesem Augenblick ist\ndie Klägerin darüber in Kenntnis gesetzt worden, dass sie die Einspruchsfrist deshalb nicht eingehalten hat,\nweil der Einspruch der Beklagten nicht zugegangen ist. Damit ist das Hindernis, die Einspruchsfrist\neinzuhalten, weggefallen. Die Klägerin hat jedoch nicht binnen der Monatsfrist ab dem 5. Juli 2018\n(Donnerstag) die Umstände vorgetragen, aus denen sich das fehlende Verschulden für die Fristversäumnis\nergibt. Da im Streitfall ein lückenloser schlüssiger Vortrag während der Antragsfrist des § 110 Abs. 2 Satz 1\nAO nicht erfolgt ist, der den Senat in die Lage versetzt hätte zu entscheiden, dass die Klägerin kein\nVerschulden an der Fristversäumnis getroffen hat, scheidet die Wiedereinsetzung in den vorigen Stand aus.\n28\nDie Klägerin wurde erstmals mit der Einspruchsentscheidung darauf hingewiesen, dass die beiden E-Mails\nvom 26. August und 10. Dezember 2017 an die falsche E-Mail-Adresse „[…]@[…]argentur.de“ übersendet\nwurden. Die Klägerin hat jedoch diesen Hinweis der Beklagten auf ihren Adressierungsfehler mit ihrer am\n11. Juli 2018 bei Gericht eingegangenen Klageschrift noch nicht thematisiert, sondern nur darauf verwiesen,\ndass diese E-Mail-Adresse im angefochtenen Bescheid genannt wurde. Daraus schließt der Senat, dass\ndieser Hinweis in der Einspruchsentscheidung von der Klägerin nicht richtig verstanden wurde. Auch die\nvon den Prozessbevollmächtigten der Klägerin verfasste Klagebegründung im Schreiben vom 13. August\n2018 thematisiert diesen Adressierungsfehler noch nicht, sondern verweist nur darauf, dass die Klägerin\nkeine andere Möglichkeit hatte, als die im angefochtenen Verwaltungsakt genannte E-Mail-Adresse zu\nverwenden und dass der Einspruch demgemäß fristwahrend und somit zulässig gewesen sei. Jedoch hätte\nbei sorgsamer Prüfung des Falles der Klägerin und den Prozessbevollmächtigten der Klägerin auffallen\nmüssen, dass die Ausführungen der Beklagten in der Einspruchsentscheidung zu der falschen E-Mail-\nAdresse bereits den Hinweis auf den Rechtschreibfehler der Klägerin in der E-Mail-Adresse beinhalteten.\nDamit hätten die Bevollmächtigte der Klägerin bei der gebotenen Sorgfalt in diesem Augenblick erkennen\nkönnen, dass die Einspruchsfrist versäumt war und dass der Grund für die Fristversäumnis auch in dem\nSchreibfehler bei der E-Mail-Adresse lag.\n29\nDa ein Schreibfehler bei der Adressierung nur ausnahmsweise eine Wiedereinsetzung in den vorigen Stand\nbegründen kann (Klein/Rätke, AO, 14. Aufl. 2018, § 110 Rz. 24 m.w.N.), hätte die Klägerin innerhalb der\nMonatsfrist weitere Tatsachen darlegen und spätestens im Klageverfahren gemäß § 110 Abs. 2 Satz 2 AO\nauch glaubhaft machen müssen.\n30\nNach Auffassung des erkennenden Senats gehört zu diesen weiteren Umständen die innerhalb der\nMonatsfrist vorzutragen sind, etwa auch der Hinweis, wer die E-Mail verfasst hat, ob die Klägerin (oder\ngegebenenfalls ein Dritter) vor Versendung die E-Mail auf die korrekte Adressierung kontrolliert hat, ob bei\ndiesem unterlaufenen Adressierungsfehler ein entsprechender Hinweis auf die Unzustellbarkeit der E-Mail\nzurückkam, ob eine Kontrolle auf den Zugang einer so genannten Unzustellbarkeitsmail (Bounce Message:\nrecipient e-mail adress unknown = Empfängeradresse ist nicht bekannt) erfolgt ist. Es hätte sich für die\nKlägerin und ihren Prozessbevollmächtigten auch aufdrängen müssen, dass diese weiteren Hinweise\nerforderlich sein müssen, da die E-Mail nicht unter einer eigenen E-Mail-Adresse der Klägerin versendet\nwurde, sondern unter der des XX.\n31\ncc) Aber spätestens mit den weiteren Erläuterungen in der Klageerwiderung der Beklagten im Schriftsatz\nvom 28. August 2018, der den Prozessbevollmächtigten der Klägerin mit gerichtlichem Schreiben vom 5.\nSeptember 2018 zur Stellungnahme übersandt wurde, haben diesen erkannt, dass die Beklagte in der\nEinspruchsentscheidung mit der falschen E-Mail-Adresse den Schreibfehler der Klägerin\n„[…]@[…]argentur.de“ statt „[…]agentur.de“ gemeint haben musste.\n32\nSelbst wenn man die Möglichkeit der Kenntnisnahme des Schriftsatzes vom 28. August 2018 durch die\nProzessbevollmächtigten erst als den Zeitpunkt des Wegfalls des Hindernisses betrachtet, sind die\nTatsachen zur Begründung des Antrags auf Wiedereinsetzung nicht in der Monatsfrist des § 110 Abs. 2\nSatz 1 AO vorgetragen worden.\n33\nDenn die Klägerin hat erst im Klageverfahren durch ihre Prozessbevollmächtigten im Schriftsatz vom 18.\nOktober 2018 darauf hingewiesen, dass die Klägerin das „r“ zu viel in der Adressenangabe nicht bemerkt\nhat und dass sie auch keinen Hinweis erhalten hat, dass die E-Mail nicht zugeleitet werden konnte, da diese\nAdresse nicht existiert. Bei der Prüfung der Frage, ob ein fehlendes Verschulden im Sinne des § 110 AO\nvorliegt, kann aber dieser Tatsachenvortrag nicht mehr berücksichtigt werden. Denn diese Tatsachen\nwurden sowohl mehr als einen Monat nach einem Wegfall des Hindernisses mit Kenntnisnahme des\nSchriftsatzes vom 28. August 2018 als auch nach einem Wegfall des Hindernisses mit Kenntnisnahme der\nEinspruchsentscheidung vom 29. Juni 2018 vorgetragen.\n34\n3. Die Kostenentscheidung beruht auf § 135 Abs. 1 FGO.\n\n"
+}

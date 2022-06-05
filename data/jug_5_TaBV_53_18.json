@@ -1,0 +1,365 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachversicherungen",
+            "end": 148,
+            "start": 130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 161,
+            "start": 149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 212,
+            "start": 211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 237,
+            "start": 236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 256,
+            "start": 255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 271,
+            "start": 270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 283,
+            "start": 272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherungsvertrag",
+            "end": 550,
+            "start": 530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 561,
+            "start": 551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 616,
+            "start": 614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 627,
+            "start": 617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27843",
+            "end": 647,
+            "start": 642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 653,
+            "start": 648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 842,
+            "start": 828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 850,
+            "start": 844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 852,
+            "start": 851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 855,
+            "start": 854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichtet",
+            "end": 969,
+            "start": 959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 973,
+            "start": 971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 976,
+            "start": 975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 1021,
+            "start": 1012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 1241,
+            "start": 1232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 1519,
+            "start": 1514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 1613,
+            "start": 1599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1616,
+            "start": 1615,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1918,
+            "start": 1917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1921,
+            "start": 1920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 2016,
+            "start": 2013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2019,
+            "start": 2018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeräumt",
+            "end": 2148,
+            "start": 2138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lohngerechtigkeit",
+            "end": 2275,
+            "start": 2258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängt",
+            "end": 2430,
+            "start": 2423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsentgelt",
+            "end": 2489,
+            "start": 2475,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2629,
+            "start": 2628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2632,
+            "start": 2631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 2754,
+            "start": 2749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Durchführungsweg",
+            "end": 3120,
+            "start": 3104,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3270,
+            "start": 3269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzierung",
+            "end": 3615,
+            "start": 3603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3618,
+            "start": 3617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 3818,
+            "start": 3814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Altersversorgung",
+            "end": 3996,
+            "start": 3980,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4272,
+            "start": 4271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4275,
+            "start": 4274,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4671,
+            "start": 4670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 4773,
+            "start": 4771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsversprechens",
+            "end": 4852,
+            "start": 4831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auslagert",
+            "end": 5000,
+            "start": 4991,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5073,
+            "start": 5072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5076,
+            "start": 5075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 5297,
+            "start": 5294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5301,
+            "start": 5299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitbestimmungsfrei",
+            "end": 5464,
+            "start": 5446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 5737,
+            "start": 5735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 5742,
+            "start": 5739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5746,
+            "start": 5744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 5817,
+            "start": 5810,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5887,
+            "start": 5886,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG München, Beschluss v. 19.09.2018 – 5 TaBV 53/18\nTitel:\nEinsetzung einer Einigungsstelle zur Regelung über den Abschluss von\nNachversicherungen\nNormenketten:\nArbGG § 64 Abs. 6, § 87 Abs. 2, § 100 Abs. 2 S. 4\nBetrVG § 87 Abs. 1 Nr. 8\nZPO § 313 a Abs. 1\nGKG § 2 Abs. 2\nSchlagworte:\nBetriebsrat, Entgeltcharakter, Beschlussverfahren, Arbeitsentgelt, Arbeitnehmer, Arbeitgeber,\nAltersversorgung, Mitbestimmungsrecht, Mitbestimmungsrecht des Betriebsrates,\nRückdeckungsversicherung, Sozialeinrichtung, Verfahrensbevollmächtigter, Versicherungsvertrag\nVorinstanz:\nArbG München, Beschluss vom 12.07.2018 – 32 BV 261/18\nFundstelle:\nBeckRS 2018, 27843\nTenor\nDie Beschwerde des Gesamtbetriebsrats und Beteiligen zu 1) gegen den Beschluss des Arbeitsgerichts\nMünchen von 12.07.2018 (fälschlicherweise datiert auf den 13.07.2018) wird zurückgewiesen.\nGründe\nI.\n1\nAuf die Darstellung des Tatbestandes wird gem. §§ 87 Abs. 2, 64 Abs. 6 ArbGG i.V.m. § 313 a Abs. 1 ZPO\nverzichtet.\nII.\n2\nDie zulässige Beschwerde ist nicht begründet. Das Arbeitsgericht hat im Ergebnis zutreffend die Einsetzung\neiner Einigungsstelle zur Regelung über den Abschluss von Nachversicherungen gemäß § 2 Ziffer 1 des\nGruppenvertrages mit der ... Lebensversicherung abgelehnt. Ein Mitbestimmungsrecht des Betriebsrats im\nRahmen einer etwa zu treffenden Entscheidung des Arbeitgebers über die Aufstockung einer\nRückdeckungsversicherung zur Sicherung von Ansprüchen aus betrieblicher Altersversorgung hier in\nGestalt einer Direktversicherung besteht nicht. Aus diesem Grunde ist auch der in der Beschwerdeinstanz\ngestellte Hilfsantrag zurückzuweisen.\n3\n1. Richtigerweise scheidet ein Mitbestimmungsrecht gemäß § 87 Abs. 1 Nr. 8 BetrVG von vornherein aus,\nda eine Rückdeckungsversicherung, die der Arbeitgeber zur Finanzierung von Versorgungszusagen\nabschließt keine Sozialeinrichtung in diesem Sinne ist (BAG 12.06.1975, 3 ABR 137/73, zitiert nach juris).\n4\n2. Auch ein Mitbestimmungsrecht gemäß § 87 Abs. 1 Ziffer 10 BetrVG scheidet offensichtlich aus.\n5\n2.1 Durch diese Norm wird dem Betriebsrat ein umfassendes Mitbestimmungsrecht bei der Gestaltung des\nArbeitsentgeltes eingeräumt. Die Mitbestimmung dient insoweit nicht der Lohnpolitik, sondern der\nLohnfindung unter dem Gesichtspunkt der Lohngerechtigkeit. Zweck der Mitbestimmung ist eine Beteiligung\nan den Entscheidungen, von denen bei der Erbringung der Entgeltleistung die Verteilungsgerechtigkeit\nabhängt. Dabei bezieht sich der Lohnbegriff auf das Arbeitsentgelt. Erfasst werden deshalb nur\nvermögenswerte Arbeitgeberleistungen mit Entgeltcharakter (Richardi-Richardi § 87 BetrVG Rn. 750 a ff.,\nm.w.N.).\n6\n2.2 Diese Grundsätze gelten auch bei Leistungen der betrieblichen Altersversorgung, die regelmäßig\nEntgeltcharakter haben. Der Mitbestimmung unterliegen in diesem Rahmen alle Entscheidungen über die\nVerteilung von Versorgungsleistungen einschließlich der Gestaltung des „Leistungsplanes“ (BAG\n12.06.1975, 3 ABR 137/73, zitiert nach juris). Eine Rückdeckungsversicherung ist aber kein Teil der\nLeistungen aus einer betrieblichen Altersversorgung und auch kein mittelbarer Durchführungsweg. Vielmehr\nhandelt es sich bei einer Rückdeckungsversicherung lediglich um ein Finanzierungsinstrument des\nArbeitgebers (BAG 19.05.2016, 3 AZR 766/14). Entgegen der vom Arbeitgeber gewählten Bezeichnung\nhandelt es sich daher bei dem von ihm durchgeführten Abschluss einer Lebensversicherung als\nRückdeckungsversicherung zur zusätzlichen Sicherung von Leistungen aus der betrieblichen\nAltersversorgung nicht um eine an die Arbeitnehmer gewährte Leistung, sondern nur um einen Weg der\nFinanzierung.\n7\n2.3 Eine Rückdeckungsversicherung führt auch nicht zu einer Selbstbindung des Arbeitgebers, der über die\nAnsprüche aus dem Versicherungsvertrag frei verfügen und diese insbesondere auch beleihen kann. Das\nGesetz zur Verbesserung der betrieblichen Altersversorgung erwähnt deshalb folgerichtig die\nRückdeckungsversicherungen gar nicht als Form der betrieblichen Altersversorgung. Wie der Arbeitgeber\nseine betrieblichen Versorgungsleistungen finanzieren will, gehört in den Bereich seiner unternehmerischen\nEntscheidungen und berührt die Interessen der durch eine Rückgeldzusage begünstigten Arbeitnehmer\nnicht unmittelbar (BAG 12.06.1975, a.a.O., Rn 13).\n8\n2.4 Rückdeckungskonzeptionen sind daher generell nicht mitbestimmungspflichtig, da sie ausschließlich die\nfinanztechnische Seite, also die Frage der Erfüllung der Versorgungsverpflichtungen und der Bereitstellung\nhinreichender Vermögensmittel betrifft (Röszler, Doetsch, Jäger, Auslagerung von Pensionsverpflichtungen\nim Rahmen einer Bilanzierung gemäß SFAS bzw. IAS, Betriebsberater 1999, 2498). Bei\nRückdeckungsversicherungen sichert der Arbeitgeber seine Risiken aus dem Leistungsversprechen ab.\nDiese Mittelanlagen bestimmen aber nicht das Ausmaß des Leistungsversprechens. Folglich kann der\nArbeitgeber mitbestimmungsfrei darüber entscheiden, ob, wieviel und wie er Mittel zur Absicherung der\nAltersversorgung auslagert. (Boecken/Düwell/Diller/Hanau-Schwarze § 87 BetrVG Rn. 144 Ziffer 8.1.2).\n9\nDa es an einem Entgeltcharakter der Rückdeckungsversicherung fehlt, scheidet schon von daher nicht nur\nnach einhelliger Meinung in der Literatur, sondern auch der Rechtsprechung ein Mitbestimmungsrecht\noffensichtlich aus.\n10\nAuch eine Entscheidung des Arbeitgebers über eine eventuelle Nachversicherung im Sinne einer Erhöhung\nder Rückdeckungsversicherung ist folglich mitbestimmungsfrei. Da ein Mitbestimmungsrecht nicht besteht,\nkommt es auch auf die Frage, ob und inwieweit der Arbeitgeber möglicherweise aufgrund vertraglicher\nBindungen, die er im Verhältnis zu seinen Arbeitnehmern eingegangen ist, in seiner\nErmessensentscheidung beschränkt ist, nicht an.\nIII.\n11\nGemäß § 2 Abs. 2 GKG werden im Beschlussverfahren keine Kosten erhoben. Eine Rechtsbeschwerde\nfindet nicht statt (§ 100 Abs. 2 Satz 4 ArbGG).\n\n"
+}

@@ -1,0 +1,2027 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 71,
+            "start": 69,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 77,
+            "start": 72,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 230,
+            "start": 218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 243,
+            "start": 231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 284,
+            "start": 283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 312,
+            "start": 311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 329,
+            "start": 328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 339,
+            "start": 330,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 586,
+            "start": 585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 705,
+            "start": 702,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 715,
+            "start": 714,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 741,
+            "start": 740,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 948,
+            "start": 947,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 958,
+            "start": 957,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 984,
+            "start": 983,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1285,
+            "start": 1284,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1295,
+            "start": 1294,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1321,
+            "start": 1320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1506,
+            "start": 1500,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1516,
+            "start": 1515,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1542,
+            "start": 1541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1554,
+            "start": 1543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahrensverschleppung",
+            "end": 1693,
+            "start": 1670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1704,
+            "start": 1694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1761,
+            "start": 1759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1772,
+            "start": 1762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35088",
+            "end": 1792,
+            "start": 1787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1798,
+            "start": 1793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 2133,
+            "start": 2124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 2165,
+            "start": 2155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückverwiesen",
+            "end": 2273,
+            "start": 2258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 2333,
+            "start": 2323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 2501,
+            "start": 2492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 2522,
+            "start": 2503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 2524,
+            "start": 2523,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2653,
+            "start": 2652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kind",
+            "end": 2816,
+            "start": 2812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anhängig",
+            "end": 2915,
+            "start": 2907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 3045,
+            "start": 3041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 3149,
+            "start": 3140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergangen",
+            "end": 3236,
+            "start": 3228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 3405,
+            "start": 3401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 3447,
+            "start": 3439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umgangsrecht",
+            "end": 3587,
+            "start": 3575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 3744,
+            "start": 3734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 3813,
+            "start": 3805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergangen",
+            "end": 3876,
+            "start": 3868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entziehen",
+            "end": 4006,
+            "start": 3997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 4071,
+            "start": 4057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergangen",
+            "end": 4134,
+            "start": 4126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilen",
+            "end": 4320,
+            "start": 4312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 4369,
+            "start": 4361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergangen",
+            "end": 4432,
+            "start": 4424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 4435,
+            "start": 4434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahren",
+            "end": 4625,
+            "start": 4616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 4628,
+            "start": 4627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 4996,
+            "start": 4990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 5384,
+            "start": 5378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 5387,
+            "start": 5386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amtsgerichts",
+            "end": 5540,
+            "start": 5528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 5843,
+            "start": 5841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getroffen",
+            "end": 6012,
+            "start": 6003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreiben",
+            "end": 6129,
+            "start": 6120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6251,
+            "start": 6245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlängert",
+            "end": 6352,
+            "start": 6342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugutekomme",
+            "end": 6502,
+            "start": 6491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 6894,
+            "start": 6887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 7057,
+            "start": 7051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 7200,
+            "start": 7192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahren",
+            "end": 7384,
+            "start": 7375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 7562,
+            "start": 7559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 7565,
+            "start": 7564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 7730,
+            "start": 7726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geführt",
+            "end": 8054,
+            "start": 8047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 8193,
+            "start": 8179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 8311,
+            "start": 8306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 8314,
+            "start": 8313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 8881,
+            "start": 8875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 8884,
+            "start": 8883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 9224,
+            "start": 9222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehörte",
+            "end": 9435,
+            "start": 9426,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9546,
+            "start": 9545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 9549,
+            "start": 9548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 9718,
+            "start": 9710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 9721,
+            "start": 9720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 9991,
+            "start": 9986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befand",
+            "end": 10136,
+            "start": 10130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsakte",
+            "end": 10365,
+            "start": 10353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbunden",
+            "end": 10621,
+            "start": 10612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 10730,
+            "start": 10728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 10864,
+            "start": 10850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 11009,
+            "start": 11004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 11384,
+            "start": 11380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "paginiert",
+            "end": 11442,
+            "start": 11433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Akte",
+            "end": 11581,
+            "start": 11577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 11860,
+            "start": 11857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 11864,
+            "start": 11862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 12259,
+            "start": 12254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwiesen",
+            "end": 12437,
+            "start": 12429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 12610,
+            "start": 12604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schaden",
+            "end": 12785,
+            "start": 12778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auffindbar",
+            "end": 12933,
+            "start": 12923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "meldeten",
+            "end": 13115,
+            "start": 13107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lüge",
+            "end": 13398,
+            "start": 13394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 13402,
+            "start": 13400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 13541,
+            "start": 13533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 13545,
+            "start": 13543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 13810,
+            "start": 13801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 13928,
+            "start": 13914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 13973,
+            "start": 13963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beteiligten",
+            "end": 14091,
+            "start": 14080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 14180,
+            "start": 14176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschluss",
+            "end": 14284,
+            "start": 14275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 14288,
+            "start": 14286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 14615,
+            "start": 14610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 14836,
+            "start": 14829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 14950,
+            "start": 14944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 14954,
+            "start": 14952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 15390,
+            "start": 15388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 15768,
+            "start": 15767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 15879,
+            "start": 15873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 16025,
+            "start": 16021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 16273,
+            "start": 16268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verneint",
+            "end": 16517,
+            "start": 16509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 16521,
+            "start": 16519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 16686,
+            "start": 16684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 16836,
+            "start": 16832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 16875,
+            "start": 16871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 16980,
+            "start": 16974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 17114,
+            "start": 17110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 17254,
+            "start": 17247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 17258,
+            "start": 17256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 17424,
+            "start": 17422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 17464,
+            "start": 17456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 17468,
+            "start": 17466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergehe",
+            "end": 17900,
+            "start": 17894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 18247,
+            "start": 18242,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18547,
+            "start": 18546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ablehnungsgesuch",
+            "end": 18973,
+            "start": 18957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zivilsenats",
+            "end": 19190,
+            "start": 19179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitwirken",
+            "end": 19390,
+            "start": 19381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 19394,
+            "start": 19392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fühle",
+            "end": 19718,
+            "start": 19713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheide",
+            "end": 19872,
+            "start": 19862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 20259,
+            "start": 20255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 20573,
+            "start": 20569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 20577,
+            "start": 20575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 20942,
+            "start": 20932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 21229,
+            "start": 21223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 21293,
+            "start": 21289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehe",
+            "end": 21636,
+            "start": 21632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 21849,
+            "start": 21844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vaters",
+            "end": 21957,
+            "start": 21951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 21961,
+            "start": 21959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 22186,
+            "start": 22181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 22190,
+            "start": 22188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 22194,
+            "start": 22192,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22453,
+            "start": 22452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 22457,
+            "start": 22455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 22555,
+            "start": 22548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 22559,
+            "start": 22557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 22956,
+            "start": 22951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 23204,
+            "start": 23198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 23208,
+            "start": 23206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befasst",
+            "end": 23473,
+            "start": 23466,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23566,
+            "start": 23565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 23570,
+            "start": 23568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 23668,
+            "start": 23661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 23672,
+            "start": 23670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 23841,
+            "start": 23831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 23993,
+            "start": 23990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstjüngsten",
+            "end": 24338,
+            "start": 24324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehandhabt",
+            "end": 24438,
+            "start": 24428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 24628,
+            "start": 24625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 24632,
+            "start": 24630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 24868,
+            "start": 24859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 25210,
+            "start": 25208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 25358,
+            "start": 25354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 25595,
+            "start": 25590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 25921,
+            "start": 25917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestanden",
+            "end": 26188,
+            "start": 26179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 26371,
+            "start": 26365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vaters",
+            "end": 26506,
+            "start": 26500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeführerin",
+            "end": 26613,
+            "start": 26595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 26617,
+            "start": 26615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 26884,
+            "start": 26880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 26889,
+            "start": 26886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 26893,
+            "start": 26891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgesehen",
+            "end": 27010,
+            "start": 27001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 27014,
+            "start": 27012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 27104,
+            "start": 27097,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 27108,
+            "start": 27106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 27112,
+            "start": 27110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 27243,
+            "start": 27235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 27247,
+            "start": 27245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wendet",
+            "end": 27353,
+            "start": 27347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 27485,
+            "start": 27478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 27771,
+            "start": 27766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigten",
+            "end": 28067,
+            "start": 28053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellten",
+            "end": 28312,
+            "start": 28301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinander",
+            "end": 28495,
+            "start": 28484,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28716,
+            "start": 28715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 28720,
+            "start": 28718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wendet",
+            "end": 28877,
+            "start": 28871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 28881,
+            "start": 28879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestützt",
+            "end": 29023,
+            "start": 29015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfassungsverstöße",
+            "end": 29165,
+            "start": 29146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 29169,
+            "start": 29167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschöpft",
+            "end": 29309,
+            "start": 29300,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 29653,
+            "start": 29652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 29657,
+            "start": 29655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 29761,
+            "start": 29753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 29765,
+            "start": 29763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 29967,
+            "start": 29963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 30139,
+            "start": 30135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 30249,
+            "start": 30245,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30446,
+            "start": 30445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darzulegen",
+            "end": 30748,
+            "start": 30738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 30957,
+            "start": 30954,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 31130,
+            "start": 31127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 31134,
+            "start": 31132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 31200,
+            "start": 31192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschöpft",
+            "end": 31265,
+            "start": 31256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 31398,
+            "start": 31391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "V",
+            "end": 31401,
+            "start": 31400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 31405,
+            "start": 31403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 31486,
+            "start": 31477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BV",
+            "end": 31771,
+            "start": 31769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 31775,
+            "start": 31773,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32054,
+            "start": 32053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "maßgeblich",
+            "end": 32162,
+            "start": 32152,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32258,
+            "start": 32257,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32439,
+            "start": 32438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 32443,
+            "start": 32441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelrichter",
+            "end": 32730,
+            "start": 32717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 32932,
+            "start": 32929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersehen",
+            "end": 33076,
+            "start": 33067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 33301,
+            "start": 33298,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33435,
+            "start": 33434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 33439,
+            "start": 33437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 33837,
+            "start": 33834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BV",
+            "end": 33962,
+            "start": 33960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 33966,
+            "start": 33964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidung",
+            "end": 34130,
+            "start": 34118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 34134,
+            "start": 34132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 34217,
+            "start": 34206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 34221,
+            "start": 34219,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34398,
+            "start": 34397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbar",
+            "end": 34564,
+            "start": 34555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 34568,
+            "start": 34566,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34851,
+            "start": 34850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwägungen",
+            "end": 35073,
+            "start": 35063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 35160,
+            "start": 35150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 35372,
+            "start": 35368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entscheidet",
+            "end": 35805,
+            "start": 35794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibe",
+            "end": 36116,
+            "start": 36110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebiete",
+            "end": 36307,
+            "start": 36300,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 36678,
+            "start": 36677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 36878,
+            "start": 36872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 36882,
+            "start": 36880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Befangenheit",
+            "end": 37054,
+            "start": 37042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2017",
+            "end": 37226,
+            "start": 37222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 37348,
+            "start": 37343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 37545,
+            "start": 37538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 37549,
+            "start": 37547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 37880,
+            "start": 37877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 38119,
+            "start": 38114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 38430,
+            "start": 38425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befand",
+            "end": 38663,
+            "start": 38657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 38861,
+            "start": 38852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 38865,
+            "start": 38863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehlverständnis",
+            "end": 39131,
+            "start": 39116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstelle",
+            "end": 39464,
+            "start": 39455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzutreffend",
+            "end": 39595,
+            "start": 39583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "manipuliert",
+            "end": 39940,
+            "start": 39929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 40066,
+            "start": 40060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behauptung",
+            "end": 40246,
+            "start": 40236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 40325,
+            "start": 40324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 40329,
+            "start": 40327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 40846,
+            "start": 40840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlassen",
+            "end": 40925,
+            "start": 40917,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 41132,
+            "start": 41131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existent",
+            "end": 41264,
+            "start": 41256,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 41431,
+            "start": 41430,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 41682,
+            "start": 41681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 41686,
+            "start": 41684,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 42142,
+            "start": 42141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 42146,
+            "start": 42144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestätigung",
+            "end": 42641,
+            "start": 42630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 43027,
+            "start": 43019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 43190,
+            "start": 43185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wenden",
+            "end": 43560,
+            "start": 43554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 43800,
+            "start": 43797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 43804,
+            "start": 43802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 44255,
+            "start": 44240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 44632,
+            "start": 44623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 44851,
+            "start": 44845,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45140,
+            "start": 45139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leere",
+            "end": 45473,
+            "start": 45468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 45477,
+            "start": 45475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klärung",
+            "end": 45684,
+            "start": 45677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigen",
+            "end": 45999,
+            "start": 45986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 46003,
+            "start": 46001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfahren",
+            "end": 46507,
+            "start": 46498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 46767,
+            "start": 46756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 46771,
+            "start": 46769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 47116,
+            "start": 47107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 47413,
+            "start": 47410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 47573,
+            "start": 47563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinauszuschieben",
+            "end": 47779,
+            "start": 47763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 47783,
+            "start": 47781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 47970,
+            "start": 47962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 48134,
+            "start": 48129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 48138,
+            "start": 48136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 48384,
+            "start": 48370,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 48631,
+            "start": 48620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 48635,
+            "start": 48633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwähnung",
+            "end": 48920,
+            "start": 48911,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 49161,
+            "start": 49160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 49698,
+            "start": 49695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 49702,
+            "start": 49700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwähnt",
+            "end": 49899,
+            "start": 49892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehindert",
+            "end": 50141,
+            "start": 50132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzögert",
+            "end": 50326,
+            "start": 50317,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 50513,
+            "start": 50510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 50517,
+            "start": 50515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klärung",
+            "end": 51068,
+            "start": 51061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stand",
+            "end": 51281,
+            "start": 51276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 51285,
+            "start": 51283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 51340,
+            "start": 51337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verworfen",
+            "end": 51521,
+            "start": 51512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VI",
+            "end": 51525,
+            "start": 51523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 51529,
+            "start": 51527,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 51588,
+            "start": 51587,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 51783,
+            "start": 51782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 51980,
+            "start": 51977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbleibt",
+            "end": 52115,
+            "start": 52104,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 23.10.2018 – Vf. 65-VI-17, Vf. 66-VI-17\nTitel:\nWegen Verstoßes gegen die Gewährleistung des gesetzlichen Richters teilweise\nerfolgreiche Verfassungsbeschwerde gegen familiengerichtliche Entscheidung\nNormenketten:\nBV Art. 86 Abs. 1 S. 2, Art. 118 Abs. 1\nZPO § 47 Abs. 1, § 568 S. 1\nFamFG § 6 Abs. 2\nLeitsätze:\nAufhebung eines zivilgerichtlichen Beschlusses, mit dem die sofortige Beschwerde gegen die\nZurückweisung von Richterablehnungsgesuchen zurückgewiesen wurde, wegen Verletzung des\nGrundrechts auf den gesetzlichen Richter (Art. 86 Abs. 1 Satz 2 BV).\n1. Die Nichtberücksichtigung einer offensichtlich einschlägigen Norm stellt einen Verstoß gegen das\nWillkürverbot dar. (Rn. 40) (redaktioneller Leitsatz)\n2. Eine Entscheidung durch einen kollegial besetzten Spruchkörper anstelle des zuständigen\nEinzelrichters verstößt gegen die Gewährleistung des gesetzlichen Richters (Anschluss an BVerfG\nBeckRS 2009, 35011). (Rn. 42) (redaktioneller Leitsatz)\n3. Nur über gänzlich untaugliche oder rechtsmissbräuchliche Ablehnungsgesuche darf abweichend\nvon § 45 Abs. 1 ZPO im vereinfachten Ablehnungsverfahren durch den ursprünglich zuständigen\nSpruchkörper unter Mitwirkung des abgelehnten Richters entschieden werden (Anschluss an\nBVerfG BeckRS 2015, 52391). (Rn. 46) (redaktioneller Leitsatz)\n4. Auch im Fall der Erhebung von Verzögerungsrügen durch eine Partei können deren\nAblehnungsgesuche als rechtsmissbräuchlich, weil auf\nVerfahrensverschleppung zielend, angesehen werden. (Rn. 58) (redaktioneller Leitsatz)\nSchlagworte:\nWillkür, gesetzlicher Richter, Kollegialgericht, Einzelrichter, Ablehnungsgesuch, Wartepflicht,\nVerzögerungsrüge, Verfahrensverschleppung\nVorinstanz:\nOLG München, Endbeschluss vom 07.08.2017 – 33 WF 238/17\nFundstelle:\nBeckRS 2018, 35088\nTenor\n1. Die Nrn. II und IV des Beschlusses des Oberlandesgerichts München vom 7. August 2017 (berichtigt am\n27. September 2017) Az. 33 WF 238/17 u. a. verstoßen gegen das Grundrecht auf den gesetzlichen Richter\n(Art. 86 Abs. 1 Satz 2 BV), soweit sie die Verfahren Az. 33 WF 1635/16, 33 WF 1636/16, 33 WF 1638/16\nund 33 WF 1639/16 betreffen. Sie werden insoweit aufgehoben. Die Sache wird in diesem Umfang zur\nerneuten Entscheidung an das Oberlandesgericht München zurückverwiesen.\n2. Im Übrigen werden die Verfassungsbeschwerden abgewiesen.\n3. Der Beschwerdeführerin sind die durch das Verfassungsbeschwerdeverfahren Vf. 65-VI-17 verursachten\nnotwendigen Auslagen zur Hälfte aus der Staatskasse zu erstatten.\nEntscheidungsgründe\nI.\n1\nDie Beschwerdeführerin ist die allein sorgeberechtigte Mutter des am 18. Januar 2009 geborenen Kindes R.\n(im Folgenden: Kind). Sie und der nicht mit ihr verheiratete leibliche Vater des Kindes (im Folgenden: Vater)\nstreiten über die elterliche Sorge und den Umgang des Vaters mit dem Kind. Beim Amtsgericht -\nFamiliengericht - München sind diesbezüglich u. a. folgende Verfahren anhängig:\n- Im Verfahren Az. 553 F 2862/11 (alt) beantragte der Vater im Jahr 2011, dass ihm ein Umgangsrecht mit\ndem Kind eingeräumt wird. Die Beschwerdeführerin trat diesem Antrag entgegen, um einen Ausschluss des\nUmgangsrechts zu erreichen. Eine Entscheidung über das Umgangsrecht ist in diesem Verfahren bisher\nnicht ergangen.\n- Im Verfahren Az. 553 F 9827/11 (alt) beantragte der Vater, dass ihm im Wege einer einstweiligen\nAnordnung vorläufig das Recht zum Umgang mit dem Kind eingeräumt wird. Die Beschwerdeführerin trat\ndem entgegen. U. a. mit Beschlüssen vom 4. Oktober 2011, 11. Mai 2012 und 30. Juli 2015 erließ das\nAmtsgericht einstweilige Anordnungen zum Umgangsrecht.\n- Im Verfahren Az. 564 F 11849/14 (alt) beantragte der Vater, ihm oder hilfsweise dem zuständigen\nJugendamt die elterliche Sorge für das Kind zu übertragen. Die Beschwerdeführerin trat dem Haupt- und\ndem Hilfsantrag entgegen. Eine abschließende Sachentscheidung ist bisher nicht ergangen.\n- Im Verfahren Az. 564 F 6162/16 (alt) regte der Vater an, der Beschwerdeführerin die elterliche Sorge für\ndas Kind zu entziehen. Die Beschwerdeführerin hat beantragt, den Antrag zurückzuweisen. Eine\nabschließende Sachentscheidung ist bisher nicht ergangen.\n- Im Verfahren Az. 542 F 6238/16 (alt) beantragte der Vater, der Beschwerdeführerin aufzugeben, ihm\nAuskunft über das Kind im Wege der Übergabe eines aktuellen Porträtfotos zu erteilen. Die\nBeschwerdeführerin trat dem Antrag entgegen. Eine abschließende Sachentscheidung ist bisher nicht\nergangen.\n2\nDie Beschwerdeführerin wendet sich mit zwei Verfassungsbeschwerden gegen Beschlüsse des\nAmtsgerichts und des Oberlandesgerichts München in den oben genannten familiengerichtlichen Verfahren.\n3\n1. Die Verfassungsbeschwerde Vf. 65-VI-17 richtet sich gegen\n- vier Beschlüsse des Amtsgerichts vom 5. September 2016 in den Verfahren\nAz. 564 F 2862/11, 564 F 9827/11, 564 F 11849/14 und 564 F 6162/16, mit denen inhaltsgleiche\nAblehnungsgesuche der Beschwerdeführerin gegen die zuständige Richterin Dr. M. als unzulässig,\nhilfsweise unbegründet zurückgewiesen wurden;\n- die Nrn. II und IV des Beschlusses des Oberlandesgerichts München vom 7. August 2017 (berichtigt am\n27. September 2017) Az. 33 WF 1635/16, 33 WF 1636/16, 33 WF 1638/16 und 33 WF 1639/16, mit denen\ndie sofortigen Beschwerden der Beschwerdeführerin gegen die Beschlüsse vom 5. September 2016\nzurückgewiesen und der Beschwerdeführerin die Kosten des Beschwerdeverfahrens auferlegt wurden.\n4\nAm 16. Juni 2016 übernahm Richterin am Amtsgericht Dr. M. das für die oben genannten\nfamiliengerichtlichen Verfahren zuständige Referat des Amtsgerichts. Mit vier inhaltsgleichen Schriftsätzen\nihres Bevollmächtigten vom 9. August 2016 (ergänzt durch Schriftsätze vom 11. und 29. August 2016)\nlehnte die Beschwerdeführerin die Richterin wegen Besorgnis der Befangenheit in den Verfahren Az. 564 F\n2862/11, 564 F 9827/11, 564 F 11849/14 und 564 F 6162/16 ab. U. a. habe Richterin am Amtsgericht Dr. M.\nim Verfahren Az. 564 F 2862/11 (Hauptsacheverfahren Umgangsrecht) am 19. Juli 2016 die Verfügung\n„WVmE / 2 Monate“ getroffen. Dies mache deutlich, dass sie - wie ihre Vorgänger im Amt - nicht\nbeabsichtige, dieses Verfahren zügig zu betreiben. Offenbar wolle die Richterin lediglich im Verfahren Az.\n564 F 9827/11 (einstweilige Anordnung Umgangsrecht) tätig werden. In diesem Verfahren habe sie die\nbestehende Umgangspflegschaft ohne ausreichende Prüfung verlängert. Dies begünstige einseitig den\nVater, dem gegenwärtig eine Umgangsregelung mit Umgangspflegschaft im Rahmen einer einstweiligen\nAnordnung zugutekomme. Außerdem habe die Richterin auf eine Gegenvorstellung der Beschwerdeführerin\ngegen die Bestellung einer Verfahrensbeiständin im Verfahren Az. 564 F 6162/16 (Entziehung der\nelterlichen Sorge) nicht reagiert, ein Gespräch mit dem Umgangspfleger H. geführt, ohne es in den Akten zu\ndokumentieren, und in ihren dienstlichen Stellungnahmen zu den Ablehnungsgesuchen unzutreffende\nAngaben gemacht. Mit den angegriffenen vier Beschlüssen vom 5. September 2016 wies Richterin am\nAmtsgericht A. die Ablehnungsgesuche als unzulässig, hilfsweise unbegründet zurück. Die\nAblehnungsgesuche seien rechtsmissbräuchlich und nach der gesamten Aktenlage offensichtlich zu\nZwecken der Verfahrensverzögerung gestellt. Die Beschwerdeführerin torpediere seit Jahren mit\nBefangenheitsanträgen gegen mindestens vier Richterinnen und Richter des Amtsgerichts\nSachentscheidungen in den anhängigen Verfahren. Davon unabhängig stellten selbst etwaige\nVerfahrensverstöße eines Richters im Rahmen der Prozessleitung oder fehlerhafte Entscheidungen\ngrundsätzlich keinen Ablehnungsgrund dar.\n5\nMit Schriftsätzen ihres Bevollmächtigten vom 21. September 2016 erhob die Beschwerdeführerin jeweils\nsofortige Beschwerde gegen die Beschlüsse vom 5. September 2016. Die Beschwerdeverfahren wurden\nbeim zuständigen 33. Zivilsenat des Oberlandesgerichts unter den Aktenzeichen 33 WF 1635/16\n(Hauptsacheverfahren Umgangsrecht), 33 WF 1636/16 (einstweilige Anordnung Umgangsrecht), 33 WF\n1638/16 (Übertragung der elterlichen Sorge) und 33 WF 1639/16 (Entziehung der elterlichen Sorge) geführt.\nDurch die Nr. II des angegriffenen Beschlusses des Oberlandesgerichts vom 7. August 2017 wurden die\nsofortigen Beschwerden zurückgewiesen. Das Amtsgericht habe die Ablehnungsgesuche zu Recht\nverworfen, weil sie wegen Verschleppungsabsicht unzulässig seien.\n6\n2. Die Verfassungsbeschwerde Vf. 66-VI-17 richtet sich gegen den Beschluss des Oberlandesgerichts\nMünchen vom 22. Juni 2017 in Verbindung mit der Nr. I des Beschlusses vom 7. August 2017 (berichtigt am\n27. September 2017) Az. 33 WF 238/17, mit denen u. a. Ablehnungsgesuche der Beschwerdeführerin\ngegen Vorsitzende Richterin am Oberlandesgericht B., Richter am Oberlandesgericht F., Richter am\nOberlandesgericht S. sowie Richterin am Oberlandesgericht W. als unzulässig verworfen und die hiergegen\ngerichteten Gehörsrügen der Beschwerdeführerin zurückgewiesen wurden.\n7\na) Mit Schriftsätzen ihres Bevollmächtigten vom 3. und 4. November 2016, ergänzt durch Schriftsatz vom\n22. Dezember 2016, lehnte die Beschwerdeführerin zwei damalige Mitglieder des 33. Zivilsenats des\nOberlandesgerichts, Vorsitzende Richterin am Oberlandesgericht B. und Richter am Oberlandesgericht F.,\nwegen Besorgnis der Befangenheit ab. Das Ablehnungsgesuch richtete sich ferner gegen Richter am\nOberlandesgericht S., der dem in der Geschäftsverteilung des Oberlandesgerichts zur Vertretung des 33.\nZivilsenats bestimmten 16. Zivilsenat angehörte. (Ein Ablehnungsgesuch gegen die Richterin am\nOberlandesgericht Fi. nahm die Beschwerdeführerin später zurück).\n8\naa) Hinsichtlich der Ablehnung der Vorsitzenden Richterin am Oberlandesgericht B. und des Richters am\nOberlandesgericht S. lag dem Gesuch folgender Sachverhalt zugrunde:\n9\nDer Bevollmächtigte der Beschwerdeführerin hatte im Verfahren Az. 564 F 11849/14 (Übertragung der\nelterlichen Sorge) beim Amtsgericht einen Schriftsatz vom 16. August 2015 eingereicht, mit dem Richterin\nam Amtsgericht K. wegen Besorgnis der Befangenheit abgelehnt wurde. Der Schriftsatz wurde vom\nAmtsgericht an das Oberlandesgericht weitergeleitet, wo sich die Gerichtsakte zur Bearbeitung einer\nBeschwerde befand. Auf schriftliche Nachfrage ihres Bevollmächtigten teilte Richter am Oberlandesgericht\nF. der Beschwerdeführerin mit Verfügung vom 10. Dezember 2015 mit, der Schriftsatz vom 16. August 2015\nbefinde sich nicht in der Gerichtsakte. Im Rahmen einer Akteneinsicht stellte die Beschwerdeführerin im Mai\n2016 fest, dass sich der Schriftsatz vom 16. August 2015 in der Gerichtsakte befand, und zwar unpaginiert\nund noch kuvertiert mit Blatt 178 der Gerichtsakte durch ein Gummiband verbunden. Die\nBeschwerdeführerin lehnte Richter am Oberlandesgericht F. daraufhin wegen Besorgnis der Befangenheit\nab. Das Ablehnungsgesuch wurde mit Beschluss des Oberlandesgerichts vom 30. Juni 2016 (Az. 33 WF\n1782/15) als unbegründet zurückgewiesen. Die Beschwerdeführerin erhob hiergegen eine Anhörungsrüge,\ndie mit Beschluss des Oberlandesgerichts vom 21. September 2016 zurückgewiesen wurde. In diesem\nBeschluss, der von der Vorsitzenden Richterin am Oberlandesgericht B., dem Richter am\nOberlandesgericht S. und einer weiteren Richterin unterschrieben ist, wird u. a. ausgeführt, dass mit Blick\nauf das Hin und Her der Akte zwischen Amtsgericht und Oberlandesgericht nicht mehr nachvollzogen\nwerden könne, wer wann welche Teile der Akte geordnet und paginiert habe. Die Akte sei nunmehr\nfortlaufend bis Blatt 282 paginiert. Der Schriftsatz vom 16. August 2015 sei im Original in der Akte nicht\nauffindbar, er befinde sich jedenfalls nicht bei Blatt 178 der Akte. Der Vorwurf, der abgelehnte Richter am\nOberlandesgericht F. habe den nicht einpaginierten Schriftsatz vom 16. August 2015 bewusst und\nabsichtlich nicht zur Kenntnis nehmen wollen, sei durch den Akteninhalt nicht nachvollziehbar belegt,\nsondern stelle sich als Unterstellung dar.\n10\nVor diesem Hintergrund machte die Beschwerdeführerin geltend, gegen Vorsitzende Richterin am\nOberlandesgericht B. und Richter am Oberlandesgericht S. bestehe aus folgenden Gründen Besorgnis der\nBefangenheit, die sich auf alle Beschwerdeverfahren erstrecke, die beim 33. Zivilsenat bezüglich der\nAusgangsverfahren Az. 564 F 2862/11, 564 F 9827/11, 564 F 11849/14 und 564 F 6162/16 anhängig seien:\n- Die Feststellung im Beschluss vom 21. September 2016, der Schriftsatz vom 16. August 2015 sei im\nOriginal in der Akte nicht auffindbar, habe sich wiederum als falsch erwiesen. Auf Nachfrage habe der\nPräsident des Amtsgerichts inzwischen mitgeteilt, der Schriftsatz sei im Heft „Ausgehobene Aktenstücke\nOberlandesgericht München“ aufgefunden worden. Somit müsse sich für die Beschwerdeführerin der\nEindruck aufdrängen, der Schriftsatz sei von den abgelehnten Richtern bewusst aus der Akte entfernt\nworden, um ihr zu schaden. Zumindest sei den abgelehnten Richtern vorzuwerfen, dass sie „ins Blaue\nhinein“ behauptet hätten, der Schriftsatz sei in der Akte nicht auffindbar. Die abgelehnten Richter hätten\nferner gegen § 5 Abs. 6 der Aktenordnung (AktO) verstoßen, indem sie den angeblichen Verlust des\nSchriftsatzes nicht beim Dienstvorgesetzten meldeten.\n- Die Bewertung im Beschluss vom 21. September 2016, es sei eine Unterstellung, dass Richter am\nOberlandesgericht F. den Schriftsatz vom 16. August 2015 bewusst und absichtlich nicht habe zur Kenntnis\nnehmen wollen, beinhalte den unberechtigten Vorwurf, die Beschwerdeführerin lüge.\n11\nbb) Hinsichtlich der behaupteten Befangenheit des Richters am Oberlandesgericht F. lag dem\nAblehnungsgesuch folgender Sachverhalt zugrunde:\n12\nMit Schriftsatz ihres Bevollmächtigten vom 9. Mai 2016 hatte die Beschwerdeführerin Richter am\nOberlandesgericht F. im Verfahren Az. 33 WF 1355/15 (Ausgangsverfahren Az. 564 F 9827/11; einstweilige\nAnordnung Umgangsrecht) wegen Besorgnis der Befangenheit abgelehnt. Das Ablehnungsgesuch wurde\nmit Beschluss des 33. Zivilsenats des Oberlandesgerichts vom 21. Juli 2016 zurückgewiesen. Die\nRechtsbeschwerde wurde nicht zugelassen. Die Geschäftsstelle des 33. Zivilsenats vermerkte am 25. Juli\n2016 die Hinausgabe des Beschlusses an die Beteiligten. Die Zustellung an den Bevollmächtigten der\nBeschwerdeführerin erfolgte am 28. Juli 2016. Am 27. Juli 2016 erließ Richter am Oberlandesgericht F. im\nVerfahren Az. 33 WF 1355/15 einen Beschluss.\n13\nVor diesem Hintergrund machte die Beschwerdeführerin geltend, gegen Richter am Oberlandesgericht F.\nbestehe die Besorgnis der Befangenheit, die sich auf alle Beschwerdeverfahren erstrecke, die beim 33.\nZivilsenat bezüglich der Ausgangsverfahren Az. 564 F 2862/11, 564 F 9827/11, 564 F 11849/14 und 564 F\n6162/16 anhängig seien. Die Entscheidung über das Ablehnungsgesuch vom 9. Mai 2016 sei erst mit der\nZustellung des Beschlusses vom 21. Juli 2016 an den Bevollmächtigten der Beschwerdeführerin am 28. Juli\n2016 rechtkräftig abgeschlossen gewesen. Der Beschluss vom 27. Juli 2016 sei somit unter Verletzung der\nWartepflicht nach § 47 Abs. 1 ZPO erlassen worden.\n14\nb) Mit Schriftsatz ihres Bevollmächtigten vom 22. Februar 2017 lehnte die Beschwerdeführerin Vorsitzende\nRichterin am Oberlandesgericht B., Richter am Oberlandesgericht F. und Richter am Oberlandesgericht S.\naus den in ihren Schriftsätzen vom 3./4. November und 22. Dezember 2016 genannten Gründen auch im\nVerfahren Az. 33 WF 238/16 (Ausgangsverfahren Az. 564 F 6238/16; Übergabe eines Porträtfotos) wegen\nBesorgnis der Befangenheit ab. Sie machte darüber hinaus geltend, ein weiterer Verstoß des Richters am\nOberlandesgericht F. gegen die Wartepflicht nach § 47 Abs. 1 ZPO ergebe sich daraus, dass der Richter\nam 9. November 2016 - also nach Eingang des Ablehnungsgesuchs vom 3. November 2016 - in der\nGerichtsakte des Verfahrens Az. 564 F 9827/11 (einstweilige Anordnung Umgangsrecht) verfügt habe „WV\nmit Akte“. Es sei nicht ersichtlich, was der abgelehnte Richter an der angeforderten Gerichtsakte habe\nbearbeiten wollen. Ein Verstoß der Vorsitzenden Richterin am Oberlandesgericht B. gegen die Wartepflicht\nergebe sich mit Blick auf einen Vorfall am 19. Januar 2017. Der Bevollmächtigte der Beschwerdeführerin\nhabe an diesem Tag bei der Geschäftsstelle des 33. Zivilsenats persönlich angefragt, ob er Teile der\nGerichtsakte Az. 564 F 9827/11 (einstweilige Anordnung Umgangsrecht) mit in seine Kanzlei nehmen dürfe.\nDies habe die Geschäftsstellenbeamtin nach Rücksprache mit der Vorsitzenden Richterin am\nOberlandesgericht B. und der Richterin am Oberlandesgericht W., die dem 33. Zivilsenat des\nOberlandesgerichts ab dem 1. Dezember 2016 angehörte, verneint.\n15\nc) Mit Schriftsatz ihres Bevollmächtigten vom 20. März 2017 lehnte die Beschwerdeführerin Richter am\nOberlandesgericht F. erneut wegen Besorgnis der Befangenheit ab. Die dienstliche Stellungnahme, die der\nRichter zum Ablehnungsgesuch vom 22. Februar 2017 abgegeben habe, trage ihrerseits das Datum 22.\nFebruar 2017. Dieses Datum könne nicht richtig sein. Das Ablehnungsgesuch sei am 22. Februar 2017 erst\nnach 22.00 Uhr an das Oberlandesgericht gefaxt worden. Es könne ausgeschlossen werden, dass der\nRichter die dienstliche Stellungnahme noch in der Nacht des 22. Februar 2017 gefertigt habe. Wer falsche\nDatumsangaben mache, werde auch nicht davor zurückschrecken, falsche Entscheidungen zulasten der\nBeschwerdeführerin zu treffen.\n16\nd) Mit Schriftsatz ihres Bevollmächtigten vom 20. März 2017 lehnte die Beschwerdeführerin zudem\nRichterin am Oberlandesgericht W. wegen Besorgnis der Befangenheit ab. Dem lag folgender Sachverhalt\nzugrunde:\n17\nAuf Anfragen des Bevollmächtigten der Beschwerdeführerin teilte Richterin am Oberlandesgericht W. in\neiner Verfügung vom 14. Februar 2017 mit, dass über die Ablehnungsgesuche vom 3./4. November 2016 in\neiner aus ihr selbst, Richter am Oberlandesgericht Dr. St. und Richterin am Oberlandesgericht P. (beide\nMitglieder des 16. Zivilsenats) bestehenden Besetzung entschieden werde, sofern die Entscheidung vor\ndem 16. März 2017 ergehe. Sofern erst ab dem 16. März 2017 entschieden werde, würden an der\nEntscheidung sie selbst, Richterin am Oberlandesgericht P. (16. Zivilsenat) und Vorsitzende Richterin am\nOberlandesgericht\nDr. K. mitwirken, die zum 16. März 2017 als Nachfolgerin der Vorsitzenden Richterin am Oberlandesgericht\nB. den Vorsitz des 33. Zivilsenats übernehmen werde. Richterin am Oberlandesgericht W. ging bei der\nErteilung dieser Auskunft davon aus, dass zuständiger Vertretersenat des 33. Zivilsenats derjenige Senat\nsei, der im Zeitpunkt des Eingangs des Ablehnungsgesuchs (November 2016) laut Geschäftsverteilung als\nVertretersenat bestimmt war (16. Zivilsenat). Mit Schreiben vom 1. März 2017 im Verfahren Az. 33 WF\n1635/16 teilte Richterin am Oberlandesgericht W. dem Bevollmächtigten der Beschwerdeführerin mit, nach\nRücksprache mit einem Mitglied des Präsidiums habe sich herausgestellt, dass hinsichtlich der\nVertretungsregelung nicht auf den Zeitpunkt des Eingangs des Ablehnungsgesuchs abzustellen sei,\nsondern vielmehr auf den Zeitpunkt der Entscheidung über das Ablehnungsgesuch. Danach seien für die\nZeit zwischen dem 1. Januar 2017 und dem 30. Juni 2017 nicht die Mitglieder des 16. Zivilsenats zur\nVertretung der Richter des 33. Zivilsenats berufen, sondern die Mitglieder des 26. Zivilsenats. Neben ihr und\nder neuen Vorsitzenden des 33. Zivilsenats werde der dienstjüngste Richter des 26. Zivilsenats, Richter am\nOberlandesgericht D., an der Entscheidung über das Ablehnungsgesuch mitwirken.\n18\nVor diesem Hintergrund machte die Beschwerdeführerin geltend, gegen Richterin am Oberlandesgericht W.\nbestehe die Besorgnis der Befangenheit, weil sie sich in der Beurteilung der Frage, wie die\nVertretungsregelung der Geschäftsverteilung auszulegen sei, offenbar an die Einschätzung eines\nPräsidiumsmitglieds gebunden fühle. Es handle sich hierbei jedoch um eine Rechtsfrage, über die allein das\nSpruchrichterkollegium zu befinden habe, das über das Ablehnungsgesuch entscheide. Ein weiterer\nAblehnungsgrund gegen Richterin am Oberlandesgericht W. ergebe sich daraus, dass letztlich sie dafür\nverantwortlich sei, dass die Geschäftsstellenbeamtin des 33. Zivilsenats dem Bevollmächtigten der\nBeschwerdeführerin am 19. Januar 2017 die Mitnahme eines Teils der Gerichtsakte Az. 564 F 9827/11\n(einstweilige Anordnung Umgangsrecht) in seine Kanzleiräume verweigert habe. Ein weiterer\nAblehnungsgrund ergebe sich daraus, dass Richterin am Oberlandesgericht W. eine Anfrage der\nBeschwerdeführerin vom 20. Oktober 2016, in der diese um Erteilung und Übersendung beglaubigter\nAbschriften verschiedener Entscheidungen über Ablehnungsgesuche gebeten habe, nicht zutreffend\nbeantwortet habe.\n19\ne) Mit dem angegriffenen Beschluss vom 22. Juni 2017, an dem Vorsitzende Richterin am\nOberlandesgericht Dr. K. (33. Zivilsenat), Richter am Oberlandesgericht F. (33. Zivilsenat) und Richter am\nOberlandesgericht D. (26. Zivilsenat) mitwirkten, verwarf das Oberlandesgericht die Ablehnungsgesuche\nvom 3./4. November 2016, 22. Februar und 20. März 2017 als unzulässig. Nach der zivilgerichtlichen\nRechtsprechung dürfe ein Spruchkörper ausnahmsweise in der Besetzung mit den abgelehnten Richtern\nüber unzulässige Ablehnungsgesuche entscheiden, wenn diese offensichtlich grundlos seien und\nrechtsmissbräuchlich für verfahrensfremde Zwecke eingesetzt würden. Dies sei hinsichtlich der genannten\nAblehnungsgesuche der Fall. Die Auswertung der Akten der Verfahren Az. 564 F 2862/11, 564 F 9827/11,\n564 F 11849/14, 564 F 6162/16 und 564 F 6238/16 belege eine Chronologie und Häufigkeit von\nAblehnungsgesuchen der Beschwerdeführerin, die nur damit erklärt werden könne, dass es ihr um eine\nVerfahrensverschleppung als taktisches Mittel für verfahrensfremde Zwecke gehe. Gerade in\nKindschaftsverfahren, wie den hier vorliegenden, gelte ein Beschleunigungspostulat, das nicht durch\nKettenablehnungen verbunden mit der Ablehnung von Richtern der Vertretersenate blockiert werden dürfe.\nDas rechtsmissbräuchliche Vorgehen der Beschwerdeführerin verletze den Justizgewährungsanspruch des\nVaters.\n20\nMit Schriftsatz ihres Bevollmächtigten vom 20. Juli 2017 erhob die Beschwerdeführerin Anhörungsrüge\ngegen den Beschluss vom 22. Juni 2017, die durch Nr. I des angegriffenen Beschlusses vom 7. August\n2017 zurückgewiesen wurde.\nII.\n21\nMit ihren Verfassungsbeschwerden rügt die Beschwerdeführerin jeweils die Verletzung des Rechts auf den\ngesetzlichen Richter (Art. 86 Abs. 1 Satz 2 BV) i. V. m. dem Willkürverbot (Art. 118 Abs. 1 BV) und des\nAnspruchs auf rechtliches Gehör (Art. 91 Abs. 1 BV).\n22\n1. Mit der Verfassungsbeschwerde Vf. 65-VI-17 werden folgende Verfassungsverstöße geltend gemacht:\n23\na) Die angegriffenen Entscheidungen des Amtsgerichts und des Oberlandesgerichts verstießen\ninsbesondere gegen das Recht auf den gesetzlichen Richter (Art. 86 Abs. 1 Satz 2 BV) und das\nWillkürverbot (Art. 118 Abs. 1 BV), weil die Ablehnungsgesuche der Beschwerdeführerin gegen Richterin\nDr. M. in willkürlicher Weise wegen Verschleppungsabsicht als offensichtlich unzulässig verworfen worden\nseien. Außerdem hätten die Entscheidungen über die sofortigen Beschwerden gegen die Beschlüsse des\nAmtsgerichts durch den zuständigen Einzelrichter des Beschwerdesenats und nicht durch den Senat in der\nBesetzung mit drei Richtern getroffen werden müssen.\n24\nb) Aufgrund der unzutreffenden Verwerfung der Ablehnungsgesuche als unzulässig hätten sich das\nAmtsgericht und das Oberlandesgericht mit dem Sachvortrag der Beschwerdeführerin über das Vorliegen\nvon Befangenheitsgründen bei Richterin Dr. M nicht inhaltlich befasst. Dies verletze den Anspruch der\nBeschwerdeführerin auf rechtliches Gehör (Art. 91 Abs. 1 BV).\n25\n2. Mit der Verfassungsbeschwerde Vf. 66-VI-17 werden folgende Verfassungsverstöße geltend gemacht:\n26\na) Eine Verletzung des Art. 86 Abs. 1 Satz 2 BV sei wegen der Mitwirkung des Richters am\nOberlandesgericht D. (26. Zivilsenat) am Beschluss vom 22. Juni 2017 anzunehmen. Die\nBeschwerdeführerin könne nicht abschließend feststellen, ob Richter am Oberlandesgericht D. zur\nMitwirkung an diesem Beschluss berufen gewesen sei. Nach dem Geschäftsverteilungsplan des\nOberlandesgerichts für das Jahr 2017 seien - soweit ein Senatsmitglied nicht innerhalb des zuständigen\nSenats vertreten werden könne - zur Vertretung die Mitglieder des jeweiligen Vertretersenats in der\nReihenfolge ihres allgemeinen Dienstalters (§ 20 DRiG) heranzuziehen, beginnend mit dem Dienstjüngsten.\nNach ihren Erfahrungen werde die Geschäftsverteilung beim Oberlandesgericht willkürlich gehandhabt. Sie\ngehe deshalb davon aus, dass Richter am Oberlandesgericht D. nicht der dienstjüngste Richter des zur\nVertretung der Mitglieder des 33. Zivilsenats berufenen 26. Zivilsenats gewesen sei.\n27\nb) Das Oberlandesgericht habe die Voraussetzungen für die Verwerfung von Ablehnungsgesuchen als\nunzulässig unter Mitwirkung des abgelehnten Richters verkannt und dadurch gegen Art. 86 Abs. 1 Satz 2 i.\nV. m. Art. 118 Abs. 1 BV verstoßen. Die Bewertung des Oberlandesgerichts, die Auswertung der Akten\nhinsichtlich der Chronologie und Häufigkeit von Ablehnungsgesuchen, Rechtsmitteln und nicht förmlichen\nRechtsbehelfen der Beschwerdeführerin belege, dass sie die Ablehnungsgesuche zur Verschleppung und\nals taktisches Mittel für verfahrensfremde Zwecke einsetze, treffe nicht zu. Das Oberlandesgericht habe\ninsoweit unberücksichtigt gelassen, dass sie schon mehrfach Verzögerungsrügen nach § 198 Abs. 3 Satz 1\nGVG erhoben habe. Es habe ferner verkannt, dass die Feststellung einer angeblichen\nVerschleppungsabsicht für die Verwerfung eines Ablehnungsgesuchs als unzulässig nicht ausreiche,\nsondern vielmehr auch die Grundlosigkeit der Ablehnung gegeben sein müsse. Eine Grundlosigkeit der\nAblehnung könne im vorliegenden Fall schon deshalb nicht ohne Weiteres angenommen werden, weil in\nden Jahren 2012 und 2013 Ablehnungsgesuche der Beschwerdeführerin gegen zwei Richter des\nAmtsgerichts Erfolg gehabt hätten und ein weiterer Richter des Amtsgerichts sich selbst für befangen erklärt\nhabe. Die Befangenheitsgesuche vom 3./4. November 2016, 22. Februar und 20. März 2017 seien\njedenfalls nicht grundlos gewesen, vielmehr habe begründeter Anlass zur Besorgnis der Befangenheit\nsämtlicher abgelehnter Richterinnen und Richter des Oberlandesgerichts bestanden. Dies hätten offenbar\nauch einige der abgelehnten Richterinnen und Richter so gesehen, da sie andernfalls keine dienstlichen\nStellungnahmen zu den Ablehnungsgesuchen abgegeben hätten. Unzutreffend sei ferner die Annahme, die\nBeschwerdeführerin verletze durch ihr Verhalten den Justizgewährleistungsanspruch des Vaters. Dieser\nAnspruch verpflichte einzig und allein die staatlichen Gewalten, nicht aber die Beschwerdeführerin.\n28\nc) Die angegriffenen Entscheidungen verletzten den Anspruch auf rechtliches Gehör (Art. 91 Abs. 1 BV),\nweil das Oberlandesgericht die vorgebrachten Befangenheitsgründe nicht in der Sache geprüft, sondern die\nAblehnungsgesuche zu Unrecht als unzulässig verworfen habe.\nIII.\n29\n1. Das Bayerische Staatsministerium der Justiz hat von Stellungnahmen zu den beiden\nVerfassungsbeschwerden abgesehen.\n30\n2. Dem Antragsteller in den Ausgangsverfahren wurde Gelegenheit zur Stellungnahme gegeben.\nIV.\n31\n1. Die Verfassungsbeschwerde Vf. 65-VI-17 ist nur hinsichtlich eines Teils der angegriffenen gerichtlichen\nEntscheidungen zulässig.\n32\na) Sie ist unzulässig, soweit sie sich gegen die Beschlüsse des Amtsgerichts vom 5. September 2016\nwendet. Die Beschwerdeführerin zeigt nicht auf, dass die Beschlüsse des Amtsgerichts auf den von ihr\ngerügten Verfassungsverstößen beruhen. Sie macht geltend, ihre Grundrechte aus Art. 86 Abs. 1 Satz 2 i.\nV. m.\nArt. 118 Abs. 1 BV sowie Art. 91 Abs. 1 BV seien verletzt, weil ihre Ablehnungsgesuche gegen Richterin Dr.\nM. in willkürlicher Weise wegen Verschleppungsabsicht als offensichtlich unzulässig verworfen worden\nseien. Sie lässt dabei unberücksichtigt, dass das Amtsgericht die angegriffenen Beschlüsse hilfsweise auch\ndarauf gestützt hat, dass die Ablehnungsgesuche unbegründet seien, weil keinerlei Umstände vorlägen, die\nein berechtigtes Misstrauen gegen die Unparteilichkeit der Richterin Dr. M rechtfertigten. Das Amtsgericht\nhat insoweit auf die dienstlichen Stellungnahmen der Richterin Bezug genommen und ausgeführt, dass\nVerfahrensverstöße im Rahmen der Prozessleitung oder fehlerhafte Entscheidungen grundsätzlich keinen\nAblehnungsgrund darstellten. Die Beschwerdeführerin setzt sich mit dieser selbständig tragenden\nBegründung nicht in einer den Substanziierungsanforderungen der Verfassungsbeschwerde genügenden\nWeise auseinander. Es fehlt somit an der erforderlichen Darlegung der Kausalität der gerügten\nVerfassungsverstöße für die angegriffenen Beschlüsse des Amtsgerichts (vgl. VerfGH vom 9.12.1988 - Vf.\n121-VI-87 - Orientierungssatz nach juris).\n33\nb) Die Verfassungsbeschwerde ist zulässig, soweit sie sich gegen die Nrn. II und IV des Beschlusses des\nOberlandesgerichts München vom 7. August 2017 wendet.\n34\naa) Das Oberlandesgericht hat die Zurückweisung der Ablehnungsgesuche - anders als das Amtsgericht -\nallein auf deren Unzulässigkeit gestützt. Dementsprechend genügt die Verfassungsbeschwerde insoweit\nden Anforderungen an die Darlegung der Kausalität der gerügten Verfassungsverstöße.\n35\nbb) Die Beschwerdeführerin hat hinsichtlich des angegriffenen Beschlusses des Oberlandesgerichts vom 7.\nAugust 2017 den Rechtsweg erschöpft. Nachdem sie sich nicht darauf beruft, das Oberlandesgericht habe\nim Beschwerdeverfahren neue eigenständige Gehörsverletzungen begangen, sondern lediglich sekundäre\nGehörsverstöße rügt, wäre eine Anhörungsrüge nach § 44 FamFG gegen die Entscheidung des\nOberlandesgerichts nicht statthaft gewesen (vgl. VerfGH vom 2.10.2013 VerfGHE 66, 179/185).\n36\n2. Die Verfassungsbeschwerde Vf. 66-VI-17 ist nur hinsichtlich eines Teils der erhobenen Rügen zulässig.\n37\na) Sie ist unzulässig, soweit die Beschwerdeführerin rügt, ein Verstoß gegen Art. 86 Abs. 1 Satz 2 BV sei\nanzunehmen, weil Richter am Oberlandesgericht D. am Beschluss vom 22. Juni 2017 mitgewirkt habe. Zur\nZulässigkeit einer Verfassungsbeschwerde gehört nach Art. 51 Abs. 1 Satz 1 VfGHG, dass die behauptete\nVerletzung verfassungsmäßiger Rechte im Einzelnen dargelegt wird. Es muss erkennbar sein, inwiefern\ndurch eine Maßnahme oder Entscheidung ein solches Recht verletzt sein soll. Die bloße Behauptung, ein\nVerfassungsverstoß sei anzunehmen, genügt den Anforderungen an die Begründung einer\nVerfassungsbeschwerde nicht (vgl. VerfGH vom 14.2.2006 VerfGHE 59, 47/50 f. m. w. N.). Vor diesem\nHintergrund reicht das Vorbringen der Beschwerdeführerin, sie könne nicht abschließend feststellen, ob\nRichter am Oberlandesgericht D. tatsächlich der dienstjüngste Richter des Vertretersenats gewesen sei,\nnicht aus, um einen Verstoß gegen Art. 86 Abs. 1 Satz 2 BV substanziiert darzulegen. Die\nBeschwerdeführerin zeigt insbesondere keine begründeten Zweifel an der ihr erteilten gerichtlichen\nAuskunft auf, wonach Richter am Oberlandesgericht D. der dienstjüngste Richter im Sinn des § 20 DRiG\nsei. Soweit sie vorbringt, nach ihrer Einschätzung werde die Geschäftsverteilung beim Oberlandesgericht\nwillkürlich gehandhabt, stellt dies eine Behauptung ins Blaue hinein dar.\n38\nb) Im Übrigen ist die Verfassungsbeschwerde Vf. 66-VI-17 zulässig. Insbesondere hat die\nBeschwerdeführerin den Rechtsweg erschöpft. Sie hat die nach § 44 FamFG statthafte Anhörungsrüge\ngegen den Beschluss des Oberlandesgerichts vom 22. Juni 2017 erfolglos erhoben.\nV.\n39\n1. Soweit die Verfassungsbeschwerde Vf. 65-VI-17 zulässig ist, ist sie begründet. Die Nrn. II und IV des\nBeschlusses des Oberlandesgerichts München vom 7. August 2017 (soweit sie angegriffen sind) wurden\nnicht in der gesetzlich vorgeschriebenen Gerichtsbesetzung erlassen und verletzen die Beschwerdeführerin\ndeshalb in ihrem Grundrecht aus Art. 86 Abs. 1 Satz 2 BV.\n40\na) Art. 86 Abs. 1 Satz 2 BV wird durch ein Gericht nur dann verletzt, wenn einer Partei der gesetzliche\nRichter durch eine willkürliche, offensichtlich unhaltbare Entscheidung entzogen wird (VerfGH vom\n15.7.2005 VerfGHE 58, 168/177; vom 17.11.2015 - Vf. 12-VI-15 - juris Rn. 17). Hinsichtlich der\noffensichtlichen Unhaltbarkeit einer Entscheidung ist die objektive Sichtweise maßgeblich. Auf einen\nsubjektiven Schuldvorwurf kommt es nicht an (VerfGH vom 26.6.1987 VerfGHE 40, 78/80). Vor diesem\nHintergrund wird die Nichtberücksichtigung einer offensichtlich einschlägigen Norm als Verstoß gegen das\nWillkürverbot gewertet (VerfGH vom 25.1.2002 VerfGHE 55, 12/18).\n41\nÜber die sofortigen Beschwerden der Beschwerdeführerin gegen die Beschlüsse des Amtsgerichts vom 5.\nSeptember 2016 hatte nicht der 33. Zivilsenat in der Besetzung mit drei Richtern zu entscheiden, sondern\nvielmehr der nach der senatsinternen Geschäftsverteilung zuständige Einzelrichter. Dies ergibt sich\nunmittelbar aus der gesetzlichen Regelung des § 568 Satz 1 ZPO, der nach § 6 Abs. 2 FamFG auch bei der\nAblehnung von Gerichtspersonen in familiengerichtlichen Verfahren anzuwenden ist. Das\nOberlandesgericht hat den eindeutig einschlägigen § 568 Satz 1 ZPO bei der Entscheidung über die\nsofortigen Beschwerden offenbar übersehen. Eine Zuständigkeit des Richterkollegiums könnte im\nvorliegenden Fall auch nicht aus § 568 Satz 2 ZPO hergeleitet werden, da eine Übertragung des Verfahrens\nauf den Senat durch den zuständigen Einzelrichter nicht erfolgt ist. Auch für eine Übertragung durch\nschlüssiges Handeln gibt es keine Anhaltspunkte (vgl. dazu BVerfG vom 2.6.2009 NJW-RR 2010, 268/269).\n42\nDie Entscheidung über die Beschwerde durch den Senat anstelle des zuständigen Einzelrichters verstößt\ngegen die Gewährleistung des gesetzlichen Richters nach Art. 86 Abs. 1 Satz 2 BV. Nach der\nRechtsprechung des Bundesverfassungsgerichts (vgl. BVerfG NJW-RR 2010, 268/269 m. w. N.) kann dem\nnicht entgegengehalten werden, das Kollegium stelle gegenüber dem Einzelrichter ein „besseres Gericht“\ndar. Die angegriffenen Nrn. II und IV des Beschlusses vom 7. August 2017 beruhen auf der Verletzung des\nArt. 86 Abs. 1 Satz 2 BV.\n43\nb) Ob die Nrn. II und IV des Beschlusses vom 7. August 2017 auch aus anderen Gründen gegen\nGrundrechte der Beschwerdeführerin verstoßen, bedarf keiner Entscheidung.\n44\n2. Soweit die Verfassungsbeschwerde Vf. 66-VI-17 zulässig ist, ist sie unbegründet.\n45\na) Die angegriffenen Entscheidungen verstoßen nicht gegen das Grundrecht auf den gesetzlichen Richter\n(Art. 86 Abs. 1 Satz 2 BV) i. V. m. dem Willkürverbot (Art. 118 Abs. 1 BV). Die Verwerfung der\nAblehnungsgesuche der Beschwerdeführerin als unzulässig unter Mitwirkung des abgelehnten Richters F.\nist mit den genannten Grundrechten vereinbar.\n46\nEin Verstoß gegen Art. 86 Abs. 1 Satz 2 BV kann - wie hier - auch mit der Behauptung gerügt werden, ein\nAblehnungsgesuch sei aufgrund willkürlicher, offensichtlich unhaltbarer Erwägungen zurückgewiesen\nworden (VerfGH vom 16.5.2006 VerfGHE 59, 58/60 f.; vom 8.1.2013 VerfGHE 66, 1/4). Willkürlich wäre\neine solche Zurückweisung jedoch nur dann, wenn sie bei Würdigung der die Verfassung beherrschenden\nGedanken nicht verständlich wäre und sich der Schluss aufdrängte, sie beruhe auf sachfremden\nErwägungen. Die Zurückweisung dürfte unter keinem rechtlichen Gesichtspunkt vertretbar erscheinen. Sie\nmüsste vielmehr schlechthin unhaltbar, offensichtlich sachwidrig, eindeutig unangemessen sein (VerfGHE\n66, 1/4 m. w. N.). Dies ist hinsichtlich des angegriffenen Beschlusses vom 22. Juni 2017 nicht der Fall. In\nder fachgerichtlichen Rechtsprechung (vgl. z. B. BGH vom 12.10.2011 NJW-RR 2012, 61 Rn. 8; BVerwG\nvom 29.1.2014 NJW 2014, 953 Rn. 5) und Literatur (vgl. z. B. Vollkommer in Zöller, ZPO, 32. Aufl. 2018, §\n45 Rn. 4) ist anerkannt, dass abweichend vom Wortlaut des § 45 Abs. 1 ZPO der ursprünglich zuständige\nSpruchkörper unter Mitwirkung des abgelehnten Richters über unzulässige oder missbräuchliche\nAblehnungsgesuche entscheidet. Dies ist nach der Rechtsprechung des Bundesverfassungsgerichts mit der\nverfassungsrechtlichen Gewährleistung des gesetzlichen Richters gemäß Art. 101 Abs. 1 Satz 2 GG\nvereinbar, soweit das vereinfachte Ablehnungsverfahren auf gänzlich untaugliche oder\nrechtsmissbräuchliche Ablehnungsgesuche beschränkt bleibe. Das vereinfachte Verfahren solle echte\nFormalentscheidungen ermöglichen oder offensichtlichen Missbrauch des Ablehnungsrechts verhindern,\nwas eine enge Auslegung der Voraussetzungen gebiete. Ob ein Gericht bei seiner Entscheidung die\nBedeutung und Tragweite der Gewährleistung des gesetzlichen Richters verkannt habe, könne nur\nangesichts der jeweiligen Umstände des Einzelfalls beurteilt werden (vgl. z. B. BVerfG vom 6.5.2010 - 1\nBvR 96/10 - juris Rn. 10, 24; vom 11.3.2013 - 1 BvR 2853/11 - juris Rn. 26, 30; vom 15.6.2015 -1 BvR\n1288/14 - juris Rn. 15, 17). Hiervon ausgehend ist nicht zu erkennen, dass das Oberlandesgericht die\nVoraussetzungen für die Verwerfung rechtsmissbräuchlicher Ablehnungsgesuche in verfassungswidriger\nWeise verkannt haben könnte.\n47\naa) Die von der Beschwerdeführerin in ihren Ablehnungsgesuchen vorgetragenen Gründe rechtfertigten\nkeine Ablehnung der betroffenen Richter wegen Besorgnis der Befangenheit. Die Substanzlosigkeit der\nvorgetragenen Ablehnungsgründe lag auf der Hand und bedurfte keiner inhaltlichen Auseinandersetzung im\nangegriffenen Beschluss vom 22. Juni 2017. Dabei kommt es nicht darauf an, dass einige Richter\ndienstliche Stellungnahmen zu den Ablehnungsgesuchen abgegeben haben. Aus keiner der dienstlichen\nStellungnahmen ergibt sich ein Anhaltspunkt dafür, dass die abgelehnten Richter der Beschwerdeführerin\nAnlass zu einer Besorgnis der Befangenheit gegeben haben könnten.\n48\n(1) Der Vorwurf, Vorsitzende Richterin am Oberlandesgericht B. bzw. Richter am Oberlandesgericht S.\nhätten den Schriftsatz vom 16. August 2015 aus der Verfahrensakte Az. 564 F 11849/14 „verschwinden\nlassen“ (Ablehnungsgesuch vom 3./4. November 2016 sowie 22. Februar 2017), stellt eine bloße\nBehauptung ohne Tatsachengrundlage dar. Wie die Beschwerdeführerin in der Begründung ihres\nAblehnungsgesuchs selbst einräumt, lässt sich nicht feststellen, durch wen und wann der Schriftsatz in das\nAnlagenheft „Ausgehobene Aktenstücke Oberlandesgericht München“ eingelegt wurde. Anhaltspunkte\ndafür, dass Vorsitzende Richterin am Oberlandesgericht B. oder Richter am Oberlandesgericht S., die\nebenso wenig wie der zuvor abgelehnte Richter am Oberlandesgericht F. mit der Bearbeitung des\nSchriftsatzes befasst waren, diesen überhaupt mit der Akte vorgelegt bekommen haben, existieren nicht.\nAuch der Vorwurf, die genannten Richter hätten „ins Blaue hinein“ behauptet, der Schriftsatz sei in der Akte\nnicht auffindbar, verfängt nicht, da nicht feststeht, dass er sich zum fraglichen Zeitpunkt in der vorgelegten\nAkte befand. Ein Verstoß der abgelehnten Richter gegen § 5 Abs. 6 AktO kommt schon deshalb nicht in\nBetracht, weil diese Vorschrift lediglich eine Anzeigepflicht für die Geschäftsstellen der Gerichte begründet.\n49\n(2) Die Behauptung, Vorsitzende Richterin am Oberlandesgericht B. bzw. Richter am Oberlandesgericht S.\nhätten die Beschwerdeführerin der Lüge bezichtigt (Ablehnungsgesuch vom 3./4. November 2016 sowie 22.\nFebruar 2017), beruht auf einem sprachlichen Fehlverständnis. Die Beschwerdeführerin will sich insoweit\nauf eine Textpassage im Beschluss vom 21. September 2016 stützen, die besagt, dass die dem\nabgelehnten Richter am Oberlandesgericht F. zur Last gelegte Handlungsweise „durch den Akteninhalt und\ndie Stellungnahme nicht nachvollziehbar belegt“ sei, sondern sich als „Unterstellung“ darstelle. Ihre\nAnnahme, mit der Verwendung des Begriffs „Unterstellung“ sei „automatisch der Vorwurf der Lüge\nassoziiert“, ist unzutreffend. Denn die Feststellung, die dem abgelehnten Richter am Oberlandesgericht F.\nunterstellte Handlungsweise einer Aktenmanipulation sei durch den Inhalt und die Stellungnahme nicht\nnachvollziehbar belegt, besagt nicht, die Beschwerdeführerin behaupte der Wahrheit zuwider, der\nabgelehnte Richter habe die Akten in einer bestimmten Weise manipuliert. Sie besagt vielmehr lediglich,\ndass sich für eine solche Behauptung in der Akte und Stellungnahme keine Belege finden würden. Ersteres\nwäre der Vorwurf einer Lüge, Letzteres ist lediglich die Qualifizierung des Vortrags der Beschwerdeführerin\nals eine Unterstellung im Sinn einer substanzlosen Behauptung. In diesem Zusammenhang ist eine\n„Unterstellung“ etwas anderes als eine „Lüge“.\n50\n(3) Der Vorwurf, Richter am Oberlandesgericht F. habe durch den Erlass eines Beschlusses vom 27. Juli\n2016 im Verfahren Az. 33 WF 1355/15 gegen die Wartepflicht aus § 47 Abs. 1 ZPO verstoßen\n(Ablehnungsgesuch vom 3./4. November 2016 sowie 22. Februar 2017), beruht auf der Annahme der\nBeschwerdeführerin, das vorangegangene Ablehnungsgesuch gegen den Richter sei erst mit der Zustellung\ndes unanfechtbaren Beschlusses vom 21. Juli 2016 am 28. Juli 2016 einer „Erledigung“ im Sinn des § 47\nAbs. 1 ZPO zugeführt worden. Allerdings war die unanfechtbare Entscheidung schon am 21. Juli 2016\nerlassen. Es wird die Auffassung vertreten, dass ein abgelehnter Richter bereits mit Erlass der\nVerwerfungs- bzw. Zurückweisungsentscheidung wieder regulär tätig werden könne (vgl. z. B. Schäfer,\nNJOZ 2014, 681/682). Außerdem war der Beschluss am 25. Juli 2016 hinausgegeben worden und wurde\nspätestens damit als gerichtliche Entscheidung existent; vom Zeitpunkt des Existentwerdens an wird ein\nBeschluss für das erlassende Gericht bindend (vgl. Musielak in Münchener Kommentar zur ZPO, 5. Aufl.\n2016, § 329 Rn. 5). Vor diesem Hintergrund kann keinesfalls angenommen werden, der Richter habe sich\nvon dem Ablehnungsgesuch völlig unberührt gezeigt, was u. U. die Besorgnis der Befangenheit hätte\nbegründen können (vgl. dazu BayObLG vom 21. Januar 1988 MDR 1988, 500).\n51\n(4) Der Vorwurf, Richter am Oberlandesgericht F. habe einen Wartepflichtverstoß begangen, indem er -\nnach Eingang des Ablehnungsgesuchs vom 3./4. November 2016 - in der Gerichtsakte Az. 564 F 9827/11\n„WV mit Akte“ verfügt habe (Ablehnungsgesuch vom 22. Februar 2017), geht schon deshalb ins Leere, weil\ndie reine Aktenverwaltung durch den abgelehnten Richter von § 47 Abs. 1 ZPO unberührt bleibt (vgl.\nStackmann in Münchener Kommentar zur ZPO, § 47 Rn. 5).\n52\n(5) Der Vorwurf, Vorsitzende Richterin am Oberlandesgericht B. habe am 19. Januar 2017 gegen die\nWartepflicht nach § 47 Abs. 1 ZPO verstoßen, indem sie auf mündliche Nachfrage gegenüber der\nGeschäftsstellenbeamtin des 33. Zivilsenats erklärt habe, dem Bevollmächtigten der Beschwerdeführerin\nwerde eine Verfahrensakte nicht zur Einsichtnahme in seinen Kanzleiräumen überlassen\n(Ablehnungsgesuch vom 22. Februar 2017), findet schon im eigenen Sachvortrag der Beschwerdeführerin\nkeine Bestätigung. Sie hat in ihrem weiteren Ablehnungsgesuch vom 20. März 2017 vorgetragen, die\nGeschäftsstellenbeamtin habe am 19. Januar 2017 wegen der Frage der Akteneinsicht sowohl mit der\nabgelehnten Vorsitzenden Richterin B. als auch mit der stellvertretenden Vorsitzenden des 33. Zivilsenats,\nder zu diesem Zeitpunkt noch nicht abgelehnten Richterin am Oberlandesgericht W., Rücksprache\ngenommen. Es ist somit nicht festzustellen, dass die Entscheidung über die Akteneinsicht durch die\nabgelehnte Vorsitzende Richterin am Oberlandesgericht B. getroffen wurde. Vielmehr spricht schon der\nUmstand, dass die Geschäftsstellenbeamtin wegen dieser Frage überhaupt die stellvertretende Vorsitzende\nkontaktierte, dafür, dass die abgelehnte Vorsitzende Richterin am Oberlandesgericht B. keine Entscheidung\nüber die Akteneinsicht getroffen hat, da andernfalls kein Grund bestanden hätte, sich an die stellvertretende\nVorsitzende zu wenden. Vor diesem Hintergrund geht die Beschwerdeführerin in ihrem Ablehnungsgesuch\nvom 20. März 2017 selbst davon aus, dass die Ablehnung der Akteneinsicht in den Geschäftsräumen\n„willkürlich“ durch Richterin am Oberlandesgericht W. erfolgt sei.\n53\n(6) Der Vorwurf, Richterin am Oberlandesgericht W. fühle sich in der Beurteilung der Frage, wie die\nVertretungsregelung der Geschäftsverteilung auszulegen sei, offenbar an die Einschätzung eines\nPräsidiumsmitglieds gebunden und verkenne, dass es sich dabei um eine Rechtsfrage handle, über die\nallein das Spruchrichterkollegium zu befinden habe, das über das Ablehnungsgesuch entscheide\n(Ablehnungsgesuch vom 20. März 2017), ist nicht nachvollziehbar. Bei der Mitteilung der voraussichtlichen\nGerichtsbesetzung im Schreiben vom 2. März 2017 handelte es offensichtlich um eine Auskunft auf der\nGrundlage einer vorläufigen Einschätzung der Rechtslage durch Richterin am Oberlandesgericht W. Dass\nsich die Richterin dabei an die Einschätzung eines Präsidiumsmitglieds rechtlich gebunden fühlte, ist der\nAuskunft nicht zu entnehmen. Ebenso wenig kann aus der Erteilung der Auskunft hergeleitet werden,\nRichterin am Oberlandesgericht W. habe die Entscheidung des Spruchrichterkollegiums hinsichtlich der\nFrage der Gerichtsbesetzung vorwegnehmen wollen. Ob die rechtliche Einschätzung der Richterin\nzutreffend war, bedurfte keiner Klärung, da ein Ablehnungsgesuch nach allgemeiner Auffassung nicht in\nzulässiger Weise auf den Vorwurf falscher Rechtsanwendung gestützt werden kann (vgl. z. B. BVerfG vom\n6.5.2010 - 1 BvR 96/10 - juris Rn. 26). Vor diesem Hintergrund ging auch der Vorwurf, Richterin am\nOberlandesgericht W. habe eine weitere Anfrage unzutreffend beantwortet und eine Mitnahme von\nVerfahrensakten in die Kanzlei des Bevollmächtigten der Beschwerdeführerin am 19. Januar 2017 zu\nUnrecht nicht genehmigt (Ablehnungsgesuch vom 20. März 2017), erkennbar ins Leere.\n54\n(7) Der Vorwurf, die dienstliche Stellungnahme des Richters am Oberlandesgericht F. zu einem\nAblehnungsgesuch im Verfahren Az. 33 WF 238/17 trage das unzutreffende Datum „22.02.2017“ bedurfte\nkeiner Klärung. Die Schlussfolgerung der Beschwerdeführerin, „Wer falsche Datumsangaben macht, wird\nauch nicht davor zurückschrecken, falsche Entscheidungen zulasten der Antragsgegnerin zu treffen“\n(Ablehnungsgesuch vom 20. März 2017), entbehrt einer sachlichen Grundlage und ist ungeeignet, ein\nAblehnungsgesuch zu rechtfertigen.\n55\nbb) Bereits die Zusammenschau der in den Ablehnungsgesuchen vom 3./4. November 2016, 22. Februar\nund 20. März 2017 vorgebrachten offensichtlich substanzlosen Ablehnungsgründe rechtfertigt die Annahme,\ndass die Beschwerdeführerin mit ihren Gesuchen rechtsmissbräuchliche Zwecke verfolgte, nämlich eine\nVerzögerung der Ausgangsverfahren Az. 564 F 2862/11, 564 F 9827/11, 564 F 11849/14, 564 F 6162/16\nund 564 F 6238/16 sowie eine Verhinderung für sie nachteiliger Entscheidungen in den genannten\nVerfahren. Die Auffassung des Oberlandesgerichts, die Ablehnungsgesuche seien einzeln und vor allem in\nihrer Zusammenschau offensichtlich unzulässig, ist mit Blick auf die oben dargestellten Umstände des\nEinzelfalls aus verfassungsrechtlicher Sicht nicht zu beanstanden.\n56\ncc) Die Bewertung der Ablehnungsgesuche als rechtsmissbräuchlich wird durch den vom Oberlandesgericht\nin den Gründen des angegriffenen Beschlusses vom 22. Juni 2017 (dort Nr. I, Seiten 2 bis 17) dargestellten\nbisherigen Verlauf der Verfahren Az. 564 F 2862/11, 564 F 9827/11, 564 F 11849/14, 564 F 6162/16 und\n564 F 6238/16 zusätzlich bestätigt. Die Verfahrensübersicht belegt, dass die Beschwerdeführerin allein im\nVerfahren Az. 564 F 9827/11 (einstweilige Anordnung Umgangsrecht) in mehr als 20 Fällen die zuständigen\nRichter des Amtsgerichts und in fünf Fällen Richter des Oberlandesgerichts wegen Besorgnis der\nBefangenheit abgelehnt hat. Sie folgt dabei dem Muster, auch die Richter, die zur Entscheidung über\nAblehnungsgesuche berufen sind, ihrerseits wegen Besorgnis der Befangenheit abzulehnen. Mit den\nAblehnungsgesuchen wird erkennbar das Ziel verfolgt, Entscheidungen, die zu einem von der\nBeschwerdeführerin nicht gewünschten Ergebnis führen könnten, möglichst zu vermeiden oder\nhinauszuschieben.\n57\nDie Beschwerdeführerin tritt der Richtigkeit der Darstellung der Verfahrensabläufe in Nr. I des Beschlusses\nvom 22. Juni 2017 (abgesehen vom Hinweis auf Unvollständigkeit) nicht entgegen. Ihr Einwand, das\nOberlandesgericht habe in der Bewertung der Verfahrensabläufe bestimmte Gesichtspunkte zu ihrem\nNachteil nicht berücksichtigt, dringt nicht durch.\n58\n(1) Der Gesichtspunkt, dass die Beschwerdeführerin in den familiengerichtlichen Verfahren mehrfach\nVerzögerungsrügen nach § 198 Abs. 3 Satz 1 GVG erhoben hat, wurde vom Oberlandesgericht im\nBeschluss vom 22. Juni 2017 ausdrücklich berücksichtigt. Die Bewertung des Oberlandesgerichts, die\nVerzögerungsrügen stünden der Annahme, die Beschwerdeführerin verfolge mit ihren Ablehnungsgesuchen\nrechtsmissbräuchliche Zwecke, nicht entgegen, ist aus verfassungsrechtlicher Sicht nicht zu beanstanden.\n59\n(2) Dass ein Ablehnungsgesuch der Beschwerdeführerin gegen eine Richterin am Amtsgericht mit\nBeschluss des Oberlandesgerichts vom 28. Februar 2012 für begründet erklärt wurde (Verfahren Az. 564 F\n9827/11), findet in den Gründen des Beschlusses vom 22. Juni 2017 ausdrücklich Erwähnung. Ebenso ist in\nden Gründen ausgeführt, dass das Oberlandesgericht am 21. November 2013 einen Beschluss des\nAmtsgerichts aufhob, mit dem ein Ablehnungsgesuch der Beschwerdeführerin als unzulässig verworfen\nwurde (Verfahren Az. 564 F 2862/11). Vor dem Hintergrund der Vielzahl von Ablehnungsgesuchen, die die\nBeschwerdeführerin in den folgenden Jahren gestellt hat, und mit Blick auf die Substanzlosigkeit der\nAblehnungsgesuche vom 3./4. November 2016, 22. Februar und 20. März 2017 stellt es keinen\nVerfassungsverstoß dar, dass das Oberlandesgericht der Entscheidung vom 21. November 2013 und dem\nErfolg eines Ablehnungsgesuchs im Jahr 2012 keine ausschlaggebende Bedeutung für die Bewertung der\nZulässigkeit der hier verfahrensgegenständlichen Ablehnungsgesuche beigemessen hat.\n60\n(3) Dass sich ein Richter des Amtsgerichts im Verfahren Az. 564 F 2862/11 am\n5. Februar 2014 selbst für befangen erklärt hat, ist in den Gründen des Beschlusses vom 22. Juni 2017\nebenfalls erwähnt. In der Selbstablehnung hat der Richter ausgeführt, er sehe sich aufgrund der\noffensichtlichen wiederholten Verzögerungen durch Verfahrensanträge der Beschwerdeführerin an einer\nneutralen, fairen und transparenten Verfahrensführung gehindert. Auch wenn die Beschwerdeführerin eine\nVerschleppungsabsicht zurückweise, werde zulasten des Kindes mit wiederholten Befangenheitsanträgen\ndas Verfahren in ungebührlichem Maß verzögert. Es ist verfassungsrechtlich nicht zu beanstanden, dass\ndas Oberlandesgericht in dieser Selbstablehnung kein Argument gegen die Rechtsmissbräuchlichkeit der\nAblehnungsgesuche gesehen hat.\n61\ndd) Die Frage, ob der Justizgewährleistungsanspruch des Vaters - etwa im Wege der Drittwirkung von\nGrundrechten im Rahmen des Privatrechts (vgl. hierzu Lindner in Lindner/Möstl/Wolff, Verfassung des\nFreistaates Bayern, 2. Aufl. 2017, vor Art. 98 Rn. 47) oder im Wege des Eingreifens staatlicher\nSchutzpflichten bei Grundrechtsbeeinträchtigungen durch Private (vgl. hierzu Lindner, a. a. O., vor Art. 98\nRn. 94) - als weiteres Argument für die Unzulässigkeit der Ablehnungsgesuche herangezogen werden\nkonnte, bedarf im vorliegenden Fall keiner Klärung. Die Bewertung des Oberlandesgerichts, die\nAblehnungsgesuche seien rechtmissbräuchlich und deshalb unzulässig, hält bereits aus den unter aa) bis\ncc) genannten Gründen der verfassungsrechtlichen Überprüfung stand.\n62\nb) Ein Verstoß gegen Art. 91 Abs. 1 BV liegt nicht vor. Das Oberlandesgericht hat die Ablehnungsgesuche\nder Beschwerdeführerin in verfassungsrechtlich nicht zu beanstandender Weise als rechtmissbräuchlich\nund damit unzulässig verworfen.\nVI.\n63\nDas Verfahren ist kostenfrei (Art. 27 Abs. 1 Satz 1 VfGHG). Der Beschwerdeführerin sind die durch das\nVerfassungsbeschwerdeverfahren Vf. 65-VI-17 verursachten notwendigen Auslagen zur Hälfte aus der\nStaatskasse zu erstatten (Art. 27 Abs. 4 Satz 1 VfGHG). Einer vollständigen Auslagenerstattung im\nVerfahren Vf. 65-VI-17 steht entgegen, dass die Verfassungsbeschwerde gegen die Beschlüsse des\nAmtsgerichts vom 5. September 2016 erfolglos geblieben ist. Die Verfassungsbeschwerde Vf. 66-VI-17 ist\nin vollem Umfang erfolglos geblieben, weshalb eine Auslagenerstattung insoweit unterbleibt.\n\n"
+}

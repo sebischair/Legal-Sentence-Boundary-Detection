@@ -1,0 +1,1259 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beförderungspflicht",
+            "end": 88,
+            "start": 69,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagwort",
+            "end": 99,
+            "start": 89,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 113,
+            "start": 101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 125,
+            "start": 114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 140,
+            "start": 138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "299",
+            "end": 154,
+            "start": 151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34883",
+            "end": 173,
+            "start": 168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34883",
+            "end": 189,
+            "start": 184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 195,
+            "start": 190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 312,
+            "start": 301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 350,
+            "start": 340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 448,
+            "start": 442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 543,
+            "start": 530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leistet",
+            "end": 752,
+            "start": 745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 785,
+            "start": 775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 797,
+            "start": 787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 799,
+            "start": 798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 971,
+            "start": 960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 974,
+            "start": 973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsform",
+            "end": 1250,
+            "start": 1240,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1560,
+            "start": 1559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlängerte",
+            "end": 1731,
+            "start": 1720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1734,
+            "start": 1733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 1813,
+            "start": 1811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Großveranstaltung",
+            "end": 2090,
+            "start": 2073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Minuten",
+            "end": 2136,
+            "start": 2129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aussteigen",
+            "end": 2199,
+            "start": 2189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 2385,
+            "start": 2375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 2477,
+            "start": 2476,
+            "type": "SBD"
+        },
+        {
+            "annotation": "endeten",
+            "end": 2711,
+            "start": 2704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenkamen",
+            "end": 2910,
+            "start": 2897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorbestellung",
+            "end": 3091,
+            "start": 3078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3261,
+            "start": 3259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3264,
+            "start": 3263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirkten",
+            "end": 3401,
+            "start": 3394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überging",
+            "end": 3527,
+            "start": 3519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fahrpreise",
+            "end": 3680,
+            "start": 3670,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3760,
+            "start": 3759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 4017,
+            "start": 4013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4020,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 4136,
+            "start": 4129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkehrt",
+            "end": 4434,
+            "start": 4426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 4691,
+            "start": 4685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4800,
+            "start": 4794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 4947,
+            "start": 4934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 5110,
+            "start": 5105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5113,
+            "start": 5112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5437,
+            "start": 5433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5440,
+            "start": 5439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 5544,
+            "start": 5534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5547,
+            "start": 5546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 5631,
+            "start": 5620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5786,
+            "start": 5779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 5884,
+            "start": 5877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Veranstaltungsgelände",
+            "end": 6109,
+            "start": 6088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 6313,
+            "start": 6302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusehen",
+            "end": 6501,
+            "start": 6492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6615,
+            "start": 6609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mache",
+            "end": 6805,
+            "start": 6800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6947,
+            "start": 6944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennbar",
+            "end": 7025,
+            "start": 7016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 7046,
+            "start": 7027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 7048,
+            "start": 7047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 7092,
+            "start": 7083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterwarf",
+            "end": 7397,
+            "start": 7388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 7585,
+            "start": 7574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7589,
+            "start": 7587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bemessungsgrundlage",
+            "end": 7723,
+            "start": 7704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beträgt",
+            "end": 8208,
+            "start": 8201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8212,
+            "start": 8210,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8825,
+            "start": 8824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8829,
+            "start": 8827,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9088,
+            "start": 9087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9092,
+            "start": 9090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9457,
+            "start": 9454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwenden",
+            "end": 9563,
+            "start": 9555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anwendbar",
+            "end": 9757,
+            "start": 9748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gepäcks",
+            "end": 9875,
+            "start": 9868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9879,
+            "start": 9877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundsätze",
+            "end": 10111,
+            "start": 10101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 10115,
+            "start": 10113,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10510,
+            "start": 10509,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10882,
+            "start": 10881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10886,
+            "start": 10884,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11122,
+            "start": 11121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesetzes",
+            "end": 11166,
+            "start": 11158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalten",
+            "end": 11376,
+            "start": 11367,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11548,
+            "start": 11547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2011",
+            "end": 11868,
+            "start": 11864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszulegen",
+            "end": 12062,
+            "start": 12052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 12239,
+            "start": 12236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einstellen",
+            "end": 12385,
+            "start": 12375,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahren",
+            "end": 12446,
+            "start": 12440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vertrauen",
+            "end": 12563,
+            "start": 12554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 12567,
+            "start": 12565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedürfen",
+            "end": 12820,
+            "start": 12812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 12824,
+            "start": 12822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kraftfahrzeugen",
+            "end": 13038,
+            "start": 13023,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13118,
+            "start": 13117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 13232,
+            "start": 13227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuwenden",
+            "end": 13490,
+            "start": 13480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 13494,
+            "start": 13492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 13708,
+            "start": 13706,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13948,
+            "start": 13947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 14110,
+            "start": 14106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schienenverkehr",
+            "end": 14283,
+            "start": 14268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachverhalt",
+            "end": 14460,
+            "start": 14449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 14837,
+            "start": 14828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 15185,
+            "start": 15178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bindend",
+            "end": 15419,
+            "start": 15412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15423,
+            "start": 15421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15744,
+            "start": 15740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gleichstellung",
+            "end": 15815,
+            "start": 15801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 15964,
+            "start": 15955,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16262,
+            "start": 16261,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16374,
+            "start": 16373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 16584,
+            "start": 16578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 16738,
+            "start": 16734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 16897,
+            "start": 16894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausflugsfahrten",
+            "end": 16964,
+            "start": 16949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausführt",
+            "end": 17242,
+            "start": 17234,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17558,
+            "start": 17557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 17562,
+            "start": 17560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "UStG",
+            "end": 17763,
+            "start": 17759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 17767,
+            "start": 17765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17977,
+            "start": 17974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 18047,
+            "start": 18043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 18051,
+            "start": 18049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 18396,
+            "start": 18392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benutzen",
+            "end": 18535,
+            "start": 18527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erteilt",
+            "end": 18715,
+            "start": 18708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19057,
+            "start": 19051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfordern",
+            "end": 19395,
+            "start": 19386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgesehen",
+            "end": 19481,
+            "start": 19471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 19485,
+            "start": 19483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Genehmigungen",
+            "end": 19569,
+            "start": 19556,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20004,
+            "start": 20003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 20117,
+            "start": 20113,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20278,
+            "start": 20277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begründung",
+            "end": 20434,
+            "start": 20424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 20558,
+            "start": 20557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 20750,
+            "start": 20747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 20754,
+            "start": 20752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleichbar",
+            "end": 20853,
+            "start": 20841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prüfungsmaßstab",
+            "end": 20951,
+            "start": 20936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherschutz",
+            "end": 21030,
+            "start": 21013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PBefG",
+            "end": 21118,
+            "start": 21113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "PBefG",
+            "end": 21320,
+            "start": 21315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 21619,
+            "start": 21616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheidet",
+            "end": 21739,
+            "start": 21726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 21743,
+            "start": 21741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 21886,
+            "start": 21878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 21890,
+            "start": 21888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 21994,
+            "start": 21990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgten",
+            "end": 22185,
+            "start": 22178,
+            "type": "SBD"
+        },
+        {
+            "annotation": "l",
+            "end": 22181,
+            "start": 22180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gefordert",
+            "end": 22235,
+            "start": 22226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beförderungspflicht",
+            "end": 22467,
+            "start": 22448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 22565,
+            "start": 22561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 22768,
+            "start": 22759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 22807,
+            "start": 22806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 23004,
+            "start": 22989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergebnis",
+            "end": 23169,
+            "start": 23161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herabzusetzen",
+            "end": 23233,
+            "start": 23220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 23237,
+            "start": 23235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestand",
+            "end": 23616,
+            "start": 23609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 23686,
+            "start": 23684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 23690,
+            "start": 23688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 23890,
+            "start": 23887,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24180,
+            "start": 24179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einfanden",
+            "end": 24336,
+            "start": 24327,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24590,
+            "start": 24589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ziehen",
+            "end": 24685,
+            "start": 24679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 24792,
+            "start": 24786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 24950,
+            "start": 24947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattfanden",
+            "end": 25112,
+            "start": 25101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gelegenheitsverkehr",
+            "end": 25279,
+            "start": 25260,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25590,
+            "start": 25589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 25594,
+            "start": 25592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beförderungspflicht",
+            "end": 25717,
+            "start": 25698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vereinbarung",
+            "end": 25979,
+            "start": 25967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleichbar",
+            "end": 26168,
+            "start": 26156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 26172,
+            "start": 26170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gab",
+            "end": 26439,
+            "start": 26436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 26443,
+            "start": 26441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückbeförderten",
+            "end": 26649,
+            "start": 26632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 26776,
+            "start": 26769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterwerfen",
+            "end": 26855,
+            "start": 26844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 27198,
+            "start": 27192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 27314,
+            "start": 27307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wären",
+            "end": 27574,
+            "start": 27569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 27578,
+            "start": 27576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 27712,
+            "start": 27705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tag",
+            "end": 27850,
+            "start": 27847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 28001,
+            "start": 27992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuwickeln",
+            "end": 28184,
+            "start": 28173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestand",
+            "end": 28431,
+            "start": 28424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 28435,
+            "start": 28433,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28855,
+            "start": 28854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 29287,
+            "start": 29283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 29291,
+            "start": 29289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 29503,
+            "start": 29499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 29507,
+            "start": 29505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 29709,
+            "start": 29700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 29713,
+            "start": 29711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 29877,
+            "start": 29871,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30057,
+            "start": 30056,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 11.12.2018 – 2 K 524/18\nTitel:\nLinienverkehr, Beförderungspflicht\nSchlagwort:\nUmsatzsteuer\nFundstellen:\nStEd 2019, 56\nEFG 2019, 299\nBeckRS 2018, 34883\nLSK 2018, 34883\nTenor\n1. Unter Abänderung des Umsatzsteuerbescheids für 2012 vom 23.03.2018 wird die Umsatzsteuer 2012 auf\n… € festgesetzt. Im Übrigen wird die Klage abgewiesen.\n2. Die Kosten des Verfahrens haben die Klägerin zu 94 v.H. und der Beklagte zu 6 v. H. zu tragen.\n3. Das Urteil ist wegen der zu erstattenden Aufwendungen der Klägerin vorläufig vollstreckbar. Der Beklagte\ndarf durch Sicherheitsleistung in Höhe der zu erstattenden Aufwendungen der Klägerin die Vollstreckung\nabwenden, wenn nicht die Klägerin vor der Vollstreckung Sicherheit in gleicher Höhe leistet.\n4. Die Revision wird zugelassen.\nTatbestand\n1\nStreitig ist, inwiefern die Ausgangsumsätze der Klägerin als Beförderung von Personen im genehmigten\nLinienverkehr mit Schiffen dem ermäßigten Umsatzsteuersatz unterliegen.\n2\nDie Klägerin, eine Personengesellschaft, betreibt in 1 drei Personenschiffe auf dem linken Fluß A von der\nAltstadt bis zum Hafen und darüber hinaus auf dem Fluß B bis nach 2. Der Betrieb besteht seit mehreren\nJahrzehnten und seit dem Jahr 2000 in der gegenwärtigen Rechtsform. Auf Antrag der Klägerin änderte die\nStadt 1 die zuletzt im … 2011 erneuerte wasserrechtliche „Genehmigung für den nichtliniengebundenen\nPersonenverkehr (Gelegenheitsverkehr)“ mit den Schiffen „Schiff 1“ und „Schiff 2“ am 27.03.2012 in eine\n„Genehmigung für den Linienverkehr“ (Anlage K 5, Bl. 96 der FG-Akte). Unter dem Datum … 2012 erteilte\nsie zudem eine „Genehmigung für den Linienverkehr“ mit dem Schiff „Schiff 3“ (Bl. 372 der Ermittlungsakte),\ndie sie am ….2015 verlängerte.\n3\nIn den Streitjahren 2012 bis 2016 bot die Klägerin unterschiedliche Fahrten an. Das Schiff „Schiff 3“ mit\neiner Kapazität von rund 50 Personen pendelte sieben Monate nach festem Fahrplan zwischen einer\nAnlegestelle in der Altstadt auf dem linken Flussufer und einer Anlegestelle auf dem Gelände einer nördlich\nder Altstadt ausgerichteten Großveranstaltung. Die einfache Fahrt dauerte rund zehn Minuten. An beiden\nAnlegestellen konnten Fahrgäste zu- oder aussteigen. Fahrstrecke, Fahrplan und Fahrpreise waren in\neinem schriftlichen Vertrag vom Februar 2012 zwischen der Klägerin und der Trägergesellschaft der\nGroßveranstaltung verbindlich festgelegt. Der Fahrkartenverkauf an diesen beiden Anlegestellen erbrachte\n2012 Bruttoentgelte von … €. Die Schiffe „Schiff 1“ und „Schiff 2“ mit Kapazitäten von jeweils über 200\nPersonen wurden im gesamten Streitzeitraum für Rundfahrten eingesetzt, die an der Anlegestelle in der\nAltstadt auf dem rechten Flussufer begannen und endeten. Die Hafenrundfahrten fanden von März bis\nNovember abhängig von Wetter und Nachfrage statt, typischerweise täglich zwischen 11 und 16 Uhr im\nStundentakt, sofern mindestens 20 Fahrgäste zusammenkamen. Zudem gab es in den Ferienzeiten\nmehrmals wöchentlich längere, von der Klägerin so bezeichnete, „Ausflugsfahrten“ über das Stadtgebiet\nhinaus sowie Sonderfahrten auf Vorbestellung. Am 22.05.2012 und 23.05.2012 fiel die „Schiff 3“ aus\ntechnischen Gründen aus und die Klägerin wickelte den Verkehr zu der Großveranstaltung im Rahmen der\nRundfahrten ab.\n4\nDie Klägerin gab für die Streitjahre Umsatzsteuererklärungen ab, die als Steuerfestsetzungen unter dem\nVorbehalt der Nachprüfung wirkten. Im Januar 2017 begann der Beklagte (das Finanzamt) bei der Klägerin\neine Außenprüfung, die in eine Fahndungsprüfung überging. Zum Abschluss der Prüfung trafen die Klägerin\nund das Finanzamt am 11.01.2018 eine tatsächliche Verständigung über die Höhe der angefallenen\nFahrpreise. Wegen der Einzelheiten wird auf die Niederschrift verwiesen (BP-Akte Bl. 5 ff). In rechtlicher\nHinsicht vertrat das Finanzamt die Auffassung, die Ausgangsumsätze der Klägerin unterlägen vollständig\ndem allgemeinen Steuersatz und erließ unter dem 23.03.2018 entsprechende Steuerbescheide für 2012 bis\n2015, unter dem 04.04.2018 für 2016.\n5\nDagegen erhob die Klägerin am 24.04.2018 Sprungklage, mit der sie die Anwendung des ermäßigten\nSteuersatzes begehrt. Zur Begründung trägt sie vor, die „Schiff 3“ habe auch nach dem Ende der\nGroßveranstaltung in den Jahren 2013 bis 2016 von Mai bis Oktober jeweils samstags von 13.00 bis 17.00\nim Halbstundentakt zwischen der Anlegestelle in der Altstadt am rechten Flussufer und dem\nVeranstaltungsgelände verkehrt. Auch die Schiffe „Schiff 1“ und „Schiff 2“ hätten 2012 zur Entlastung der\n„Schiff 3“ Gäste von der Altstadt zum Veranstaltungsgelände und zurück befördert und in den Jahren ab\n2013 auf Verlangen Fahrgäste am Veranstaltungsgelände aus- und zusteigen lassen. Das\nVeranstaltungsgelände sei in diesen Fällen jeweils auf dem Rückweg der Hafenrundfahrt angefahren\nworden. Vorbestellungen für Gruppen hätten sich üblicherweise auf die regulären Fahrten bezogen, echte\nSonderfahrten hätten nur sehr selten stattgefunden. Die Genehmigungen der Stadt 1 seien zumindest\nAnhaltspunkte, dass die Fahrten der Klägerin umsatzsteuerrechtlich als genehmigter Linienverkehr zu\nbehandeln seien.\n6\nDie Klägerin beantragt,\ndie Umsatzsteuerbescheide 2012 bis 2015 vom 23.03.2018 und den Umsatzsteuerbescheid 2016 vom\n04.04.2018 dahin zu ändern, dass\ndie Umsatzsteuer 2012 auf … €,\ndie Umsatzsteuer 2013 auf … €,\ndie Umsatzsteuer 2014 auf … €,\ndie Umsatzsteuer 2015 auf … € und\ndie Umsatzsteuer 2016 auf … €\nfestgesetzt wird.\n7\nDas Finanzamt beantragt,\ndie Umsatzsteuer 2012 auf … € festzusetzen und die Klage im Übrigen abzuweisen.\n8\nDas Finanzamt stimmte der Sprungklage zu, hält sie aber für überwiegend unbegründet. Es ist der\nAuffassung, etwaige Fahrten der „Schiff 1“ und der „Schiff 2“ zwischen Veranstaltungsgelände und Altstadt\nim Jahr 2012 seien Ausnahmen gewesen; die dabei vereinnahmten Entgelte ohnehin bei dem\nFahrkartenverkauf auf der Veranstaltung erfasst. Für die von der Klägerin behaupteten Fahrten der „Schiff\n3“ in den Jahren 2013 bis 2016 gebe es keine Anhaltspunkte, auch nicht für regelmäßige Halte der „Schiff\n1“ und der „Schiff 2“ an dem ehemaligen Veranstaltungsgelände. Die Klägerin habe erst während der\nPrüfungsmaßnahmen Verhandlungen mit der Stadt 1 über eine Nutzung der dortigen Anlegestelle\naufgenommen, ihren Außenauftritt angepasst und auf solche Halte hingewiesen. Abgesehen von den\nFahrten der „Schiff 3“ im Jahr 2012 seien die Fahrten der Klägerin bei einer Gesamtwürdigung aller\nUmstände nicht als Linien-, sondern als Gelegenheitsverkehr anzusehen. Allgemein könne für Fahrten, die\nlediglich Vergnügungszwecken dienten, keine Steuerermäßigung beansprucht werden. Zwar dürfe der\ndeutsche Gesetzgeber selbst entscheiden, inwiefern er von der unionsrechtlichen Ermächtigung, bestimmte\nLeistungen einem ermäßigten Steuersatz zu unterwerfen, Gebrauch mache. Eine solche selektive\nAnwendung der Ermäßigungstatbestände sei allerdings nur zulässig, soweit sie durch sachliche Gründe\ngerechtfertigt sei. Für Rundfahrten zu touristischen Zwecken seien solche Gründe nicht erkennbar.\nEntscheidungsgründe\n9\nDie zulässige Klage ist teilweise begründet. Die angefochtenen Steuerfestsetzungen sind rechtswidrig und\nverletzen die Klägerin in ihren Rechten (§ 100 Abs. 1 Satz 1 Halbsatz 1 der Finanzgerichtsordnung -FGO-),\nsoweit das Finanzamt die Fahrten der „Schiff 3“ vom und zum Veranstaltungsgelände im Jahr 2012 dem\nallgemeinen Umsatzsteuersatz unterwarf. Demgegenüber ist die Anwendung des allgemeinen\nUmsatzsteuersatzes auf die übrigen Fahrten, insbesondere Rundfahrten und Sonderfahrten für\ngeschlossene Gesellschaften nicht zu beanstanden.\n10\n1. Die Steuer beträgt nach § 12 Abs. 1 des Umsatzsteuergesetzes (UStG) für jeden steuerpflichtigen\nUmsatz 19% der Bemessungsgrundlage. Die Steuer ermäßigt sich nach § 12 Abs. 2 Nr. 10 UStG auf 7% für\ndie Beförderungen von Personen im Schienenbahnverkehr, im Verkehr mit Oberleitungsomnibussen, im\ngenehmigten Linienverkehr mit Kraftfahrzeugen, im Verkehr mit Taxen, mit Drahtseilbahnen und sonstigen\nmechanischen Aufstiegshilfen aller Art und im genehmigten Linienverkehr mit Schiffen sowie die\nBeförderungen im Fährverkehr innerhalb einer Gemeinde oder wenn die Beförderungsstrecke nicht mehr\nals 50 Kilometer beträgt.\n11\nBis 31.12.2011 galt § 12 Abs. 2 Nr. 10 UStG in einer Fassung, wonach sich die Steuer auf 7% ermäßigte für\ndie Beförderungen von Personen mit Schiffen (§ 12 Abs. 2 Nr. 10 Buchst. a UStG a. F.) und für die\nBeförderungen von Personen im Schienenbahnverkehr, im Verkehr mit Oberleitungsomnibussen, im\ngenehmigten Linienverkehr mit Kraftfahrzeugen, im Verkehr mit Taxen, mit Drahtseilbahnen und sonstigen\nmechanischen Aufstiegshilfen aller Art und die Beförderungen im Fährverkehr innerhalb einer Gemeinde\noder wenn die Beförderungsstrecke nicht mehr als 50 Kilometer beträgt (§ 12 Abs. 2 Nr. 10 Buchst. b UStG\na. F.).\n12\nDie Vorschriften über den ermäßigten Steuersatz sind als Ausnahmevorschriften grundsätzlich eng\nauszulegen (BFH-Urteile vom 28.08.2014 V R 24/13, BFHE 247, 354, BStBl. II 2015, 194, Rz 20; vom\n10.08.2016 XI R 41/14, BFHE 255, 300, BStBl. II 2017, 590, Rz 58).\n13\n2. Unionsrechtliche Grundlage für die Steuersätze sind die Artikel 96 ff. der Mehrwertsteuersystemrichtlinie\n(MwStSystRL). Die Mitgliedstaaten wenden nach Art. 96 MwStSystRL einen Mehrwertsteuer-Normalsatz\nan, den jeder Mitgliedstaat als Prozentsatz der Bemessungsgrundlage festsetzt und der für die Lieferungen\nvon Gegenständen und für Dienstleistungen gleich ist. Die Mitgliedstaaten können nach Art. 98 Abs. 1\nMwStSystRL einen oder zwei ermäßigte Steuersätze anwenden. Die ermäßigten Steuersätze sind nach Art.\n98 Abs. 2 MwStSystRL nur auf die Lieferungen von Gegenständen und die Dienstleistungen der in Anhang\nIII zur MwStSystRL genannten Kategorien anwendbar. Zu diesen Dienstleistungen gehört nach Nr. 5 dieser\nAnlage die Beförderung von Personen und des mitgeführten Gepäcks.\n14\n3. Ob ein „genehmigter Linienverkehr mit Schiffen“ vorliegt, bestimmt sich in entsprechender Anwendung\nder für den „genehmigten Linienverkehr mit Kraftfahrzeugen“ nach § 12 Abs. 2 Nr. 10 Buchst. b UStG a. F.\nentwickelten Grundsätze.\n15\na) Nach der Rechtsprechung des Bundesfinanzhofs zu § 12 Abs. 2 Nr. 10 Buchst. b UStG a. F. kann auch\neine Rundfahrt im Freizeit- oder Tourismusverkehr, bei der Anfangs- und Endpunkt der Fahrstrecke\nzusammenfallen, Linienverkehr sein, wenn die übrigen Voraussetzungen eines Linienverkehrs vorliegen\n(BFH-Urteil vom 30.06.2011 V R 44/10, BFHE 234, 504, BStBl. II 2011, 1003, Leitsatz 1 und Rz 19). Wurde\ndem Betreiber von Stadtrundfahrten von der zuständigen Verwaltungsbehörde eine\nstraßenverkehrsrechtliche Genehmigung als Linienverkehr nach den §§ 42 oder 43 PersBefG erteilt, ist\ndiese nach der genannten Rechtsprechung auch von den Finanzbehörden zu beachten, solange sie nicht\nnichtig ist (BFH-Urteil in BFHE 234, 504, BStBl. II 2011, 1003, Leitsatz 2 und Rz 22).\n16\nb) Diese Grundsätze gelten entsprechend auch für die Auslegung des Tatbestandsmerkmals „genehmigter\nLinienverkehr mit Schiffen“ nach § 12 Abs. 2 Nr. 10 UStG (a. A. für Rundfahrten ohne Zwischenhalt UStAE\nAbschn. 12.13. Abs. 10a Satz 3). Dies folgt aus der Geschichte des Gesetzes. Das Tatbestandsmerkmal\n„im genehmigten Linienverkehr mit Schiffen“ war schon in § 12 Abs. 2 Nr. 10 UStG in der am 01.01.1980 in\nKraft getretenen Fassung des Umsatzsteuergesetzes (BGBl. I 1979, 1953) enthalten. Der Gesetzgeber\nwollte bereits damals die Binnenschifffahrt umsatzsteuerrechtlich mit dem Schienenbahnverkehr und dem\nStraßenverkehr gleichstellen (BT-Drs. 8/1779, S. 32). Lediglich übergangsweise gestand er für\nBeförderungen von Personen mit Schiffen Ausnahmen zu, zunächst aufgrund § 4 Nr. 7 Buchst. b UStG und\n§ 28 Abs. 1 UStG bis 31.12.1983, dann aufgrund § 28 Abs. 4 UStG, zuletzt in der Fassung des Art. 8 Nr. 9\ndes Jahressteuergesetzes 2008 (BGBl. I 2007, 3150 -3170-) bis 31.12.2011. Nach Auslaufen dieser\nAusnahmeregelungen ist § 12 Abs. 2 Nr. 10 UStG im Sinne der ursprünglich angestrebten Gleichstellung\nder Binnenschifffahrt mit dem Straßen- und Schienenverkehr auszulegen. Indem der Gesetzgeber die\nAusnahmeregelungen auslaufen ließ, machte er deutlich, dass aus seiner Sicht eine besondere Behandlung\nder Binnenschifffahrt nicht länger geboten war. Darauf konnten - und mussten - sich die betroffenen\nUnternehmer seit der Veröffentlichung des Jahressteuergesetzes 2008 am 28.12.2007 einstellen. Ihnen\nverblieb mithin ein Übergangszeitraum von vier Jahren. Auch wenn sie möglicherweise eine Verlängerung\nder Ausnahmeregelungen erhofften, durften sie nicht darauf vertrauen.\n17\nc) Ob ein „genehmigter Linienverkehr mit Schiffen“ im Sinne von § 12 Abs. 2 Nr. 10 UStG vorliegt, hängt\ndaher davon ab, ob Beförderungen von Personen mit Schiffen nach Landesrecht einer der Genehmigung\nnach dem PBefG vergleichbaren Genehmigung bedürfen.\n18\naa) Den Vorschriften des PBefG unterliegt nach § 1 Abs. 1 Satz 1 PBefG die entgeltliche oder\ngeschäftsmäßige Beförderung von Personen mit Straßenbahnen, mit Oberleitungsomnibussen (Obussen)\nund mit Kraftfahrzeugen. Kraftfahrzeuge im Sinne des PBefG sind nur Straßenfahrzeuge (§ 4 Abs. 4\nPBefG). Eine dem PBefG vergleichbare bundesrechtliche Regelung für Beförderungen von Personen mit\nSchiffen gibt es nicht. Soweit es für einen „genehmigten Linienverkehr“ auf das PBefG ankommt, sind die zu\nBeförderungen von Personen mit Kraftfahrzeugen entwickelten Grundsätze daher zwar nicht unmittelbar,\naber entsprechend auf Beförderungen von Personen mit Schiffen anzuwenden.\n19\nbb) Setzt das Landesrecht für Beförderungen von Personen mit Schiffen eine der Genehmigung nach dem\nPBefG vergleichbare Genehmigung voraus, hängt die Anwendung des § 12 Abs. 2 Nr. 10 UStG von dieser\nGenehmigung ab. An eine wirksam erteilte Genehmigung sind in entsprechender Anwendung der für\nGenehmigungen nach dem PBefG geltenden Grundsätze auch die Finanzbehörden gebunden (vgl. BFHUrteil\nin BFHE 234, 504, BStBl. II 2011, 1003, Leitsatz 2 und Rz 22). Vor der Erteilung einer gesetzlich\nvorgesehenen Genehmigung ist § 12 Abs. 2 Nr. 10 UStG auch dann nicht anwendbar, wenn die\nBeförderungen genehmigungsfähig sind. Schon nach dem Wortlaut des § 12 Abs. 2 Nr. 10 UStG greift der\nermäßigte Steuersatz erst bei einem „genehmigten“, nicht schon bei einem genehmigungsfähigen\nSchienenverkehr. Die Anknüpfung an die Entscheidung der Verkehrsbehörden berücksichtigt deren\nbesondere Fachkenntnis und vermeidet widersprüchliche Entscheidungen über den gleichen Sachverhalt.\nWegen der vom Gesetzgeber beabsichtigten Gleichstellung der Verkehrsmittel ist eine landesrechtlich\nvorgeschriebene Genehmigung umsatzsteuerrechtlich aber nur bindend, wenn sie nach Voraussetzungen\nund Rechtsfolgen der Genehmigung nach dem PBefG vergleichbar ist, also insbesondere dem gleichen\nZweck dient und für den Unternehmer vergleichbare Rechte und Pflichten begründet. Die\npersonenbeförderungsrechtliche Genehmigungspflicht dient wesentlich dem Verbraucherschutz (BVerwGUrteil\nin BVerwGE 152, 382, Rz 17). Landesrechtlich vorgeschriebene Genehmigungen, die wesentlich\nanderen Zwecken dienen, treffen über das Vorliegen der Voraussetzungen entsprechend PBefG keine\nverbindlichen Aussagen und sind daher nicht bindend. Führt eine landesrechtliche Genehmigung nicht zu\neiner §§ 21, 22 PBefG entsprechenden Betriebs- und Beförderungspflicht, begründet sie keine der\nGenehmigung nach PBefG vergleichbare Pflichten und ist deswegen ebenfalls nicht bindend.\n20\ncc) Erfordert das Landesrecht keine dem PBefG vergleichbare Genehmigung, liegt ein „genehmigter\nLinienverkehr mit Schiffen“ im vorgenannten Sinne vor, wenn die Beförderungen der Sache nach\nhinsichtlich tatsächlicher Durchführung und rechtlichem Rahmen einem genehmigten Linienverkehr im\nSinne des PBefG vergleichbar sind. Auch dies folgt aus der vom Gesetzgeber beabsichtigten\nGleichstellung. Sofern das Gesetz dafür kein anderes Verfahren regelt, haben Finanzbehörden und\nFinanzgerichte selbst zu prüfen, ob diese Voraussetzungen vorliegen. Der Unternehmer ist nach § 21 Abs.\n1 Satz 1 des Personenbeförderungsgesetzes (PBefG) verpflichtet, den ihm genehmigten Betrieb\naufzunehmen und während der Geltungsdauer der Genehmigung den öffentlichen Verkehrsinteressen und\ndem Stand der Technik entsprechend aufrechtzuerhalten (Betriebspflicht). Er ist nach § 22 PBefG unter den\ndort genannten Bedingungen zur Beförderung verpflichtet (Beförderungspflicht). Linienverkehr ist nach § 42\nSatz 1 PBefG eine zwischen bestimmten Ausgangs- und Endpunkten eingerichtete regelmäßige\nVerkehrsverbindung, auf der Fahrgäste an bestimmten Haltestellen ein- und aussteigen können. Er setzt\nnach § 42 PBefG nicht voraus, dass ein Fahrplan mit bestimmten Abfahrts- und Ankunftszeiten besteht oder\nZwischenhaltestellen eingerichtet sind. Gelegenheitsverkehr ist nach § 46 Abs. 1 PBefG die Beförderung\nvon Personen mit Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42, 42a und 43 PBefG ist. Dazu\ngehören nach § 46 Abs. 2 PBefG unter anderem Ausflugsfahrten. Ausflugsfahrten sind nach § 48 Abs. 1\nSatz 1 PBefG Fahrten, die der Unternehmer mit Kraftomnibussen oder Personenkraftwagen nach einem\nbestimmten, von ihm aufgestellten Plan und zu einem für alle Teilnehmer gleichen und gemeinsam\nverfolgten Ausflugszweck anbietet und ausführt. Regelmäßigkeit im Sinne von § 42 Satz 1 PBefG setzt\nvoraus, dass die Fahrten in einer erkennbaren zeitlichen Ordnung wiederholt werden und dass die\nFahrgäste sich auf das Vorhandensein einer Verkehrsverbindung einrichten können (BT-Drs. 3/2450 S. 8;\nBVerwG-Urteil vom 27.08.2015 3 C 14.14, BVerwGE 152, 382, Rz 29).\n21\n4. Nach diesen Grundsätzen waren im Streitfall nur die Fahrten der „Schiff 3“ vom und zum\nVeranstaltungsgelände im Jahr 2012 genehmigter Linienverkehr mit Schiffen im Sinne von § 12 Abs. 2 Nr.\n10 UStG.\n22\na) Die wasserrechtliche Genehmigung der Stadt 1 vom 27.03.2012 ist als solche wirksam, aber für die\numsatzsteuerrechtliche Behandlung nicht bindend, da sie nicht mit der Genehmigung nach PBefG\nvergleichbar ist. Das gleiche gilt für die Genehmigungen vom 25.04.2012 und 20.08.2015.\n23\naa) Nach bayerischem Landesrecht benötigte die Klägerin für ihre Fahrten auf dem linken Fluß A zwar eine\nwasserrechtliche Genehmigung, denn der linke Fluß A in 1 gehört nicht zu den in Nr. xx der Anlage 1 zum\nBundeswasserstraßengesetz (WaStrG) genannten Teilen der Fluß A, die nach § 5 Satz 1 WaStrG\njedermann mit Wasserfahrzeugen befahren darf. Nach Art. 28 Abs. 1 Satz 1 des Bayerischen\nWassergesetzes (BayWG) darf jede Person schiffbare Gewässer zur Schiff- und Floßfahrt benutzen.\nWelche Gewässer schiffbar sind, bestimmt nach Art. 28 Abs. 1 Satz 2 BayWG das Staatsministerium\n(Zulassung). Eine solche Zulassung ist für den unteren linken Fluß A nicht erteilt. An Gewässern, die nicht\nallgemein zur Schiff- und Floßfahrt zugelassen sind (Art. 28 Abs. 1 BayWG), darf nach Art. 28 Abs. 4 Satz 1\nBayWG (sachlich übereinstimmend damit auch nach § 3 Abs. 1 Satz 1 der Bayerischen\nSchifffahrtsverordnung -BaySchiffV-) die Schiff- und Floßfahrt nur mit Genehmigung der\nKreisverwaltungsbehörde ausgeübt werden. Die Genehmigung kann nach Art. 28 Abs. 4 Satz 2 BayWG\nversagt, an Bedingungen und Auflagen geknüpft oder widerrufen werden, soweit das Wohl der\nAllgemeinheit, die Sicherheit und Leichtigkeit des Verkehrs, die öffentliche Ruhe, der Schutz des Eigentums\noder der Fischerei oder die Reinhaltung oder Unterhaltung des Gewässers es erfordern. Eine\nUnterscheidung nach Linien- oder Gelegenheitsverkehr ist dabei nicht vorgesehen.\n24\nbb) Die von der Stadt 1 erteilten Genehmigungen sind wasserrechtliche Genehmigungen. Die Stadt 1 war\nfür diese Genehmigungen zuständig, da sie als kreisfreie Stadt Kreisverwaltungsbehörde ist (Art. 9 Abs. 1\nSatz 1 der Bayerischen Gemeindeordnung). Demgegenüber waren Genehmigungsbehörde für\nLinienverkehr nach PBefG in den Streitjahren die Regierungen, bis 30.06.2015 nach § 29 Abs. 1 der\nVerordnung über Zuständigkeiten im Verkehrswesen (ZustVVerk), ab 01.07.2015 nach § 15 Abs. 2 der\nZuständigkeitsverordnung (ZustV). Zwar ist es nicht schlechthin ausgeschlossen, dass eine Behörde auch\naußerhalb ihrer Zuständigkeiten tätig wird. Ein außerhalb der Zuständigkeit erlassener Verwaltungsakt wäre\ngrundsätzlich nur rechtswidrig, nicht nichtig (vgl. Art. 44 Abs. 2 Nr. 3, Abs. 3 Nr. 1 BayVwVfG). Der\nwasserrechtliche Charakter der Genehmigungen ergibt sich aber schon aus ihrer Betreffzeile, bei der\nGenehmigung vom 27.03.2012 auch aus der Begründung. Der Betreffzeile nach beziehen sich die\nGenehmigungen auf den „Vollzug der Wassergesetze und der Bay. Schifffahrtsordnung“. Die Begründung\nder Genehmigung vom 27.03.2012 geht nur auf die „wasserrechtlichen Vorschriften“, nicht auf die\nVoraussetzungen entsprechend § 42 PBefG oder anderer Vorschriften des PBefG ein.\n25\ncc) Diese wasserrechtlichen Genehmigungen sind nicht mit einer Genehmigung nach PBefG vergleichbar.\nAus Art. 28 Abs. 4 Satz 2 BayWG ergibt sich ein vom PBefG erheblich abweichender Prüfungsmaßstab. Die\nwasserrechtliche Genehmigung dient nicht wesentlich dem Verbraucherschutz. Auch die Rechtsfolgen der\nGenehmigungen entsprechen nicht einer Genehmigung nach PBefG. Die Genehmigungen begründeten für\ndie Klägerin weder kraft allgemeiner wasserrechtlicher Regelung noch kraft Anordnung im Einzelfall eine\nBetriebs- und Beförderungspflicht entsprechend §§ 21, 22 PBefG. Insbesondere bei der Genehmigung vom\n27.03.2012 ging die Stadt 1 ausweislich der Begründung davon aus, die Änderung gegenüber der zuvor\nerteilten Genehmigung betreffe lediglich die „Bezeichnung“ der genehmigten Nutzung, sei mithin\nredaktioneller Art und löse keine materiell-rechtlichen Folgen aus. Wasserrechtlich dürfte dies zutreffen, da\ndas Wasserrecht nicht zwischen Linien- und Gelegenheitsverkehr unterscheidet.\n26\nb) Der Senat hat daher selbst zu prüfen, ob die Fahrten der Klägerin die Voraussetzungen eines\nLinienverkehrs entsprechend § 42 PBefG erfüllen.\n27\naa) Dies ist nur für die Fahrten der „Schiff 3“ vom und zum Veranstaltungsgelände im Jahr 2012 der Fall.\nAus dem für diese Fahrten erstellten Informationsblatt (Anlage K 1, Bl. 88 der FG-Akte, siehe auch Bl. 550\nder Ermittlungsakte) ergibt sich, dass diese Fahrten einem festen Fahrplan folgten. Eine\nMindestteilnehmerzahl wurde nicht gefordert. Aufgrund des von ihr mit Schriftsatz vom 05.12.2018\nvorgelegten Vertrags mit der Trägergesellschaft (Anlage K 17) unterlag die Klägerin zudem einer - wenn\nauch nur rechtsgeschäftlich begründeten - Betriebs- und Beförderungspflicht. Auch das Finanzamt gesteht\nmittlerweile zu, dass für diese Fahrten der ermäßigte Steuersatz gilt. Die für die Fahrkartenverkäufe am\nlinken Flussufer und am Veranstaltungsgelände insgesamt angefallenen Entgelte sind daher nicht als\nBruttoentgelte zu 19%, sondern als Bruttoentgelte zu 7% zu behandeln. Diese Entgelte betragen insgesamt\n… €. Dieser Betrag ist zwischen den Beteiligten unstrittig und aufgrund der handschriftlichen\nAufzeichnungen der Gesellschafter (vgl. Anlage K 2, Bl. 89 der FG-Akte) auch für den Senat\nnachvollziehbar. Die tatsächliche Verständigung betraf nur die Gesamthöhe der Ausgangsumsätze, nicht\ndie Verteilung auf einzelne Schiffe, und führt daher zu keinem anderen Ergebnis. Dementsprechend ist die\nUmsatzsteuer 2012 um … € herabzusetzen.\n28\nbb) Demgegenüber sind die Rundfahrten von „Schiff 1“ und „Schiff 2“, etwaige einzelne Fahrten der „Schiff\n3“ in den Jahren 2013 bis 2016 und Sonderfahrten schon deswegen kein Linienverkehr entsprechend § 42\nPBefG, weil die Klägerin sie nicht regelmäßig im Sinne dieser Vorschrift anbietet und für sie keine §§ 21, 22\nPBefG vergleichbare Betriebs- und Beförderungspflicht bestand. Das Finanzamt wendete insofern zurecht\nden allgemeinen Steuersatz an.\n29\n(1) Zwar kann nach Auffassung des Senats auch eine nur saisonal angebotene Verkehrsverbindung als\nregelmäßig anzusehen sein, wenn innerhalb der Saison eine zeitliche Ordnung der Fahrten erkennbar ist.\nDie Fahrgäste der Klägerin konnten sich aber tatsächlich nicht, wie für eine regelmäßige\nVerkehrsverbindung entsprechend § 42 PBefG erforderlich, auf das Vorhandensein einer Verbindung\neinrichten (vgl. BT-Drs. 3/2450 S. 8; BVerwG-Urteil in BVerwGE 152, 382, Rz 29; siehe bereits unter 3.).\nDem steht entgegen, dass die Klägerin ihre Rundfahrten von Wetter und Nachfrage abhängig machte und\nnur fuhr, wenn sich mindestens 20 Teilnehmer einfanden. Der Senat entnimmt dies einem Handzettel der\nKlägerin aus dem Streitjahr 2016 (Bl. 394 der Ermittlungsakte und Anlage zum Schriftsatz des Finanzamts\nvom 10.12.2018) sowie dem Außenauftritt der Klägerin im Jahr 2017 (Bl. 109 und 354 der Ermittlungsakte).\nZwar lassen sich daraus für die Streitjahre 2012 bis 2015 keine unmittelbaren Schlüsse ziehen. Das\nVerfahren ergab aber keine Anhaltspunkte, dass es sich in diesen Jahren anders verhalten haben könnte.\nGegen eine abweichende Handhabung in früheren Jahren spricht insbesondere, dass das Geschäftsmodell\nder Klägerin seit langem im Wesentlichen unverändert ist. Aus Sicht einzelner Fahrgäste oder kleinerer\nGruppen verblieb damit immer ein Unsicherheitselement, weil es von Dritten abhing, ob bestimmte Fahrten\nstattfanden. Beförderungen von einer Mindestanzahl von Passagieren oder dem wirtschaftlichen Ertrag\neiner einzelnen Fahrt abhängig zu machen, kennzeichnet den Gelegenheitsverkehr. Demgegenüber findet\nLinienverkehr im öffentlichen Verkehrsinteresse nach Maßgabe der Betriebs- und Beförderungspflicht\nunabhängig von dem wirtschaftlichen Ertrag der einzelnen Fahrt statt, solange er insgesamt wirtschaftlich\ntragfähig ist (vgl. BVerwG-Urteil vom 24.10.2013 3 C 26.12, BVerwGE 148, 175, Rz 24).\n30\n(2) Die Klägerin unterlag hinsichtlich der Rund- und Sonderfahrten auch rechtlich keiner Betriebs- und\nBeförderungspflicht. Eine solche Pflicht ergab sich weder - wie unter a) cc) ausgeführt - aus allgemeinen\nwasserrechtlichen Regelungen oder den wasserrechtlichen Genehmigungen der Stadt 1 noch - wie für die\nFahrten der „Schiff 3“ im Jahr 2012 - aus einer vertraglichen Vereinbarung. Unabhängig von der\ntatsächlichen Durchführung sind die Rundfahrten schon wegen des fehlenden rechtlichen Rahmens in der\nSache nicht mit einem Linienverkehr im Sinne des PBefG vergleichbar.\n31\n(3) Da die Rundfahrten der „Schiff 1“ und der „Schiff 2“ insgesamt als Gelegenheitsverkehr entsprechend §§\n46, 48 PBefG einzuordnen sind, kommt es nicht mehr darauf an, inwiefern es auf diesen Rundfahrten\nZwischenhalte (vgl. UStAE Abschn. 12.13. Abs. 10a Satz 3) gab.\n32\nEs kann auch dahingestellt bleiben, in welchem Umfang „Schiff 1“ und „Schiff 2“ im Jahr 2012 zur\nEntlastung der „Schiff 3“ Fahrgäste am Veranstaltungsgelände aufnahmen und in die Altstadt\nzurückbeförderten. Die dafür angefallenen Entgelte sind nach der Überzeugung des Senats bei den\nEinnahmen der „Schiff 3“ (vgl. unter aa) erfasst. Daher sind nicht noch weitere Umsätze dem ermäßigen\nSteuersatz zu unterwerfen. Der Senat geht mit dem Finanzamt und entgegen der Darstellung der Klägerin\ndavon aus, dass die Veranstaltungsgäste ihre Fahrkarten nicht auf dem Schiff, sondern an der Anlegestelle\nerwarben und alle Fahrkartenverkäufe an der Anlegestelle in der Altstadt am linken Flussufer und auf dem\nVeranstaltungsgelände bei der „Schiff 3“ erfasst wurden. Während rund zehn Minuten Fahrt Fahrkarten an\nfünfzig Personen zu verkaufen, wäre kaum zuverlässig möglich gewesen. Die von „Schiff 1“ und „Schiff 2“\nzur Entlastung der „Schiff 3“ am Veranstaltungsgelände aufgenommenen Fahrgäste verfügten daher schon\nüber Fahrkarten und mussten keine Fahrkarten mehr erwerben, deren Erlöse bei „Schiff 1“ und „Schiff 2“\nerfasst worden wären.\n33\nDie Umsätze mit Veranstaltungsbesuchern während des Ausfalls der „Schiff 3“ am 22.05.2012 und\n23.05.2012 sind nicht gesondert erfasst. Im Hinblick auf die Umsätze der „Schiff 3“ am 21.05.2012 und\n24.05.2012 schätzt der Senat diese Umsätze auf jeweils 900 € brutto pro Tag. Da die Beförderung der\nVeranstaltungsbesucher an diesen Tagen in die Rundfahrten eingebunden war, ist sie allerdings wie die\nRundfahrten zu behandeln. Zwar war in dem Vertrag über den Veranstaltungsverkehr ausdrücklich\nvereinbart, bei Ausfall der „Schiff 3“ den Veranstaltungsverkehr „über die bestehende Hafenrundfahrt“\nabzuwickeln. Aufgrund der Bezugnahme auf „die bestehende Hafenrundfahrt“ war die Klägerin aber nicht\nverpflichtet, zusätzliche oder anderenfalls nicht durchgeführte Hafenrundfahrten anzubieten, so dass\ninsoweit keine Betriebs- und Beförderungspflicht bestand.\n34\n(4) Da die Voraussetzungen für einen Linienverkehr entsprechend § 42 PBefG nicht vorliegen, muss der\nSenat auch nicht entscheiden, ob Fahrten, die diese Voraussetzungen erfüllen, gleichwohl\nGelegenheitsverkehr in Form des Ausflugsverkehrs entsprechend §§ 46, 48 PBefG sein können, wenn der\ntouristische oder Freizeitcharakter überwiegt (vgl. Schleswig-Holsteinisches FG, Urteil vom 18.07.2017 4 K\n34/16, EFG 2017, 1625). Da der Landweg von der Anlegestelle der Rundfahrten in der Altstadt zu dem\nVeranstaltungsgelände nur rund 1,8 km beträgt, kann der Senat aber ausschließen, dass ein Fahrgast, der\nnicht aus touristischen Motiven oder zur Freizeitgestaltung fuhr, dafür den Umweg über den Hafen und die\ndamit selbst gegenüber einem Fußmarsch verbundene zeitliche Verzögerung in Kauf genommen hätte, da\nselbst die Busverbindung günstiger gewesen wäre.\n35\n(5) Echte Sonderfahrten für geschlossene Gesellschaften, wie sie die Klägerin dem Grunde nach einräumt,\nsind ohnehin kein Linienverkehr, weil sich die Öffentlichkeit weder auf sie einstellen noch sie nutzen kann.\n36\n5. Die Revisionszulassung beruht auf § 115 Abs. 2 Nr. 1 FGO. Die Rechtsfrage, wann ein genehmigter\nLinienverkehr mit Schiffen im Sinne von § 12 Abs. 2 Nr. 10 UStG vorliegt, hat grundsätzliche Bedeutung.\n37\n6. Die Kostenentscheidung ergibt sich aus § 136 Abs. 1 FGO. Zwar entspricht die Entscheidung dem Antrag\ndes Finanzamts, gleichwohl hatte die Klage teilweise Erfolg. Im Hinblick auf die Höhe des Streitwerts ist das\nFinanzamt nicht nur zu einem geringen Teil unterlegen (vgl. BFH-Beschluss vom 20.09.2010 V R 2/09,\nBFH/NV 2011, 302, unter II.3.).\n\n"
+}

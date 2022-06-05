@@ -1,0 +1,3671 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Wissen",
+            "end": 6,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 391,
+            "start": 387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 257,
+            "start": 253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diskutiert",
+            "end": 596,
+            "start": 586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modell",
+            "end": 911,
+            "start": 905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 1188,
+            "start": 1181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tauglichkeit",
+            "end": 1378,
+            "start": 1366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selektion",
+            "end": 1658,
+            "start": 1649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Etymologie",
+            "end": 1671,
+            "start": 1661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1966,
+            "start": 1964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Allgemeines",
+            "end": 1983,
+            "start": 1972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Meinung",
+            "end": 2174,
+            "start": 2167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 2277,
+            "start": 2272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 2598,
+            "start": 2594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensbegriffs",
+            "end": 2379,
+            "start": 2364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgesetzt",
+            "end": 2926,
+            "start": 2914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2483,
+            "start": 2480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 3158,
+            "start": 3150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3385,
+            "start": 3381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Debatten",
+            "end": 3039,
+            "start": 3031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3277,
+            "start": 3271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "partiell",
+            "end": 3472,
+            "start": 3464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "macht",
+            "end": 2760,
+            "start": 2755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 3581,
+            "start": 3574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwerben",
+            "end": 3698,
+            "start": 3690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3939,
+            "start": 3936,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4136,
+            "start": 4133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialwissenschaften",
+            "end": 4041,
+            "start": 4021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreiben",
+            "end": 4313,
+            "start": 4302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 4540,
+            "start": 4534,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 4823,
+            "start": 4819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4669,
+            "start": 4665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5033,
+            "start": 5030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriffsanalyse",
+            "end": 5066,
+            "start": 5051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkenntnistheorie",
+            "end": 5176,
+            "start": 5159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 5281,
+            "start": 5274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5467,
+            "start": 5464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dass",
+            "end": 5496,
+            "start": 5492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "spielen",
+            "end": 5809,
+            "start": 5802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 5674,
+            "start": 5668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 5942,
+            "start": 5939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermitteln",
+            "end": 6182,
+            "start": 6172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diskutiert",
+            "end": 6448,
+            "start": 6438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 6067,
+            "start": 6057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 6379,
+            "start": 6374,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 6590,
+            "start": 6584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 6842,
+            "start": 6838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anspielt",
+            "end": 7079,
+            "start": 7071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gibt",
+            "end": 6737,
+            "start": 6733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränken",
+            "end": 7236,
+            "start": 7225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 7262,
+            "start": 7256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Überzeugung",
+            "end": 7395,
+            "start": 7384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtfertigungsbedingung",
+            "end": 7714,
+            "start": 7690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umstritten",
+            "end": 7791,
+            "start": 7781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verworfen",
+            "end": 7934,
+            "start": 7925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einordnung",
+            "end": 7993,
+            "start": 7983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Definition",
+            "end": 8018,
+            "start": 8008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8105,
+            "start": 8102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "regnet",
+            "end": 8189,
+            "start": 8183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Selbstwiderspruch",
+            "end": 8218,
+            "start": 8201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 8272,
+            "start": 8266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 8343,
+            "start": 8337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8609,
+            "start": 8603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 8413,
+            "start": 8410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 8462,
+            "start": 8459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 8739,
+            "start": 8735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 8978,
+            "start": 8974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 8852,
+            "start": 8845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Glauben",
+            "end": 9099,
+            "start": 9092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Problem",
+            "end": 9122,
+            "start": 9115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 9136,
+            "start": 9124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Problem",
+            "end": 9153,
+            "start": 9146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 9467,
+            "start": 9459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 9520,
+            "start": 9516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 9342,
+            "start": 9333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 9591,
+            "start": 9586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Meinung",
+            "end": 9902,
+            "start": 9895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9812,
+            "start": 9809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tasche",
+            "end": 9978,
+            "start": 9972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9722,
+            "start": 9719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Job",
+            "end": 10063,
+            "start": 10060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10323,
+            "start": 10320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tasche",
+            "end": 10140,
+            "start": 10134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befinden",
+            "end": 10461,
+            "start": 10453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 10671,
+            "start": 10662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 10762,
+            "start": 10758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahr",
+            "end": 10244,
+            "start": 10240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Debatte",
+            "end": 10785,
+            "start": 10778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 10849,
+            "start": 10847,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 11093,
+            "start": 11089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11394,
+            "start": 11391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelangen",
+            "end": 11233,
+            "start": 11225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 10994,
+            "start": 10989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 11678,
+            "start": 11671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgebracht",
+            "end": 11810,
+            "start": 11799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Goldman",
+            "end": 11879,
+            "start": 11872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sehen",
+            "end": 12105,
+            "start": 12100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerechtfertigt",
+            "end": 12360,
+            "start": 12346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 12282,
+            "start": 12274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelandet",
+            "end": 12543,
+            "start": 12535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 12761,
+            "start": 12756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halte",
+            "end": 12208,
+            "start": 12203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 12460,
+            "start": 12452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekomme",
+            "end": 11561,
+            "start": 11554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterstützen",
+            "end": 12844,
+            "start": 12832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 13131,
+            "start": 13127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 13326,
+            "start": 13321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzuverlässig",
+            "end": 13906,
+            "start": 13893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 13191,
+            "start": 13187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 13450,
+            "start": 13441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 12967,
+            "start": 12962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 13503,
+            "start": 13493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13744,
+            "start": 13741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlässlich",
+            "end": 14076,
+            "start": 14065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 14346,
+            "start": 14337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 13585,
+            "start": 13583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "definierbar",
+            "end": 14371,
+            "start": 14360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 14703,
+            "start": 14700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14954,
+            "start": 14948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerlegen",
+            "end": 14571,
+            "start": 14561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 15113,
+            "start": 15107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 15197,
+            "start": 15191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkenntnistheorie",
+            "end": 15535,
+            "start": 15518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorschlägt",
+            "end": 15735,
+            "start": 15725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 15428,
+            "start": 15422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getreten",
+            "end": 15898,
+            "start": 15890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissenszuschreibungen",
+            "end": 15790,
+            "start": 15769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausübt",
+            "end": 16088,
+            "start": 16082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 16172,
+            "start": 16169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 16334,
+            "start": 16329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beeinflusst",
+            "end": 16643,
+            "start": 16632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 16783,
+            "start": 16773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulassen",
+            "end": 16896,
+            "start": 16888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kneipengespräch",
+            "end": 16449,
+            "start": 16434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetzt",
+            "end": 17350,
+            "start": 17339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 17625,
+            "start": 17621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 17136,
+            "start": 17125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 17735,
+            "start": 17729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 16966,
+            "start": 16964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17499,
+            "start": 17495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 17266,
+            "start": 17259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 17756,
+            "start": 17749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "differenzieren",
+            "end": 17933,
+            "start": 17919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 18242,
+            "start": 18238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18009,
+            "start": 18003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 18275,
+            "start": 18269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 18291,
+            "start": 18285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18739,
+            "start": 18736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "präzisiert",
+            "end": 18770,
+            "start": 18760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19088,
+            "start": 19085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gefasst",
+            "end": 19195,
+            "start": 19188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "notwendig",
+            "end": 19756,
+            "start": 19747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesichert",
+            "end": 19336,
+            "start": 19327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quantenmechanik",
+            "end": 19996,
+            "start": 19981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deuten",
+            "end": 20227,
+            "start": 20221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontraktion",
+            "end": 19927,
+            "start": 19916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 20284,
+            "start": 20278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Theorie",
+            "end": 20529,
+            "start": 20522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 20498,
+            "start": 20495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 20627,
+            "start": 20621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Theorien",
+            "end": 20714,
+            "start": 20706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quantenmechanik",
+            "end": 20869,
+            "start": 20854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 20890,
+            "start": 20884,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aristoteles",
+            "end": 20994,
+            "start": 20983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 21040,
+            "start": 21032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Außenwelt",
+            "end": 21091,
+            "start": 21082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Subjekt",
+            "end": 21162,
+            "start": 21155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewonnen",
+            "end": 21244,
+            "start": 21236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtfertigen",
+            "end": 21319,
+            "start": 21306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herausgestellt",
+            "end": 21428,
+            "start": 21414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfahrungsinhalts",
+            "end": 21485,
+            "start": 21468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "derselben",
+            "end": 21516,
+            "start": 21507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21788,
+            "start": 21785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 21681,
+            "start": 21675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führt",
+            "end": 22139,
+            "start": 22134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 21979,
+            "start": 21973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegenzusetzen",
+            "end": 22274,
+            "start": 22258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Popper",
+            "end": 22318,
+            "start": 22312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "cogitans",
+            "end": 22476,
+            "start": 22468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 22563,
+            "start": 22560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreiben",
+            "end": 23207,
+            "start": 23196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "es",
+            "end": 23224,
+            "start": 23222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängen",
+            "end": 23488,
+            "start": 23480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Exaktheit",
+            "end": 23582,
+            "start": 23573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "formuliert",
+            "end": 23640,
+            "start": 23630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Statistik",
+            "end": 23721,
+            "start": 23712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weiter",
+            "end": 23729,
+            "start": 23723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 23819,
+            "start": 23812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 23934,
+            "start": 23926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 23981,
+            "start": 23974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2004",
+            "end": 24001,
+            "start": 23997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 24129,
+            "start": 24122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 24338,
+            "start": 24330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 24513,
+            "start": 24508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 25047,
+            "start": 25041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 24623,
+            "start": 24613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 24867,
+            "start": 24862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 25387,
+            "start": 25381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 25221,
+            "start": 25208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 25502,
+            "start": 25497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 25786,
+            "start": 25782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestritten",
+            "end": 26009,
+            "start": 25999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 25852,
+            "start": 25842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutungswissen",
+            "end": 25582,
+            "start": 25566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 26048,
+            "start": 26042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Disziplinen",
+            "end": 26153,
+            "start": 26142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeführt",
+            "end": 26200,
+            "start": 26190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 26443,
+            "start": 26439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 26337,
+            "start": 26333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 26607,
+            "start": 26603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beispiele",
+            "end": 26618,
+            "start": 26609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgehen",
+            "end": 26830,
+            "start": 26822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 27060,
+            "start": 27054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 27322,
+            "start": 27316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewegen",
+            "end": 27485,
+            "start": 27478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "warum",
+            "end": 27591,
+            "start": 27586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgegriffen",
+            "end": 27720,
+            "start": 27708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schrieb",
+            "end": 27513,
+            "start": 27506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 27759,
+            "start": 27753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Satzes",
+            "end": 28133,
+            "start": 28127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 27922,
+            "start": 27916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 28030,
+            "start": 28019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschieden",
+            "end": 28348,
+            "start": 28335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersetzt",
+            "end": 28637,
+            "start": 28627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 28872,
+            "start": 28868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwimmen",
+            "end": 28724,
+            "start": 28715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 28492,
+            "start": 28486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 28243,
+            "start": 28239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "differenziert",
+            "end": 28976,
+            "start": 28963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Frankreich",
+            "end": 29075,
+            "start": 29065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaub",
+            "end": 29225,
+            "start": 29219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 29166,
+            "start": 29158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansatz",
+            "end": 29263,
+            "start": 29257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissenspyramide",
+            "end": 29280,
+            "start": 29265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prozess",
+            "end": 29414,
+            "start": 29407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Information",
+            "end": 29676,
+            "start": 29665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 29503,
+            "start": 29499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29620,
+            "start": 29617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 29872,
+            "start": 29868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modell",
+            "end": 29926,
+            "start": 29920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hervorrief",
+            "end": 29807,
+            "start": 29797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 30337,
+            "start": 30328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 30213,
+            "start": 30209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reagieren",
+            "end": 30686,
+            "start": 30677,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 30534,
+            "start": 30530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensrepräsentation",
+            "end": 30710,
+            "start": 30689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neurowissenschaft",
+            "end": 30911,
+            "start": 30894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebrauch",
+            "end": 31018,
+            "start": 31010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gedächtnis",
+            "end": 31134,
+            "start": 31124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationen",
+            "end": 31247,
+            "start": 31234,
+            "type": "SBD"
+        },
+        {
+            "annotation": "definiert",
+            "end": 31320,
+            "start": 31311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 31362,
+            "start": 31356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "austauschen",
+            "end": 31529,
+            "start": 31518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tier",
+            "end": 31800,
+            "start": 31796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systems",
+            "end": 31682,
+            "start": 31675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 31897,
+            "start": 31895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 31973,
+            "start": 31970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgeführt",
+            "end": 32215,
+            "start": 32203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vernetzen",
+            "end": 32493,
+            "start": 32484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Netze",
+            "end": 32513,
+            "start": 32508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quillian",
+            "end": 32573,
+            "start": 32565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 32692,
+            "start": 32685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Federn",
+            "end": 32990,
+            "start": 32984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügen",
+            "end": 32821,
+            "start": 32813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensspeicherung",
+            "end": 33072,
+            "start": 33054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zutreffen",
+            "end": 33238,
+            "start": 33229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterzogen",
+            "end": 33382,
+            "start": 33372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "atmen",
+            "end": 33644,
+            "start": 33639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Federn",
+            "end": 33557,
+            "start": 33551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanspruche",
+            "end": 33502,
+            "start": 33491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nahmen",
+            "end": 33822,
+            "start": 33816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 34162,
+            "start": 34158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benötigt",
+            "end": 33928,
+            "start": 33920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unregelmäßigkeiten",
+            "end": 33967,
+            "start": 33949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 34414,
+            "start": 34411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 34635,
+            "start": 34629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 34693,
+            "start": 34682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 34485,
+            "start": 34481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Intelligenz",
+            "end": 34748,
+            "start": 34737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglicht",
+            "end": 34922,
+            "start": 34912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 35201,
+            "start": 35194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantwortet",
+            "end": 35085,
+            "start": 35074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "isa",
+            "end": 35211,
+            "start": 35208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hasprop",
+            "end": 35253,
+            "start": 35246,
+            "type": "SBD"
+        },
+        {
+            "annotation": "B",
+            "end": 35239,
+            "start": 35238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "B",
+            "end": 35278,
+            "start": 35277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 35387,
+            "start": 35377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 35720,
+            "start": 35716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "etwa",
+            "end": 35734,
+            "start": 35730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fliegen",
+            "end": 35822,
+            "start": 35815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 36148,
+            "start": 36142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schemas",
+            "end": 35968,
+            "start": 35961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachkommen",
+            "end": 36213,
+            "start": 36203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 36061,
+            "start": 36051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 36320,
+            "start": 36314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aussehen",
+            "end": 36373,
+            "start": 36365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standardschema",
+            "end": 36390,
+            "start": 36376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vogel",
+            "end": 36397,
+            "start": 36392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Körperbedeckung",
+            "end": 36418,
+            "start": 36403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Federn",
+            "end": 36426,
+            "start": 36420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fortbewegung",
+            "end": 36444,
+            "start": 36432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Laufen",
+            "end": 36461,
+            "start": 36455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behausung",
+            "end": 36476,
+            "start": 36467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nest",
+            "end": 36482,
+            "start": 36478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachkommen",
+            "end": 36509,
+            "start": 36499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 36518,
+            "start": 36517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "notwendig",
+            "end": 36788,
+            "start": 36779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 36654,
+            "start": 36648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 36945,
+            "start": 36939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dateninterpretation",
+            "end": 37145,
+            "start": 37126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Expertensysteme",
+            "end": 37387,
+            "start": 37372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 37307,
+            "start": 37301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Psychotherapeuten",
+            "end": 37720,
+            "start": 37703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vater",
+            "end": 37785,
+            "start": 37780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 37600,
+            "start": 37594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Familie.“",
+            "end": 37866,
+            "start": 37857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 38112,
+            "start": 38101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 38366,
+            "start": 38361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutlich",
+            "end": 38525,
+            "start": 38517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 38221,
+            "start": 38216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Familie",
+            "end": 37977,
+            "start": 37970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "scheint",
+            "end": 38692,
+            "start": 38685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 38973,
+            "start": 38967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Netz",
+            "end": 38826,
+            "start": 38822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kombinieren",
+            "end": 39340,
+            "start": 39329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einsatz",
+            "end": 39194,
+            "start": 39187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 39472,
+            "start": 39464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neurowissenschaft",
+            "end": 39512,
+            "start": 39495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Netzes",
+            "end": 39574,
+            "start": 39568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlangen",
+            "end": 39751,
+            "start": 39743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 39993,
+            "start": 39989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 40110,
+            "start": 40106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verknüpft",
+            "end": 40469,
+            "start": 40460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "repräsentiert",
+            "end": 40644,
+            "start": 40631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mustererkennung",
+            "end": 40946,
+            "start": 40931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 40325,
+            "start": 40321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 40836,
+            "start": 40830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 41105,
+            "start": 41095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegt",
+            "end": 41324,
+            "start": 41316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 41417,
+            "start": 41413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 41773,
+            "start": 41767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überträgt",
+            "end": 41987,
+            "start": 41978,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 41588,
+            "start": 41583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreicht",
+            "end": 42053,
+            "start": 42045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 42308,
+            "start": 42302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 42517,
+            "start": 42509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwächen",
+            "end": 42845,
+            "start": 42836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 43038,
+            "start": 43032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 42750,
+            "start": 42747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 43221,
+            "start": 43215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 43455,
+            "start": 43451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissenszuständen",
+            "end": 43707,
+            "start": 43691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforscht",
+            "end": 43611,
+            "start": 43602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verursacht",
+            "end": 43875,
+            "start": 43865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einhergehen",
+            "end": 44029,
+            "start": 44018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 44065,
+            "start": 44058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkenntnistheorie",
+            "end": 44092,
+            "start": 44075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 44428,
+            "start": 44424,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nützen",
+            "end": 44940,
+            "start": 44934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinandersetzt",
+            "end": 44317,
+            "start": 44301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 44583,
+            "start": 44579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 44784,
+            "start": 44780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 45287,
+            "start": 45276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 45487,
+            "start": 45483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Presse",
+            "end": 45143,
+            "start": 45137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "untersucht",
+            "end": 45667,
+            "start": 45657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 45795,
+            "start": 45791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissenschaftsgeschichte",
+            "end": 45849,
+            "start": 45826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kriterien",
+            "end": 46175,
+            "start": 46166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verknüpft",
+            "end": 45996,
+            "start": 45987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 46281,
+            "start": 46275,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 46477,
+            "start": 46468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Galileis",
+            "end": 46821,
+            "start": 46813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 46626,
+            "start": 46620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausnutzten",
+            "end": 47125,
+            "start": 47115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klassen",
+            "end": 47059,
+            "start": 47052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprechen",
+            "end": 47403,
+            "start": 47395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Latour",
+            "end": 47698,
+            "start": 47692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Untersuchungen",
+            "end": 47604,
+            "start": 47590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 47289,
+            "start": 47286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 47865,
+            "start": 47863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Relativismus",
+            "end": 47905,
+            "start": 47893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 48219,
+            "start": 48216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 48528,
+            "start": 48520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 48333,
+            "start": 48331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 48845,
+            "start": 48840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 48693,
+            "start": 48687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 49004,
+            "start": 48999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 49152,
+            "start": 49143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 49501,
+            "start": 49493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 49653,
+            "start": 49647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "daher",
+            "end": 49899,
+            "start": 49894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 49834,
+            "start": 49823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gibt",
+            "end": 49275,
+            "start": 49271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuschreibt",
+            "end": 50159,
+            "start": 50149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interessen",
+            "end": 50402,
+            "start": 50392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 50573,
+            "start": 50571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Realität",
+            "end": 50668,
+            "start": 50660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "79",
+            "end": 50690,
+            "start": 50688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinaus",
+            "end": 50818,
+            "start": 50812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geformt",
+            "end": 51141,
+            "start": 51134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Realität",
+            "end": 51255,
+            "start": 51247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 50966,
+            "start": 50961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 51277,
+            "start": 51270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 51370,
+            "start": 51364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Philosophen",
+            "end": 51621,
+            "start": 51610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 51924,
+            "start": 51919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 51508,
+            "start": 51497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 51766,
+            "start": 51758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissens",
+            "end": 52034,
+            "start": 52027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlangen",
+            "end": 52127,
+            "start": 52119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 52249,
+            "start": 52236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 52492,
+            "start": 52486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 52317,
+            "start": 52311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 52792,
+            "start": 52785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klimaforschung",
+            "end": 52996,
+            "start": 52982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 52916,
+            "start": 52910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 52642,
+            "start": 52638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Skeptizismus",
+            "end": 53015,
+            "start": 53003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1648",
+            "end": 53069,
+            "start": 53065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geweckt",
+            "end": 53417,
+            "start": 53410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 53210,
+            "start": 53206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 53778,
+            "start": 53772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 53320,
+            "start": 53310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 53591,
+            "start": 53587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 54177,
+            "start": 54172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 54431,
+            "start": 54427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 53978,
+            "start": 53974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 54755,
+            "start": 54749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 54548,
+            "start": 54542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "täuscht",
+            "end": 54320,
+            "start": 54313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 54852,
+            "start": 54846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzusprechen",
+            "end": 55177,
+            "start": 55165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 55432,
+            "start": 55429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 55011,
+            "start": 55005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 55088,
+            "start": 55082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machten",
+            "end": 55327,
+            "start": 55320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 55652,
+            "start": 55646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 55807,
+            "start": 55802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 56055,
+            "start": 56049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Putnam",
+            "end": 55894,
+            "start": 55888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Baum",
+            "end": 56203,
+            "start": 56199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehen",
+            "end": 56181,
+            "start": 56173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahr",
+            "end": 56435,
+            "start": 56431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "formulieren",
+            "end": 56513,
+            "start": 56502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahr",
+            "end": 56278,
+            "start": 56274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenzen",
+            "end": 56537,
+            "start": 56530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kant",
+            "end": 56552,
+            "start": 56548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 56839,
+            "start": 56833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 56651,
+            "start": 56645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 56931,
+            "start": 56927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 57200,
+            "start": 57194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führen",
+            "end": 57043,
+            "start": 57037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vernunft",
+            "end": 57306,
+            "start": 57298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erkenntnisse",
+            "end": 57402,
+            "start": 57390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 57469,
+            "start": 57465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vernunft",
+            "end": 57640,
+            "start": 57632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 57577,
+            "start": 57573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkennen",
+            "end": 57982,
+            "start": 57972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Metaphysik",
+            "end": 58050,
+            "start": 58040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kant",
+            "end": 58069,
+            "start": 58065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Antinomien",
+            "end": 58145,
+            "start": 58135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegenüber",
+            "end": 58435,
+            "start": 58426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerspruch",
+            "end": 58318,
+            "start": 58307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Menschen",
+            "end": 58694,
+            "start": 58686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beweisen",
+            "end": 58539,
+            "start": 58531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehen",
+            "end": 58811,
+            "start": 58803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 59102,
+            "start": 59098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Postulate",
+            "end": 58918,
+            "start": 58909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zeige",
+            "end": 59288,
+            "start": 59283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erläutern",
+            "end": 59703,
+            "start": 59694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 59616,
+            "start": 59611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 59407,
+            "start": 59401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erschließen",
+            "end": 59829,
+            "start": 59818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angewandt",
+            "end": 60110,
+            "start": 60101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 59992,
+            "start": 59988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinnlos",
+            "end": 60204,
+            "start": 60197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränken",
+            "end": 61014,
+            "start": 61003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 60538,
+            "start": 60535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 60842,
+            "start": 60836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 60398,
+            "start": 60393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 60672,
+            "start": 60668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begnügen",
+            "end": 61164,
+            "start": 61156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegenüber",
+            "end": 61312,
+            "start": 61303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 61541,
+            "start": 61531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 61582,
+            "start": 61575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 61411,
+            "start": 61407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grenzen",
+            "end": 61603,
+            "start": 61596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 61762,
+            "start": 61758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 61872,
+            "start": 61866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 62030,
+            "start": 62026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modellierungsfähigkeiten",
+            "end": 62313,
+            "start": 62289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "drohen",
+            "end": 62488,
+            "start": 62482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 62180,
+            "start": 62173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 62657,
+            "start": 62646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gleichung",
+            "end": 62997,
+            "start": 62988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 62807,
+            "start": 62798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 63113,
+            "start": 63108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissen",
+            "end": 63602,
+            "start": 63596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 63250,
+            "start": 63242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 63507,
+            "start": 63502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 63910,
+            "start": 63905,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prognosen",
+            "end": 63746,
+            "start": 63737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 63998,
+            "start": 63991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "integrieren",
+            "end": 64460,
+            "start": 64449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlangen",
+            "end": 64169,
+            "start": 64161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 64543,
+            "start": 64537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geprägt",
+            "end": 64320,
+            "start": 64313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 64684,
+            "start": 64680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeben",
+            "end": 64612,
+            "start": 64604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 65036,
+            "start": 65030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "98",
+            "end": 65062,
+            "start": 65060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 65263,
+            "start": 65259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 65414,
+            "start": 65411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 65558,
+            "start": 65554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 65684,
+            "start": 65679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übereinstimme",
+            "end": 65905,
+            "start": 65892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 65983,
+            "start": 65980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 66234,
+            "start": 66228,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 66111,
+            "start": 66107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 66821,
+            "start": 66815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwiesen",
+            "end": 66688,
+            "start": 66680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 66468,
+            "start": 66458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 66941,
+            "start": 66932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 67167,
+            "start": 67161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nahe",
+            "end": 67102,
+            "start": 67098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 67322,
+            "start": 67309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehe",
+            "end": 67512,
+            "start": 67508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 67538,
+            "start": 67526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensgesellschaft",
+            "end": 67559,
+            "start": 67540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beobachten",
+            "end": 68099,
+            "start": 68089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 67959,
+            "start": 67956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 67784,
+            "start": 67780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgehe",
+            "end": 68374,
+            "start": 68367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekennzeichnet",
+            "end": 68476,
+            "start": 68462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bildungspolitik",
+            "end": 68696,
+            "start": 68681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unterschiede",
+            "end": 69066,
+            "start": 69054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 68861,
+            "start": 68858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 69214,
+            "start": 69211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diskutiert",
+            "end": 69555,
+            "start": 69545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensfreiheit",
+            "end": 69259,
+            "start": 69244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "diskutiert",
+            "end": 69437,
+            "start": 69427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führe",
+            "end": 69745,
+            "start": 69740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 69885,
+            "start": 69880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 70457,
+            "start": 70454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 70275,
+            "start": 70272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 70570,
+            "start": 70564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommt",
+            "end": 70088,
+            "start": 70083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 70362,
+            "start": 70355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schwert",
+            "end": 70602,
+            "start": 70595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheitsniveau",
+            "end": 70847,
+            "start": 70830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Diskurse",
+            "end": 71086,
+            "start": 71078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelenkt",
+            "end": 71280,
+            "start": 71273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 71190,
+            "start": 71179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 71437,
+            "start": 71429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 71757,
+            "start": 71753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "untersucht",
+            "end": 71578,
+            "start": 71568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bieten",
+            "end": 72111,
+            "start": 72105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 71890,
+            "start": 71887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 72203,
+            "start": 72194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bemüht",
+            "end": 72698,
+            "start": 72692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stünden",
+            "end": 72497,
+            "start": 72490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 72271,
+            "start": 72267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermittlung",
+            "end": 72736,
+            "start": 72725,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforscht",
+            "end": 72835,
+            "start": 72826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfasst",
+            "end": 73052,
+            "start": 73045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreiben",
+            "end": 73310,
+            "start": 73299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklären",
+            "end": 73550,
+            "start": 73542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "antrainiert",
+            "end": 73793,
+            "start": 73782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 74052,
+            "start": 74045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zeigen",
+            "end": 73675,
+            "start": 73669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückverfolgen",
+            "end": 73175,
+            "start": 73160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensrepräsentation",
+            "end": 74274,
+            "start": 74253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 74642,
+            "start": 74636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 74431,
+            "start": 74422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wissensvermittlungsstrategien",
+            "end": 74776,
+            "start": 74747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 74995,
+            "start": 74991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschreibt",
+            "end": 75141,
+            "start": 75131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "interagieren",
+            "end": 75403,
+            "start": 75391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwachsenenbildung",
+            "end": 75649,
+            "start": 75631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sexualpädagogik",
+            "end": 75870,
+            "start": 75855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 76235,
+            "start": 76225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Scardamalia",
+            "end": 76700,
+            "start": 76689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 76391,
+            "start": 76386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 76973,
+            "start": 76969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingehen",
+            "end": 76596,
+            "start": 76588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschiebt",
+            "end": 77102,
+            "start": 77092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 77215,
+            "start": 77209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kompetenzen",
+            "end": 77235,
+            "start": 77224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 77406,
+            "start": 77400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnen",
+            "end": 77566,
+            "start": 77559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lesekompetenz",
+            "end": 77618,
+            "start": 77605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Medienkompetenz",
+            "end": 77699,
+            "start": 77684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 77751,
+            "start": 77743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rapide",
+            "end": 77794,
+            "start": 77788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Informationsüberflutung",
+            "end": 77949,
+            "start": 77926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Problemen",
+            "end": 78158,
+            "start": 78149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 78303,
+            "start": 78298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bloom",
+            "end": 78348,
+            "start": 78343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 78362,
+            "start": 78350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lernziel",
+            "end": 78372,
+            "start": 78364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbreitet",
+            "end": 78449,
+            "start": 78439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 78525,
+            "start": 78522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Knowledge",
+            "end": 78561,
+            "start": 78552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Comprehension",
+            "end": 78592,
+            "start": 78579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Application",
+            "end": 78620,
+            "start": 78609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Analysis",
+            "end": 78644,
+            "start": 78636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Synthesis",
+            "end": 78670,
+            "start": 78661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Evaluation",
+            "end": 78698,
+            "start": 78688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstiges",
+            "end": 78710,
+            "start": 78701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 79044,
+            "start": 79032,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Wissen\nAls Wissen wird üblicherweise ein für Personen oder Gruppen verfügbarer Bestand von Fakten, Theorien und Regeln verstanden, die sich durch den höchstmöglichen Grad an Gewissheit auszeichnen, so dass von ihrer Gültigkeit bzw. Wahrheit ausgegangen wird. Paradoxerweise können daher als Wissen deklarierte Sachverhalts­beschreibungen wahr oder falsch, vollständig oder unvollständig sein. In der Erkenntnistheorie wird Wissen traditionell als wahre und gerechtfertigte Auffassung (englisch justified true belief) bestimmt, die Probleme dieser Bestimmung werden bis in die Gegenwart diskutiert.\r\nDa in der direkten Erkenntnis der Welt die gegenwärtigen Sachverhalte durch den biologischen Wahrnehmungsapparat gefiltert und interpretiert in das Bewusstsein kommen, ist es eine Herausforderung an eine Theorie des Wissens, ob und wie die Wiedergabe der Wirklichkeit mehr sein kann als ein hypothetisches Modell. In konstruktivistischen und falisifikationistischen Ansätzen können einzelne Fakten so nur relativ zu anderen als sicheres Wissen gelten, mit denen Sie im Verbund für die Erkennenden die Welt repräsentieren, es lässt sich aber immer die Frage nach der Letztbegründung stellen. Einzelne moderne Positionen, wie der Pragmatismus oder die Evolutionäre Erkenntnistheorie ersetzen diese Begründung durch Bewährung im sozialen Kontext bzw. durch evolutionäre Tauglichkeit: Im Pragmatismus wird von einer Bezugsgruppe als Wissen anerkannt, was ermöglicht, erfolgreich den Einzel- und dem Gruppeninteresse nachzugehen, in der Evolutionären Erkenntnistheorie sind die Kriterien für Wissen biologisch vorprogrammiert und unterliegen Mutation und Selektion.\r\nEtymologie\r\nDer Ausdruck ‚Wissen‘ stammt von althochdeutsch wiȥȥan bzw. der indogermanischen Perfektform *woida ,ich habe gesehen‘, somit auch ,ich weiß‘[1]. Von der indogermanischen Wurzel *u̯e(i)d (erblicken, sehen)[2] bzw. *weid- leiten sich auch lateinisch videre ,sehen‘ und Sanskrit veda ,Wissen‘ ab.[3]\r\nAllgemeines\r\nDie Definition als wahre und gerechtfertigte Meinung ermöglicht die Unterscheidung zwischen dem Begriff des Wissens und verwandten Begriffen wie Überzeugung, Glauben und allgemeiner Meinung. Sie entspricht zudem weitgehend dem alltäglichen Verständnis von Wissen als „Kenntnis von etwas haben“. Dennoch besteht in der Philosophie keine Einigkeit über die korrekte Bestimmung des Wissensbegriffs. Zumeist wird davon ausgegangen, dass „wahre, gerechtfertigte Meinung“ nicht ausreichend für Wissen ist. Zudem hat sich ein alternativer Sprachgebrauch etabliert, in dem Wissen als vernetzte Information verstanden wird. Entsprechend dieser Definition werden aus Informationen Wissensinhalte, wenn sie in einem Kontext stehen, der eine angemessene Informationsnutzung möglich macht. Eine entsprechende Begriffsverwendung hat sich nicht nur in der Informatik, sondern auch in der Psychologie, der Pädagogik und den Sozialwissenschaften durchgesetzt.\r\nWissen steht als grundlegender erkenntnistheoretischer Begriff im Zentrum zahlreicher philosophischer Debatten. Im Rahmen der philosophischen Begriffsanalyse wird die Frage nach der genauen Definition des Wissensbegriffs gestellt. Zudem thematisiert die Philosophie die Frage, auf welche Weise und in welchem Maße Menschen zu Wissen gelangen können. Diskutiert wird außerdem, inwieweit die Erkenntnismöglichkeiten in einzelnen Themenbereichen begrenzt sind. Der Skeptizismus bezweifelt die menschliche Erkenntnisfähigkeit absolut oder partiell.\r\nEin wichtiges Thema der Philosophie des 20. Jahrhunderts ist schließlich der soziale Charakter des Wissens. Es wird darauf hingewiesen, dass Menschen Wissen nur in gesellschaftlichen und historischen Zusammenhängen erwerben. Dies wirft unter anderem die Frage auf, ob ein gegebener Wissensinhalt immer als Ausdruck eines bestimmten kulturellen Kontexts zu verstehen ist, oder ob Wissen grundsätzlich mit einem kulturübergreifenden Gültigkeitsanspruch verknüpft ist.\r\nIn der empirischen Forschung ist Wissen gleichermaßen ein Thema der Natur- und Sozialwissenschaften. Die Psychologie untersucht, auf welche Weise Wissen bei Menschen gespeichert und vernetzt ist. In den letzten Jahrzehnten wurde diese Forschung durch Ansätze der kognitiven Neurowissenschaft ergänzt, die die Informationsverarbeitung auf der Ebene des Gehirns beschreiben. Auch in der künstlichen Intelligenz spielt das Thema der Wissensrepräsentation eine zentrale Rolle, wobei das Ziel verfolgt wird, verschiedene Formen des Wissens auf effektive Weise in künstlichen Systemen verfügbar zu machen. In der Pädagogik und den Gesellschaftswissenschaften wird erforscht, wie Wissen vermittelt, erworben und verfügbar gemacht wird. Dabei wird auf lernpsychologischer Ebene diskutiert, wie Individuen zu neuem Wissen gelangen und auf welche Weise Wissen sinnvoll vermittelt werden kann. In einem breiteren Kontext werden die Fragen erörtert, welche Bedeutungen verschiedene Formen des Wissens in einer Gesellschaft haben und wie der Zugang zu Wissen sozial, kulturell und ökonomisch geregelt ist.\r\nPhilosophische Begriffsanalyse\r\nDie Analyse unseres Begriffes von Wissen gilt als eines der zentralen Problem der heutigen Erkenntnistheorie.[4] Bereits Plato diskutiert im Theätet verschiedene Versuche einer Bestimmung des Begriffes des Wissens. Zum zentralen Thema wurde eine solche Analyse allerdings erst mit dem Aufkommen der Analytischen Philosophie, der zufolge die Analyse unserer Sprache das Kerngebiet der Philosophie ist.\r\nWissen-wie und Wissen-dass\r\nEine verbreitete auf Gilbert Ryle zurückgehende Unterscheidung trennt sogenanntes Wissen-wie (oder auch „praktisches Wissen“) von Wissen-dass (oder auch „propositionales Wissen“).[5] Unter Wissen-wie versteht Ryle eine Fähigkeit oder Disposition, wie etwa die Fähigkeit Fahrrad zu fahren oder Klavier zu spielen. Sprachlich drücken wir solches Wissen in Sätzen wie „Tina weiß, wie man Fahrrad fährt“ oder „Paul weiß, wie man Klavier spielt“ aus. Solches Wissen bezieht sich in der Regel nicht auf Fakten und lässt sich oft auch nicht ohne Weiteres sprachlich darstellen. Zum Beispiel kann ein virtuoser Klavierspieler einem Laien nicht durch bloße Erklärung sein Wissen-wie vermitteln. Ryle selbst stellt sich gegen die „intellektualistische“ Sichtweise, dass sich Wissen-wie letztlich aber doch auf eine (möglicherweise komplexe) Menge von gewussten Propositionen reduzieren lässt. Diese These wird auch weiterhin in der Erkenntnistheorie diskutiert.[6]\r\nIm Unterschied zu Wissen-wie bezieht sich Wissen-dass direkt auf Propositionen, also auf Aussagen die sich sprachlich wiedergeben lassen. Zum Beispiel reden wir von Wissen-dass in Sätzen wie „Ilse weiß, dass Wale Säugetiere sind“ oder „Frank weiß, dass es keine höchste Primzahl gibt.“ Allerdings muss die gewußte Proposition nicht immer in die Wissenszuschreibung direkt eingebettet sein. Auch Sätze wie „Lisa weiß, wie viele Planeten das Sonnensystem hat“ oder „Karl weiß, was Sarah zu Weihnachten bekommt“ drücken Wissen-dass aus, nämlich weil es eine von Lisa bzw. Karl gewusste Proposition gibt auf die der Satz anspielt. Wissen-dass bezieht sich auf Tatsachen, weshalb sich die erkenntnistheoretischen Debatten um etwa den Skeptizismus in der Regel auf Wissen-dass beschränken.\r\nDefinitionen von Wissen\r\nEiner in der analytischen Philosophie vertretenden These zufolge ist propositionales Wissen eine wahre, gerechtfertigte Überzeugung.[7] Der Satz „S weiß p“ ist demnach dann wahr, wenn (1) p wahr ist (Falsches kann S nur für wahr halten, er irrt sich dann aber) (Wahrheitsbedingung); (2) S davon überzeugt ist, dass p wahr ist (Überzeugungsbedingung); (3) S einen Grund/eine Rechtfertigung dafür angeben kann, dass p wahr ist (Rechtfertigungsbedingung).\r\nInwieweit diese Analyse schon von Platon diskutiert wurde, ist umstritten.[8] Im Theaitetos wird unter anderem die These aufgeworfen, dass Wissen wahre Meinung mit Verständnis sei, allerdings wird dies dann verworfen.[9]\r\n    Siehe auch Gettier-Problem/Historische Einordnung\r\nDie Idee der Definition\r\nZunächst kann man nur dann etwas wissen, wenn man auch eine entsprechende Meinung hat: Der Satz „Ich weiß, dass es regnet, aber ich bin nicht der Meinung, dass es regnet.“ wäre ein Selbstwiderspruch. Eine Meinung ist jedoch nicht hinreichend für Wissen. So kann man etwa falsche Meinungen haben, jedoch kein falsches Wissen. Wissen kann also nur dann vorliegen, wenn man eine wahre Meinung hat. Doch nicht jede wahre Meinung stellt Wissen dar. So kann eine Person eine wahre Meinung über die nächsten Lottozahlen haben, sie kann jedoch kaum wissen, was die nächsten Lottozahlen sein werden.\r\nVon vielen Philosophen wird nun argumentiert, dass eine wahre Meinung gerechtfertigt sein muss, wenn sie Wissen darstellen soll. So kann man etwa Wissen über bereits gezogene Lottozahlen haben, hier sind jedoch auch Rechtfertigungen möglich. Im Falle zukünftiger Lottozahlen ist dies nicht möglich, weswegen selbst eine wahre Meinung hier kein Wissen darstellen kann. Eine solche Definition des Wissens erlaubt auch eine Unterscheidung zwischen „Wissen“ und „bloßem Meinen“ oder „Glauben“.\r\nDas Gettier-Problem\r\nHauptartikel: Gettier-Problem\r\n1963 veröffentlichte der amerikanische Philosoph Edmund Gettier einen Aufsatz, in dem er zu zeigen beanspruchte, dass auch eine wahre, gerechtfertigte Meinung nicht immer Wissen darstellt.[10] Im Gettier-Problem werden Situationen entworfen, in denen wahre, gerechtfertigte Meinungen, jedoch kein Wissen vorliegt. Unter anderem diskutiert Gettier den folgenden Fall: Man nehme an, dass sich Smith und Jones um eine Stelle beworben haben. Smith hat die gerechtfertigte Meinung, dass Jones den Job bekommen wird, da der Arbeitgeber entsprechende Andeutungen gemacht hat. Zudem hat Smith die gerechtfertigte Meinung, dass Jones zehn Münzen in seiner Tasche hat. Aus diesen beiden gerechtfertigten Meinungen folgt die ebenfalls gerechtfertigte Meinung:\r\n(1) Der Mann, der den Job bekommen wird, hat zehn Münzen in seiner Tasche.\r\nNun bekommt allerdings Smith – ohne dass Smith dies weiß – und nicht Jones den Job. Zudem hat Smith, ohne dies zu ahnen, ebenfalls zehn Münzen in seiner Tasche. Smith hat also nicht nur die gerechtfertigte Meinung, dass (1) wahr ist, der Satz ist tatsächlich wahr. Smith verfügt also über die wahre, gerechtfertigte Meinung, dass (1) wahr ist. Dennoch weiß er natürlich nicht, dass (1) wahr ist, denn er hat ja keine Ahnung, wie viele Münzen sich in seiner eigenen Tasche befinden.\r\nDieses Beispiel wirkt zwar recht konstruiert, es geht allerdings auch nur um den grundsätzlichen Punkt, dass sich Situationen denken lassen, in denen eine wahre, gerechtfertigte Meinung kein Wissen darstellt. Dies reicht bereits, um zu zeigen, dass „Wissen“ nicht entsprechend definiert werden kann.\r\nDie „Gettier-Debatte“\r\nAn Gettiers Aufsatz schloss sich eine umfangreiche Debatte an. Es wurde dabei allgemein akzeptiert, dass das Gettier-Problem zeigt, dass sich Wissen nicht als wahre, gerechtfertigte Meinung definieren lässt. Allerdings blieb umstritten, wie mit dem von Gettier aufgeworfenen Problem umgegangen werden soll. David Armstrong argumentierte etwa, dass man lediglich eine vierte Bedingung ergänzen müsse, um zu einer Definition von Wissen zu gelangen.[11] Er schlug vor, dass wahre, gerechtfertigte Meinungen nur dann als Wissen gelten sollten, wenn die Meinung selbst nicht aus falschen Annahmen abgeleitet ist. So würde man in dem von Gettier diskutierten Beispiel deshalb nicht von Wissen reden, weil Smiths Meinung auf der falschen Annahme beruhe, dass Jones den Job bekomme. In den 1960er und 1970er Jahren wurden zahlreiche ähnliche Vorschläge zu einer vierten Bedingung für Wissen gemacht.[12]\r\nInnerhalb dieser Debatte wurden auch zahlreiche weitere Gegenbeispiele gegen Vorschläge zur Definition von Wissen vorgebracht. Ein besonders bekanntes Gedankenexperiment stammt von Alvin Goldman: Man stelle sich eine Region vor, in der die Bewohner täuschend echte Scheunenattrappen am Straßenrand aufstellen, sodass hindurchfahrende Besucher ähnlich potemkinschen Dörfern den Eindruck haben, echte Scheunentore zu sehen.[13] Man nehme nun an, dass ein Besucher durch Zufall vor der einzigen echten Scheune der Region halte. Dieser Besucher hat die Meinung, dass er sich vor einer Scheune befindet. Diese Meinung ist zudem wahr und durch den visuellen Eindruck gerechtfertigt. Dennoch würde man nicht sagen wollen, dass er weiß, dass er sich vor einer echten Scheune befindet. Er ist ja nur durch einen Zufall nicht vor einer der zahllosen Attrappen gelandet. Dieses Beispiel ist unter anderem ein Problem für Armstrongs Definition, da der Besucher seine Meinung nicht auf falsche Annahmen zu stützen scheint, und demnach auch Armstrongs Definition ihm Wissen zusprechen würde.\r\nGoldman selbst wollte mit diesem Beispiel einen alternativen Ansatz unterstützen: er vertrat die These, dass die Rechtfertigungsbedingung durch eine kausale Verlässlichkeitsbedingung ersetzt werden müsse. Es komme nicht darauf an, dass eine Person ihre Meinung rational rechtfertigen könne, vielmehr müsse die wahre Meinung auf eine verlässliche Weise verursacht sein. Das ist im oben erwähnten Scheunen-Beispiel nicht der Fall: der Besucher kann nur unzuverlässig Scheunen erkennen, da er in der gegenwärtigen Umgebung oft durch Scheunenatrappen getäuscht würde. Goldmans Theorie fügt sich in eine Reihe von Ansätzen ein, die in verschiedenen Weisen eine verlässliche Methode verlangen. Diese Ansätze werden als reliabilistisch bezeichnet.[14] Ein Kernproblem für diese Ansätze ist das sogenannte „generality problem“[15]: Es ist möglich, dass dieselbe Person auf einer allgemeinen Ebene über eine verlässliche Methode verfügt, die auf spezifischerer Ebene aber unzuverlässig ist. Zum Beispiel verfügt der Besucher im Scheunen-Beispiel auch weiterhin über eine verlässliche Wahrnehmung, aber seine Scheunen-Wahrnehmung ist sehr unzuverlässig. Auf einer noch spezifischeren Ebene, nämlich der Wahrnehmung der ganz spezifischen Scheune vor der sich der Besucher befindet, wäre seine Wahrnehmung wieder verlässlich. will sich ein Vertreter des Reliabilismus nun auf eine Ebene der Allgemeinheit festlegen, so stellt sich zum einen das Problem, diese Ebene genau zu definieren, zum Anderen drohen weitere Gegenbeispiele in denen eine andere Ebene die natürlichere Perspektive darstellt.\r\nIst Wissen definierbar?\r\nDie dargestellten Probleme ergeben sich aus dem Anspruch, eine exakte Definition anzugeben, folglich reicht schon ein einziges, konstruiertes Gegenbeispiel, um eine Begriffsbestimmung zu widerlegen. Angesichts dieser Situation kann man sich die Frage stellen, ob eine Definition von „Wissen“ überhaupt nötig oder auch möglich ist. Im Sinne Ludwig Wittgensteins Spätphilosophie kann man etwa argumentieren, dass „Wissen“ ein alltagssprachlicher Begriff ohne scharfe Grenzen ist und die verschiedenen Verwendungen von „Wissen“ nur durch Familienähnlichkeiten zusammengehalten werden.[16] Eine solche Analyse würde eine allgemeine Definition von „Wissen“ ausschließen, müsste jedoch nicht zu einer Problematisierung des Wissensbegriffs führen. Man müsste lediglich die Vorstellung aufgeben, „Wissen“ exakt definieren zu können.\r\nEinflussreich ist insbesondere Timothy Williamsons These, dass Wissen sich nicht mit Hilfe anderer Begriffe erklären lässt, sondern vielmehr als Ausgangspunkt für andere erkenntnistheoretische Bemühungen betrachtet werden sollte.[17] Diese These Williamsons ist der Kern der gegenwärtig verbreiteten „Knowledge First“-Erkenntnistheorie. Aber auch außerhalb dieser Strömung wird der Versuch, Wissen zu definieren, zunehmend verworfen, so etwa von Ansgar Beckermann, der Wahrheit als besseren Zielbegriff der Erkenntnistheorie vorschlägt.[18]\r\nSemantik und Pragmatik von Wissenszuschreibungen\r\nIn der jüngeren erkenntnistheoretischen Debatte sind Versuche einer Definition in den Hintergrund getreten. Stattdessen wird ausführlich diskutiert, wie Semantik und Pragmatik von Sätzen der Form „S weiß, dass P“ (sog. Wissenszuschreibungen) interagieren und welchen Einfluss Kontext dabei ausübt. Die folgende Tabelle stellt die fünf wesentlichen Positionen in dieser Debatte dar:\r\nAus Sicht des Kontextualismus hängt die semantische Wahrheit direkt von bestimmten Eigenschaften des Kontexts ab, in dem die Wissenszuschreibung getätigt wurde. Zum Beispiel würde eine Gerichtsverhandlung dabei höhere Standards für Wissen produzieren als ein Kneipengespräch. Dagegen sind Subjekt-Sensitive Invariantisten der Ansicht, dass lediglich der Kontext des Subjekts, von dem die Wissenszuschreibung handelt, die Wahrheit dieser Wissenszuschreibung beeinflusst. Relativisten sind dagegen der Ansicht, dass die Wahrheit dieser Wissenszuschreibungen davon abhängt, in welchem Kontext man sie betrachtet.\r\nAlle drei genannten Positionen haben gemeinsam, dass sie einen Einfluss des Kontexts auf die Semantik zulassen. Dagegen lehnen pragmatische Invariantisten einen solchen Einfluss ab. Sie argumentieren, dass lediglich aufgrund pragmatischer Effekte der Eindruck entsteht, dass die Wahrheitsbedingungen von Wissenszuschreibungen Schwankungen unterliegen. Dabei wird gemeinhin eine Unterscheidung zwischen fallibilistischen und infallibilistischen Ausprägungen dieser Position gemacht. Infallibilisten vertreten die Meinung, dass Wissen absolute Gewissheit voraussetzt. Dies hat zur Folge, dass viele Wissenszuschreibungen sich als semantisch falsch erweisen, weshalb diese Position auch als skeptisch bezeichnet wird. Dem entgegen vertreten Falibilisten die Ansicht, dass die Wahrheitsbedingungen von Wissenszuschreibungen weniger strikt sind. Dies vermeidet den Skeptizismus, allerdings müssen so auch ganz andere pragmatische Effekte behauptet werden.\r\nFormen des Wissens\r\nWissen umfasst eine große Anzahl verschiedenartiger Phänomene, weswegen sich Klassifikationen etabliert haben, die zwischen unterschiedlichen Formen des Wissens differenzieren. Solche Einteilungen können anhand zahlreicher Kriterien vorgenommen werden: So kann Wissen verschiedene Themenbereiche betreffen, es kann mit unterschiedlichen Graden der Gewissheit einhergehen sowie unterschiedlich erworben, gerechtfertigt und präsentiert werden oder auf verschiedene Weisen verfügbar sein.\r\nExaktes und empirisches Wissen\r\nExaktes Wissen\r\nEdmund Husserl definiert „die mathematische Form der Behandlung bei allen streng entwickelten Theorien (im echten Sinne des Wortes) als die einzig wissenschaftliche, die einzige, welche systematische Geschlossenheit und Vollendung, welche Einsicht über alle möglichen Fragen und die möglichen Formen ihrer Lösung bietet“,[30] dabei ist „die Mathematik die Wissenschaft deren einziger Gegenstand die Struktur des menschlichen Verstandes selbst ist“.[31] David Hilbert präzisiert: „Alles was Gegenstand des wissenschaftlichen Denkens überhaupt sein kann, verfällt, sobald es zur Bildung einer Theorie reif ist, der axiomatischen Methode und damit mittelbar der Mathematik“.[32] Dabei ist nach Definition eine Theorie axiomatisierbar, wenn sie in einer rekursiv aufzählbaren Sprache darstellbar ist.[33]\r\nWie jedoch der Gödelsche Unvollständigkeitssatz gezeigt hat, ist dieser Begriff hier zu weit gefasst.[34] Denn in diesem Fall ist weder die Vollständigkeit noch die fundamentale Bedingung der Widerspruchsfreiheit des Axiomensystems gesichert. Hierfür ist notwendig und hinreichend, dass die Theorie in einer rekursiven Sprache oder im Wesentlichen gleichwertig mit einer Chomsky-1-Grammatik formuliert ist (rekursive Sprachen sind etwas allgemeiner gefasst als Chomsky-1-Sprachen, dabei beruhen solche Erweiterungen auf Diagonalisierung und haben keine weitere praktische Bedeutung).[35] Doch für Exaktes Wissen ist als weitere Bedingung das Verstehen notwendig.[36] Beispielsweise blockierte die Vorstellung des „Äthers“ in der Elektrodynamik jahrelang die korrekte Interpretation der Experimente (z. B. bei Lorentz die Kontraktion). Besonders dramatisch waren die Verhältnisse in der Quantenmechanik. Max Born, Werner Heisenberg und Pascual Jordan hatten in ihrer „Dreimännerarbeit“ eine grundlegende Theorie erarbeitet, die sämtliche beobachtbare Phänomene widerspruchsfrei erklärte, man konnte die Ergebnisse jedoch nicht deuten.\r\nSomit ist notwendig und hinreichend für exaktes Wissen:\r\n1. Die Kenntnis einer Struktur, die auf einem vollständigen und widerspruchsfreien Axiomensystem beruht bzw. in einer rekursiven Sprache oder praktisch gleichbedeutend in einer Chomsky-1-Grammatik formuliert ist.\r\n2. Das Verstehen der Theorie.[36]\r\nBeide Bedingungen können nur von der Mathematik und der Theoretischen Physik erfüllt werden. Und auch für die Physik nennt Heisenberg[37] hierfür nur vier abgeschlossene Theorien: Die klassische Mechanik, die Elektrodynamik im Verbund mit der speziellen Relativitätstheorie, die statistische Theorie der Wärme und die Quantenmechanik.\r\nEmpirisches Wissen\r\nWährend das theoretische Wissen auf Platon zurückgeht hat das empirische sein Fundament in Aristoteles.[38] Dabei liegen folgende Postulate zugrunde: 1. Es gibt eine vom Subjekt unabhängige Außenwelt. Oder die Objekte sind zumindest unabhängig vom untersuchenden Subjekt. 2. Die für die Theorie erforderlichen Daten werden durch die fünf Sinne gewonnen. 3. Jedes Resultat der Theorie muss sich durch die Erfahrung rechtfertigen.[36]\r\nFür das Prozedere der Erkenntnis hat dann Galileo Galilei idealtypisch folgende Momente herausgestellt:[39]\r\n1. Die Hypothese bezüglich eines Erfahrungsinhalts.\r\n2. Die Überprüfung derselben.\r\nFür den Test hat dann Mendel die Statistik als das grundlegende Instrumentarium erkannt, wodurch sich die Empirie überhaupt erst als Wissenschaft gestalten konnte.[40]\r\nBereits für Aristoteles war klar, dass auf diese Art und Weise kein sicheres Wissen zu erreichen ist.[41] Arkesilaos und Karneades klassifizierten empirisches Wissen als 1. Glaubhaftes, 2. Glaubhaftes und unwidersprochenes und 3. Glaubhaftes, unwidersprochenes und allseitig geprüftes Wissen.[42] In der Neuzeit hat dann Hume die Problematik hierbei in aller Schärfe offengelegt und gezeigt, dass jeder konsequente Empirismus zur totalen Skepsis führt.[43] Auch der Logische Positivismus und der Kritische Rationalismus hatten dieser „Hume’schen Herausforderung“ nichts entgegenzusetzen: „Wir wissen nicht, wir raten“ (Karl Popper).[44]\r\nRené Descartes, der Begründer des neuzeitlichen Rationalismus trennte bereits strikt die Empirie, die res extensa, von dem Geistigen, der res cogitans. Tatsächlich sind logische Prinzipien empirisch nicht begründbar, wie Hume gezeigt hat.[45] Umgekehrt können aber auch empirische Aussagen logisch nicht begründet werden, die „kartesische Gegenüberstellung von einer res cogitans, dem Menschen, und einer res extensa, der ihn umgebenden Welt, ist unheilbar“.[46] In der Tat „ist es streng erweislich, dass auf dem Standpunkt rein theoretischer Reflexion Materie und Form der Erkenntnis, apriorisches Vernunftgesetz und empirische Gegebenheit niemals ineinander aufgehen, sondern soweit wir auch fortschreiten, beständig wieder auseinanderfallen“.[47] „Warum können wir uns bei der Naturbeschreibung der Mathematik bedienen, ohne den dahinter befindlichen Mechanismus zu beschreiben? Niemand weiß es“.[48]\r\nInwieweit also empirisches Wissen einer der Klassifizierungen von Arkesilaos und Karneades zuzuordnen ist oder, modern gesprochen, welchen Grad von Wahrscheinlichkeit dieses Wissen beanspruchen darf, wird somit entscheidend von folgenden Kriterien abhängen:\r\n1. Inwieweit erfüllt die der Hypothese zugrundeliegende Theorie die Bedingung der Exaktheit? Ist die Hypothese überhaupt in dieser Theorie formuliert?\r\n2. Inwieweit genügt das angewandte Prüfverfahren den Bedingungen der Statistik? Weiter: Inwieweit sind die Bedingungen der Objektivität, Reliabilität und Validität hier erfüllt?[36]\r\nEs ist klar, dass nach dem momentanen Erkenntnisstand nur die Naturwissenschaften diese Bedingungen erfüllen.\r\nUnterscheidung nach der Herkunft des Wissens\r\nNoam Chomsky (2004)\r\nAndere Klassifikationssysteme unterteilen Wissen nicht nach der Form der Verfügbarkeit, sondern nach der Herkunft des Wissens. Die Unterscheidung zwischen angeborenem und erworbenem Wissen ist durch Noam Chomskys Theorie des angeborenen sprachlichen Wissens zu einem zentralen Thema der kognitionswissenschaftlichen Forschung geworden.[49] Chomsky argumentiert, dass sich der Spracherwerb von Kindern nur erklären lasse, wenn man davon ausgehe, dass Menschen bereits ein angeborenes grammatisches Wissen haben. Von manchen Kognitionswissenschaftlern wird die These des angeborenen Wissens auf andere Bereiche übertragen. Die weitestgehende These vertreten Evolutionspsychologen, die davon ausgehen, dass sich viele Formen des Wissens bereits in der Steinzeit evolutionär durchgesetzt hätten und daher universelle, angeborene Merkmale der menschlichen Psyche seien. Nicht nur der Umfang eines solchen angeborenen Wissens ist umstritten, es ist zudem nicht klar, ob angeborene kognitive Mechanismen angemessen als Wissen bezeichnet werden können.\r\nDie auf Immanuel Kant zurückgehende, philosophische Unterscheidung zwischen apriorischem und Wissen a posteriori ist von der Frage nach angeborenem Wissen zu unterscheiden.[50] Als empirisch gilt Wissen genau dann, wenn es der Erfahrung entspringt, also etwa auf alltäglichen Beobachtungen oder auf wissenschaftlichen Experimenten beruht. Demgegenüber gilt Wissen als apriorisch, wenn sich seine Gültigkeit unabhängig von der Erfahrung überprüfen lässt. Ein klassischer Kandidat für Wissen a priori ist analytisches Bedeutungswissen. So ergibt sich die Wahrheit des Satzes Alle Junggesellen sind unverheiratet alleine aus der Bedeutung der Wörter, man muss nicht empirisch überprüfen, ob tatsächlich alle Junggesellen unverheiratet sind. Auch mathematisches Wissen wird häufig als apriorisch betrachtet. Über den Umfang von apriorischem Wissen besteht in der Philosophie keine Einigkeit, zum Teil wird auch die Existenz von Wissen a priori generell bestritten.[51]\r\nExplizites und implizites Wissen\r\nDie Unterscheidung zwischen explizitem Wissen und implizitem Wissen ist bedeutend für viele Disziplinen. Sie wurde 1966 von Michael Polanyi eingeführt.[52] Als explizit gelten Wissensinhalte, über die ein Subjekt bewusst verfügen und die es gegebenenfalls auch sprachlich ausdrücken kann. Implizite Inhalte dagegen zeichnen sich dadurch aus, dass sie nicht auf eine solche Weise verfügbar sind. Die implizite Dimension des Wissens spielt in der Forschung eine zunehmende Rolle, da sich zeigt, dass viele zentrale Wissensinhalte nicht explizit vorhanden sind. Beispiele:\r\n    Ärzte können häufig mit großer Zuverlässigkeit Diagnosen stellen oder Wissenschaftler Experimente analysieren, ohne explizit alle Regeln angeben zu können, nach denen sie bei Diagnose oder Analyse vorgehen.\r\n    Das sprachliche Wissen ist zu weiten Teilen nur implizit verfügbar (vgl. Sprachgefühl), da selbst kompetente Sprecher nur einen Bruchteil der semantischen, syntaktischen und pragmatischen Regeln einer Sprache angeben können.\r\n    In der Forschung zu künstlicher Intelligenz stellt das implizite Wissen eine bedeutende Herausforderung dar, weil sich gezeigt hat, dass komplexes explizites Wissen häufig weitaus leichter zu realisieren ist als scheinbar unkompliziertes implizites Wissen. So ist es einfacher, ein künstliches System zu schaffen, das Theoreme beweist, als einem System beizubringen, sich unfallfrei durch eine Alltagsumwelt zu bewegen.\r\nMatthias Claudius schrieb: „Man weiß oft gerade dann am meisten, wenn man nicht recht sagen kann, warum.“[53] Der Unterschied zwischen explizitem und implizitem Wissen wird auch im Konzept der Kompetenzstufenentwicklung aufgegriffen.\r\nDeklaratives und prozedurales Wissen\r\nIn der Psychologie kann unter Bezug auf gängige Klassifikationen der Gedächtnis­forschung ebenfalls zwischen verschiedenen Typen des Wissens unterschieden werden:[54] Viele Wissensinhalte sind nur kurzfristig vorhanden und werden nicht im Langzeitgedächtnis gespeichert. Beispiele hierfür sind etwa das Wissen um eine Telefonnummer und die exakte Formulierung eines Satzes. Demgegenüber können andere Inhalte als Langzeitwissen über Jahrzehnte oder bis ans Lebensende verfügbar sein. Innerhalb des Langzeitwissens wird wiederum zwischen deklarativem und prozeduralem Wissen unterschieden. Als deklarativ gelten Inhalte genau dann, wenn sie sich auf Fakten beziehen und sprachlich in Form von Aussagesätzen beschrieben werden können. Davon zu unterscheiden ist prozedurales Wissen, das auf Handlungsabläufe bezogen ist und sich häufig einer sprachlichen Formulierung widersetzt. Typische Beispiele für prozedurales Wissen sind Fahrrad fahren, Tanzen oder Schwimmen. So können etwa viele Menschen Fahrrad fahren, ohne sich der einzelnen motorischen Aktionen bewusst zu sein, die für diese Tätigkeit notwendig sind.\r\nSchließlich wird beim deklarativen Wissen zwischen semantischem und episodischem Wissen differenziert. Semantisches Wissen ist abstraktes Weltwissen (Beispiel: „Paris ist die Hauptstadt von Frankreich.“). Episodisches Wissen ist dagegen an die Erinnerung an eine bestimmte Situation gebunden. (Ein Beispiel: „Letzten Sommer war ich in Paris im Urlaub.“)\r\nOrganisationstheoretischer Ansatz\r\nWissenspyramide\r\nWissen ist im Wissensmanagement[55] und der Wissenslogistik[56] eine vorläufig wahre Zustandsgröße und ein selbstbezüglicher Prozess. Seine Definition verändert es bereits, da diese selbst zum Bestandteil des Wissens wird. Voraussetzung für Wissen ist ein wacher und selbstreflektierender Bewusstseinszustand, der dualistisch angelegt ist. Wissen ist mit Erfahrungskontext getränkte Information. Information ist ein Datenbestandteil, welcher beim Beobachter durch die beobachterabhängige Relevanz einen Unterschied hervorrief. Daten sind etwas, was wahrgenommen werden kann, aber nicht muss. Diese Definition ist im Einklang mit dem DIKW-Modell. Letzteres stellt Daten, Informationen, Wissen in einer aufsteigenden Pyramide dar und führt zu Organisationsgedächtnissystemen, deren Hauptziel es ist, die richtige Information zur richtigen Zeit an die richtige Person zu liefern, damit diese die am besten geeignete Lösung wählen kann. Damit wird Wissen mit seiner Nutzung verknüpft, was eine wesentliche Handlungsgrundlage von Informationssystemen darstellt. Wissen bezeichnet deshalb im größeren Rahmen die Gesamtheit aller organisierten Informationen und ihrer wechselseitigen Zusammenhänge, auf deren Grundlage ein vernunftbegabtes System handeln kann. Wissen erlaubt es einem solchen System – vor seinem Wissenshorizont und mit dem Ziel der Selbsterhaltung – sinnvoll und bewusst auf Reize zu reagieren.\r\nWissensrepräsentation\r\n„Wissensrepräsentation“ ist ein zentraler Begriff vieler kognitionswissenschaftlicher Disziplinen wie der Psychologie, der künstlichen Intelligenz, der Linguistik und der kognitiven Neurowissenschaft. Dabei unterscheidet sich die Verwendung des Wissensbegriffs vom philosophischen und alltäglichen Gebrauch. So definiert etwa Robert Solso Wissen als „Speicherung, Integration und Organisation von Information im Gedächtnis. […] Wissen ist organisierte Information, es ist Teil eines Systems oder Netzes aus strukturierten Informationen.“[57] Auf ähnliche Weise wird im Lexikon der Neurowissenschaft definiert: „Information ist der Rohstoff für Wissen. […] Damit aus Information Wissen wird, muss der Mensch auswählen, vergleichen, bewerten, Konsequenzen ziehen, verknüpfen, aushandeln und sich mit anderen austauschen.“[58]\r\nEin so verstandener Wissensbegriff ist unabhängig von der Wahrheit der gespeicherten Informationen und auch vom Bewusstsein des wissenden Systems. Ein Computer könnte genauso über Wissen im Sinne dieser Definition verfügen, wie ein Mensch oder ein beliebiges Tier. Von einfacher Information hebt sich Wissen durch seine Vernetzung mit weiteren Informationen ab. So drückt der Satz Mäuse sind Säugetiere zunächst nur eine Information aus. Zu Wissen wird die Information durch die Verknüpfung mit weiteren Informationen über „Maus“ oder „Säugetier“. Mit einem so verstandenen Wissensbegriff werden in den empirischen Wissenschaften unterschiedliche Forschungsprojekte durchgeführt. Die Kognitionspsychologie entwickelt Modelle zur Wissensorganisation bei Menschen, die kognitive Neurowissenschaft beschreibt die Informationsverarbeitung im Gehirn und die künstliche Intelligenz entwickelt wissensbasierte Systeme, die Informationen organisieren und vernetzen.\r\nSemantische Netze\r\nHypothetisches semantisches Netz nach Collins und Quillian\r\nDie Organisation von Informationen zu Wissen wird in der Psychologie häufig mit Hilfe von semantischen Netzen erklärt. Es wird angenommen, dass Menschen über einfache Informationen der Art Kanarienvögel sind Vögel oder Vögel haben Federn verfügen. Werden derartige Informationen miteinander verknüpft, so ergeben sie ein semantisches Netz und erlauben das Schließen auf weitere Fakten wie Kanarienvögel haben Federn. Ein komplexes semantisches Netz ist eine ökonomische Form der Wissensspeicherung: Merkmale, die allgemein auf Vögel zutreffen, müssen nicht für jede Vogelart neu gespeichert werden, das Gleiche gilt für Merkmale, die allgemein auf Tiere zutreffen.\r\nCollins und Quillian entwickelten ein Modell (siehe Abbildung) semantischer Netze, das sie zudem einer experimentellen Überprüfung unterzogen.[59] Collins und Quillian gingen davon aus, dass die Reise zwischen den Knoten des semantischen Netzes Zeit beanspruche. Die Beurteilung von Sätzen der Art Vögel haben Federn. müsste also messbar schneller sein als die Beurteilung von Sätzen der Art Vögel atmen. Tatsächlich benötigten Probanden durchschnittlich 1310 Millisekunden, um Sätze der ersten Art zu beurteilen, während Sätze der zweiten Art 1380 Millisekunden in Anspruch nahmen. Lagen die Informationen zwei Knoten im semantischen Netz entfernt, so wurden 1470 Millisekunden benötigt. Allerdings gibt es Unregelmäßigkeiten: Häufig verwendete Informationen wie etwa Äpfel sind essbar wurden sehr schnell abgerufen, auch wenn die Information „essbar“ einem allgemeineren Knoten wie „Lebensmittel“ zugeordnet werden kann. Collins und Quillian bauten diese Erkenntnis in ihr Modell ein, indem sie annahmen, dass häufig verwendete Informationen direkt an einem entsprechenden Knoten gespeichert werden, sodass keine zeitintensive Reise im semantischen Netzwerk notwendig ist. Das Modell hat zudem den Vorteil, dass es mit Ausnahmen arbeiten kann. So kann ein typisches Merkmal von Vögeln wie „kann fliegen“ beim entsprechenden Knoten gespeichert werden, auch wenn nicht alle Vögel fliegen können. Die Ausnahmen werden bei Knoten wie „Strauß“ gespeichert.\r\nWissensrepräsentation in der künstlichen Intelligenz\r\nDas Konzept der semantischen Netze wird zudem in der künstlichen Intelligenz bei der Wissensmodellierung angewandt, da es eine effiziente Organisation von Wissen ermöglicht. So kann etwa entsprechend dem Beispiel von Collins und Quillian ein wissensbasiertes System konstruiert werden, das Fragen zu Merkmalen von Lebewesen beantwortet.[60] Eine nichtgraphische Beschreibung des semantischen Netzes ist durch die Definition von zwei Relationen möglich.\r\n    isa: A ist eine Teilmenge von B.\r\n    hasprop: A hat die Eigenschaft B.\r\nMit Hilfe dieser Relationen lässt sich das im semantischen Netz repräsentierte Wissen wie folgt darstellen: (Kanarienvogel isa Vogel), (Strauß isa Vogel), (Vogel isa Tier) … (Kanarienvogel hasprop singen), (Strauß hasprop nicht fliegen), (Strauß hasprop groß), (Vogel hasprop fliegen) … Aus einer solchen Wissensbasis können leicht weitere Fakten abgeleitet werden, so dass nur ein kleiner Teil des Wissens explizit gespeichert werden muss. So gilt etwa: (Kanarienvogel isa Vogel) und (Vogel hasprop fliegen) → (Kanarienvogel hasprop fliegen).\r\nNicht alle Ansätze der Wissensrepräsentation basieren auf semantischen Netzen, ein alternativer Ansatz stützt sich auf das Konzept des Schemas.[61] In einem Schema werden zunächst relevante Merkmale für eine definierte Menge festgelegt. So könnten etwa für die Menge der Vögel die folgenden Merkmale herausgegriffen werden: Körperbedeckung, Fortbewegung, Behausung, Anzahl der Nachkommen. Im Folgenden wird ein Standardschema festgelegt, in dem die prototypischen Eigenschaften definiert werden. Für Vogel könnte das Schema etwa wie folgt aussehen:\r\nStandardschema: Vogel\r\n    Körperbedeckung: Federn\r\n    Fortbewegung: Fliegen, Laufen\r\n    Behausung: Nest\r\n    Anzahl der Nachkommen: 1 bis 6\r\nFür Teilmengen wie Kanarienvogel oder Strauß kann dieses Standardschema gegebenenfalls in einem spezifischeren Schema verändert werden. Dies wäre bei Ausnahmen (Ein Strauß kann nicht fliegen) oder spezifischeren Informationen (etwa zur Anzahl der Nachkommen) notwendig.\r\nEine typische Anwendung der Wissensrepräsentation ist die Konstruktion von Expertensystemen, die große Mengen an Fachwissen speichern und verfügbar machen. Derartige Systeme finden Anwendung in Themenbereichen, in denen das menschliche Gedächtnis mit der Menge der Fakten überfordert ist, etwa in der medizinischen Diagnostik oder der Dateninterpretation. Ein sehr frühes Expertensystem war das 1972 entwickelte Mycin, das zur Diagnose und Therapie von Infektionskrankheiten durch Antibiotika verwendet werden sollte. Mittlerweile existieren zahlreiche auch kommerziell verwendete Expertensysteme.[62]\r\nEin anderes Anwendungsfeld sind Dialogsysteme, die in der Mensch-Computer-Interaktion eingesetzt werden und die Kommunikation eines Menschen mit einem Computer mittels natürlicher Sprache ermöglichen sollen. So simulierte etwa das bereits 1966 von Joseph Weizenbaum programmierte ELIZA das Gespräch mit einem Psychotherapeuten.[63] Auf Aussagen der Art „Ich habe ein Problem mit meinem Vater.“ reagierte das Programm mit dem Satz „Erzählen sie mir mehr von Ihrer Familie.“ Eine derartige Reaktion wurde möglich durch die semantische Verknüpfung von Begriffen wie „Vater“ und „Familie“. Mittlerweile werden auch Programme geschrieben, die das Ziel haben, eine allgemeine, kontextunabhängige Kommunikation zu ermöglichen. Die Idee eines solchen Programms geht auf den Turing-Test zurück, der 1950 von Alan Turing formuliert wurde. Nach Turing sollte man von „denkenden Maschinen“ genau dann reden, wenn Computer in der Kommunikation nicht von Menschen zu unterscheiden seien. Real existierende Dialogsysteme sind jedoch weit von einem solchen Ziel entfernt und machen somit die Probleme der angewandten Wissensrepräsentation deutlich. Zum einen verfügen Menschen über eine so große und vielfältige Menge an Wissen, das eine vollständige Wissensdatenbank in einem Computer nicht zu realisieren scheint. Zum anderen widersetzen sich viele Formen des Wissens einer einfachen und effizienten Repräsentation etwa in einem semantischen Netz. Ein Beispiel hierfür ist das menschliche Wissen um Humor und Ironie – Dialogsysteme sind nicht dazu in der Lage, Witze adäquat erklären zu können.[64]\r\nWissensbasierte Systeme werden auf sehr verschiedene Weisen realisiert, neben semantischen Netzen und Schemata kommen etwa verschiedene logikbasierte Systeme, Skripte und komplexe Wenn-Dann-Regelsysteme zum Einsatz. In modernen, wissensbasierten Systemen werden häufig Hybridarchitekturen verwendet, die verschiedene Wissensrepräsentationstechniken kombinieren. In den letzten Jahrzehnten sind zudem Wissensrepräsentationen auf der Basis von künstlichen neuronalen Netzwerken populär geworden.\r\nKonnektionismus und Neurowissenschaft\r\nVereinfachte Darstellung eines künstlichen neuronalen Netzes\r\nEs stellt sich die Frage nach dem Zusammenspiel zwischen der Struktur des Gedächtnisses und kognitiven Prozessen, um Aufschlüsse über die Repräsentation von Wissen zu erlangen. Aus der Wissenspsychologie und den vorstehenden Erläuterungen kann man entnehmen, dass Wissen in der Kognitionswissenschaft nicht explizit definiert wird, sondern vielmehr als ein Gedächtnisinhalt und als kognitives Phänomen aufgefasst wird. Wissen wird implizit definiert, indem es aufs Engste an die Konzepte Information und Repräsentation angebunden wird.[65]\r\nKlassische Ansätze der Wissensrepräsentation in Psychologie und Informatik sind symbolsprachlich orientiert, sie postulieren und vernetzen Einheiten, die jeweils durch ihren symbolischen Gehalt definiert sind. In dem genannten semantischen Netz werden etwa Mengen und Eigenschaften symbolisch repräsentiert und durch zwei Typen von Relationen verknüpft. Im Konnektionismus beziehungsweise im Parallel Distributed Processing (PDP) wird Wissen hingegen durch die Verknüpfung einfacher Einheiten (künstliche Neurone) repräsentiert.[66] In einem neuronalen Netz (siehe Abbildung für ein einfaches Beispiel) führt ein Input zu einer Aktivitätsausbreitung im Netz und kann je nach Verarbeitung zu verschiedenen Outputs führen. Ein typisches Beispiel für die Arbeitsweise von entsprechenden neuronalen Netzwerken ist die Mustererkennung: Das Ziel des neuronalen Netzwerks ist es, bestimmte Muster zu „erkennen“, also bei einem gegebenen Input das Vorhandensein oder Fehlen des Musters anzuzeigen. Ein entsprechendes Netzwerk könnte etwa über zwei Ausgabeeinheiten verfügen, wobei eine Einheit immer dann aktiviert wird, wenn das Muster vorliegt und die andere Einheit aktiviert wird, wenn das Muster nicht vorliegt.\r\nSoll ein solches Netzwerk zu den erwünschten Ergebnissen führen, so muss es lernfähig sein. Das grundlegende Lernen in neuronalen Netzwerken wird durch die Hebbsche Lernregel realisiert, die bereits 1949 durch den Psychologen Donald Olding Hebb formuliert wurde.[67] Das Lernen in neuronalen Netzen wird realisiert, indem die Verbindungen zwischen den Einheiten gewichtet werden und somit zu unterschiedlich starken Aktivitätsausbreitungen führen. Zweigen etwa von einer Einheit A zwei Verbindungen zu den Einheiten B und C ab, so hängt es von der Gewichtung der Verbindungen ab, wie stark sich die Aktivierung von A auf die Aktivierungen von B und C überträgt. Lernen wird nun durch eine Veränderung der Gewichtungen erreicht. Im Falle der Mustererkennung würde ein Netzwerk so trainiert, dass bei der Präsentation eines Musters die Verbindungen zum einen Output gestärkt werden, während bei der Präsentation eines Nicht-Musters die Verbindungen zum anderen Output gestärkt werden. Durch diesen Prozess lernt das Netzwerk auf verschiedene Varianten des Musters mit der richtigen Ausgabe zu reagieren und anschließend neue, bislang unbekannte Varianten des Musters eigenständig zu „erkennen“.\r\nKünstliche neuronale Netzwerke unterscheiden sich von symbolsprachlichen Ansätzen insbesondere dadurch, dass keine einzelne Einheit Wissen repräsentiert, sondern das Wissen (etwa über Muster) verteilt in dem System realisiert ist. Dabei haben konnektionistische und symbolische Ansätze unterschiedliche Stärken und Schwächen. Während konnektionistische Systeme häufig bei der Muster- oder Spracherkennung eingesetzt werden, eignen sich klassische Verfahren für die Darstellung etwa von explizitem, semantischem Wissen.\r\nDes Weiteren ähneln konnektionistische Systeme stärker der Verarbeitungsweise des Gehirns, in dem ebenfalls nicht einzelne Neuronen als Repräsentationen von Wissen angesehen werden.[68] Vielmehr führt ein Reiz wie ein visueller Stimulus zu einer komplexen Aktivitätsausbreitung im Gehirn, weswegen Wissensverarbeitung und -speicherung im Gehirn ebenfalls durch das Modell der verteilten Repräsentation erklärt wird. In der kognitiven Neurowissenschaft werden entsprechende Aktivitätsmuster mit Hilfe von bildgebenden Verfahren wie der Magnetresonanztomographie erforscht. Ein Ziel ist dabei die Suche nach neuronalen Korrelaten von Bewusstseins- und Wissenszuständen.[69] Nimmt eine Person etwa visuell eine Farbe oder eine Kante wahr, so erwirbt sie Wissen über die Welt und zugleich werden bestimmte Aktivitäten im Gehirn verursacht. Kognitive Neurowissenschaftler versuchen nun, herauszufinden, welche Gehirnaktivitäten mit entsprechenden Wahrnehmungs- und Wissenszuständen einhergehen.\r\nDer soziale Charakter des Wissens\r\nSoziale Erkenntnistheorie\r\nDie philosophische Debatte um den Wissensbegriff und die kognitionswissenschaftliche Forschung zur Wissensrepräsentation ist überwiegend individualistisch, da sie sich mit dem Wissen eines einzelnen Agenten auseinandersetzt. Demgegenüber ist es unbestritten, dass Wissen in sozialen Kontexten erschaffen, vermittelt und überprüft wird. Diese Tatsache hat zur Entwicklung einer sozialen Erkenntnistheorie geführt, die man wiederum in klassische und nicht-klassische Ansätze unterteilen kann.[70]\r\nKlassische Ansätze orientierten sich an der Bestimmung von „Wissen“ als gerechtfertigte oder verlässliche, wahre Meinung, betonen jedoch den intersubjektiven Kontext, in dem Wissen erworben wird. So untersucht etwa Alvin Goldman alltägliche und wissenschaftliche Praktiken unter Bezug auf die Frage, ob sie der Generierung von wahren Meinungen nützen.[71] Zu den von Goldman untersuchten Praktiken gehören etwa die Forschungsorganisation, die Anerkennung wissenschaftlicher Autoritäten, juristische Verfahrensweisen und die Meinungsbildung in der Presse. Ein anderer Ansatz stammt von Philip Kitcher, der sich mit den Auswirkungen der kognitiven Arbeitsteilung auf die Wahrheitsfindung beschäftigt.[72] Der Fortschritt der Wissenschaft beruht nach Kitcher auf einer heterogenen wissenschaftlichen Gemeinschaft, in der mit verschiedenen Interessen und methodologischen Überzeugungen gearbeitet wird.\r\nIn nicht-klassischen Ansätzen der sozialen Erkenntnistheorie wird hingegen nicht der Einfluss von sozialen Praktiken auf Wahrheit, Rechtfertigung oder Verlässlichkeit untersucht. Vielmehr wird soziologisch, historisch oder ethnologisch beschrieben, wie meinungsbildende Praktiken de facto organisiert sind.\r\nWissenschaftssoziologie und Wissenschaftsgeschichte\r\nNicht-klassische Ansätze der sozialen Erkenntnistheorie sind häufig eng mit der wissenschaftssoziologischen und -historischen Forschung verknüpft. In diesen Disziplinen liegt der Schwerpunkt auf der empirischen Beschreibung von meinungsbildenden Praktiken und nicht auf ihrer Bewertung nach erkenntnistheoretischen Kriterien. Entsprechend diesem Ziel werden Faktoren untersucht, die zur Akzeptanz von Meinungen als „Wissen“ führen. Diese Faktoren können weit von den in der klassischen Wissenschaftstheorie vorgeschlagenen Kriterien wie Verifikation, Überprüfung durch Falsifikationsversuche und Widerspruchsfreiheit abweichen.\r\nEs liegen zahlreiche soziologische und historische Fallstudien vor, die beschreiben, wie Meinungen in Gesellschaften als „Wissen“ etabliert werden. So erklärte etwa Paul Feyerabend 1975, dass die Durchsetzung des heliozentrischen Weltbildes nicht auf neuen Entdeckungen beruhe, sondern einer geschickten Propaganda­strategie Galileo Galileis. Die Vertreter des geozentrischen Weltbildes erkannten nach Feyerabend „nicht den Propagandawert von Voraussagen und dramatischen Shows und bedienten sich auch nicht der geistigen und gesellschaftlichen Macht der neu entstandenen Klassen. Sie verloren, weil sie bestehende Möglichkeiten nicht ausnutzten. “[73]\r\nMichel Foucault erklärte 1983 in Der Wille zum Wissen, dass das zunehmende Wissen um die menschliche Sexualität an politische Machtmechanismen gebunden sei: „Um das 18. Jahrhundert herum entsteht ein politischer, ökonomischer und technischer Anreiz, vom Sex zu sprechen. Und das nicht so sehr in Form einer allgemeinen Theorie der Sexualität, sondern in Form von Analyse, Buchführung, Klassifizierung und Spezifizierung, in Form quantitativer und kausaler Untersuchungen.“[74] Soziologische Studien zu gegenwärtigen Forschungsprozessen finden sich bei Bruno Latour. Nach Latour (1987) hängt die Akzeptanz einer wissenschaftlichen Meinung als Wissen wesentlich von Allianzbildungen in der zuständigen wissenschaftlichen Community ab.[75]\r\nKonstruktivismus und Relativismus\r\nAuch wenn viele wissenschaftssoziologische und -historische Fallstudien umstritten sind, ist doch allgemein anerkannt, dass die Akzeptanz von wissenschaftlichen Meinungen häufig von Faktoren wie politischen und rhetorischen Konstellationen, Allianzbildungen und den Interessen des Forschungsbetriebs abhängig ist.\r\nDiese wissenschaftssoziologischen und -historischen Ergebnisse lassen wiederum verschiedene Interpretationen zu. Vertreter einer klassisch orientierten Erkenntnistheorie können darauf hinweisen, dass einige der genannten Faktoren geeignet sein können, um wahre Meinungen im Wissenschaftsbetrieb zu erzeugen. So führe etwa die von Latour beschriebene Allianzbildung dazu, dass Forscher sich auf das Urteilsvermögen und die Kompetenz anderer Wissenschaftler beziehen müssen.[70] Zudem zeigten derartige Fallstudien, dass der Wissenschaftsbetrieb gelegentlich durch politische und rhetorische Einflussnahmen fehlgeleitet werde. Eine solche Interpretation basiert auf der Überzeugung, dass scharf zwischen „Wissen“ und „in einem Kontext als Wissen akzeptiert“ unterschieden werden müsse.[76]\r\nEine solche Unterscheidung zwischen „Wissen“ und „in einem Kontext als Wissen akzeptiert“ wird im relativistischen Konstruktivismus abgelehnt.[77] Derartige Positionen erklären, dass „es keine kontextfreien oder kulturübergreifenden Standards für Rationalität gibt.“[78] Ohne diese Standards kann man allerdings „Wissen“ auch nur noch relativ zu kulturellen Überzeugungen definieren, die Unterscheidung zwischen „Wissen“ und „in einem Kontext als Wissen akzeptiert“ bricht folglich zusammen. Eine derartige Ablehnung des traditionellen Wissensbegriffs setzt die Zurückweisung der Idee einer theorie- und interessenunabhängigen Realität voraus: Solange man Fakten als unabhängig von Theorien und Interessen begreift, kann man Meinungen kontextunabhängig zurückweisen, indem man erklärt, dass sie nicht den Fakten entsprechen. Der relativistische Konstruktivist Nelson Goodman erklärt daher:\r\n    „Der Physiker hält seine Welt für die reale, indem er die Tilgungen, Ergänzungen, Unregelmäßigkeiten und Betonungen anderer [Welt-] Versionen der Unvollkommenheit der Wahrnehmung, der Dringlichkeiten der Praxis oder der dichterischen Freiheit zuschreibt. Der Phänomenalist betrachtet die Wahrnehmungswelt als fundamental, die Beschneidungen, Abstraktionen, Vereinfachungen und Verzerrungen anderer Versionen hingegen als Ergebnis von wissenschaftlichen, praktischen oder künstlerischen Interessen. Für den Mann auf der Straße weichen die meisten Versionen der Wissenschaft, der Kunst und der Wahrnehmung auf mancherlei Weise von der vertrauten und dienstbaren Welt ab. […] Nicht nur Bewegung, Ableitung, Gewichtung und Ordnung sind relativ, sondern auch Realität“\r\n– Nelson Goodman[79]\r\nNicht alle konstruktivistischen Positionen laufen jedoch auf einen relativistischen Konstruktivismus im Sinne Goodmans hinaus. Nichtrelativistische Konstruktivismen erklären mit Goodman, dass Beschreibungen, Gewichtungen und Ordnungen tatsächlich relativ zu Kontexten seien.[80] In diesem Sinne seien etwa viele zentrale wissenschaftliche Begriffe wie „Art“, „Geschlecht“, „Krankheit“ oder „Quark“ vom kulturellen Kontext und von Interessen geformt. Dennoch bezöge man sich mit derartigen kontextabhängigen Begriffen auf kontextunabhängige Fakten in der Realität.\r\nGrenzen des Wissens\r\nDie menschliche Erkenntnisfähigkeit kann aus verschiedenen Perspektiven angezweifelt werden. Zum einen wird menschliches Wissen generell bestritten, zum anderen werden einzelne Themenbereiche als kognitiv unzugänglich beschrieben. Eine generelle Kritik der Erkenntnisfähigkeit findet sich bei relativistischen und skeptizistischen Philosophen. Lehnen Relativisten das Konzept der Wahrheit als Illusion ab, so bricht auch die Idee des Wissens als spezifisch wahre Meinung in sich zusammen. So wird bereits dem Sophisten Protagoras die Ansicht zugesprochen, dass man nicht zwischen einfachem Meinen (dóxa) und Wissen (episteme) unterscheiden könne.[81] Demgegenüber akzeptieren Skeptiker die Idee von objektiven Fakten und somit auch das Konzept des Wissens. Allerdings zweifeln sie an der menschlichen Fähigkeit, Wissen über diese Fakten zu erlangen.\r\nVon derartigen generellen Zweifeln am menschlichen Erkenntnisvermögen sind bereichsspezifische Grenzen zu unterscheiden. Zum einen können metaphysische Erkenntnisgrenzen angenommen werden. Dies ist etwa der Fall, wenn argumentiert wird, dass Menschen kein Wissen über die Existenz Gottes, den freien Willen[82] oder die Natur des Bewusstseins[83] erlangen können. Diese Themen sollen sich aus prinzipiellen Gründen der empirischen Überprüfung entziehen und auch nicht durch rationale Spekulation erforschbar sein. Andererseits können auch empirische Wissensgrenzen postuliert werden, die sich aus der kognitiven oder technischen Begrenztheit des Menschen ergeben. So könnten etwa einige Dynamiken so komplex sein, dass sie sich von Menschen nicht modellieren oder prognostizieren lassen. Diskutiert wird dies etwa in Bezug auf die Ökonomie[84] und die Klimaforschung.[85]\r\nSkeptizismus\r\nRené Descartes in einem Porträt von Frans Hals, 1648\r\nDer Skeptizismus beginnt mit der Feststellung, dass Meinungen nur dann als Wissen ausgezeichnet werden können, wenn man sie überprüfen kann. Eine Meinung, über deren Wahrheitsgehalt man grundsätzlich nichts aussagen kann, kann kein Wissen darstellen. In einem zweiten Schritt werden allgemeine Zweifel an der Überprüfbarkeit von Meinungen geweckt. Die bekannteste skeptizistische Strategie ist der methodische Zweifel, wie er in der ersten Meditation von René Descartes' Meditationes de prima philosophia entwickelt wird.[86] Descartes beginnt mit der Feststellung, dass das scheinbare Wissen von Tatsachen in der Welt durch die Sinne vermittelt ist und ebenfalls bekannt ist, dass die Sinne täuschen können. Nun erkennt Descartes an, dass es Situationen gibt, in denen Sinnestäuschungen ausgeschlossen zu sein scheinen, etwa bei der Wahrnehmung eines Ofens, vor dem man sitzt und den man klar erkennen kann. Doch auch hier könnten Zweifel geweckt werden, da man ähnliche Erfahrungen auch im Traum mache und sofern bei scheinbar offensichtlichen Wahrnehmungen immer durch das Träumen getäuscht werden könne. Schließlich entwirft Descartes das Szenario eines Gottes, der die Menschen in ihrem scheinbaren Wissen über die tatsächliche Realität täuscht. Es geht Descartes nicht darum, dass derartige Gedankenexperimente wahrscheinlich oder auch nur plausibel sind. Vielmehr soll vorgeführt werden, dass solche Szenarien nicht widerlegt und somit nicht ausgeschlossen werden können. Dies ermöglicht einem Skeptiker jedoch, zu argumentieren, dass wir bei keiner unserer Meinungen zeigen können, dass sie der Wahrheit entsprechen und wir somit überhaupt kein sicheres Wissen erlangen können.\r\nSkeptizistische Szenarien sind so konstruiert, dass sie sich nicht empirisch widerlegen lassen. Jeder Beleg, der gegen die allgemeine Täuschung angeführt wird, kann aus der Perspektive des Skeptikers wiederum als Teil der Täuschung zurückgewiesen werden. Dennoch sind verschiedene Einwände gegen den Skeptizismus entwickelt worden. Eine Strategie besteht darin, den skeptizistischen Hypothesen die Relevanz abzusprechen.[87] Die skeptizistischen Szenarien mögen nicht widerlegbar sein, erwiesen sich jedoch als irrelevant, da sie für Menschen keinen Unterschied machten. Ein Problem dieses Einwands ist, dass mit ihm offenbar nicht der Begriff des Wissens zu verteidigen ist. Auch wenn die Wahrheit der skeptizistischen Hypothesen keinen pragmatischen Unterschied machen würde, so bliebe die Möglichkeit des Wissens zweifelhaft, da sich die skeptizistischen Hypothesen nicht ausschließen lassen.\r\nAndere Strategien bestehen darin, den Skeptiker zu widerlegen, etwa indem man zeigt, dass sich der Skeptizismus nicht widerspruchsfrei formulieren lässt. Eine bekannte Widerlegungsstrategie ist das Gehirn-im-Tank-Argument von Hilary Putnam.[88] Putnam argumentiert, dass die Bedeutungen von Gedanken und Begriffen wesentlich abhängig von den kausalen Beziehungen sind, durch die sie verursacht werden: Würde ein Mensch permanent in einer Traumwelt leben, so würden sich seine Gedanken und Begriffe auf diese Traumwelt beziehen. „Hier steht ein Baum.“ würde sich also auf die Bäume der Traumwelt beziehen und wäre daher wahr. Das Gleiche trifft nach Putnam auch auf uns zu, unsere Gedanken und Begriffe beziehen sich auf das, wodurch sie verursacht werden und sind überwiegend wahr. Das skeptizistische Szenario sei daher nicht widerspruchsfrei zu formulieren.\r\nMetaphysische Grenzen\r\nImmanuel Kant\r\nMetaphysische Theorien zeichnen sich dadurch aus, dass sie sich nicht empirisch überprüfen lassen. Bezeichnet man etwa die Frage nach der Existenz Gottes als metaphysisch, so bedeutet dies, dass die empirischen Wissenschaften die Existenz Gottes weder bestätigen noch widerlegen können. Dies impliziert jedoch nicht, dass man kein Wissen über metaphysische Themen erlangen kann. Neben empirischen Untersuchungen können metaphysische Argumente wie Gottesbeweise zu einer Entscheidung führen. Sollen metaphysische Theorien eine Grenze des Wissens darstellen, so muss man behaupten, dass sie sich weder empirisch noch metaphysisch entscheiden lassen. Die bekannteste Variante einer solchen Position findet sich in Immanuel Kants Kritik der reinen Vernunft.\r\n    „Die menschliche Vernunft hat das besondere Schicksal in einer Gattung ihrer Erkenntnisse: dass sie durch Fragen belästigt wird, die sie nicht abweisen kann; denn sie sind ihr durch die Natur der Vernunft selbst aufgegeben, die sie aber auch nicht beantworten kann; denn sie übersteigen alles Vermögen der menschlichen Vernunft. […] [Die Vernunft stürzt] sich in Dunkelheit und Widersprüche, aus welchen sie zwar abnehmen kann, dass irgendwo verborgene Irrtümer zum Grunde liegen müssen, die sie aber nicht entdecken kann, weil die Grundsätze, deren die sich bedient, da sie über die Grenze aller Erfahrung hinausgehen, keinen Probierstein der Erfahrung mehr anerkennen. Der Kampfplatz dieser endlosen Streitigkeiten heißt nun Metaphysik.“\r\n– Immanuel Kant[89]\r\nNach Kant führt die Erörterung von metaphysischen Thesen zu Antinomien: Für die Zustimmung und Ablehnung metaphysischer Thesen ließen sich gleichermaßen überzeugend erscheinende Argumente anführen, die Erörterung ende also in einem Widerspruch. In der Transzendentalen Dialektik erörtert Kant vier Fragen und stellt „Thesis“ und „Antithesis“ einander gegenüber:\r\nNach Kant lassen sich jeweils Thesis und Antithesis mit Hilfe von metaphysischen Argumenten „beweisen“. Da sie sich jedoch widersprechen, führt die Metaphysik nicht zu Wissen oder Erkenntnis, sondern zu einer systematischen Selbstüberforderung der Menschen. Dennoch können Menschen nach Kant die metaphysischen Fragen nicht ignorieren, sie müssen Stellung zu ihnen beziehen. Dies sei jedoch nicht mit Hilfe von rationalen Argumenten und Wissen möglich, sondern nur durch Postulate.\r\nNicht alle Philosophen akzeptieren die These, dass die Metaphysik eine grundsätzliche Grenze des Wissens darstellt, wobei zwischen zwei Typen von Einwänden unterschieden werden muss. Zum einen kann man akzeptieren, dass sich metaphysische Fragen nicht entscheiden lassen, und zugleich behaupten, dass dies die Sinnlosigkeit oder Irrelevanz metaphysischer Fragen zeige. Zum anderen kann man die These vertreten, dass sich metaphysische Fragen doch auf rationaler Ebene entscheiden lassen.\r\nDie erste Strategie ist mit der sprachphilosophischen Tradition des Verifikationismus verknüpft, nach dem ein Satz sinnlos ist, wenn er sich grundsätzlich nicht überprüfen beziehungsweise verifizieren lässt. Diese These lässt sich anhand von Phantasiesätzen wie Dort ist ein hottmück erläutern: Erfährt man, in welchen Situationen ein hottmück feststellbar ist, so kann man sich die Bedeutung von „hottmück“ erschließen. Gilt hingegen in jeder Situation Es ist unklar, ob ein hottmück vorliegt, so scheint der Begriff vollkommen unbestimmt und somit ohne semantischen Gehalt zu sein. Von den Vertretern des Wiener Kreises wurde die verifikationistische Überlegung auf die gesamte Metaphysik angewandt: Wenn sich metaphysische Thesen grundsätzlich nicht verifizieren lassen, so seien sie sinnlos.[90] Man könne also tatsächlich keine Antworten auf metaphysische Fragen finden, dies begrenze jedoch nicht den Raum des Wissens, da metaphysische Fragen unverständlich und ohne Bedeutung seien. Ein zentrales Problem des Verifikationismus ist, dass die Behauptung Nichtverifizierbare Sätze sind sinnlos selbst nicht verifizierbar ist. Wendet man also die verifikationistische These auf den Verifikationismus an, so scheint der Verifikationismus selbst sinnlos zu sein.\r\nDerartige Probleme haben dazu geführt, dass metaphysikkritische Positionen in der Gegenwart eher als Einstellungen denn als philosophische Positionen formuliert werden. Bei naturalistischen Philosophen wie Willard Van Orman Quine findet sich der Vorschlag, sich bei der Erkenntnisgewinnung auf die empirischen Wissenschaften zu beschränken. Quine will nicht nachweisen, dass „philosophische Spekulation“ sinnlos ist, vielmehr schlägt er vor, sich einfach mit empirischen Fragen zu begnügen.[91]\r\nDiesen metaphysikkritischen Tendenzen steht gerade in der gegenwärtigen analytischen Philosophie eine „Rückkehr der Metaphysik“[92] gegenüber. Moderne Metaphysiker behaupten mit Kant, dass metaphysische Fragen verständlich und sinnvoll sind. Gegen Kant wird jedoch behauptet, dass es keinen Grund gäbe, von der allgemeinen Unlösbarkeit metaphysischer Probleme auszugehen. Metaphysisches Wissen sei somit möglich.\r\nEmpirische Grenzen\r\nGrenzen des Wissens müssen sich nicht aus metaphysischen Problemen ergeben, sondern können ebenfalls in der Unzugänglichkeit empirischer Daten begründet sein. Ein unkontroverses Beispiel ist die Geschichte, in der sich viele Tatsachen nicht mehr rekonstruieren lassen. Häufig ist es etwa nicht mehr möglich, herauszufinden, was eine historische Persönlichkeit an einem bestimmten Tag getan hat, da keine Belege vorhanden sind. Empirische Grenzen müssen jedoch nicht in dem Fehlen von Daten begründet liegen, sondern können sich ebenfalls aus der Komplexität der Daten ergeben. So stößt man etwa mit dem Projekt präziser und langfristiger Wettervorhersagen an die Grenzen menschlicher Modellierungsfähigkeiten.\r\nZu einem wissenschaftstheoretischen Problem werden derartige empirische Grenzen, wenn sie mit den Erklärungsansprüchen ganzer Wissenschaftsdisziplinen zu kollidieren drohen. Ein typisches Beispiel für die mangelnde Verfügbarkeit von Daten ist die Astrobiologie, die sich unter anderem mit der Existenz von Leben jenseits der Erde beschäftigt.[93] In dem Maße, in dem sich die Astrobiologie mit Planeten jenseits des Sonnensystems beschäftigt, stehen ihr kaum verlässliche Daten zur Verfügung. Astrobiologen versuchen diesem Problem mit indirekten Belegen, Wahrscheinlichkeitsabschätzungen und Analogieargumenten zu begegnen, das bekannteste Beispiel hierfür ist die Drake-Gleichung.[94]\r\nDas Fehlen von Daten spielt ebenfalls in der Debatte um die evolutionäre Psychologie eine entscheidende Rolle. Evolutionäre Psychologen versuchen, das Denken und Fühlen von Menschen als Adaptationen an steinzeitliche Umweltbedingungen zu erklären. Kritiker wie John Dupré[95] werfen der evolutionären Psychologie vor, ihre Hypothesen nicht begründen zu können, da die entsprechenden Daten über die steinzeitlichen Lebensbedingungen und die kognitive Evolution von Menschen schlicht nicht verfügbar seien. Evolutionspsychologische Hypothesen ähnelten daher eher „Phantasiegeschichten“[96] als Wissen.\r\nDie Frage nach den Grenzen des empirischen Wissens stellt sich zudem im Zusammenhang mit komplexen Dynamiken und wissenschaftlichen Prognosen. Bereits 1928 argumentierte etwa der Wirtschaftswissenschaftler und Spieltheoretiker Oskar Morgenstern, dass Wirtschaftsprognosen grundsätzlich nicht möglich seien. Prognosen seien nur unter der Voraussetzung von entdeckbaren Gesetzmäßigkeiten möglich. Da die Wirtschaftsentwicklung jedoch auf dem nicht gesetzmäßigen Verhalten individueller Akteure beruhe, könne man kein Wissen über die Entwicklung der Ökonomie erlangen.[97] Zudem sei die ökonomische Entwicklung maßgeblich durch Faktoren wie wirtschaftlicher Strukturwandel, politische und natürliche Ereignisse geprägt. Derartige Faktoren seien häufig bestimmend für wirtschaftliche Trendwechsel, ließen sich aber nicht adäquat in Prognosemodelle integrieren. Folglich solle man die Illusion aufgeben, mit Prognosen Wissen erzeugen zu können:\r\n    „Sie [die ökonomischen Institute] sollen die Prognose aufgeben. Das ist die eine Lehre, die mit aller Deutlichkeit gezogen werden kann. Diese notwendig zum Versagen verurteilten Dilettantismen, die sich mit dem gern gesuchten Mantel der Wissenschaftlichkeit umkleiden, diskreditieren die Wissenschaft und in deren Interesse sollte die communis opinio der wirtschaftstheoretisch Gebildeten diesen Instituten – solange sie sich auf die Prognose versteifen – den Wind aus den Segeln nehmen.“\r\n– Oskar Morgenstern[98]\r\nVertreter und Kritiker der genannten Wissenschaftsdisziplinen sind sich darin einig, dass die Forschungsprojekte von Unsicherheiten durchzogen sind und keine absolute Gewissheit erreicht werden kann. Umstritten ist allerdings zum einen der Grad der Unsicherheit und zum anderen die Frage, wie viel Unsicherheit im Wissenschaftsbetrieb akzeptabel ist. Erschwert wird die Debatte dadurch, dass allgemein anerkannt ist, dass absolute Gewissheit nicht das Ziel empirischer Wissenschaften sein kann. Fallibilistische Positionen vertreten die These, dass es auch in den empirischen Wissenschaften keine Gewissheit geben könne.[99] Da empirische Theorien nicht durch zwingende logische Beweise gerechtfertigt werden können, bliebe Irrtum immer möglich, ganz unabhängig davon, wie gut eine empirische Theorie mit den verfügbaren Daten übereinstimme. Ein derartiger Fallibilismus schließt zwar Gewissheit, aber nicht Wissen aus. Trotz der grundsätzlichen Möglichkeit des Irrtums können die meisten wissenschaftlichen Meinungen wahr und gerechtfertigt sein. Allerdings werfen fallibilistische Überlegungen die Frage auf, wie groß Unsicherheiten im Kontext des Wissens sein dürfen.\r\nWeitreichende Zweifel am Umfang empirischen Wissens werden jedoch im Rahmen der pessimistischen Induktion formuliert, nach der die meisten gegenwärtigen, wissenschaftlichen Theorien falsch sind und daher auch kein Wissen darstellen.[100] Das Argument der pessimistischen Induktion beruht auf der wissenschaftshistorischen Beobachtung, dass zahlreiche Theorien in der Vergangenheit gut mit den Daten übereinstimmten und sich dennoch als falsch erwiesen. Als Beispiele hierfür können die Äthertheorie, der geologische Neptunismus, die Phlogistontheorie oder die Humoralpathologie gelten. Folglich könne man nicht von den Erklärungserfolgen gegenwärtiger Theorien auf ihre wahrscheinliche Wahrheit schließen. Im Gegenteil, das Scheitern der meisten vergangenen Ansätze in der Gegenwart lege induktiv das Scheitern der meisten gegenwärtigen Theorien in der Zukunft nahe. Auf dieses Problem kann auf verschiedene Weisen reagiert werden: So kann man versuchen, zu zeigen, dass sich gegenwärtige wissenschaftliche Theorien qualitativ von den wissenschaftshistorischen Beispielen unterscheiden. Es wird auch argumentiert, dass es in den Wissenschaften gar nicht um eine wahre Beschreibung der Fakten, sondern um erfolgreiche Modelle mit guter Voraussage- und Erklärungsfähigkeit gehe.\r\nWissen und Gesellschaft\r\nWissensgesellschaft\r\nIn den Sozialwissenschaften wird häufig mit Bezug auf den Begriff der Wissensgesellschaft die These vertreten, dass sich die gesellschaftliche und ökonomische Rolle von Wissen im 20. Jahrhundert grundsätzlich verändert habe. So erklärt etwa Meinhard Miegel, dass die Entwicklung zur Wissensgesellschaft als der „dritte gewaltige Paradigmenwechsel in der Geschichte der Menschheit“ zu betrachten sei.[101] Nach der Entwicklung von Agrar- zu Industriegesellschaften sei nun der Übergang von Industrie- zu Wissensgesellschaften zu beobachten.\r\nEine derartige Transformation mache sich zunächst in der Wirtschafts- und Arbeitswelt bemerkbar, so beschreibt etwa Sigrid Nolda, „dass das Konzept der Wissensgesellschaft allgemein von der wachsenden Bedeutung des Wissens als Ressource und Basis sozialen Handelns ausgehe. Arbeit sei seit den 1970er Jahren wesentlich durch ihren kognitiven Wert, also Wissen gekennzeichnet.“[102] Neben der wirtschaftlichen und gesellschaftlichen Bedeutung von Wissen ändere sich jedoch auch die Verfügbarkeit von Wissen durch neue Informations- und Kommunikationstechniken und eine veränderte Bildungspolitik.\r\nEine derartige Begriffsbestimmung bleibt vage, da die gesellschaftliche und ökonomische Bedeutung von Wissen kein exklusives Merkmal von Wissensgesellschaften ist. Grundsätzlich setzt jede Arbeit verschiedene Formen des Wissens voraus, zudem ist auch bereits in antiken Gesellschaften die Verteilung von Wissen ein wesentliches Merkmal gesellschaftlicher Unterschiede. In diesem Sinne erklärt etwa der UNESCO World Report Towards Knowledge Societies, dass jede Gesellschaft als Wissensgesellschaft zu betrachten sei.[103]\r\nWissensverteilung und Wissensfreiheit\r\nIn dem Maße, in dem die Verteilung und Verfügbarkeit von Wissen eine soziale und ökonomische Bedeutung hat, wird der Zugang zu Wissen auch als Gerechtigkeits­problem diskutiert. Dabei wird die Bedeutung des Wissens in gegenwärtigen Gesellschaften gleichermaßen als Problem und Chance diskutiert. Zum einen wird argumentiert, dass aufgrund der zentralen gesellschaftlichen Rolle des Wissens ein schlechter Wissensstand und -zugang zu einer weitreichenden sozialen Benachteiligung führe. Zu klassischen Themen wie Einkommens- oder Arbeitsverteilung trete nun die Verteilung von Wissen als zentrales Gerechtigkeitsproblem hinzu.\r\nEine weitergehende Analyse bedient sich oft der Verbindung zwischen Wissen und Macht, wie sie bereits von Francis Bacon in dem Spruch scientia potestas est[104] („Wissen ist Macht“) zum Ausdruck kommt. Besonders einflussreich sind in diesem Kontext Michel Foucaults Arbeiten, nach denen gesellschaftliche Macht seit etwa dem 18. Jahrhundert wesentlich durch Wissenssysteme realisiert ist. Traditionell sei die Macht des Souveräns durch das Vermögen zu Töten bestimmt gewesen: „Er offenbart seine Macht über das Leben nur durch den Tod, den zu verlangen er im Stande ist. Das sogenannte »Recht über Leben und Tod«, ist in Wirklichkeit das Recht, sterben zu machen und Leben zu lassen. Sein Symbol war ja das Schwert.“[105] In modernen Gesellschaften zeige sich die Macht über Menschen jedoch auf eine andere Weise als positives Wissen etwa über psychische und körperliche Gesundheit und Krankheit, Fortpflanzung, Geburts- und Sterberaten oder Gesundheitsniveau. Dieses Wissen werde in der Biopolitik zum Machtinstrument, nicht nur über direkte politische Eingriffe ins Rechtssystem, Gesundheits- und Bildungspolitik, sondern ebenfalls durch Beeinflussung wissenschaftlicher und öffentlicher Diskurse. Die Verbindung von Wissen und Macht wird im Anschluss an Foucault häufig als wechselseitig beschrieben: Nicht nur impliziere Wissen Macht, umgekehrt würde Wissen durch Machtmechanismen gelenkt.[106] Welches Wissen als relevant gelte, werde etwa durch Wissenschaftsförderung, pädagogische Lehrplanerstellung oder mediale Schwerpunktsetzungen bestimmt.\r\nDie Bedeutung von Wissen in modernen Gesellschaften wird jedoch nicht nur kritisch in Bezug auf Gerechtigkeits- und Machtfragen untersucht. Vielmehr gilt die Wissensgesellschaft häufig ebenfalls als eine positive Entwicklung, die allen Bürgern zumindest potentiell einen allgemeinen Zugang zum Wissen ermöglichen kann. Als positives Ideal wird diese Idee als Wissensfreiheit formuliert, nach der jeder Bürger das Recht auf freien Zugang zu Wissen hat. So erklärt etwa der UNESCO World Report „Die aktuelle Verteilung von neuen Technologien und die Entwicklung des Internets als öffentliches Netzwerk scheinen neue Möglichkeiten für ein öffentliches Wissensforum zu bieten. Haben wir nun die Mittel, um einen gleichen und universellen Zugang zu Wissen zu erreichen? Dies sollte der Grundpfeiler von echten Wissensgesellschaften sein.“[103] Zugleich wird jedoch betont, dass gegenwärtige Gesellschaften recht weit von diesem Ideal entfernt sind und zahlreiche kulturelle, politische und ökonomische Realitäten einer allgemeinen Wissensfreiheit im Wege stünden. Auf derartige Grenzen der Wissensfreiheit wird unter anderem in der Open-Access- und Open-Content-Bewegung reagiert, die sich um den freien Zugang und die freie Weiterverwendbarkeit von Wissen bemüht.[107]\r\nWissenserwerb und -vermittlung\r\nDer Erwerb und die Vermittlung von Wissen wird in der Lernpsychologie und der Pädagogik erforscht. Dabei wird in der Regel ein sehr weiter Wissensbegriff verwendet, der auch der pädagogischen Praxis gerecht werden soll und folglich implizites und explizites Wissen und Wissensinhalte sehr verschiedener Art umfasst. Die Lernpsychologie lässt sich mindestens bis ins 19. Jahrhundert zu Hermann Ebbinghaus und Wilhelm Wundt zurückverfolgen. So führte Ebbinghaus 1885 die ersten Lernkurven in die Psychologie ein, die das Verhältnis von Lernaufwand und Lernertrag beschreiben.[108] Derartige Versuche der quantifizierten Darstellung des Wissenserwerbs beim Menschen wurden im 20. Jahrhundert durch verschiedene Lerntheorien ergänzt, die versuchen, den Wissenserwerb auf einer breiten theoretischen Ebene zu erklären. Ein klassisches Modell ist die Konditionierung, nach der Lebewesen auf einen bestimmten Reiz eine bestimmte Reaktion zeigen. Beim Konditionieren wird durch wiederholtes Präsentieren von kombinierten Reizen die gewünschte Reaktion antrainiert. Während der Behaviorismus den Wissenserwerb vollständig durch Reiz-Reaktions-Mechanismen zu erklären versuchte,[109] begann man in den 1960er Jahren, interne psychische Zustände zu postulieren, die als Wissensrepräsentationen den Lernerfolg erklären sollten.[110] In den letzten Jahrzehnten sind zudem Lerntheorien hinzugekommen, die den Wissenserwerb mit Hilfe von neuronalen Netzen und neurowissenschaftlichen Erkenntnissen beschreiben (vgl. den Abschnitt Wissensrepräsentation).\r\nIn der lernpsychologischen Forschung wird also zum einen versucht, den Wissenserwerb des Menschen auf einer allgemeinen, theoretischen Ebene zu verstehen. Zum anderen werden jedoch auch konkrete Wissenserwerbsstrategien beschrieben und erklärt, die je nach Wissensthema, Altersstufe, individuellen kognitiven Profilen und kulturellem Kontext stark variieren können. Eine solche Forschung bietet als pädagogische Psychologie eine Basis für die Entwicklung pädagogischer Wissensvermittlungsstrategien.\r\nDie Pädagogik ist insgesamt als Wissenschaft der Wissensvermittlung zu verstehen, wobei zwischen einer Allgemeinen Pädagogik und differentiellen beziehungsweise anwendungsbezogenen Pädagogik unterschieden werden kann:\r\n    Die Allgemeine Pädagogik wird als Grundlagendisziplin verstanden, die die basalen Mechanismen der Wissensvermittlung theoretisch beschreibt. Es sind immer wieder Zweifel an der Möglichkeit einer Allgemeinen Pädagogik als Grundlagendisziplin geäußert worden,[111] weil Lernen und Lehren in verschiedenen Kontexten jedoch mit sehr unterschiedlichen Lern- und Lehrstrategien stattfinden (und interagieren).\r\n    Daneben wird in differentiellen Ansätzen die Wissensvermittlung mit Bezug auf spezifische Gruppen untersucht, Beispiele für Teildisziplinen sind die Vorschulpädagogik, die Sonderpädagogik, die Hochschulpädagogik und die Erwachsenenbildung.\r\n    In verschiedenen Anwendungsfächern wird zudem nach den Anforderungen der Wissensvermittlung in bestimmten Themenfeldern gefragt, etwa in der Interkulturellen Pädagogik, der Theaterpädagogik oder der Sexualpädagogik.\r\nAuch wenn alle Teilbereiche der Pädagogik als Ansätze zur Wissensvermittlung verstanden werden können, hat sich „Wissen“ in den letzten Jahrzehnten unter dem Einfluss des lernpsychologischen Konstruktivismus, der Informationstheorie, neuer Medien und der Debatte um die Wissensgesellschaft in einigen pädagogischen Theorien zu einem neuen Grundbegriff entwickelt. Dabei wird darauf hingewiesen, dass Wissen ein wesentlich soziales Phänomen sei und daher nicht auf eine Schüler-Lehrer-Interaktion reduziert werden könne. Wissen werde in gemeinschaftlicher Arbeit mit Hilfe verschiedener Medien „sozial konstruiert“ und eine angemessene pädagogische Theorie und Praxis müsse auf diese Merkmale der Wissensgenerierung eingehen. Ein bekannter Ansatz ist etwa die Knowledge-Building-Theorie von Carl Bereiter und Marlene Scardamalia.[112] Bereiter und Scardamalia gehen auf der Basis des Wissensgesellschaftskonzepts davon aus, dass Wissensvermittlung und -generierung in gegenwärtigen Gesellschaften nur zu einem kleinen Teil durch klassische Ansätze wie Lehrmethoden und Lehrpläne realisiert werden kann: „Die neue Herausforderung besteht darin, die Jugend in eine Kultur zu führen, die die Wissensgrenzen an allen Seiten verschiebt. Es geht darum, dabei zu helfen, eine konstruktive und persönlich befriedigende Rolle in dieser Kultur zu finden.“[113]\r\nKompetenzen\r\nWissenserwerb erfordert Grundfertigkeiten, die während der Kindergarten- und Grundschulzeit erworben und durch den Besuch weiterführender Schulen ausgebaut werden sollen: Lesekompetenz (Fähigkeit, einzelne Wörter, Sätze und ganze Texte flüssig lesen und im Textzusammenhang verstehen zu können), Schreibkompetenz und/oder Rechnen. Als zentrales Element gilt dabei die Lesekompetenz.\r\nJeder Schulabgänger hat eine gewisse Informationskompetenz und Medienkompetenz. Diese beiden sind zu einer Basiskompetenz geworden:\r\n    die Gesellschaft wandelt sich rapide;\r\n    viele Menschen (insbesondere Studenten und Berufstätige) sehen sich einer wachsenden Informationsflut ausgesetzt (siehe auch Informationsüberflutung).\r\nInformationskompetenz und Medienkompetenz sind Voraussetzungen für das selbstorganisierte Erschließen von Wissen, den Aufbau neuer und dem Erweitern vorhandener Fähigkeiten und das Bewältigen von Problemen. Sie haben im Konzept Lebenslanges Lernen (es soll dazu befähigen, eigenständig während der gesamten Lebensspanne zu lernen) eine wichtige Rolle.\r\nWissen in der Lernzieltaxonomie nach Bloom\r\nHauptartikel: Lernziel\r\nIn der Pädagogik ist die Taxonomie der Lernziele nach Bloom weit verbreitet.[114] Dabei nimmt das Fakten-Wissen nur den ersten, vorbereitenden Rang ein:\r\n    Wissen, Kenntnisse (Knowledge)\r\n    Verstehen (Comprehension)\r\n    Anwenden (Application)\r\n    Analyse (Analysis)\r\n    Synthese (Synthesis)\r\n    Bewertung (Evaluation)\r\nSonstiges\r\nDas Zentrum Geschichte des Wissens, ein gemeinsames wissenschaftliches Kompetenzzentrum der Universität Zürich und der ETH Zürich, gegründet 2005, hat sich der Förderung und Koordination kulturwissenschaftlicher, historischer und philosophischer Forschung und Lehre über moderne Wissenssysteme und Wissensgesellschaften verpflichtet. \n"
+}

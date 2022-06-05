@@ -1,0 +1,545 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Allgemeines",
+            "end": 14,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 316,
+            "start": 303,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 188,
+            "start": 187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 544,
+            "start": 540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 761,
+            "start": 754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 793,
+            "start": 778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unverbindlich",
+            "end": 834,
+            "start": 821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 918,
+            "start": 915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1201,
+            "start": 1191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teillieferungen",
+            "end": 1271,
+            "start": 1256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1089,
+            "start": 1086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 1384,
+            "start": 1378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ungültig",
+            "end": 1550,
+            "start": 1542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachnahmegebühren",
+            "end": 1719,
+            "start": 1702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "richtet",
+            "end": 2038,
+            "start": 2031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 2084,
+            "start": 2078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunde",
+            "end": 2136,
+            "start": 2131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandziel",
+            "end": 2226,
+            "start": 2215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 2392,
+            "start": 2381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ermessen",
+            "end": 2513,
+            "start": 2505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veröffentlicht",
+            "end": 2662,
+            "start": 2648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 2959,
+            "start": 2949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 3038,
+            "start": 3029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versandkostenfrei",
+            "end": 3172,
+            "start": 3155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 3314,
+            "start": 3305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferzeiten",
+            "end": 3332,
+            "start": 3320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 3477,
+            "start": 3468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3835,
+            "start": 3830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 3876,
+            "start": 3862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4030,
+            "start": 4026,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 4274,
+            "start": 4270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 4388,
+            "start": 4376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4543,
+            "start": 4540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liefern",
+            "end": 4770,
+            "start": 4763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genehmigt",
+            "end": 5020,
+            "start": 5011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4944,
+            "start": 4938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 5244,
+            "start": 5235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkungen",
+            "end": 5272,
+            "start": 5250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 5448,
+            "start": 5438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "musste",
+            "end": 5740,
+            "start": 5734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auftragswertes",
+            "end": 6107,
+            "start": 6093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 6183,
+            "start": 6169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6331,
+            "start": 6328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 6344,
+            "start": 6337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 6428,
+            "start": 6422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6606,
+            "start": 6600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 6731,
+            "start": 6720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 7040,
+            "start": 7028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuführen",
+            "end": 6952,
+            "start": 6941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnet",
+            "end": 7208,
+            "start": 7199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "akzeptiert",
+            "end": 7246,
+            "start": 7236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechnen",
+            "end": 7487,
+            "start": 7478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 7731,
+            "start": 7717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 7604,
+            "start": 7596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 7754,
+            "start": 7736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "computeruniverse",
+            "end": 7914,
+            "start": 7898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Forderungen",
+            "end": 7955,
+            "start": 7944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuzeigen",
+            "end": 8168,
+            "start": 8157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 8035,
+            "start": 8025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunde",
+            "end": 8306,
+            "start": 8301,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuziehen",
+            "end": 8697,
+            "start": 8686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommt",
+            "end": 8831,
+            "start": 8822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 8553,
+            "start": 8551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 8870,
+            "start": 8859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 8889,
+            "start": 8871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 8914,
+            "start": 8900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 9190,
+            "start": 9185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verliert",
+            "end": 9485,
+            "start": 9477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ansprüchen",
+            "end": 9519,
+            "start": 9509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzutreten",
+            "end": 9593,
+            "start": 9583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 9755,
+            "start": 9752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 9772,
+            "start": 9761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzgesetzen",
+            "end": 9859,
+            "start": 9840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Newsletter",
+            "end": 10020,
+            "start": 10010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 10169,
+            "start": 10167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 10357,
+            "start": 10348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 10438,
+            "start": 10432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfordern",
+            "end": 10551,
+            "start": 10542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Minimum",
+            "end": 10657,
+            "start": 10650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 10783,
+            "start": 10778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesperrt",
+            "end": 10934,
+            "start": 10926,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 10960,
+            "start": 10941,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsparteien",
+            "end": 11065,
+            "start": 11049,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Scheckklagen",
+            "end": 11299,
+            "start": 11287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "VSBG",
+            "end": 11339,
+            "start": 11335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 11490,
+            "start": 11478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 11586,
+            "start": 11576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 11789,
+            "start": 11782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 11914,
+            "start": 11907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichen",
+            "end": 12078,
+            "start": 12069,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Allgemeines\n(1) Die nachstehenden allgemeinen Geschäftsbedingungen (AGB) gelten für alle Lieferungen und Angebote der computeruniverse GmbH (im Nachfolgenden \"computeruniverse“ genannt). Gegenbestätigungen des Kunden unter Hinweis auf seine eigenen Geschäfts- bzw. Einkaufsbedingungen werden hiermit widersprochen.\n(2) Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zweck abschliesst, der überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist eine natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n2. Angebot und Vertragsschluss\nUnsere Angebotspalette ist unverbindlich. Die Bestellung des Kunden stellt ein Angebot zum Abschluss eines Kaufvertrages dar. Die anschließend von computeruniverse verschickte Bestätigung des Eingangs der Bestellung und etwaig folgende Statusberichte stellen noch keine Annahme des Angebotes dar. Der Kaufvertrag kommt zustande, sobald wir die bestellte Ware ausliefern und dem Kunden den Versand bestätigen. \n3. Preise, Verpackung und Versand, Rücksendekosten, Teillieferungen\n(1) Unsere Preise sind grundsätzlich die im Warenkorb unserer Webseiten zur Zeit der Bestellung genannten Preise. Abweichende Preise, die eventuell auf Seiten dargestellt werden, die aus Zwischenspeichern (Browser -Cache, Proxies) geladen werden, sind nicht aktuell und ungültig. Unsere Preise gelten, sofern nicht ausdrücklich schriftlich etwas anderes vereinbart ist, ab Versandstätte ausschließlich Verpackung, Fracht und ggf. Nachnahmegebühren. Alle Preisangaben auf unseren Webseiten sind inkl. der gesetzlichen Mehrwertsteuer sofern der Kunde seinen Kundentyp nicht auf Firma, Händler oder öffentliche Einrichtung umstellt und kein Land außerhalb der Europäischen Union als Lieferland auswählt oder sich die Webseite nicht ausschließlich an Unternehmer richtet. \n(2) Verpackungen werden Eigentum des Kunden.\n(3) Verpackungs- und Versandkosten trägt der Kunde. Diese sind abhängig von der Versandart, der Zahlungsart, dem Gewicht und dem Versandziel. Sie werden vor einer Online-Bestellung im Warenkorb berechnet und ausgewiesen oder bei telefonischen Bestellungen genannt und auf der Rechnung gesondert ausgewiesen. Die Wahl der Versandart erfolgt nach Wunsch des Kunden oder im Rahmen der zulässigen Möglichkeiten nach bestem Ermessen. Eine Übersicht über die verschiedenen Versand- und Zahlungsmöglichkeiten so wie die entsprechenden Preise sind auf unseren Webseiten veröffentlicht. \n(4) Soweit der Kunde Verbraucher ist und von seinem Widerrufsrecht wirksam Gebrauch macht, trägt er die regelmäßigen Kosten der Rücksendung bzw. Abholung, wenn die gelieferte Ware der bestellten entspricht und wenn der Preis der zurückzusendenden Sache einen Betrag von € 40,00 nicht übersteigt. Die Hinsendekosten werden in Höhe der günstigsten Standardlieferung erstattet.\n(5) Bei Teillieferungen, die durch uns ohne Rücksprache mit dem Kunden veranlasst werden, erfolgen Nachlieferungen versandkostenfrei. Bei speziellen Kundenwünschen zur Aufteilung der Lieferung werden zusätzlich die vereinbarten Versandkosten für jede Teillieferung berechnet. \n4. Lieferzeiten\nDie voraussichtlichen Lieferzeiten sind produktabhängig und werden auf unserer Webseite durch Symbole oder entsprechende Erläuterungen angezeigt. Sollten nach einer Bestellung Änderungen der voraussichtlichen Lieferzeit auftreten, wird der Kunde darüber automatisch per E-Mail informiert und hat, sofern er Verbraucher ist, jederzeit bis zum Inkrafttreten des Widerrufsrechts das Recht, kostenfrei von seiner Bestellung zurückzutreten bzw. Änderungen vorzunehmen, sofern nichts anderes vereinbart wurde. \n5. Gefahrenübergang und Gewährleistung\n(1) Holt der Kunde die Ware ab, geht die Gefahr des zufälligen Unterganges oder der zufälligen Beschädigung mit der Übergabe der Ware auf den Kunden über. Versendet computeruniverse die Ware an den Kunden, geht die Gefahr gegenüber Unternehmern mit Übergabe der Ware an den Transporteur und gegenüber Verbrauchern mit Übergabe der Ware durch den Transporteur an den Verbraucher auf den Kunden über. \n(2) Die Gewährleistung beginnt mit der Ablieferung der Ware und richtet sich nach den gesetzlichen Bestimmungen. \n(3) Die Verjährungsfrist für gesetzliche Mängelansprüche beträgt bei Neuware 2 Jahre und bei gebrauchter Ware ein Jahr, sofern der Kunde Verbraucher ist. \n(4) Sofern der Kunde Unternehmer ist, beträgt die Verjährungsfrist für die Gewährleistungsansprüche ein Jahr und computeruniverse hat die Wahl zur Nacherfüllung den Mangel zu beseitigen oder eine mangelfreie Sache zu liefern; offensichtliche Mängel der Ware oder Leistung der computeruniverse müssen unverzüglich, spätestens innerhalb von 14 Tagen nach Erhalt der Ware, schriftlich angezeigt werden. Werden die Mängel nicht rechtzeitig angezeigt, gilt die Ware als genehmigt. \n(5) computeruniverse übernimmt keine Gewährleistung für die gewöhnliche Abnutzung der Ware sowie Mängel, die durch fehlerhafte oder nachlässige Behandlung oder Bedienung bzw. außergewöhnliche Betriebsbedingungen entstehen. \n6. Haftungsbeschränkungen\n(1) Die Haftungsbeschränkungen gelten nicht für Schäden, die auf Vorsatz oder grober Fahrlässigkeit beruhen, sowie für Verletzungen des Lebens, des Körpers oder der Gesundheit.\n(2) Unabhängig vom Rechtsgrund sind Schadensersatzansprüche sowohl gegen computeruniverse als auch deren Erfüllungs- oder Verrichtungsgehilfen der Höhe nach auf diejenigen Schäden begrenzt, mit deren möglichen Eintritt computeruniverse bei Vertragsabschluss vernünftigerweise rechnen musste. Sofern der Schaden nicht aus der Verletzung einer wesentlichen Vertragspflicht, also einer solchen Pflicht, die die ordnungsgemäße Durchführung des Vertrages erst ermöglicht und auf deren Erfüllung der Kunde deshalb regelmäßig vertraut oder vertrauen darf, resultiert, beschränkt sich der Schadensersatz jedoch höchstens auf den zehnfachen Betrag des Auftragswertes. Der Kunde ist für die Sicherung seiner Datenbestände selbst verantwortlich. Computeruniverse haftet nur für den Aufwand, der zur Wiederherstellung der Daten bei regelmäßiger Datensicherung durch den Kunden erforderlich ist. \n7. Zahlung\n(1) Soweit nicht anders vereinbart, sind unsere Rechnungen sofort ohne Abzug fällig. \n(2) Der Kunde hat die Wahl aus verschiedenen Zahlungsarten, die abhängig von der Bestellsumme, der Lieferart, dem Versandziel und Einstellungen im Kundenkonto angeboten werden. Die verschiedenen Möglichkeiten stehen im Warenkorb zur Auswahl und sind auch im Info-Bereich unserer Webseiten beschrieben. \n(3) ccomputeruniverse behält sich vor, in Einzelfällen oder bei Ablehnung der Zahlung durch Kreditinstitute oder Anbieter der jeweiligen Zahlungsart den Auftrag nur gegen Zahlung per Nachnahme oder Vorkasse auszuführen. In diesem Fall kann der Kunde dies akzeptieren oder von seiner Bestellung zurücktreten. \n(4) Kosten, die durch Rückbuchung einer Zahlungstransaktion mangels Deckung oder aufgrund vom Kunden falsch übermittelter Datenentstehen, werden dem Kunden berechnet. \n(5) Schecks werden nicht akzeptiert.\n(6) Bei Zahlungsverzug ist computeruniverse berechtigt, gegenüber Verbrauchern Verzugszinsen in Höhe von 5 Prozentpunkten und gegenüber Unternehmern in Höhe von 8 Prozentpunkten pro Jahr über dem jeweils gültigen Basiszinssatz zu berechnen. \n(7) Die Aufrechnung ist außer bei unbestrittenen oder rechtskräftig festgestellten Gegenforderungen nicht zulässig. Die Zurückbehaltung von Zahlungen durch den Käufer wegen Gegenansprüchen aus anderen Vertragsverhältnissen ist ausgeschlossen.\n8. Eigentumsvorbehalt\nSämtliche von uns gelieferte Ware bleibt bis zur vollständigen Bezahlung und Ausgleich sämtlicher Ansprüche aus dem Liefervertrag Eigentum von computeruniverse. Dies gilt auch für bedingte Forderungen.\nSofern der Kunde Unternehmer ist, gelten des Weiteren die folgenden Regelungen: Zugriffe Dritter auf die im Eigentum oder Miteigentum von computeruniverse stehenden Waren sind vom Kunden unverzüglich aufzuzeigen. Durch solche Eingriffe entstehende Kosten für eine Drittwiderspruchsklage oder Kosten für eine außerprozessuale Freigabe trägt der Kunde. Die aus Weiterverkauf oder sonstigem Rechtsgrund bezüglich der Vorbehaltsware entstehenden Forderungen (einschließlich sämtlicher Saldoforderungen aus Kontokorrent) tritt der Kunde bereits sicherungshalber in vollem Umfang an computeruniverse ab. Wir ermächtigen den Käufer/Kunden widerruflich, die an uns abgetretenen Forderungen für seine Rechnung und in seinem eigenen Namen einzuziehen. Diese Einzugsermächtigung kann widerrufen werden, wenn der Käufer/Kunde seinen Zahlungsverpflichtungen nicht ordnungsgemäß nachkommt.\n9. Widerrufsbelehrung für Verbraucher\nWiderrufsbelehrung \n10. Kein Widerrufsrecht\nEin Widerrufsrecht besteht nicht bei Verträgen zur Lieferung von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung oder aus Gründen der Hygiene oder des Gesundheitsschutzes versiegelten Waren, wenn die Versiegelung nach der Lieferung entfernt wurde. Bei der Lieferung von Daten, die nicht auf einem Datenträger befindlich sind (bspw. Downloads), erlischt das Widerrufsrecht, wenn der Verbraucher zustimmt, dass der Vertrag vor Ablauf der Widerspruchsfrist ausgeführt wird und er bestätigt, dass er durch Ausführung sein Widerrufsrecht verliert.\n11. Abtretbarkeit von Ansprüchen\nDer Kunde ist nicht berechtigt seine Ansprüche aus dem Vertrag abzutreten. Ausgenommen ist eine Abtretung der Ansprüche an die Trusted Shops GmbH, sofern diese im Zusammenhang des Käuferschutzes eine Zahlung an den Kunden geleistet hat.\n12. Datenschutz\n(1) Unsere Datenschutzpraxis steht im Einklang mit den anwendbaren Datenschutzgesetzen. \n(2) Die E-Mail-Adresse des Kunden nutzt computeruniverse nur für Informations-Schreiben zu den Aufträgen und falls vom Kunden gewünscht, für eigene Newsletter. Des Weiteren sendet computeruniverse dem Kunden per E-Mail regelmäßig sorgfältig ausgesuchte Angebote zu ähnlichen Produkten aus ihrem Sortiment zu. Der Kunde kann der Nutzung seiner E-Mail Adresse für Werbezwecke durch formlose E-Mail widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen. \n(3) computeruniverse gibt keine personenbezogenen Kundendaten an Dritte weiter. Ausgenommen hiervon sind Dienstleistungspartner, die zur Bestellabwicklung die Übermittlung von Daten erfordern. In diesen Fällen beschränkt sich der Umfang der übermittelten Daten jedoch auf das erforderliche Minimum. \n(4) Der Kunde hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und Löschung seiner gespeicherten Daten. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten oder sonstige gesetzliche Gründe entgegenstehen, werden die Daten gesperrt. \n13. Schlussbestimmungen\n(1) Diese allgemeinen Geschäftsbedingungen enthalten sämtliche Rechte und Pflichten der Vertragsparteien. \n(2) Sofern der Kunde Kaufmann ist oder keinen Wohnsitz innerhalb der Europäischen Union hat, ist unser Geschäftssitz alleiniger Gerichtsstand für alle Streitigkeiten zwischen den Vertragsparteien, auch für Wechsel- und Scheckklagen.\n(3) Informationspflicht nach § 36 VSBG: computeruniverse ist grundsätzlich nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren einer Verbraucherschlichtungsstelle teilzunehmen.\n(4) Es gilt ausschließlich deutsches Recht unter Ausschluss der Vorschriften des UN-Kaufrechts. Im Verkehr mit Endverbrauchern innerhalb der Europäischen Union kann auch das Recht am Wohnsitz des Endverbrauchers anwendbar sein, sofern es sich um zwingend verbraucherrechtliche Bestimmungen handelt. \n(5) Sollte eine dieser Bestimmungen unwirksam sein, so wird dadurch die Wirksamkeit der übrigen Bestimmungen nicht berührt. Die Parteien bemühen sich, unwirksame Bestimmungen durch solche wirksamen Regelungen zu ersetzen, die den angestrebten wirtschaftlichen Zweck weitgehend erreichen. \n\n\n\n"
+}

@@ -1,0 +1,647 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Anbieter",
+            "end": 30,
+            "start": 22,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätigen",
+            "end": 153,
+            "start": 146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 276,
+            "start": 271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 408,
+            "start": 388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 747,
+            "start": 734,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 587,
+            "start": 581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deutsch",
+            "end": 796,
+            "start": 789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausdrucken",
+            "end": 921,
+            "start": 911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anbieter",
+            "end": 974,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 992,
+            "start": 977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1110,
+            "start": 1107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1207,
+            "start": 1198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrigieren",
+            "end": 1451,
+            "start": 1440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1695,
+            "start": 1692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versenden",
+            "end": 1992,
+            "start": 1983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 2105,
+            "start": 2095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 2144,
+            "start": 2129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2153,
+            "start": 2147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1764,
+            "start": 1756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2322,
+            "start": 2309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 2458,
+            "start": 2457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 2484,
+            "start": 2478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzug",
+            "end": 2514,
+            "start": 2508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lastschrift",
+            "end": 2624,
+            "start": 2613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 2692,
+            "start": 2689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorkasse",
+            "end": 2860,
+            "start": 2852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überweisen",
+            "end": 3082,
+            "start": 3072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auftragsbestätigung",
+            "end": 2968,
+            "start": 2949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhebt",
+            "end": 3203,
+            "start": 3197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 3247,
+            "start": 3245,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3374,
+            "start": 3373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versenden",
+            "end": 3490,
+            "start": 3481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeleitet",
+            "end": 3613,
+            "start": 3599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellvorgang",
+            "end": 3960,
+            "start": 3946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 3909,
+            "start": 3906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 3811,
+            "start": 3801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgeführt",
+            "end": 4047,
+            "start": 4035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 4441,
+            "start": 4429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehen",
+            "end": 4275,
+            "start": 4266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4659,
+            "start": 4655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verzug",
+            "end": 4713,
+            "start": 4707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltungsrecht",
+            "end": 4750,
+            "start": 4729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 4991,
+            "start": 4986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 5115,
+            "start": 5109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltungsrecht",
+            "end": 5176,
+            "start": 5155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 5208,
+            "start": 5190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adresse",
+            "end": 5329,
+            "start": 5322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 5411,
+            "start": 5403,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5640,
+            "start": 5639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5784,
+            "start": 5779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5872,
+            "start": 5867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstatten",
+            "end": 5989,
+            "start": 5980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 6084,
+            "start": 6079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 6327,
+            "start": 6315,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6205,
+            "start": 6204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 6426,
+            "start": 6408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 6406,
+            "start": 6397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6481,
+            "start": 6463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6502,
+            "start": 6484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 6783,
+            "start": 6771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6804,
+            "start": 6786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 6819,
+            "start": 6805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verträgen",
+            "end": 7667,
+            "start": 7658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verunreinigungen",
+            "end": 7728,
+            "start": 7712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 7863,
+            "start": 7857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umverpackung",
+            "end": 7912,
+            "start": 7900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vermeiden",
+            "end": 8161,
+            "start": 8152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzukündigen",
+            "end": 8266,
+            "start": 8254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkte",
+            "end": 8349,
+            "start": 8341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8513,
+            "start": 8509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 8555,
+            "start": 8537,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 8574,
+            "start": 8558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 8763,
+            "start": 8760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 8889,
+            "start": 8877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9019,
+            "start": 9013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 9059,
+            "start": 9043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 9076,
+            "start": 9062,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9245,
+            "start": 9244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 9435,
+            "start": 9431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 9974,
+            "start": 9967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 10125,
+            "start": 10122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Modifikationen",
+            "end": 10245,
+            "start": 10231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonderbestimmungen",
+            "end": 10265,
+            "start": 10247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 10302,
+            "start": 10288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10313,
+            "start": 10306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10339,
+            "start": 10332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkthaftungsgesetzes",
+            "end": 10448,
+            "start": 10425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Personen",
+            "end": 10574,
+            "start": 10566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 10624,
+            "start": 10617,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10884,
+            "start": 10883,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 11063,
+            "start": 11059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 11139,
+            "start": 11121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 11170,
+            "start": 11163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 11201,
+            "start": 11186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitgestellt",
+            "end": 11293,
+            "start": 11279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichbar",
+            "end": 11555,
+            "start": 11545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 11449,
+            "start": 11443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beizulegen",
+            "end": 11656,
+            "start": 11646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 11835,
+            "start": 11827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 11883,
+            "start": 11868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 11906,
+            "start": 11887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 12067,
+            "start": 12060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 12400,
+            "start": 12391,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12289,
+            "start": 12288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstige",
+            "end": 12650,
+            "start": 12642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klauseln",
+            "end": 12668,
+            "start": 12660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ihnen",
+            "end": 12638,
+            "start": 12633,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1 Geltungsbereich und Anbieter\n(1) Diese Allgemeinen Geschäftsbedingungen gelten für alle Bestellungen, die Sie bei dem Online-Shop der Anschrift tätigen.\n(2) Das Warenangebot in unserem Online-Shop richtet sich ausschließlich an Käufer, die das 18. Lebensjahr vollendet haben. \n(3) Unsere Lieferungen, Leistungen und Angebote erfolgen ausschließlich auf der Grundlage dieser Allgemeinen Geschäftsbedingungen. Die Allgemeinen Geschäftsbedingungen gelten gegenüber Unternehmen somit auch für alle künftigen Geschäftsbeziehungen, auch wenn sie nicht nochmals ausdrücklich vereinbart werden. Der Einbeziehung von Allgemeinen Geschäftsbedingungen eines Kunden, die unseren Allgemeinen Geschäftsbedingungen widersprechen, wird schon jetzt widersprochen. \n(4) Vertragssprache ist ausschließlich deutsch. \n(5) Sie können die derzeit gültigen Allgemeinen Geschäftsbedingungen auf der Website [Link angeben] abrufen und ausdrucken. \n(6) Sonstige Klauseln Geltungsbereich und Anbieter\n2 Vertragsschluss\n(1) Die Warenpräsentation im Online-Shop stellt keinen verbindlichen Antrag auf den Abschluss eines Kaufvertrages dar. Vielmehr handelt es sich um eine unverbindliche Aufforderung, im Online-Shop Waren zu bestellen.\n(2) Mit Anklicken des Buttons [„Jetzt zahlungspflichtig bestellen“/„kaufen“]geben Sie ein verbindliches Kaufangebot ab (§ 145 BGB). Unmittelbar vor Abgabe dieser Bestellung können Sie die Bestellung noch einmal überprüfen und ggf. korrigieren.\n(3) Nach Eingang des Kaufangebots erhalten Sie eine automatisch erzeugte E-Mail, mit der wir bestätigen, dass wir Ihre Bestellung erhalten haben (Eingangsbestätigung). Diese Eingangsbestätigung stellt noch keine Annahme Ihres Kaufangebots dar. Ein Vertrag kommt durch die Eingangsbestätigung noch nicht zustande.\n(4) Ein Kaufvertrag über die Ware kommt erst zustande, wenn wir ausdrücklich die Annahme des Kaufangebots erklären (Auftragsbestätigung) oder wenn wir die Ware - ohne vorherige ausdrückliche Annahmeerklärung - an Sie versenden. Ausnahme: bei Zahung mit Vorkasse und PayPal erfolgt die Annahme der Bestellungunmittelbar mit Ihrer Bestellung.\n(5) Sonstige Klauseln Vertragsschluss\n3 Preise\nDie auf den Produktseiten genannten Preise enthalten die gesetzliche Mehrwertsteuer und sonstige Preisbestandteile und verstehen sich zzgl. der jeweiligen Versandkosten. Weitere Informationen zu den Versandkosten erhalten Sie auf unserer Internetseite unter [„Versandinformationen“ / „Lieferbedingungen“].\nSonstige Klauseln Preise\n4 Zahlungsbedingungen; Verzug\n(1) Die Zahlung erfolgt wahlweise per: Rechnung per Vorkasse, Nachnahme, Kreditkarte, Paypal oder Lastschrift.\n(2) Die Auswahl der jeweils verfügbaren Bezahlmethoden obliegt uns. Wir behalten uns insbesondere vor, Ihnen für die Bezahlung nur ausgewählte Bezahlmethoden anzubieten, beispielweise zur Absicherung unseres Kreditrisikos nur Vorkasse.\n(3) Bei Auswahl der Zahlungsart Vorkasse nennen wir Ihnen unsere Bankverbindung in der Auftragsbestätigung. Der Rechnungsbetrag ist innerhalb von 10 Tagen nach Erhalt der Auftragsbestätigung auf unser Konto zu überweisen.\n(4) Bei Zahlung per Nachnahme wird eine zusätzliche Gebühr in Höhe von [X] EUR fällig, die der Zusteller vor Ort erhebt. Weitere Kosten und Steuern fallen nicht an.\n(5) Bei Zahlung per Kreditkartewirdder Kaufpreis zum Zeitpunkt der Bestellung aufIhrer Kreditkarte reserviert (Autorisierung). Die tatsächliche Belastung Ihres Kreditkartenkontos erfolgt in dem Zeitpunkt, in dem wir die Ware an Sie versenden.\n(6) Bei der Bezahlung mit PayPal werden Sie im Bestellprozess auf die Webseite des Online-Anbieters PayPal weitergeleitet. Um den Rechnungsbetrag über PayPal bezahlen zu können, müssen Sie dort registriert sein bzw. sich erst registrieren, mit Ihren Zugangsdaten legitimieren und die Zahlungsanweisung an uns bestätigen. Nach Abgabe der Bestellung im Shop fordern wir PayPal zur Einleitung der Zahlungstransaktion auf. Weitere Hinweise erhalten Sie beim Bestellvorgang. Die Zahlungstransaktion wird durch PayPal unmittelbar danach automatisch durchgeführt.\n(7) Bei Zahlung per Lastschrift haben Sie ggf. jene Kosten zu tragen, die infolge einer Rückbuchung einer Zahlungstransaktion mangels Kontodeckung oder aufgrund von Ihnen falsch übermittelter Daten der Bankverbindung entstehen.\n(8) Geraten Sie mit einer Zahlung in Verzug, so sind Sie zur Zahlung der gesetzlichen Verzugszinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz verpflichtet. Für jedes Mahnschreiben, das nach Eintritt des Verzugs an Sie versandt wird, wird Ihnen eine Mahngebühr in Höhe von 2,50EUR berechnet, sofern nicht im Einzelfall ein niedrigerer bzw. höherer Schaden nachgewiesen wird.\n(9) Sonstige Klauseln Zahlungsbedingungen und Verzug\n5 Aufrechnung; Zurückbehaltungsrecht\n(1) Ein Recht zur Aufrechnung steht Ihnen nur dann zu, wenn Ihre Gegen-forderung rechtskräftig festgestellt worden ist, von uns nicht bestritten oder anerkannt wird oder in einem engen synallagmatischen Verhältnis zu unserer Forderung steht. \n(2) Sie können ein Zurückbehaltungsrecht nur ausüben, soweit Ihre Gegen-forderung auf demselben Vertragsverhältnis beruht.\n(3) Sonstige Klauseln Aufrechnung und Zurückbehaltungsrecht\n6 Lieferung; Eigentumsvorbehalt\n(1) Sofern nicht anders vereinbart, erfolgt die Lieferung der Ware von unserem Lager an die von Ihnen angegebene Adresse.\n(2) Die Ware bleibt bis zur vollständigen Zahlung des Kaufpreises unser Eigentum.\n(3) Wir sind ausnahmsweise nicht zur Lieferung der bestellten Ware verpflichtet, wenn wir die Ware unsererseits ordnungsgemäß bestellt haben, jedoch nicht richtig oder rechtzeitig beliefert wurden (kongruentes Deckungsgeschäft). Voraussetzung ist, dass wir die fehlende Warenverfügbarkeit nicht zu vertreten haben und Sie über diesen Umstand unverzüglich informiert haben. Zudem dürfen wir nicht das Risiko der Beschaffung der bestellten Ware übernommen haben. Bei entsprechender Nichtverfügbarkeit der Ware werden wir Ihnen bereits geleistete Zahlungen unverzüglich erstatten. Das Risiko, eine bestellte Ware besorgen zu müssen (Beschaffungsrisiko), übernehmen wir nicht. Dies gilt auch bei der Bestellung von Waren, die nur ihrer Art und ihren Merkmalen nach beschrieben ist (Gattungswaren). Wir sind nur zur Lieferung aus unserem Warenvorrat und der von uns bei unseren Lieferanten bestellten Waren verpflichtet.\n(4) Wenn Sie Unternehmer im Sinne des § 14 BGB sind, gilt ergänzend Folgendes: Sonderbestimmungen\n(5) Sonstige Klauseln Lieferung und Eigentumsvorbehalt\n7 Widerrufsbelehrung\nFür den Fall, dass Sie Verbraucher im Sinne des § 13 BGB sind, also den Kauf zu Zwecken tätigen, die überwiegend weder Ihrer gewerblichen noch Ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können, haben Sie ein Widerrufsrecht nach Maßgabe der folgenden Bestimmungen. \nWiderrufsbelehrung\nMusterformular\n(1) Das Widerrufsrecht besteht nicht bei der Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind(z.B. T-Shirts mit Ihrem Foto und Ihrem Namen), versiegelter Waren, die aus Gründen des Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind, wenn ihre Versiegelung nach der Lieferung entfernt wurde, von Waren, wenn diese nach der Lieferung auf Grund ihrer Beschaffenheit untrennbar mit anderen Gütern vermischt wurden, von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung, wenn die Versiegelung nach der Lieferung entfernt wurde, von Zeitungen, Zeitschriften oder Illustrierten mit Ausnahme von Abonnement-Verträgen.\n(2) Bitte vermeiden Sie Beschädigungen und Verunreinigungen. Senden Sie die Ware bitte möglichst in Originalverpackung mit sämtlichem Zubehör und mit allen Verpackungsbestandteilen an uns zurück. Verwenden Sie ggf. eine schützende Umverpackung. Wenn Sie die Originalverpackung nicht mehr besitzen, sorgen Sie bitte mit einer geeigneten Verpackung für einen ausreichenden Schutz vor Transportschäden, um Schadensersatzansprüche wegen Beschädigungen infolge mangelhafter Verpackung zu vermeiden.\n(3) Bitte rufen Sie vor Rücksendung unter der Telefonnummer bei uns an, um die Rücksendung anzukündigen. Auf diese Weise ermöglichen Sie uns eine schnellstmögliche Zuordnung der Produkte.\n(4) Bitte beachten Sie, dass die in den vorstehenden Absätzen 2 und 3 genannten Modalitäten nicht Voraussetzung für die wirksame Ausübung des Widerrufsrechts sind.\n(5) Sonstige Klauseln Widerrufsbelehrung\n8 Transportschäden\n(1) Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte sofort bei dem Zusteller und nehmen Sie bitte schnellstmöglich Kontakt zu uns auf.\n(2) Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Gewährleistungsrechte keine Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\n(3) Sonstige Klauseln Transportschäden\n9 Gewährleistung\n(1) Soweit nicht ausdrücklich etwas anderes vereinbart ist, richten sich Ihre Gewährleistungsansprüche nach den gesetzlichen Bestimmungen des Kaufrechts (§§ 433ff. BGB).\n(2) Wenn Sie Verbraucher im Sinne des § 13 BGB sind, beträgt die Haftungsdauer für Gewährleistungsansprüche bei gebrauchten Sachen - abweichend von den gesetzlichen Bestimmungen - ein Jahr. Diese Beschränkung gilt nicht für Ansprüche aufgrund von Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder aus der Verletzung einer wesentlichen Vertragspflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erstermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf (Kardinalpflicht) sowie für Ansprüche aufgrund von sonstigen Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung des Verwenders oder seiner Erfüllungsgehilfen beruhen.\n(3) Im Übrigen gelten für die Gewährleistung die gesetzlichen Bestimmungen, insbesondere die zweijährige Verjährungsfrist gem. § 438 Abs. 1 Nr. 3 BGB.\n(4) Wenn Sie Unternehmer im Sinne des § 14 BGB sind, gelten die gesetzlichen Bestimmungen mit folgenden Modifikationen: Sonderbestimmungen\n(5) Sonstige Klauseln Gewährleistung\n10 Haftung\n(1) Unbeschränkte Haftung: Wir haften unbeschränkt für Vorsatz und grobe Fahrlässigkeit sowie nach Maßgabe des Produkthaftungsgesetzes. Für leichte Fahrlässigkeit haften wir bei Schäden aus der Verletzung des Lebens, des Körpers und der Gesundheit von Personen.\n(2) Im Übrigen gilt folgende beschränkte Haftung: Bei leichter Fahrlässigkeit haften wir nur im Falle der Verletzung einer wesentlichen Vertragspflicht, Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung Sie regelmäßig vertrauen dürfen (Kardinalpflicht). Die Haftung für leichte Fahrlässigkeit ist der Höhe nach beschränkt auf die bei Vertragsschluss vorhersehbaren Schäden, mit deren Entstehung typischerweise gerechnet werden muss. Diese Haftungs-beschränkung gilt auch zugunsten unserer Erfüllungsgehilfen.\n(3) Sonstige Klauseln Haftung\n11 Alternative Streitbeilegung\nDie EU-Kommission hat eine Plattform für außergerichtliche Streitschlichtung bereitgestellt. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link http://ec.europa.eu/consumers/odr/ erreichbar.\nWir sind bemüht, eventuelle Meinungsverschiedenheiten aus unserem Vertrag einvernehmlich beizulegen. Darüber hinaus sind wir zu einer Teilnahme an einem Schlichtungsverfahren nicht verpflichtet und können Ihnen die Teilnahme an einem solchen Verfahren leider auch nicht anbieten. \nSonstige Klauseln Alternative Streitbeilegung\n12 Schlussbestimmungen\n(1) Sollten eine oder mehrere Bestimmungen dieser AGB unwirksam sein oder werden, wird dadurch die Wirksamkeit der anderen Bestimmungen im Übrigen nicht berührt.\n(2) Auf Verträge zwischen uns und Ihnen ist ausschließlich deutsches Recht anwendbar unter Ausschluss der Bestimmungen der United Nations Convention on Contracts for the International Sale of Goods (CISG, „UN-Kaufrecht“). Zwingende Bestimmungen des Landes, in dem Sie sich gewöhnlich aufhalten, bleiben von der Rechtswahl unberührt.\n(3) Sind Sie Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, so ist unser Geschäftssitz Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit Verträgen zwischen uns und Ihnen\n13 Sonstige\nSonstige Klauseln\n\n\n"
+}

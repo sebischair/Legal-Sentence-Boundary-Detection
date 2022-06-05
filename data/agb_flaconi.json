@@ -1,0 +1,1025 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Allgemeines",
+            "end": 14,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "die",
+            "end": 136,
+            "start": 133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 147,
+            "start": 138,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Flaconi",
+            "end": 204,
+            "start": 197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 294,
+            "start": 291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 392,
+            "start": 383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 512,
+            "start": 509,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriffsbestimmungen",
+            "end": 538,
+            "start": 518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 605,
+            "start": 594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 809,
+            "start": 805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 1004,
+            "start": 997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 1071,
+            "start": 1063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klicken",
+            "end": 1155,
+            "start": 1148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streitbeilegung",
+            "end": 1213,
+            "start": 1198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitgestellt",
+            "end": 1306,
+            "start": 1292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klären",
+            "end": 1462,
+            "start": 1456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichbar",
+            "end": 1569,
+            "start": 1559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beilegen",
+            "end": 1695,
+            "start": 1687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 1866,
+            "start": 1858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherstreitbeilegungsgesetz",
+            "end": 1939,
+            "start": 1906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 2100,
+            "start": 2088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Registrierung",
+            "end": 2118,
+            "start": 2105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellen",
+            "end": 2274,
+            "start": 2265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 2310,
+            "start": 2306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 2370,
+            "start": 2365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisieren",
+            "end": 2509,
+            "start": 2496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 2657,
+            "start": 2643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 2788,
+            "start": 2782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2873,
+            "start": 2871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügen",
+            "end": 2961,
+            "start": 2953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anmeldung",
+            "end": 3042,
+            "start": 3033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3134,
+            "start": 3128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "untersagt",
+            "end": 3220,
+            "start": 3211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 3331,
+            "start": 3321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halten",
+            "end": 3415,
+            "start": 3409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3472,
+            "start": 3463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugeben",
+            "end": 3566,
+            "start": 3557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 3727,
+            "start": 3719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 3769,
+            "start": 3760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verantwortlich",
+            "end": 3844,
+            "start": 3830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletzen",
+            "end": 3944,
+            "start": 3935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "untersagt",
+            "end": 4009,
+            "start": 4000,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhalte",
+            "end": 4102,
+            "start": 4095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 4206,
+            "start": 4201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterlassen",
+            "end": 4380,
+            "start": 4369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fuhren",
+            "end": 4620,
+            "start": 4614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zwecke",
+            "end": 4739,
+            "start": 4733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterhalten",
+            "end": 4820,
+            "start": 4809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verändern",
+            "end": 5019,
+            "start": 5010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 5220,
+            "start": 5211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 5240,
+            "start": 5225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 5300,
+            "start": 5291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Handelsgesellschaften",
+            "end": 5444,
+            "start": 5423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5523,
+            "start": 5518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 5736,
+            "start": 5733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 5802,
+            "start": 5794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5892,
+            "start": 5886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Artikel",
+            "end": 5976,
+            "start": 5969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesammelt",
+            "end": 6034,
+            "start": 6025,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 6229,
+            "start": 6227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 6374,
+            "start": 6363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 6514,
+            "start": 6510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 6690,
+            "start": 6680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 6769,
+            "start": 6761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 6855,
+            "start": 6845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einsehen",
+            "end": 6925,
+            "start": 6917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 7051,
+            "start": 7046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 7127,
+            "start": 7118,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuschließen",
+            "end": 7413,
+            "start": 7399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 7488,
+            "start": 7477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 7514,
+            "start": 7508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halten",
+            "end": 7589,
+            "start": 7583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gattungsware",
+            "end": 7686,
+            "start": 7674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Warenbestand",
+            "end": 7774,
+            "start": 7762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abweichen",
+            "end": 7874,
+            "start": 7865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 7956,
+            "start": 7950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preisbestandteile",
+            "end": 8109,
+            "start": 8092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 8408,
+            "start": 8402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 8547,
+            "start": 8536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstattet",
+            "end": 8684,
+            "start": 8675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 8764,
+            "start": 8754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 8787,
+            "start": 8778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 8913,
+            "start": 8911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "neu",
+            "end": 8979,
+            "start": 8976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuhalten",
+            "end": 9128,
+            "start": 9117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 9207,
+            "start": 9205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klarna",
+            "end": 9246,
+            "start": 9240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnung",
+            "end": 9263,
+            "start": 9255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechnungsdatum",
+            "end": 9313,
+            "start": 9299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersandt",
+            "end": 9390,
+            "start": 9381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 9432,
+            "start": 9428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ratenkauf",
+            "end": 9450,
+            "start": 9441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 9623,
+            "start": 9615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 9801,
+            "start": 9797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeboten",
+            "end": 9870,
+            "start": 9861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 9956,
+            "start": 9952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 10010,
+            "start": 10006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandelt",
+            "end": 10185,
+            "start": 10176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Union",
+            "end": 10270,
+            "start": 10265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 10336,
+            "start": 10332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "österreich",
+            "end": 10425,
+            "start": 10415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 10539,
+            "start": 10538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kostenfrei",
+            "end": 10600,
+            "start": 10590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 10884,
+            "start": 10879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 11165,
+            "start": 11161,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11244,
+            "start": 11241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichtet",
+            "end": 11292,
+            "start": 11280,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angemessen",
+            "end": 11423,
+            "start": 11413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 11667,
+            "start": 11661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 11747,
+            "start": 11738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berechtigt",
+            "end": 11933,
+            "start": 11923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 12007,
+            "start": 12002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rücksendung",
+            "end": 12121,
+            "start": 12110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 12153,
+            "start": 12139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 12289,
+            "start": 12287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 12309,
+            "start": 12291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 12331,
+            "start": 12313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 12392,
+            "start": 12384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 12418,
+            "start": 12397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 12494,
+            "start": 12473,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12697,
+            "start": 12696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurücktreten",
+            "end": 12829,
+            "start": 12817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktionsgutscheine",
+            "end": 12851,
+            "start": 12834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeben",
+            "end": 12970,
+            "start": 12962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erwerben",
+            "end": 13024,
+            "start": 13016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gültig",
+            "end": 13110,
+            "start": 13104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausschließen",
+            "end": 13188,
+            "start": 13176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13274,
+            "start": 13268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechen",
+            "end": 13350,
+            "start": 13339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 13435,
+            "start": 13428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einlösen",
+            "end": 13519,
+            "start": 13511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 13569,
+            "start": 13562,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinst",
+            "end": 13658,
+            "start": 13650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13814,
+            "start": 13808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 14018,
+            "start": 14013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 14089,
+            "start": 14079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kombinieren",
+            "end": 14170,
+            "start": 14159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 14183,
+            "start": 14176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 14535,
+            "start": 14528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 14718,
+            "start": 14712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 14792,
+            "start": 14778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 14932,
+            "start": 14923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesundheit",
+            "end": 15215,
+            "start": 15205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 15370,
+            "start": 15364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "de",
+            "end": 15463,
+            "start": 15461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zurückbehaltungsrecht",
+            "end": 15504,
+            "start": 15483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 15634,
+            "start": 15630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 15782,
+            "start": 15776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenbankrechte",
+            "end": 15830,
+            "start": 15815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 16010,
+            "start": 16006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 16245,
+            "start": 16240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederzuverwenden",
+            "end": 16556,
+            "start": 16539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "extrahieren",
+            "end": 16850,
+            "start": 16839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhaltet",
+            "end": 17187,
+            "start": 17177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 17210,
+            "start": 17205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 17310,
+            "start": 17299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 17376,
+            "start": 17367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 17494,
+            "start": 17489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17718,
+            "start": 17714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 17737,
+            "start": 17724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 17933,
+            "start": 17923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "klagen",
+            "end": 18004,
+            "start": 17998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 18026,
+            "start": 18023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 18317,
+            "start": 18314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 18434,
+            "start": 18423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprechen",
+            "end": 18644,
+            "start": 18631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klausel",
+            "end": 18671,
+            "start": 18664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berührt",
+            "end": 18808,
+            "start": 18801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 18886,
+            "start": 18878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungslücke",
+            "end": 18934,
+            "start": 18920,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Allgemeines\n1.1 Vertragspartner für alle Bestellungen, die über den Onlineshop unter der vorgenannten Domain abgegeben werden ist die: Anschrift\n1.2 Die Domain www.flaconi.de wird betrieben von Flaconi.\n1.3 Die Geschäftsabwicklung und Lieferung erfolgt ausschließlich zu den vorliegenden AGB. Etwaige entgegenstehende oder abweichende Allgemeine Geschäftsbedingungen finden keine Anwendung. Die Verarbeitung personenbezogener Daten ist in einer gesonderten Datenschutzerklärung geregelt, die hier abrufbar ist.\n1.4 Begriffsbestimmungen: (1) \"Kunden\" im Sinne dieser AGB sind Verbraucher und Unternehmer. (2) \"Verbraucher\" im Sinne dieser AGB sind natürliche Personen, bei denen der Zweck der Geschäftsabwicklung nicht einer gewerblichen, selbständigen oder freiberuflichen Tätigkeit zugerechnet werden kann. (3) \"Unternehmer\" im Sinne dieser AGB sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die zu gewerblichen, selbständigen oder freiberuflichen Zwecken handeln.\n1.5 Sie können unsere AGB auf www.flaconi.de unter \"AGB\" einsehen. Sie können die AGB außerdem auch ausdrucken oder speichern, indem Sie hier klicken.\n1.6 Rechtliche Hinweise zur Alternativen Streitbeilegung: Die EU-Kommission hat eine Plattform für außergerichtliche Streitschlichtung bereitgestellt. Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit Ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform ist unter dem externen Link https://ec.europa.eu/consumers/odr/ erreichbar. Wir wollen stets Meinungsverschiedenheiten zu der von uns erbrachten Leistung einvernehmlich und außergerichtlichen beilegen. Zu einer Teilnahme an einem Schlichtungsverfahren sind wir jedoch nicht verpflichtet und können Ihnen die Teilnahme an einem solchen Verfahren leider auch nicht anbieten.\n1.7 Alternative Streitbeilegung gemäß Verbraucherstreitbeilegungsgesetz: Wir weisen Sie darauf hin, dass wir nicht bereit und nicht verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n2. Registrierung\n2.1 Mit der Registrierung und Zustimmung zu diesen AGB, der Datenschutzerklärung und einer Bonitätsprüfung können Sie ein Kundenkonto bei Flaconi erstellen. Sie müssen hierfür volljährig sein. Ein Anspruch auf ein Kundenkonto bei Flaconi besteht nicht.\n2.2 Sie sind verpflichtet, Ihre Registrierungsdaten stets aktuell zu halten und bei Änderungen (z.B. Umzug, Heirat etc.) zu aktualisieren. Sie sind bei der für die Registrierung erforderlichen Eingabe Ihrer persönlichen Daten für wahrheitsgemäße und vollständige Angaben verantwortlich. Sie sind verpflichtet, Ihre persönlichen Zugangsdaten vertraulich zu behandeln und keinem unbefugten Dritten zugänglich zu machen.\n2.3 Bei der Registrierung geben Sie Ihren Namen, Ihre Anschrift und ein Passwort an. Das Passwort ist geheim zu halten und muss über eine hinreichende Komplexität verfügen. Die Bestätigung der Anmeldung folgt unmittelbar nach dem Absenden der Anmeldung.\n2.4 Ihr Kundenkonto ist nicht übertragbar und darf nur durch Sie persönlich genutzt werden. Eine erneute Anmeldung nach Kündigung Ihres Kundenkontos durch Flaconi ist untersagt.\n2.5 Wir sind nicht verpflichtet, eine Registrierung oder die Bestellung eines registrierten Kunden anzunehmen. Wir sind ebenfalls nicht verpflichtet, unser Angebot permanent verfügbar zu halten. Bereits bestätigte Bestellungen bleiben davon unberührt.\n2.6 Sie haben die Möglichkeit Wertungen und Kundenmeinungen zu einzelnen Produkten abzugeben. Ihre Kundenmeinung wird zu dem konkreten Produkt wiedergegeben und lässt Ihren Vornamen, Ihre Stadt, und das Datum, an dem die Meinung verfasst wurde, erkennen. Ihre E-Mail-Adresse wird nicht angezeigt. Sie sind für sämtliche Inhalte, die Sie einstellen, allein verantwortlich. Von Ihnen eingestellte Inhalte dürfen keine Rechte Dritter oder gesetzliche Bestimmungen verletzen. Die Veröffentlichung von Links in den Kommentaren ist untersagt. Sie haben keinen Anspruch auf Speicherung oder Veröffentlichung Ihrer eingestellten Inhalte. Eine redaktionelle Kontrolle oder Überprüfung der von Ihnen abgesendeten Kundenmeinungen erfolgt nicht. Sie sind verpflichtet, jede Störung der Webseiten oder weitergehenden Nutzung der zugänglichen Daten außerhalb der jeweils plattformintern vorgesehen Nutzung zu unterlassen. Manipulationen mit dem Ziel der Erlangung unberechtigter Zahlungen oder sonstigen Vorteile zu unserem Nachteil können, neben rechtlichen Konsequenzen, insbesondere auch zum Verlust des Mitgliedskontos sowie der Nutzungsberechtigung fuhren.\n2.7 Das Kundenkonto berechtigt Sie ausschließlich zur Nutzung unseres Onlineshops für eigene nichtkommerzielle Zwecke.\n2.8 Sie sind nicht berechtigt, mehrere Kundenkonten gleichzeitig zu unterhalten. Wir behalten uns vor, Mehrfachanmeldungen zu löschen und Kunden, die gegen die vorgenannten genannten Bestimmungen verstoßen, zu verwarnen oder zu kundigen bzw. Inhalte zu löschen oder zu verändern.\n2.9 In Ihrem passwortgeschützten Kundenkonto können Sie Ihre Bestellungen und den Status Ihrer laufenden Bestellungen einsehen sowie Ihre Adressdaten, Zahldaten und Newsletter-Einstellungen verwalten.\n3. Vertragsschluss\n3.1 Der Onlineshop steht in deutscher Sprache zur Verfügung. Das Angebot im Onlineshop richtet sich ausschließlich an volljährige natürliche Personen, sowie juristische Personen und Handelsgesellschaften. Die Abgabe einer Bestellung setzt eine voraus, dass Sie ein Kundenkonto haben.\n3.2 Sämtliche von uns dargestellten Angebote von Waren sind - auch bezüglich der Preisangaben – freibleibend und stellen lediglich unverbindliche Aufforderungen zur Abgabe eines Kaufangebots durch den Kunden dar.\n3.3 Die Bestellung darf nur in haushaltsüblichen Mengen erfolgen. Das heißt es dürfen max. drei (3) Artikel eines Produktes in den Warenkorb gelegt werden. Die max. Anzahl aller Artikel in einem Warenkorb pro Bestellung beträgt 20 Artikel.\n3.4 Die ausgewählten Waren werden im Warenkorb gesammelt. Nach Angabe der Zahlungs- und Versandinformationen geben Sie durch einen Klick auf die Schaltfläche \"jetzt kaufen\" Sie ein verbindliches Kaufangebot über die im Warenkorb enthaltenen Artikel ab. Vor der verbindlichen Abgabe der Bestellung haben Sie die Möglichkeit die Richtigkeit Ihrer Angaben zu prüfen und gegebenenfalls zu berichtigen. Wir bestätigen den Eingang der Bestellung unmittelbar nach dem Absenden der Bestellung durch eine automatische Eingangsbestätigungs-E-Mail. Diese E-Mail stellt jedoch noch keine verbindliche Annahme des Angebots dar, sie dient lediglich Ihrer Information über die technisch einwandfreie Übermittlung der Bestellung.\n3.5 Ein verbindlicher Vertrag kommt erst mit der Versendung der Ware zustande. Über den Versand werden Sie mit einer weiteren Versandbestätigungs-E-Mail informiert. Ihre laufenden Bestellungen können Sie in Ihrem Kundenkonto einsehen.\n3.6 Die Auslieferung der bestellten Ware erfolgt bei Vorkasse erst nach Gutschrift der vollständigen Summe auf unserem Konto.\n3.7 Ein Kauf zum Zweck des gewerblichen Weiterverkaufs ist nicht gestattet. Jeglicher gewerblicher oder kommerzieller Weiterverkauf der erworbenen Ware ohne Einholung einer vorherigen Zustimmung durch uns oder den Produzenten ist verboten. Wir behalten uns im Fall eines Verstoßes gegen diese Regelung vor, Sie zukünftig vom Erwerb unserer Waren auszuschließen.\n3.8 Der Vertragstext wird nicht mit den Bestellungen zusammen gespeichert.\n4. Verfügbarkeit, Preise\n4.1 Wir sind nicht verpflichtet, das Angebot permanent verfügbar zu halten. Wir übernehmen kein Beschaffungsrisiko, auch nicht bei einem Kaufvertrag über eine Gattungsware. Der Umfang unserer Lieferverpflichtung beschränkt sich auf den vorrätigen Warenbestand.\n4.2 Das Warenangebot kann hinsichtlich der Abbildungen im Onlineshop in Farbe und Design abweichen.\n4.3 Es gelten die zum Zeitpunkt der Bestellung im Onlineshop aufgeführten Preise. Die angegebenen Preise sind Endpreise, das heißt, sie beinhalten die jeweils gültige deutsche gesetzliche Mehrwertsteuer und sonstige Preisbestandteile. Sollten Preisangaben entgegen aller Bemühungen im Einzelfall fehlerhaft sein, werden wir Sie unverzüglich auf die fehlerhafte Darstellung hinweisen und Ihnen die Möglichkeit bieten zu entscheiden, ob Sie die an der Bestellung zu dem berichtigten Preis festhalten oder Ihr Angebot widerrufen wollen. Sollten Sie sich nicht binnen 7 Werktagen entschieden haben, werden wir die Bestellung stornieren und Sie hierüber per E-Mail informieren.\n4.4 Sofern die Ware nicht verfügbar ist oder längere Lieferverzögerungen abzusehen sind, werden Ihnen etwaige Vorauszahlungen erstattet. Sie werden in diesem Fall über die Lieferschwierigkeiten per E-Mail informiert.\n5. Zahlung, Lieferung\n5.1 Wir bieten grundsätzlich die Zahlarten Rechnung, Ratenzahlung, SOFORT Überweisung, Kreditkarte, Lastschrift und PayPal an. Wie Sie bezahlen möchten, bestimmen Sie bei jeder Bestellung neu.\n5.2 Sollten Sie das Zahlungssystem eines externen Dienstleisters wie PayPal verwenden, haben Sie dessen Allgemeine Geschäftsbedingungen einzuhalten.\n5.3 In Zusammenarbeit mit Klarna bieten wir die folgenden Zahlungsoptionen an. Die Zahlung erfolgt jeweils an Klarna: Klarna Rechnung: Zahlbar innerhalb von 14 Tagen ab Rechnungsdatum. Die Rechnung wird bei Versand der Ware ausgestellt und per E-mail übersandt. Die Rechnungsbedingungen finden Sie hier. Klarna Ratenkauf: Mit dem Finanzierungsservice von Klarna können Sie Ihren Einkauf flexibel in monatlichen Raten von mindestens 1/24 des Gesamtbetrages (mindestens jedoch 6,95 EUR) bezahlen. Weitere Informationen zum Klarna Ratenkauf einschließlich der Allgemeinen Geschäftsbedingungen und der europäischen Standardinformationen für Verbraucherkredite finden Sie hier. Die Zahlungsoptionen werden im Rahmen von Klarna Checkout angeboten. Nähere Informationen und die Nutzungsbedingungen für Klarna Checkout finden Sie hier. Allgemeine Informationen zu Klarna erhalten Sie hier. Ihre Personenangaben werden von Klarna in Übereinstimmung mit den geltenden Datenschutzbestimmungen und entsprechend den Angaben in Klarnas Datenschutzbestimmungen behandelt.\n5.4 Wir akzeptieren Zahlungen lediglich von Konten innerhalb der Europäischen Union. Die Kosten einer Geld- Transaktion übernehmen wir in keinem Fall.\n5.5 Wir versenden Bestellungen ausschließlich an Adressen in Deutschland und österreich. Die Versandkosten für eine Lieferung nach Deutschland betragen 3,50 €, für eine Lieferung nach Österreich 3,50 €. Ab einem Bestellwert von 19,00 € ist der Versand kostenfrei.\n5.6 Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware geht bei Verbrauchern beim Versendungskauf mit der Übergabe der Ware an den Verbraucher oder einen von ihm bestimmten Empfänger über, unabhängig davon, ob der Versand versichert erfolgt oder nicht. Ansonsten geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der Ware mit der Übergabe, beim Versendungskauf mit der Auslieferung der Ware an den Spediteur oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt, auf den Käufer über.\n5.7 Wir sind zu Teillieferungen berechtigt, wenn dies dem Kunden zumutbar ist. Wir sind zu Teillieferungen nicht verpflichtet.\n5.8 Bei Auftreten von die Lieferung beeinträchtigenden Umständen durch höhere Gewalt verlängert sich unsere Lieferzeit angemessen. Der höheren Gewalt stehen Streik, Aussperrung, fehlende Belieferung durch Subunternehmen, behördliche Eingriffe sowie alle sonstigen Behinderungen, die bei objektiver Betrachtungsweise nicht von uns schuldhaft herbeigeführt worden sind gleich. Wir werden Ihnen Beginn und Ende derartiger Hindernisse unverzüglich mitteilen. Dauert das Hindernis in den vorgenannten Fällen über einen Zeitraum von mehr als 4 Wochen nach den ursprünglich geltenden Lieferzeiten an, sind Sie zum Rücktritt vom Vertrag berechtigt. Weitergehende Ansprüche, insbesondere auf Schadensersatz, bestehen nicht.\n5.9 Machen Sie von Ihrem Widerrufsrecht Gebrauch, übernehmen wir für Sie die regelmäßigen Kosten der Rücksendung.\n6. Gesetzliches Widerrufsrecht\nSoweit Sie den Vertrag als Verbraucher abgeschlossen haben steht Ihnen das nachfolgend näher beschriebene gesetzliche Widerrufsrecht zu: Widerrufsbelehrung\n7. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Zahlung unser Eigentum.\n8. Gewährleistungsrechte\nBei allen Waren aus unserem Shop bestehen gesetzliche Gewährleistungsrechte. Sollte die von uns gelieferte Ware mangelhaft sein, können Sie im Rahmen der gesetzlichen Vorschriften nach Ihrer Wahl Beseitigung des Mangels oder Lieferung mangelfreier Ware verlangen (Nacherfüllung). Sollte die Nacherfüllung fehlschlagen, können Sie den Kaufpreis mindern oder bei einem erheblichen Mangel vom Vertrag zurücktreten.\n9. Aktionsgutscheine\nAktionsgutscheine sind Gutscheine, die wir im Rahmen von Werbekampagnen mit einer bestimmten Gültigkeitsdauer ausgeben. Aktionsgutscheine können Sie nicht käuflich erwerben. Aktionsgutscheine sind nur für www.flaconi.de und nur im angegebenen Zeitraum gültig. Wir können einzelne Marken oder Artikel von der Gutscheinaktion ausschließen. Aktionsgutscheine können im Rahmen eines Bestellvorgangs nur einmal eingelöst werden. Der Warenwert muss mindestens dem Betrag des Aktionsgutscheins entsprechen. Eine Erstattung etwaiger Restguthaben ist aus administrativen Gründen nicht möglich. Sie können einen Aktionsgutschein nur vor Abschluss eines Bestellvorgangs einlösen. Eine nachträgliche Verrechnung ist nicht möglich. Wir zahlen das Guthaben eines Aktionsgutscheins weder in bar aus, noch wird es verzinst. Reicht das Guthaben eines Aktionsgutscheins für die Bestellung nicht aus, kann die Differenz mit den angebotenen Zahlungsmöglichkeiten ausgeglichen werden. Der Aktionsgutschein wird nicht erstattet, wenn Ware ganz oder teilweise retourniert wird, sofern der Aktionsgutschein im Rahmen einer Werbeaktion ausgegeben und dafür keine Gegenleistung erbracht wurde. Sie sind nicht berechtigt, Aktionsgutscheine auf Dritte zu übertragen. Sie sind nicht berechtigt, mehrere Aktionsgutscheine miteinander zu kombinieren.\n10. Haftung\n10.1 Für andere als durch Verletzung von Leben, Körper und Gesundheit entstehende Schäden haften wir sowie unsere gesetzlichen Vertreter und Erfüllungsgehilfen nur, soweit diese Schäden auf vorsätzlichem oder grob fahrlässigem Handeln oder auf schuldhafter Verletzung einer wesentlichen Vertragspflicht durch uns oder unsere Erfüllungsgehilfen beruhen. Vertragswesentlich ist eine Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung Sie regelmäßig vertrauen dürfen. Eine darüber hinausgehende Haftung auf Schadensersatz ist ausgeschlossen. Ansprüche aus einer von uns gegebenen Garantie für die Beschaffenheit der Ware und aus dem Produkthaftungsgesetz bleiben hiervon unberührt. Bei der Verletzung wesentlicher Vertragspflichten haftet Flaconi nur auf den vertragstypischen, vorhersehbaren Schaden, wenn dieser fahrlässig verursacht wurde, es sei denn, es handelt sich um Schadensersatzansprüche aus einer Verletzung des Lebens, des Körpers oder der Gesundheit.\n10.2 Nach dem jetzigen Stand der Technik kann die Datenkommunikation über das Internet nicht fehlerfrei und/oder jederzeit verfügbar gewährleistet werden. Wir haften daher nicht für die jederzeitige Verfügbarkeit des Angebots unter www.flaconi.de.\n11. Aufrechnung / Zurückbehaltungsrecht\nEin Recht zur Aufrechnung steht Ihnen nur zu, wenn Ihre Gegenansprüche rechtskräftig festgestellt oder von Flaconi anerkannt sind. Außerdem sind Sie zur Ausübung eines Zurückbehaltungsrechtes nur insoweit befugt, als Ihr Gegenanspruch auf dem gleichen Vertragsverhältnis beruht.\n12. Urheber- und Markenrechte, Datenbankrechte\nBitte beachten Sie, dass die Inhalte des Onlineshops, insbesondere die Fotographien, Abbildungen und Beschreibungen weitgehend urheberrechtlich oder markenrechtlich geschützt sind. Eine Nutzung der Inhalte, die über die Suche, oder den Einkauf im Onlineshop hinausgeht, kann Rechte Dritte oder Rechte von Flaconi verletzen und rechtliche Konsequenzen, wie Unterlassungs- und Schadensersatzansprüche zur Folge haben.\nDarüber hinaus beachten Sie bitte, dass es Ihnen ohne die ausdrückliche schriftliche Zustimmung von Flaconi untersagt ist, vorgenannte Inhalte des Onlineshops, sonstige auf der Webseite von Flaconi befindliche Informationen oder andere Teile der Webseite systematisch zu extrahieren und/oder wiederzuverwenden. Insbesondere dürfen Sie kein Data Mining, keine Robots oder ähnliche Datensammel- und Extraktionsprogramme einsetzen, um Inhalte des Onlineshops, sonstige auf der Webseite von Flaconi befindliche Informationen oder andere wesentliche Teile unserer Webseite zur Wiederverwendung zu extrahieren. Ferner beachten Sie bitte, dass Sie ohne unsere ausdrückliche schriftliche Zustimmung auch keine eigene Datenbank herstellen und/oder veröffentlichen dürfen, die Inhalte des Onlineshops, sonstige auf der Webseite von Flaconi befindliche Informationen oder andere Teile Webseite (z. B. unsere Preise und Produktinformationen) beinhaltet.\n13. Anwendbares Recht\nDas Rechtsverhältnis zwischen Ihnen und Flaconi unterliegt dem Recht der Bundesrepublik Deutschland. Die Bestimmungen des Wiener UN-Kaufrechts finden keine Anwendung. Gleiches gilt für etwaige sonstige zwischenstaatliche Übereinkommen, auch nach ihrer Übernahme in das deutsche Recht. Bei Verträgen mit Verbrauchern gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n14. Gerichtsstand\nMit Kaufleuten, juristischen Personen des öffentlichen Rechts oder öffentlich-rechtlichen Sondervermögen wird der Geschäftssitz von Flaconi (Berlin), als ausschließlicher Gerichtsstand vereinbart. Wir sind in diesem Fall auch berechtigt, am Sitz des Kunden zu klagen.\n15. Änderung der AGB\nWir sind berechtigt, diese AGB - soweit sie in das Vertragsverhältnis mit dem Kunden eingeführt sind - einseitig zu ändern, soweit dies zur Beseitigung nachträglich entstehender Äquivalenzstörungen oder zur Anpassung an veränderte gesetzliche oder technische Rahmenbedingungen notwendig ist. Wir werden Sie unter Mitteilung des Inhaltes der geänderten Regelungen über die entsprechende Anpassung informieren. Die Änderung wird Vertragsbestandteil, sofern Sie nicht binnen sechs Wochen nach Zugang der Änderungsmitteilung der Einbeziehung in das Vertragsverhältnis uns gegenüber in Schrift- oder Textform widersprechen.\n16. Salvatorische Klausel\nSollte eine Bestimmung dieses Vertrags unwirksam sein oder werden, so wird die Gültigkeit des Vertrages im Übrigen hiervon nicht berührt. Anstelle der unwirksamen Bestimmung tritt die jeweilige gesetzliche Regelung. Das gleiche gilt im Falle einer Regelungslücke.\n\n"
+}

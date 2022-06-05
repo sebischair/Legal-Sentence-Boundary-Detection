@@ -1,0 +1,629 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "willkürlich",
+            "end": 99,
+            "start": 88,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenkette",
+            "end": 111,
+            "start": 100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 200,
+            "start": 199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 210,
+            "start": 201,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 514,
+            "start": 513,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 524,
+            "start": 523,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 550,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 744,
+            "start": 741,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 754,
+            "start": 753,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 780,
+            "start": 779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 1033,
+            "start": 1029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 1111,
+            "start": 1102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1150,
+            "start": 1139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Willkür",
+            "end": 1256,
+            "start": 1249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1267,
+            "start": 1257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KfH",
+            "end": 1321,
+            "start": 1318,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1332,
+            "start": 1322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7326",
+            "end": 1351,
+            "start": 1347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1357,
+            "start": 1352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Karlsruhe",
+            "end": 1405,
+            "start": 1396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1413,
+            "start": 1407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1415,
+            "start": 1414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1418,
+            "start": 1417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeführt",
+            "end": 1699,
+            "start": 1689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1702,
+            "start": 1701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Amberg",
+            "end": 1764,
+            "start": 1758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 1911,
+            "start": 1908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1914,
+            "start": 1913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 1974,
+            "start": 1964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1977,
+            "start": 1976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 2221,
+            "start": 2215,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 2307,
+            "start": 2297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 2507,
+            "start": 2502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 2565,
+            "start": 2556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2568,
+            "start": 2567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Karlsruhe",
+            "end": 2724,
+            "start": 2715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 2862,
+            "start": 2857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2865,
+            "start": 2864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3101,
+            "start": 3098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 3396,
+            "start": 3393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3399,
+            "start": 3398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 3527,
+            "start": 3525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 3778,
+            "start": 3769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4002,
+            "start": 3999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teile",
+            "end": 4212,
+            "start": 4207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Grundlage",
+            "end": 4399,
+            "start": 4390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4402,
+            "start": 4401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 4566,
+            "start": 4557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4661,
+            "start": 4655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 4897,
+            "start": 4892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auseinanderzusetzen",
+            "end": 5075,
+            "start": 5056,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 5079,
+            "start": 5077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5082,
+            "start": 5081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusprechen",
+            "end": 5204,
+            "start": 5191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5208,
+            "start": 5206,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5428,
+            "start": 5427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 5525,
+            "start": 5518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 5861,
+            "start": 5857,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6165,
+            "start": 6164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 6169,
+            "start": 6167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "liegt",
+            "end": 6506,
+            "start": 6501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6510,
+            "start": 6508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 6705,
+            "start": 6702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6709,
+            "start": 6707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeordnet",
+            "end": 6866,
+            "start": 6856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beachten",
+            "end": 6938,
+            "start": 6930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 7174,
+            "start": 7171,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7569,
+            "start": 7568,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7573,
+            "start": 7571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 7932,
+            "start": 7928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8015,
+            "start": 8012,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8408,
+            "start": 8407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8412,
+            "start": 8410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bindungswirkung",
+            "end": 8590,
+            "start": 8575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8594,
+            "start": 8592,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9150,
+            "start": 9149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 9154,
+            "start": 9152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 9202,
+            "start": 9199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9206,
+            "start": 9204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 9444,
+            "start": 9437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "prorogationsfähig",
+            "end": 9514,
+            "start": 9497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 9518,
+            "start": 9516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 9671,
+            "start": 9663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 9900,
+            "start": 9893,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10095,
+            "start": 10094,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10520,
+            "start": 10519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 10524,
+            "start": 10522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unhaltbar",
+            "end": 10666,
+            "start": 10657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestützt",
+            "end": 10848,
+            "start": 10840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 11098,
+            "start": 11094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 11176,
+            "start": 11167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 11314,
+            "start": 11311,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11664,
+            "start": 11663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "meint",
+            "end": 11972,
+            "start": 11967,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12198,
+            "start": 12197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 12601,
+            "start": 12593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 12834,
+            "start": 12825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "thematisiert",
+            "end": 12931,
+            "start": 12919,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 12935,
+            "start": 12933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 13088,
+            "start": 13085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verursacht",
+            "end": 13160,
+            "start": 13150,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13396,
+            "start": 13395,
+            "type": "SBD"
+        }
+    ],
+    "Text": "BayObLG München, Beschluss v. 30.04.2019 – 1 AR 16/19\nTitel:\nVerweisungsbeschluss nicht willkürlich\nNormenkette:\nZPO § 281 Abs. 2 S. 2, S. 4, § 36 Abs. 1 Nr. 6, Abs. 2, § 38 Abs. 1, § 261 Abs. 3 Nr. 2\nLeitsätze:\n1. Verweisungsbeschlüsse sind nach § 281 Abs. 2 ZPO grundsätzlich unanfechtbar, so dass sich\nauch ein sachlich zu Unrecht ergangener Verweisungsbeschluss und die diesem Beschluss\nzugrunde liegende Entscheidung über die Zuständigkeit grundsätzlich jeder Nachprüfung entzieht\n(vgl. BGH BeckRS 2002, 7922). (Rn. 13) (redaktioneller Leitsatz)\n2. Willkür liegt nur vor, wenn der Verweisungsbeschluss bei verständiger Würdigung der das\nGrundgesetz beherrschenden Gedanken nicht mehr verständlich erscheint und offensichtlich\nunhaltbar ist. (Rn. 14) (redaktioneller Leitsatz)\n3. Offenkundig ist das Landgericht auf der Grundlage des in tatsächlicher Hinsicht nicht weiter\naufgeklärten Parteivorbringens - rechtsirrig - davon ausgegangen, aufgrund einer wirksamen\nGerichtsstandsvereinbarung örtlich unzuständig (geworden) zu sein. Dieser Rechtsfehler allein\nvermag den Vorwurf der Willkür nicht zu begründen. (redaktioneller Leitsatz)\nSchlagworte:\nVerweisung, Gerichtsstandsvereinbarung, Bindungswirkung, Verweisungsbeschluss, Unanfechtbarkeit,\nWillkür\nVorinstanz:\nLG Amberg, Beschluss vom 08.01.2019 – 14 O 64/18 KfH\nFundstelle:\nBeckRS 2019, 7326\nTenor\nÖrtlich zuständig ist das Landgericht Karlsruhe.\nGründe\nI.\n1\nMit Klage vom 23. Juli 2018 erhob die Klägerin beim Landgericht Amberg - Kammer für Handelssachen -\nKlage auf Bezahlung restlichen Werklohns gegen die Beklagte mit der Begründung, sie habe in deren\nAuftrag Dachdecker- und Klempnerarbeiten an zwei Gebäuden in Baumholder ausgeführt.\n2\nDie Beklagte hat ihren Sitz im Bezirk des Landgerichts Amberg. In der Klageschrift wies die Klägerin darauf\nhin, dass im Vertrag das Amtsgericht bzw. Landgericht Amberg als Gerichtsstand vereinbart worden sei.\n3\nDie Klage wurde der Beklagten am 28. August 2018 zugestellt.\n4\nNachdem die Beklagte ihre Verteidigungsabsicht angezeigt hatte, beantragte die Prozessbevollmächtigte\nder Klägerin mit Schriftsatz vom 20. September 2018 die Verweisung an das Landgericht Karlsruhe, da sich\ndie Parteien hierauf geeinigt hätten. Der Prozessbevollmächtigte der Beklagten werde dies gegenüber dem\nGericht bestätigen. Mit Schriftsatz vom 25. September 2018 teilte der Prozessbevollmächtigte der Beklagten\nmit, die Parteien hätten eine Gerichtsstandsvereinbarung geschlossen, wonach Gerichtsstand Karlsruhe\nsein solle. Insofern sei das Landgericht Amberg nicht mehr zuständig.\n5\nMit Beschluss vom 26. September 2018 erklärte sich das Landgericht Amberg für örtlich unzuständig und\nverwies den Rechtsstreit an das Landgericht Karlsruhe. Zur Begründung führte es aus, die Parteien hätten\neine Gerichtsstandsvereinbarung geschlossen, wonach Gerichtsstand Karlsruhe sein solle.\n6\nNach Eingang der Akte beim Landgericht Karlsruhe wurde den Parteien aufgegeben, die\nGerichtsstandsbestimmung vorzulegen oder, falls keine schriftliche Vereinbarung bestehe, anzugeben,\nwann die Vereinbarung mündlich getroffen worden sei. Im Anschluss teilten beide Parteien mit, dass die\nGerichtsstandsvereinbarung mit E-Mail vom 6. September 2018 seitens der Bevollmächtigten der Klägerin\n(Bl. 39, 42 d.A.) und mit Schreiben vom 11. September 2018 seitens der Bevollmächtigten der Beklagten\n(Bl. 40, 43 d.A.) zustande gekommen sei.\n7\nNach Anhörung der Parteien lehnte das Landgericht Karlsruhe mit Beschluss vom 8. Januar 2019 die\nÜbernahme des Rechtsstreits ab. Zur Begründung führte es aus, die Bindungswirkung eines\nVerweisungsbeschlusses entfalle u.a. dann, wenn das Gericht von der ganz herrschenden Meinung in\nRechtsprechung und Literatur abweiche, ohne dies zu sehen und die eigene Auffassung zu begründen. Die\nParteien hätten die auf Karlsruhe lautende Gerichtsstandsvereinbarung nach Rechtshängigkeit der Klage\ngetroffen, was nach allgemeiner Auffassung in der Rechtsprechung wegen § 261 Abs. 3 Nr. 2 ZPO nicht\nmehr möglich sei. Hiervon sei das Landgericht Amberg abgewichen, ohne überhaupt zu klären, wann die\nGerichtsstandsvereinbarung abgeschlossen worden sei und weshalb es die allgemeine Auffassung in der\nRechtsprechung nicht teile. Ein derartiger Verweisungsbeschluss, der in dieser Weise unter Verletzung des\nGrundsatzes der perpetuatio fori (§ 261 Abs. 3 Nr. 2 ZPO) ergehe, entbehre aber jeder rechtlichen\nGrundlage.\n8\nMit Verfügung vom 4. Februar 2019 hat das Landgericht Amberg das Verfahren zur Bestimmung des\nzuständigen Gerichts dem Bayerischen Obersten Landesgericht vorgelegt. Die Parteien hätten nach § 38\nAbs. 1 ZPO wirksam eine Gerichtsstandsbestimmung treffen können. Nach Aktenlage möge verkannt\nworden sein, dass eine nach Rechtshängigkeit getroffene Gerichtsstandsvereinbarung mit § 261 Abs. 3 Nr.\n2 ZPO, der sich nicht ausdrücklich zu Gerichtsstandsvereinbarungen verhalte, in Konflikt stehen könne.\nWenn dies aber gerade übersehen worden sei, habe für das Landgericht Amberg kein Anlass bestanden,\nsich im Verweisungsbeschluss mit der herrschenden Ansicht auseinanderzusetzen.\nII.\n9\nAuf die zulässige Vorlage des Landgerichts Amberg ist die örtliche Zuständigkeit des Landgerichts\nKarlsruhe auszusprechen.\n10\n1. Die Voraussetzungen für die Zuständigkeitsbestimmung gemäß § 36 Abs. 1 Nr. 6, Abs. 2 ZPO durch das\nBayerische Oberste Landesgericht liegen vor (vgl. Schultzky in Zöller, ZPO, 32. Aufl. 2018, § 36 Rn. 34 ff.\nm. w. N.). Das Landgericht Amberg und das Landgericht Karlsruhe haben sich bindend für unzuständig\nerklärt; das Landgericht Amberg durch unanfechtbaren Verweisungsbeschluss vom 26. September 2018 (§\n281 Abs. 2 Satz 2 ZPO), das Landgericht Karlsruhe in der Form der den Parteien bekannt gegebenen (vgl.\nSchultzky in Zöller, ZPO, § 36 Rn. 35) ersichtlich abschließenden Verweigerung der Übernahme des\nVerfahrens mit Beschluss vom 8. Januar 2019. Die jeweils ausdrücklich ausgesprochene Leugnung der\neigenen Kompetenz erfüllt das Tatbestandsmerkmal „rechtskräftig“ im Sinne des § 36 Abs. 1 Nr. 6 ZPO\n(BGH, Beschluss vom 10. Dezember 1987, I ARZ 809/87, BGHZ 102, 338/340 m. w. N; Beschluss vom 19.\nFebruar 2013, X ARZ 507/12, NJW-RR 2013, 764 Rn. 5).\n11\nZuständig für die Bestimmungsentscheidung ist gemäß § 36 Abs. 2 ZPO i. V. m. § 9 EGZPO das\nBayerische Oberste Landesgericht, weil die Bezirke der am negativen Kompetenzkonflikt beteiligten\nGerichte zum Zuständigkeitsbereich unterschiedlicher Oberlandesgerichte gehören und das mit der\nRechtssache zuerst befasste Gericht in Bayern liegt.\n12\n2. Örtlich zuständig zur Entscheidung über das Klagebegehren ist gemäß § 281 Abs. 2 Satz 4 ZPO das\nLandgericht Karlsruhe, weil es an den Verweisungsbeschluss des Landgerichts Amberg gebunden ist.\n13\na) Der Gesetzgeber hat in § 281 Abs. 2 Sätze 2 und 4 ZPO die grundsätzliche Unanfechtbarkeit von\nVerweisungsbeschlüssen und deren Bindungswirkung angeordnet. Dies hat der Senat im Verfahren nach §\n36 Abs. 1 Nr. 6 ZPO zu beachten. Im Falle eines negativen Kompetenzkonflikts innerhalb der ordentlichen\nGerichtsbarkeit ist daher grundsätzlich das Gericht als zuständig zu bestimmen, an das die Sache in dem\nzuerst ergangenen Verweisungsbeschluss verwiesen worden ist. Demnach entziehen sich auch ein sachlich\nzu Unrecht ergangener Verweisungsbeschluss und die diesem Beschluss zugrunde liegende Entscheidung\nüber die Zuständigkeit grundsätzlich jeder Nachprüfung (st. Rspr.; BGH, Beschluss vom 10. Dezember\n1987, I ARZ 809/87, BGHZ 102, 338/340; Beschluss vom 10. September 2002, X ARZ 217/02, NJW 2002,\n3634/3635; vgl. auch Greger in Zöller, ZPO, § 281 Rn. 16).\n14\nDie Bindungswirkung entfällt nur dann, wenn der Verweisungsbeschluss schlechterdings nicht als im\nRahmen des § 281 ZPO ergangen anzusehen ist, etwa weil er auf einer Verletzung rechtlichen Gehörs\nberuht, nicht durch den gesetzlichen Richter erlassen wurde oder jeder gesetzlichen Grundlage entbehrt\nund deshalb als objektiv willkürlich betrachtet werden muss. Hierfür genügt nicht, dass der Beschluss\ninhaltlich unrichtig oder fehlerhaft ist. Willkür liegt nur vor, wenn der Verweisungsbeschluss bei verständiger\nWürdigung der das Grundgesetz beherrschenden Gedanken nicht mehr verständlich erscheint und\noffensichtlich unhaltbar ist (st. Rspr.; BGH, Beschluss vom 15. August 2017, X ARZ 204/17, NJW-RR 2017,\n2131 Rn. 15 m. w. N.; Beschluss vom 9. Juni 2015, X ARZ 115/15, NJW-RR 2015, 1016 Rn. 9; Greger in\nZöller, ZPO, § 281 Rn. 17).\n15\nb) Bei Anlegung dieses Maßstabs ist der Verweisungsbeschluss des Landgerichts Amberg nicht als\nwillkürlich anzusehen, sondern entfaltet die im Gesetz vorgesehene Bindungswirkung.\n16\nEin Verweisungsbeschluss kann insbesondere dann den Charakter einer willkürlichen Maßnahme haben,\nwenn sich das Gericht - bewusst oder unbewusst - darüber hinwegsetzt, dass die Verweisung die eigene\nUnzuständigkeit voraussetzt, bei offensichtlich gegebener eigener Zuständigkeit also nicht möglich ist (vgl.\nBGH, Beschluss vom 10. September 2002, a. a. O; Beschluss vom 19. Januar 1993, X ARZ 845/92, NJW\n1993, 1273; BayObLG, Beschluss vom 16. Oktober 2003, 1Z AR 115/03, juris Rn. 14; Beschluss vom 9.\nSeptember 1993, 1Z AR 25/93, BayObLGZ 1993, 317/319).\n17\nEin derartiger Fall liegt hier jedoch nicht vor.\n18\naa) Die Klägerin hat zwar die Klage bei dem nach §§ 12, 17 ZPO sowie bei dem nach der\nGerichtsstandsvereinbarung in Ziff. 8.2 des zwischen den Parteien geschlossenen Vertrags vom 6. März\n2015 örtlich zuständigen Gericht in Amberg erhoben. Beide Parteien sind als Kaufleute (§ 6 Abs. 1 HGB)\nprorogationsfähig.\n19\nDas Landgericht Amberg ist nicht durch die Korrespondenz der Prozessbevollmächtigten der Parteien vom\n6./11. September 2018 örtlich unzuständig geworden. Zwar war die Vereinbarung eines von Amberg\nabweichenden Gerichtsstands durch eine die ursprüngliche Regelung abändernde, ausdrückliche oder\nstillschweigende Gerichtsstandsvereinbarung gemäß § 38 Abs. 1 ZPO grundsätzlich möglich. Dies gilt\nselbst dann, wenn die Parteien in Ziff. 8.2 des Vertrags vom 6. März 2015 vertraglich eine ausschließliche\nZuständigkeit begründet haben sollten (Schultzky in Zöller, ZPO, § 40 Rn. 6). Sie berührt aber gemäß § 261\nAbs. 3 Nr. 2 ZPO nach erfolgter Zustellung der Klage die einmal bestehende Zuständigkeit des\nLandgerichts Amberg für die Entscheidung nicht (BGH, Beschluss vom 18. Februar 2010, Xa ARZ 14/10,\nNJW-RR 2010, 891 Rn. 9 m. w. N.; Beschluss vom 16.11.1962, III ARZ 123/62, NJW 1963, 585; Seiler in\nThomas/Putzo, ZPO, 40. Aufl. 2019, § 261 Rn. 16 und § 38 Rn. 17a; Greger in Zöller, ZPO, § 261 Rn. 12).\n20\nbb) Jedoch ist der Verweisungsbeschluss bei verständiger Würdigung der das Grundgesetz\nbeherrschenden Gedanken nicht offensichtlich unhaltbar. Das Landgericht Amberg hat seinen\nVerweisungsbeschluss ausschließlich auf die durch Gerichtsstandsvereinbarung begründete örtliche\nZuständigkeit des Landgerichts Karlsruhe gestützt. Offenkundig ist das Landgericht Amberg auf der\nGrundlage des in tatsächlicher Hinsicht nicht weiter aufgeklärten Parteivorbringens - rechtsirrig - davon\nausgegangen, aufgrund einer wirksamen Parteivereinbarung örtlich unzuständig (geworden) zu sein. Dieser\nRechtsfehler allein vermag den Vorwurf der Willkür nicht zu begründen. Zusätzliche Umstände, die die\ngetroffene Entscheidung als schlechterdings nicht mehr nachvollziehbar erscheinen lassen, liegen nicht vor.\nEs bestehen keine Anhaltspunkte dafür, der zuständige Vorsitzende Richter des Landgerichts Amberg habe\ndie mögliche Fehlerhaftigkeit einer auf § 38 Abs. 1 ZPO gestützten Verweisung erkannt, diese aber zu dem\nZweck hingenommen, eine Bindungswirkung herbeizuführen (vgl. BGH, Beschluss vom 18. Dezember\n2010, Xa ARZ 14/10, NJW-RR 2010, 891 Rn. 16 f.). Es trifft nicht zu, dass sich der Bundesgerichtshof in\nseinem Beschluss vom 18. Dezember 2010, a. a. O., mit der Bindungswirkung eines\nVerweisungsbeschlusses nur im Hinblick auf eine nachträgliche Gerichtsstandsvereinbarung im\nselbständigen Beweisverfahren befasst habe, wie das Landgericht Karlsruhe meint. In der genannten\nEntscheidung hat der Bundesgerichtshof an die Prüfung der Bindungswirkung vielmehr diejenigen\nMaßstäbe angelegt, wie sie auch für Verweisungsbeschlüsse in Klageverfahren gelten (vgl. BGH, a. a. O.\nRn. 15 f.). Die vom Landgericht Karlsruhe ins Feld geführten Entscheidungen des Oberlandesgerichts\nHamm, Beschluss vom 14. Mai 2014, I-32 SA 32/14 (MDR 2014, 1106) sowie des Oberlandesgerichts\nFrankfurt, Beschluss vom 21. Februar 1996, 21 AR 10/96 (NJW-RR 1996, 1403) betreffen Sachverhalte, in\ndenen das verweisende Gericht durch Vortrag einer Partei Anlass hatte, die Fehlerhaftigkeit der Verweisung\nzu erkennen. Der Prozessbevollmächtigte der Beklagten hat zwar mit Schriftsatz vom 25. September 2019\nmitgeteilt, wegen der Gerichtsstandsvereinbarung, wonach Gerichtsstand Karlsruhe sein solle, sei das\nLandgericht Amberg „nicht mehr“ zuständig. Entgegenstehende Bedenken mit Blick auf § 261 Abs. 3 Nr. 2\nZPO wurden jedoch nicht thematisiert.\n21\nAngesichts des übereinstimmenden Verweisungsbegehrens der Parteien schadet es auch nicht, dass der\nVerweisungsbeschluss nicht näher begründet worden ist. Dies war ersichtlich durch die Übereinstimmung\nder Parteien verursacht. In solchen Fällen begründet das Fehlen einer näheren Begründung nicht die\nWillkürlichkeit der Verweisung (BGH, Beschluss vom 18. Dezember 2010, Xa ARZ 14/10, a. a. O. Rn. 17;\nBeschluss vom 27. Mai 2008, X ARZ 45/08, NJW-RR 2008, 1309).\n\n"
+}

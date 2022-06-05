@@ -1,0 +1,2141 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 51,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 57,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Patent",
+            "end": 142,
+            "start": 136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 155,
+            "start": 143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "110",
+            "end": 166,
+            "start": 163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 178,
+            "start": 176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 187,
+            "start": 186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 197,
+            "start": 188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 494,
+            "start": 485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 607,
+            "start": 604,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 882,
+            "start": 881,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 892,
+            "start": 891,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 918,
+            "start": 917,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1304,
+            "start": 1303,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1314,
+            "start": 1313,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1340,
+            "start": 1339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1352,
+            "start": 1341,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Patent",
+            "end": 1492,
+            "start": 1486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1503,
+            "start": 1493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6860",
+            "end": 1522,
+            "start": 1518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1528,
+            "start": 1523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1557,
+            "start": 1547,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 1617,
+            "start": 1611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 1760,
+            "start": 1747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1772,
+            "start": 1762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1774,
+            "start": 1773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 1917,
+            "start": 1909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 1999,
+            "start": 1994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zitat",
+            "end": 2006,
+            "start": 2001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2008,
+            "start": 2007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellt",
+            "end": 2187,
+            "start": 2181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2190,
+            "start": 2189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 2309,
+            "start": 2304,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2312,
+            "start": 2311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verletze",
+            "end": 2417,
+            "start": 2409,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2580,
+            "start": 2579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2583,
+            "start": 2582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 2715,
+            "start": 2711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufweist",
+            "end": 3435,
+            "start": 3427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4236,
+            "start": 4232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausgangssignals",
+            "end": 4346,
+            "start": 4331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 4556,
+            "start": 4548,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4761,
+            "start": 4760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 5632,
+            "start": 5626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellungen",
+            "end": 6117,
+            "start": 6105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkaufsstellen",
+            "end": 6314,
+            "start": 6299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angebotsempfänger",
+            "end": 6495,
+            "start": 6478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbreitungsgebieten",
+            "end": 6625,
+            "start": 6605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hilfsweise",
+            "end": 7500,
+            "start": 7490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 7677,
+            "start": 7671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 8307,
+            "start": 8303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herauszugeben",
+            "end": 8604,
+            "start": 8591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 8826,
+            "start": 8822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 8829,
+            "start": 8828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 8879,
+            "start": 8869,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusetzen",
+            "end": 9076,
+            "start": 9065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 9079,
+            "start": 9078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9228,
+            "start": 9225,
+            "type": "SBD"
+        },
+        {
+            "annotation": ".",
+            "end": 9231,
+            "start": 9230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 9233,
+            "start": 9232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 9300,
+            "start": 9291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angehört",
+            "end": 9427,
+            "start": 9419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 9430,
+            "start": 9429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 9708,
+            "start": 9700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 9729,
+            "start": 9710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 9732,
+            "start": 9730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 9768,
+            "start": 9757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Filterdarstellungen",
+            "end": 9914,
+            "start": 9895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10103,
+            "start": 10100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hierfür",
+            "end": 10184,
+            "start": 10177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 10188,
+            "start": 10186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktechnik",
+            "end": 10232,
+            "start": 10221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Empfängerseite",
+            "end": 10366,
+            "start": 10352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erläutert",
+            "end": 10469,
+            "start": 10460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgebildet",
+            "end": 10606,
+            "start": 10596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10610,
+            "start": 10608,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10838,
+            "start": 10837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 11084,
+            "start": 11083,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 11088,
+            "start": 11086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 11256,
+            "start": 11255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 11450,
+            "start": 11449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 11624,
+            "start": 11623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11628,
+            "start": 11626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11709,
+            "start": 11707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 11994,
+            "start": 11993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 12208,
+            "start": 12207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 12406,
+            "start": 12405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 12580,
+            "start": 12579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 12584,
+            "start": 12582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 12707,
+            "start": 12700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 12711,
+            "start": 12709,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 12930,
+            "start": 12927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfassend",
+            "end": 13077,
+            "start": 13068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 14655,
+            "start": 14647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 14659,
+            "start": 14657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erläuterung",
+            "end": 14717,
+            "start": 14706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 14721,
+            "start": 14719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzt",
+            "end": 15006,
+            "start": 14999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15010,
+            "start": 15008,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 15068,
+            "start": 15063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15207,
+            "start": 15204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 15331,
+            "start": 15322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 15335,
+            "start": 15333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstehen",
+            "end": 15655,
+            "start": 15646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15768,
+            "start": 15765,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 16509,
+            "start": 16508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zweifeln",
+            "end": 16615,
+            "start": 16607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16729,
+            "start": 16723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 16733,
+            "start": 16731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfügt",
+            "end": 17042,
+            "start": 17035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 17046,
+            "start": 17044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 17139,
+            "start": 17131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 17143,
+            "start": 17141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 17257,
+            "start": 17248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrifft",
+            "end": 17399,
+            "start": 17391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geht",
+            "end": 17527,
+            "start": 17523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 17833,
+            "start": 17827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Signale",
+            "end": 17945,
+            "start": 17938,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18105,
+            "start": 18104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "adressiert",
+            "end": 18179,
+            "start": 18169,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 18324,
+            "start": 18320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 18466,
+            "start": 18458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einklang",
+            "end": 18581,
+            "start": 18573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 18750,
+            "start": 18746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 19032,
+            "start": 19031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 19355,
+            "start": 19352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 19359,
+            "start": 19357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigt",
+            "end": 19444,
+            "start": 19435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 19567,
+            "start": 19558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Richtung",
+            "end": 19605,
+            "start": 19597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 19609,
+            "start": 19607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 19660,
+            "start": 19658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 19664,
+            "start": 19662,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezeigt",
+            "end": 19737,
+            "start": 19730,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19840,
+            "start": 19839,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20004,
+            "start": 20003,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20177,
+            "start": 20176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugt",
+            "end": 20303,
+            "start": 20296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abtastwerte",
+            "end": 20372,
+            "start": 20361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließt",
+            "end": 20574,
+            "start": 20566,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20871,
+            "start": 20870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 20875,
+            "start": 20873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 20973,
+            "start": 20969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 21076,
+            "start": 21072,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließt",
+            "end": 21454,
+            "start": 21446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 21692,
+            "start": 21688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 21696,
+            "start": 21694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nichts",
+            "end": 21777,
+            "start": 21771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 21781,
+            "start": 21779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 22032,
+            "start": 22029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 22209,
+            "start": 22205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 22213,
+            "start": 22211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhindern",
+            "end": 22404,
+            "start": 22394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsteht",
+            "end": 22538,
+            "start": 22530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausführungsform",
+            "end": 22704,
+            "start": 22689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 22708,
+            "start": 22706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 22861,
+            "start": 22858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 22865,
+            "start": 22863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezeichnet",
+            "end": 23213,
+            "start": 23203,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 23486,
+            "start": 23485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 23548,
+            "start": 23546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 23552,
+            "start": 23550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 23692,
+            "start": 23688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 23922,
+            "start": 23918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 24040,
+            "start": 24034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 24167,
+            "start": 24164,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 24336,
+            "start": 24335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 24369,
+            "start": 24367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übereinstimmen",
+            "end": 24489,
+            "start": 24475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 24720,
+            "start": 24717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 24724,
+            "start": 24722,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bewirken",
+            "end": 24822,
+            "start": 24814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhöhen",
+            "end": 24923,
+            "start": 24916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 25042,
+            "start": 25034,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25230,
+            "start": 25229,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25635,
+            "start": 25634,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25825,
+            "start": 25824,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 25963,
+            "start": 25962,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 26039,
+            "start": 26035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 26043,
+            "start": 26041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ankommt",
+            "end": 26164,
+            "start": 26157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 26168,
+            "start": 26166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 26407,
+            "start": 26403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 26411,
+            "start": 26409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 26476,
+            "start": 26467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 26632,
+            "start": 26628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugt",
+            "end": 26756,
+            "start": 26749,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26889,
+            "start": 26888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 26893,
+            "start": 26891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 26971,
+            "start": 26968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 27272,
+            "start": 27264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgestaltet",
+            "end": 27410,
+            "start": 27398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 27507,
+            "start": 27506,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27759,
+            "start": 27758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 27763,
+            "start": 27761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 27881,
+            "start": 27870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebildet",
+            "end": 27996,
+            "start": 27988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 28109,
+            "start": 28106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korreliert",
+            "end": 28350,
+            "start": 28340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 28354,
+            "start": 28352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handele",
+            "end": 28642,
+            "start": 28635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 28646,
+            "start": 28644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugen",
+            "end": 28875,
+            "start": 28867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 29014,
+            "start": 29007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Signal",
+            "end": 29149,
+            "start": 29143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 29250,
+            "start": 29245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Energie",
+            "end": 29421,
+            "start": 29414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbeifließe",
+            "end": 29593,
+            "start": 29581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sich",
+            "end": 29639,
+            "start": 29635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschrieben",
+            "end": 29727,
+            "start": 29716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 30074,
+            "start": 30069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "patentgemäß",
+            "end": 30242,
+            "start": 30231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schaltungen",
+            "end": 30375,
+            "start": 30364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 30379,
+            "start": 30377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 30439,
+            "start": 30434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsfehlern",
+            "end": 30606,
+            "start": 30593,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 30610,
+            "start": 30608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auslegungsgrundsatz",
+            "end": 30835,
+            "start": 30816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 31169,
+            "start": 31165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 31173,
+            "start": 31171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begrenze",
+            "end": 31646,
+            "start": 31638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 31650,
+            "start": 31648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzt",
+            "end": 31769,
+            "start": 31762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergibt",
+            "end": 31967,
+            "start": 31961,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versetzt",
+            "end": 32047,
+            "start": 32039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterschiedlich",
+            "end": 32091,
+            "start": 32076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erläutert",
+            "end": 32289,
+            "start": 32280,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32434,
+            "start": 32433,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32607,
+            "start": 32606,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 32611,
+            "start": 32609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wortlaut",
+            "end": 32759,
+            "start": 32751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Figuren",
+            "end": 32903,
+            "start": 32896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 33146,
+            "start": 33143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 33403,
+            "start": 33397,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33790,
+            "start": 33789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 33794,
+            "start": 33792,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34163,
+            "start": 34162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 34167,
+            "start": 34165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 34433,
+            "start": 34429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 34505,
+            "start": 34497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 34691,
+            "start": 34687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 34695,
+            "start": 34693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließt",
+            "end": 35044,
+            "start": 35036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werte",
+            "end": 35190,
+            "start": 35185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergegeben",
+            "end": 35401,
+            "start": 35388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 35435,
+            "start": 35425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umgesetzt",
+            "end": 35537,
+            "start": 35528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 35541,
+            "start": 35539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eingangssignals",
+            "end": 35752,
+            "start": 35737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 36097,
+            "start": 36093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 36231,
+            "start": 36225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schaltung",
+            "end": 36462,
+            "start": 36453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfindungsgemäß",
+            "end": 36639,
+            "start": 36624,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 36831,
+            "start": 36827,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 36995,
+            "start": 36994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwandelt",
+            "end": 37211,
+            "start": 37201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 37403,
+            "start": 37399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 37589,
+            "start": 37585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 37651,
+            "start": 37649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 37655,
+            "start": 37653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 37796,
+            "start": 37791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 37800,
+            "start": 37798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenstand",
+            "end": 37916,
+            "start": 37906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 37920,
+            "start": 37918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Richtung",
+            "end": 38010,
+            "start": 38002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fachmanns",
+            "end": 38093,
+            "start": 38084,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 38208,
+            "start": 38207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 38297,
+            "start": 38288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 38644,
+            "start": 38642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 38648,
+            "start": 38646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 38711,
+            "start": 38710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienen",
+            "end": 38810,
+            "start": 38804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 38953,
+            "start": 38949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erläutert",
+            "end": 39013,
+            "start": 39004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesamtoffenbarung",
+            "end": 39117,
+            "start": 39100,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 39383,
+            "start": 39382,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 39542,
+            "start": 39541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 39546,
+            "start": 39544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Blick",
+            "end": 39672,
+            "start": 39667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lage",
+            "end": 39971,
+            "start": 39967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 40181,
+            "start": 40175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 40185,
+            "start": 40183,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offenbart",
+            "end": 40305,
+            "start": 40296,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 40482,
+            "start": 40481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gegenstand",
+            "end": 40605,
+            "start": 40595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 40701,
+            "start": 40692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzusehen",
+            "end": 40905,
+            "start": 40895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Teilen",
+            "end": 41123,
+            "start": 41117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 41154,
+            "start": 41150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 41573,
+            "start": 41569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 41577,
+            "start": 41575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 41670,
+            "start": 41664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchte",
+            "end": 41924,
+            "start": 41918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angesprochen",
+            "end": 42024,
+            "start": 42012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tun",
+            "end": 42124,
+            "start": 42121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 42400,
+            "start": 42395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 42603,
+            "start": 42599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 42607,
+            "start": 42605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 42611,
+            "start": 42609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebrauch",
+            "end": 42713,
+            "start": 42705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 42717,
+            "start": 42715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwirklicht",
+            "end": 42754,
+            "start": 42742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 42835,
+            "start": 42828,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zeitdiskreten",
+            "end": 43020,
+            "start": 43007,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 43024,
+            "start": 43022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwirklicht",
+            "end": 43090,
+            "start": 43078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 43094,
+            "start": 43092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 43303,
+            "start": 43300,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43919,
+            "start": 43918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 44051,
+            "start": 44044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 44055,
+            "start": 44053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geblieben",
+            "end": 44212,
+            "start": 44203,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 44216,
+            "start": 44214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuzeigen",
+            "end": 44379,
+            "start": 44368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 44383,
+            "start": 44381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 44691,
+            "start": 44688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "KE11",
+            "end": 44793,
+            "start": 44789,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 44980,
+            "start": 44979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 44984,
+            "start": 44982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerlegen",
+            "end": 45099,
+            "start": 45089,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45244,
+            "start": 45243,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45408,
+            "start": 45407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "offengelegt",
+            "end": 45628,
+            "start": 45617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerlegen",
+            "end": 45749,
+            "start": 45739,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45977,
+            "start": 45976,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 45981,
+            "start": 45979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 46328,
+            "start": 46325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 46531,
+            "start": 46526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 46535,
+            "start": 46533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebeten",
+            "end": 46673,
+            "start": 46666,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 46918,
+            "start": 46917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "statt",
+            "end": 46952,
+            "start": 46947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "änderte",
+            "end": 47085,
+            "start": 47078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 47125,
+            "start": 47120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heraus",
+            "end": 47182,
+            "start": 47176,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 47300,
+            "start": 47299,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 47393,
+            "start": 47389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 47397,
+            "start": 47395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "arbeitet",
+            "end": 47628,
+            "start": 47620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 47633,
+            "start": 47630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 47637,
+            "start": 47635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 47746,
+            "start": 47743,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 47750,
+            "start": 47748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingereicht",
+            "end": 48000,
+            "start": 47989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "72",
+            "end": 48004,
+            "start": 48002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 48108,
+            "start": 48105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "73",
+            "end": 48112,
+            "start": 48110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederzueröffnen",
+            "end": 48184,
+            "start": 48168,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aufklärung",
+            "end": 48261,
+            "start": 48251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "74",
+            "end": 48265,
+            "start": 48263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 48389,
+            "start": 48387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewürdigt",
+            "end": 48682,
+            "start": 48673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "75",
+            "end": 48686,
+            "start": 48684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begründungssträngen",
+            "end": 48770,
+            "start": 48751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 48993,
+            "start": 48983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Raum",
+            "end": 49042,
+            "start": 49038,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LG München I, Endurteil v. 25.04.2019 – 7 O 2141/17\nTitel:\nFrequenzumsetzung und Selektivität mit verschiedenen Filterdarstellungen als Patent\nNormenketten:\nZPO § 110\nEPÜ Art. 69\nPatG § 9\nLeitsätze:\n1. Die Inanspruchnahme sachverständiger Beratung dient allgemein dazu, das Gericht in die Lage zu\nversetzen, den für die Bejahung oder Verneinung der zu beantwortenden Rechtsfrage\n(Patentfähigkeit, Ausführbarkeit, Verletzung) maßgeblichen (technischen) Sachverhalt festzustellen\nund zu verstehen. Welche Sachverhaltselemente insoweit von Bedeutung sind, hängt davon ab, was\nGegenstand der Patentansprüche ist. Die Ermittlung des Inhalts der Patentansprüche ist ihrerseits\nRechtserkenntnis, denn sie setzt voraus, dass die Patentansprüche unter Heranziehung der\nBeschreibung und der Zeichnungen (§ 14 PatG) ausgelegt werden (BGH BeckRS 2015, 05908 -\nStabilisierung der Wasserqualität). (Rn. 21) (redaktioneller Leitsatz)\n2. Dabei darf das Gericht die Ergebnisse eines Sachverständigengutachtens nicht ohne Weiteres\nübernehmen, sondern muss diese eigenverantwortlich daraufhin untersuchen, ob und inwieweit sie\nAngaben enthalten, die Aufklärung im Hinblick auf entscheidungserhebliche und allein von dem\nerkennenden Gericht zu beantwortende Fragen zu bieten vermögen (BGH BeckRS 2005, 14632 -\nSeitenspiegel). (Rn. 21) (redaktioneller Leitsatz)\nSchlagworte:\nErfindung, pulse, Steuersignal, Eingangssignal, Typenbezeichnung, Dritter, Frequenzumsetzung,\nFachmann, Sachverständiger, Auslegung Patent\nFundstelle:\nBeckRS 2019, 6860\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.\n3. Das Urteil ist für die Beklagten gegen Sicherheitsleistung in Höhe von 110% des jeweils zu\nvollstreckenden Betrags vorläufig vollstreckbar.\nTatbestand\n1\nDie Klägerin ist eingetragene Inhaberin des europäischen Patents 853 (Klagepatents) und nimmt die\nBeklagten wegen Patentverletzung in Anspruch. Patentanspruch 1 und 10 des Klagepatents lauten im\nenglischen Original wie folgt:\nZitat\n2\nDie nachfolgend eingeblendeten Abbildungen (Figuren 24, 45 und 53A) zeigen bevorzugte\nAusführungsbeispiele der Erfindung, was die Klägerin für die Figur 24 indes in Abrede stellt.\n3\nDie Beklagten vertrieben Smartphones der Beklagten zu 2), die mit dem angegriffenen Chip „PMB 5750“\nausgestattet waren.\n4\nDie Klägerin macht geltend, dass die angegriffene Ausführungsform das Klagepatent wortsinngemäß\nverletze. Dies ergebe sich im Wesentlichen aus den von ihr durchgeführten Simulationen aufgrund eines\numfangreichen Tech-Insights-Reports (vgl. insb. Anlagen KE8 und KE11).\n5\nDie Klägerin beantragt und stellt klar, dass sich das Unterlassungsbegehren auf alle kerngleichen\nAusführungsformen erstrecken soll:\nI. Die Beklagten werden verurteilt,\n1. es bei Meidung eines für jeden Fall der Zuwiderhandlung fälligen Ordnungsgeldes bis zu EUR\n250.000,00, ersatzweise Ordnungshaft bis zu sechs Monaten oder Ordnungshaft bis zu sechs Monaten, im\nWiederholungsfalle Ordnungshaft bis zu zwei Jahren - wobei die Ordnungshaft an ihren gesetzlichen\nVertretern zu vollstrecken ist -, zu unterlassen, im Gebiet der Bundesrepublik Deutschland Mobilfunkgeräte -\ninsbesondere das Mobilfunkgerät „P. “ (Modell A1778) - anzubieten, in den Verkehr zu bringen oder zu\ngebrauchen oder zu den genannten Zwecken einzuführen, welche eine Vorrichtung zum Abwärtsmischen\nund Filtern eines Eingangssignals mit einer Trägerfrequenz enthalten, die aufweist:\na) eine Abtasteinrichtung zum Abtasten des Eingangssignals mit einer Abtastfrequenz von weniger als der\nzweifachen Trägerfrequenz, um einen Eingangsabtastwert eines abwärtsgemischten Bildes des\nEingangssignals zu erzeugen, wobei die Abtasteinrichtung einen Schalter und einen Kondensator aufweist,\nwobei der Schalter das Eingangssignal entsprechend einem Steuersignal unterabtastet und wobei das\nSteuersignal Impulse mit nicht vernachlässigbaren Impulsbreiten aufweist, wobei diese Impulse bewirken,\ndass sich der Schalter schließt und das Eingangssignal über diese Impulse unterabgetastet wird, wobei\nwährend dieser Impulse Energie von dem Eingangssignal übertragen und unter Verwendung des\nKondensators gespeichert wird und wobei das abwärtsgemischte Bild aus der übertragenen Energie\nerzeugt wird;\nb) eine Verzögerungseinrichtung zum Erzeugen einer oder mehrerer verzögerter Instanzen eines\nAusgangssignals;\nc) eine Kombinationseinrichtung zum Kombinieren von mindestens dem Eingangsabtastwert mit der einen\noder den mehreren verzögerten Instanzen des Ausgangssignals, um eine Instanz des Ausgangssignals zu\nerzeugen;\n(Anspruch 1) insbesondere wenn die Energiespeicherung unter Verwendung des Kondensators während\nden Impulsen im Wesentlichen eine genaue Spannungsreproduktion des Eingangssignals verhindert\n(Anspruch 10);\n2. der Klägerin Auskunft zu erteilen, in welchem Umfang die Beklagten seit dem 07.02.2017 die unter Ziffer\nI.1 bezeichneten Handlungen begangen haben, und zwar unter Angabe\na) der Namen und Anschriften der Hersteller, Lieferanten und anderer Vorbesitzer,\nb) der Namen und Anschriften der gewerblichen Abnehmer sowie der Verkaufsstellen, für die die\nErzeugnisse gemäß Ziffer I.1 bestimmt waren, und c) der Menge der hergestellten, ausgelieferten,\nerhaltenen oder bestellten Erzeugnisse gemäß Ziffer I.1 sowie der Preise, die für die betreffenden\nErzeugnisse bezahlt wurden,\nwobei\n- zum Nachweis der Angaben die entsprechenden Kaufbelege, nämlich Rechnungen, hilfsweise\nLieferscheine, Auftragsbestätigungen oder Zollscheine in Kopien vorzulegen sind,\n- auf den Kaufbelegen geheimhaltungsbedürftige Details außerhalb der auskunftspflichtigen Daten\ngeschwärzt werden dürfen;\n3. der Klägerin unter Vorlage eines einheitlichen geordneten Verzeichnisses darüber Rechnung zu legen, in\nwelchem Umfang sie die zu Ziffer I.1 bezeichneten Handlungen seit dem 07.02.2017 begangen hat, und\nzwar unter Angabe\na) der Menge der erhaltenen oder bestellten Erzeugnisse, der Namen und Anschriften der Hersteller,\nLieferanten und anderer Vorbesitzer sowie - im Falle von in mehreren Teilbestellungen - durch\nKennzeichnung der jeweils zusammengehörenden Teile der Bestellungen;\nb) der einzelnen Lieferungen, aufgeschlüsselt nach Liefermengen, -zeiten und\n- preisen unter Einschluss von Typenbezeichnungen sowie der Namen und der Anschriften der Abnehmer\nund Verkaufsstellen;\nc) der einzelnen Angebote, aufgeschlüsselt nach Angebotsmengen, -zeiten und\n- preisen unter Einschluss von Typenbezeichnungen sowie der Namen und Anschriften der\nAngebotsempfänger;\nd) der betriebenen Werbung, aufgeschlüsselt nach Werbeträgern, deren Auflagenhöhe,\nVerbreitungszeitraum und Verbreitungsgebieten;\ne) der nach den einzelnen Kostenfaktoren aufgeschlüsselten Gestehungskosten und des erzielten Gewinns,\nwobei es den Beklagten vorbehalten bleibt, die Namen und Anschriften der nichtgewerblichen Abnehmer\nund Angebotsempfänger statt der Klägerin einem von der Klägerin zu bezeichnenden und der Klägerin\ngegenüber zur Verschwiegenheit verpflichteten, vereidigten und in der Bundesrepublik Deutschland\nansässigen Wirtschaftsprüfer mitzuteilen, sofern die Beklagten die durch ihre Einschaltung entstehenden\nKosten trägt und ihn zugleich ermächtigt, der Klägerin auf Anfrage mitzuteilen, ob bestimmte Abnehmer,\nAngebotsempfänger und/oder Lieferungen in der erteilten Rechnung enthalten sind,\nwobei die Richtigkeit und Vollständigkeit der Angaben betreffend vorstehend a) bis c) durch Vorlage von\nBank-, Finanz- oder Handelsunterlagen oder einem geeigneten Zugang dazu, hilfsweise: durch\nÜbermittlung von Belegen (Rechnungen in Kopie) nachzuweisen ist, wobei geheimhaltungsbedürftige\nDetails außerhalb der auskunftspflichtigen Daten geschwärzt werden dürfen;\n4. die unter Ziffer I.1 bezeichneten, im Besitz gewerblicher Dritter befindlichen Erzeugnisse aus den\nVertriebswegen zurückzurufen, indem diejenigen Dritten, denen durch die Beklagten oder mit deren\nZustimmung seit dem 07.02.2017 Besitz an den Erzeugnissen eingeräumt wurde, unter Hinweis darauf,\ndass die Kammer auf eine Verletzung des Klagepatents EP 853 erkannt hat, ernsthaft aufgefordert werden,\ndie Erzeugnisse an die Beklagte zurückzugeben und den Dritten für den Fall der Rückgabe der Erzeugnisse\neine Rückzahlung des gegebenenfalls bereits gezahlten Kaufpreises sowie die Übernahme der Kosten der\nRückgabe zugesagt wird.\nII. Die Beklagten werden verurteilt, die in ihrem unmittelbaren oder mittelbaren Besitz oder in ihrem\nEigentum befindlichen, unter Ziffer I.1 bezeichneten Erzeugnisse an einen von der Klägerin zu\nbeauftragenden Gerichtsvollzieher zum Zwecke der Vernichtung auf Kosten der Beklagten herauszugeben.\nIII. Es wird festgestellt, dass die Beklagten verpflichtet sind, der Klägerin allen Schaden zu ersetzen, der ihr\ndurch die in Ziffer I.1 bezeichneten Handlungen seit dem 07.02.2017 entstanden ist oder noch entstehen\nwird.\n6\nDie Beklagten beantragen,\n1. die Klage abzuweisen;\n2. hilfsweise den Rechtsstreit bis zu einer rechtskräftigen Entscheidung im Nichtigkeitsverfahren über den\nRechtsbestand des deutschen Teils des europäischen Patents 853 B1 (DE 037.7) auszusetzen.\n7\nDie Beklagten treten der Patentverletzung entgegen und machen im Wesentlichen geltend, dass der\nangegriffene Chip systemisch wie folgt aufgebaut sei:\n.\n8\nDie Klägerin hat Prozesskostensicherheit gemäß § 110 ZPO geleistet. In den mündlichen Verhandlungen\nam 14. und am 15. März 2019 hat die Kammer den Sachverständigen Prof. Dr. van Waasen angehört.\n9\nIm Übrigen wird auf die gewechselten Schriftsätze samt Anlagen, auf die Protokolle der mündlichen\nVerhandlungen vom 16. November 2017 sowie vom 14. und 15. März 2019 und auf die erteilten Hinweise\nder Kammer (besonders zur vorläufigen Auslegung des Klagepatents) Bezug genommen.\nEntscheidungsgründe\n10\nDie zulässige Klage ist unbegründet.\nI.\n11\nDas Klagepatent betrifft nach seiner Bezeichnung eine integrierte Frequenzumsetzung und Selektivität mit\nverschiedenen Filterdarstellungen. Gegenstand des Klagepatents ist gemäß Patentanspruch 1 eine\nVorrichtung, die zum Abwärtsmischen („down-converting“) und Filtern eines Eingangssignals mit einer\nTrägerfrequenz geeignet ist. Der nebengeordnete Patentanspruch 11 regelt das entsprechende Verfahren\nhierfür.\n12\n1. Betroffen ist das Gebiet der Funktechnik. Das Klagepatent beschäftigt sich mit der Umwandlung der\nTrägerfrequenz in niederfrequente Informationssignale auf der Empfängerseite. In der Beschreibung des\nKlagepatents wird die Funktionsweise eines herkömmlichen Empfängers erläutert. In Figur 1 wird hierzu\ndessen Blockschaltbild und in Figur 2 ein Flussdiagramm über den Betrieb des herkömmlichen Empfängers\nabgebildet.\n13\nGrundsätzlich führt ein Empfänger drei Aufgaben aus: Frequenzauswahl, Verstärkung und\nFrequenzumsetzung (Beschreibungsstelle [0068] der Klagepatentschrift im englischen Original, auf das im\nFolgenden allein Bezug genommen wird). Demgemäß setzt in einem herkömmlichen Empfänger (wie in\nFigur 1) der Mischer die Frequenz um, der Bandauswahl- und der Kanalauswahlfilter wählen die Frequenz\naus und der LNA (=Low Noise Amplifier) und der Verstärker verstärken das Signal [0068].\n14\n2. Das Klagepatent kritisiert, dass der Verstärker im letzten Schritt sowohl die erwünschte\nSignalkomponente als auch eine unerwünschte Störkomponente verstärke [0012]. Werde die im\nDurchlassbereich des Kanalauswahlfilters liegende Störkomponente einmal erzeugt, folge sie der\nerwünschten Signalkomponente in allen nachgeschalteten Verarbeitungsschritten [0013]. Dies mache den\nEmpfang der erwünschten Komponente schwierig oder gar unmöglich, was die Leistungsfähigkeit des\nEmpfängers vermindere und seine Anwendbarkeit begrenze [0014].\n15\nZudem führt die Beschreibung vier weitere Schriften aus dem Stand der Technik an: Die erste Schrift (DE-4\n237 692 C1) offenbart einen digitalen Funksignalempfänger, der ein Zwischenfrequenzsignal digital\numsetzt, das digitale Signal mit einem digitalen Allpassfilter filtert und das gefilterte Signal mit einem\ndigitalen Mischer mit niedrigerer Rate abtastet [0015]. Die zweite Schrift (US-A-5 557 641) betrifft einen\nEmpfänger und einen Sender, bei denen die Signal-Aufwärtsmischung und Abwärtsmischung teilweise\ndurch eine ladungsgekoppelte Vorrichtung durchgeführt wird [0016]. Das dritte zitierte Dokument (WO\n96/02977) offenbart einen Alias-Effektgesteuerten Frequenz-Abwärtsmischer unter Verwendung einer\nAbtast-Halteschaltung oder einer Verfolgungs-Halteschaltung [0017]. Während schließlich die WO 96/39750\neine Funkfrequenzempfangsschaltung offenbart, die eine Abtast-Halteschaltung verwendet, um einen\nanalogen HF-Kanal unterabzutasten[0018].\n16\n3. Hieraus lässt sich die Problemstellung des Klagepatents ableiten, einen verbesserten Empfänger zur\nVerfügung zu stellen.\n17\nHierfür schlägt Patentanspruch 1 in Verbindung mit dem geltend gemachten Unteranspruch 10 in\nmerkmalsmäßiger Gliederung und unter fast vollständiger Auflösung der Zweckangaben (die verbleibende\nist kursiv gedruckt) vor:\n0. Vorrichtung, die zum Abwärtsmischen („for down-converting“) und Filtern eines Eingangssignals mit einer\nTrägerfrequenz geeignet ist, umfassend:\n1. eine Abtasteinrichtung („sampling means“) (45),\n1.1 die zum Abtasten („sampling“) des Eingangssignals (40; 18) mit einer Abtastfrequenz von weniger als\nder zweifachen Trägerfrequenz geeignet ist,\n1.2 die Abtasteinrichtung (45) weist einen Schalter (55) und einen Kondensator (65) auf,\n1.2.1 der Schalter unterabtastet („under-samples“) das Eingangssignal (40; 18) über die Impulse eines\nSteuersignals (35),\n1.2.1.1 das Steuersignal (35) weist Impulse mit nicht vernachlässigbaren Impulsbreiten auf,\n1.2.1.2 diese Impulse bewirken, dass sich der Schalter (55) schließt,\n1.2.1.3 während dieser Impulse wird Energie von dem Eingangssignal (40; 18) übertragen und\n1.2.2 der Kondensator (65) speichert die Energie („energy is … stored using said capacitor“),\n1.2.2.1 die Verwendung des Kondensators zur Energiespeicherung verhindert im Wesentlichen eine exakte\nSpannungsreproduktion des Eingangssignals (40; 18) (Unteranspruch 10);\n1.3 die Abtasteinrichtung kann einen Eingangsabtastwert eines abwärtsgemischten Bilds (22) des\nEingangssignals (40; 18) erzeugen,\n1.3.1 das abwärtsgemischte Bild (22) wird aus der übertragenen Energie erzeugt („is generated from the\ntransferred energy“);\n2. eine Verzögerungseinrichtung (80),\n2.1 die zum Erzeugen einer oder mehrerer verzögerter Instanzen eines Ausgangssignals (50) geeignet ist;\n3. eine Kombinationseinrichtung (15),\n3.1 die zum Kombinieren von mindestens dem Eingangsabtastwert mit der einen oder den mehreren\nverzögerten Instanzen des Ausgangssignals (50) geeignet ist,\n3.2 um eine Instanz des Ausgangssignals (50) zu erzeugen.\n18\n4. Diese Lehre bedarf in drei Punkten näherer Erläuterung:\n19\na) Eine Abtasteinrichtung („sampling means“) gemäß Merkmal 1 betrifft eine Vorrichtung, nämlich Mittel\n(„means“), die funktional geeignet sind, ein hochfrequentes zeitkontinuierliches Eingangssignal in ein\nzeitdiskretes Ausgangssignal umzuwandeln, das eine niedrigere Frequenz besitzt.\n20\naa) Das Klagepatent definiert Abtasten („sampling“) nicht. Abtasten („sampling“) besitzt für den Fachmann\ndiesen Wortsinn, weil es ein bekannter und allgemein feststehender technischer Begriff ist. Dieses\nVerständnis hat der Sachverständige in seiner Anhörung vom 14. März 2019 (Protokoll S. 3 = Bl. 689 d. A.)\nbestätigt.\n21\nDie Inanspruchnahme sachverständiger Beratung dient allgemein und diente auch vorliegend dazu, das\nGericht in die Lage zu versetzen, den für die Bejahung oder Verneinung der zu beantwortenden\nRechtsfrage (Patentfähigkeit, Ausführbarkeit, Verletzung) maßgeblichen (technischen) Sachverhalt\nfestzustellen und zu verstehen. Welche Sachverhaltselemente insoweit von Bedeutung sind, hängt davon\nab, was Gegenstand der Patentansprüche ist. Die Ermittlung des Inhalts der Patentansprüche ist ihrerseits\nRechtserkenntnis, denn sie setzt voraus, dass die Patentansprüche unter Heranziehung der Beschreibung\nund der Zeichnungen (§ 14 PatG) ausgelegt werden (BGH GRUR 2015, 472 - Stabilisierung der\nWasserqualität). Die Kammer war sich dabei darüber bewusst, dass das Gericht die Ergebnisse eines\nSachverständigengutachtens nicht ohne weiteres übernehmen darf und sachverständige Äußerungen vom\nTatrichter vielmehr eigenverantwortlich daraufhin zu untersuchen sind, ob und inwieweit sie Angaben\nenthalten, die Aufklärung im Hinblick auf entscheidungserhebliche und allein von dem erkennenden Gericht\nzu beantwortende Fragen zu bieten vermögen (BGH GRUR 2006, 131, 133 - Seitenspiegel). Die Kammer\nhatte insoweit keinen Anlass, an den vom Sachverständigen gegebenen Erläuterungen zu zweifeln. Diese\nkonnten daher der eigenverantwortlichen Auslegung und Entscheidung durch die Kammer zugrunde gelegt\nwerden.\n22\nFachmann ist hiernach ein Telekommunikationsingenieur mit Hochschulabschluss, also ein\nUniversitätsabsolvent der Elektrotechnik mit Spezialisierung im Bereich Mikroelektronik oder\nNachrichtentechnik, der über mehrjährige Berufserfahrung im Bereich Mobilfunk bei einem maßgeblichen\nEntwicklungsbetrieb verfügt.\n23\nbb) Dem Klagepatent und seiner Beschreibung liegt das oben dargestellte Verständnis zugrunde.\n24\n(A) So sieht sich der so definierte Fachmann durch Merkmale des Patentanspruchs 1 in diesem Verständnis\nbestätigt. Anspruch 1 bezieht sich in Merkmal 1.1 auf die sog. Nyquist-Rate [0193], die ein zeitdiskretes und\nkein zeitkontinuierliches Signal betrifft. Sein Verständnis wird ferner durch die Merkmalsgruppe 1.2.1\nbekräftigt, in der es um das Unterabtasten („under-sampling“) geht. Um abzutasten und abwärts zu\nwandeln, zeigt die Klagepatentschrift dem Fachmann zumindest als eine ausdrücklich genannte Möglichkeit\neinen sog. Sample-and-Hold-Circuit [0224 und Figur 45]. Allein bei zeitdiskreten Signalen ergibt Merkmal\n3.2 Sinn, wenn Instanzen des Ausgangssignals erzeugt werden sollen. Denn die patentgemäßen\nVerzögerungs- und Kombinationseinrichtungen betreffen abgetastete, zeitdiskrete Signale. Dies ergibt sich\nzum einen daraus, dass Instanzen des (von der Verzögerungseinrichtung erzeugten) Ausgangssignals\nangesprochen sind (Merkmal 2.1, 3.1 und 3.2). Zum anderen wird in Merkmal 3.1 erneut der\nEingangsabtastwert adressiert. Aus der Beschreibung ergibt sich mehrfach ([0078], [0144], [0222), dass\nAbtastwerte („samples“) und Instanzen („instances“) gleichzusetzen sind. Daher muss die\nVerzögerungseinrichtung geeignet sein, eine oder mehrere verzögerte Instanzen eines zeitdiskreten\nAusgangssignals zu erzeugen. Dies steht besonders mit den beschriebenen Ausführungsbeispielen [0222\nff.] und den Figuren 24 und 45 im Einklang. Der Fachmann wird hierfür eine Schaltungsanordnung\nvorsehen, die ein zeitdiskretes Signal verarbeiten kann, wie dies z. B. mit dem Sample-and-Hold-Circuit\ngezeigt wird. Eine mögliche Ausführung einer patentgemäßen Kombinationseinrichtung ist ein Addierer\n(„adder“), der die verzögerten und skalierten Eingangsabtastwerte und die verzögerten und skalierten\nInstanzen des Ausgangssignals kombiniert, um Instanzen des Ausgangssignals zu erzeugen [0094].\nAußerdem sind - wie der Sachverständige ausgeführt hat (Protokoll vom 14. März 2019 S. 4 = Bl. 690 d. A.)\n- aus technischer Sicht in der Schrift Filter gezeigt, die nur gültig sind, wenn ihnen zeitdiskrete Signale (zur\nFilterung) zugeführt werden, weil die beschriebene Filterung nur bei zeitdiskreten Werten sinnvoll ist.\n25\n(B) Gleichfalls sieht der Fachmann sein Verständnis durch die Beschreibung bestätigt. Im zitierten Stand\nder Technik sind Schriften genannt, die durchgängig das Abtasten („sampling“) in diesem Sinn betreffen.\nZudem weist [0083] in diese Richtung.\n26\nVon besonderer Bedeutung ist insoweit die Figur 24:\n27\nAls Schaltung des Moduls 45 wird eine „track and hold“-Schaltung gezeigt. Als solche hat sie der\nSachverständige eingeordnet (Protokoll vom 14. März 2019 S. 9 = Bl. 695 d. A.). Diese Einordnung wird\ndurch Zeile 2602 der Figur 15 bekräftigt, wie der Sachverständige ebenfalls erläutert hat (Protokoll vom 15.\nMärz 2019 S. 4 = Bl. 700 d. A.). Wenn auf der linken Seite der Figur 24 Signale von einer Antenne\neingespeist werden, ermöglicht die gezeigte Ausführung mittels des Schalters 55A das Abtasten\n(„sampling“). Durch wiederholtes Öffnen und Schließen des Schalters 55A wird aus dem eingespeisten\nSignal ein zeitdiskretes Signal erzeugt. Die Werte, die sich im Kondensator 65A einstellen, sind\nAbtastwerte. In der Ausführungsform gemäß Figur 24 können die Abtastwerte von links nach rechts, also\nvon Kondensator 65A zu Kondensator 65B, in dem Moment weitergegeben werden, wenn sich der Schalter\n55B schließt. Insofern wird gemäß Figur 24 mittels des Schalters 55A abgetastet und mittels der\ngegenläufigen, also der niemals gleichzeitig geöffneten, Schalter 55A und 55B des Moduls 45 die\nVerzögerung erzeugt, wie es auch der Sachverständige erläutert hat (Protokoll vom 14. März 2019 S. 9 =\nBl. 695 d. A.).\n28\nDieses Verständnis steht im Einklang mit der Ausführungsform, wie sie in Figur 53A offenbart wird. Diese\nerläutert die Bauteile 55A und 65A näher, wie sie in Figur 24 (links im Kasten 45) gezeigt sind. Allein in dem\nFall, wenn eine Vorrichtung gemäß Figur 53A um eine (nicht gezeigte) niederohmige Last rechts von der\nBox 16 ergänzt werden sollte, wird - wie der Sachverständige auf Frage der Klägerin ausgeführt hat\n(Protokoll vom 14. März 2019 S. 7 = Bl. 693 d. A.) - ein zeitkontinuierliches Signal erzeugt, dessen Form\nsich ändert, wenn sich der Schalter öffnet und schließt. Insofern bestätigt die Ausnahme\n(zeitkontinuierliches Signal) die Regel (zeitdiskretes Signal), weil in diesem Sonderfall die Energie einfach\n„durchrauscht“ und mangels hinreichenden Widerstands nicht im Kondensator gehalten werden kann.\n29\n(C) Unteranspruch 10 ändert an dieser Auslegung von Abtasten („sampling“) nichts.\n30\nUnteranspruch 10 konkretisiert den Gegenstand von Patentanspruch 1 nicht einengend, sondern stellt\nlediglich klar, dass gewisse Qualitätstoleranzen (nach unten) nicht vom Patentschutz ausgenommen sein\nsollen und fängt diese quasi schleppnetzartig ein. Aus Sicht der Kammer erscheint es durchaus sinnvoll\nwenn klargestellt wird, inwiefern für eine verschlechterte Ausführungsform, jedenfalls auch, Schutz\nbeansprucht werden soll.\n31\nNach dem Gegenstand von Unteranspruch 10 kann der Kondensator, wenn er zur Energiespeicherung\nverwendet wird, im Wesentlichen eine exakte Spannungsreproduktion des Eingangssignals verhindern.\nDamit adressiert Unteranspruch 10 das Bilden eines Mittelwerts, bei dem kein exaktes Abbild der\nangelegten Eingangsspannung entsteht. Insofern handelt es sich bei diesem Gegenstand zwar gegenüber\nder in Figur 24 gezeigten Ausführungsform von Patentanspruch 1 um eine verschlechterte\nAusführungsform.\n32\nEntgegen der Auffassung der Klägerin schließt dieser Gegenstand aus folgenden Gründen aber weder\n„sample-andhold“- noch „track-and-hold“-Schaltungen aus.\n33\nErstens wird - wie der Sachverständige festgestellt hat (Protokoll vom 15. März 2019 S. 3 = Bl. 699 d. A) - in\nFigur 24 bereits selbst eine solche verschlechterte Ausführung gezeigt, indem sich auf der linken Seite das\nZeichen „VI“ befindet, was die Spannung symbolisiert, und rechts davon „R7 50“ steht, was einen\nWiderstand von 50 Ohm bezeichnet. Im Zusammenhang mit dem Kondensator 65A wirkt diese Anordnung\nelektrotechnisch als Tiefpassfilter und trägt dazu bei, dass nur eine unscharfe Abbildung der Spannung VI in\nder Vorrichtung gemäß Figur 24 erzeugt werden kann (Protokoll vom 15. März 2019 S. 3 = Bl. 699 d. A).\nDiesen plausiblen Feststellungen schließt sich die Kammer an.\n34\nZweitens folgt aus der Beschreibung in [0147 ff.], besonders in [0151], dass die Vorrichtung gemäß Figur 55\nwie folgt betrieben werden kann: Der erste Schalter wird so angesteuert, dass sich im ersten Kondensator z.\nB. vier Abtastwerte der Eingangsspannung ansammeln und dieser gemittelte Wert erst später durch die\nAnsteuerung des zweiten Schalters weitergereicht wird. Der Fachmann weiß, dass durch Bilden eines\nMittelwerts durch Rauschen verursachte Störungen vermindert werden können. Diese Beschreibung lässt\nsich auf die Ausführungsform gemäß Figur 24 übertragen, auch wenn sie auf Figur 55 zugeschnitten ist. Der\nangesprochene Fachmann unternimmt aus technischer Sicht diesen Versuch, was der Sachverständige\nfestgestellt hat (Protokoll vom 15. März 2019 S. 3 = Bl. 699 d. A.). Dem schließt sich die Kammer an. Hierfür\nsprechen zum einen, dass die Bezugszeichen und die Bezeichnungen der Elemente in beiden Figuren\nübereinstimmen. Zum anderen besteht, wenn man sich bei Figur 24 die lediglich fakultativen „unity gain\nmodules“ 75A und 75B wegdenkt, das Modul 45 aus zwei Sets von Schaltern mit Kondensatoren, während\nin der Figur 55 hiervon ein Set gezeigt ist.\n35\nDrittens ergibt sich aus der Beschreibung [0221], welche Effekte Manipulationen der Zeit bewirken. Es wird\naber nicht beschrieben, was der Fachmann ausführen soll, um den „power transfer“ zu erhöhen. Entgegen\nder Auffassung der Klägerin steht diese Beschreibungsstelle dem bisherigen Auslegungsergebnis nicht\nentgegen. Auch der Sachverständige erkennt aus technischer Sicht hierin keine Abweichung von der in\nFigur 24 gezeigten „track and hold“-Schaltung (Protokoll vom 15. März 2019 S. 4 = Bl. 700 d. A.). Der\nSachverständige hat festgestellt, dass aus technischer Sicht ein Durchschnittsentwickler, der vor die\nAufgabe gestellt wird, eine Vorrichtung zu entwickeln, die den Effekt des Unteranspruchs 10 zeigt, sich in\nerster Linie an der für das Patent zentralen Figur 24 orientieren und erkennen würde, dass dort der\nWiderstand mit 50 Ohm eingezeichnet ist (Protokoll vom 15. März 2019 S. 4 = Bl. 700 d. A.). Er würde\nversuchen, diesen Widerstand zu erhöhen, weil dies dazu führt, dass keine exakte Reproduktion der\nEingangsspannung erhalten wird (Protokoll vom 15. März 2019 S. 4 = Bl. 700 d. A.). Dies wäre dann\n(lediglich) eine schlechte oder schlechtere „track and hold“-Schaltung (Protokoll vom 15. März 2019 S. 5 =\nBl. 701 d. A.). Diesen Feststellungen schließt sich die Kammer an, weil sie plausibel sind.\n36\nb) Merkmalsgruppe 1.3 beschäftigt sich mit dem Empfang des Eingangssignals, das über die Frequenz\nbeim Empfänger ankommt.\n37\nMit übertragener Energie in Merkmal 1.3.1 ist die über den geschlossenen Schalter übertragene Energie\ngemeint, die erfindungsgemäß (im Wesentlichen) im Kondensator gespeichert worden ist und aus der das\nabwärtsgewandelte Bild erzeugt wird.\n38\nDie Begriffe Spannung und Energie sind hier synonym zu verwenden. Das gilt ebenso für Merkmal 1.2.2.\nDenn der Fachmann weiß, dass der Kondensator Energie speichern kann, wenn die Spannung erhöht und\naufgebaut werden kann. Dementsprechend kann Merkmal 1.3.1 sinngleich lauten, das abwärtsgemischte\nBild wird aus der übertragenen Spannung erzeugt. Diese Beurteilung hat der Sachverständige aus seiner\ntechnischen Sicht bestätigt (Protokoll vom 14. März 2019 S. 4 = Bl. 690 d. A.).\n39\nKlagepatentgemäß ist die Energie relevant, die im Kondensator gespeichert ist. Dass Energie (unabhängig\ndavon, welche weiteren Maßnahmen ergriffen werden) auch an dem Kondensator vorbeifließen kann, so\ndass hinter dem Kondensator Energieanteile zusammentreffen, die zuvor im Kondensator gewesen sind\nund die, die nicht zuvor im Kondensator gewesen sind, steht dem nicht entgegen. Zwar kann man den\nAnteil der Energie beeinflussen, der zur Bilderzeugung beiträgt, indem man den Widerstand unendlich klein\nausgestaltet. Dann wirkt der Kondensator aber nicht mehr als solcher, weil die Energie einfach\n„durchrauscht“. Solange ein hinreichender Widerstand vorhanden ist, wird die Energie im Kondensator\ngespeichert und für die Bilderzeugung verwendet, was der Sachverständige aus seiner technischen Sicht\nbestätigt hat (Protokoll vom 14. März 2019 S. 4 = Bl. 690 d. A.).\n40\nBeim patentgemäßen Abtasten wird bei geschlossenem Schalter ein „Sample“ genommen und auf dem\nKondensator gespeichert. Öffnet sich der Schalter, wird aus der auf dem Kondensator gespeicherten\nEnergie das zeitdiskrete Signal gebildet. Der Eingangsabtastwert ist dieses zeitdiskrete Signal, das\nabgenommen und im Kondensator gespeichert worden ist. Mit abwärtsgemischtem Bild des\nEingangssignals ist die Signalform, das Kurvenbild, gemeint, das unter Verwendung der auf dem\nKondensator gespeicherten Energie (Ladung) erzeugt werden soll, die mit dem genommenen\nSignalausschnitt korreliert.\n41\nc) Aus den oben dargelegten und aus den noch folgenden Gründen tritt die Kammer der Klägerin nicht bei,\ndass Merkmal 1.3.1 der Schlüssel zum Verständnis des Gegenstands von Patentanspruch 1 sei und es sich\nbeim Gegenstand von Patentanspruch 1 und 10 um „Energy Transfer Sampling“ handele.\n42\naa) Dieses „Energy Transfer Sampling“ zeige nach der Auffassung der Klägerin einen Weg auf, direkt aus\nder Energie des Eingangssignals, das von der Antenne empfangen werde, das abwärtsgewandelte und\ngefilterte Abbild zu erzeugen. Erfindungsgemäß werde aber kein zeitdiskretes Signal erzeugt, weil die\nAbtasteinrichtung aus einem Schalter und einem Kondensator bestehe. Da zur klagepatentgemäßen\nAbtasteinrichtung dieser Kondensator gehöre, erzeuge die Anordnung zwingend ein zeitkontinuierliches\nSignal. Es sei für den Fachmann klar, dass nach dem Kondensator ein niederohmiger Widerstand anliegen\nmüsse. So werde beim „Energy Transfer Sampling“ von der übertragenen Energie nur ein Anteil im\nKondensator gespeichert, dies betreffe aber nicht die gesamte übertragene Energie. Vielmehr sei die in\nMerkmal 1.3.1 beanspruchte Energie eine Mischung aus der Energie, die aus dem Kondensator gelange\nund aus der Energie, die am Kondensator vorbeifließe. Diese beiden Energieströme überlagerten sich.\nGezeigt sei dies z. B. in Figur 53A und werde in den [0205, 0206 und 0221] beschrieben. Besonders zeige\ndie Erfindung das „Energy Transfer Modul“ in [0206]. Außerdem ergebe sich aus [0079] und [0246], dass\ndie Erfindung nicht auf den diskreten oder digitalen Betrieb beschränkt sei, so dass nach Annahme der\nKlägerin diese auch bei diskreten und kontinuierlichen Signalen oder bei einer Kombination aus beiden\nausgeführt werden könne. Daher sei mit Abtasten („sampling“) herkömmliches Mischen gemeint und die in\nFigur 24 gezeigte Schaltung sei folglich (nach Auffassung der Klägerin) nicht patentgemäß. Der\nGegenstand von Patentanspruch 1 erfasse auch wegen Unteranspruchs 10 keine „sample and hold“- oder\n„track-and-hold“-Schaltungen.\n43\nbb) Diese Auslegung der Klägerin überzeugt die Kammer nicht. Sie ist nach Auffassung der Kammer und\nunter Berücksichtigung der Feststellungen des Sachverständigen, denen sich die Kammer anschließt, nicht\nfrei von Rechtsfehlern.\n44\n(A) Statt Abtasten („sampling“) Mischen bzw. statt der Funktion ein zeitdiskretes Signal zu erzeugen, das\nGenerieren eines zeitkontinuierlichen Signals zu verstehen, verstößt gegen einen patentrechtlichen\nAuslegungsgrundsatz. Nach der Rechtsprechung des Bundesgerichtshofs (vgl. Urteil vom 27. November\n2018 - X ZR 16/17 - Scheinwerferbelüftungssystem) ist bei der Auslegung eines Patentanspruchs zu\nberücksichtigen, dass sich ein Patent mit seiner Lehre von dem in ihm beschriebenen Stand der Technik\nabzugrenzen sucht, so dass dieser nicht beansprucht wird.\n45\nDie Klagepatentschrift beschreibt in Absätzen [0008 ff.] und zeigt in Figuren 4D bis 4G, wie bei\nherkömmlichen Empfängern eine gewisse, einmal erzeugte Störsignalkomponente nicht mehr\nherausgefiltert werden könne, die der erwünschten Signalkomponente in allen nachgeschalteten\nVerarbeitungsschritten folge, was den Empfang der erwünschten Komponente schwierig oder gar\nunmöglich mache und die Leistungsfähigkeit des Empfängers vermindere sowie seine Anwendbarkeit\nbegrenze.\n46\nDieser Stand der Technik betrifft das Mischen und dieses wird klagepatentgemäß durch das Abtasten\n(„sampling“) ersetzt. Beide Lösungen sind technisch ähnlich, weil das Abtasten eines Signalverlaufs mit\nweniger als der doppelten Bandbreite („Unterabtasten“) ein ähnliches Signal wie beim Einsatz eines\nMischers ergibt. Das Eingangssignal wird in beiden Fällen in eine Art Zwischenfrequenz versetzt. Der Weg\ndorthin ist jedoch unterschiedlich. Zwar greift die Beschreibung des Klagepatents das eingangs geschilderte\ntechnische Problem nicht mehr auf und der Kammer wird darin der Zusammenhang von Problemstellung\nund Aufgabe nicht erläutert. Aber der Sachverständige hat in seiner Anhörung eine Erklärung für den\nZusammenhang vermutet (Protokoll vom 14. März 2019 S. 5 = Bl. 691 d. A.). Wenn das Mischen des\nStands der Technik durch das Abtasten („sampling“) ersetzt werde, können die nachgeschalteten Filter\nkleiner dimensioniert werden (Protokoll a. a. O.).\n47\n(B) Die Auslegung der Klägerin steht nicht mit dem Wortsinn von Patentanspruch 1 im Einklang, sondern\nfindet ihre Stütze alleine in dessen Wortlaut. Diese Auslegung allein anhand des Wortlauts widerspricht aber\nArt. 69 EPÜ, wichtigen Beschreibungsstellen und im Klagepatent gezeigten Figuren. Folgte man dieser\nwortlautgemäßen Auslegung würden mindestens zwei für die Beschreibung zentrale Ausführungsformen\nvom Gegenstand des Klagepatents nicht erfasst, was nach der Rechtsprechung des Bundegerichtshofs\nwenn möglich zu vermeiden ist. Denn werden in der Beschreibung eines Patents mehrere\nAusführungsbeispiele als erfindungsgemäß vorgestellt, sind die im Patentanspruch verwendeten Begriffe im\nZweifel so zu verstehen, dass sämtliche Beispiele zu ihrer Ausfüllung herangezogen werden können. Nur\nwenn und soweit sich die Lehre des Patentanspruchs mit der Beschreibung und den Zeichnungen nicht in\nEinklang bringen lässt und ein unauflösbarer Widerspruch verbleibt, dürfen diejenigen Bestandteile der\nBeschreibung, die im Patentanspruch keinen Niederschlag gefunden haben, nicht zur Bestimmung des\nGegenstands des Patents herangezogen werden (BGH GRUR 2015, 972 - Kreuzgestänge).\n48\nOhne Erfolg macht daher die Klägerin geltend, dass Figur 24 bloß vermeintliche Ausführungsbeispiele der\nErfindung zeige, was der Fachmann entgegen der „rätselhaften“, „fernliegenden“, „gänzlich verfehlten“,\n„unhaltbaren“ und „unvertretbaren vorläufigen“ Auffassung der Kammer unschwer erkenne (Schriftsatz der\nKlägerin vom 22. Februar 2019 S. 9/10 = Bl. 667/668 d. A.).\n49\nFigur 24 zeigt vielmehr - wie der Sachverständige bestätigt hat (Protokoll vom 15. März 2019 S. 6 = Bl. 702\nd. A.) - eine „track-and-hold“-Schaltung, die ein zeitdiskretes Signal erzeugt und gemäß der nach dem\neingangs dargelegten Verständnis abgetastet werden kann. Dem steht das mit Bezugszeichen 75A\nbezeichnete Element nicht entgegen. So erläutert [0172], dass die in Figur 24 mit Bezugszeichen 75A bis\n75G gezeigten „unity gain modules“ optional sind, so dass zwei Fälle (mit und ohne diese Module) zu\nuntersuchen sind.\n50\nSind einerseits die „unity gain modules“ vorhanden, führen sie - wie der Sachverständige ausgeführt hat\n(Protokoll vom 14. März 2019 S. 8 = Bl. 694 d. A.) - dazu, dass sich im Kondensator 65B dieselbe\nungeminderte Ladung und (damit auch) die gleiche Spannung wie im Kondensator 65A in dem Zeitpunkt\neinstellen, in dem sich der Schalter 55B schließt. Die dort gezeigte Schaltung ermöglicht das Abtasten\n(„sampling“) und die Werte, die sich dort einstellen, sind Abtastwerte bzw. „sampling“-Werte. Durch das\nWiederholen des Öffnens und Schließens dieses Schalters wird ein zeitdiskretes Signal erzeugt und die\nAbtastwerte werden in Figur 24 von links nach rechts von Kondensator zu Kondensator weitergegeben.\nInsofern wird Energie übertragen. Bei dieser Ausgestaltung mit „unity gain modules“ wird Energie aus der\nBatterie in Signale umgesetzt.\n51\nWird andererseits das Modul 75A weggelassen und der Kondensator nicht von einem „unity gain module“\nunterstützt, erzeugt das in Figur 24 gezeigte „Downconvert and Delay Module 45“ ein Abbild des\nEingangssignals. Dann handelt es sich - wie der Sachverständige bestätigt hat (Protokoll vom 14. März\n2019 S. 8/9 = Bl. 694/695 d. A.) - bei der vorhandenen Spannung um ein Abbild der Spannung des\nEingangssignals, wobei die Energie hierfür (im Gegensatz zur Option mit den Elementen 75A ff.) nur aus\ndem Eingangssignal (und nicht aus der Batterie) bezogen wird. In Figur 24 ist das jedenfalls bei den\nKondensatoren 65A und 65B der Fall, soweit links Signale von einer Antenne eingespeist werden. Die dort\ngezeigten, jeweils rechts befindlichen Schalter verhindern, dass die Energie aus dem links befindlichen\nKondensator „nach rechts durchrauscht“. Die Schaltung des Moduls 45 der Figur 24 ist eine „track-andhold“-\nSchaltung. Im Einklang mit den Ausführungen des Sachverständigen (Protokoll vom 14. März 2019 S.\n8 = Bl. 694 d. A.) funktioniert die in Figur 24 gezeigte Vorrichtung dann erfindungsgemäß. Die im\nKondensator 65A vorhandene Ladung wird in dem Zeitpunkt, in dem sich der Schalter 55B schließt, zur\nHälfte auf den Kondensator 65B übertragen, weil beide Kondensatoren gleichgroß sind. Dies folgt aus der\nübereinstimmenden Angabe „1p“ für beide Kondensatoren, was der Sachverständige bestätigt hat (Protokoll\nvom 14. März 2019 S. 8 = Bl. 694 d. A.). Bei dieser Ausgestaltung (ohne „unity gain modules“) halbiert sich\nzwar die Spannung bei jedem Wechsel von Kondensator zu Kondensator, aber die Energie aus dem Signal\nwird in die abwärtsgemischten Bilder verwandelt. Die Spannungsreduktion ist - wie der Sachverständige\nausgeführt hat (Protokoll vom 14. März 2019 S. 8 = Bl. 694 d. A.) - unkritisch, weil die Information dieselbe\nbleibt, die übertragen wird. Nach Angaben des Sachverständigen (Protokoll vom 14. März 2019 S. 8 = Bl.\n694 d. A.) kann dieser Vorgang solange durchgeführt werden, bis ein Mindestmaß an Spannung\nunterschritten wird. Diesen plausiblen Feststellungen schließt sich die Kammer an.\n52\ncc) Unabhängig von diesen Überlegungen überzeugt die klägerische Auslegung die Kammer aufgrund von\ndrei weiteren Aspekten in der Sache nicht.\n53\n(A) Sofern die Klägerin für ihre Auffassung auf [0205, 0206 und 0221] abstellt, ergibt sich kein anderer\nGegenstand:\n54\nDer in [0206] aufgeführte Begriff „energy transfer module“ weist in keine andere Richtung. Für den\nSachverständigen gehört dieser Begriff nicht zum Wortschatz des Fachmanns; er scheint in dieser Schrift\nerstmals verwendet worden zu sein (Protokoll vom 14. März 2019 S. 4 = Bl. 690 d. A.). Da er kein\nFachbegriff ist, besitzt dieser Begriff keine allgemein definierte Bedeutung. Nach den Feststellungen des\nSachverständigen (Protokoll vom 14. März 2019 S. 5 = Bl. 691 d. A.) wird in einer klagepatentgemäßen\nVorrichtung Energie übertragen, welche Anteile indes „direkt“ und welche durch den Kondensator fließen,\nhängt - wie oben erläutert - von der konkreten Ausgestaltung und Dimensionierung der Elemente der\nVorrichtung ab.\n55\nOhne Erfolg beruft sich die Klägerin auf [0079] und auf [0246]. Der Sinngehalt dieser Stellen erschöpft sich\ndarin, dass sie der allgemeinen Freizeichnung dienen. Ihnen ist zu entnehmen, dass die Erfindung nicht auf\nnur zeitkontinuierliche oder auf nur zeitdiskrete Verarbeitungen eingeschränkt sein soll. Was dies technisch\nbedeutet, ist dort aber nicht erläutert. Nach der oben dargestellten Auslegung der Kammer ergibt sich dies\nauch nicht aus der Gesamtoffenbarung. Dieses Verständnis hat der Sachverständige aus technischer Sicht\nbestätigt und ausgeführt, dass eine analoge Delayline meist frequenzabhängig ist und sich dann eine\nzeitdiskrete Implementierung schwierig gestaltet (Protokoll vom 14. März 2019 S. 6 = Bl. 692 d. A.). Aus\ntechnischer Sicht hat der Sachverständige diese Stelle als übliche „Freizeichnungsklausel“ eingeordnet\n(Protokoll vom 14. März 2019 S. 6 = Bl. 692 d. A.).\n56\nUnabhängig davon hat der Gegenstand von Patentanspruch 1 stets den dynamischen Betriebszustand des\nFrequenzumsetzers im Blick. Denn nur wenn - wie der Sachverständige ausgeführt hat (Protokoll vom 14.\nMärz 2019 S. 5 = Bl. 691 d. A.) - der Frequenzumsetzer kontinuierlich mit einem Eingangssignal versorgt\nwird und dieses kontinuierlich weiter verarbeitet wird, ist die Vorrichtung zum Abwärtsmischen und -filtern in\nder Lage. Bis dahin bedarf es - aus technischer Sicht (Protokoll vom 14. März 2019 S. 5 = Bl. 691 d. A.) -\neines Einschwingens, so dass künstliche aufgeteilte Zeitabschnitte bei der Betrachtung außen vor bleiben\nmüssen.\n57\n(B) Das klägerische Verständnis wird dem Durchschnittsfachmann durch die Ansprüche und die\nBeschreibung nicht offenbart. Denn in der Sache betreffen die Überlegungen der Klägerin zum „energy\ntransfer“ aus technischer Sicht einen passiven Mischer (Protokoll vom 15. März 2019 S. 5 = Bl. 701 d. A.).\nPassive Mischer sind systemisch grundlegend anders als der in der Klagepatentschrift beschriebene und\ngezeigte Gegenstand. Besonders widerspricht er den Angaben in der Patentschrift, die zeitdiskrete Signale\nbetreffen. Nach den Ausführungen des Sachverständigen kommt ein Fachmann allein mit den\nInformationen aus der Patentschrift nicht auf den Gedanken, als Ausführungsform von Patentanspruch 1\neinen Mischer vorzusehen. Für einen solchen Schritt seien vielmehr eindeutige Hinweise erforderlich, z. B.\ndass in einer Figur (als mögliche Ausführungsform) ein solcher Mischer gezeigt wird, verbunden mit den\nweiteren nachgeschalteten Teilen. Das ist jedoch nicht der Fall. Die einzelnen Hinweise in den Absätzen\n[0205, 0206 und 0221] reichen - aus sachverständiger technischer Sicht - dem Durchschnittsfachmann\nnicht, den Gegenstand grundlegend anders als in den gezeigten Figuren und den zentralen\nBeschreibungsstellen zu verstehen, auch wenn die Annahme der Klägerin zutreffen mag, dass Merkmal\n1.3.1 davon spricht, dass das abwärtsgemischte Bild aus der übertragenen Energie erzeugt wird.\n58\n(C) Insofern sich die Klägerin schließlich auf die WO 00/24117 bezieht, ist dies ohne Erfolg. Von\nausschlaggebender Bedeutung ist, dass die Stellen, an denen die Klagepatentschrift dieses Dokument\nzitiert [0144, 0147, 0264 und 0291], nicht unmittelbar in dem inhaltlichen Zusammenhang stehen, wofür die\nKlägerin dieses Dokument heranziehen möchte. Zwar wird in [0144] eine verbesserte Energieübertragung\nwährend der Frequenzumsetzung angesprochen. Mit dem von der Klägerin geltend gemachten Energiefluss\nam Kondensator hat dies aber nichts zu tun. Auch wird in [0147] auf das in Figur 55 gezeigte\nAbwärtsmischungs- und Verzögerungsmodul Bezug genommen und erwähnt, dass die Erfindung auf\nandere Ausführungsformen dieses Moduls ausgerichtet ist, die in der Klagepatentschrift und ferner in der\nWO 00/24117 beschrieben seien. Dies bedeutet aber nicht, dass hiervon die in dieser Schrift in den Figuren\n82A/B gezeigte und auf Seite 102 Zeile 8 bis Seite 103 Zeile 30 beschriebene Ausführung ebenfalls konkret\nerfasst werden soll.\nII.\n59\nDie angegriffenen Ausführungsformen machen von der technischen Lehre des Klagepatents keinen\nGebrauch.\n60\n1. Merkmal 1 wird nicht verwirklicht. Mangels Abtastens („sampling“) ist keine patentgemäße\nAbtasteinrichtung gegeben. Die angegriffene Ausführungsform verarbeitet an der angegriffenen Stelle - dies\nist zwischen den Parteien unstreitig - zeitkontinuierliche Signale und erzeugt dort keine zeitdiskreten.\n61\n2. Unabhängig von Merkmal 1 wird Merkmal 1.3.1 nicht verwirklicht.\n62\na) Für die Behauptung, dass die angegriffene Ausführungsform die patentierte Lehre benutzt, ist in der\nRegel der Verletzungskläger darlegungs- und beweispflichtig, weil dies eine für ihn günstige Tatsache ist.\nVermag der Kläger plausible Anhaltspunkte aufzuzeigen, aus denen sich ergibt, dass dies der Fall ist, trifft\nden Beklagten in aller Regel eine sekundäre Darlegungslast im Hinblick auf die Funktion der angegriffenen\nAusführungsform, weil nach Treu und Glauben solche Tatsachen mitgeteilt werden müssen, die der mit der\nDarlegung und Beweisführung belasteten Partei nicht oder nur unter unverhältnismäßigen Erschwerungen\nzugänglich sind, während ihre Offenlegung für den Gegner sowohl ohne weiteres möglich als auch\nzumutbar erscheint (vgl. Grabinski/Zülch in: Benkard, Patentgesetz, 11. Auflage 2015, § 139 Rn. 116). Es\nist dann Aufgabe des Klägers, diese Ausführungen des Beklagten zu widerlegen, wenn sie aus seiner Sicht\nnicht zutreffen sollten.\n63\nb) Unabhängig davon, ob die Klägerin insoweit überhaupt hinreichend plausibel den Verletzungsvorwurf\ndargetan hat, ist sie jedenfalls beweisfällig geblieben.\n64\naa) Der Vortrag der Klägerin zur Verwirklichung von Merkmal 1.3.1 ist nach Überzeugung der Kammer\nbereits nicht geeignet, die Patentbenutzung insoweit aufzuzeigen.\n65\nZwar hat die Klägerin hinsichtlich der Funktion des vorhandenen Kondensators vorgetragen (insb.\nSchriftsatz vom 18. Mai 2018 samt Anlage KE11 S. 10 bis 13 und Protokoll vom 15. März 2019 S. 6 = Bl.\n702 d. A.), indem sich aus Anlage KE11 S. 10 ergebe, dass der Schalter 55 geschlossen und auf S. 12\noffen sei. Das Ergebnis des abwechselnden Öffnens und Schließens des Schalters zeige dann S. 13 der\nAnlage KE11. Dies sei das abwärtsgewandelte Bild, das Komponenten von Energie, die an dem\nKondensator vorbeigeflossen seien (S. 10), und von Energie umfasse, die aus dem Kondensator stammten\n(S. 12).\n66\nDieser klägerische Vortrag ist nicht geeignet, den hinreichend substantiierten Vortrag der Beklagten zu\nwiderlegen. Die Beklagte hat insofern dargelegt, wie die angegriffene Ausführungsform funktioniert\n(Protokoll vom 15. März 2019 S. 6/7 = Bl. 702/703 d. A.). Besonders hat sie vorgetragen, dass die von der\nKlägerin identifizierten Kondensatoren dem Mischen dienen (Protokoll vom 15. März 2019 S. 6/7 = Bl.\n702/703 d. A.). Hierauf hat die Klägerin nicht den gesamten Report vorgelegt, auf dem ihre Simulation\nberuht, oder zumindest die einzelnen Parameter und Settings der durchgeführten und eingeführten\nSimulationen vollständig offengelegt. Sie betrachtet vielmehr weiterhin einen (kleinen) Ausschnitt, ohne den\nVortrag der Beklagten in der Sache zu widerlegen. Insofern beruft sie sich bloß darauf, dass der Vortrag der\nBeklagten „so nicht richtig sein könne“ und nur funktioniere, wenn der ADC-Wandler überhaupt keinen\nWiderstand hätte (Protokoll vom 15. März 2019 S. 7 = Bl. 703 d. A.).\n67\nbb) Jedenfalls hat die Klägerin ihren Vortrag nicht bewiesen, wie in der angegriffenen Ausführungsform das\nabwärtsgemischte Bild aus der übertragenen Energie erzeugt wird, weil die Energie, die durch die von ihr\nidentifizierten Kondensatoren der angegriffenen Ausführungsform abfließt, nicht die übertragene Energie im\nSinn des Merkmals 1.3.1 ist. Unabhängig davon können diese Kondensatoren nach der Beweisaufnahme\nsogar entfallen, ohne dass sich an der hier betrachteten Funktion der angegriffenen Ausführungsform etwas\n(Maßgebliches) ändern würde.\n68\nDie Klägerin hat zum Beweis ihrer (oben dargelegten) Behauptung um Einvernahme des Sachverständigen\nin der mündlichen Verhandlung gebeten. Dieser hat aus technischer Sicht die Angaben der Beklagten\nbestätigt, dass dem von der Klägerin identifizierten Kondensator die Funktion zukommt, unerwünschte\nSignalkomponenten herauszufiltern (Protokoll vom 15. März 2019 S. 7 = Bl. 703 d. A.). Es findet ein\nMischprozess statt. Außerdem hat er festgestellt, dass man diese Kondensatoren weglassen könne, ohne\ndass sich an der Funktion maßgeblich etwas änderte. Sie beeinflussten das Nutzsignal nicht. Sie filterten\nlediglich unerwünschte Komponenten heraus. Zudem befänden sich hinter den Kondensatoren noch\nBreitbandfilter (Protokoll vom 15. März 2019 S. 7 = Bl. 703 d. A.). Diesen Ausführungen und Feststellungen\nschließt sich die Kammer an, weil sie plausibel sind.\n69\n3. Unabhängig von den Merkmalen 1 und 1.3.1 werden auch die Merkmale 2 und 3 nicht verwirklicht, weil\ndie angegriffene Ausführungsform an der relevanten Stelle mit zeitkontinuierlichen Signalen und nicht mit\nzeitdiskreten arbeitet.\nIII.\n70\nDie Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die vorläufige Vollstreckbarkeit ergibt sich aus § 709\nZPO.\nIV.\n71\nDie Klägerin hat am 9. April 2019 (u.a. betreffend Vorgänge im Erteilungsverfahren des Klagepatents), und\ndie Beklagte hat am 16.4.2019, also jeweils nach dem Schluss der mündlichen Verhandlung, einen nicht\nnachgelassenen Schriftsatz eingereicht.\n72\n1. Sofern darin Angriffsmittel vorgebracht werden, dürfen diese nicht berücksichtigt werden, § 296a ZPO.\n73\n2. Das Gericht braucht die mündliche Verhandlung nicht wiederzueröffnen. Der Inhalt dieses Schriftsatzes\nbietet keinen Anlass für weitere Aufklärung.\n74\nDie Ausführungen der Klägerin betreffen im Wesentlichen die Auslegung des Klagepatents gemäß Merkmal\n1 und Unteranspruch 10. Ihr zentrales Argument, der Sachverständige habe bestätigt, eine\nklagepatentgemäße Abtasteinrichtung mit einem Schalter und einem Kondensator erzeuge bei Verwendung\neiner niederohmigen Last ein zeitkontinuierliches Signal, hat die Kammer im Rahmen der Auslegung bereits\nhinreichend gewürdigt.\n75\nIm Übrigen beruht das vorliegende Urteil auf zwei selbständigen Begründungssträngen. Selbst wenn die\nrechtlichen Ausführungen der Klägerin aus dem Schriftsatz vom 9. April 2019 als zutreffend zugrunde gelegt\nwerden würden, würde der zweite Begründungsstrang greifen und die Klage wäre immer noch abzuweisen.\nFür eine Wiedereröffnung bleibt daher kein Raum.\n\n"
+}

@@ -1,0 +1,1445 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Staat",
+            "end": 5,
+            "start": 0,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatswissenschaften",
+            "end": 127,
+            "start": 107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 444,
+            "start": 432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Macht",
+            "end": 347,
+            "start": 342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsbegriffs",
+            "end": 480,
+            "start": 466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 553,
+            "start": 549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lebt",
+            "end": 822,
+            "start": 818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lehre",
+            "end": 961,
+            "start": 956,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1147,
+            "start": 1144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jellinek",
+            "end": 1388,
+            "start": 1380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 1213,
+            "start": 1200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzt",
+            "end": 1705,
+            "start": 1698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "interpretiert",
+            "end": 2097,
+            "start": 2084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschützen",
+            "end": 2221,
+            "start": 2211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 2423,
+            "start": 2419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsens",
+            "end": 2714,
+            "start": 2707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gemeinwesens",
+            "end": 2886,
+            "start": 2874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Politik",
+            "end": 3140,
+            "start": 3133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herangezogen",
+            "end": 3351,
+            "start": 3339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 3642,
+            "start": 3630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staates",
+            "end": 3477,
+            "start": 3470,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hegel",
+            "end": 3857,
+            "start": 3852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 3985,
+            "start": 3979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 4013,
+            "start": 4001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "miteinander",
+            "end": 4100,
+            "start": 4089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegenübertritt",
+            "end": 4357,
+            "start": 4343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sorgen",
+            "end": 4611,
+            "start": 4605,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Begriffsgeschichte",
+            "end": 4635,
+            "start": 4617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entlehnt",
+            "end": 4728,
+            "start": 4720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staat",
+            "end": 5003,
+            "start": 4998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Republik",
+            "end": 4895,
+            "start": 4887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hofstaats",
+            "end": 5151,
+            "start": 5142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5417,
+            "start": 5411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelehrt",
+            "end": 5839,
+            "start": 5832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenleben",
+            "end": 5779,
+            "start": 5766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 5923,
+            "start": 5914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systems",
+            "end": 6101,
+            "start": 6094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6280,
+            "start": 6274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlangt",
+            "end": 6428,
+            "start": 6421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschichtsschreibung",
+            "end": 6662,
+            "start": 6642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neuzeit",
+            "end": 6551,
+            "start": 6544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmen",
+            "end": 6802,
+            "start": 6793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herrschaftsbereich",
+            "end": 7403,
+            "start": 7385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lässt",
+            "end": 7007,
+            "start": 7002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bejaht",
+            "end": 7034,
+            "start": 7028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entstehung",
+            "end": 7418,
+            "start": 7408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 7432,
+            "start": 7420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsentstehung",
+            "end": 7450,
+            "start": 7434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchzusetzen",
+            "end": 7795,
+            "start": 7782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Autorität",
+            "end": 7584,
+            "start": 7575,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Theorien",
+            "end": 7936,
+            "start": 7928,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stammesgesellschaften",
+            "end": 8174,
+            "start": 8153,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 8098,
+            "start": 8088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sklaverei",
+            "end": 8354,
+            "start": 8345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Organisation",
+            "end": 8536,
+            "start": 8524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahrhundert",
+            "end": 8749,
+            "start": 8738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 7715,
+            "start": 7713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Christus",
+            "end": 8923,
+            "start": 8915,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erde",
+            "end": 8852,
+            "start": 8848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herausgebildet",
+            "end": 9069,
+            "start": 9055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "png",
+            "end": 9098,
+            "start": 9095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arten",
+            "end": 9212,
+            "start": 9207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Neustaaten",
+            "end": 9481,
+            "start": 9471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammenschließen",
+            "end": 9632,
+            "start": 9615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsverband",
+            "end": 9370,
+            "start": 9357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inkorporanten",
+            "end": 9829,
+            "start": 9816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 10043,
+            "start": 10039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsformen",
+            "end": 10058,
+            "start": 10046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 10072,
+            "start": 10060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "System",
+            "end": 10092,
+            "start": 10086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regierungssystemen",
+            "end": 10212,
+            "start": 10194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 10270,
+            "start": 10267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 10345,
+            "start": 10336,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herrschaftsausübung",
+            "end": 10488,
+            "start": 10469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herrschaftsformen",
+            "end": 10786,
+            "start": 10769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Demokratie",
+            "end": 10611,
+            "start": 10601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustand",
+            "end": 11127,
+            "start": 11120,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10951,
+            "start": 10945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterscheiden",
+            "end": 11008,
+            "start": 10995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Republik",
+            "end": 11032,
+            "start": 11024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustand",
+            "end": 11247,
+            "start": 11240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nötig",
+            "end": 11485,
+            "start": 11480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsmodell",
+            "end": 11645,
+            "start": 11633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 11381,
+            "start": 11377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Soziologie",
+            "end": 11659,
+            "start": 11649,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 11673,
+            "start": 11661,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatssoziologie",
+            "end": 11691,
+            "start": 11675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 11808,
+            "start": 11806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beansprucht",
+            "end": 12115,
+            "start": 12104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbreitet",
+            "end": 12374,
+            "start": 12364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einrichtung",
+            "end": 12529,
+            "start": 12518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anführungszeichen",
+            "end": 12461,
+            "start": 12444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kennzeichnend",
+            "end": 12249,
+            "start": 12236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Systems",
+            "end": 12670,
+            "start": 12663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gesellschaft",
+            "end": 12777,
+            "start": 12765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ökonomie",
+            "end": 12788,
+            "start": 12780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "generis",
+            "end": 12979,
+            "start": 12972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 13037,
+            "start": 13027,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einrichtungen",
+            "end": 13209,
+            "start": 13196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicherstellen",
+            "end": 13561,
+            "start": 13548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 13345,
+            "start": 13335,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wirtschaftskreislaufs",
+            "end": 13659,
+            "start": 13638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 13435,
+            "start": 13433,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 13722,
+            "start": 13719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkauft",
+            "end": 13795,
+            "start": 13787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "und",
+            "end": 13848,
+            "start": 13845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sozialleistungen",
+            "end": 13926,
+            "start": 13910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 14026,
+            "start": 14022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14297,
+            "start": 14291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dazu",
+            "end": 14351,
+            "start": 14347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wirtschaftswachstum",
+            "end": 14144,
+            "start": 14125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmenssektor",
+            "end": 14418,
+            "start": 14400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugerechnet",
+            "end": 14667,
+            "start": 14656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugerechnet",
+            "end": 14552,
+            "start": 14541,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Völkerrecht",
+            "end": 14681,
+            "start": 14670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staaten",
+            "end": 14703,
+            "start": 14696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staates",
+            "end": 14763,
+            "start": 14756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsvolk",
+            "end": 14798,
+            "start": 14788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 14879,
+            "start": 14877,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsgewalt",
+            "end": 14951,
+            "start": 14939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 15055,
+            "start": 15052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "USA",
+            "end": 15455,
+            "start": 15452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 15288,
+            "start": 15282,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 15600,
+            "start": 15591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entwickelt",
+            "end": 15560,
+            "start": 15550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treten",
+            "end": 15840,
+            "start": 15834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 16151,
+            "start": 16144,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 15929,
+            "start": 15923,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 15713,
+            "start": 15710,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzubeziehen",
+            "end": 16428,
+            "start": 16415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatsmerkmal",
+            "end": 16268,
+            "start": 16255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staaten",
+            "end": 16454,
+            "start": 16447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staaten",
+            "end": 16527,
+            "start": 16520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konstitutiv",
+            "end": 16771,
+            "start": 16760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 17020,
+            "start": 17016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regierungen",
+            "end": 17232,
+            "start": 17221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatlichkeit",
+            "end": 17136,
+            "start": 17123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 17349,
+            "start": 17346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 17547,
+            "start": 17545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Militärputsches",
+            "end": 17939,
+            "start": 17924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "spielen",
+            "end": 18066,
+            "start": 18059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergeben",
+            "end": 18304,
+            "start": 18297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfasstheit",
+            "end": 18362,
+            "start": 18350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezeigt",
+            "end": 18133,
+            "start": 18126,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 18464,
+            "start": 18458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweisend",
+            "end": 18526,
+            "start": 18516,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 18698,
+            "start": 18688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anerkennung",
+            "end": 18742,
+            "start": 18731,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3166",
+            "end": 18900,
+            "start": 18896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vatikanstaat",
+            "end": 18987,
+            "start": 18975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beobachterstatus",
+            "end": 19127,
+            "start": 19111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gebiete",
+            "end": 19344,
+            "start": 19337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 19490,
+            "start": 19488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 19545,
+            "start": 19536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kosovo",
+            "end": 19705,
+            "start": 19699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1983",
+            "end": 19849,
+            "start": 19845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Palästina",
+            "end": 19954,
+            "start": 19945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sahara",
+            "end": 20106,
+            "start": 20100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 20184,
+            "start": 20175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staatennachfolge",
+            "end": 20203,
+            "start": 20187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 20217,
+            "start": 20205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachfolgestaat",
+            "end": 20233,
+            "start": 20219,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staat",
+            "end": 20334,
+            "start": 20329,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Staat",
+            "end": 20799,
+            "start": 20794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 20649,
+            "start": 20640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 20903,
+            "start": 20898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konkludent",
+            "end": 21180,
+            "start": 21170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichten",
+            "end": 20992,
+            "start": 20983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jugoslawiens",
+            "end": 21298,
+            "start": 21286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 21379,
+            "start": 21371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getreten",
+            "end": 21911,
+            "start": 21903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1945",
+            "end": 21942,
+            "start": 21938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 22264,
+            "start": 22258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1945",
+            "end": 22115,
+            "start": 22111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1991",
+            "end": 22304,
+            "start": 22300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fortsetzerstaat",
+            "end": 22454,
+            "start": 22439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergegangen",
+            "end": 23052,
+            "start": 23040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgegeben",
+            "end": 23196,
+            "start": 23187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzulösen",
+            "end": 23760,
+            "start": 23750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Welt",
+            "end": 24034,
+            "start": 24030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 23590,
+            "start": 23586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 23915,
+            "start": 23908,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 24337,
+            "start": 24332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahrnehmen",
+            "end": 24688,
+            "start": 24678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fort",
+            "end": 24514,
+            "start": 24510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "RSFSR",
+            "end": 24829,
+            "start": 24824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GUS",
+            "end": 25057,
+            "start": 25054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Republiken",
+            "end": 24968,
+            "start": 24958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drittstaaten",
+            "end": 25510,
+            "start": 25498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 25280,
+            "start": 25276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Funktion",
+            "end": 25544,
+            "start": 25536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sehen",
+            "end": 25676,
+            "start": 25671,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auch",
+            "end": 25689,
+            "start": 25685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Elitesoziologie",
+            "end": 25743,
+            "start": 25728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anarchismus",
+            "end": 25756,
+            "start": 25745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hauptartikel",
+            "end": 25770,
+            "start": 25758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anarchismus",
+            "end": 25783,
+            "start": 25772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "structures",
+            "end": 25919,
+            "start": 25909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fordert",
+            "end": 26116,
+            "start": 26109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausübt",
+            "end": 26314,
+            "start": 26308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 26460,
+            "start": 26456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 26645,
+            "start": 26641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 26754,
+            "start": 26750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darf",
+            "end": 26977,
+            "start": 26973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existieren",
+            "end": 27247,
+            "start": 27237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zeigt",
+            "end": 27560,
+            "start": 27555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ungleichheiten",
+            "end": 27912,
+            "start": 27898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 27863,
+            "start": 27858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederherzustellen",
+            "end": 28278,
+            "start": 28260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 28034,
+            "start": 28030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28592,
+            "start": 28586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 28797,
+            "start": 28793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 29509,
+            "start": 29503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rojava",
+            "end": 29061,
+            "start": 29055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Minoritäten",
+            "end": 29330,
+            "start": 29319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herzustellen",
+            "end": 29788,
+            "start": 29776,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Heiden",
+            "end": 30601,
+            "start": 30595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 30433,
+            "start": 30428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 30254,
+            "start": 30250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 30470,
+            "start": 30468,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Welt",
+            "end": 30784,
+            "start": 30780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 30867,
+            "start": 30861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzwingt",
+            "end": 31059,
+            "start": 31051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Marxismus",
+            "end": 31071,
+            "start": 31062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 31242,
+            "start": 31237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Materialismus",
+            "end": 31278,
+            "start": 31265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzt",
+            "end": 31565,
+            "start": 31558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anachronismus",
+            "end": 31830,
+            "start": 31817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Herr",
+            "end": 32093,
+            "start": 32089,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 32300,
+            "start": 32294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Institution",
+            "end": 32488,
+            "start": 32477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 31703,
+            "start": 31696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 32894,
+            "start": 32886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Klasse",
+            "end": 32745,
+            "start": 32739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erzeugt",
+            "end": 32550,
+            "start": 32543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dominiert",
+            "end": 33232,
+            "start": 33223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beziehungen",
+            "end": 33423,
+            "start": 33412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dominiert",
+            "end": 33105,
+            "start": 33096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 33771,
+            "start": 33767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeschafft",
+            "end": 31600,
+            "start": 31589,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Staat\r\nStaat (ugs. bzw. nichtfachspr. auch Land)[1] ist ein mehrdeutiger Begriff verschiedener Sozial- und Staatswissenschaften. Im weitesten Sinn bezeichnet er eine politische Ordnung, in der einer bestimmten Gruppe, Organisation oder Institution eine privilegierte Stellung zukommt – nach Ansicht einiger bei der Ausübung von (politischer) Macht; nach Ansicht anderer hinsichtlich sowohl der Entfaltung des Einzelnen als auch der Gesellschaft.\r\nMehrdeutigkeit des Staatsbegriffs\r\nEntscheidende Bestandteile der heute gesetzmäßigen Begriffsdeutung sind:\r\n    eine irgendwie geartete politische Vereinigung einer größeren Menschengruppe, die\r\n    in einem mehr oder weniger geschlossenen Gebiet\r\n    unter einer mehr oder weniger einheitlichen Form der – etablierten, durchgesetzten oder beschlossenen – Machtausübung lebt.\r\nDiese drei Hauptkriterien haben sich im modernen Völkerrecht seit Georg Jellinek (1851–1911) herauskristallisiert (→ Drei-Elemente-Lehre).\r\nDiese sehr allgemeine Definition ist dem Umstand geschuldet, dass der Begriff Staat in wissenschaftlicher, aber auch ideologischer Hinsicht mit unterschiedlichen Inhalten besetzt ist. Es lassen sich im Wesentlichen vier Staatsbegriffe unterscheiden:\r\n    Der juristisch-völkerrechtliche Staatsbegriff bezeichnet als Staat „die mit ursprünglicher Herrschaftsmacht ausgerüstete Körperschaft eines sesshaften Volkes“ (Jellinek). Häufig wird diese klassische „Drei-Elemente-Lehre“, nach der ein Staat ein gemeinsames, durch in der Regel ausgeübte Gebietshoheit abgegrenztes Staatsgebiet,[2] ein dazugehöriges Staatsvolk und die Machtausübung über dieses umfasst,[3] um die Notwendigkeit einer rechtlichen Verfasstheit jener Gemeinschaft ergänzt.\r\n    Nach der soziologischen Definition Max Webers ist der Staat die Gemeinschaft, die „innerhalb eines bestimmten Gebietes […] das Monopol legitimer physischer Gewaltsamkeit für sich (mit Erfolg) beansprucht“, also ein auf Legitimität gestütztes „Herrschaftsverhältnis von Menschen über Menschen“.[4] Diese Bestimmung des Staats als Herrschaftsinstrument wird unterschiedlich interpretiert:\r\n        aus liberaler Sicht als notwendiges, wenn auch begrenztes Instrument, um die Freiheit des Einzelnen zu beschützen;\r\n        aus marxistischer Sicht (auch) als Instrument, das (im bürgerlichen Staat) als Überbau den Interessen der herrschenden Klasse dient (und nach der Revolution den Weg zum Sozialismus ebnen soll);\r\n        aus anarchistischer Sicht zentralisierte Gewaltausübung als Instrument der privilegierten, herrschenden Klasse in deren Händen zur Ausbeutung der Massen (Steuern, Lohnarbeitszwang) und Unterdrückung jedes Einzelnen (Fremdbestimmung anstelle von freier Selbstbestimmung im Konsens).\r\n    Nach einer gängigen politikwissenschaftlichen Definition ist der Staat das System der öffentlichen Institutionen zur Regelung der Angelegenheiten eines Gemeinwesens. Zum Staat gehört insbesondere eine politische Instanz, die zur Schaffung und Wahrung von Recht und öffentlicher Ordnung in der Gesellschaft zuständig ist und diese mittels einer Verwaltung, dem Staatsapparat, auch durchsetzen kann (→ Primat der Politik). Zur traditionellen Bestimmung des Staates werden auch in der Politikwissenschaft die Elemente Staatsgebiet, Staatsvolk, Staatsbürgerschaft und Staatsgewalt (bzw. politische Macht oder Herrschaft) herangezogen. Allerdings gibt es auch von traditionellen und etablierten politologischen Definitionen abweichende Bestimmungen des Staates.\r\n    Nach der sittlichen Auffassung vom Staat (Aristoteles, Rousseau, Hegel) ist dieser die Verwirklichung der moralischen Ziele des Einzelnen und der Gesellschaft: Es sei „der Gang Gottes in der Welt, daß der Staat ist, sein Grund ist die Gewalt der sich als Wille verwirklichenden Vernunft“ und für die Einzelnen die „höchste Pflicht […], Mitglieder des Staats zu sein“ (Hegel).[5]\r\nWegen der deutlich voneinander abweichenden Begriffe hat sich eine allgemein gültige Definition nicht herausbilden können.[6]\r\nStaat und Gesellschaft\r\nWo Menschen zusammenleben, geraten deren Interessen oft in einen Konflikt miteinander. In größeren Gemeinschaften entsteht dann „in dem Gefüge widerstreitender Interessenten- und Mächtegruppen […] das Bedürfnis nach einer regulierenden Instanz, die den partikulären gesellschaftlichen Kräften mit überlegener Entscheidungsmacht gegenübertritt“. Solch eine „staatliche“ Instanz hat nicht nur durch eine formale Kanalisierung und Ordnung der Interessenbefriedigung ein friedliches Zusammenleben zu gewährleisten, sondern auch für einen gerechten Ausgleich der widerstreitenden Bedürfnisse zu sorgen.[7]\r\nBegriffsgeschichte\r\nDas deutsche Wort „Staat“ ist dem lateinischen status („Stand, Zustand, Stellung“) entlehnt. Das daher stammende italienische lo stato kam in der Renaissance auf und bezeichnete dort die mehr oder weniger stabile Verfassungsform einer Monarchie oder Republik. Für Niccolò Machiavelli (1469–1527) waren alle menschlichen Gewalten, die Macht über Menschen haben, Staat. Der status regalis meinte Stellung, Macht und Einfluss des zur Herrschaft gelangten Königs oder Fürsten, später auch seines Anhangs, des Hofstaats. Die französische Übersetzung état konnte dann auch auf den ökonomischen Haushalt der Zentralmacht, später auch auf die rechtliche und politische Einheit aller Staatsbürger (von der Ständeordnung hin zur bürgerlichen Gesellschaft) eines Staatsgebiets bezogen werden.\r\nSeit in Europa der neuzeitliche Staat aus den Bürgerkriegen der frühen Neuzeit hervorging, gilt es als sein unbestrittenes Merkmal, dass das Zusammenleben in einer staatlichen Gemeinschaft einer zentralen Regelungsmacht unterliegen und in durchorganisierter Weise auch gewährleistet sein muss, damit die Menschen in Frieden und Sicherheit in ihm zusammenleben. So haben es vor allem Jean Bodin und Thomas Hobbes gelehrt.[8]\r\nErst an der Wende zum 19. Jahrhundert erhält der Staat seine moderne Bedeutung. Die persönliche Herrschaft des Monarchen, seine absolute Souveränität, wurde durch die Schriften Lockes und Montesquieus zu einem funktionalen „Baustein des politischen Systems“.[9] Erst mit dieser Ablösung der Herrschaft von der Person des Monarchen konnte der Staat als abstrakte Institution, als „Handlungssubjekt mit eigenem Willen“[10] gedacht werden.\r\nSeine heutige Bedeutung hat der Staat als äußerlicher, immer mächtigerer Organisations­zusammenhang der Gemeinschaft dann in neuerer Zeit erlangt; aus staatsrechtlicher Sicht gibt es diese spezifische Form von Herrschaftsorganisation erst seit der europäischen Neuzeit.[11] Viele Historiker des 19. Jahrhunderts sahen im (National-)Staat einen Fixpunkt ihrer Geschichtsschreibung; Jacob Burckhardt (1818–1897) sah im Staat eine der wesentlichen Kräfte neben Religion und Kultur, die die menschliche Geschichte bestimmen.\r\nDie Wortgeschichte ist also Ausdruck des historischen Wandels politischer Gebietskörperschaften, sodass umstritten ist, ob sich der neuzeitliche Staatsbegriff auf ältere Herrschaftsformen anwenden lässt. Dies wird zum Teil bejaht;[12] andere wollen den Begriff des Staates nur für politische Gemeinschaften der Neuzeit verwenden[13] und ältere Gebilde nach ihren ursprünglichen Bezeichnungen benennen, wie beispielsweise polis („Stadtstaat“), civitas („Bürgerschaft“), res publica („öffentliche Angelegenheit“), regimen („Königsherrschaft“), regnum („Königreich“) oder imperium („Herrschaftsbereich“).\r\nEntstehung\r\nHauptartikel: Staatsentstehung\r\nFür Zehntausende von Jahren lebten die Menschen in Gesellschaften ohne formale politische Institutionen oder konstituierte Autorität. Erst vor etwa 6000 Jahren, mit den Anfängen der Zivilisation, nahmen die ersten Gesellschaften mit formalen Strukturen Gestalt an. Hierarchie, Führungs- und Gehorsams-Ideen begannen sich regional durchzusetzen. Über diese vorgeschichtliche Entstehung der ersten einheitlich verfassten politischen Gemeinwesen gibt es verschiedene historische Theorien. Zunächst waren diese hierarchischen Gesellschaften relativ selten und auf den Nahen Osten des heutigen Asiens und später auch auf den Mittleren Osten beschränkt; die meisten Menschen lebten weiterhin in segmentären Stammesgesellschaften. Langsam vergrößerten hierarchische Gesellschaften Größe und Einfluss, manchmal eroberten sie umliegende segmentäre Gesellschaften und unterwarfen sie, meist in Form der Sklaverei. Teilweise unabhängig davon, teilweise als Reaktion des Drucks von außen entwickelten andere Stammesgesellschaften ebenfalls Hierarchien in der sozialen und politischen Organisation. Bis zur europäischen Expansion und Kolonisation blieb jedoch ein Großteil der Menschen in den verschiedenen Teilen der Welt im Wesentlichen nichtstaatlich organisiert, in einigen Regionen bis ins 19. Jahrhundert. Erst seit dem 20. Jahrhundert umfasst das staatliche Modell politischer Organisation die gesamte Erde.\r\nDie ersten Staaten bildeten sich im vierten Jahrtausend vor Christus. Staatliche Gemeinschaften als rechtlich durchorganisierte Macht- und Wirkungsgefüge haben sich im Laufe der Geschichte allmählich herausgebildet.\r\nEntstehung von Staaten.png\r\nWeil es heute kaum ein staatenloses Gebiet für eine Neugründung mehr gibt, entstehen neue Staaten auf drei Arten:\r\n    Durch Sezession (Abspaltung gegen den Willen des bisherigen Staates) oder (einvernehmliche) Entlassung eines Staatsteils aus dem früheren Staatsverband,\r\n    durch Dismembration, also Zerfall eines bisherigen Staates und sein Untergang, es bilden sich Neustaaten.\r\n    Umgekehrt können sich durch Fusion (z. B. bei einer Neugliederung des Bundesgebietes) zwei oder mehrere Staaten zu einem neuen zusammenschließen; häufiger kommt es allerdings zum Beitritt zu einem bestehenden Staatsverband und schließlich zur Eingliederung des betroffenen Territoriums in die Staats- und Verfassungsordnung des Inkorporanten:[14][15] Auch die deutsche Wiedervereinigung führte zu keiner Staatsneugründung, sondern das Beitrittsgebiet wurde in die weiterbestehende Bundesrepublik inkorporiert, die als vereintes Deutschland bezeichnet wird.\r\nStaatsformen\r\nHauptartikel: Politisches System\r\nIn der modernen Politikwissenschaft wird unterschieden zwischen Staatsformen, Herrschaftsformen und Regierungssystemen; eine Unterscheidung, die in der Antike noch unüblich war. In der Antike wurden Staatsformen und Herrschaftsformen synonym verwendet. Die bekannteste Einteilung stammt von Aristoteles und ordnet die sechs Herrschaftsformen in gute und schlechte Formen der Herrschaftsausübung: Die guten Formen sind Monarchie, Aristokratie und Politie, die entarteten Formen sind Tyrannis, Oligarchie und Demokratie. Cicero ließ nur die drei positiven Herrschaftsformen (Monarchie, Aristokratie, Demokratie) als res publica gelten (Cicero zählt die Demokratie zu den guten Herrschaftsformen).\r\nSeit dem 20. Jahrhundert werden in der Politikwissenschaft Herrschaftsformen und Staatsformen getrennt betrachtet und dürfen nicht miteinander verwechselt werden. Es sind zwei grundlegende Staatsformen zu unterscheiden: Monarchie und Republik. Die Staatsform gibt den verfassungsgemäßen Aufbau eines Staates an – also den De-jure-Zustand. Wie genau der Staat tatsächlich regiert wird, ist jedoch von der jeweiligen Herrschaftsform abhängig (De-facto-Zustand). So werden viele Monarchien demokratisch regiert, wohingegen in einer Republik die Herrschaft nicht zwingend vom Volke ausgehen muss. Um die politische Ordnung eines Staates charakterisieren zu können, sind folglich beide Begriffe nötig.\r\nDie in der Europäischen Union und Nordamerika vorherrschende Herrschaftsform ist durch Parlamentarismus und repräsentative Demokratie geprägt (→ Staatsmodell).\r\nSoziologie\r\nHauptartikel: Staatssoziologie\r\nFerdinand Tönnies ordnet in Gemeinschaft und Gesellschaft den Staat in der politischen Sphäre der „Gesellschaft“ zu.[16] Max Weber folgt dem, indem er in seiner Herrschaftssoziologie „Staat“ als eine menschliche Gemeinschaft definiert, deren Verwaltungsstab innerhalb eines bestimmten Territoriums erfolgreich das Monopol legitimen physischen Zwanges (also das Gewaltmonopol) für die Durchführung der Ordnungen beansprucht.[17] Für den modernen Staat sind nach Weber Territorialität, Gewaltmonopol, Fachbeamtentum und bürokratische Herrschaft kennzeichnend. Dem Anspruch nach hat sich diese Form politischer Herrschaft spätestens seit der Epoche des Kolonialismus global verbreitet.[18]\r\nAls System verwendet Niklas Luhmann den Begriff „Staat“ nur in Anführungszeichen.[19] Luhmann definiert den Begriff als eine semantische Einrichtung: Der Staat sei kein politisches System, sondern die Organisation eines politischen Systems zur Selbstbeschreibung dieses politischen Systems.[20]\r\nZur Abgrenzung (bzw. Kongruenz) der Begriffe „Staat“ und „Gesellschaft“ siehe Staat und Gesellschaft.\r\nÖkonomie\r\nAls Staat bezeichnet man in der Volkswirtschaftslehre jedes hoheitlich tätige Wirtschaftssubjekt, beispielsweise eine Regierung, eine Verwaltung sowie teilweise eine Institution sui generis. Der Staat wird als Summe aller Zwangsverbände betrachtet. Staatliches Handeln im volkswirtschaftlichen Sinn umfasst demnach die Tätigkeit aller politischer Ebenen (d. h. kommunaler, regionaler und bundesstaatlicher Einrichtungen).\r\nDer Staat wird als wirtschaftlich agierendes Subjekt unter dem Aspekt seiner Rolle und Bedeutung für eine Volkswirtschaft betrachtet. Die Volkswirtschaftslehre sieht den Staat als zentralen Träger der Wirtschaftspolitik an. Über Ordnungspolitik, Strukturpolitik und Prozesspolitik soll er die Funktionsfähigkeit des Wirtschaftssystems sicherstellen.\r\nIn der volkswirtschaftlichen Gesamtrechnung ist der Staat ein Element des Wirtschaftskreislaufs. Er greift mittels monetärer Transaktionen in Marktabläufe ein:\r\n    indem er Waren und Dienstleistungen produziert, kauft und verkauft,\r\n    indem er Steuern, Abgaben und Zölle erhebt und\r\n    indem er Transferzahlungen leistet (z. B. Subventionen, Sozialleistungen).\r\nDie Fiskalpolitik legt fest, wie viel Geld für welche Positionen eingenommen und ausgegeben wird; ihre Entscheidungen beeinflussen unter anderem den Haushaltsplan, die Staatsverschuldung und das Wirtschaftswachstum. Die Betrachtung des Staates als Wirtschaftssubjekt bezieht sich nur auf Einrichtungen, die von einer Regierung direkt oder indirekt kontrolliert werden. Demnach gehören unabhängige Zentralbanken nicht dazu. Unklar ist die Abgrenzung zwischen Staats- und Unternehmenssektor; allgemein werden beispielsweise Staatsunternehmen, die einer Gewinnerzielungsabsicht unterliegen, dem Unternehmenssektor zugerechnet. Liegt keine Gewinnerzielungsabsicht vor, so wird eine betriebliche Tätigkeit zumeist dem Staatssektor zugerechnet.\r\nVölkerrecht\r\nMerkmale von Staaten\r\nDas klassische Völkerrecht kennt drei Merkmale des Staates:\r\n    eine Bevölkerung (Staatsvolk),\r\n    einen geographisch abgrenzbaren Teil der Erdoberfläche (Staatsgebiet),[21]\r\n    eine stabile Regierung, die effektive Gewalt ausübt (Staatsgewalt).\r\nEin Staat gilt als untergegangen, wenn eines dieser Elemente, die ihn konstituieren, weggefallen ist.\r\nDiese Merkmale treffen in Bundesstaaten auch auf deren Teilstaaten zu, die allerdings nur Staatsrechtssubjekte, d. h. Staaten gemäß innerstaatlicher Rechtsordnung sind und deshalb nicht als Staaten im Sinne des Völkerrechts gelten. Beispiele für diese Gattung von Staaten sind die Länder der Bundesrepublik Deutschland oder der Republik Österreich, die Kantone der Schweiz oder die Staaten der USA.\r\nDie so genannte Drei-Elemente-Lehre wurde von dem Staats- und Völkerrechtler Georg Jellinek entwickelt. Sie gilt heute als allgemein anerkannt. Bei Erfüllung der drei Merkmale liegt ein Staat im Sinne des Völkerrechts und damit ein Völkerrechtssubjekt vor.\r\nDie Konvention von Montevideo benennt als zusätzliches Kriterium die Fähigkeit, mit anderen Staaten in Beziehungen zu treten. Diese Auffassung hat sich aber in der Völkerrechtswissenschaft nicht durchsetzen können. Der Anwendungsbereich dieses Kriteriums beschränkt sich tatsächlich auf einen Teilaspekt der Staatsgewalt, nämlich die Fähigkeit, nach außen selbstständig und rechtlich unabhängig nach Maßgabe des Völkerrechts zu handeln. Diese äußere Souveränität ist eine Eigenschaft der Staatsgewalt, nicht aber ein zusätzliches, viertes Staatsmerkmal. Diese Beschränkung auf nur drei Elemente soll ermöglichen, eine möglichst große Bandbreite an Herrschaftsformen realer Staaten in die Definition einzubeziehen.\r\nAnerkennung von Staaten\r\nVon der Staatsqualität zu unterscheiden ist die Anerkennung von Staaten. Eine solche Anerkennung hat nach der überwiegend vertretenen Auffassung in der Lehre und der Staatenpraxis eine rein deklaratorische Wirkung, das heißt, sie ist für die Eigenschaft des anerkannten Staates, ein Staat zu sein, nicht konstitutiv. Allerdings kommt der Anerkennung rein faktisch eine starke Indizwirkung zu, durch die auf die völkerrechtliche Existenz als Staat geschlossen werden kann, wobei auf die Völkerrechtssubjektivität und nicht allein „auf Staatlichkeit“ abgestellt wird. Nach der konstitutiven Lehre ist die Anerkennung durch Drittstaaten ein konstituierendes Element der Staatlichkeit.\r\nVon der Anerkennung von Staaten wiederum zu unterscheiden ist die Anerkennung von Regierungen. Diese bedeutet die Feststellung, dass ein bestimmtes Regime rechtmäßiger Inhaber der Staatsgewalt eines Staates ist. Da die Anerkennung einer Regierung begrifflich bereits die Anerkennung des jeweiligen Staates voraussetzt, kommt ihr nur bei einer Verweigerung der formellen Anerkennung eigenständige Bedeutung zu. Dies betrifft insbesondere Fälle der Machtübernahme einer nicht (demokratisch) legitimierten Regierung – was auch ursächlich für ein sogenanntes stabilisiertes De-facto-Regime sein kann, also „Herrschaftsverbände, die sich für längere Zeit auf einem bestimmten Gebiet behaupten und dieses unter Ausschluß anderer Mächte effektiv beherrschen“[22] – zum Beispiel infolge eines Militärputsches.\r\nFeststellen lässt sich, dass bei der Anerkennung von Staaten immer häufiger politische Kriterien eine wichtige Rolle spielen. Dies hat insbesondere die Anerkennung der Republik Kosovo gezeigt. Beobachten lässt sich zudem, dass Staaten zunehmend nur dann international anerkannt werden, wenn sie elementare Standards beachten, die sich aus dem Völkerrecht ergeben. Dazu gehört zum Beispiel eine demokratische Verfasstheit. Vergleichbare Beobachtungen lassen sich außerdem hinsichtlich der Anerkennung von Regierungen machen.[23]\r\nBernd Loudwin schrieb 1983, auf zwei Quellen verweisend: „Ebenso wie die Tobar-Doktrin, die sich nicht durchgesetzt hat, blieb die Estrada-Doktrin [Anm.: von 1930] im wesentlichen auf eine historisch-politische Rolle beschränkt.“[24]\r\nKasuistik der weltweiten Anerkennung\r\nInsgesamt gibt es 194 vollständig (von der UNO bzw. den UN-Mitgliedern) anerkannte souveräne Staaten, siehe Liste der Staaten der Erde und die Norm ISO 3166. Darunter fallen die 193 Mitgliedstaaten der Vereinten Nationen sowie der Vatikanstaat. Dem Heiligen Stuhl (nicht dem Staat der Vatikanstadt)[25] und dem Staat Palästina gewährt die UN-Generalversammlung einen Beobachterstatus.\r\nWeitere Staaten werden nicht von den Vereinten Nationen anerkannt, jedoch von einem Teil der weltweit anerkannten Staaten (→ Liste der von den Vereinten Nationen nicht als selbstständige Staaten anerkannten Gebiete):\r\n    Abchasien (von Nauru, Nicaragua, Russland, Tuvalu und Venezuela anerkannt; Vanuatu zog seine 2011 verkündete Anerkennung wieder zurück)[26]\r\n    Republik China (Taiwan, von 23 Staaten anerkannt)\r\n    Kosovo (von 114 Staaten, unter anderem von Deutschland, Liechtenstein, Österreich und der Schweiz, anerkannt; siehe internationale Anerkennung des Kosovo)\r\n    Türkische Republik Nordzypern (lediglich von der Türkei[27] anerkannt; siehe Resolution 541 des UN-Sicherheitsrates vom 18. November 1983)\r\n    Staat Palästina (von 137 Staaten anerkannt; siehe internationale Anerkennung des Staates Palästina)\r\n    Demokratische Arabische Republik Sahara (von 46 Staaten anerkannt; siehe internationale Anerkennung der Demokratischen Arabischen Republik Sahara)\r\n    Südossetien (von Nauru, Nicaragua[28], Russland und Venezuela anerkannt)\r\nStaatennachfolge\r\nHauptartikel: Nachfolgestaat\r\nStaatennachfolge ist die Übernahme der Rechte und Pflichten eines Staates durch einen anderen Staat. Die Frage nach der Staatennachfolge, wann und in welchem Umfang neue Staaten in die rechtlichen Positionen ihrer Vorgängerstaaten eintreten, stellt sich allerdings nur dann, wenn ein Staat die völkerrechtliche Identität seines Vorgängerstaates nicht fortsetzt, sondern ein neues Subjekt des Völkerrechts darstellt. Bei einer Identität mit dem jeweiligen Vorgängerstaat handelt es sich also tatsächlich gar nicht um einen Vorgängerstaat, sondern um denselben Staat. Änderungen in der Regierung oder der Verfassung eines Staates unterbrechen die Staatskontinuität nicht. Erst bei einem Staatsuntergang erlöschen mit dem Staat auch dessen Rechte und Pflichten.\r\nIn welchem Umfang ein Nachfolgestaat die völkerrechtlichen Rechte und Pflichten des Vorgängers übernimmt, wird gewöhnlich ausdrücklich vertraglich vereinbart oder ergibt sich konkludent.\r\nBesondere Aufmerksamkeit erfuhr dieser Rechtskomplex bei der Auflösung der Sowjetunion und dem Zerfall Jugoslawiens. Die Staatennachfolge wird ganz überwiegend nach Völkergewohnheitsrecht geregelt. Zwar sind mit der Wiener Konvention über die Staatennachfolge in Verträge vom 23. August 1978[29] sowie der Wiener Konvention über die Staatennachfolge in Vermögen, Archive und Schulden von Staaten vom 8. April 1983[30] jeweils entsprechende völkerrechtliche Verträge geschlossen worden, doch ist erstgenannter Vertrag aufgrund der niedrigen Zahl seiner Vertragsstaaten von nur geringer praktischer Bedeutung und ist letztgenannter Vertrag in Ermangelung einer ausreichenden Zahl von Ratifikationen bislang nicht in Kraft getreten.\r\nBeispiel Deutschland ab 1945\r\nNach heute ganz herrschender Auffassung ist die Bundesrepublik Deutschland subjektidentisch mit dem 1945 besiegten Deutschen Reich (siehe Rechtslage Deutschlands nach 1945).[31] Als Folge besteht die Bindung an die bis 1945 eingegangenen völkerrechtlichen Verpflichtungen Deutschlands fort und muss nicht erneuert werden.\r\nBeispiel Russische Föderation ab 1991\r\nDie Russische Föderation (Rossijskaja Federazija) ist als Völkerrechtssubjekt nicht Rechtsnachfolgerin der Sowjetunion, sondern ihr „Fortsetzerstaat“; am 8. Dezember 1991 unterzeichneten bei Brest die sich mittlerweile zu von der Sowjetunion unabhängigen Staaten erklärten Republiken der Ukraine und Weißrusslands sowie Russland ein „Abkommen über die Gründung der Gemeinschaft Unabhängiger Staaten“ (GUS; russ.: Sodruschestwo Nesawissimych Gossudarstw). Zwar heißt es in der Präambel des GUS-Gründungsabkommens, dass „die UdSSR als Völkerrechtssubjekt und als geopolitische Realität ihre Existenz beendet“ habe,[32] aber dennoch ist auf die Russische Föderation nach der Auflösung der Union deren „Verbindungsfaden mit der Außenwelt übergegangen“.[33] Die Russische SFSR hatte zuvor – anders als die übrigen ehemaligen Sowjetrepubliken – ihrerseits keine Unabhängigkeitserklärung abgegeben.[34]\r\nAuf der GUS-Konferenz in der damaligen kasachischen Hauptstadt Alma-Ata hieß es in einer Deklaration von elf Nachfolgestaaten (acht weitere Staaten wurden mittlerweile über das Protokoll als „Gründungsmitglieder“ in die Gemeinschaft aufgenommen), dass „mit der Schaffung der Gemeinschaft unabhängiger Staaten […] die Union der Sozialistischen Sowjetrepubliken ihre Existenz beendet“ habe. Am 22. Dezember 1991 verständigte man sich mit dem sowjetischen Staatspräsidenten Michail Gorbatschow, den nunmehr zum Torso gewordenen Sowjetstaat endgültig aufzulösen. Nun hatten bereits sämtliche Unionsrepubliken außer die RSFSR im Rahmen des Augustputsches von 1991 explizit ihre Unabhängigkeit vom Zentralstaat erklärt. Die neugegründete Russische Föderation übernahm die völkerrechtlichen Rechte und Pflichten gegenüber der übrigen Welt. So hieß es in der „Zirkularnote“ des russischen Außenministeriums am 13. Januar 1992, die allen diplomatischen Vertretungen in Moskau zugestellt wurde, dass die Russische Föderation ihrerseits alle Rechte und Pflichten, die durch die Sowjetregierung geschlossenen Verträge entstanden, übernehmen werde. („[…] Die Russische Föderation setzt die Ausübung der Rechte und Erfüllung der Pflichten aus den von der Union der Sozialistischen Sowjetrepubliken geschlossenen Verträge fort. Demzufolge wird die Regierung der Russischen Föderation anstelle der Regierung der UdSSR die Funktion des Verwahrers für die entsprechenden mehrseitigen Verträge wahrnehmen. […]“[35])\r\nRussland ist somit das auf föderativer Basis neuorganisierte Völkerrechtssubjekt und als Staat identisch mit der damaligen RSFSR. Diese neue Basis war folgerichtig nach dem Ende der Sowjetunion Gegenstand von Verhandlungen zwischen Moskau und den einzelnen Republiken.[36] Der Schritt erfolgte einseitig und ohne Rücksprache mit den anderen Staaten der GUS. So wurde dann auf dem GUS-Treffen am 20. März 1992 in Kiew per Beschluss klargestellt, „dass alle Teilnehmerstaaten der Gemeinschaft Unabhängiger Staaten Rechtsnachfolger in Rechten und Pflichten der ehemaligen UdSSR sind“.[35] Der Eintritt der übrigen ehemaligen sowjetischen Teilrepubliken z. B. in das Vermögen der UdSSR musste jeweils gesondert geregelt werden, in der Regel durch Vertrag mit der Russischen Föderation und betroffenen Drittstaaten.\r\nKritik der staatlichen Funktion\r\nDie meisten politischen Theorien neigen dazu, den Staat als eine neutrale Stelle von Gesellschaft und Wirtschaft getrennt zu sehen.\r\nSiehe auch: Korporatismus, Konkurrenztheorie und Elitesoziologie\r\nAnarchismus\r\nHauptartikel: Anarchismus\r\nIWW-Plakat „Pyramid of the Capitalist System“ (1911), depicting an anti-capitalist perspective on statist/capitalist social structures.\r\nDer Anarchismus ist eine politische Philosophie, welche den Staat als unmoralisch, unnötig und schädlich erachtet und stattdessen eine klassen- und staatenlose Gesellschaft oder Anarchie fordert.\r\nAnarchisten glauben, dass der Staat von Natur aus ein Instrument der Herrschaft und Unterdrückung darstellt, dabei ist es logisch betrachtet völlig egal, wer die Kontrolle über einen Staat ausübt. In der Tat sind die Linien, welche die Regierung und den Privathandel trennen, so verschwommen, als könnten sie genauso gut nicht vorhanden sein. Anarchisten weisen darauf hin, dass der Staat über das Monopol auf die rechtliche Anwendung von Gewalt verfügt und somit den Menschen ihre natürlichen Rechte stets hinfort nehmen kann. Sie sind der Meinung, dass die revolutionäre Eroberung der Staatsmacht nicht ein politisches Ziel sein darf. Dagegen sind Anarchisten überzeugt davon, dass der Staatsapparat komplett zerlegt werden sollte und soziale Beziehungen auf eine andere Weise geschaffen werden müssen, welche nicht die Staatsmacht zur Grundlage haben darf. Modelle für eine weltweite Bewegung in Richtung echter staatenloser, d. h. klassenloser anarchistischer Basis-Demokratie, Genossenschaftswirtschaft und die allmähliche Auflösung der bürokratischen Nationalstaaten samt all seiner hierarchischen Institutionen existieren. Organisation begründet auf Räte, Versammlungen und Volksmilizen, das Eigentum des Regimes (des Staates) geht bei einer solchen staatenlosen Organisationsform allen Orts in den Besitz der arbeiterselbstverwalteten Genossenschaften über, wie ein Beispiel in Rojava, dem kurdischen Siedlungsgebiet in Syrien, zeigt.\r\nInnerhalb eines Staates, welcher immer mehr oder weniger zentralisiert ist und somit immer eine hierarchische Klassengesellschaften darstellt (das liegt im Wesen des Kapitalismus und ist inhärenter Bestandteil des Wirtschaftssystems), kann es logischerweise keinerlei klassenlose Gesellschaften geben. Denn allein Geld schafft bereits Ungleichheiten. Folglich kann es somit innerhalb eines Staates niemals eine klassenlose Gesellschaft geben, geschweige denn möglich sein. Daher wollen Anarchisten Staaten abschaffen und im Idealfall auch das Geld durch die Solidarwirtschaft ersetzen, um egalitäre, d. h. klassenlose Gesellschaften der vollständigen Autonomie und einer möglichst großen Autarkie wiederherzustellen. Alle Aufgaben, die diese autonomen Gemeinschaften, Städte, Dörfer und Gemeinden nicht selbst erledigen können und die bisher vom Staat erledigt wurden, wie z. B. Umweltschutz, Raumfahrt, Verteidigung usw., sollen nach dem kropotkinschen Modell der „Vereinten Föderation“ von ebendieser Föderation erledigt werden. Ihr dürfen die freien Gemeinden, ohne dazu gezwungen oder genötigt zu werden, beitreten, was den Staat in all seinen Funktionen des Privilegientums Einzelner ersetzen und komplett überflüssig machen soll. Dass dieses System eine höhere Form der Ordnung darstellt und auch in der Realität sogar besser funktionierte als in der bloßen Theorie Kropotkins, bewies Katalonien während der spanischen Revolution in den 1930er Jahren und beweisen derzeit die Kurden in Rojava. So gut wie alles, was der Staat heute erledigt, könne eben auch durch eine klassenlose Föderation (= staatenlose Organisationsform) vollständig ersetzt werden, und zwar ohne hierarchische, zentralisierte oder gar monopolisierte Strukturen der herrschenden Minoritäten; so könne eine soziale Organisationsform ebenso in freier Vereinbarung der basisdemokratischen Gruppen, welche sich zur Föderation zusammen schließen, vollständig erledigt werden.[37][38][39]\r\n„Wenn das Volk zu den Herren seines eigenen Schicksals wird… und die Hände auf die Reichtümer legen wird, die es selbst erstellt hat, und die ihnen von rechts wegen gehören – werden sie dann wirklich damit beginnen, diesen Blutsauger, den Staat wieder herzustellen? Oder werden sie nicht eher versuchen, sich vom Einfachen zum Komplexen zu organisieren, nach gegenseitigem Einvernehmen und auf eine klassenlose Gesellschaft begründend, sich ständig verändernder Bedürfnisse des jeweiligen Ortes einzugehen, um den Besitz dieser Reichtümer für sich selbst zu sichern, um diese sich sowohl gegenseitig das Leben zu garantieren als auch anderen und stattdessen damit anfangen zu produzieren, was für das Leben notwendig befunden wird?“[40]\r\nVerschiedene christliche Anarchisten wie Jacques Ellul haben darauf hingewiesen, dass mit dem Tier in der Offenbarung des Johannes Staat und politische Macht gemeint seien.[41][42] Offenbarung des Johannes 13: Das erste Tier kommt aus dem Meer … 7 … und ward ihm gegeben alle Gewalt und Macht über alle Geschlechter und Sprachen und Heiden. (Daniel 7.21) (Offenbarung 11.7) 8 Und alle, die auf Erden wohnen, beten es an, deren Namen nicht geschrieben sind in dem Lebensbuch des Lammes, das erwürgt ist, von Anfang der Welt. 15 … und machte, dass alle, welche nicht des Tiers Bild anbeteten, getötet würden. Politische Macht kann kaum ausdrücklicher beschrieben werden, denn es ist diese Kraft, die Behörde, die militärische Gewalt kontrolliert, und die Anbetung (d. h. absoluten Gehorsam) erzwingt.\r\nMarxismus\r\nKarl Marx und Friedrich Engels stimmten darin überein, dass es das kommunistische Ziel sei, eine klassenlose Gesellschaft zu schaffen, in der der Staat „verdorren“ müsse.[43] Aus Historischer Materialismus: „Staatseingriffe in gesellschaftliche Verhältnisse werden in einer Domäne nach der anderen überflüssig, und stirbt dann aus sich selbst heraus ab, an die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und wird durch die Durchführung von Produktionsprozessen ersetzt. Der Staat wird nicht ‚abgeschafft‘. Er stirbt […,] die gesellschaftliche Produktion auf einen vorbestimmten Plan wird von nun an möglich. Die Entwicklung der Produktion macht die Existenz der verschiedenen Klassen der Gesellschaft von da ab zu einem Anachronismus. In dem Maße, wie die Anarchie in der gesellschaftlichen Produktion schwindet, so erlischt die politische Autorität des Staates, der Mensch wird endlich der Herr seiner Form der sozialen Organisation, wird zugleich auch der Herr über die Natur, sein eigener Herr.“ Für das Ausmaß, so dass es sinnvoll ist, gibt es keine einzelne „marxistische Theorie des Staates“, sondern viele verschiedene „marxististische“ Theorien, die von Anhängern des Marxismus entwickelt wurden.[44][45][46]\r\nMarx’ frühe Schriften porträtierten den Staat als „parasitär“, auf den Überbau der Wirtschaft gebaute, und die Arbeit gegen das öffentliche Interesse einsetzende Institution. Er schrieb auch, dass der staatliche Spiegel Klassen erzeugt. Beziehungen in der Gesellschaft wirken im Allgemeinen als Regulator und Repressor des Klassenkampfes, und wirken als ein Werkzeug der politischen Macht und Herrschaft für die herrschende Klasse.[47]\r\nFür marxistische Theoretiker ist die Rolle des nicht-sozialistischen Staates durch seine Funktion in der kapitalistischen Weltordnung bestimmt. Ralph Miliband argumentiert, dass die herrschende Klasse den Staat als Instrument für die Gesellschaft aufgrund der zwischenmenschlichen Beziehungen zwischen Staatsbeamten und wirtschaftlichen Eliten dominiert. Für Miliband wird der Staat von einer Elite, die aus dem gleichen Hintergrund wie die kapitalistische Klasse kommt, dominiert. Staatsbeamte teilen daher die gleichen Interessen wie Kapitalbesitzer und sind immer mit ihnen verknüpft durch eine breite Palette von sozialen, wirtschaftlichen und politischen Beziehungen.\r\nGramscis Theorien des Staates betonen, dass der Staat nur eine der Institutionen in der Gesellschaft sei, welche die Hegemonie der herrschenden Klasse aufrechtzuerhalten helfen, und dass die Staatsmacht durch die ideologische Herrschaft der Institutionen der Zivilgesellschaft, wie Kirchen, Schulen und Massenmedien, verstärkt herbeigeführt wird.[48] \n"
+}

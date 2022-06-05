@@ -1,0 +1,533 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aussetzungsbeschluss",
+            "end": 229,
+            "start": 209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 238,
+            "start": 230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 549,
+            "start": 543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kostenbeschlusses",
+            "end": 672,
+            "start": 655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagwort",
+            "end": 683,
+            "start": 673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vollzugsaussetzung",
+            "end": 703,
+            "start": 685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstellen",
+            "end": 715,
+            "start": 704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 730,
+            "start": 728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 743,
+            "start": 741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31695",
+            "end": 762,
+            "start": 757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31695",
+            "end": 778,
+            "start": 773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 784,
+            "start": 779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgesetzt",
+            "end": 1048,
+            "start": 1038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "100",
+            "end": 1227,
+            "start": 1224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1235,
+            "start": 1229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1237,
+            "start": 1236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1240,
+            "start": 1239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 1507,
+            "start": 1502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 1788,
+            "start": 1785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1791,
+            "start": 1790,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 1941,
+            "start": 1935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mieterlösen",
+            "end": 2040,
+            "start": 2029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "addiert",
+            "end": 2164,
+            "start": 2157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 2240,
+            "start": 2239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2243,
+            "start": 2242,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2370,
+            "start": 2369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2547,
+            "start": 2544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 2778,
+            "start": 2771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2781,
+            "start": 2780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 2950,
+            "start": 2947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2953,
+            "start": 2952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszusetzen",
+            "end": 3251,
+            "start": 3240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3254,
+            "start": 3253,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzulehnen",
+            "end": 3301,
+            "start": 3291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3304,
+            "start": 3303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 3444,
+            "start": 3439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 3448,
+            "start": 3446,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3451,
+            "start": 3450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 3694,
+            "start": 3693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3697,
+            "start": 3696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufheben",
+            "end": 3821,
+            "start": 3813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beantragen",
+            "end": 4027,
+            "start": 4017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4031,
+            "start": 4029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 4098,
+            "start": 4090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4157,
+            "start": 4154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4399,
+            "start": 4393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 4556,
+            "start": 4550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4560,
+            "start": 4558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erachtet",
+            "end": 4867,
+            "start": 4859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusetzen",
+            "end": 4991,
+            "start": 4981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4995,
+            "start": 4993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 5155,
+            "start": 5150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 5396,
+            "start": 5389,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5613,
+            "start": 5612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 5866,
+            "start": 5861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einkalkuliert",
+            "end": 6091,
+            "start": 6078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschehen",
+            "end": 6132,
+            "start": 6123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6136,
+            "start": 6134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6296,
+            "start": 6290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstleistungen",
+            "end": 6443,
+            "start": 6427,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6739,
+            "start": 6738,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6743,
+            "start": 6741,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6978,
+            "start": 6977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berechnung",
+            "end": 7022,
+            "start": 7012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabelle",
+            "end": 7031,
+            "start": 7024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 7034,
+            "start": 7032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umstände",
+            "end": 7277,
+            "start": 7269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 7409,
+            "start": 7402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 7413,
+            "start": 7411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dienten",
+            "end": 7602,
+            "start": 7595,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 7757,
+            "start": 7753,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8013,
+            "start": 8012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzusetzen",
+            "end": 8071,
+            "start": 8061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8075,
+            "start": 8073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgt",
+            "end": 8150,
+            "start": 8145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabelle",
+            "end": 8159,
+            "start": 8152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 8162,
+            "start": 8160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 8330,
+            "start": 8322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8544,
+            "start": 8540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8751,
+            "start": 8748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 8853,
+            "start": 8842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 8857,
+            "start": 8855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen",
+            "end": 9004,
+            "start": 8994,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9187,
+            "start": 9186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 9310,
+            "start": 9307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen",
+            "end": 9612,
+            "start": 9602,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG München, Beschluss v. 28.11.2018 – 7 V 2273/18\nTitel:\nVerdeckte Gewinnausschüttung, Gewerbesteuermessbetrag, Verwaltervergütung,\nAussetzung der Vollziehung, Grundstückseigentümer, Änderung des Beschlusses,\nAussetzungsbeschluss\nLeitsatz:\nAntrag auf Änderung eines AdV-Beschlusses nach § 69 Abs. 6 S. 2 FGO zulässig, wenn das Gericht\ndie Ablehnung des AdV-Beschlusses auf Gesichtspunkte stützte, welche zwischen den Beteiligten\nbis dahin nicht streitig waren und der Antragsteller im Aussetzungsantrag keinen Anlass hatte,\nhierzu Stellung zu nehmen. Die Änderung des ursprünglichen Aussetzungsbeschlusses führt auch\nzu einer Anpassung des ursprünglichen Kostenbeschlusses\nSchlagwort:\nVollzugsaussetzung\nFundstellen:\nStEd 2019, 25\nEFG 2019, 61\nBeckRS 2018, 31695\nLSK 2018, 31695\nTenor\n1. Unter Änderung des Beschlusses vom 2. August 2018 (7 V 1342/18) wird der Bescheid über den\nGewerbesteuermessbetrag 2008 vom 19. April 2013 sowie die hierzu ergangene Einspruchsentscheidung\nvom 19. Januar 2018 in Höhe von 31.618 € von der Vollziehung ausgesetzt.\n2. Unter Änderung der Kostenentscheidung im Beschluss vom 2. August 2018 (7 V 1342/18) tragen die\nKosten des Verfahren die Antragstellerin zu 13/100, der Antragsgegner zu 84/100.\nGründe\nI.\n1\nDie Antragstellerin begehrt die Änderung des Beschlusses vom 2. August 2018 (7 V 1342/18), mit dem\neinem Antrag auf Aussetzung der Vollziehung des Bescheids über den Gewerbesteuermessbetrag 2008\nvom 19. April 2013 nur teilweise in Höhe von 21.122 € entsprochen wurde. Dabei wurde zulasten der\nAntragstellerin eine bisher noch nicht berücksichtigte verdeckte Gewinnausschüttung (vGA) in Höhe von\n461.153 € angesetzt, da ein angemessenes Honorar für die treuhänderische Verwaltung der Immobilien\ndurch die Antragstellerin nicht vereinbart worden sei.\n2\nDie Antragstellerin macht geltend, dass fehlerhaft davon ausgegangen sei, dass die Immobilieneigentümer\nkeinerlei Verwaltervergütung geleistet hätten. Die Vergütung ergebe sich aus der Differenz der\nvereinnahmten zu den weitergeleiteten Mieterlösen. Zu den ungedeckten Verwaltungsaufwendungen werde\neine angemessene Verzinsung des Eigenkapitals in Höhe von 3.000 € addiert. Hieraus ergebe sich die\nkalkulatorische Verwaltungsvergütung von 195.000 €.\n3\nDie tatsächlich gezahlte Netto-Verwaltungsvergütung in Höhe von 191.724,24 € entspreche 2,7% der\nBruttoerlöse (7.104.638,09 €). Ein höherer Prozentsatz sei nicht gerechtfertigt, da die Verhandlungen über\nNeuvermietungen durch den Geschäftsführer erfolgten, ohne dass dies in Rechnung gestellt worden sei.\nFerner sei die gesamte bauliche Instandhaltung der verwalteten Mietobjekte einschließlich der\nÜberwachung und Abrechnung mit direkter Rechnungsstellung an die jeweiligen Immobilieneigentümer\ndurch eine andere Gesellschaft erfolgt.\n4\nEine verdeckte Gewinnausschüttung sei auch deswegen nicht gerechtfertigt, da in der Vergangenheit immer\neine angemessene Verzinsung des Eigenkapitals erzielt worden sei.\n5\nDie Antragstellerin beantragt sinngemäß,\nunter Änderung des Beschlusses vom 2. August 2018 (7 V 1342/18) den Bescheid über den\nGewerbesteuermessbetrag 2008 vom 19. April 2013 sowie die hierzu ergangene Einspruchsentscheidung\nvom 19. Januar 2018 in Höhe von 36.382 € von der Vollziehung auszusetzen.\n6\nDas Finanzamt beantragt,\nden Antrag abzulehnen.\n7\nDas Finanzamt macht geltend, dass die Voraussetzungen für eine Änderung des Aussetzungsbeschlusses\nnach § 69 Abs. 6 FGO nicht erfüllt seien.\nII.\n8\nDer Antrag auf Änderung des Beschlusses vom 2. August 2018 i.S. Aussetzung der Vollziehung (AdV) des\nGewerbesteuermessbetrags 2008 (7 V 1342/18) führt zu einer weitergehenden AdV des\nGewerbesteuermessbetrags 2008 i.H.v. nun insgesamt 31.618 €.\n9\n1. Nach § 69 Abs. 6 Satz 1 FGO kann das Gericht der Hauptsache Beschlüsse betreffend die AdV jederzeit\nändern oder aufheben. Nach § 69 Abs. 6 Satz 2 FGO kann jedoch der Beteiligte die Änderung oder\nAufhebung lediglich wegen veränderter oder im ursprünglichen Verfahren ohne Verschulden nicht geltend\ngemachter Umstände beantragen.\n10\n2. Vorliegend ist der Änderungsantrag der Antragstellerin zulässig. Die Voraussetzungen des § 69 Abs. 6\nSatz 2 FGO liegen vor. Denn der Ansatz einer vGA aufgrund der fehlenden Vereinbarung eines\nangemessenen Verwaltungshonorars mit den Grundstückseigentümern war vor Erlass des AdVBeschlusses\nvom 2. August 2018 zwischen den Beteiligten noch nicht thematisiert worden. Für die\nAntragstellerin bestand daher bisher noch keine Veranlassung, Umstände geltend zu machen, die für die\nBemessung einer vGA von Bedeutung sein können.\n11\n3. Auch unter Berücksichtigung des weiteren Vorbringens der Antragstellerin kann bei summarischer\nPrüfung nicht davon ausgegangen werden, dass mit den Grundstückseigentümern ein angemessenes\nHonorar vereinbart wurde, sodass das Gericht weiterhin den Ansatz einer vGA dem Grunde nach für\nzutreffend erachtet. Jedoch ist diese bei summarischer Prüfung im Hinblick auf das ergänzte Vorbringen der\nAntragstellerin niedriger anzusetzen.\n12\n3.1. Auch aus dem ergänzten Vorbringen der Klägerin ergibt sich nicht, dass ein angemessenes Honorar für\ndie Verwaltung der (Fremd-)Immobilien vereinbart wurde. Vielmehr ergibt sich aus den Berechnungen der\nAntragstellerin, dass durch die einbehaltenen Mieterlöse allein der laufende Betriebsaufwand (Lohnkosten,\nVerwaltungsaufwand) sowie die nicht umlagefähigen Betriebskosten gedeckt werden sollten. Ziel war es,\nein ausgeglichenes, kostendeckendes Jahresergebnis zu erzielen (so auch Stellungnahme Andreas\nWagenpfeil vom 26. März 2018 - Anlage 5 zum Schriftsatz vom 26. März 2018 im Hauptsacheverfahren 7 K\n495/18). Hierin ist jedoch eine durch das Gesellschaftsverhältnis veranlasst verhinderte\nVermögensmehrung und damit eine vGA zu sehen, da ein ordentlicher und gewissenhafter Geschäftsleiter\neinem Nichtgesellschafter einen derartigen Vorteil nicht gewährt hätte. Vielmehr hätte dieser nicht nur auf\ndie Erstattung der verauslagten nicht umlagefähigen Betriebskosten bestanden und ein kostendeckendes\nHonorar vereinbart, sondern hätte auch einen angemessenen Gewinnzuschlag einkalkuliert. Dies ist\noffensichtlich nicht geschehen.\n13\nSoweit geltend gemacht wird, dass eine angemessene Eigenkapitalverzinsung einkalkuliert wurde, kann\nhierin keine angemessene Honorarvereinbarung gesehen werden. Zum einen orientiert sich ein\nangemessenes Verwaltungshonorar nicht am eingesetzten Eigenkapital, sondern an den zu erbringenden\nDienstleistungen. Zum anderen wurde auch diese Eigenkapitalverzinsung offensichtlich nicht mit den\nGrundstückseigentümern vereinbart, da nach den Berechnungen der Antragstellerin das\nVerwaltungshonorar mit 195.000 € kalkuliert wurde, die tatsächlich gezahlte Verwaltungsvergütung aber\ndarunter lag (191.724,24 €).\n14\n3.2. Unter Berücksichtigung des Vorbringens der Antragstellerin geht das Gericht für das Verfahren des\nvorläufigen Rechtsschutzes nun von einer vGA i.H.v. 160.871,95 € aus (bisher 461.153 €: Beschluss vom 2.\nAugust 2018 - 7 V 1342/18). Diese ergibt sich aus folgender Berechnung:\nTabelle\n15\nStatt dem bisherigen Ansatz (4,8%) geht das Gericht nun von einer angemessenen Verwaltervergütung von\n4,0% der Kaltmieten zzgl. Nebenkostenzahlungen aus und berücksichtigt dadurch, die von der\nAntragstellerin vorgebrachten besonderen Umstände. Dass eine weitergehende Reduzierung des\nProzentsatzes gerechtfertigt sein, wurde nicht schlüssig vorgetragen und glaubhaft gemacht.\n16\nVon der so ermittelten angemessenen Verwaltervergütung werden die einbehaltenen Mieterlöse zum Abzug\ngebracht, welche der Deckung der Betriebskosten (Lohnkosten, Verwaltungskosten) dienten. Dadurch wird\nberücksichtigt, dass die Verwaltervergütung regelmäßig neben der Gewinnerzielung auch der Deckung der\nlaufenden Betriebsausgaben dienen soll. Die durch die verdeckte Gewinnausschüttung ausgelöste\nUmsatzsteuer (§ 3 Abs. 9a Nr. 2 i.V.m. § 1 Nr. 1 Umsatzsteuergesetz - UStG) ist ein Teil der verdeckten\nGewinnausschüttung (vgl. BFH-Urteil vom 28.11.1991 I R 13/90, BFHE 166, 251, BStBl II 1992, 359). Als\nvGA ist somit ein Betrag von 160.871,95 € anzusetzen.\n17\n4. Der auszusetzende Gewerbesteuermessbetrag 2008 ermittelt sich wie folgt:\nTabelle\n18\nBei der Ermittlung des auszusetzenden Gewerbesteuermessbetrags legt das Gericht den Gewinn aus\nGewerbebetrieb lt. Gewerbesteuermessbescheid vom 19. April 2013 zugrunde. Zwar liegt es nahe, dass\ndieser nicht zutreffend ist, da in der Gewinnermittlung für 2008 Zahlungen erfasst sind, die aufgrund der\ngeltend gemachten Treuhandvereinbarung nicht der Antragstellerin zuzurechnen sind. Bei summarischer\nPrüfung ist aber nicht erkennbar, dass das berücksichtigte Jahresergebnis (-9.267 €) deutlich zugunsten der\nAntragstellerin zu ändern und damit eine weitergehende Aussetzung angebracht ist. Die zutreffende\nErmittlung des Gewinns aus Gewerbebetrieb bleibt dem Hauptsacheverfahren vorbehalten.\n19\n5. Die ursprüngliche Kostenentscheidung im Beschluss vom 2. August 2018 (7 V 1342/18) ist dem nun\ngegebenen Verhältnis des Unterliegens anzupassen. Mehrere Verfahren nach § 69 Abs. 3 FGO gelten\ninnerhalb eines Rechtszugs als ein Verfahren (vgl. Vorbemerkung 6.2 Abs. 2 Satz 2 Kostenverzeichnis -\nAnlage 1 zu Gerichtskostengesetz). Die Entscheidung über den Antrag nach § 69 Abs. 6 FGO ist\nunselbständiger Bestandteil des Verfahrens nach § 69 Abs. 3 FGO. Das Gerichtskostengesetz enthält\nkeinen besonderen Gebührentatbestand für diesen Antrag (vgl. BFHBeschluss vom 13.05.2015 X S 9/15,\nBFH/NV 2015, 1099). Mit einer Änderung des ursprünglichen Aussetzungsbeschlusses ist damit auch die\nursprüngliche Kostenentscheidung zu überprüfen und ggfls. anzupassen.\n\n"
+}

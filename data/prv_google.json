@@ -1,0 +1,1619 @@
+{
+    "Annotations": [
+        {
+            "annotation": "DATENSCHUTZERKLÄRUNG",
+            "end": 27,
+            "start": 7,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 91,
+            "start": 89,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behalten",
+            "end": 263,
+            "start": 255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 460,
+            "start": 454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 492,
+            "start": 488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versionen",
+            "end": 514,
+            "start": 505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "interagieren",
+            "end": 663,
+            "start": 651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zählen",
+            "end": 691,
+            "start": 685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Maps",
+            "end": 962,
+            "start": 958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 1050,
+            "start": 1041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchten",
+            "end": 1251,
+            "start": 1244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansehen",
+            "end": 1436,
+            "start": 1429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "surfen",
+            "end": 1516,
+            "start": 1510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1662,
+            "start": 1656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angefügt",
+            "end": 1810,
+            "start": 1802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kontaktieren",
+            "end": 1880,
+            "start": 1868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "DATEN",
+            "end": 1907,
+            "start": 1902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 2010,
+            "start": 2004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 2383,
+            "start": 2377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 2540,
+            "start": 2531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 2745,
+            "start": 2736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2869,
+            "start": 2863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erachten",
+            "end": 3022,
+            "start": 3014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitstellen",
+            "end": 3088,
+            "start": 3075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwort",
+            "end": 3201,
+            "start": 3193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzufügen",
+            "end": 3287,
+            "start": 3277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 3466,
+            "start": 3458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 3584,
+            "start": 3576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schreiben",
+            "end": 3787,
+            "start": 3778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erheben",
+            "end": 3843,
+            "start": 3836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräte",
+            "end": 3873,
+            "start": 3867,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 3976,
+            "start": 3967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 4105,
+            "start": 4102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "App",
+            "end": 4395,
+            "start": 4392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Diensten",
+            "end": 4492,
+            "start": 4484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anfrage",
+            "end": 4627,
+            "start": 4620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abfragt",
+            "end": 4830,
+            "start": 4823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 5016,
+            "start": 5001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Apps",
+            "end": 5163,
+            "start": 5159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktivitäten",
+            "end": 5181,
+            "start": 5170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktivitäten",
+            "end": 5240,
+            "start": 5229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 5350,
+            "start": 5344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5413,
+            "start": 5407,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5853,
+            "start": 5848,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anrufe",
+            "end": 6238,
+            "start": 6232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 6362,
+            "start": 6353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standortdaten",
+            "end": 6382,
+            "start": 6369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Standort",
+            "end": 6450,
+            "start": 6442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 6591,
+            "start": 6583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6660,
+            "start": 6654,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 6954,
+            "start": 6952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 7094,
+            "start": 7082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktivieren",
+            "end": 7248,
+            "start": 7238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Quellen",
+            "end": 7337,
+            "start": 7330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "suchen",
+            "end": 7520,
+            "start": 7514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Partnern",
+            "end": 7602,
+            "start": 7594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7807,
+            "start": 7801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7928,
+            "start": 7922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Technologien",
+            "end": 8005,
+            "start": 7993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Serverprotokolle",
+            "end": 8153,
+            "start": 8137,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Google",
+            "end": 8196,
+            "start": 8190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 8249,
+            "start": 8242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 8423,
+            "start": 8416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möchten",
+            "end": 8611,
+            "start": 8604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 8653,
+            "start": 8646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "funktionieren",
+            "end": 8748,
+            "start": 8735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8875,
+            "start": 8870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 8940,
+            "start": 8930,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9129,
+            "start": 9123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 9156,
+            "start": 9149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 9255,
+            "start": 9248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fotos",
+            "end": 9422,
+            "start": 9417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 9581,
+            "start": 9574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Suchergebnissen",
+            "end": 9702,
+            "start": 9687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 9842,
+            "start": 9838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 10019,
+            "start": 10012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 10146,
+            "start": 10139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erscheinen",
+            "end": 10360,
+            "start": 10350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 10484,
+            "start": 10478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 10653,
+            "start": 10647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auffordern",
+            "end": 10840,
+            "start": 10830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 11064,
+            "start": 11058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistung",
+            "end": 11086,
+            "start": 11078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11185,
+            "start": 11179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "optimieren",
+            "end": 11308,
+            "start": 11298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 11464,
+            "start": 11453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Analytics",
+            "end": 11528,
+            "start": 11519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 11812,
+            "start": 11806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ihnen",
+            "end": 11837,
+            "start": 11832,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 11950,
+            "start": 11944,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzumelden",
+            "end": 12158,
+            "start": 12148,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informieren",
+            "end": 12279,
+            "start": 12268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 12406,
+            "start": 12402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Öffentlichkeit",
+            "end": 12464,
+            "start": 12450,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 12550,
+            "start": 12540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 12740,
+            "start": 12733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Technologien",
+            "end": 12829,
+            "start": 12817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 13069,
+            "start": 13065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhalte",
+            "end": 13188,
+            "start": 13181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkennen",
+            "end": 13252,
+            "start": 13244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 13435,
+            "start": 13429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kombiniert",
+            "end": 13565,
+            "start": 13555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13776,
+            "start": 13770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbessern",
+            "end": 14008,
+            "start": 13998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Foto",
+            "end": 14236,
+            "start": 14232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "identifizieren",
+            "end": 14328,
+            "start": 14314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 14460,
+            "start": 14448,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzeinstellungen",
+            "end": 14486,
+            "start": 14462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verwendung",
+            "end": 14586,
+            "start": 14576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 14725,
+            "start": 14719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen",
+            "end": 14841,
+            "start": 14831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkten",
+            "end": 14943,
+            "start": 14934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produkten",
+            "end": 15024,
+            "start": 15015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Privatsphärecheck",
+            "end": 15047,
+            "start": 15030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aktualisieren",
+            "end": 15217,
+            "start": 15204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Inhaltstypen",
+            "end": 15331,
+            "start": 15319,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 15485,
+            "start": 15479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktivitätseinstellungen",
+            "end": 15565,
+            "start": 15542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 15662,
+            "start": 15656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 15894,
+            "start": 15886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrufen",
+            "end": 15928,
+            "start": 15920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 15954,
+            "start": 15947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16142,
+            "start": 16136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "deaktivieren",
+            "end": 16357,
+            "start": 16345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 16391,
+            "start": 16384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mich",
+            "end": 16401,
+            "start": 16397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 16480,
+            "start": 16474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 16496,
+            "start": 16495,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 16661,
+            "start": 16655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 16688,
+            "start": 16687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitteilen",
+            "end": 16729,
+            "start": 16720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "austauschen",
+            "end": 16804,
+            "start": 16793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 16842,
+            "start": 16837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 16903,
+            "start": 16898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Aktivitäten",
+            "end": 16921,
+            "start": 16910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Play",
+            "end": 17112,
+            "start": 17108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 17225,
+            "start": 17218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "\"",
+            "end": 17249,
+            "start": 17248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dashboard",
+            "end": 17266,
+            "start": 17257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 17370,
+            "start": 17366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dashboard",
+            "end": 17391,
+            "start": 17382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 17420,
+            "start": 17415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 17524,
+            "start": 17515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 17556,
+            "start": 17551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Suche",
+            "end": 17688,
+            "start": 17683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 17823,
+            "start": 17817,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einstellungen",
+            "end": 17846,
+            "start": 17833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 17947,
+            "start": 17940,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbung",
+            "end": 17974,
+            "start": 17967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 18135,
+            "start": 18129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 18177,
+            "start": 18170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 18332,
+            "start": 18326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "exportieren",
+            "end": 18351,
+            "start": 18340,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stellen",
+            "end": 18474,
+            "start": 18467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 18815,
+            "start": 18808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwenden",
+            "end": 19025,
+            "start": 19016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 19203,
+            "start": 19198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Browsereinstellungen",
+            "end": 19240,
+            "start": 19220,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 19376,
+            "start": 19371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19505,
+            "start": 19499,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 19666,
+            "start": 19660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geräteeinstellungen",
+            "end": 19687,
+            "start": 19668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erheben",
+            "end": 19799,
+            "start": 19792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anpassen",
+            "end": 19884,
+            "start": 19876,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenweitergabe",
+            "end": 19901,
+            "start": 19886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sie",
+            "end": 19927,
+            "start": 19924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilen",
+            "end": 19998,
+            "start": 19992,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 20063,
+            "start": 20059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollen",
+            "end": 20199,
+            "start": 20193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 20350,
+            "start": 20344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 20572,
+            "start": 20563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "veröffentlichen",
+            "end": 20709,
+            "start": 20694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Google",
+            "end": 20739,
+            "start": 20733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 20893,
+            "start": 20881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 20993,
+            "start": 20988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergeben",
+            "end": 21186,
+            "start": 21175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 21294,
+            "start": 21291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Administratore",
+            "end": 21330,
+            "start": 21316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 21562,
+            "start": 21557,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Möglichkeiten",
+            "end": 21598,
+            "start": 21585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stellen",
+            "end": 22150,
+            "start": 22143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verarbeiten",
+            "end": 22327,
+            "start": 22316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sicherheitsmaßnahmen",
+            "end": 22497,
+            "start": 22477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundensupport",
+            "end": 22576,
+            "start": 22563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründen",
+            "end": 22601,
+            "start": 22594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllen",
+            "end": 22874,
+            "start": 22866,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzukommen",
+            "end": 23009,
+            "start": 22997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 23138,
+            "start": 23130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verstöße",
+            "end": 23234,
+            "start": 23226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bekämpfen",
+            "end": 23343,
+            "start": 23334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erforderlich",
+            "end": 23510,
+            "start": 23498,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiter",
+            "end": 23690,
+            "start": 23684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzuzeigen",
+            "end": 23805,
+            "start": 23794,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erheben",
+            "end": 23994,
+            "start": 23987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sicherzustellen",
+            "end": 24232,
+            "start": 24217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24389,
+            "start": 24383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datensicherheit",
+            "end": 24425,
+            "start": 24410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 24508,
+            "start": 24500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 24618,
+            "start": 24610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 24818,
+            "start": 24812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 24997,
+            "start": 24989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 25162,
+            "start": 25154,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Folgendes",
+            "end": 25199,
+            "start": 25190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 25273,
+            "start": 25265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 25443,
+            "start": 25435,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 25643,
+            "start": 25635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benötigen",
+            "end": 25866,
+            "start": 25857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einhalten",
+            "end": 26087,
+            "start": 26078,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 26124,
+            "start": 26119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 26204,
+            "start": 26197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 26360,
+            "start": 26354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "exportieren",
+            "end": 26379,
+            "start": 26368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "löschen",
+            "end": 26719,
+            "start": 26712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 26867,
+            "start": 26864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26999,
+            "start": 26993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schützen",
+            "end": 27106,
+            "start": 27098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 27318,
+            "start": 27312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regierungsbehörden",
+            "end": 27372,
+            "start": 27354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 27503,
+            "start": 27483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenübermittlung",
+            "end": 27522,
+            "start": 27505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Welt",
+            "end": 27563,
+            "start": 27559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leben",
+            "end": 27672,
+            "start": 27667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "andere",
+            "end": 27771,
+            "start": 27765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 27922,
+            "start": 27920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "USA",
+            "end": 28116,
+            "start": 28113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 28246,
+            "start": 28243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 28491,
+            "start": 28485,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Europa",
+            "end": 28516,
+            "start": 28510,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuschränken",
+            "end": 28872,
+            "start": 28858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "exportieren",
+            "end": 29010,
+            "start": 28999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29281,
+            "start": 29278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 29470,
+            "start": 29467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einwilligung",
+            "end": 29633,
+            "start": 29621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerrufen",
+            "end": 29789,
+            "start": 29779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 29908,
+            "start": 29893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 30039,
+            "start": 30033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwalten",
+            "end": 30103,
+            "start": 30094,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Interessen",
+            "end": 30132,
+            "start": 30122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tun",
+            "end": 30236,
+            "start": 30233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 30300,
+            "start": 30298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienstes",
+            "end": 31643,
+            "start": 31635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 31761,
+            "start": 31756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 31881,
+            "start": 31875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verpflichtungen",
+            "end": 31928,
+            "start": 31913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersuchens",
+            "end": 32102,
+            "start": 32093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 32207,
+            "start": 32201,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 32365,
+            "start": 32360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 32412,
+            "start": 32392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 32458,
+            "start": 32438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Werbedienste",
+            "end": 32690,
+            "start": 32678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beinhalten",
+            "end": 32853,
+            "start": 32843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 33275,
+            "start": 33269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzerklärung",
+            "end": 33318,
+            "start": 33298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zeit",
+            "end": 33373,
+            "start": 33369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränken",
+            "end": 33489,
+            "start": 33477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versionen",
+            "end": 33610,
+            "start": 33601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 33675,
+            "start": 33672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "benachrichtigt",
+            "end": 33797,
+            "start": 33783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 33836,
+            "start": 33825,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Dienste",
+            "end": 33851,
+            "start": 33844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konten",
+            "end": 34191,
+            "start": 34185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ressourcen",
+            "end": 34222,
+            "start": 34212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 34360,
+            "start": 34352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 34458,
+            "start": 34452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 34559,
+            "start": 34554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutzeinstellungen",
+            "end": 34689,
+            "start": 34665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 34846,
+            "start": 34840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nutzungsbedingungen",
+            "end": 35001,
+            "start": 34982,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 35338,
+            "start": 35332,
+            "type": "SBD"
+        }
+    ],
+    "Text": "GOOGLE-DATENSCHUTZERKLÄRUNG\nWenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. \nWir sind uns bewusst, dass dies eine große Verantwortung ist und\nsetzen alles daran, Ihre Daten zu schützen und zu gewährleisten,\ndass Sie die Kontrolle darüber behalten.\nIn dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir\ndamit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.\nWirksam ab dem 22. Januar 2019\nArchivierte Versionen\nWir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz\nneu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:\nGoogle-Apps, -Websites und -Geräte, wie die Google-Suche, YouTube und Google Home\nPlattformen wie der Chrome-Browser und das Android-Betriebssystem\nProdukte, die in Apps und Websites von Drittanbietern integriert sind, wie Werbeanzeigen und das\neingebettete Google Maps\nSie können die Datenschutzeinstellungen unserer Dienste auf vielfältige Weise verwalten. So haben Sie\nbeispielsweise die Möglichkeit, sich für ein Google-Konto zu registrieren, wenn Sie Inhalte wie E-Mails und\nFotos erstellen und verwalten oder relevantere Suchergebnisse erhalten möchten. Sie können auch\nzahlreiche Google-Dienste nutzen, ohne sich anzumelden oder ein Konto zu erstellen, beispielsweise wenn\nSie die Google-Suche verwenden oder sich YouTube-Videos ansehen. Zusätzlich ist es möglich, in Chrome\nim Inkognitomodus privat im Web zu surfen. Für alle unsere Dienste können Sie Datenschutzeinstellungen\nfestlegen und damit steuern, welche Daten wir erheben und wie diese verwendet werden.\nUm Ihnen unsere Datenschutzerklärung möglichst verständlich zu machen, haben wir Beispiele, Videos\nund Defintiionen für Schlüsselbegriffe angefügt. Wenn sie dennoch Fragen dazu haben, können Sie uns\ngern kontaktieren.\nVON GOOGLE ERHOBENE DATEN\nIm Folgenden erklären wir Ihnen, welche Arten von Daten wir erheben,\nwährend Sie unsere Dienste nutzen\nWir erheben Daten, um allen unseren Nutzern bessere Dienste zur Verfügung zu stellen – von der\nFeststellung grundlegender Informationen wie zum Beispiel Ihrer Sprache bis hin zu komplexeren Fragen\nwie zum Beispiel Werbung, die Sie besonders nützlich finden, den Personen, mit denen Sie online am\nhäufigsten zu tun haben, oder den YouTube-Videos, die Sie interessant finden. Welche Daten Google\nerhebt und wie diese verwendet werden hängt davon ab, wie Sie unsere Dienste nutzen und wie Sie Ihre\nDatenschutzeinstellungen verwalten.\nWenn Sie nicht in einem Google-Konto angemeldet sind, speichern wir die von uns erhobenen Daten mit\neindeutigen Kennungen, die mit dem Browser, der App oder dem Gerät verknüpft sind, welche Sie\nverwenden. Damit können wir beispielsweise gewährleisten, dass Ihre Spracheinstellungen bei allen\nBrowsersitzungen beibehalten werden.\nWenn Sie in einem Google-Konto angemeldet sind, erheben wir auch Daten, die wir in Ihrem Google-Konto\nspeichern und als personenbezogene Daten erachten.\nDaten, die Sie uns bei der Nutzung unserer Dienste bereitstellen\nWenn Sie ein Google-Konto erstellen, geben Sie uns personenbezogene Daten, darunter Ihren Namen und ein Passwort.\nSie können Ihrem Konto auch eine Telefonnummer oder Zahlungsinformationen hinzufügen. Selbst wenn Sie nicht bei\neinem Google-Konto angemeldet sind, können Sie uns Daten bereitstellen, etwa eine E-Mail-Adresse, um\nBenachrichtigungen zu unseren Diensten zu erhalten.\nWir erheben auch die Inhalte, die Sie bei der Nutzung unserer Dienste erstellen, hochladen oder von anderen erhalten.\nDazu gehören beispielsweise E-Mails, die Sie verfassen und empfangen, Fotos und Videos, die Sie speichern,\nDokumente und Tabellen, die Sie erstellen, und Kommentare, die Sie zu YouTube-Videos schreiben.\nDaten, die wir bei der Nutzung unserer Dienste erheben\nIhre Apps, Browser und Geräte\nWir erheben Daten über die Apps, Browser und Geräte, die Sie beim Zugriff auf Google-Dienste verwenden. Das hilft\nuns, Funktionen wie automatische Produktupdates anzubieten oder Ihren Bildschirm zu dimmen, wenn Ihr Akku\nschwach ist.\nZu den von uns erhobenen Daten zählen eindeutige Kennungen, der Typ und die Einstellungen des Browsers, der Typ\nund die Einstellungen des Geräts, das Betriebssystem, Informationen zum Mobilfunknetz wie der Name des\nMobilfunkanbieters und die Telefonnummer sowie die Versionsnummer der App. Wir erheben auch Daten über die\nInteraktion Ihrer Apps, Browser und Geräte mit unseren Diensten. Hierzu zählen u. a. die IP-Adresse, Absturzberichte,\nSystemaktivitäten sowie das Datum, die Uhrzeit und die Verweis-URL Ihrer Anfrage.\nWir erheben diese Daten, wenn ein Google-Dienst auf Ihrem Gerät unsere Server kontaktiert, beispielsweise wenn Sie\neine App vom Play Store installieren oder wenn ein Dienst automatische Updates abfragt. Wenn Sie ein Android-Gerät\nmit Google Apps verwenden, kontaktiert Ihr Gerät regelmäßig die Google-Server, um Daten über Ihr Gerät und die\nVerbindung zu unseren Diensten bereitzustellen. Zu diesen Daten zählen beispielsweise der Typ Ihres Geräts, der Name\ndes Mobilfunkanbieters, Absturzberichte und die von Ihnen installierten Apps.\nIhre Aktivitäten\nWir erheben in unseren Diensten Daten zu Ihren Aktivitäten. Diese Daten verwenden wir beispielsweise, um Ihnen ein\nYouTube-Video zu empfehlen, das Ihnen gefallen könnte. Unter anderem könnten folgende Aktivitätsdaten erhoben\nwerden:\nBegriffe, nach denen Sie suchen\nVideos, die Sie sich ansehen\nInhalte und Werbeanzeigen, die Sie sich ansehen und mit denen Sie interagieren\nSprach- und Audiodaten bei Ihrer Nutzung von Audiofunktionen\nKaufaktivitäten\nPersonen, mit denen Sie kommunizieren oder Inhalte austauschen\nAktivitäten auf Websites und Apps von Drittanbietern, die unsere Dienste nutzen\nDer Chrome-Browserverlauf, den Sie mit Ihrem Google-Konto synchronisiert haben\nWenn Sie unsere Dienste nutzen, um Anrufe zu tätigen und zu erhalten oder um Nachrichten zu senden und zu\nempfangen, erheben wir möglicherweise Telefonie-Informationen wie Ihre Telefonnummer, die Anrufernummer, die\nNummer des Angerufenen, Weiterleitungsnummern, das Datum und die Uhrzeit von Anrufen und Nachrichten, die Dauer\nvon Anrufen, Routing-Informationen und die Art der Anrufe.\nDie in Ihrem Konto gespeicherten Aktivitätsdaten können Sie sich in Ihrem Google-Konto ansehen und sie dort auch\nverwalten.\nIhre Standortdaten\nWenn Sie unsere Dienste nutzen, erheben wir Daten zu Ihrem Standort. Dadurch können wir Ihnen Funktionen wie\nWegbeschreibungen für Ihren Wochenendausflug oder Spielzeiten von Kinofilmen in Ihrer Nähe anbieten.\nIhr Standort kann mit unterschiedlicher Genauigkeit bestimmt werden. Dazu verwenden wir:\nGPS\nIP-Adresse\nSensordaten von Ihrem Gerät\nInformationen über Objekte in der Nähe Ihres Geräts, wie etwa WLAN-Zugriffspunkte, Funkmasten und Bluetooth-fähige Geräte\nDie durch uns erhobenen Typen von Standortdaten hängen zum Teil von Ihren Geräte- und Kontoeinstellungen ab. Zum\nBeispiel können Sie mit der App \"Einstellungen\" in Ihrem Android-Gerät die Standorterfassung Ihres Geräts aktivieren\noder deaktivieren. Wenn Sie eine private Karte mit Orten erstellen möchten, die Sie mit Ihren angemeldeten Geräten\nbesuchen, können Sie auch den Standortverlauf aktivieren.\nIn manchen Fällen erhebt Google auch Daten über Sie aus öffentlich zugänglichen Quellen. Wenn beispielsweise Ihr\nName in Ihrer lokalen Zeitung erscheint, kann die Google-Suchmaschine diesen Artikel indexieren und anderen\nPersonen zeigen, wenn sie nach Ihrem Namen suchen. Unter Umständen erhalten wir auch Daten über Sie von\nvertrauenswürdigen Partnern . Dazu zählen Marketingpartner, die uns Daten über potenzielle Kunden unserer\nGeschäftsdienste bereitstellen und Sicherheitspartner, die uns Daten liefern, mit denen wir uns vor Missbrauch\nschützen können. Wir erhalten auch Daten von Werbetreibenden, damit wir in deren Namen Werbung und\nRecherchedienste bereitstellen können.\nZum Erheben und Speichern von Daten verwenden wir verschiedene Technologien. Dazu zählen Cookies, Pixel-Tags,\ndie lokale Speicherung wie etwa Browser-Webspeicher oder Anwendungsdaten-Caches, Datenbanken und\nServerprotokolle.\nGründe für die Datenerhebung durch Google\nWir verwenden Daten zur Verbesserung unserer Dienste\nWir nutzen die von uns im Rahmen unserer Dienste erhobenen Daten für folgende Zwecke:\nBereitstellung unserer Dienste\nWir nutzen Ihre Daten zur Bereitstellung unserer Dienste. Hierzu zählen beispielsweise die Verarbeitung Ihrer\nSuchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie\nInhalte teilen möchten.\nWartung und Verbesserung unserer Dienste\nWir verwenden Ihre Daten, um zu gewährleisten, dass unsere Dienste ordnungsgemäß funktionieren. Beispielsweise\nverwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben.\nAußerdem nutzen wir Ihre Daten, um unsere Dienste zu verbessern. Dazu zählt beispielsweise die Feststellung, welche\nSuchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete\nRechtschreibprüfung verbessern können.\nEntwicklung neuer Dienste\nWir nutzen die im Rahmen unserer bestehenden Dienste erhobenen Daten zur Entwicklung neuer Dienste.\nBeispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google,\norganisiert haben, bei der Entwicklung von Google Fotos.\nBereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen\nWir nutzen die von uns erhobenen Daten zur Personalisierung unserer Dienste. Dazu zählen die Bereitstellung von\nEmpfehlungen, von personalisierten Inhalten und von personalisierten Suchergebnissen. Beispielsweise erhalten Sie\nim Sicherheitscheck Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind.\nGoogle Play nutzt Daten, etwa über Apps, die Sie installiert haben, und Videos, die Sie sich auf YouTube angesehen\nhaben, um neue Apps zu empfehlen, die Ihnen gefallen könnten.\nAbhängig von Ihren Einstellungen zeigen wir Ihnen möglicherweise auch auf Ihre Interessen abgestimmte\npersonalisierte Werbung. Wenn Sie beispielsweise nach Mountainbikes suchen, kann Ihnen eine Werbeanzeige zu\nSportausrüstung eingeblendet werden, wenn Sie auf einer Website surfen, auf der von Google ausgelieferte\nWerbeanzeigen erscheinen. In den Einstellungen für Werbung können Sie selbst festlegen, welche Daten wir zum \nSchalten von Anzeigen verwenden können.\nWir zeigen Ihnen keine personalisierte Werbung, die auf sensiblen Kategorien, wie der ethnischen Zugehörigkeit,\nReligion, sexuellen Orientierung oder Gesundheit beruht.\nWir geben Daten, durch die Sie persönlich identifizierbar sind, wie beispielsweise Ihren Namen oder Ihre E-Mail-\nAdresse, nur dann an Werbetreibende weiter, wenn Sie uns dazu auffordern. Wenn Sie beispielsweise Werbung für\neinen Blumenladen in Ihrer Nähe sehen und die Schaltfläche \"Zum Anrufen tippen\" auswählen, verbinden wir Ihren\nAnruf und geben Ihre Telefonnummer möglicherweise an den Blumenladen weiter.\nMessung der Leistung\nWir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden.\nBeispielsweise analysieren wir Daten über Ihre Besuche auf unseren Websites, um das Design unserer Produkte zu\noptimieren. Zusätzlich nutzen wir Daten der Werbeanzeigen, mit denen Sie interagieren, um Werbetreibenden ein\nbesseres Verständnis ihrer Werbekampagnen zu ermöglichen. Dazu nutzen wir verschiedene Tools, wie z. B. Google\nAnalytics. Wenn Sie Websites besuchen, auf denen Google Analytics eingesetzt wird, werden Google und der Google\nAnalytics-Kunde gegebenenfalls Daten über Ihre Aktivitäten auf dieser Website mit Aktivitäten auf anderen Websites\nverknüpfen, auf denen ebenfalls unsere Werbedienste genutzt werden.\nKommunikation mit Ihnen\nWir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So\nkönnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen\nVersuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie\nauch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie\nGoogle kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein.\nSchutz von Google, unserer Nutzer und der Öffentlichkeit\nWir nutzen Daten, um die Sicherheit und Zuverlässigkeit unserer Dienste zu verbessern. Dazu zählen das Erkennen,\nVerhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google,\nunseren Nutzern oder der Öffentlichkeit schaden könnten.\nUm Ihre Daten zu diesen Zwecken zu verarbeiten, verwenden wir verschiedene Technologien. Wir nutzen automatisierte\nSysteme, die Ihre Inhalte analysieren, sodass wir Ihnen personalisierte Suchergebnisse, personalisierte Werbung oder\nandere Funktionen bereitstellen können, die auf Ihre Nutzung unserer Dienste zugeschnitten sind. Zusätzlich\nanalysieren wir Ihre Inhalte, damit wir Missbrauch erkennen können, wie Spam, Malware und illegale Inhalte. Wir\nverwenden auch Algorithmen, um Muster in Daten zu erkennen. Google Übersetzer hilft beispielsweise Personen, über\nSprachbarrieren hinweg zu kommunizieren, indem der Dienst geläufige Sprachmuster in Sätzen erkennt, die übersetzt\nwerden sollen.\nUnter Umständen werden die durch uns erhobenen Daten zu den oben beschriebenen Zwecken dienst- und\ngeräteübergreifend kombiniert. Wenn Sie sich beispielsweise Videos von Gitarrenspielern auf YouTube ansehen, kann\neine Werbeanzeige für Gitarrenunterricht auf einer Website geschaltet werden, auf der unsere Anzeigenprodukte\nverwendet werden. Je nach Ihren Kontoeinstellungen könnten Ihre Aktivitäten auf anderen Websites und in Apps mit\nIhren personenbezogenen Daten verknüpft werden, um die Dienste von Google und die von Google ausgelieferten\nWerbeanzeigen zu verbessern.\nWenn andere Nutzer bereits über Ihre E-Mail-Adresse oder andere Sie identifizierende Daten verfügen, zeigen wir\ndiesen Nutzern möglicherweise die öffentlich sichtbaren Daten Ihres Google-Kontos an, wie Ihren Namen und Ihr Foto.\nDamit können andere Personen beispielsweise eine von Ihnen stammende E-Mail identifizieren.\nBevor wir Daten zu anderen als den in dieser Datenschutzerklärung aufgeführten Zwecken nutzen, bitten wir Sie um\nIhre Einwilligung.\nDatenschutzeinstellungen\nSie haben Entscheidungsmöglichkeiten in Bezug\nauf die durch uns erhobenen Daten und ihre\nVerwendung\nIn diesem Abschnitt werden die wichtigsten Einstellungen beschrieben, mit denen Sie\nIhre Privatsphäre in unseren Diensten verwalten können. Sie können auch den\nPrivatsphärecheck verwenden, um wichtige Datenschutzeinstellungen zu\nüberprüfen und anzupassen. Zusätzlich zu diesen Tools bieten wir auch spezifische\nDatenschutzeinstellungen in unseren Produkten. Mehr dazu erfahren Sie in unserem\nLeitfaden zum Datenschutz in Google-Produkten.\nZum Privatsphärecheck\nDaten verwalten, überprüfen und aktualisieren\nWenn Sie angemeldet sind, können Sie Ihre Daten jederzeit in den von Ihnen\nerwendeten Diensten überprüfen und aktualisieren. Beispielsweise ermöglichen\nIhnen Fotos und Drive die Verwaltung bestimmter auf Google gespeicherter\nInhaltstypen.\nWir stellen Ihnen auch einen Ort zur Verfügung, an dem Sie die in Ihrem Google-Konto\ngespeicherten Daten überprüfen und deren Speicherung steuern können. Ihr Google-\nKonto beinhaltet:\nDatenschutzeinstellungen\nAktivitätseinstellungen\nHier können Sie festlegen, welche Arten von Aktivitäten in Ihrem Konto\ngespeichert werden sollen. So können Sie beispielsweise den\nStandortverlauf aktivieren, wenn Sie Verkehrsmeldungen für Ihren\ntäglichen Weg zur Arbeit erhalten möchten, oder Ihren YouTube-\nWiedergabeverlauf speichern, um bessere Videoempfehlungen zu\nerhalten.\nAktivitätseinstellungen aufrufen\nEinstellungen für Werbung\nHier können Sie Ihre Einstellungen zu Werbeanzeigen verwalten, die auffordern\nGoogle sowie auf Websites und in Apps im Rahmen einer Partnerschaft mit\nGoogle von Google ausgeliefert werden. Sie können Ihre Interessen\nverändern, auswählen, ob Ihre personenbezogenen Daten verwendet\nwerden sollen, um sich relevantere Werbung präsentieren zu lassen, und\nbestimmte Werbedienste aktivieren oder deaktivieren.\nZu den Einstellungen für Werbung\nÜber mich\nHier können Sie festlegen, was andere über Sie in Google-Diensten sehen\nkönnen.\nZu \"Über mich\"\nSoziale Empfehlungen\nHier können Sie auswählen, ob Ihr Name und Ihr Foto neben Ihren\nAktivitäten wie Rezensionen und Empfehlungen in Werbeanzeigen\nerscheinen sollen.\nZu \"Soziale Empfehlungen\"\nInformationen, die Sie anderen mitteilen\nÜber Ihr Google+ Konto können Sie festlegen, mit wem Sie Daten\naustauschen.\nZu den von Ihnen freigegebenen Daten\nMöglichkeiten zur Überprüfung und Aktualisierung Ihrer Daten\nMeine Aktivitäten\nIn \"Meine Aktivitäten\" können Sie überprüfen und festlegen, welche Daten\nbei der Verwendung von Google-Diensten erstellt werden, wie etwa\nvergangene Suchanfragen oder Besuche auf Google Play. Sie können sich\ndie Inhalte nach Datum und Thema sortiert ansehen und Teile Ihrer\nAktivitäten oder alle löschen.\nZu \"Meine Aktivitäten\"\nGoogle Dashboard\nGoogle Dashboard ermöglicht Ihnen die Verwaltung von Daten, die mit\nbestimmten Produkten verknüpft sind.\nZu Google Dashboard\nIhre personenbezogenen Daten\nHier können Sie Ihre Kontaktdaten wie Ihren Namen, Ihre E-Mail-Adresse\nund Ihre Telefonnummer verwalten.\nZu den personenbezogenen Daten\nWenn Sie abgemeldet sind, können Sie Daten verwalten, die mit Ihrem Browser oder\nGerät verknüpft sind, z. B.:\nPersonalisierte Suche: Hier können Sie auswählen, ob Ihnen anhand Ihrer\nSuchaktivitäten relevantere Ergebnisse und Empfehlungen bereitgestellt werden\nsollen.\nYouTube-Einstellungen: Hier können Sie Ihren YouTube-Suchverlauf und Ihren\nYouTube-Wiedergabeverlauf pausieren und löschen.\nEinstellungen für Werbung: Hier können Sie Ihre Einstellungen für Werbeanzeigen\nverwalten, die Ihnen auf Google und Websites sowie in Apps von Google-\nAnzeigenpartnern präsentiert werden.\nDaten exportieren, entfernen und löschen\nSie können eine Kopie Ihrer Inhalte aus Ihrem Google-Konto exportieren, um diese zu\nsichern oder sie mit einem anderen Dienst als den von Google zu nutzen.\nDaten exportieren\nSie können auch gemäß dem anwendbaren Recht eine Anfrage zum Entfernen von\nInhalten aus bestimmten Google-Diensten stellen.\nZum Löschen Ihrer Daten haben Sie folgende Möglichkeiten:\nInhalte aus bestimmten Google-Diensten löschen\nBestimmte Elemente in Ihrem Konto unter Verwendung von Meine Aktivitäten suchen und dann löschen\nBestimmte Google-Produkte einschließlich Ihrer mit diesen Produkten verknüpften Daten löschen\nGesamtes Google-Konto löschen\nDaten löschen\nUnd schließlich können Sie über den Kontoinaktivität-Manager auch einer anderen\nPerson Zugriff zu Teilen Ihres Google-Kontos gewähren, falls Sie unerwarteterweise\nnicht in der Lage sind, Ihr Konto zu verwenden.\nEs gibt auch andere Möglichkeiten festzulegen, welche Daten von Google erhoben\nwerden dürfen, und zwar unabhängig davon, ob Sie in einem Google-Konto\nangemeldet sind oder nicht. Hierzu zählen:\nBrowsereinstellungen: Ihr Browser lässt sich beispielsweise so konfigurieren,\ndass angezeigt wird, wenn von Google ein Cookie in Ihrem Browser gesetzt\nwurde. Ihr Browser lässt sich auch so konfigurieren, dass alle Cookies von einer\nbestimmten Domain oder allen Domains blockiert werden. Beachten Sie aber,\ndass Cookies erforderlich sind, damit unsere Dienste ordnungsgemäß\nfunktionieren und etwa Ihre Spracheinstellungen gespeichert werden können.\nGeräteeinstellungen: Ihr Gerät verfügt möglicherweise über Steuerelemente, mit\ndenen Sie festlegen können, welche Daten wir erheben. So können Sie\nbeispielsweise auf Ihrem Android-Gerät Standorteinstellungen anpassen.\nDatenweitergabe\nDatenweitergabe durch Sie\nIn vielen unserer Dienste können Sie Daten mit anderen Personen teilen. Sie\nbestimmen in diesem Fall, wie dabei vorgegangen werden soll. Beispielsweise können\nSie entscheiden, welche Ihrer Videos auf YouTube öffentlich geteilt werden und\nwelche vertraulich bleiben sollen. Bedenken Sie, dass, wenn Sie Daten öffentlich teilen,\nSuchmaschinen, einschließlich der Google-Suche, möglicherweise auf diese Daten\nzugreifen können.\nWenn Sie angemeldet sind und mit Google-Diensten interagieren, z. B. wenn Sie\nKommentare zu einem YouTube-Video verfassen oder einen Song bei Play\nrezensieren, werden Ihr Name und Ihr Foto neben Ihrer Aktivität angezeigt. Diese\nDaten werden wir gegebenenfalls entsprechend Ihren Einstellungen für \"Soziale\nEmpfehlungen\" auch in Werbeanzeigen veröffentlichen.\nDatenweitergabe durch Google\nWir geben personenbezogene Daten an Unternehmen, Organisationen oder Personen\naußerhalb von Google nur in folgenden Fällen weiter:\nMit Ihrer Einwilligung\nWir geben personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre\nEinwilligung dazu haben. Wenn Sie beispielsweise Google Home verwenden, um eine\nTischreservierung vorzunehmen, holen wir Ihre Einwilligung ein, bevor wir dem\nRestaurant Ihren Namen oder Ihre Telefonnummer weitergeben. Vor der Weitergabe\nvon vertraulichen personenbezogenen Daten holen wir Ihre ausdrückliche Einwilligung\nein.\nIm Falle von Domain-Administratore\nWenn Sie Mitglied einer Bildungseinrichtung oder Mitarbeiter einer Organisation sind,\ndie Google-Dienste nutzt, wie etwa die G Suite, haben der Domainadministrator und\nReseller, die Ihr Konto verwalten, Zugriff auf Ihr Google-Konto. Diese haben folgende\nMöglichkeiten:\nAuf die in Ihrem Konto gespeicherten Daten zugreifen und diese speichern, z. B.\nIhre E-Mail\nStatistiken zu Ihrem Konto ansehen, z. B. wie viele Apps Sie installieren\nDas Passwort für Ihr Konto ändern\nDen Zugriff auf Ihr Konto sperren oder beenden\nIhre Kontodaten abrufen, um anwendbare Gesetze, Vorschriften und gerichtliche\nVerfahren einzuhalten oder einer vollstreckbaren behördlichen Anordnung\nnachzukommen\nIhre Möglichkeiten einschränken, Daten oder Datenschutzeinstellungen zu\nlöschen oder zu bearbeiten\nFür die Verarbeitung durch andere Stellen\nWir stellen personenbezogene Daten unseren verbundenen Unternehmen, anderen\nvertrauenswürdigen Unternehmen oder Personen zur Verfügung, die diese in unserem\nAuftrag verarbeiten. Dies geschieht auf der Grundlage unserer Weisungen und im\nEinklang mit unserer Datenschutzerklärung sowie anderen geeigneten \nVertraulichkeits- und Sicherheitsmaßnahmen. Beispielsweise nutzen wir\nDienstanbieter zur Unterstützung beim Kundensupport.\nAus rechtlichen Gründen\nWir geben personenbezogene Daten an Stellen außerhalb von Google weiter, wenn wir\nnach Treu und Glauben davon ausgehen dürfen, dass der Zugriff auf diese Daten oder\nihre Nutzung, Aufbewahrung oder Offenlegung vernünftigerweise notwendig ist, um\nfolgende Zwecke zu erfüllen:\nGeltende Gesetze, Vorschriften oder gerichtliche Verfahren einzuhalten oder\neiner vollstreckbaren behördlichen Anordnung nachzukommen. In unserem\nTransparenzbericht veröffentlichen wir Daten über die Anzahl und die Art der\nAnfragen, die wir von Behörden erhalten.\nGeltende Nutzungsbedingungen durchzusetzen, einschließlich der Untersuchung\nmöglicher Verstöße.\nBetrug, Sicherheitsmängel oder technische Probleme aufzudecken, zu verhindern\noder anderweitig zu bekämpfen.\nDie Rechte, das Eigentum oder die Sicherheit von Google, unserer Nutzer oder der\nÖffentlichkeit vor Schaden zu schützen, soweit gesetzlich zulässig oder\nerforderlich.\nWir geben möglicherweise nicht personenbezogene Daten an die Öffentlichkeit und\nunsere Partner, beispielsweise an Publisher, Werbetreibende, Entwickler oder\nRechteinhaber, weiter. Beispielsweise veröffentlichen wir Daten, um Trends bezüglich\nder allgemeinen Nutzung unserer Dienste aufzuzeigen. Darüber hinaus erlauben wir\nbestimmten Partnern, Daten von Ihrem Browser oder Gerät unter Verwendung ihrer\neigenen Cookies oder ähnlicher Technologien zu Werbe- und Messzwecken zu\nerheben.\nFalls Google an einem Unternehmenszusammenschluss, einem Unternehmenserwerb\noder einem Verkauf von Vermögensgegenständen beteiligt ist, werden wir weiterhin\ndafür sorgen, die Vertraulichkeit Ihrer personenbezogenen Daten sicherzustellen.\nZusätzlich werden wir betroffene Nutzer benachrichtigen, bevor personenbezogene\nDaten übermittelt oder Gegenstand einer anderen Datenschutzerklärung werden.\nGewährleistung der Datensicherheit\nWir integrieren Sicherheitsfunktionen in unsere\nDienste, um Ihre Daten zu schützen\nAlle Google-Produkte sind mit starken Sicherheitsfunktionen ausgestattet, die Ihre\nDaten fortwährend schützen. Die Erkenntnisse, die wir durch die Bereitstellung unserer\nDienste gewinnen, helfen uns, Bedrohungen der Sicherheit automatisch abzufangen\nund zu verhindern, dass Sie mit solchen konfrontiert werden. Wenn wir tatsächlich ein\nRisiko erkennen, von dem Sie unserer Meinung nach erfahren sollten, benachrichtigen\nwir Sie und schlagen Ihnen Maßnahmen vor, um sich besser zu schützen.\nWir bemühen uns intensiv darum, Sie und Google vor unbefugtem Zugriff auf Daten\noder vor unbefugter Veränderung, Offenlegung oder Vernichtung von Daten zu\nschützen. Unsere Maßnahmen umfassen Folgendes:\nWir verschlüsseln Ihre Daten, um sie während der Übertragung zu schützen.\nWir bieten eine Vielzahl von Sicherheitsfunktionen, wie Safe Browsing,\nSicherheitscheck und die Bestätigung in zwei Schritten, um Ihnen zu helfen, Ihr\nKonto zu schützen.\nWir überprüfen laufend unsere Praktiken zur Erhebung, Speicherung und\nVerarbeitung von Daten, einschließlich der physischen Sicherheitsmaßnahmen,\num unsere Systeme vor unbefugtem Zugriff zu schützen.\nDer Zugriff auf personenbezogene Daten wird durch uns beschränkt und nur\nMitarbeitern, Auftragnehmern und Kundenservicemitarbeitern von Google\ngewährt, die diese Daten für die weitere Datenverarbeitung unbedingt benötigen.\nAlle Personen mit diesen Zugriffsrechten sind strengen\nVertraulichkeitsverpflichtungen unterworfen und können disziplinarischen\nMaßnahmen unterzogen oder entlassen werden, falls sie diese Verpflichtungen\nnicht einhalten.\nLöschen und Exportieren Ihrer Daten\nSie können Ihre Daten jederzeit exportieren oder\naus Ihrem Google-Konto löschen.\nSie können eine Kopie Ihrer Inhalte aus Ihrem Google-Konto exportieren, um diese zu\nsichern oder sie mit einem anderen Dienst als den von Google zu nutzen.\nDaten exportieren\nZum Löschen Ihrer Daten haben Sie folgende Möglichkeiten:\nInhalte aus bestimmten Google-Diensten löschen\nBestimmte Elemente in Ihrem Konto unter Verwendung von Meine Aktivitäten suchen und dann löschen\nBestimmte Google-Produkte einschließlich Ihrer mit diesen Produkten verknüpften Daten löschen\nGesamtes Google-Konto löschen\nDaten löschen\nIn manchen Fällen behalten wir Daten für eine begrenzte Zeit zurück, wenn dies zu\nlegitimen Geschäftszwecken oder aus rechtlichen Gründen nötig ist. Sie können über\ndie Dauer der Datenspeicherung bei Google lesen, u. a. darüber wie lange es dauert,\nbis Ihre Daten gelöscht werden.\nWir bemühen uns, mithilfe unserer Dienste Daten vor dem irrtümlichen oder\nmutwilligen Löschen zu schützen. Aus diesem Grund kann es zwischen der von Ihnen\ndurchgeführten Löschung von Inhalten und dem Zeitpunkt, zu dem Kopien aus\nunseren aktiven Systemen und Sicherungssystemen gelöscht werden, zu\nVerzögerungen kommen.\nCompliance und Zusammenarbeit mit Regierungsbehörden\nWir überprüfen die vorliegende Datenschutzerklärung regelmäßig und verarbeiten Ihre\nDaten entsprechend dieser Datenschutzerklärung.\nDatenübermittlung\nWir betreiben Server auf der ganzen Welt. Deshalb können Ihre Daten auf Servern\nverarbeitet werden, die außerhalb des Landes liegen, in dem Sie leben.\nDatenschutzgesetze sind von Land zu Land unterschiedlich und einige bieten mehr\nSchutz als andere. Unabhängig davon, wo Ihre Daten verarbeitet werden, wenden wir\ngrundsätzlich dieselben, in der Datenschutzerklärung beschriebenen,\nSchutzmaßnahmen an. Ferner halten wir bestimmte rechtliche Rahmenbedingungen\nzu Datenübermittlungen ein, beispielsweise die Privacy Shield-Abkommen zwischen\nder EU und den USA und zwischen der Schweiz und den USA.\nSobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person,\ndie die Beschwerde eingereicht hat, Kontakt auf. Wir arbeiten mit den jeweils zuständigen\nRegulierungsbehörden einschließlich der lokalen Datenschutzaufsichtsbehörden\nzusammen, um alle Beschwerden bezüglich der Übermittlung Ihrer Daten beizulegen,\ndie wir nicht direkt mit Ihnen klären können.\nAnforderungen in Europa\nWenn das Datenschutzrecht der Europäischen Union (EU) für die Verarbeitung Ihrer\nDaten Anwendung findet, stellen wir Ihnen die in dieser Datenschutzerklärung\nbeschriebenen Steuerungsmöglichkeiten zur Verfügung, damit Sie Ihr Recht ausüben\nkönnen, Auskunft über Ihre Daten zu erhalten, sie zu aktualisieren, zu löschen und\nderen Verarbeitung einzuschränken. Darüber hinaus haben Sie das Recht, der\nVerarbeitung Ihrer Daten zu widersprechen oder Ihre Daten in einen anderen Dienst zu\nexportieren.\nBei Nutzern, die ihren gewöhnlichen Aufenthalt im Europäischen Wirtschaftsraum oder\nder Schweiz haben, ist Google Ireland Limited der für Ihre Daten zuständige\nVerantwortliche, sofern dies in den Datenschutzhinweisen eines bestimmten Dienstes\nnicht anders angegeben ist. Google Ireland Limited ist demnach das mit Google\nverbundene Unternehmen, welches für die Verarbeitung Ihrer Daten und die Einhaltung\nder anwendbaren Datenschutzgesetze verantwortlich ist.\nWir verarbeiten Ihre Daten zu den in dieser Datenschutzerklärung beschriebenen\nZwecken auf der Basis der folgenden rechtlichen Grundlagen:\nMit Ihrer Einwilligung\nWir ersuchen Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte\nZwecke, und Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen.\nBeispielsweise ersuchen wir Sie um Ihre Einwilligung, Ihnen personalisierte Dienste\nwie Werbeanzeigen bereitzustellen. Außerdem ersuchen wir Sie um Ihre Einwilligung,\nIhre Stimme und Audioaktivitäten zu Zwecken der Spracherkennung erheben zu\ndürfen. Diese Einstellungen können Sie in Ihrem Google-Konto verwalten.\nAus berechtigten Interessen\nWir verarbeiten Ihre Daten, soweit wir oder Dritte ein berechtigtes Interessen daran\nhaben, dies zu tun. Dabei wenden wir geeignete Maßnahmen zum Schutz Ihrer Daten\nan. Dies bedeutet, dass wir Ihre Daten u. a. für Folgendes verarbeiten:\nBereitstellung, Wartung und Verbesserung unserer Dienste, um die\nAnforderungen unserer Nutzer zu erfüllen\nEntwicklung neuer Produkte und Funktionen, die für unsere Nutzer hilfreich sind\nEinblicke darüber, wie Personen unsere Dienste nutzen, um die Leistung unserer\nDienste zu gewährleisten und zu verbessern\nPersonalisierung unserer Dienste, um Ihnen ein besseres Nutzererlebnis zu\nbieten\nMarketing, um Nutzer über unsere Dienste zu informieren\nWerbung, um viele unserer Dienste Nutzern kostenlos zur Verfügung stellen zu\nkönnen\nAufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug,\nSicherheitsmängeln oder technischen Problemen\nSchutz der Rechte, des Eigentums oder der Sicherheit von Google, unserer Nutzer\noder der Öffentlichkeit vor Schaden, soweit dies gesetzlich zulässig oder\nerforderlich ist, einschließlich der Offenlegung von Informationen gegenüber\nBehörden\nDurchführen von Recherchen, mit der unsere Dienste für unsere Nutzer\nverbessert werden können und die für die Öffentlichkeit von Vorteil sind\nEinhalten von Verpflichtungen gegenüber unseren Partnern wie Entwicklern und\nRechteinhabern\nDurchsetzen rechtlicher Forderungen, einschließlich der Untersuchung möglicher\nVerletzungen anwendbarer Nutzungsbedingungen\nBei der Bereitstellung eines Dienstes\nWir verarbeiten Ihre Daten, um Ihnen einen Dienst bereitzustellen, den Sie im Rahmen\neines Vertrags angefordert haben. Beispielsweise verarbeiten wir Ihre\nZahlungsinformationen, wenn Sie zusätzlichen Speicherplatz für Google Drive kaufen.\nBei der Erfüllung rechtlicher Verpflichtungen\nWir verarbeiten Ihre Daten, wenn wir dazu eine rechtliche Verpflichtung haben, z. B.\ninfolge eines gerichtlichen Verfahrens oder eines vollstreckbaren behördlichen\nErsuchens.\nWenn Sie Fragen haben, können Sie sich mit Google und unserer\nDatenschutzabteilung in Verbindung setzen. Zusätzlich können Sie Ihre lokale\nDatenschutzaufsichtsbehörde kontaktieren, wenn Sie Bedenken bezüglich Ihrer Rechte\ngemäß dem örtlich geltenden Recht haben.\nInformationen über diese Datenschutzerklärung\nAnwendungsbereich dieser Datenschutzerklärung\nDiese Datenschutzerklärung gilt für alle Dienste, die von Google LLC und seinen \nerbundenen Unternehmen angeboten werden, einschließlich YouTube, Android und\nDienste, die auf Websites Dritter bereitgestellt werden, wie Werbedienste. Diese\nDatenschutzerklärung gilt nicht für Dienste, für die gesonderte Datenschutzrichtlinien\ngelten und die die vorliegende Datenschutzerklärung nicht beinhalten.\nDiese Datenschutzerklärung gilt nicht für\nden Umgang mit Daten durch andere Unternehmen und Organisationen, die\nunsere Dienste bewerben,\nDienste, die von anderen Unternehmen oder Personen angeboten werden,\neinschließlich Produkten oder Websites, die möglicherweise Google-Dienste\nbeinhalten, sowie Dienste, die Ihnen in Suchergebnissen angezeigt werden oder\ndie über einen Link in unseren Diensten erreicht werden können.\nÄnderungen an dieser Datenschutzerklärung\nWir ändern diese Datenschutzerklärung von Zeit zu Zeit. Wir werden Ihre Rechte im\nRahmen dieser Datenschutzerklärung ohne Ihre ausdrückliche Zustimmung nicht\neinschränken. Wir geben immer das Veröffentlichungsdatum der letzten Änderungen\nan und bieten Ihnen Zugriff auf archivierte Versionen. Bei wesentlichen Änderungen\nweisen wir deutlicher auf diese hin. So werden Sie zum Beispiel bei bestimmten\nDiensten per E-Mail über eine Änderung der Datenschutzerklärung benachrichtigt.\nWeitere Informationen zum Datenschutz\nGoogle-Dienste\nDie folgenden Datenschutzhinweise bieten zusätzliche Informationen zu manchen Google-Diensten:\nChrome und das Chrome-Betriebssystem\nPlay Bücher\nPayments\nFiber\nGoogle Fi\nG Suite for Education\nYouTube Kids\nMit Family Link verwaltete Google-Konten für Kinder unter 13 Jahren (in einigen\nLändern gilt ein anderes Mindestalter für Google-Konten)\nWeitere hilfreiche Ressourcen\nDie folgenden Links bieten hilfreiche Ressourcen, um weitere Informationen über\nunsere Praktiken und Datenschutzeinstellungen zu erhalten.\nIhr Google-Konto verfügt über zahlreiche Einstellungen, mit denen Sie Ihr Konto\nverwalten können.\nDer Privatsphärecheck führt Sie durch die wichtigsten\nDatenschutzeinstellungen für Ihr Google-Konto.\nIm Google Sicherheitscenter erhalten Sie Informationen zu unseren\nintegrierten Sicherheitsmaßnahmen und Datenschutzeinstellungen. Außerdem\nkönnen Sie hier die Tools kennenlernen, mit denen Sie innerhalb Ihrer Familie\nGrundregeln für die Nutzung digitaler Onlinemedien aufstellen können.\nDer Abschnitt Datenschutz & Nutzungsbedingungen bietet weitere\nHintergrundinformationen zu dieser Datenschutzerklärung und zu unseren\nNutzungsbedingungen.\nUnter Technologien finden Sie weitere Informationen zu folgenden Themen:\nSo verwendet Google Cookies\nDie für Werbung verwendeten Technologien\nDie Verwendung von Mustererkennung durch Google, um beispielsweise Gesichter in Fotos zu erkennen\nWie wir Daten von Websites oder Apps verwenden, auf bzw. in denen unsere Dienste genutzt werden\n\n"
+}

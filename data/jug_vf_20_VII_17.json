@@ -1,0 +1,659 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 58,
+            "start": 56,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 64,
+            "start": 59,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landschaftsschutzverordnung",
+            "end": 124,
+            "start": 97,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 137,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 157,
+            "start": 155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 173,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 205,
+            "start": 204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 215,
+            "start": 206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 477,
+            "start": 471,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 542,
+            "start": 532,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 552,
+            "start": 551,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 578,
+            "start": 577,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 814,
+            "start": 811,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 824,
+            "start": 823,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 850,
+            "start": 849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 862,
+            "start": 851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfassungsrecht",
+            "end": 965,
+            "start": 949,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 976,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27164",
+            "end": 996,
+            "start": 991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1002,
+            "start": 997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 1032,
+            "start": 1022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 1091,
+            "start": 1082,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 1112,
+            "start": 1093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1114,
+            "start": 1113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1117,
+            "start": 1116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstößt",
+            "end": 1424,
+            "start": 1416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1427,
+            "start": 1426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 1643,
+            "start": 1642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beeinträchtigen",
+            "end": 1841,
+            "start": 1826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 1996,
+            "start": 1990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hervorzurufen",
+            "end": 2260,
+            "start": 2247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2660,
+            "start": 2657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getreten",
+            "end": 2764,
+            "start": 2756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2768,
+            "start": 2766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2771,
+            "start": 2770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3090,
+            "start": 3087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3093,
+            "start": 3092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergebe",
+            "end": 3294,
+            "start": 3288,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 3601,
+            "start": 3591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3757,
+            "start": 3751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 4058,
+            "start": 4050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4061,
+            "start": 4060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "komme",
+            "end": 4421,
+            "start": 4416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existiere",
+            "end": 4621,
+            "start": 4612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4760,
+            "start": 4754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 4966,
+            "start": 4960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gezeigt",
+            "end": 5142,
+            "start": 5135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5243,
+            "start": 5237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausschließe",
+            "end": 5587,
+            "start": 5576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geworden",
+            "end": 5703,
+            "start": 5695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 5973,
+            "start": 5968,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5976,
+            "start": 5975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nichtig",
+            "end": 6045,
+            "start": 6038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auffindbar",
+            "end": 6095,
+            "start": 6085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 6369,
+            "start": 6368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 6466,
+            "start": 6463,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Oberbayern",
+            "end": 6624,
+            "start": 6614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 6818,
+            "start": 6811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7015,
+            "start": 7012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7160,
+            "start": 7157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BNatSchG",
+            "end": 7224,
+            "start": 7216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 7437,
+            "start": 7431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herauszulesen",
+            "end": 7535,
+            "start": 7522,
+            "type": "SBD"
+        },
+        {
+            "annotation": "orientieren",
+            "end": 7624,
+            "start": 7613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 7749,
+            "start": 7744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 7874,
+            "start": 7871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bayerns",
+            "end": 7988,
+            "start": 7981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 7993,
+            "start": 7990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 7996,
+            "start": 7995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beteiligt",
+            "end": 8060,
+            "start": 8051,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 8063,
+            "start": 8062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgesehen",
+            "end": 8130,
+            "start": 8121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8133,
+            "start": 8132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 8204,
+            "start": 8194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8208,
+            "start": 8206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 8385,
+            "start": 8378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 8487,
+            "start": 8481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 8627,
+            "start": 8618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befasst",
+            "end": 8756,
+            "start": 8749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 9025,
+            "start": 9018,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorhanden",
+            "end": 9202,
+            "start": 9193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "IV",
+            "end": 9206,
+            "start": 9204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 9210,
+            "start": 9208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unzulässig",
+            "end": 9242,
+            "start": 9232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 9246,
+            "start": 9244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschränken",
+            "end": 9430,
+            "start": 9418,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9549,
+            "start": 9548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landesrechts",
+            "end": 9663,
+            "start": 9651,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9898,
+            "start": 9895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9902,
+            "start": 9900,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10205,
+            "start": 10204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeht",
+            "end": 10491,
+            "start": 10484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10863,
+            "start": 10860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10867,
+            "start": 10865,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11158,
+            "start": 11157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 11258,
+            "start": 11254,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11403,
+            "start": 11402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 11460,
+            "start": 11453,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11464,
+            "start": 11462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Landschaftsschutzverordnung",
+            "end": 11588,
+            "start": 11561,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11930,
+            "start": 11929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehlt",
+            "end": 12067,
+            "start": 12062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 12071,
+            "start": 12069,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12423,
+            "start": 12420,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12676,
+            "start": 12675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12888,
+            "start": 12885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "V",
+            "end": 12891,
+            "start": 12890,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 12895,
+            "start": 12893,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12997,
+            "start": 12996,
+            "type": "SBD"
+        }
+    ],
+    "Text": "VerfGH München, Entscheidung v. 29.10.2018 – Vf. 20-VII-17\nTitel:\nUnzulässige Popularklage gegen Landschaftsschutzverordnung\nNormenketten:\nBayNatSchG Art. 12\nBV Art. 98 S. 4\nVfGHG Art. 55 Abs. 1 S. 1, S. 2\nLeitsätze:\n1. Zu den prozessualen Voraussetzungen der Popularklage gehört, dass der Antragsteller die\nangefochtenen Rechtsvorschriften bezeichnen und angeben muss, inwiefern sie nach seiner\nMeinung zu einer Grundrechtsnorm der bayerischen Verfassung in Widerspruch stehen.\nSummarische, nicht präzisierte Grundrechtsrügen sind unzulässig. (Rn. 14) (redaktioneller Leitsatz)\n2. Wird im Rahmen einer Popularklage eine zulässige Grundrechtsrüge nicht erhoben, ist dem\nVerfassungsgerichtshof der Weg zu der Überprüfung versperrt, ob die angefochtene Rechtsnorm\naus Gründen objektiven Verfassungsrechts nichtig ist. (Rn. 16) (redaktioneller Leitsatz)\nSchlagworte:\nPopularklage, Landschaftsschutzverordnung, Zulässigkeit, Grundrechtsrüge, objektives Verfassungsrecht\nFundstelle:\nBeckRS 2018, 27164\nTenor\n1. Der Antrag wird abgewiesen.\n2. Dem Antragsteller wird eine Gebühr von 750 € auferlegt.\nEntscheidungsgründe\nI.\n1\nDie Popularklage betrifft die Frage, ob die Verordnung des Landkreises Fürstenfeldbruck über den Schutz\nvon Landschaftsteilen (Landschaftsschutzverordnung) vom 8. Oktober 1979 (Amtsblatt des Landratsamtes\nFürstenfeldbruck Nr. 33 vom 6. Dezember 1979 S. 193) gegen Normen der Bayerischen Verfassung\nverstößt.\n2\n§ 1 der Landschaftsschutzverordnung stellt verschiedene Landschaftsteile des Landkreises\nFürstenfeldbruck als Landschaftsschutzgebiet unter Schutz, u. a. das Gebiet „Untere Amper, Graßlfinger\nMoos und Olchinger See“. Gemäß ihrem § 2 sind in den in § 1 bezeichneten Landschaftsschutzgebieten\nMaßnahmen verboten, die den Naturhaushalt schädigen, das Landschaftsbild verunstalten oder den\nNaturgenuss beeinträchtigen; verboten sind auch Maßnahmen, welche die vom Bayerischen\nNaturschutzgesetz oder von dieser Verordnung missbilligten Folgen mit Sicherheit erwarten lassen. Gemäß\n§ 3 der Landschaftsschutzverordnung bedarf der schriftlichen Erlaubnis des Landratsamts Fürstenfeldbruck\n(untere Naturschutzbehörde), wer im Landschaftsschutzgebiet Maßnahmen durchführen will, die geeignet\nsind, die in § 2 genannten Wirkungen hervorzurufen. Von den Verboten des § 2 der\nLandschaftsschutzverordnung kann gemäß ihrem § 4 in Einzelfällen auf Antrag Befreiung erteilt werden,\nwenn überwiegende Gründe des allgemeinen Wohls die Befreiung erfordern oder der Vollzug der\nBestimmung zu einer offenbar nicht beabsichtigten Härte führen würde und die Abweichung mit den\nöffentlichen Belangen im Sinn des Bayerischen Naturschutzgesetzes vereinbar ist. Die\nLandschaftsschutzverordnung ist nach ihrem § 10 am Tag nach ihrer Bekanntmachung in Kraft getreten.\nII.\n3\nMit seiner am 8. Dezember 2017 eingegangenen Popularklage begehrt der Antragsteller festzustellen, dass\ndie Landschaftsschutzverordnung im Bereich des Graßlfinger Mooses, insbesondere im Bereich der\nB.straße und seiner im Einzelnen bezeichneten Grundstücke, unwirksam (funktionslos) geworden bzw.\ninsgesamt nichtig ist.\n4\nDer Landkreis Fürstenfeldbruck gehe selbst von der Unwirksamkeit der Verordnung aus, was sich aus den\nin der Sitzungsvorlage für die Kreistagssitzung vom 10. November 1997 aufgelisteten Mängeln ergebe. Er\nhabe daher für wesentliche Bereiche der Landschaftsschutzverordnung, nämlich für die Gebiete\n„Scharwerkholz, Untere Amper, Ampermoos, Eichenbühl, Emmeringer Leiter (gemeint wohl: Leite) und\nEichenau“, neue Verordnungen erlassen und die Sammelverordnung von 1997 (richtig wohl: 1979) insoweit\naufgehoben. Lediglich für den Bereich „Graßlfinger Moos“ sei ein Neuerlass abgelehnt und auf eine Heilung\nder Mängel der Landschaftsschutzverordnung verzichtet worden. Auch das Landratsamt Fürstenfeldbruck\ngehe von der Unwirksamkeit der Landschaftsschutzverordnung aus und habe als untere\nNaturschutzbehörde gemäß Art. 12 BayNatSchG innerhalb des Schutzbereichs der\nLandschaftsschutzverordnung „Graßlfinger Moos“ verschiedene Bereiche unter besonderen Schutz gestellt.\n5\nDie Funktionslosigkeit der Landschaftsschutzverordnung im Bereich der B.straße zeige sich anhand der\nGenehmigungspraxis des Landratsamts, bei der die Landschaftsschutzverordnung angesichts der ständig\nim noch verbliebenen Bereich erteilten Genehmigungen für privilegierte und nicht privilegierte\nAußenbereichsvorhaben (faktisch) nicht mehr zur Anwendung komme. Aus dem Verhalten des\nLandratsamts dem Antragsteller gegenüber sei ebenfalls zu schließen, dass dieses davon ausgehe, dass\neine Landschaftsschutzverordnung im fraglichen Bereich nicht mehr existiere. So sei ihm gegenüber\nzunächst die Beseitigung einer Fichtenhecke im Bereich der B.straße angeordnet und gerichtlich\ndurchgefochten worden; nach Beendigung des Verfahrens sei das Landratsamt aber zum Ergebnis\ngekommen, dass die Fichtenreihe akzeptiert werden könne, wenn in einem anderen Bereich seiner\nGrundstücke Laubbäume freigestellt würden. Ein ähnlich willkürliches Verhalten habe das Landratsamt bei\nverschiedenen anderen Gelegenheiten, u. a. bei gegen ihn erlassenen Bescheiden und bei\nGerichtsverfahren, gezeigt; so sei etwa die Genehmigung für einen Reitplatz zunächst abgelehnt, später\naber doch erteilt worden. Aufgrund der dargelegten Genehmigungspraxis und der darauf beruhenden\nfortgesetzten Realisierung von Vorhaben hätten die Verhältnisse im Graßlfinger Moos im Bereich der\nB.straße in der tatsächlichen Entwicklung einen Zustand erreicht, der eine Verwirklichung des\nSchutzkonzepts der Landschaftsschutzverordnung auf unabsehbare Zeit ausschließe. Die\nLandschaftsschutzverordnung sei demnach für das Graßlfinger Moos im Bereich der B.straße funktionslos\ngeworden. Das Gericht werde durch einen Augenschein feststellen können, dass rund um die Grundstücke\ndes Antragstellers eine derart intensive bauliche Nutzung vorliege, dass der (ohnehin nicht genau geregelte)\nZweck der Landschaftsschutzverordnung nicht eingehalten werden könne.\n6\nDie Landschaftsschutzverordnung sei auch aus anderen Gründen nichtig. So sei die Originalurkunde nicht\nmehr auffindbar. Es stehe fest, dass die im Amtsblatt vom 6. Dezember 1979 bekannt gemachte und nicht\nunterschriebene Landschaftsschutzverordnung das Datum „8.10.1979“ trage, also ein Datum zehn Tage vor\nder Verabschiedung der Landschaftsschutzverordnung durch den Kreistag am „18.10.1979“. In diesem\nZusammenhang sei auch zu prüfen, ob die Verordnung wirksam bekannt gemacht worden sei. Diese sei\noffensichtlich bereits am 8. Oktober 1979 ausgefertigt worden, also vor der am 2. November 1979 erteilten\nGenehmigung der Regierung von Oberbayern. Zudem gelte für den Inhalt einer Rechtsverordnung die\ngrundsätzliche Vorgabe des Art. 80 GG analog, wonach Inhalt, Zweck und Ausmaß der erteilten\nErmächtigung im Gesetz bestimmt werden müssten. Derartige Grundsätze fänden sich auch in Art. 55 Nr. 2\nBV und im Gesetz Nr. 122 über den Erlass von Rechtsverordnungen aufgrund vormaligen Reichsrechts,\ndas am 1. April 1948 in Kraft getreten sei. Auch das Bundesnaturschutzgesetz vom 20. Dezember 1976\nschreibe in seinem § 12 Abs. 2 vor, dass der Schutzzweck in der Verordnung anzugeben sei. Gleiches gelte\nnach dem derzeit geltenden § 22 Abs. 2 BNatSchG. Die Aufnahme des Schutzzwecks in die Verordnung sei\nauch deshalb notwendig, weil sowohl § 15 BNatSchG a. F. als auch Art. 10 BayNatSchG a. F. hierfür\nalternativ verschiedene Schutzformulierungen enthalten hätten. Der Schutzzweck sei nicht aus den Ge- und\nVerboten der Landschaftsschutzverordnung herauszulesen. Die vorgesehenen Maßnahmen hätten sich\nvielmehr umgekehrt am Schutzzweck zu orientieren. Gerade anhand der Geschichte des Graßlfinger\nMooses werde deutlich, dass ein Schutzzweck sorgfältig festgelegt werden müsse. Es handle sich um eine\nLandschaft, die über 100 Jahre vom Menschen mit staatlicher Unterstützung total verändert worden sei.\nDas Graßlfinger Moos habe ca. 600 Einwohner und sei das am dichtesten besiedelte\nLandschaftsschutzgebiet Bayerns.\nIII.\n7\n1. Der Bayerische Landtag hat sich am Verfahren nicht beteiligt.\n8\n2. Die Bayerische Staatsregierung hat von einer Äußerung abgesehen.\n9\n3. Der Landkreis Fürstenfeldbruck hält die Popularklage für unzulässig.\n10\nDer Antragsteller habe schon in einer Vielzahl von Gerichtsverfahren die Unwirksamkeit bzw. die\nFunktionslosigkeit der angegriffenen Landschaftsschutzverordnung geltend gemacht. Zu diesem Zweck\nseien von ihm im Wesentlichen immer wieder die gleichen Argumente vorgebracht worden. Es werde in\ndiesem Zusammenhang auf den Beschluss des Bayerischen Verwaltungsgerichtshofs vom 14. November\n2005 Az. 9 ZB 04.1834 verwiesen. In diesem Beschluss habe sich der Verwaltungsgerichtshof ausführlich\nmit der Gültigkeit der Landschaftsschutzverordnung befasst. Parallel zur Popularklage habe der\nAntragsteller aktuell mit Schreiben vom 10. Januar 2018 eine Klage zum Bayerischen Verwaltungsgericht\nMünchen mit dem Ziel der Feststellung der Funktionslosigkeit der Landschaftsschutzverordnung im Bereich\nseiner Grundstücke erhoben. Wegen des langen Zeitraums seit dem Erlass der ursprünglichen\nLandschaftsschutzverordnung seien die Unterlagen zum damaligen Inschutznahmeverfahren nur noch zum\nTeil vorhanden.\nIV.\n11\nDie Popularklage ist unzulässig.\n12\n1. Nach Art. 98 Satz 4 BV hat der Verfassungsgerichtshof Gesetze und Verordnungen für nichtig zu\nerklären, die ein Grundrecht der Bayerischen Verfassung verfassungswidrig einschränken. Die\nVerfassungswidrigkeit kann jedermann durch Beschwerde (Popularklage) geltend machen (Art. 55 Abs. 1\nSatz 1 VfGHG). Gesetze und Verordnungen im Sinn des Art. 98 Satz 4 BV sind alle Rechtsvorschriften des\nbayerischen Landesrechts; dazu zählt auch die angegriffene Verordnung des Landkreises Fürstenfeldbruck\nüber den Schutz von Landschaftsteilen (Landschaftsschutzverordnung) vom 8. Oktober 1979, die im vom\nAntragsteller angegriffenen Bereich nicht aufgehoben ist.\n13\nAllerdings unterliegen Rechtsvorschriften der Normenkontrolle nur, wenn nicht auszuschließen ist, dass sie\nnoch von Bedeutung sind, wenn also ein objektives -nicht nur theoretisches - Interesse an der Feststellung\nihrer Vereinbarkeit mit der Verfassung besteht (VerfGH vom 7.8.2012 VerfGHE 65, 143/149). Daran\nkönnten Zweifel bestehen, weil der Antragsteller selbst von der Funktionslosigkeit der angegriffenen\nLandschaftsschutzverordnung im maßgeblichen Bereich des Graßlfinger Mooses, d. h. also von ihrem\nAußerkrafttreten (vgl. VerfGH vom 13.7.1988 VerfGHE 41, 69/76 m. w. N.), ausgeht. Vorliegend ergibt sich\naber aus der Stellungnahme des Landkreises Fürstenfeldbruck sowie aus zahlreichen vom Antragsteller\nvorgelegten Unterlagen aus neuerer Zeit, dass der Landkreis bzw. das Landratsamt Fürstenfeldbruck weiter\nvon der Gültigkeit der Landschaftsschutzverordnung ausgeht und sie seinen Entscheidungen zugrunde legt,\ndiese also noch rechtlich relevant ist.\n14\n2. Zu den prozessualen Voraussetzungen der Popularklage gehört, dass der Antragsteller die\nangefochtenen Rechtsvorschriften bezeichnen und angeben muss, inwiefern sie nach seiner Meinung zu\neiner Grundrechtsnorm der Bayerischen Verfassung in Widerspruch stehen (Art. 55 Abs. 1 Satz 2 VfGHG).\nGreift er mehrere Rechtsvorschriften an, so muss dies für jede einzelne von ihnen ersichtlich sein.\nSummarische, nicht präzisierte Grundrechtsrügen sind unzulässig (ständige Rechtsprechung; vgl. VerfGH\nvom 19.4.1985 VerfGHE 38, 43/45 m. w. N.). Diese Voraussetzung hat der Antragsteller nicht erfüllt.\n15\nDer Antragsteller bezeichnet bereits nicht die einzelnen von ihm angegriffenen Vorschriften der\nLandschaftsschutzverordnung. Es kann hier offenbleiben, unter welchen Voraussetzungen es ausreichen\nmag, dass mit der Popularklage ausnahmsweise nicht genau bezeichnete Einzelregelungen, sondern etwa\neine Rechtsverordnung oder Teile von ihr insgesamt angefochten werden können (vgl. dazu z. B. VerfGH\nvom 23.12.1971 VerfGHE 24, 199/215; vom 29.4.1976 VerfGHE 29, 53/56). Denn die Zulässigkeit der\nPopularklage scheitert im vorliegenden Fall auch daran, dass es an der Rüge einer Grundrechtsverletzung\nfehlt.\n16\nDer Antragsteller rügt nur, die Landschaftsschutzverordnung sei aufgrund der tatsächlichen Entwicklung im\nBereich seiner Grundstücke funktionslos geworden bzw. insgesamt nichtig, weil es an einer wirksamen\nAusfertigung oder Bekanntgabe bzw. Genehmigung der Regierung von Oberbayern fehle und zudem der\nSchutzzweck in der Verordnung nicht angegeben sei. Damit macht er keine Verletzung von\nGrundrechtsnormen geltend, sondern allenfalls Verstöße gegen objektives Verfassungsrecht (vgl. VerfGH\nvom 9.8.2011 VerfGHE 64, 136/142), insbesondere die Verletzung des Rechtsstaatsprinzips (Art. 3 Abs. 1\nSatz 1 BV). Mangels einer zulässigen Grundrechtsrüge ist dem Verfassungsgerichtshof der Weg zu der\nÜberprüfung versperrt, ob die angefochtene Landschaftsschutzverordnung aus Gründen objektiven\nVerfassungsrechts nichtig ist.\nV.\n17\nEs ist angemessen, dem Antragsteller eine Gebühr von 750 € aufzuerlegen (Art. 27 Abs. 1 Satz 2 VfGHG).\n\n"
+}

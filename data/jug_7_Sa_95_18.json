@@ -1,0 +1,857 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschlechterdiskriminierung",
+            "end": 84,
+            "start": 57,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 97,
+            "start": 85,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 118,
+            "start": 117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 151,
+            "start": 150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 195,
+            "start": 194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 223,
+            "start": 222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 232,
+            "start": 224,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 426,
+            "start": 425,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 438,
+            "start": 427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Behandlung",
+            "end": 612,
+            "start": 602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 623,
+            "start": 613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 680,
+            "start": 678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 691,
+            "start": 681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43031",
+            "end": 711,
+            "start": 706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 717,
+            "start": 712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 845,
+            "start": 831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 878,
+            "start": 868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 890,
+            "start": 880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 892,
+            "start": 891,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGG",
+            "end": 953,
+            "start": 950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 956,
+            "start": 955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 1026,
+            "start": 1024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1029,
+            "start": 1028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1089,
+            "start": 1087,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1458,
+            "start": 1457,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1461,
+            "start": 1460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sportlehrerin",
+            "end": 1531,
+            "start": 1518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1534,
+            "start": 1533,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mit",
+            "end": 1600,
+            "start": 1597,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Oberstufe",
+            "end": 1685,
+            "start": 1676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1688,
+            "start": 1687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "forderte",
+            "end": 2040,
+            "start": 2032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2043,
+            "start": 2042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 2109,
+            "start": 2107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnte",
+            "end": 2526,
+            "start": 2520,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2529,
+            "start": 2528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugestellt",
+            "end": 2582,
+            "start": 2572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 2585,
+            "start": 2584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 2679,
+            "start": 2675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 2683,
+            "start": 2681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verstoßen",
+            "end": 2782,
+            "start": 2773,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerechtfertigt",
+            "end": 2876,
+            "start": 2862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuwider",
+            "end": 2952,
+            "start": 2945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bilden",
+            "end": 3028,
+            "start": 3022,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3098,
+            "start": 3092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3102,
+            "start": 3100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschlechtsneutral",
+            "end": 3184,
+            "start": 3166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 3247,
+            "start": 3233,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 3351,
+            "start": 3345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berühre",
+            "end": 3435,
+            "start": 3428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Armbereich",
+            "end": 3528,
+            "start": 3518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rolle",
+            "end": 3685,
+            "start": 3680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 3873,
+            "start": 3868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 3999,
+            "start": 3996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrete",
+            "end": 4120,
+            "start": 4113,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammen",
+            "end": 4220,
+            "start": 4212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorkomme",
+            "end": 4366,
+            "start": 4358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 4370,
+            "start": 4368,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 4484,
+            "start": 4479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 4488,
+            "start": 4486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 4768,
+            "start": 4762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5042,
+            "start": 5038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 5046,
+            "start": 5044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 5198,
+            "start": 5184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 5249,
+            "start": 5236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 5253,
+            "start": 5251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 5464,
+            "start": 5459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechnen",
+            "end": 5581,
+            "start": 5574,
+            "type": "SBD"
+        },
+        {
+            "annotation": "riskieren",
+            "end": 5701,
+            "start": 5692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 5769,
+            "start": 5761,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 5975,
+            "start": 5970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterrichtet",
+            "end": 6111,
+            "start": 6099,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterrichtet",
+            "end": 6202,
+            "start": 6190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6206,
+            "start": 6204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anfassen",
+            "end": 6384,
+            "start": 6376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreten",
+            "end": 6491,
+            "start": 6483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 6495,
+            "start": 6493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 6656,
+            "start": 6648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 6660,
+            "start": 6658,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stattgefunden",
+            "end": 6704,
+            "start": 6691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 6725,
+            "start": 6706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 6728,
+            "start": 6726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 6754,
+            "start": 6746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 6892,
+            "start": 6887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 6896,
+            "start": 6894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 6925,
+            "start": 6914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 6929,
+            "start": 6927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGG",
+            "end": 7031,
+            "start": 7028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 7035,
+            "start": 7033,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7153,
+            "start": 7150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 7157,
+            "start": 7155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 7387,
+            "start": 7376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 7391,
+            "start": 7389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGG",
+            "end": 7503,
+            "start": 7500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 7507,
+            "start": 7505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 7739,
+            "start": 7736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 7743,
+            "start": 7741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernehmen",
+            "end": 7892,
+            "start": 7882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BayEUG",
+            "end": 8067,
+            "start": 8061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 8351,
+            "start": 8347,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 8355,
+            "start": 8353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "messen",
+            "end": 8422,
+            "start": 8416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Recht",
+            "end": 8480,
+            "start": 8475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 8484,
+            "start": 8482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellt",
+            "end": 8681,
+            "start": 8672,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 8685,
+            "start": 8683,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 9024,
+            "start": 9021,
+            "type": "SBD"
+        },
+        {
+            "annotation": "darstellen",
+            "end": 9407,
+            "start": 9397,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9760,
+            "start": 9759,
+            "type": "SBD"
+        },
+        {
+            "annotation": "richtet",
+            "end": 9908,
+            "start": 9901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 10255,
+            "start": 10252,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10457,
+            "start": 10456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 10461,
+            "start": 10459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abhängt",
+            "end": 10645,
+            "start": 10638,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 10649,
+            "start": 10647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betritt",
+            "end": 10772,
+            "start": 10765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 10858,
+            "start": 10855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 10969,
+            "start": 10960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 10973,
+            "start": 10971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzukommen",
+            "end": 11217,
+            "start": 11205,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 11314,
+            "start": 11311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 11318,
+            "start": 11316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sportunterricht",
+            "end": 11401,
+            "start": 11386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 11405,
+            "start": 11403,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geprägt",
+            "end": 11532,
+            "start": 11525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 11770,
+            "start": 11765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Armbereich",
+            "end": 11836,
+            "start": 11826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 12015,
+            "start": 12011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 12019,
+            "start": 12017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinausgeht",
+            "end": 12387,
+            "start": 12377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 12391,
+            "start": 12389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 12634,
+            "start": 12630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 12638,
+            "start": 12636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 12803,
+            "start": 12800,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 12807,
+            "start": 12805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolglos",
+            "end": 12844,
+            "start": 12835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 12848,
+            "start": 12846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 12900,
+            "start": 12897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 12904,
+            "start": 12902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 12974,
+            "start": 12969,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Urteil v. 20.11.2018 – 7 Sa 95/18\nTitel:\nGeschlechterdiskriminierung\nNormenketten:\nAGG § 7, § 8 Abs. 1\nArbGG § 64, § 66 Abs. 1 S.1, S.3\nBayEUG Art. 45 Abs. 2, Abs.3,Art. 92 Abs. 5,\nRL2000/78/EG Art. 4 Abs. 1\nLeitsatz:\nDie Anforderung, dass Schülerinnen von Sportlehrerinnen im Sport unterrichtet werden, ist eine\nwesentliche und entscheidende berufliche Anforderung im Sinne des § 8 Absatz 1 AGG. (Rn. 28 –\n30)\nSchlagworte:\nAufsichtspflicht, Anforderung, Auslegung, Benachteiligungsverbot, berufliche Anforderung, Diskriminierung,\nEinschreiten, Gesetzgebungskompetenz, unterschiedliche Behandlung\nVorinstanz:\nArbG Nürnberg, Endurteil vom 01.02.2018 – 16 Ca 3627/17\nFundstelle:\nBeckRS 2018, 43031\nTenor\n1. Die Berufung des Klägers gegen das Endurteil des Arbeitsgerichts Nürnberg vom 01.02.2018 wird\nkostenpflichtig zurückgewiesen.\n2. Die Revision wird zugelassen.\nTatbestand\n1\nDie Parteien streiten um Schadensersatzansprüche aus dem AGG.\n2\nDer Beklagte betreibt u.a. eine Schule mit den Klassenstufen 1 bis 13.\n3\nDer Beklagte gab unter dem 13.06.2017 ein Stellenangebot ab. Darin suchte er\n- Klassenlehrer/in (m/w)\n- Fachlehrer/in Mathe/Physik (m/w) (volles Deputat und Teildeputat)\n- Fachlehrer/in Englisch (Ober- und Unterstufe) (m/w) (Teildeputat)\n- Fachlehrer/in Biologie/Chemie/Geographie (m/w) (Teildeputat)\n- Fachlehrerin Sport (w)\n- Fachlehrer/in Technologie 11. Klasse (m/w) (4 Stunden)\n- Fachlehrer/in Eurythmie (m/w) (6-9 Stunden).\n4\nDer Kläger bewarb sich am 13.06.2017 auf die Stelle der Sportlehrerin.\n5\nUnter dem 19.06.2017 teilte der Beklagte dem Kläger Folgendes mit:\n. . .\nleider suchen wir eine weibliche Sportlehrkraft für die Mädchen der Oberstufe.\n6\nNachdem der Beklagte mit Schreiben vom 30.06.2017 Ansprüche des Klägers auf Entschädigung wegen\nDiskriminierung zurückgewiesen hatte, erhob der Kläger am 04.07.2017 die vorliegende Klage zum\nArbeitsgericht Nürnberg, mit der er geltend macht, er sei wegen seines Geschlechts benachteiligt worden,\nund eine Entschädigung in Höhe von 13.500,00 € forderte.\n7\nDas Arbeitsgericht wies die Klage mit Endurteil vom 01.02.2018 ab. Das Erstgericht begründete dies u.a.\ndamit, dass der Kläger nach den Bestimmungen des bayerischen Kultusministeriums für Sportunterricht die\nAufgaben eines Sportlehrers in den Klassen 5 und 6 nur mit einer Ausnahmegenehmigung, in den Klassen\n7 bis 10 im Basissportunterricht gar nicht und in der Kollegstufe in den Fächern Basketball, Fußball,\nHandball und Geräteturnen nur mit Ausnahmegenehmigung wahrnehmen könnte.\n8\nDas Urteil wurde dem Kläger am 08.03.2018 zugestellt.\n9\nDer Kläger legte gegen das Urteil am 15.03.2018 Berufung ein und begründete sie am 27.03.2018.\n10\nDer Kläger macht geltend, der Beklagte habe gegen das Benachteiligungsverbot des § 7 AGG verstoßen.\nDie unterschiedliche Behandlung wegen des Geschlechts sei nicht gemäß § 8 AGG gerechtfertigt. Die\nRechtsansicht des Bayerischen Kultusministeriums laufe dem AGG zuwider. Derartige Vorgaben könnten\nkeinen Rechtfertigungsgrund nach § 8 AGG bilden. Außerdem sie die Stelle nicht jahrgangsbezogen\nausgeschrieben worden.\n11\nDer Kläger macht geltend, die Tätigkeit eines Sportlehrers sei geschlechtsneutral. So sei auch die\nHilfestellung beim Sport nicht ausgeschlossen. Es gebe auch männliche Bademeister, die im Rahmen ihrer\nTätigkeit weibliche Badegäste zu retten hätten. Es sei geschlechtsneutral, wer im Rahmen einer\nHilfestellung einen Schüler berühre. Derartige Berührungen erfolgten auch nicht im Intimbereich, sondern im\nSchulter-/Armbereich. Ein mögliches Unbehagen könne sowohl bei einem Schüler als auch bei einer\nSchülerin auftreten, das Geschlecht der Schüler und der Lehrer spiele keine Rolle. So wäre es auch\nmöglich, dass männliche Schüler nicht von einem männlichen Lehrer berührt werden wollten, da sie die\nEmpfindung hätten, dass sie heterosexuell und nicht homosexuell seien. Auch der Umstand, dass ein\nLehrer die Umkleideräume betreten können müsse, stelle keine Anforderung im Sinne des § 8 AGG dar. Es\nsei nicht einzusehen, weshalb eine Sportlehrerin kein Schamgefühl auslösen sollte, wenn sie den\nUmkleideraum betrete. Dies hänge unabhängig vom Geschlecht des Lehrers mit dem jeweiligen Befinden\ndes Schülers zusammen. Dazu komme, dass es sich bei der Frage des Betretens der Umkleideräume um\neine theoretische Möglichkeit handle, die in der Praxis nicht vorkomme.\n12\nFolgte man der Ansicht des Beklagten, dürfe es keinen männlichen Frauenarzt, keinen männlichen Masseur\nusw. geben.\n13\nDer Kläger beantragt,\nDas Urteil des Arbeitsgerichts Nürnberg zum Geschäftszeichen 16 Ca 3627/17 abzuändern und den\nBeklagten zu verurteilen, an den Kläger 13.500,00 € zuzüglich Zinsen in Höhe von 5 Prozentpunkten über\ndem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.\nHilfsweise wird beantragt, den Beklagten zu verurteilen, an den Kläger eine Entschädigung nebst Zinsen in\nHöhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz ab Rechtshängigkeit zu zahlen, wobei die\nHöhe der Entschädigung in das Ermessen des Gerichts gestellt wird.\n14\nDer Beklagte beantragt,\nI. Die Berufung des Klägers gegen das Urteil des Arbeitsgerichts Nürnberg vom 01.02.2018, Az: 16 Ca\n3627/17 wird zurückgewiesen.\nII. Der Kläger trägt die Kosten des Rechtsstreits.\n15\nDer Beklagte macht geltend, er hätte den Kläger für die ausgeschriebene Stelle nicht einstellen dürfen, weil\ner damit gegen geltende Recht, insbesondere gegen den Lehrplan für bayerische Schulen verstoßen hätte.\nWenn er, der Beklagte, sich nicht an die Vorgaben halte, sei mit einem Einschreiten der Aufsichtsbehörde\nzu rechnen. Er hätte den Kläger nicht einstellen können, ohne den Widerruf der Genehmigung für den\nBetrieb der Schule zu riskieren. Zudem hätte er keine staatlichen Zuschüsse für den Kläger erhalten. Der\nbayerische Landesgesetzgeber habe im Rahmen seiner ausschließlichen Gesetzgebungskompetenz von\nseiner Befugnis Gebrauch gemacht, zu regeln, dass der Sportunterricht geschlechtsspezifisch erteilt werde.\nNach dem LehrplanPLUS für bayerische Schulen werde der Basissportunterricht in nach Geschlechtern\ngetrennten Sportklassen unterrichtet. Mädchen würden danach von weiblichen, Jungen von männlichen\nSportlehrkräften unterrichtet.\n16\nDer Beklagte führt aus, der Sportlehrer müsse nicht nur bei bestimmten sportlichen Übungen, z.B.\nBockspringen oder dergleichen Hilfestellung geben und dabei die Mädchen anfassen. Er müsse auch in den\nUmkleideräumen für Ordnung sorgen und dazu gegebenenfalls die Umkleideräume betreten.\n17\nWegen des weitergehenden Vorbringens der Parteien in tatsächlicher und rechtlicher Hinsicht wird auf die\nzwischen ihnen gewechselten Schriftsätze Bezug genommen.\n18\nEine Beweisaufnahme hat nicht stattgefunden.\nEntscheidungsgründe\n19\nDie Berufung ist zulässig. Sie ist statthaft, § 64 Absatz 2 b) ArbGG, sowie form- und fristgerecht eingelegt\nund begründet worden, § 66 Absatz 1 Satz 1 bis 3 ArbGG.\n20\nDie Berufung ist unbegründet.\n21\nDem Kläger steht der geltend gemachte Entschädigungsanspruch nicht zu, §§ 7 Absatz 1, 15 Absatz 2\nAGG.\n22\nAllerdings liegt im Sinne des § 3 Absatz 1 eine unmittelbare Benachteiligung des Klägers wegen seines\nGeschlechts vor.\n23\nDie Bewerbung des Klägers auf die Stelle eines Sportlehrers beim Beklagten ist nicht berücksichtigt\nworden, weil der Kläger männlich ist, der Beklagte für den Sportunterricht der Schülerinnen aber nur\nSportlehrerinnen beschäftigt.\n24\nEs liegt indes eine zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen vor, § 8 Absatz\n1 AGG.\n25\nAllerdings stellt allein der Umstand, dass der staatliche Lehrplan vorsieht, dass im Basissport weibliche\nLehrkräfte Mädchen und männliche Lehrkräfte Jungen zu unterrichten haben, keine Anforderung im Sinne\ndes § 8 Absatz 1 AGG dar.\n26\nZum einen bestehen bereits Zweifel daran, dass der Beklagte verpflichtet ist, die in den staatlichen\nLehrplänen enthaltenen Grundsätze zu übernehmen. Gemäß Art. 92 Absatz 5 BayEUG findet lediglich Art.\n45 Absatz 1 Satz 3 BayEUG Anwendung, nicht indes die gesamte Vorschrift, insbesondere nicht Art. 45\nAbsatz 2 und 3 BayEUG. Vielmehr bestimmt Art. 90 Satz 2 BayEUG, dass die privaten Schulen im Rahmen\nder Gesetze frei in der Entscheidung über eine besondere pädagogische, religiöse oder weltanschauliche\nPrägung, über Lehr- und Erziehungsmethoden, über Lehrstoff und Formen der Unterrichtsorganisation sind.\n27\nDarüber hinaus ist auch der Lehrplan an § 8 Absatz 1 AGG zu messen. Das AGG ist den Lehrplänen\ngegenüber höherrangiges Recht.\n28\nDemgemäß ist entscheidend, ob die geforderte Gleichgeschlechtlichkeit von Lehrkräften und Schülern eine\nwesentliche und entscheidende berufliche Anforderung im Sinne des § 8 Absatz 1 AGG darstellt.\n29\nEine unterschiedliche Behandlung wegen eines in § 1 AGG genannten Grundes ist nach § 8 Absatz 1 AGG\nzulässig, wenn „dieser Grund“ wegen der Art der auszuübenden Tätigkeit oder der Bedingungen ihrer\nAusübung eine wesentliche und entscheidende berufliche Anforderung darstellt, sofern der Zweck\nrechtmäßig und die Anforderung angemessen ist. Allerdings muss - wenn dies auch in § 8 Absatz 1 AGG\nnicht wortwörtlich zum Ausdruck kommt - nach der bei der Auslegung heranzuziehenden Bestimmung des\nArt. 4 Abs. 1 Richtlinie 2000/78/EG nicht der Grund, auf den die Ungleichbehandlung gestützt ist, sondern\nein mit diesem Grund im Zusammenhang stehendes Merkmal eine wesentliche und entscheidende\nberufliche Anforderung darstellen. Das Merkmal, das im Zusammenhang mit einem der in § 1 AGG\ngenannten Benachteiligungsgründe steht, -oder sein Fehlen - kann nur dann eine wesentliche und\nentscheidende berufliche Anforderung iSd. § 8 Absatz 1 AGG sein, wenn davon die ordnungsgemäße\nDurchführung der Tätigkeit abhängt (Bundesarbeitsgericht - Urteil vom 22.05.2014 - 8 AZR 622/13; juris).\nAbzustellen ist auf die konkret vom Arbeitnehmer auszuübende Tätigkeit, die sich nach dem vom\nArbeitgeber festgelegten Unternehmenskonzept richtet. Das vom Arbeitgeber geforderte Merkmal muss, um\nwesentlich sein zu können, für die vom Arbeitgeber vorgegebene berufliche Anforderung eine prägende\nBedeutung haben, wobei es nicht darauf ankommt, welcher zeitliche Anteil der Tätigkeit betroffen ist,\nsondern darauf, ob das Merkmal für die Erreichung des unternehmerischen Zwecks erforderlich ist. Das\nDifferenzierungsmerkmal darf nicht nur für unbedeutende, für den Arbeitsplatz nicht charakteristische\nTätigkeiten notwendig sein (Bundesarbeitsgericht - Urteil vom 18.03.2010 - 8 AZR 77/09; juris).\n30\nGemessen an diesen Kriterien stellt das Geschlecht bei Sportlehrern ein Merkmal dar, von dem die\nordnungsgemäße Durchführung der Tätigkeit, also vor allem des Sportunterrichts abhängt.\n31\nDabei ist weniger darauf abzustellen, dass die Notwendigkeit eintreten kann, dass eine Lehrkraft die\nUmkleideräume betritt. Dies ist zwar nicht ausgeschlossen, da eine Lehrkraft auch eine Aufsichtspflicht hat.\nDie Aufsichtspflicht ist indes im Verhältnis zur eigentlichen Lehrtätigkeit nur von untergeordneter Bedeutung.\n32\nSo hat es nach dem Sachvortrag des Klägers, der seinem Bekunden nach bereits seit 13 Jahren als\nSportlehrer tätig ist, keinen einzigen Fall gegeben, in dem es erforderlich war, den Umkleideraum zu\nbetreten, um der Aufsichtspflicht nachzukommen. Aus dem Sachvortrag des Beklagten ergibt sich nicht,\ndass und in welchem Umfang dies anders ist.\n33\nEntscheidend für die Tätigkeit eines Sportlehrers ist vielmehr der Sportunterricht.\n34\nAnders als bei den außerhalb des Sports bestehenden Lehrfächern ist der Sportunterricht durch besondere\nKörperlichkeit geprägt. Dies bezieht sich zum einen auf die körperliche Leistungsfähigkeit der Schüler, zum\nanderen darauf, dass beim Sportunterricht körperliche Kontakte erforderlich sind, vor allem wenn es darum\ngeht, beim Geräteturnen Hilfestellung zu geben. Diese beschränkt sich nicht nur auf den Schulter- und\nArmbereich. Vielmehr erstreckt sie sich, z.B. beim Turnen am (Stufen) Reck oder (Stufen) Barren auch auf\ndas Gesäß. Dies kann für beide Seiten - den Schüler wie den Lehrer - unangenehm sein.\n35\nGerade bei Mädchen prägt sich das Schamgefühl ab Beginn der Pubertät stärker aus, was einerseits dazu\nführt, dass körperliche Berührungen durch das andere Geschlecht schneller als unangemessen empfunden\nwerden, andererseits solchen Berührungen eine Bedeutung zugemessen werden kann, die weder\nbeabsichtigt ist noch objektiv über den Zweck der Hilfestellung hinausgeht.\n36\nDazu kommt, dass körperliche hormonelle Umstellungen bzw. damit verbundene Unpässlichkeiten, z.B.\nMenstruationsbeschwerden, sich auf die sportliche Leistungsfähigkeit auswirken können, was ungern mit\neinem männlichen Sportlehrer erörtert wird.\n37\nAus diesen Gründen kommt das erkennende Gericht zu der Auffassung, dass ein ordnungsgemäßer\nSportunterricht bei Mädchen voraussetzt, dass die Lehrkraft weiblich ist.\n38\nDie Berufung blieb deshalb erfolglos.\n39\nDie Kostenentscheidung beruht auf § 97 Absatz 1 ZPO.\n40\nDie Zulassung der Revision erfolgt gemäß § 72 Absatz 2 Ziffer 1 ArbGG.\n\n"
+}

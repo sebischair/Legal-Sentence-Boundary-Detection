@@ -1,0 +1,383 @@
+{
+    "Annotations": [
+        {
+            "annotation": "19",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ordnungshaft",
+            "end": 135,
+            "start": 123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 148,
+            "start": 136,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 164,
+            "start": 162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 194,
+            "start": 193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 206,
+            "start": 195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ordnungshaft",
+            "end": 286,
+            "start": 274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 297,
+            "start": 287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 357,
+            "start": 355,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 368,
+            "start": 358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8534",
+            "end": 387,
+            "start": 383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 393,
+            "start": 388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 539,
+            "start": 525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 613,
+            "start": 607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 692,
+            "start": 681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 700,
+            "start": 694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 702,
+            "start": 701,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 705,
+            "start": 704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Strafverfahren",
+            "end": 859,
+            "start": 845,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 862,
+            "start": 861,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 1004,
+            "start": 998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1007,
+            "start": 1006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufung",
+            "end": 1067,
+            "start": 1059,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regensburg",
+            "end": 1137,
+            "start": 1127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1140,
+            "start": 1139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 1805,
+            "start": 1799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1808,
+            "start": 1807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 1997,
+            "start": 1983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2000,
+            "start": 1999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befinde",
+            "end": 2205,
+            "start": 2198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 2290,
+            "start": 2287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2294,
+            "start": 2292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2297,
+            "start": 2296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2833,
+            "start": 2830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2836,
+            "start": 2835,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 2918,
+            "start": 2910,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anlass",
+            "end": 3001,
+            "start": 2995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3004,
+            "start": 3003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3268,
+            "start": 3262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3502,
+            "start": 3496,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3765,
+            "start": 3764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3769,
+            "start": 3767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 4039,
+            "start": 4036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewürdigt",
+            "end": 4248,
+            "start": 4239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begab",
+            "end": 4548,
+            "start": 4543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 4552,
+            "start": 4550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auferlegt",
+            "end": 4733,
+            "start": 4724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überwiegt",
+            "end": 4996,
+            "start": 4987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berühren",
+            "end": 5154,
+            "start": 5146,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5397,
+            "start": 5396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5401,
+            "start": 5399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 5860,
+            "start": 5857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bekanntheitsgrad",
+            "end": 5991,
+            "start": 5975,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 5995,
+            "start": 5993,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6365,
+            "start": 6364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 6370,
+            "start": 6367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6374,
+            "start": 6372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 6424,
+            "start": 6421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6428,
+            "start": 6426,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6526,
+            "start": 6525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6530,
+            "start": 6528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 6625,
+            "start": 6617,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG Nürnberg, Beschluss v. 24.04.2019 – 3 U 22/19\nTitel:\nBerichterstattung, Behandlung, Kenntnis, Zuwiderhandlung, Umwelt, Ordnungshaft\nNormenketten:\nGKG § 47, § 48\nZPO § 97 Abs. 1, § 522 Abs. 2\nSchlagworte:\nBerichterstattung, Behandlung, Kenntnis, Zuwiderhandlung, Umwelt, Ordnungshaft\nVorinstanz:\nLG Regensburg, Hinweisbeschluss vom 15.03.2019 – 3 U 22/19\nFundstelle:\nBeckRS 2019, 8534\nTenor\n1. Die Berufung des Verfügungsklägers gegen das Urteil des Landgerichts Regensburg vom 06.12.2018,\nAktenzeichen 23 O 2114/18, wird zurückgewiesen.\n2. Der Verfügungskläger hat die Kosten des Berufungsverfahrens zu tragen.\n3. Der Streitwert für das Berufungsverfahren wird auf 20.000,00 € festgesetzt.\nGründe\nI.\n1\nDie Parteien streiten im Rahmen eines Verfügungsverfahrens um Unterlassungsansprüche in Bezug auf die\nBerichterstattung in einem laufenden Strafverfahren.\n2\nMit Endurteil vom 06.12.2018 wies das Landgericht Regensburg den Antrag des Verfügungsklägers auf\nErlass einer einstweiligen Verfügung zurück.\n3\nDagegen wendet sich der Verfügungskläger in seiner Berufung. Er beantragt unter Aufhebung des Urteils\ndes Landgerichts Regensburg:\n4\nDer Verfügungsbeklagten wird es bei Meidung eines für jeden Fall der Zuwiderhandlung fälligen\nOrdnungsgeldes bis zu 250.000,- Euro, ersatzweise Ordnungshaft bis zu 6 Monaten, oder Ordnungshaft bis\nzu 6 Monaten, im Wiederholungsfall Ordnungshaft bis zu 2 Jahren, die Ordnungshaft zu vollstrecken an\ndem Geschäftsführer der KG, verboten, über den Verfügungskläger im Zusammenhang mit dem laufenden\nStrafverfahren vor dem Landgericht Regensburg (Az. …) gegen seine Person unter Angabe seines Vor- und\nabgekürzten Nachnamens, der Nennung seiner beruflichen Tätigkeit und unter/oder Verwendung seines\nBildnisses identifizierend zu berichten und/oder berichten zu lassen.\n5\nMit Beschluss vom 15.03.2019 wies der Senat darauf hin, dass er beabsichtige, die Berufung gegen das\nUrteil des Landgerichts Regensburg vom 06.12.2018 gemäß § 522 Abs. 2 ZPO zurückzuweisen.\n6\nMit Schriftsatz vom 04.04.2019 beantragte der Verfügungskläger die Verlängerung der Frist zur\nStellungnahme auf diesen Hinweis bis 18.04.2019, da sich der Verfügungskläger in ärztlicher Behandlung\nbefinde. Die Gegenerklärung vom 17.04.2019 ging dann bei Gericht per Fax am gleichen Tag ein.\nII.\n7\nDie Berufung gegen das Urteil des Landgerichts Regensburg vom 06.12.2018, Aktenzeichen 23 O 2114/18,\nist gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil nach einstimmiger Auffassung des Senats das\nRechtsmittel offensichtlich keine Aussicht auf Erfolg hat, der Rechtssache auch keine grundsätzliche\nBedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen\nRechtsprechung eine Entscheidung des Berufungsgerichts erfordert und die Durchführung einer mündlichen\nVerhandlung über die Berufung nicht geboten ist.\n8\n1. Zur Begründung wird auf den vorausgegangenen Hinweis des Senats Bezug genommen. Auch die\nAusführungen in der Gegenerklärung geben zu einer Änderung keinen Anlass.\n9\na) Nach dem Tatbestand der sogenannten „Selbstöffnung“ entfällt der Schutz der Privatsphäre vor\nöffentlicher Kenntnisnahme, wenn sich jemand selbst damit einverstanden zeigt, dass bestimmte,\ngewöhnlich als privat geltende Angelegenheiten öffentlich gemacht werden. Dabei muss die Erwartung,\ndass die Umwelt die Angelegenheiten oder Verhaltensweisen in einem Bereich mit Rückzugsfunktion nur\nbegrenzt oder nicht zur Kenntnis nimmt, situationsübergreifend und konsistent zum Ausdruck gebracht\nwerden. Das gilt auch für den Fall, dass der Entschluss, die Berichterstattung über bestimmte Vorgänge der\neigenen Privatsphäre zu gestatten oder hinzunehmen, rückgängig gemacht wird (BVerfG, Urteil vom 15.\nDezember 1999 - 1 BvR 653/96, Rn. 80 - Caroline von Monaco II).\n10\nDer Senat hat im vorliegenden Fall einen Wegfall des Schutzes der Privatsphäre vor öffentlicher\nKenntnisnahme aufgrund „Selbstöffnung“ nicht angenommen, weshalb er sich - folgerichtig - auch nicht mit\nder Rückgängigmachung der damit verbundenen Einwilligung befasst hat. Vielmehr hat er die Tatsache,\ndass sich der Verfügungskläger zunächst zu den erhobenen Vorwürfen äußerte und seine Äußerungen in\nder Zeitung abgedruckt wurden, nur als ein Kriterium in der Abwägung gewürdigt. Auch wenn - wie im\nvorliegenden Fall - zwischen „Selbstbegebung“ und beanstandeter Berichterstattung ein längerer Zeitraum\nliegt, kann im Rahmen der Abwägung berücksichtigt werden, dass sich der Betroffene zunächst zum\nTatvorwurf äußerte und sich somit aktiv in das „Licht der Öffentlichkeit“ begab.\n11\nb) Der Presse ist bei einer die Identifizierung des Beschuldigten ermöglichenden Berichterstattung über das\nVorliegen des Verdachts einer Straftat besondere Zurückhaltung auferlegt. Hiernach setzt die namentliche\nErwähnung des Beschuldigten in einem Ermittlungsverfahren voraus, dass auch unter Berücksichtigung des\nGeheimhaltungsinteresses des Betroffenen bei der erforderlichen Abwägung das Informationsinteresse der\nÖffentlichkeit überwiegt. Danach kommt eine Namensnennung grundsätzlich nur in Fällen schwerer\nKriminalität oder bei Straftaten in Betracht, die die Öffentlichkeit besonders berühren. Dabei kann wegen der\nStellung der Person des Beschuldigten und der Art der Straftat eine namentliche Berichterstattung auch\nunterhalb der Schwelle der Schwerkriminalität zulässig sein (BGH, Urteil vom 07. Dezember 1999 - VI ZR\n51/99, Rn. 30).\n12\nDiese Voraussetzungen sind im vorliegenden Fall erfüllt (zumal der Verfügungskläger nicht mehr\nBeschuldigter in einem Ermittlungsverfahren war, sondern die Berichterstattung über das laufende\nHauptverfahren erfolgte). Zum einen war Gegenstand des Strafverfahrens der aufsehenerregende Vorwurf,\nin eine Kommunalwahl durch die Organisierung von Stimmen, die der eigenen Parteiwahl entsprechen,\neingegriffen zu haben, weshalb die Kommunalwahl zu wiederholen war. Zum anderen verfügte der\nVerfügungskläger im Verbreitungsgebiet des Straubinger Tagblatts über einen erheblichen\nBekanntheitsgrad.\n13\n2. Es kann daher dahinstehen, ob darüber hinaus der Verfügungsgrund wegen Selbstwiderlegung fehlt, da\nder Verfügungskläger durch seinen Antrag auf Fristverlängerung zu dem gerichtlichen Hinweis zur\nbeabsichtigten Zurückweisung der Berufung selbst zu erkennen gegeben hat, dass es ihm nicht eilig ist (vgl.\nOLG Dresden, Beschluss vom 06. März 2018 - 4 U 1675/17, Rn. 10).\nIII.\n14\nDie Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.\n15\nEin Ausspruch zur vorläufigen Vollstreckbarkeit ist nicht veranlasst (vgl. § 542 Abs. 2 S. 1 ZPO).\n16\nDer Streitwert für das Berufungsverfahren wurde in Anwendung der §§ 47, 48 GKG, 3 ZPO bestimmt.\n\n"
+}

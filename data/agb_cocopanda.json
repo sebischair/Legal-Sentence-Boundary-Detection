@@ -1,0 +1,467 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 31,
+            "start": 11,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durch",
+            "end": 172,
+            "start": 167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftsbedingungen",
+            "end": 269,
+            "start": 249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 390,
+            "start": 384,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Registrierung",
+            "end": 405,
+            "start": 392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "besitzen",
+            "end": 523,
+            "start": 515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 840,
+            "start": 834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tätigen",
+            "end": 619,
+            "start": 612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedeutung",
+            "end": 695,
+            "start": 686,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzubeugen",
+            "end": 1007,
+            "start": 996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Registrierung",
+            "end": 1058,
+            "start": 1045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "registrieren",
+            "end": 1092,
+            "start": 1080,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Einzelhandel",
+            "end": 1142,
+            "start": 1130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestimmt",
+            "end": 1246,
+            "start": 1238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SMS",
+            "end": 1266,
+            "start": 1263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 1480,
+            "start": 1478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 1583,
+            "start": 1579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewähren",
+            "end": 1909,
+            "start": 1901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 1707,
+            "start": 1699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 2104,
+            "start": 2100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Daten",
+            "end": 2146,
+            "start": 2141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hast",
+            "end": 2233,
+            "start": 2229,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwaltet",
+            "end": 2319,
+            "start": 2310,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwaltet",
+            "end": 2438,
+            "start": 2429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterlesen",
+            "end": 2541,
+            "start": 2530,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Adressänderung",
+            "end": 2557,
+            "start": 2543,
+            "type": "SBD"
+        },
+        {
+            "annotation": "registrieren",
+            "end": 2700,
+            "start": 2688,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwendet",
+            "end": 2811,
+            "start": 2802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellungen",
+            "end": 2867,
+            "start": 2855,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versandt",
+            "end": 2950,
+            "start": 2942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wählen",
+            "end": 3012,
+            "start": 3006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 3116,
+            "start": 3109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlung",
+            "end": 3124,
+            "start": 3117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlen",
+            "end": 3235,
+            "start": 3227,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachnahme",
+            "end": 3283,
+            "start": 3274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferung",
+            "end": 3294,
+            "start": 3285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschickt",
+            "end": 3394,
+            "start": 3384,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3543,
+            "start": 3542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 3641,
+            "start": 3640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 3671,
+            "start": 3654,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3859,
+            "start": 3858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bist",
+            "end": 4023,
+            "start": 4019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stornieren",
+            "end": 4126,
+            "start": 4116,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4310,
+            "start": 4308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "getragen",
+            "end": 4374,
+            "start": 4366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschlands",
+            "end": 4429,
+            "start": 4417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Briefpost",
+            "end": 4568,
+            "start": 4559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuschicken",
+            "end": 4658,
+            "start": 4648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4742,
+            "start": 4740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 4760,
+            "start": 4744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "melden",
+            "end": 4864,
+            "start": 4858,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellst",
+            "end": 5021,
+            "start": 5012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstellen",
+            "end": 5140,
+            "start": 5131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 5329,
+            "start": 5324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigern",
+            "end": 5468,
+            "start": 5458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgeschickt",
+            "end": 5506,
+            "start": 5491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktinformation",
+            "end": 5526,
+            "start": 5508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereitzustellen",
+            "end": 5638,
+            "start": 5623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auftreten",
+            "end": 5679,
+            "start": 5670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hinweis",
+            "end": 5796,
+            "start": 5789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Produktdarstellung",
+            "end": 5816,
+            "start": 5798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 6002,
+            "start": 5995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6110,
+            "start": 6104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 6178,
+            "start": 6170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urheberrecht",
+            "end": 6192,
+            "start": 6180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschützt",
+            "end": 6353,
+            "start": 6344,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfen",
+            "end": 6676,
+            "start": 6670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsrecht",
+            "end": 6692,
+            "start": 6678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 6712,
+            "start": 6694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 6727,
+            "start": 6713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widerrufen",
+            "end": 6844,
+            "start": 6834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 7007,
+            "start": 7004,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherschlichtungstelle",
+            "end": 7037,
+            "start": 7009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 7171,
+            "start": 7159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anbieten",
+            "end": 7255,
+            "start": 7247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zufriedenstellt",
+            "end": 7502,
+            "start": 7487,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 7363,
+            "start": 7362,
+            "type": "SBD"
+        }
+    ],
+    "Text": "Allgemeine Geschäftsbedingungen:\nBevor Du Dich bei Cocopanda.de registrierst oder bei uns einkaufst, lies Dir bitte unsere Allgemeinen Geschäftsbedingungen sorgfältig durch. Wenn Du einen Kauf abschließt, akzeptierst Du automatisch unsere aktuellen Geschäftsbedingungen. Minderjährige (Personen unter 18 Jahren) benötigen die Zustimmung ihrer Eltern, um bei Cocopanda.de einkaufen zu können.\nRegistrierung:\nUm bei Cocopanda.de einzukaufen, musst Du ein Benutzerkonto erstellen und eine Lieferadresse in Deutschland besitzen. Die Registrierung ist zu 100 % kostenlos und verpflichtet Dich nicht, einen Einkauf zu tätigen. Die Sicherheit Deiner persönlichen Daten ist für uns von größter Bedeutung. Deshalb unternehmen wir alle angemessenen Anstrengungen, um sicherzustellen, dass unberechtigte Personen nicht auf Deine Daten zugreifen können. Zu Deiner eigenen Sicherheit solltest Du Dein Passwort immer geheim halten, um unberechtigten Zugriffen und potentiellem Missbrauch Deines Benutzerkontos vorzubeugen. Du wählst Dein Passwort während der Registrierung. Du kannst Dich hier registrieren.\nCocopanda.de verkauft Waren für den Einzelhandel.\nWaren, die Du bei uns kaufst sind nicht für den Weiterverkauf, sondern für die eigene Nutzung bestimmt.\nNewsletter und SMS:\nWenn Du Dich für unseren Newsletter/SMS anmeldest, stimmst Du der Verarbeitung Deiner personenbezogenen Daten in Form der E-Mail Adresse/telefonnummer durch Cocopanda.de (Verantwortlicher für die Verarbeitung) zu. Ich bin darüber informiert und mir ist bewusst, dass ich jederzeit meine Zustimmung zurückziehen kann. Dies kann entweder über den Link im zugeschickten Newsletter/SMS oder durch Kontaktaufnahme mit dem Kundenservice erfolgen. Ich bin darüber informiert und mir ist bewusst, welche Rechte ich nach der Datenschutz-Grundverordnung habe – beispielsweise mein Recht Einsicht und Änderung meiner personenbezogenen Daten zu gewähren. Ich bin mir bewusst darüber, dass es weitere Informationen von den Verantwortlichen für die Verarbeitung der Daten über den Gebrauch der personenbezogenen Daten gibt, welche hier einsehbar sind.\nUnser Umgang mit personenbezogenen Daten:\nWir speichern die personenbezogenen Daten, die Du auf unserer Webseite angegeben hast. Diese personenbezogenen Daten werden im Einklang mit dem Datenschutzgesetz verwaltet. Kreditkartendaten werden von uns nicht gespeichert, sondern werden durch den Zahlungsdienstleister und NETS verwaltet. Cocopanda verfügt über ein SSL-Zertifikat und erfüllt die Anforderungen für PCI DSS. Hier weiterlesen.\nAdressänderung:\nAus Sicherheitsgründen musst Du Deine Adresse(n) über die Registerkarte „Meine Adressen“, die sich unter „Mein Profil“ befindet, registrieren. Die Adresse, die Du als Standardadresse festlegst, wird bei zukünftigen Einkäufen als Lieferadresse verwendet. Dies hat keine Auswirkungen auf vorherige Bestellungen. Die Ware wird immer an die zum Zeitpunkt der Zahlung festgelegte Adresse versandt. Du kannst die Lieferadresse zum Zeitpunkt der Zahlung wählen. Eine abweichende Lieferadresse von der Rechnungsadresse der Bestellung, ist nachträglich nicht möglich\nZahlung:\nBeim Einkauf bei Cocopanda.de kannst Du mit Visa und Mastercard, SOFORTÜberweisung, sowie mit PayPal bezahlen. \nWir akzeptieren keine Zahlungen per Nachnahme.\nLieferung:\nKostenlose Lieferung bei Einkauf im Wert von über 24,95€! Deine Bestellung wird via DHL verschickt. Mit der Sendungsnummer kannst Du Dein Paket von unserem Lager bis zum nächstgelegenen Zustellungsort verfolgen (Wichtig!: Gilt nicht für Briefpost). Bei einem Einkauf mit einem geringeren Wert als 24,95€ berechnen wir eine Liefergebühr von 3,50€.\nAllgemeine Lieferbedingungen:\nDu erhältst immer eine E-Mail mit Tracking-Informationen, sobald Dein Paket aus unserem Lager verschickt wurde (Wichtig!: Gilt nicht für Briefpost, siehe Erklärung im nächsten Abschnitt). Darüber hinaus kannst Du diese Informationen immer über die Registerkarte „Meine Bestellungen“ auf „Mein Konto“ einsehen, wenn Du bei Cocopanda.de angemeldet bist. Sollte sich die Lieferung mal verzögern, hast Du als Kunde die Möglichkeit, Deinen Kauf zu stornieren. Wenn ein Paket nicht abgeholt, nicht entgegengenommen bzw. eine falsche Adresse während des Bestellprozesses angegeben wurde, fällt für die Rücksendung eine Liefergebühr von €4,35 an. Die Kosten für die Rücksendung werden dann vom Kunden getragen. Wir liefern ausschließlich nur innerhalb Deutschlands.\nFalls Deine Bestellung einen gewissen Gesamtwert bzw. ein gewisses Gesamtgewicht nicht übersteigt, versenden wir diese als sog. Briefpost. Dies bedeutet, dass wir Deine bestellten Waren in gut gepolsterten Umschlägen zuschicken. In diesen Fällen bietet DHL leider nicht die Möglichkeit der Sendungsverfolgung an.\nTransportschäden:\nWenn Du ein beschädigtes Produkt erhalten hast, kannst Du dies über unser Online-Support-System melden. Du kannst den Schaden melden, indem Du Dich in Dein Cocopanda.de-Benutzerkonto einloggst und unter „Beschädigte Ware erhalten“ ein Support-Ticket erstellst. Das Support-Ticket kannst Du unter der Registerkarte „Kundenservice“, die sich unter „Mein Konto“ befindet, erstellen. Sobald Du das Support-Ticket erstellt hast, wird Dich ein Kundenservice-Mitarbeiter kontaktieren, um Dir eine Lösung vorzuschlagen und Dir weitere Informationen zu Deiner Anfrage zu geben. Falls Du bereits bei der Anlieferung erhebliche Schäden an Verpackung und Inhalt bemerkst, kannst Du die Annahme der Lieferung verweigern. Sie wird dann an uns zurückgeschickt.\nProduktinformation:\nBei Cocopanda.de sind wir immer bemüht, genaue und richtige Informationen über unsere Produkte bereitzustellen. Fehler können leider trotzdem auftreten. Falls Du einen Fehler findest, dessen Beseitigung Du als notwendig betrachtest, wären wir dankbar für einen Hinweis.\nProduktdarstellung:\nFalls das Aussehen der gelieferten Ware von dem im Shop angezeigten Produktabbildungen abweicht, ist dies kein Mangel am Produkt und eine Reklamation ist auf Grund dessen nicht möglich. Unterschiede können in der Regel auf eine Sortimentserneuerung seitens der Hersteller zurückgeführt werden. Gerne nehmen wir jedoch Feedback über solche Abweichungen entgegen.\nUrheberrecht:\nAlle auf Cocopanda.de veröffentlichten Inhalte sind Eigentum der Cocopanda.de GmbH und durch schwedisches, deutsches und internationales Urheberrecht geschützt. Dies bedeutet, dass Marken, Handelsnamen, Produktnamen, Produktinformationen einschließlich Produktbeschreibungen, Bilder/Grafiken, Gestaltung/Layout und andere Inhalte auf Cocopanda.de nicht ohne besondere, ausdrückliche Genehmigung der Cocopanda.de GmbH heruntergeladen, kopiert oder anderweitig verwendet werden dürfen.\nWiderrufsrecht:\nWiderrufsbelehrung\nMusterformular\nWenn Du bei Cocopanda.de bestellst, hast Du immer 14 Tage Zeit, um Deinem Kauf ohne Angabe von Gründen zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Du oder ein von Dir benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen hat.\nVerbraucherschlichtungstelle\nDie Cocopanda.de GmbH ist nicht verpflichtet an einem Streitschlichtungsverfahren, bereitgestellt von der EU-Kommission, teilzunehmen. Desweiteren können wir Dir die Teilnahme an einen solchen Verfahren nicht anbieten. Mehr Information zu dem genannten Schlichtungsverfahren findest Du hier http://ec.europa.eu/consumers/odr/ . Wir sind uns sicher, dass wir in jeder Situation auch auf dem normalen Wege eine Lösung finden werden, die alle Parteien zufriedenstellt.\n\n\n"
+}

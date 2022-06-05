@@ -1,0 +1,2459 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 49,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 55,
+            "start": 50,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Banken",
+            "end": 129,
+            "start": 123,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 142,
+            "start": 130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 151,
+            "start": 150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 242,
+            "start": 241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 278,
+            "start": 276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 288,
+            "start": 279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbandes",
+            "end": 333,
+            "start": 324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitsverhältnisses",
+            "end": 511,
+            "start": 491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 576,
+            "start": 573,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 591,
+            "start": 590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsteht",
+            "end": 821,
+            "start": 813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fristablauf",
+            "end": 920,
+            "start": 909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 1024,
+            "start": 1015,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1039,
+            "start": 1038,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1061,
+            "start": 1060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1073,
+            "start": 1062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Freistellungsphase",
+            "end": 1216,
+            "start": 1198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1227,
+            "start": 1217,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 1283,
+            "start": 1281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1294,
+            "start": 1284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8193",
+            "end": 1313,
+            "start": 1309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1319,
+            "start": 1314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1465,
+            "start": 1451,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1498,
+            "start": 1488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1510,
+            "start": 1500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1512,
+            "start": 1511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubs",
+            "end": 1611,
+            "start": 1604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1614,
+            "start": 1613,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschäftigt",
+            "end": 1698,
+            "start": 1687,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1701,
+            "start": 1700,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 1812,
+            "start": 1803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 1965,
+            "start": 1955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erholungsurlaub",
+            "end": 1988,
+            "start": 1973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährt",
+            "end": 2054,
+            "start": 2047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitstage",
+            "end": 2136,
+            "start": 2125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonnabende",
+            "end": 2202,
+            "start": 2192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahr",
+            "end": 2288,
+            "start": 2284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Arbeitstage",
+            "end": 2537,
+            "start": 2526,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2705,
+            "start": 2699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "umfasst",
+            "end": 2799,
+            "start": 2792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2959,
+            "start": 2953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzugelten",
+            "end": 3150,
+            "start": 3140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3237,
+            "start": 3231,
+            "type": "SBD"
+        },
+        {
+            "annotation": "leisten",
+            "end": 3353,
+            "start": 3346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubstage",
+            "end": 3458,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuerstatten",
+            "end": 3513,
+            "start": 3496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3606,
+            "start": 3600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 3662,
+            "start": 3653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "…",
+            "end": 3665,
+            "start": 3664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 3667,
+            "start": 3666,
+            "type": "SBD"
+        },
+        {
+            "annotation": "durchgeführt",
+            "end": 3774,
+            "start": 3762,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 3833,
+            "start": 3823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 3965,
+            "start": 3960,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 4153,
+            "start": 4147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 4156,
+            "start": 4155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erkrankt",
+            "end": 4250,
+            "start": 4242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2015",
+            "end": 4436,
+            "start": 4432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4439,
+            "start": 4438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubstagen",
+            "end": 4536,
+            "start": 4524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 4648,
+            "start": 4641,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 4766,
+            "start": 4756,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4769,
+            "start": 4768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "brutto",
+            "end": 4931,
+            "start": 4925,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 4934,
+            "start": 4933,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustehe",
+            "end": 5049,
+            "start": 5042,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 5194,
+            "start": 5192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorsehe",
+            "end": 5390,
+            "start": 5383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5538,
+            "start": 5532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 5731,
+            "start": 5724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 5734,
+            "start": 5733,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 5937,
+            "start": 5931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 5941,
+            "start": 5939,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 5991,
+            "start": 5981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5995,
+            "start": 5993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 6160,
+            "start": 6152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfallen",
+            "end": 6270,
+            "start": 6261,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 6521,
+            "start": 6515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 6729,
+            "start": 6723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestritten",
+            "end": 6844,
+            "start": 6834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 6848,
+            "start": 6846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 7034,
+            "start": 7024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7038,
+            "start": 7036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 7144,
+            "start": 7135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 7363,
+            "start": 7354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "MTV",
+            "end": 7420,
+            "start": 7417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 7632,
+            "start": 7622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 7876,
+            "start": 7871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 8148,
+            "start": 8145,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubsanspruches",
+            "end": 8307,
+            "start": 8290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 8599,
+            "start": 8590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 8715,
+            "start": 8707,
+            "type": "SBD"
+        },
+        {
+            "annotation": "blieben",
+            "end": 9073,
+            "start": 9066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 9666,
+            "start": 9660,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 9846,
+            "start": 9841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 10062,
+            "start": 10055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fänden",
+            "end": 10250,
+            "start": 10244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führe",
+            "end": 10511,
+            "start": 10506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 10735,
+            "start": 10727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 10739,
+            "start": 10737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 10962,
+            "start": 10958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "heranzuziehen",
+            "end": 11099,
+            "start": 11086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betrag",
+            "end": 11155,
+            "start": 11149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 11159,
+            "start": 11157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanspruche",
+            "end": 11259,
+            "start": 11248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mehrurlaub",
+            "end": 11450,
+            "start": 11440,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollte",
+            "end": 11690,
+            "start": 11684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 11937,
+            "start": 11929,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12418,
+            "start": 12417,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12838,
+            "start": 12837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 12958,
+            "start": 12953,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfalle",
+            "end": 13214,
+            "start": 13206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 13376,
+            "start": 13373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 13644,
+            "start": 13637,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 13722,
+            "start": 13714,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13991,
+            "start": 13990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 13995,
+            "start": 13993,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfalle",
+            "end": 14359,
+            "start": 14351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 14914,
+            "start": 14909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befinde",
+            "end": 15269,
+            "start": 15262,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 15273,
+            "start": 15271,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 15371,
+            "start": 15363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 15375,
+            "start": 15373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufung",
+            "end": 15571,
+            "start": 15563,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 15575,
+            "start": 15573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingenommen",
+            "end": 15623,
+            "start": 15612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 15709,
+            "start": 15706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 15713,
+            "start": 15711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verkannt",
+            "end": 15845,
+            "start": 15837,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungsgehalt",
+            "end": 15924,
+            "start": 15909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erloschen",
+            "end": 16066,
+            "start": 16057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 16208,
+            "start": 16202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 16212,
+            "start": 16210,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 16377,
+            "start": 16371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angelegt",
+            "end": 16445,
+            "start": 16437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 16541,
+            "start": 16540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 16656,
+            "start": 16648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 16801,
+            "start": 16795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 16871,
+            "start": 16868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 17093,
+            "start": 17084,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Banken",
+            "end": 17191,
+            "start": 17185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 17424,
+            "start": 17422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründen",
+            "end": 17499,
+            "start": 17490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 17503,
+            "start": 17501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 17750,
+            "start": 17745,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17902,
+            "start": 17899,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kurz",
+            "end": 18044,
+            "start": 18040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 18263,
+            "start": 18258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 18391,
+            "start": 18386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "untersuche",
+            "end": 18619,
+            "start": 18609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 18744,
+            "start": 18741,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 18748,
+            "start": 18746,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existiere",
+            "end": 18964,
+            "start": 18955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleiche",
+            "end": 19122,
+            "start": 19112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränke",
+            "end": 19278,
+            "start": 19268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelung",
+            "end": 19372,
+            "start": 19364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleichbar",
+            "end": 19467,
+            "start": 19455,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hergestellt",
+            "end": 19559,
+            "start": 19548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 19773,
+            "start": 19765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 19837,
+            "start": 19827,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 19979,
+            "start": 19974,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BUrlG",
+            "end": 20078,
+            "start": 20073,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 20339,
+            "start": 20333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 20638,
+            "start": 20630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 20642,
+            "start": 20640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 20781,
+            "start": 20777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 20991,
+            "start": 20986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Banken",
+            "end": 21108,
+            "start": 21102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 21204,
+            "start": 21199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 21326,
+            "start": 21324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 21465,
+            "start": 21460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 21774,
+            "start": 21771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 21964,
+            "start": 21958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 21968,
+            "start": 21966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kurz",
+            "end": 22059,
+            "start": 22055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belasten",
+            "end": 22159,
+            "start": 22151,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährungsfrist",
+            "end": 22225,
+            "start": 22209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuwider",
+            "end": 22303,
+            "start": 22296,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 22422,
+            "start": 22416,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 22553,
+            "start": 22548,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 22557,
+            "start": 22555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führe",
+            "end": 22815,
+            "start": 22810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zirkelschluss",
+            "end": 22843,
+            "start": 22830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angelegt",
+            "end": 22963,
+            "start": 22955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfalle",
+            "end": 23083,
+            "start": 23075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelte",
+            "end": 23241,
+            "start": 23236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 23373,
+            "start": 23365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgestellt",
+            "end": 23641,
+            "start": 23630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfallen",
+            "end": 23818,
+            "start": 23809,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 23822,
+            "start": 23820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 24008,
+            "start": 24002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 24122,
+            "start": 24117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 24248,
+            "start": 24243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhe",
+            "end": 24465,
+            "start": 24459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 24614,
+            "start": 24609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 24914,
+            "start": 24909,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 25008,
+            "start": 25003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 25012,
+            "start": 25010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 25282,
+            "start": 25276,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 25543,
+            "start": 25538,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wiederholt",
+            "end": 25614,
+            "start": 25604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 25751,
+            "start": 25744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 25965,
+            "start": 25959,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 26034,
+            "start": 26029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 26197,
+            "start": 26192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 26201,
+            "start": 26199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 26351,
+            "start": 26342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 26527,
+            "start": 26521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 26614,
+            "start": 26607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 26699,
+            "start": 26692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 26768,
+            "start": 26765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 26772,
+            "start": 26770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 26919,
+            "start": 26916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tun",
+            "end": 26980,
+            "start": 26977,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übergehen",
+            "end": 27104,
+            "start": 27095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 27108,
+            "start": 27106,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 27271,
+            "start": 27266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 27389,
+            "start": 27383,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 27393,
+            "start": 27391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 27500,
+            "start": 27496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlegen",
+            "end": 27604,
+            "start": 27596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 27721,
+            "start": 27717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 27725,
+            "start": 27723,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zusammengefasst",
+            "end": 27741,
+            "start": 27726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinauslaufe",
+            "end": 28008,
+            "start": 27997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 28367,
+            "start": 28363,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 28472,
+            "start": 28469,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzulasten",
+            "end": 28667,
+            "start": 28657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 28900,
+            "start": 28896,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbleiben",
+            "end": 28944,
+            "start": 28934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 28948,
+            "start": 28946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wäre",
+            "end": 29258,
+            "start": 29254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 29396,
+            "start": 29393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 29400,
+            "start": 29398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuändern",
+            "end": 29513,
+            "start": 29503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 29538,
+            "start": 29528,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 29542,
+            "start": 29540,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 29592,
+            "start": 29578,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 29596,
+            "start": 29594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 29659,
+            "start": 29648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 29863,
+            "start": 29857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 29867,
+            "start": 29865,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 30195,
+            "start": 30190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "denkbar",
+            "end": 30493,
+            "start": 30486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 30597,
+            "start": 30594,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 30601,
+            "start": 30599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "blieben",
+            "end": 30706,
+            "start": 30699,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beziehe",
+            "end": 31005,
+            "start": 30998,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliege",
+            "end": 31178,
+            "start": 31170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handle",
+            "end": 31313,
+            "start": 31307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 31317,
+            "start": 31315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 31784,
+            "start": 31778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 31860,
+            "start": 31857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 31864,
+            "start": 31862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erstentscheidung",
+            "end": 32025,
+            "start": 32009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dürfe",
+            "end": 32180,
+            "start": 32175,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebe",
+            "end": 32273,
+            "start": 32269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zutreffend",
+            "end": 32410,
+            "start": 32400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "existiere",
+            "end": 32512,
+            "start": 32503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fehle",
+            "end": 32690,
+            "start": 32685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 32694,
+            "start": 32692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfalls",
+            "end": 32851,
+            "start": 32843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 32926,
+            "start": 32921,
+            "type": "SBD"
+        },
+        {
+            "annotation": "regeln",
+            "end": 33053,
+            "start": 33047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 33057,
+            "start": 33055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kalenderjahr",
+            "end": 33172,
+            "start": 33160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungsbestandteile",
+            "end": 33208,
+            "start": 33187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliege",
+            "end": 33449,
+            "start": 33441,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 33563,
+            "start": 33558,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BUrlG",
+            "end": 33641,
+            "start": 33636,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 33737,
+            "start": 33732,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 33822,
+            "start": 33815,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 34062,
+            "start": 34055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstehe",
+            "end": 34148,
+            "start": 34140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 34241,
+            "start": 34236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 34245,
+            "start": 34243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 34417,
+            "start": 34414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 34421,
+            "start": 34419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "solle",
+            "end": 34623,
+            "start": 34618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 34716,
+            "start": 34708,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgereicht",
+            "end": 35012,
+            "start": 35001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfahren",
+            "end": 35069,
+            "start": 35060,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 35073,
+            "start": 35071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 35338,
+            "start": 35331,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sinnlos",
+            "end": 35385,
+            "start": 35378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 35389,
+            "start": 35387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erlaube",
+            "end": 35606,
+            "start": 35599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelte",
+            "end": 35856,
+            "start": 35851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 35963,
+            "start": 35955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 36000,
+            "start": 35996,
+            "type": "SBD"
+        },
+        {
+            "annotation": "halte",
+            "end": 36190,
+            "start": 36185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 36194,
+            "start": 36192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herbeizuführen",
+            "end": 36325,
+            "start": 36311,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 36412,
+            "start": 36410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 36512,
+            "start": 36507,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 36650,
+            "start": 36645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 36855,
+            "start": 36849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 37091,
+            "start": 37088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 37095,
+            "start": 37093,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 37207,
+            "start": 37202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zutreffe",
+            "end": 37442,
+            "start": 37434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 37446,
+            "start": 37444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 37538,
+            "start": 37536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 37820,
+            "start": 37816,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 37994,
+            "start": 37988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 38337,
+            "start": 38333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 38341,
+            "start": 38339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 38478,
+            "start": 38474,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 38696,
+            "start": 38693,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 38884,
+            "start": 38879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 38888,
+            "start": 38886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verfalle",
+            "end": 38998,
+            "start": 38990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sprechen",
+            "end": 39179,
+            "start": 39171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätte",
+            "end": 39448,
+            "start": 39443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anhäufens",
+            "end": 39605,
+            "start": 39596,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliege",
+            "end": 39763,
+            "start": 39755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 39767,
+            "start": 39765,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fallgestaltung",
+            "end": 39914,
+            "start": 39900,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 40105,
+            "start": 40102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 40109,
+            "start": 40107,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 40384,
+            "start": 40376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 40405,
+            "start": 40386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 40407,
+            "start": 40406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 40411,
+            "start": 40409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 40538,
+            "start": 40527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verurteilt",
+            "end": 40654,
+            "start": 40644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 40832,
+            "start": 40829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 40836,
+            "start": 40834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Banken",
+            "end": 40918,
+            "start": 40912,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genügt",
+            "end": 40953,
+            "start": 40947,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 41110,
+            "start": 41104,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 41114,
+            "start": 41112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abstellt",
+            "end": 41498,
+            "start": 41490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 41674,
+            "start": 41668,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 41829,
+            "start": 41824,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 41955,
+            "start": 41952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 41959,
+            "start": 41957,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 42202,
+            "start": 42195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubsanspruchs",
+            "end": 42264,
+            "start": 42248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 42352,
+            "start": 42349,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 42356,
+            "start": 42354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regeln",
+            "end": 42649,
+            "start": 42643,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haften",
+            "end": 42780,
+            "start": 42774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 42955,
+            "start": 42952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 43179,
+            "start": 43173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuziehen",
+            "end": 43439,
+            "start": 43428,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigen",
+            "end": 43519,
+            "start": 43504,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führt",
+            "end": 43678,
+            "start": 43673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 43682,
+            "start": 43680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 43818,
+            "start": 43813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 43822,
+            "start": 43820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Banken",
+            "end": 43923,
+            "start": 43917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BUrlG",
+            "end": 43994,
+            "start": 43989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 44137,
+            "start": 44134,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 44141,
+            "start": 44139,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsteht",
+            "end": 44369,
+            "start": 44361,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 44489,
+            "start": 44483,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 44493,
+            "start": 44491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschaffene",
+            "end": 44692,
+            "start": 44681,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausdruck",
+            "end": 44783,
+            "start": 44775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 45066,
+            "start": 45062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausdruck",
+            "end": 45182,
+            "start": 45174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ließen",
+            "end": 45352,
+            "start": 45346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 45356,
+            "start": 45354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auslegung",
+            "end": 45470,
+            "start": 45461,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 45638,
+            "start": 45634,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Betracht",
+            "end": 45846,
+            "start": 45838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tarifnorm",
+            "end": 45933,
+            "start": 45924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erwägung",
+            "end": 46014,
+            "start": 46006,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 46018,
+            "start": 46016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 46261,
+            "start": 46255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 46634,
+            "start": 46629,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unvereinbar",
+            "end": 46695,
+            "start": 46684,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 46699,
+            "start": 46697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestaltend",
+            "end": 47038,
+            "start": 47028,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubs",
+            "end": 47163,
+            "start": 47156,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 47399,
+            "start": 47392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 47403,
+            "start": 47401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fernliegend",
+            "end": 47873,
+            "start": 47862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 47877,
+            "start": 47875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 48153,
+            "start": 48147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 48157,
+            "start": 48155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Urlaubsanspruchs",
+            "end": 48319,
+            "start": 48303,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ablauf",
+            "end": 48550,
+            "start": 48544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 48554,
+            "start": 48552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herleiten",
+            "end": 48798,
+            "start": 48789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 48936,
+            "start": 48932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fehlen",
+            "end": 49091,
+            "start": 49085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "integrieren",
+            "end": 49303,
+            "start": 49292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 49516,
+            "start": 49511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "71",
+            "end": 49520,
+            "start": 49518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "enthalte",
+            "end": 49765,
+            "start": 49757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "72",
+            "end": 49769,
+            "start": 49767,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 49946,
+            "start": 49932,
+            "type": "SBD"
+        },
+        {
+            "annotation": "73",
+            "end": 49950,
+            "start": 49948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könnten",
+            "end": 50094,
+            "start": 50087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "74",
+            "end": 50098,
+            "start": 50096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 50313,
+            "start": 50308,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Parteien",
+            "end": 50462,
+            "start": 50454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 50530,
+            "start": 50523,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 50534,
+            "start": 50532,
+            "type": "SBD"
+        },
+        {
+            "annotation": "75",
+            "end": 50538,
+            "start": 50536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 50588,
+            "start": 50585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 50593,
+            "start": 50590,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzulassen",
+            "end": 50654,
+            "start": 50644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "77",
+            "end": 50658,
+            "start": 50656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einlegen",
+            "end": 50782,
+            "start": 50774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 50894,
+            "start": 50891,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG München, Urteil v. 16.01.2019 – 8 Sa 348/18\nTitel:\nKeine Befristung des Anspruchs auf Erholungsurlaub durch § 15 MTV Banken\nNormenketten:\nTVG § 1\nManteltarifvertrag für die privaten und öffentlichen Banken (MTV Banken) § 15 Nr. 1, Nr. 6\nBUrlG § 1, § 7 Abs. 3, Abs. 4, § 11\nLeitsätze:\nErfolglose Berufung des beklagten Verbandes: die Klage auf Urlaubsabgeltung scheitert nicht an\neinem Erlöschen des Urlaubsanspruchs wegen Befristung auf das Kalenderjahr vor rechtlicher\nBeendigung des Arbeitsverhältnisses; § 15 MTV Banken sieht keine Befristung des\nUrlaubsanspruchs vor. (Rn. 60 – 74)\nDie Bestimmung in § 15 Nr. 1 MTV Banken, die vorsieht, dass der Erholungsurlaub für das laufende\nKalenderjahr gewährt wird, bringt - wie § 1 BUrlG - lediglich zum Ausdruck, dass ein\nUrlaubsanspruch für jedes Kalenderjahr entsteht. Daraus folgt hingegen keine Befristung des\nAnspruchs mit der Folge des Erlöschens bei Fristablauf. Auch im Übrigen lässt sich dem\nGesamtzusammenhang der Tarifnorm eine solche Befristung nicht entnehmen. (Rn. 60 – 74) (red. LS\nAlke Kayser)\nSchlagworte:\nBefristung und Übertragung des Erholungsurlaubs, Tarifauslegung, Urlaubsabgeltung, Altersteilzeit,\nBlockmodell, Krankheit, Freistellungsphase\nVorinstanz:\nArbG München, Endurteil vom 11.04.2018 – 36 Ca 9795/17\nFundstelle:\nBeckRS 2019, 8193\nTenor\n1. Die Berufung der Beklagten gegen das Endurteil des Arbeitsgerichts München vom 11.04.2018 - 36 Ca\n9795/17 -wird auf ihre Kosten zurückgewiesen.\n2. Die Revision wird zugelassen.\nTatbestand\n1\nDie Parteien streiten noch über die Zahlung einer Abgeltung für zehn Tage nicht genommenen Urlaubs.\n2\nDer im Juni … geborene Kläger war vom … bis … bei dem beklagten Verband beschäftigt.\n3\nAuf das Arbeitsverhältnis der Parteien findet das Tarifwerk für die privaten und öffentlichen Banken\nAnwendung. Der Manteltarifvertrag für die privaten und öffentlichen Banken (im Folgenden auch: MTV\nBanken) enthält in § 15 zum Erholungsurlaub folgende Regelungen:\n„§ 15 Erholungsurlaub\n1. Der Erholungsurlaub wird für das laufende Kalenderjahr gewährt.“\nEr beträgt unabhängig von individuellen Arbeitszeitschwankungen- 30 Arbeitstage. Als Arbeitstage gelten\nalle Werktage mit Ausnahme der Sonnabende.\n2. Schwerbehinderte haben Anspruch auf einen Zusatzurlaub von 6 Arbeitstagen im Jahr.\n3. Im Verlauf des Kalenderjahres eintretende oder ausscheidende Arbeitnehmer erhalten für jeden\nBeschäftigungsmonat, in dem sie mindestens 15 Kalendertage dem Betrieb angehört haben, 1/12 des\nvollen Jahresurlaubs, aufgerundet auf volle Arbeitstage.\n4. Der Erholungsurlaub soll unter möglichster Berücksichtigung der Wünsche jedes einzelnen\nArbeitnehmers, der Familienverhältnisse und der Schulferien, erteilt werden. Er soll in größere Abschnitte\naufgeteilt werden, von denen einer mindestens 3 Wochen umfasst.\n5. Arbeitnehmern im ungekündigten Arbeitsverhältnis können im Dezember in begründeten Fällen bis zu 5\nUrlaubstage im Vorgriff auf das Folgejahr gewährt werden.\n6. Kann der Erholungsurlaub nicht mehr vor dem Ausscheiden gewährt werden, so ist er durch Zahlung\neines entsprechenden Gehaltsteils (1/21 des Monatsgehalts für jeden Arbeitstag) abzugelten.\n7. Aus anderen Gründen darf der Erholungsurlaub nicht durch Zahlung abgegolten werden. Während des\nErholungsurlaubs darf der Arbeitnehmer keine dem Urlaubszweck widersprechende Erwerbstätigkeit\nleisten. Handelt er dieser Bestimmung zuwider, so entfällt der Anspruch auf Gehaltszahlung für diese\nUrlaubstage. Bereits gezahlte Gehaltsbezüge sind zurückzuerstatten.\n8. Das Fernbleiben in Folge Krankheit darf nicht auf den Erholungsurlaub angerechnet werden.\n9. Günstigere gesetzliche Regelungen bleiben unberührt.\n…\n4\nAb dem 01.01.2014 wurde das Arbeitsverhältnis auf der Grundlage eines Altersteilzeitvertrages\ndurchgeführt. Die Parteien hatten das sogenannte Blockmodell vereinbart. Die Arbeitsphase wurde danach\nvom 01.01.2014 bis 30.09.2015 geleistet, wofür eine Vergütung von Euro 3.500,65 brutto bezahlt wurde.\nDaran anschließend folgte die Freistellungsphase vom 01.10.2015 bis zum 30.06.2017, der Kläger erhielt in\ndieser Zeit monatlich Euro 3.318,80 brutto und ab Juni 2017 Euro 3.500,65 brutto.\n5\nIm Jahr 2015 war der Kläger im Zeitraum vom 27.07.2015 bis 30.09.2015 arbeitsunfähig erkrankt. Im\nZeitpunkt des Eintritts in die Freistellungsphase der Altersteilzeit am 01.10.2015 bestand ein noch nicht\nerfüllter Urlaubsanspruch des Klägers von 22 Urlaubstagen für das Jahr 2015.\n6\nMit E-Mail vom 13.10.2015 verlangte der Kläger vom Beklagten die „Bezahlung“ von 22 Urlaubstagen. Nach\nAblehnung durch den Beklagten machte der Kläger sein Verlangen nach Urlaubsabgeltung im Klagewege\ngeltend. Mit Endurteil des Arbeitsgerichts München vom 15.12.2016 - 13 Ca 6905/16 - wurde die Klage als\nunzulässig abgewiesen.\n7\nNach Beendigung des Arbeitsverhältnisses erhob der Kläger erneut am 07.09.2017 Klage auf Zahlung einer\nUrlaubsabgeltung für 22 Tage in Höhe von 6.012,67 € brutto.\n8\nDer Kläger hat vor dem Arbeitsgericht die Auffassung vertreten, dass ihm der Anspruch auf\nUrlaubsabgeltung zustehe. Es komme vorliegend nicht auf § 7 Abs. 4 BUrlG und die dazu ergangene\nRechtsprechung des EuGH und des BAG bei andauernder Arbeitsunfähigkeit an. Der maßgebliche\nManteltarifvertrag für die privaten und öffentlichen Banken regle in § 15 Ziffer 6 ein eigenständiges\n„Urlaubsregime“, das ein Erlöschen des Urlaubsanspruchs gerade nicht vorsehe. Der tarifvertragliche\nAbgeltungsanspruch knüpfe ausschließlich daran an, dass der Urlaub nicht mehr vor dem Ausscheiden\nhabe gewährt werden können. Mit Eintritt in die Freistellungsphase und daran anschließendem\nAusscheiden aus dem Arbeitsverhältnis, sei eine Gewährung des noch offenen Urlaubs aus dem Jahr 2015\nnicht mehr möglich gewesen.\n9\nDer Kläger hat vor dem Arbeitsgericht beantragt,\nDer Beklagte wird verurteilt, 6.012,67 € brutto nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über\ndem Basiszinssatz seit dem 01.07.2017 zu zahlen.\n10\nDer Beklagte beantragt,\nDie Klage wird abgewiesen.\n11\nDer Beklagte hat die Auffassung vertreten, dass bei zutreffender Auslegung § 15 Ziffer 6 Manteltarifvertrag\nkeine von § 7 Abs. 4 BUrlG abweichende Regelung enthalte. Damit sei der im Jahr 2015 nicht in Anspruch\ngenommene Urlaub spätestens mit Ablauf des 31.03.2017 verfallen. Aus dem Fehlen einer gesonderten,\nden Bestimmungen der §§ 7 Abs. 3 Satz 2, 3 BUrlG entsprechenden Regelung könne nicht gefolgert\nwerden, dass die Tarifvertragsparteien einen Urlaubsanspruch bis zum „St. Nimmerleinstag“ hätten\naufrechterhalten wollen. Ohne eindeutige tarifliche Regelung, die vorliegend ersichtlich fehle, könne nicht\ndavon ausgegangen werden, dass die Tarifvertragsparteien insoweit vom Gesetz abweichende Regelungen\nhätten aufnehmen wollen. Darüber hinaus werde die Richtigkeit der Berechnung der Klageforderung, die\nnicht nachvollziehbar sei, bestritten.\n12\nMit Endurteil vom 11.04.2018 - 36 Ca 9795/17 - hat das Arbeitsgericht München den Beklagten zur Zahlung\nvon € 1.666,98 brutto nebst Zinsen verurteilt und die Klage im Übrigen abgewiesen.\n13\nZur Begründung seiner Entscheidung hat es ausgeführt, die Klage sei zulässig, aber nur zum Teil\nbegründet. Der Kläger könne vom Beklagten die Abgeltung des tariflichen Mehrurlaubs von zehn\nUrlaubstagen, berechnet auf der Grundlage eines Bruttomonatsverdienstes in Höhe von 3.500,65 €, mithin\nalso 1.666,98 € brutto verlangen. Der Anspruch finde seine Grundlage in § 15 Ziffer 6 MTV. Danach sei\nErholungsurlaub, der vor dem Ausscheiden nicht mehr gewährt werden könne, abzugelten, und zwar ohne\nweitergehende Anforderungen aus dem MTV selbst oder aber aus Bezugnahmen auf gesetzliche\nRegelungen. Nach dem Wortlaut der Ziffer 6 des Manteltarifvertrages sei es insbesondere nicht erforderlich,\ndass die nicht gewährten Urlaubstage noch nicht nach dem Fristenregime des § 7 Abs. 3 BUrlG und der\ndazu ergangenen Rechtsprechung verfallen seien. Das Gericht teile nicht die Auffassung des Beklagten,\nwonach sich aus § 15 Ziffer 1 MTV ergebe, dass der Erholungsurlaub grundsätzlich auf das Kalenderjahr\nbefristet sei, so dass hier zunächst ein Gleichlauf mit der Regelung des § 7 Abs. 3 Satz 1 BUrlG\nfestzustellen sei. § 15 Ziffer 1 MTV enthalte eine den gesetzlichen Regelungen der §§ 1 und 3 Abs. 1 BUrlG\nvergleichbare Regelung über die Höhe des jährlichen Urlaubsanspruches. Ebenso wenig wie allein aus den\n§§ 1 und 3 Abs. 1 BUrlG hergeleitet werden könne, dass der jährliche Urlaubsanspruch im laufenden\nKalenderjahr gewährt und genommen werden müsse und ansonsten grundsätzlich zum Ende des\nKalenderjahres verfalle, lasse sich dies aus § 15 Ziffer 1 MTV entnehmen. Die Tarifvertragsparteien hätten\nin § 15 MTV im Wesentlichen dieselben Regelungsgegenstände wie das BUrlG geregelt. So fänden sich in\ndieser Bestimmung Regelungen und zum Teil Modifizierungen der gesetzlichen Bestimmungen zu\nTeilurlaub, Berücksichtigung von Urlaubswünschen, zusammenhängender Urlaubsgewährung,\nErwerbstätigkeit und Erkrankung während des Urlaubs und Urlaubsabgeltung sowie abschließend der\nHinweis, dass günstigere gesetzliche Regelungen unberührt blieben. Dass sich die Tarifvertragsparteien\nerkennbar mit nahezu allen gesetzlichen Urlaubsbestimmungen auseinandergesetzt hätten und selbst da,\nwo inhaltlich im Grunde keine Veränderung vorgenommen worden seien, die gesetzliche Regelung in\neigenen Formulierungen wiedergegeben worden sei, hinsichtlich der zentralen Bestimmung des § 7 Abs. 3\nBUrlG aber gerade keine Regelung getroffen und auch keine Inbezugnahme vorgenommen worden sei,\nlasse nur den Schluss zu, dass eine Verfristungsregelung entsprechend oder in Anlehnung an § 7 Abs. 3\nBUrlG weder gewollt gewesen sei noch geregelt werden sollte. Es sei nicht nachzuvollziehen, woraus sich\nzwingend ergeben solle, dass mangels einer Verfristungsregelung im Manteltarifvertrag auf § 7 Abs. 3\nBUrlG zurückgegriffen werden müsse; dies insbesondere auch deshalb, weil die Tarifvertragsparteien in §\n15 Ziffer 6 MTV nicht geregelt hätten, dass Urlaubsansprüche ohne Rücksicht auf das Verfallsregime des §\n7 Abs. 3 BUrlG angesammelt werden könnten. Grundsätzlich unterlägen Ansprüche der gesetzlichen\nVerjährung, wenn nicht gesetzliche, tarifvertragliche oder einzelvertraglich vereinbarte Ausschluss-\n/Verfallsfristen Anwendung fänden. Es sei deshalb nicht ersichtlich, weshalb die Tarifvertragsparteien in §\n15 MTV hätten regeln müssen, dass ein entstandener Urlaubsanspruch nicht verfalle, wo doch allein schon\nder Verzicht auf eine entsprechende Verfristungsregelung zum selben Ergebnis führe. Die\nTarifvertragsparteien hätten deshalb mit § 15 MTV eine eigenständige, für die Arbeitnehmer günstigere\nUrlaubsregelung geschaffen, die keine dem § 7 Abs. 3 BUrlG vergleichbare Fristen - und\nVerfallsbestimmungen enthalte.\n14\nDer Beklagte weise mit Recht darauf hin, dass der Kläger bei der konkreten Berechnung der\nUrlaubsabgeltung zu Unrecht sein zuletzt bezogenes Vollzeitgehalt aus dem Dezember 2013 in Höhe von\n5.689,37 € zu Grunde gelegt habe. Zutreffender Weise seien die zuletzt erhaltenen 3.500,65 € bei der\nErmittlung des Abgeltungsbetrages nach § 15 Abs. 6 MTV heranzuziehen. 10I21 aus 3.500,65 € ergäben\nden zugesprochenen Betrag.\n15\nDie Klage bleibe ohne Erfolg, soweit der Kläger Urlaubsabgeltung für weitere zwölf Tage beanspruche. Wie\nausgeführt, enthalte § 15 MTV eine eigenständige, günstigere Urlaubsregelung, die jedoch beschränkt sei\nauf den über den gesetzlichen Mindesturlaub hinausgehenden tariflichen Mehrurlaub. Der tariflichen\nRegelung könne nicht mit dem erforderlichen Maß an Gewissheit ein Regelungswille dahin entnommen\nwerden, dass auch für den gesetzlichen Mindesturlaub das Fristenregime des § 7 Abs. 3 BUrlG außer Kraft\ngesetzt werden sollte. Der im Jahr 2015 verbliebene gesetzliche Mindesturlaub von zwölf Tagen, der wegen\ndes Eintritts in die Freistellungsphase nicht mehr habe eingebracht werden können, sei am 31.03.2017\nverfallen, eine Abgeltung komme deshalb nicht mehr in Betracht. Die erkennende Kammer folge zunächst\nder Auffassung der 13. Kammer des Arbeitsgerichts München in seiner Entscheidung vom 15.12.2016 - 13\nCa 6905/16, wonach die gesetzlichen Urlaubsansprüche aufgrund unionsrechtskonformer Auslegung des §\n7 Abs. 3 Satz 3 BUrlG erst 15 Monate nach Ablauf des Urlaubsjahres verfielen, wenn ein Arbeitnehmer aus\ngesundheitlichen Gründen andauernd an seiner Arbeitsleistung gehindert sei (vgl. im Einzelnen: BAG, Urteil\nvom 07.08.2012 - 9 AZR 353/10). Zugunsten des Klägers könne unterstellt werden, dass - selbst wenn er\nmit Beginn der Freistellungsphase wieder arbeitsfähig gewesen sei und damit sein Urlaubsanspruch\neigentlich spätestens bereits am 31.03.2016 verfallen wäre - krankheitsbedingte Arbeitsunfähigkeit und\nUnerfüllbarkeit des Urlaubs in der Freistellungsphase des Blockmodells gleichzustellen seien (vgl. hierzu\nBAG, Urteil vom 16.10.2012 - 9 AZR 234/11). Anhaltspunkte dafür, dass im Falle der\nAltersteilzeitbeschäftigung im Blockmodell anderes gelten könnte, gebe es nicht. Der Gerichtshof der\nEuropäischen Union habe in seiner Entscheidung vom 22.11.2011 - C-214/10, festgestellt, dass spätestens\n15 Monate nach Ablauf des Jahres, für das der Urlaubsanspruch erworben worden sei, der nicht in\nAnspruch genommene Urlaub verfalle. Zwar habe die Entscheidung eine Konstellation betroffen, bei der der\nArbeitnehmer während des gesamten Bezugsund Übertragungszeitraums dienstunfähig gewesen sei. Die\nhierfür maßgebende Erwägung, dass der Zweck des Urlaubsanspruchs dann nicht mehr vollständig erreicht\nwerden könne, gelte aber auch für Arbeitnehmer, die Altersteilzeit im Blockmodell gewählt hätten und\nwegen der Freistellung ihren Urlaub mehr einbringen könnten. Eine Verlängerung des\nÜbertragungszeitraums komme insoweit nicht in Betracht. Dies würde eine Besserstellung gegenüber\nArbeitnehmern in Vollzeitbeschäftigung nach sich ziehen, für die ein entsprechender Urlaubsverfall im\nKrankheitsfall einträte (vgl. hierzu zu einem vergleichbaren Fall im Beamtenrecht: BVerwG, Urteil vom\n19.11.2015 - 2 C 3/15).\n16\nErgänzend hierzu sei anzuführen, dass es sehr wohl gerechtfertigt erscheine, krankheitsbedingte\nArbeitsunfähigkeit und Unerfüllbarkeit des Urlaubs in der Freistellungsphase des Blockmodells gleich- und\nnicht besser zu stellen mit der Folge, dass nicht einbringbarer Urlaub während der Freistellungsphase\njedenfalls 15 Monate nach Ablauf des Urlaubsjahres verfalle. Ausgehend von der Überlegung, dass der\nUrlaubsanspruch nicht ein bloßer zusätzlicher Zahlungsanspruch sei, sondern vielmehr daneben auch den\nAnspruch des Arbeitnehmers auf Freistellung von der Arbeitsverpflichtung zum Zwecke der Erholung\nbeinhalte, stelle sich die Frage, weshalb ein Urlaubsanspruch eines Mitarbeiters, dem der Urlaubsanspruch\nnur deshalb nicht gewährt werden könne, weil er bereits von jeglicher Arbeitsverpflichtung freigestellt sei,\nnach Ablauf des Urlaubsjahres 15 Monate bzw. sogar noch darüber hinaus aufrechterhalten werden müsse.\nWährend einem dauererkrankten Arbeitnehmer bezahlter Urlaub deshalb nicht gewährt werden könne, weil\ner von der Arbeitsverpflichtung zum Zwecke der Genesung freigestellt sei, könne einem Arbeitnehmer in\nAltersteilzeit während der Freistellungsphase keine bezahlte Freistellung gewährt werden, weil es sich\nbereits in einer bezahlten Freistellung befinde.\n17\nErgänzend wird auf Tatbestand und Entscheidungsgründe des angegriffenen Endurteils Bezug genommen.\n18\nGegen diese Entscheidung, die ihm am 20.04.2018 zugestellt wurde, wendet sich der Beklagte mit seiner\nam 17.05.2018 eingelegten und am 16.07.2018 innerhalb verlängerter Frist begründeten Berufung.\n19\nDer Kläger hat sein Teilunterliegen hingenommen.\nDer Beklagte führt zur Begründung seines Rechtsmittels im Wesentlichen folgendes aus:\n20\nDas Arbeitsgericht habe zunächst die tatbestandlichen Voraussetzungen des Abgeltungsanspruchs aus §\n15 Ziffer 6 MTV Banken verkannt. § 15 MTV Banken habe keinen von § 7 Abs. 4 BUrlG abweichenden\nRegelungsgehalt. Auch der tarifliche Mehrurlaub des Klägers für das Jahr 2015 sei daher mit Ablauf der\nverlängerten Übertragungsfrist am 31.03.2017 erloschen. Zum Zeitpunkt des Ausscheidens des Klägers\nzum 30.06.2017 habe daher kein Urlaubsanspruch mehr existiert, der hätte abgegolten werden können.\n21\nDas Arbeitsgericht gehe von der falschen Prämisse aus, es müsse zwischen dem gesetzlichen\nMindesturlaub und einem tarifvertraglichen Mehrurlaub unterschieden werden. Diese Differenzierung sei in\n§ 15 MTV Banken jedoch nicht angelegt. Der Wortlaut verwende an keiner Stelle die Begrifflichkeiten\n„Mindesturlaub“ oder „Mehrurlaub“. Vielmehr werde in § 15 Ziffer 1 MTV Banken ein einheitlicher\nUrlaubsanspruch in Höhe von 30 Arbeitstagen geregelt. Damit hätten die Tarifvertragsparteien den\ngesamten Urlaubsanspruch der Arbeitnehmer erfassen und unter ein einheitliches Regime stellen wollen.\nDer tarifliche Urlaub schließe den gesetzlichen Urlaub erkennbar ein. Insoweit regelten sämtliche Ziffern des\n§ 15 MTV Banken den gesamten Urlaub einheitlich, ohne den gesetzlichen Mindesturlaub hiervon\nauszunehmen oder den tariflichen Mehrurlaub in irgendeiner Weise gesondert zu behandeln. Die\nEinheitlichkeit werde deutlich etwa durch § 15 Ziffer 4 Satz 2 oder § 15 Ziffer 9 MTV Banken. Es bestehe\nauch kein Anlass für die Annahme, die Tarifvertragsparteien hätten nur Regelungen für den tariflichen\nMehrurlaub treffen wollen, denn § 13 Abs. 1 BUrlG lasse Abweichungen von den gesetzlichen Vorschriften\nausdrücklich zu. Die vom Arbeitsgericht angenommene Aufspaltung lasse sich nicht begründen.\n22\nEbenfalls nicht nachvollziehbar sei die Argumentation des Arbeitsgerichts, wonach es gemäß dem Wortlaut\nder Ziffer 6 des § 15 MTV Banken nicht erforderlich sei, dass die nicht gewährten Urlaubstage noch nicht\nnach § 7 Abs. 3 BUrlG verfallen seien. Denknotwendig könne ein Abgeltungsanspruch nur gegeben sein,\nwenn der Urlaub tatsächlich noch existiere, also weder genommen worden noch verfallen sei. Die\nBegründung des Arbeitsgerichts, der Abgeltungsanspruch aus dem Tarifvertrag sei an keine weiteren\nAnforderungen geknüpft, greife zu kurz. Das Arbeitsgericht stelle erkennbar allein auf den Wortlaut des § 15\nZiffer 6 MTV Banken ab, der weder auf § 7 Abs. 3 BurlG verweise noch selbst zum Ausdruck bringe, dass\nder Urlaubsanspruch nicht verfallen sein dürfe. Dies tue aber auch § 7 Abs. 4 BUrlG nicht, ohne dass\njemand in Frage stellen würde, dass der Urlaub nicht erloschen sein dürfe. Es leuchte zudem nicht ein,\nwarum das Arbeitsgericht seine Erwägungen auf das Fristenregime des § 7 Abs. 3 BUrlG und die hierzu\nergangene Rechtsprechung beschränke, weitergehende Anforderungen aus dem MTV aber nicht\nuntersuche. Es folge jedoch bereits aus der Natur der Sache, dass Urlaub nur abgegolten werden könne,\nwenn er nicht zuvor erloschen sei.\n23\nDas Arbeitsgericht habe außerdem verkannt, dass der Urlaubsanspruch auch nach § 15 MTV Banken auf\ndas Kalenderjahr befristet sei, womit ein Gleichlauf mit der Regelung des § 7 Abs. 3 Satz 1 BUrlG sehr wohl\nexistiere. Die fehlerhafte Beurteilung beruhe unter anderem darauf, dass das Arbeitsgericht § 15 Ziffer 1\nMTV Banken allein mit den §§ 1 und 3 Abs. 1. BUrlG vergleiche. Hierbei habe das Arbeitsgericht verkannt,\ndass der Regelungsgehalt der Tarifnorm sich nicht auf den Regelungsgehalt der §§ 1 und 3 Abs. 1 BUrlG\nbeschränke. So enthalte § 15 Ziffer 1 Satz 3 MTV Banken eine mit § 3 Abs. 2 BUrlG vergleichbare\nRegelung. § 15 Ziffer 1 Satz 1 MTV Banken sei mit § 7 Abs. 3 Satz 1 wie auch mit § 1 BUrlG vergleichbar;\nes werde ein deutlicher Bezug des Erholungsurlaubs zum jeweiligen Kalenderjahr hergestellt. Im Übrigen\ngehe das BAG in ständiger Rechtsprechung davon aus, dass die gesetzliche Befristungsregelung\ngrundsätzlich auch für tariflichen Urlaub gelte, wenn der Tarifvertrag keine abweichende Bestimmung\nenthalte. Dabei sei in der Regel ein Gleichlauf der Ansprüche anzunehmen. Das Arbeitsgericht habe\nverkannt, dass die Befristungsregelung in § 7 Abs. 3 Satz 1 BUrlG in § 15 MTV Banken nicht abweichend\ngeregelt werde. § 15 Abs. 1 Satz 1 MTV Banken beschränke sich vielmehr auf den Inhalt des § 7 Abs. 3\nSatz 1 BUrlG. Dass in § 15 MTV Banken damit nur der Grundsatz der Befristung geregelt sei, ohne auch\neine Übertragungsmöglichkeit zu regeln, führe nicht zur Annahme, die Tarifvertragsparteien hätten den\ntariflichen Mehrurlaub einem eigenen Fristenregime unterstellen wollen. Denn die Übertragungsmöglichkeit\nfolge für den Urlaub sowohl im gesetzlichen als auch im tariflichen Umfang aus der Rechtsprechung des\nBAG sowie über den Verweis in § 15 Nr. 9 MTV Banken aus § 7 Abs. 3 Satz 2 und Satz 3 BUrlG, da § 15\nMTV Banken keine dem Arbeitnehmer günstigere Regelung enthalte.\n24\nEine abweichende Regelung sei auch nicht durch einen unvollständigen Verweis auf das BUrlG erfolgt, wie\ndas Arbeitsgericht angenommen habe. Wenn die Tarifvertragsparteien mit § 15 MTV Banken eine dem\nBUrlG unvollständig nachgebildete Regelung getroffen hätten, könne das auch bedeuten, dass diese im\nÜbrigen den gesetzlichen Regelungen folgen solle. Für diese Annahme spreche der ausdrückliche Verweis\nauf günstigere gesetzliche Regelungen in § 15 Abs. 9 MTV Banken. In diesem Fall könne die teilweise\nNachbildung des BUrlG rein deklaratorischen Charakter haben. Die angenommene unvollständige\nNachbildung des Gesetzes lasse mitnichten nur den vom Arbeitsgericht gezogenen Schluss zu; vielmehr sei\nauch möglich, dass § 7 Abs. 3 BUrlG mangels ausdrücklicher Abweichung auch im Rahmen des § 15 MTV\nBanken Geltung haben solle. Bei mehrdeutigem Wortlaut sei aber eine vernünftige und sachgerechte\nRegelung anzunehmen, wobei das Ansammeln nicht genommenen Urlaubs ohne jegliche Befristung\nfernliegend erscheine, da eine solche Regelung nicht nur völlig unüblich, sondern auch mit erheblichen\nNachteilen für den Arbeitgeber verbunden sei. Dass arbeitgeberseits trotz des Schutzes der Arbeitnehmer\ngemäß § 7 Abs. 3 Satz 2 und Satz 3 BUrlG ein derart großes Zugeständnis hätte gemacht werden sollen,\nkönne nicht angenommen werden.\n25\nDer lapidare Hinweis auf die gesetzliche Verjährung im Ersturteil greife ebenfalls zu kurz. Ein Ansammeln\nvon Urlaubsansprüchen bis zur Verjährung würde den Arbeitgeber ungebührlich belasten; zudem stelle sich\ndie Frage nach dem Beginn der Verjährungsfrist. Ein derartiges Ansammeln laufe auch der Konzeption des\nUrlaubsrechts zuwider; die Befristung diene dazu, den Arbeitnehmer anzuhalten, den Urlaubsanspruch\nzeitnah zum Urlaubsjahr geltend zu machen. Es hätte eine deutliche Regelung im Tarifvertrag geben\nmüssen, um ein Abweichen von dieser Regelhaftigkeit auch nur nahe zu legen.\n26\nDas einseitige Verständnis des Arbeitsgerichts habe auch zu seiner Annahme geführt, es bedürfte keiner\nRegelung, nach der der entstandene Urlaubsanspruch nicht verfalle, weil der Verzicht auf eine\nentsprechende Verfristungsregelung zum selben Ergebnis führe. Dies sei ein Zirkelschluss. Denn eine\nVerfristungsregelung sei, wie ausgeführt, schon nach dem Wortlaut des § 15 Abs. 1 Satz 1 MTV Banken\nangelegt. Auch führe der Verzicht auf eine Verfristungsregelung nicht zwangsläufig dazu, dass der\nUrlaubsanspruch nicht verfalle. Es bleibe mangels abweichender tariflicher Regelung beim Grundsatz, dass\ndie Verfristungsregelung des § 7 Abs. 3 BUrlG auch für den tariflichen Urlaub gelte. Die\nTarifvertragsparteien hätten den den 4-wöchigen Mindesturlaub übersteigenden Urlaub hiervon nicht frei\nund abweichend geregelt. Weder lägen deutliche Anhaltspunkte für eine Differenzierung zwischen\ngesetzlichen und darüberhinausgehenden Urlaubsansprüchen vor, noch hätten die Tarifparteien sich in\nweiten Teilen von der gesetzlichen Regelung gelöst und stattdessen eigene Regelungen aufgestellt. Mit\nVerfall des gesetzlichen Urlaubsanspruchs bei Ablauf des 15. Monats nach Ende des Urlaubsjahres, mithin\nam 31.03.2017, sei auch der tarifliche Urlaub des Klägers verfallen.\n27\nDas Ersturteil könne aber auch hinsichtlich der Annahme nicht nachvollzogen werden, dass von den 22\nTagen Resturlaub 12 Tage auf dem BUrlG und 10 Tage auf § 15 MTV Banken beruhen würden. Dies würde\nvoraussetzen, dass der Kläger im Jahr 2015 zunächst den gesetzlichen Mindesturlaub „verbraucht“ hätte.\nNach der Rechtsprechung des BAG gebe es aber keinen Grundsatz, nach dem zunächst der gesetzliche\nMindesturlaub getilgt werde. Vielmehr bringe die Freistellung des Arbeitnehmers auch ohne ausdrückliche\noder konkludente Tilgungsbestimmung beide Ansprüche zum Erlöschen, wenn der Anspruch auf\nErholungsurlaub auf verschiedenen Grundlagen beruhe. § 15 MTV Banken enthalte keine\nTilgungsbestimmung, was auch zeige, dass die Tarifvertragsparteien von einem Gleichlauf der Regeln\nausgegangen seien. Hätten die Tarifparteien, wie das Arbeitsgericht angenommen habe, vereinbaren\nwollen, der Anspruch auf tariflichen Mehrurlaub bestehe unbefristet fort, hätte die Arbeitgeberseite\nerhebliches Interesse an einer Tilgungsbestimmung des Inhalts gehabt, dass zunächst der tarifliche Urlaub\ngewährt werde. Einer solcher Bestimmung habe es aber nicht bedurft, da sie vom Gleichlauf ausgegangen\nseien.\n28\nSoweit der Kläger geltend mache, die Tarifvertragsparteien hätten schon deshalb eigenständige\nRegelungen in Abweichung vom BUrlG vereinbaren wollen, weil sie anderenfalls schlicht auf die\ngesetzlichen Vorschriften hätten verweisen können, könne dem nicht gefolgt werden. Zum einen dürfte\nbekannt sein, dass Tarifbestimmungen nicht stets gesetzliche Vorschriften abänderten, mithin aus der\nTatsache vereinbarter Regelungen im Tarifvertrag nicht zwingend auf einen eigenen und abweichenden\nGestaltungswillen geschlossen werden könne. Oftmals würden gesetzliche Vorschriften nur deklaratorisch\nwiederholt. Es könne ohne eindeutige tarifliche Regelung also nicht davon ausgegangen werden, dass vom\nGesetz abweichende Regelungen gelten sollten. Der Kläger habe auch zu den vorliegend interessierenden\nRegelungsgegenständen der Befristung, der Übertragung und des Verfalls in § 15 MTV Banken keine vom\nBUrlG abweichende tarifliche Regelungen aufzeigen können. Auch seine Argumentation zu § 15 Ziffer 9\nMTV Banken verfange nicht; es sei nicht erkennbar, warum diese Regelung für den gesetzlichen\nMindesturlaub rein deklaratorisch, für den tariflichen Mehrurlaub aber konstitutiv wirken solle.\n29\nEntgegen der Auffassung des Klägers kämen die vom EuGH in seiner Entscheidung vom 06.11.2018\nfestgestellten Grundsätze vorliegend nicht zur Anwendung. Anders als in den Urteilen C-619/16 und C-\n684/16 sei es dem Beklagten vorliegend nicht möglich gewesen, den Kläger in die Lage zu versetzen, den\nUrlaub rechtzeitig zu nehmen. Denn der Kläger sei vor Eintritt in die Freizeitphase arbeitsunfähig erkrankt\ngewesen. Vorliegend sei eine tatsächliche Inanspruchnahme daher gerade nicht möglich gewesen.\nEntgegen klägerischer Auffassung liege kein Wertungswiderspruch vor.\n30\nEs helfe dem Kläger auch nicht, dass der Urlaubsanspruch nach den Entscheidungen des EuGH in den\nRechtssachen C-659/16 und C-570/16 vererblich sei. Dies habe mit dem hier streitigen Sachverhalt nichts\nzu tun. Denn bestehe beim Tod des Arbeitnehmers kein Urlaubsanspruch mehr, so könne dieser\nselbstverständlich auch nicht übergehen.\n31\nIm Übrigen führe der Kläger selbst aus, dass die Gewährung des Urlaubsanspruchs und seine Abgeltung\naußerhalb des Sonderfalls der Erkrankung weit auszulegen seien; genau dieser Sonderfall sei hier aber\ngegeben, weil der Kläger krankheitsbedingt den Urlaub nicht habe nehmen können.\n32\nSchließlich sei festgehalten, dass der Kläger die Altersteilzeitvereinbarung freiwillig abgeschlossen habe.\nEin unvorhersehbares Geschehen, wie es der Tod des Arbeitnehmers in der Regel sei, habe nicht vorlegen.\nEs fehle auch unter diesem Gesichtspunkt an einer Übertragbarkeit der Grundsätze des EuGH auf den\nvorliegenden Fall.\n33\nZusammengefasst: Der EuGH habe in den sogenannten Schultz/Hoff- und KHSEntscheidungen eine\nRisikoteilung zwischen Arbeitgeber und Arbeitnehmer vorgenommen, die letztendlich auf einen 15-\nmonatigen Übertragungszeitraum und ein nachfolgendes Erlöschen der Urlaubsansprüche hinauslaufe.\nDiesen Risikoausgleich habe der EuGH in den jüngeren Entscheidungen (King aus 2017 und die div.\nEntscheidungen aus 2018) nicht verändert, sondern nur für Fälle ergänzt, in denen der Arbeitgeber\nHandlungsmöglichkeiten gehabt habe, um die Urlaubseinbringung zu fördern, mit anderen Worten, in\nFällen, in denen der Arbeitgeber sich nicht korrekt verhalten habe. Ein Fall, in dem der Arbeitgeber die\nEinbringung des Urlaubs hätte fördern können, liege hier nicht vor. Weder habe der Arbeitgeber\nVerantwortung für die Erkrankung des Klägers gehabt, noch sei ihm die Unmöglichkeit, in der vereinbarten\nPassivphase der Altersteilzeit Urlaub zu gewähren, anzulasten. Da also von einem maximal 15-monatigen\nÜbertragungszeitraum auszugehen sei, der beim maßgeblichen rechtlichen Ende des Arbeitsverhältnisses\nabgelaufen gewesen sei, sei kein Urlaub mehr vorhanden gewesen, der abzugelten gewesen wäre. Es\nmüsse bei der Klageabweisung verbleiben.\n34\nWenn der Kläger auf die Möglichkeit der Gestaltung des Altersteilzeitvertrages hinweise, sei ihm entgegen\nzu halten, dass eine Überforderung des Arbeitgebers durchaus in Betracht zu ziehen sei, nämlich bei der\nangenommenen Fallgestaltung, dass der Kläger zu Beginn der Aktivphase dauerhaft krank geworden wäre.\nDiese Möglichkeit sei bei der Auslegung der Rechtssätze des EuGH heranzuziehen, auch wenn sie im\nvorliegenden Fall nicht einschlägig sei.\n35\nDer Beklagte beantragt,\n1. das Urteil des Arbeitsgerichts München vom 11.04.2018, Az.: 36 Ca 9795/17, abzuändern,\n2. die Klage abzuweisen.\n36\nDer Kläger beantragt,\ndie Berufung zurückzuweisen.\n37\nDer Kläger hält das Rechtsmittel des Beklagten für unbegründet. Er bestreite in tatsächlicher Hinsicht, dass\ndie Tarifvertragsparteien keine Abweichung von der in § 7 Abs. 3 BUrlG festgelegten Befristung des\nJahresurlaubs auf das Kalenderjahr hätten begründen wollen.\n38\nDie vom Beklagten gegen eine Aufteilung in gesetzlichen Mindesturlaub und tariflichen Mehrurlaub\nangeführten Beispiele aus § 15 Ziff. 4 Satz 2 und § 15 Ziff. 9 MTV Banken stünden der Annahme des\nArbeitsgerichts nicht entgegen, dass vorliegend ein gesetzlicher Mindesturlaubsanspruch und ein tariflicher\nMehrurlaub gegeben seien. Dass gemäß § 15 Ziff. 4 Satz 2 MTV Banken ein zusammenhängender\nUrlaubsabschnitt von mindestens drei Wochen gewährt werden solle, sei nicht nur bei einem einheitlichen\nUrlaubsanspruch, sondern selbstverständlich auch bei einem nach Mindest- und Mehrurlaub\nunterscheidenden Regelungsgefüge denkbar. Die Tarifnorm sei nicht zwingend dahin zu verstehen, dass\neine Aufteilung vorliegend nicht gegeben sei.\n39\nSelbiges gelte für § 15 Ziff. 9 MTV Banken, nach dem günstigere gesetzliche Regelungen unberührt\nblieben. Gerade die Tatsache, dass die Tarifvertragsparteien etliche Regelungen getroffen hätten, die zwar\ngegenüber gesetzlichen Vorschriften eigenständige Formulierungen aufwiesen, inhaltlich aber nichts\nveränderten, spreche dafür, dass sich § 15 Ziff. 9 MTV Banken auf den tariflichen Mehrurlaub beziehe. Für\ndie gesetzliche Mindesturlaubsthematik sei die Regelung dann als rein deklaratorisch zu verstehen,\nwährend für den tariflichen Mehrurlaub konstitutive Wirkung vorliege. Auch aus § 15 Ziff. 9 MTV Banken\nkönne also nicht hergeleitet werden, dass es sich hier um einen einheitlichen Urlaubsanspruch handle.\n40\nNach der Rechtsprechung des BAG sei ein Gleichlauf zwischen gesetzlichem Mindest- und tariflichem\nMehrurlaub dann nicht gewollt, wenn die Tarifparteien entweder bei der Befristung oder der Übertragung\nbzw. beim Verfall des Urlaubs zwischen gesetzlichem Mindestund tariflichem Mehrurlaub unterschieden\noder sich vom gesetzlichen Fristenregime gelöst und eigenständige, vom Gesetz abweichende Regelungen\nzur Befristung und Übertragung bzw. zum Verfall getroffen hätten. Der Kläger sei weiterhin der Auffassung,\ndass dies vorliegend der Fall sei.\n41\nDie Ausführungen des Beklagten zur notwendigen Existenz des Urlaubsanspruchs für eine Abgeltung\nberuhten auf einem fehlerhaften Verständnis der Erstentscheidung. Das Arbeitsgericht habe nicht den\nRechtssatz aufgestellt, dass für eine Abgeltung nach § 15 Ziff. 6 MTV Banken der Urlaub noch nicht\nerloschen sein dürfe. Vielmehr habe es darauf abgestellt, dass es im MTV Banken gar keine\nErlöschensregelung gebe. Dass § 7 Abs. 4 BUrlG selbst nicht regle, dass der Urlaub noch nicht erloschen\nsein dürfe, um abgegolten zu werden, sei zwar zutreffend; dies sei allerdings auch notwendig, da die\ngesetzliche Regelung in § 7 Abs. 3 Satz 1 BUrlG existiere. Das Arbeitsgericht habe gerade darauf\nabgestellt, dass § 15 Ziff. 6 MTV Banken zwar die Abgeltung anordne, es aber - im Gegensatz zum Gesetz\n- an einer Erlöschensregelung fehle.\n42\nEntgegen der Auffassung des Beklagten regle § 15 MTV Banken insgesamt eine von § 7 BUrlG\nabweichende Konzeption des Urlaubs und insbesondere seines Verfalls. Unionsrechtliche Bindungen\nbestünden für den tariflichen Mehrurlaub nicht; die Tarifparteien könnten Urlaubs- und\nUrlaubsabgeltungsansprüche für den den Mindesturlaub übersteigenden Urlaub frei regeln.\n43\nEntgegen der Auffassung des Beklagten enthalte § 7 Abs. 3 BUrlG eine Befristung des Anspruchs auf das\nKalenderjahr. Er habe zwei Regelungsbestandteile; zum einen werde im Zusammenhang der Sätze 1 und 2\nfestgestellt, dass der Urlaubsanspruch nur im laufenden Kalenderjahr bestehe, und zum anderen dort\nsowohl gewährt als auch genommen werden müsse, soweit kein Übertragungstatbestand vorliege.\nDemgegenüber regle § 15 Ziff. 1 MTV Banken, dass der Erholungsurlaub für das laufende Kalenderjahr\ngewährt werde. Die Formulierung sei mitnichten nahezu identisch mit § 7 Abs. 3 Satz 1 BUrlG. Es fehle\nbereits daran, dass ausgesprochen werde, dass der Urlaub auch „genommen“ werden müsse. Ausgedrückt\nwerde dort lediglich, dass pro Kalenderjahr ein Urlaubsanspruch bestehe. Wegen der fehlenden Anordnung,\ndass der Urlaub im Kalenderjahr auch genommen werden müsse, und des Fehlens einer dem § 7 Abs. 3\nSatz 2 BUrlG vergleichbaren Übertragungsregelung sei eine Befristung des Urlaubsanspruchs gerade nicht\ngegeben. Geregelt werde nur, dass der Anspruch von 30 Tagen nur für ein Kalenderjahr entstehe. Dass er\nmit dem Ende des Kalenderjahres untergehe, regle § 15 Nr. 1 MTV Banken gerade nicht.\n44\nAuch wegen des Fehlens einer Regelung zum Übertragungszeitraum müsse davon ausgegangen werden,\ndass der Urlaubsanspruch erhalten bleibe, soweit er nicht erfüllt worden sei.\n45\nNicht zu folgen sei der Auffassung des Beklagten, aus der unvollständigen Nachbildung der gesetzlichen\nRegelung könne ebenso gut der Schluss gezogen werden, dass § 7 Abs. 3 BUrlG Anwendung finden solle.\nEs stelle sich die Frage, weshalb § 15 MTV Banken überhaupt abweichende Regelungen enthalte. Wenn\ndie Auffassung der Beklagten zutreffe, § 7 BUrlG und auch die restlichen Normen des BUrlG sollten\nohnehin gelten, hätte es nur hinsichtlich der Höhe des Mehrurlaubsanspruchs einer tariflichen Regelung\nbedurft, denn im Übrigen hätte ein Verweis auf die gesetzlichen Vorschriften ausgereicht. Die\nTarifvertragsparteien seien aber nicht so verfahren.\n46\nEs könne nicht angenommen werden, dass die Tarifparteien den Urlaubsanspruch zwar in immerhin 9\nZiffern in § 15 MTV Banken gestaltet hätten, dies aber ohne Auswirkungen bleiben solle, weil ohnehin die\nRegelungen des BUrlG - und damit auch sein § 7 - gelten sollten. Die getroffenen Regelungen wären dann\nsinnlos.\n47\nDer zutreffende Hinweis des Arbeitsgerichts auf die allgemeine Verjährungsfrist spreche gegen die\nAuffassung, dass der MTV Banken in der Auslegung des Klägers ein unbefristetes Ansammeln von\nUrlaubsansprüchen erlaube. Im Übrigen sei zu beachten, dass der EuGH in seiner Entscheidung vom\n29.11.2017 - C-214/16 - King darauf hingewiesen habe, dass die Begrenzung der Übertragung des\nUrlaubsanspruchs auf die folgenden 15 Kalendermonate nur im Falle der Krankheit gelte. Nur bei Vorliegen\nbesonderer Umstände sei im Übrigen eine entsprechende Begrenzung notwendig und zulässig. Dies sei\nbeim Kläger nicht der Fall. Überdies zeige sich, dass der EuGH das Ansammeln von Ansprüchen ohne\nzeitliche Begrenzung, außerhalb des Falls der dauerhaften Arbeitsunfähigkeit, nach wie vor für rechtlich\nzulässig halte.\n48\nEs wäre eine ausdrückliche Verfristungsregelung im Tarifvertrag erforderlich, um einen Verfall des\nUrlaubsanspruchs herbeizuführen. Die Konzeption des Urlaubs in § 15 MTV Banken weiche deutlich von\nder gesetzlichen ab. Wie ausgeführt, fehle eine Anordnung, dass der Urlaub im laufenden Jahr auch\ngenommen werden müsse. Darin sei keine Akzeptanz der gesetzlichen Regelungen zu sehen, da auch an\nanderen Stellen bedeutsame Unterschiede geregelt worden seien. So werde in § 15 Ziff. 3 MTV Banken der\nTeilurlaub abweichend von § 5 BUrlG geregelt, und nach § 15 Ziffer 5 MTV Banken könnten\nUrlaubsansprüche sogar im Vorgriff auf das neue Kalenderjahr gewährt werden. Schließlich regle § 15 Ziff.\n6 MTV Banken, dass der Urlaub gegen Zahlung von 1/21 des Monatsgehalts abzugelten sei, wenn er nicht\nmehr genommen werden könne, womit eine Abweichung von § 7 Abs. 4 i. V. m. § 11 BUrlG geregelt\nworden sei.\n49\nZu Recht sei das Arbeitsgericht davon ausgegangen, dass von den 22 Urlaubstagen 10 Urlaubstage\nabzugelten seien. Die von der Beklagten für ihre abweichende Auffassung zitierte Rechtsprechung sei zu\nSachverhalten ergangen, in denen der Tarifvertrag keine Unterscheidung zwischen tariflichem und\ngesetzlichem Urlaub vorsehe, was hier nicht zutreffe.\n50\nHinzuweisen sei auch auf die Entscheidungen des EuGH vom 06.11.2008 - C-619/16 und C-684/16.\nDanach lasse es das Unionsrecht nicht zu, dass ein Arbeitnehmer die ihm zustehenden Urlaubstage bzw.\nden Anspruch auf eine finanzielle Vergütung automatisch schon deshalb verliere, weil er vor Beendigung\ndes Arbeitsverhältnisses oder im Bezugszeitraum keinen Urlaub beantragt habe. Urlaubsansprüche könnten\nnur untergehen, wenn der Arbeitnehmer vom Arbeitgeber tatsächlich in die Lage versetzt worden sei, die\nfraglichen Urlaubstage rechtzeitig zu nehmen. Es läge ein Wertungswiderspruch vor, wenn angenommen\nwürde, dass der Urlaubsanspruch bei rechtlicher Unmöglichkeit der Einbringung aufgrund durch\nAltersteilzeit bedingter Freistellung verfalle, während ein Verfall ausgeschlossen sei, wenn der Urlaub\ntatsächlich hätte eingebracht werden können, der Arbeitnehmer ihn aber nicht beantragt habe.\n51\nZu beachten sei auch, dass der EuGH auf die Verankerung des Rechts auf bezahlten Jahresurlaubs in der\nGrundrechtscharta hingewiesen habe. Insoweit sei auch von Bedeutung, dass der EuGH in den\nRechtssachen C-659/16 und C-570/16 bekräftigt habe, dass der Anspruch auf bezahlten Jahresurlaub bei\nTod des Arbeitnehmers nicht untergehe, sondern vererblich sei. Die genannten Entscheidungen\nbekräftigten die Ansicht des EuGH, dass die Gewährung des Urlaubsanspruchs und seine Abgeltung\naußerhalb des Sonderfalls der Erkrankung weit auszulegen seien.\n52\nDer Beklagte verkenne, dass Ausgangspunkt der EuGH-Rechtsprechung die Annahme sei, dass Urlaub\nnicht verfalle. Für die überragende Bedeutung des Urlaubsanspruchs und seiner wirtschaftlichen Abgeltung\nwürden auch die Erwägungen des EuGH zur Frage der Vererblichkeit dieses Anspruchs sprechen. Nur in\nAusnahmefällen könne dieser Anspruch durch Übertragungszeiträume und Verfall eingeschränkt werden,\nnamentlich bei lang andauernder Erkrankung oder in anderen Fällen, in denen der Arbeitgeber ansonsten\nüberfordert wäre, wenn er keine Abwendungsmöglichkeit hätte. Hier liege aber schon keine Überforderung\ndes Beklagten vor, weil es nur um den Urlaub eines Kalenderjahres gehe und nicht um die Gefahr weiteren\nAnhäufens. Im Übrigen würden wohl Abhilfemöglichkeiten durch die Gestaltung des Altersteilzeitvertrages\nbestanden haben, sodass auch keine Schutzbedürftigkeit vorliege.\n53\nSoweit der Beklagte auf die Möglichkeit einer Erkrankung zu Beginn der Aktivphase abstelle, handle es sich\num eine nur theoretische Fallgestaltung. Der Kläger habe im üblichen Verfahren seinen restlichen Urlaub\nbeantragt und vom Vorgesetzten genehmigt erhalten, und zwar - grob gesagt - für den Zeitraum, in dem er\ndann krank gewesen sei.\n54\nErgänzend wird wegen des Vorbringens der Parteien im Berufungsverfahren auf die Schriftsätze des\nBeklagten vom 16.07.2018 und vom 12.12.2018, auf die Schriftsätze des Klägers vom 17.08.2018 und vom\n09.11.2018 sowie auf die Sitzungsniederschrift vom 12.12.2018 Bezug genommen.\nEntscheidungsgründe\nI.\n55\n1. Die gemäß § 64 Abs. 1, Abs. 2 lit. c) ArbGG statthafte und auch im Übrigen zulässige Berufung des\nBeklagten ist unbegründet. Entgegen seiner Auffassung wurde er zu Recht zur Zahlung der Abgeltung für\nzehn verbliebene Urlaubstage verurteilt. Ob die Klage in vollem Umfang als begründet anzusehen gewesen\nwäre, war nicht zu entscheiden, da die Teilabweisung der Klage durch das Arbeitsgericht rechtskräftig\ngeworden ist.\n56\nDer Anspruch auf Urlaubsabgeltung findet seine Grundlage in § 15 Nr. 6 MTV Banken. Seinen\nVoraussetzungen ist genügt; der tarifliche Erholungsurlaub konnte (jedenfalls) im noch streitbefangenen\nUmfang von zehn Tagen vor dem Ausscheiden des Klägers nicht mehr gewährt werden.\n57\nDabei wird - mit dem Beklagten - davon auszugehen sein, dass die Tatbestandsvoraussetzungen für eine\nAbgeltung des Urlaubs gem. § 15 Nr. 6 MTV Banken sich inhaltlich nicht von denen des § 7 Abs. 4 BUrlG\nunterscheiden, und dass insbesondere die tarifliche Formulierung „Ausscheiden“ die rechtliche Beendigung\ndes Arbeitsverhältnisses bezeichnet, auf die auch § 7 Abs. 4 BUrlG abstellt. Weiter wird der Annahme des\nBeklagten zuzustimmen sein, dass vor dem Ausscheiden im genannten Sinne bereits erloschene\nUrlaubsansprüche nicht zu einer Abgeltung führen können. Zutreffend ist auch seine Ansicht, dass die\nTarifvertragsparteien einen einheitlichen Urlaubsanspruch von 30 Arbeitstagen pro Kalenderjahr geregelt\nhaben. Dies vermag jedoch nichts daran zu ändern, dass der Beklagte zur Zahlung von Abgeltung für zehn\nUrlaubstage verpflichtet ist.\n58\n2. Denn nicht zu folgen ist seiner Auffassung, der verbliebene Urlaub aus dem Jahr 2015 sei bei der\nrechtlichen Beendigung des Arbeitsverhältnisses am 30.06.2017 in Folge einer im Tarifvertrag\nvorgesehenen Befristung bereits erloschen gewesen. Der MTV Banken enthält keine Befristung des\nUrlaubsanspruchs. Dies ergibt seine Auslegung, die nach den Regeln der Gesetzesauslegung zu erfolgen\nhat.\n59\n2.1. Nach ständiger Rechtsprechung des BAG (vgl. etwa Urteil vom 22.04.2010 - 6 AZR 962/08, BAGE 134,\n184-196, Juris, Rn. 17), der sich die erkennende Berufungskammer anschließt, folgt die Auslegung des\nnormativen Teils eines Tarifvertrages den für die Auslegung von Gesetzen geltenden Regeln. Danach ist\nvom Tarifwortlaut auszugehen, wobei der maßgebliche Sinn der Erklärung zu erforschen ist, ohne am\nBuchstaben zu haften. Bei nicht eindeutigem Wortlaut ist der wirkliche Wille der Tarifvertragsparteien mit zu\nberücksichtigen, soweit er in den tariflichen Normen seinen Niederschlag gefunden hat. Abzustellen ist stets\nauf den tariflichen Gesamtzusammenhang, weil dieser Anhaltspunkte für den wirklichen Willen der\nTarifvertragsparteien liefert und nur so Sinn und Zweck der Tarifnorm zutreffend ermittelt werden können.\nLässt dies zweifelsfreie Auslegungsergebnisse nicht zu, dann können die Gerichte für Arbeitssachen ohne\nBindung an eine Reihenfolge weitere Kriterien, wie die Entstehungsgeschichte des Tarifvertrages, ggf. auch\ndie praktische Tarifübung ergänzend hinzuziehen. Auch die Praktikabilität denkbarer Auslegungsergebnisse\nist zu berücksichtigen. Im Zweifel gebührt derjenigen Tarifauslegung der Vorzug, der zu einer vernünftigen,\nsachgerechten, zweckorientierten und praktisch brauchbaren Regelung führt.\n60\n2.2. Bei Anwendung dieser Grundsätze ergibt sich, dass die Tarifvertragsparteien keine Befristung des\nUrlaubsanspruchs vereinbart haben.\n61\n2.2.1. Eine Befristung des tariflichen Urlaubsanspruchs folgt nicht aus § 15 Nr. 1 Satz 1 MTV Banken. Sein\nRegelungsgehalt entspricht nicht dem des § 7 Abs. 3 Satz 1 BUrlG. Die abweichende Ansicht des\nBeklagten trägt dem Umstand nicht Rechnung, dass die Auslegung tariflicher Normen an den Wortlaut\nanzuknüpfen hat.\n62\nDie von den Tarifvertragsparteien gewählte Formulierung, der Erholungsurlaub werde für das laufende\nKalenderjahr gewährt, bringt - wie § 1 BUrlG - lediglich zum Ausdruck, dass ein Urlaubsanspruch für jedes\nKalenderjahr entsteht. Sie reicht nicht hin, um eine Befristung des Anspruchs mit der Folge des Erlöschens\nbei Fristablauf annehmen zu können.\n63\nDer von der gesetzlichen Regelung des § 7 Abs. 3 Satz 1 BUrlG hergestellte Zusammenhang zwischen\nUrlaubsanspruch und Kalenderjahr ist deutlich enger als der durch die tarifliche Regelung geschaffene.\nErstere bringt die Notwendigkeit einer jährlichen Realisierung des Anspruchs zum Ausdruck; dies geschieht\ndadurch, dass sie nicht nur von einer Gewährung des Urlaubs spricht, sondern davon, dass er zu gewähren\nund zu nehmen ist, was deutlich auf die Erfüllung des Anspruchs in einem bestimmten Zeitraum hinweist,\nund durch die Formulierung „im“ Kalenderjahr bestätigt wird. Dass die Bindung an den Zeitraum zwingend\nist, kommt durch die Verwendung des Verbs „müssen“ deutlich zum Ausdruck. Die Tarifnorm lässt dagegen\nall diese Elemente vermissen, und sie enthält keine anderen, die auf einen von vorne herein befristet\neingeräumten Anspruch schließen ließen.\n64\n2.2.2. Der Gesamtzusammenhang der Regelungen in § 15 MTV Banken bestätigt die aus dem Wortlaut\nfolgende Auslegung. An keiner Stelle enthält die Tarifnorm Regelungen zur Übertragung des\nUrlaubsanspruchs, wie sie etwa in § 7 Abs. 3 Satz 2 sowie Satz 3 und Satz 4 BUrlG zu finden sind. Dies mit\ndem Willen der Tarifvertragsparteien zu einer ausnahmslosen und also strengeren Bindung des Urlaubs an\ndas Kalenderjahr, als sie der Gesetzgeber vorgesehen hat, zu erklären, kommt nicht in Betracht; dagegen\nspricht schon die eben erörterte „weichere“ sprachliche Fassung der Tarifnorm. Auch der Beklagte zieht\ndiesen Erklärungsversuch - zu Recht - nicht in Erwägung.\n65\nSeiner Ansicht, die Tarifpartner hätten trotz des Fehlens von Übertragungsregelungen die gesetzlichen\nRegelungen zur grundsätzlichen Befristung und in Ausnahmefällen möglichen Übertragung des Urlaubs\nzugrunde gelegt, kann nicht gefolgt werden. Sie würde voraussetzen, § 15 Abs. 1 Satz 1 MTV Banken als\nRegelung einer strikten Befristung des Erholungsurlaubs - ohne jede Übertragungsmöglichkeit - zu\nverstehen, die dann erst über § 15 Nr. 9 MTV Banken durch die Anwendung der - gegenüber dieser strikten\nBindung dann „günstigeren gesetzlichen Regelungen“, auf die allein die Verweisungsnorm abstellt,\ngemildert würde. Dies ist mit der Systematik des § 15 MTV Banken unvereinbar.\n66\nWie das Arbeitsgericht zutreffend hervorgehoben hat, spricht § 15 MTV Banken als tarifliche\nUrlaubsregelung nämlich praktisch jede Thematik an, die in den §§ 1 bis 11 BUrlG eine Regelung erfahren\nhat, wenn auch teilweise -wie etwa bei der Frage der Erwerbstätigkeit während des Urlaubs - nur\nwiederholend und nicht eigenständig gestaltend. Die tarifliche Urlaubsregelung erscheint also insgesamt als\neine in sich geschlossene Ausgestaltung des tariflichen Urlaubs. § 15 Nr. 9 MTV-Banken vermag daran\nnichts zu ändern, weil er keine pauschale ergänzende Bezugnahme enthält, sondern nur den Hinweis auf\nden Vorrang günstigerer gesetzlicher Regelung, der sich schon aus § 13 Abs. 1 Satz 1 BUrlG erklärt.\n67\nDass eine tarifliche Regelung, die in dieser Weise Anspruch auf Vollständigkeit erhebt, die praktisch\nwichtigen Fragen der Befristung des Urlaubsanspruchs und seiner Übertragungsmöglichkeiten voneinander\ngetrennt durch Niederlegung des Grundsatzes einer strikten Befristung im Tarifvertrag und seiner\nAusnahmen (in Gestalt der gesetzlichen Übertragungsmöglichkeiten) durch eine allgemein formulierte\nVerweisung auf das Gesetzesrecht regeln wollte, erscheint fernliegend.\n68\nMithin spricht das Fehlen der Regelung von Übertragungstatbeständen im Tarifvertrag, anders als der\nBeklagte meint, für die Annahme, dass sie von den Tarifvertragsparteien mangels einer strikten Bindung\ndes Urlaubsanspruchs an das Kalenderjahr für entbehrlich erachtet wurden.\n69\n2.2.3. Die Tarifnorm enthält auch in den § 15 Abs. 1 Satz 1 nachfolgenden Sätzen keine (ausdrückliche)\nRegelung einer Befristung des tariflichen Urlaubsanspruchs. Weder durch die Wiedergabe gesetzlicher\nFormulierungen noch in eigenen Worten der Tarifvertragsparteien findet sich die Aussage, der\nUrlaubsanspruch sei auf das Kalenderjahr befristet oder erlösche ohne Weiteres mit dessen Ablauf.\n70\n2.2.4. Entgegen der Ansicht des Beklagten lässt sich auch nicht aus § 15 Nr. 5 MTV Banken, der unter\nbestimmten Umständen die Urlaubsgewährung im Vorgriff auf das Folgejahr ermöglicht, der Grundsatz der\nBindung an das „laufende Jahr“ herleiten. Die tarifliche Regelung betrifft die - im Gesetz nicht vorgesehene -\nErfüllung von Urlaubsansprüchen, die noch gar nicht entstanden sind. Eine derartige Möglichkeit bedarf der\nRegelung sowohl bei grundsätzlicher Bindung an das Kalenderjahr nach gesetzlichem Vorbild als auch bei\nderen Fehlen. Die schlichte Existenz des § 15 Nr. 5 MTV Banken belegt damit nicht den Willen der\nTarifvertragsparteien, den gesetzlichen Grundsatz der Befristung auf das Kalenderjahr in die tarifliche\nRegelung zu integrieren. Im Gegenteil kann die Regelung als Beleg dafür verstanden werden, dass die\nTarifvertragsparteien eine nur lose Beziehung des Urlaubsanspruchs zum jeweiligen Kalenderjahr ihrer\nRechtssetzung zugrunde gelegt haben.\n71\n2.2.5. Nicht zu folgen ist auch der Annahme des Beklagten, die (entsprechende) Geltung der gesetzlichen\nBefristungs- und Übertragungsregelungen lasse sich daraus herleiten, dass der Tarifvertrag keine\nausdrückliche abweichende Regelung enthalte.\n72\nEin „Gleichlauf“ ist hier vielmehr aufgrund des erkennbaren Anspruchs der Tarifvertragsparteien, eine in\nsich geschlossene und vollständige Regelung zu schaffen, ausgeschlossen.\n73\n2.2.6. Die von der Beklagten zitierte Literaturstelle enthält keine Argumente, die das dargestellte\nAuslegungsergebnis in Frage stellen könnten.\n74\n2.3. Es bleibt mithin festzuhalten, dass aus Wortlaut und Gesamtzusammenhang der tariflichen Regelung\ndeutlich wird, dass die Tarifvertragsparteien keine Befristung des tariflichen Urlaubsanspruchs vorgesehen\nhaben. Damit scheitert der Abgeltungsanspruch nicht am Erlöschen des Urlaubsanspruchs vor der\nrechtlichen Beendigung des Arbeitsverhältnisses der Parteien. Der Berufung des Beklagten musste damit\nder Erfolg versagt bleiben.\nII.\n75\nDie Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.\nIII.\n76\nDie Revision war nach § 72 Abs. 2 Nr. 1 ArbGG zuzulassen.\n77\nDer Beklagte kann mithin gegen das vorliegende Urteil nach Maßgabe der nachfolgenden\nRechtsmittelbelehrungRevision einlegen. Dem Kläger steht kein Rechtsmittel zur Verfügung, da er durch die\nvorliegende Entscheidung nicht beschwert ist.\n\n"
+}

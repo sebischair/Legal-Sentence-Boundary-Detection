@@ -1,0 +1,281 @@
+{
+    "Annotations": [
+        {
+            "annotation": ")",
+            "end": 48,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 266,
+            "start": 263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 334,
+            "start": 328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleich",
+            "end": 437,
+            "start": 431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspartner",
+            "end": 458,
+            "start": 443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mit",
+            "end": 489,
+            "start": 486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 500,
+            "start": 491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 511,
+            "start": 505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Preise",
+            "end": 587,
+            "start": 581,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 668,
+            "start": 656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übernehmen",
+            "end": 803,
+            "start": 793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versand",
+            "end": 828,
+            "start": 821,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bordsteinkante",
+            "end": 1131,
+            "start": 1117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 1279,
+            "start": 1273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 1421,
+            "start": 1418,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 1446,
+            "start": 1427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fällig",
+            "end": 1517,
+            "start": 1511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1778,
+            "start": 1768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 1817,
+            "start": 1801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistungsrechte",
+            "end": 1900,
+            "start": 1879,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 2105,
+            "start": 2098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Monate",
+            "end": 2204,
+            "start": 2198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 2253,
+            "start": 2251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anschrift",
+            "end": 2264,
+            "start": 2255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2508,
+            "start": 2502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2570,
+            "start": 2564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 2856,
+            "start": 2849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2880,
+            "start": 2862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2958,
+            "start": 2950,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 2971,
+            "start": 2964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragspflichten",
+            "end": 3056,
+            "start": 3039,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 3363,
+            "start": 3358,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 3624,
+            "start": 3614,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantie",
+            "end": 3861,
+            "start": 3853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfüllungsgehilfen",
+            "end": 3964,
+            "start": 3946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 4000,
+            "start": 3989,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 4019,
+            "start": 4001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 4034,
+            "start": 4020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Datenschutz",
+            "end": 4051,
+            "start": 4040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weitergegeben",
+            "end": 4243,
+            "start": 4230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandelt",
+            "end": 4316,
+            "start": 4307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 4381,
+            "start": 4367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beschwerdeverfahren",
+            "end": 4407,
+            "start": 4388,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4550,
+            "start": 4549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 4718,
+            "start": 4717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilzunehmen",
+            "end": 4882,
+            "start": 4870,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Zustandekommen des Kaufvertrags (Bestellung)\nDer Kaufvertrag über den oder die bestellten Artikel ist geschlossen, wenn die Bestellung durch unsere ausdrückliche Erklärung (i.d.R. per Email) innerhalb von zwei Werktagen (Montag bis Freitag) angenommen worden ist. Maßgeblich für die Einhaltung der Frist ist der Zugang beim Kunden. Eine Mitteilung über die Auslieferung bzw. Lieferung der Ware steht der ausdrücklichen Annahme gleich.\n§ 2 Vertragspartner\nIhr Vertrag kommt zustande mit: Anschrift\n§ 3 Preise\nEs gelten die zum Zeitpunkt der Bestellung im Internet ausgewiesenen Preise. Diese Preise sind Endpreise, d. h., sie beinhalten die gesetzliche Umsatzsteuer. Anfallende Verpackungs- und Versandkosten sind bei der angebotenen Ware gesondert ausgewiesen und zusätzlich vom Käufer zu übernehmen.\n§ 4 Lieferung / Versand\nLieferungen erfolgen an die vom Kunden angegebene Anschrift, grundsätzlich aber nur innerhalb des Bereichs der Bundesrepublik Deutschland (ohne deutsche Inseln). Bei Waren, bei denen aufgrund ihrer Größe ein Speditionsversand erforderlich ist, liefert die Spedition die Waren nur bis zur Bordsteinkante. Bei einigen Artikeln kann im Warenkorb der aufpreispflichtige Spezialversand „2-Mann-Lieferung“ zusammen mit der Warenbestellung angeklickt werden. Bei „2-Mann-Lieferung“ wird die Ware dorthin transportiert, wo Sie das Gerät verwenden möchten und dies unter normalen Umständen möglich ist.\n§ 5 Zahlungsbedingungen\nDer Kaufpreis der Ware ist vor Übersendung der Ware zur Zahlung fällig. Die Zahlung einschließlich der anfallenden Versandkosten erfolgt grundsätzlich durch Vorkasse (Banküberweisung, Sofortüberweisung, PayPal oder Kreditkartenzahlung). Bei Zahlung per Kreditkarte erfolgt die Belastung der Kreditkarte mit Abschluss der Bestellung. \n§ 6 Gewährleistung, Transportschäden\nFür alle von uns verkauften Produkte gelten die gesetzlichen Gewährleistungsrechte.\nDie gesetzliche Gewährleistungsfrist beträgt zwei Jahre, sofern der Kunde bei der Bestellung nicht „Unternehmer“ ist, also in Ausübung seiner gewerblichen oder selbständigen beruflichen Tätigkeit handelt. Wenn der Kunde als „Unternehmer“ bestellt, beträgt die gesetzliche Gewährleistungsfrist 12 Monate.\nIm Gewährleistungsfall wenden Sie sich bitte an: Anschrift\nDer Kunde wird gebeten, offensichtliche Transportschäden an Verpackung und/oder Inhalt bei Anlieferung der Ware sofort beim Transportunternehmen zu reklamieren und unverzüglich mit uns Kontakt aufzunehmen, damit wir unsere Rechte wahren können. Entsprechendes gilt, wenn verborgene Schäden entdeckt werden. Die gesetzlichen Gewährleistungsansprüche des Kunden bleiben auch bei Nicht-Einhaltung dieser Bitte zur sofortigen Reklamation unberührt, sofern der Kunde bei der Bestellung nicht „Unternehmer“ ist, also in Ausübung seiner gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n§ 7 Eigentumsvorbehalt\nAlle gelieferten Waren bleiben bis zur vollständigen Bezahlung unser Eigentum.\n§ 8 Haftung\nWir haften nicht bei leicht fahrlässiger Verletzung unwesentlicher Vertragspflichten. Die vorstehende Haftungsbeschränkung betrifft nicht die Ansprüche des Kunden aus Produkthaftung oder anderen zwingenden Rechtsvorschriften oder bei der Verletzung von Leben, Körper und Gesundheit oder bei Übernahme einer Garantie, sofern wir eine solche Garantie für das gelieferte Produkt abgegeben haben.\nBei leicht fahrlässiger Verletzung von Vertragspflichten, welche für die Erreichung des Vertragsziels von eminenter Bedeutung sind (Kardinalpflichten) ist die Haftung der Höhe nach auf den im Vorfeld typischerweise entstehenden Durchschnittsschaden beschränkt.\nDiese Beschränkung gilt nicht bei uns zurechenbaren Körper- und Gesundheitsschäden oder bei Verlust des Lebens, sowie Ansprüchen des Kunden aus Produkthaftung oder anderen zwingenden Rechtsvorschriften oder bei Übernahme einer Garantie. Die gesamte obige Haftungsregelung gilt auch für unsere gesetzlichen Vertreter und Erfüllungsgehilfen.\n§ 9 Widerrufsrecht für Verbraucher\nWiderrufsbelehrung\nMusterformular\n§ 10 Datenschutz\nDie für die Geschäftsabwicklung notwendigen Daten werden gespeichert und im Rahmen der Bestellabwicklung gegebenenfalls an verbundene Unternehmen zu ausschließlich diesem Zwecke weitergegeben. Alle persönlichen Daten werden selbstverständlich vertraulich behandelt. Ihre schutzwürdigen Belange werden dabei von uns berücksichtigt.\n§ 11 Beschwerdeverfahren\nAllgemeine Informationspflichten zur alternativen Streitbeilegung nach Art. 14 Abs. 1 ODR-VO und § 36 VSBG (Verbraucherstreitbeilegungsgesetz): Die europäische Kommission stellt eine Plattform zur Online-Streitbelegung (OS) zur Verfügung, die Sie unter dieser Adresse finden: http://ec.europa.eu/consumers/odr/\nWir erklären uns bereit, bei Streitigkeiten mit Verbrauchern (§ 13 BGB) an Verbraucherschlichtungsverfahren nach dem Verbraucherstreitbeilegungsgesetz teilzunehmen.\n\n"
+}

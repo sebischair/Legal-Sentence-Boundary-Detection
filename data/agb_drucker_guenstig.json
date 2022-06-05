@@ -1,0 +1,785 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Bestimmungen",
+            "end": 26,
+            "start": 14,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmer",
+            "end": 105,
+            "start": 94,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 328,
+            "start": 324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 563,
+            "start": 556,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 596,
+            "start": 589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 629,
+            "start": 620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 780,
+            "start": 777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterbreiten",
+            "end": 913,
+            "start": 901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestellen",
+            "end": 1014,
+            "start": 1005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 1192,
+            "start": 1181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1345,
+            "start": 1343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestätigen",
+            "end": 1490,
+            "start": 1480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1652,
+            "start": 1642,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1789,
+            "start": 1781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mengen",
+            "end": 1943,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 2025,
+            "start": 2014,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 2053,
+            "start": 2030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 2135,
+            "start": 2124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugesendet",
+            "end": 2273,
+            "start": 2263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2370,
+            "start": 2364,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzurufen",
+            "end": 2544,
+            "start": 2535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passwortes",
+            "end": 2689,
+            "start": 2679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 2728,
+            "start": 2715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Umsatzsteuer",
+            "end": 2905,
+            "start": 2893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 3020,
+            "start": 3016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3184,
+            "start": 3180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgewiesen",
+            "end": 3332,
+            "start": 3321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmethoden",
+            "end": 3353,
+            "start": 3337,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsmethoden",
+            "end": 3481,
+            "start": 3465,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 3587,
+            "start": 3584,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 3849,
+            "start": 3843,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mitgeteilt",
+            "end": 3921,
+            "start": 3911,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportunternehmen",
+            "end": 4144,
+            "start": 4124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "00",
+            "end": 4238,
+            "start": 4236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 4654,
+            "start": 4648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 4855,
+            "start": 4852,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 4960,
+            "start": 4946,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EUR",
+            "end": 5005,
+            "start": 5002,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuändern",
+            "end": 5119,
+            "start": 5109,
+            "type": "SBD"
+        },
+        {
+            "annotation": "informiert",
+            "end": 5199,
+            "start": 5189,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 5322,
+            "start": 5316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandbedingungen",
+            "end": 5357,
+            "start": 5339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferanschrift",
+            "end": 5511,
+            "start": 5496,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungseingang",
+            "end": 5646,
+            "start": 5631,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 5904,
+            "start": 5893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrages",
+            "end": 6049,
+            "start": 6040,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hingewiesen",
+            "end": 6320,
+            "start": 6309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6619,
+            "start": 6615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "über",
+            "end": 6844,
+            "start": 6840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerät",
+            "end": 6922,
+            "start": 6917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 6945,
+            "start": 6927,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 7138,
+            "start": 7135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kontokorrent",
+            "end": 7479,
+            "start": 7467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 7854,
+            "start": 7849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 7974,
+            "start": 7971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "pfändet",
+            "end": 8102,
+            "start": 8095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwerten",
+            "end": 8191,
+            "start": 8182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schuldet",
+            "end": 8292,
+            "start": 8284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "behandeln",
+            "end": 8359,
+            "start": 8350,
+            "type": "SBD"
+        },
+        {
+            "annotation": "versichern",
+            "end": 8472,
+            "start": 8462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 8616,
+            "start": 8610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befindet",
+            "end": 8779,
+            "start": 8771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übereignen",
+            "end": 8864,
+            "start": 8854,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 9413,
+            "start": 9411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 9479,
+            "start": 9477,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuziehen",
+            "end": 9799,
+            "start": 9788,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommt",
+            "end": 10028,
+            "start": 10019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10594,
+            "start": 10588,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgenommen",
+            "end": 10748,
+            "start": 10737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verarbeitung",
+            "end": 11074,
+            "start": 11062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorbehaltsware",
+            "end": 11180,
+            "start": 11166,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwahren",
+            "end": 11286,
+            "start": 11277,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vermischung",
+            "end": 11707,
+            "start": 11696,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überträgt",
+            "end": 12038,
+            "start": 12029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwahren",
+            "end": 12164,
+            "start": 12155,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 12471,
+            "start": 12467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übersteigt",
+            "end": 12746,
+            "start": 12736,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorbehalten",
+            "end": 12860,
+            "start": 12849,
+            "type": "SBD"
+        },
+        {
+            "annotation": "folgen",
+            "end": 12891,
+            "start": 12885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 12910,
+            "start": 12892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Batteriegesetz",
+            "end": 12928,
+            "start": 12914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 12985,
+            "start": 12984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hausmüll",
+            "end": 13025,
+            "start": 13017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 13282,
+            "start": 13278,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 13394,
+            "start": 13388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nickel",
+            "end": 13548,
+            "start": 13542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzugeben",
+            "end": 13726,
+            "start": 13713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzunehmen",
+            "end": 13822,
+            "start": 13808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 14031,
+            "start": 14020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbindung",
+            "end": 14073,
+            "start": 14063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuschicken",
+            "end": 14325,
+            "start": 14309,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 14362,
+            "start": 14346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 14597,
+            "start": 14591,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 14763,
+            "start": 14754,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 14863,
+            "start": 14860,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 14926,
+            "start": 14916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "lassen",
+            "end": 15166,
+            "start": 15160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzubewahren",
+            "end": 15200,
+            "start": 15187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 15609,
+            "start": 15603,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 15744,
+            "start": 15742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 15892,
+            "start": 15882,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sachmangel",
+            "end": 16231,
+            "start": 16221,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 16391,
+            "start": 16387,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sichern",
+            "end": 16567,
+            "start": 16560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 16782,
+            "start": 16779,
+            "type": "SBD"
+        },
+        {
+            "annotation": "soll",
+            "end": 16899,
+            "start": 16895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleibt",
+            "end": 17165,
+            "start": 17159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ersatzlieferung",
+            "end": 17341,
+            "start": 17326,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 17512,
+            "start": 17503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 17629,
+            "start": 17623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 17743,
+            "start": 17737,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kann",
+            "end": 18023,
+            "start": 18019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 18188,
+            "start": 18179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzuzeigen",
+            "end": 18342,
+            "start": 18332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 18420,
+            "start": 18406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mangelanzeige",
+            "end": 18495,
+            "start": 18482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbestimmungen",
+            "end": 18521,
+            "start": 18501,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 18893,
+            "start": 18886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 19138,
+            "start": 19129,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19573,
+            "start": 19572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 19699,
+            "start": 19692,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 20008,
+            "start": 20001,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 20060,
+            "start": 20046,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 20085,
+            "start": 20066,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutschland",
+            "end": 20139,
+            "start": 20128,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 20349,
+            "start": 20345,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 20501,
+            "start": 20492,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mbH",
+            "end": 20756,
+            "start": 20753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 20952,
+            "start": 20948,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 21106,
+            "start": 21097,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Allgemeine Bestimmungen\n1.1 Kunden im Sinne der vorliegenden AGB sind Verbraucher wie auch Unternehmer.\n1.1.1 Verbraucher ist jede natürliche Person, mit der in Geschäftsbeziehung getreten wird und die zu einem Zweck handelt, der weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann.\n1.1.2 Unternehmer ist jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, mit der in Geschäftsbeziehung getreten wird und die in Ausübung einer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\n1.2 Vertragssprache ist Deutsch.\n2. Zustandekommen des Vertrages\n2.1 Die innerhalb des Online-Shops aufgeführten Produkte und Leistungen stellen keine die Drucker.de IT-Handelsgesellschaft mbH bindenden Angebote dar; es handelt sich vielmehr um die Aufforderung an den Kunden, ein verbindliches Angebot durch Abgabe einer Bestellung zu unterbreiten.\n2.2 Der Kunde hat die Möglichkeit, innerhalb des Online-Shops Produkte auszuwählen und zu bestellen. Vor Absendung der Bestellung ermöglicht die Drucker.de IT-Handelsgesellschaft mbH dem Kunden, die jeweiligen Bestelldaten zu überprüfen und etwaige Eingabefehler zu berichtigen.\n2.3 Durch Absendung der Bestellung aus dem virtuellen „Warenkorb“ gibt der Kunde eine verbindliche Bestellung über die in diesem enthaltenen Artikel ab. Den Zugang dieser Bestellung wird die Drucker.de IT-Handelsgesellschaft mbH gegenüber dem Kunden unverzüglich in Textform per E-Mail bestätigen.\n2.4 Die Drucker.de IT-Handelsgesellschaft mbH ist berechtigt, das Vertragsangebot des Kunden innerhalb von zwei Werktagen nach Eingang der Bestellung anzunehmen. Der Vertrag mit dem Kunden kommt mit der ausdrücklichen Annahme der Bestellung durch die Drucker.de IT-Handelsgesellschaft mbH zustande.\n2.5 Die Drucker.de IT-Handelsgesellschaft mbH verkauft über Ihre Onlinepräsenzen nicht an Wiederverkäufer und ausschließlich in haushaltsüblichen Mengen. Zwischenverkäufe und Irrtümer im Preis bleiben als Stornierungsgrund vorbehalten.\n3. Vertragstextspeicherung\nDer Vertragstext wird durch die Drucker.de IT-Handelsgesellschaft mbH gespeichert. Die Bestelldaten mitsamt den Vertragsbestimmungen einschließlich der vorliegenden AGB werden dem Kunden gesondert in Textform zugesendet. Die AGB können auch über die Website im Online-Shop abgerufen und im PDF heruntergeladen werden. Registrierte Kunden haben die Möglichkeit, die eigene Bestellhistorie nach Absendung der Bestellung aus dem virtuellen „Warenkorb“ über den internen Kundenbereich abzurufen. Der Login erfolgt direkt auf der Website im Online-Shop unter Angabe des Benutzernamens sowie des zuvor vom Kunden selbst bestimmten Passwortes.\n4. Preise / Liefer- und Versandkosten\n4.1 Die im Zusammenhang mit Produkten und/oder Leistungen angeführten Preise sind Gesamtpreise und beinhalten alle Preisbestandteile einschließlich der anfallenden Umsatzsteuer. Die Preise gelten jedoch zuzüglich Liefer- und Versandkosten, falls nicht ein kostenloser Versand vereinbart wird.\n4.2 Bei grenzüberschreitenden Lieferungen können im Einzelfall weitere Steuern und/oder Kosten (z.B. Zölle oder Gebühren) anfallen, die vom Kunden abzuführen sind.\n4.3 Die Höhe der Liefer- und Versandkosten oder nähere Einzelheiten zur Berechnung derselben sind innerhalb des Online-Shops gesondert ausgewiesen.\n5. Zahlungsmethoden\n5.1 Die Drucker.de IT-Handelsgesellschaft mbH akzeptiert die angeführten und dem Kunden zur Auswahl gestellten Zahlungsmethoden. Der Kunde wählt die bevorzugte Zahlungsart unter den zur Verfügung stehenden Zahlungsmethoden selbst aus.\n5.2 Im Fall einer Zahlung durch Banküberweisung oder PayPal verpflichtet sich der Kunde, den Kaufpreis zuzüglich ggfs. anfallender Gebühren, Liefer- und Versandkosten spätestens 14 Tage nach Erhalt der ihm mitgeteilten Zahlungsaufforderung ohne Abzug zu zahlen. Die Kontodaten werden zusammen mit der Zahlungsaufforderung mitgeteilt.\n5.3 Im Fall einer Lieferung gegen Nachnahme erfolgt die Zahlung des Kaufpreises zuzüglich anfallender Gebühren, Liefer- und Versandkosten zum Zeitpunkt der Anlieferung an das den Versand durchführende Transportunternehmen. Das Transportunternehmen erhebt in diesem Fall ein zusätzliches Entgelt in Höhe von EUR 2,00.\n5.4 Die Drucker.de IT-Handelsgesellschaft mbH behält sich vor, im Fall einer vom Kunden gewünschten Zahlung nach Erhalt der Ware und einer Rechnung die Bonität des Kunden durch Weitergabe seiner personenbezogenen Daten vor Vertragsabschluss an die Bürgel Wirtschaftsinformationen GmbH & Co. KG, Gasstraße 18, 22761 Hamburg und die Euler Hermes Deutschland AG, Friedensallee 254, 22763 Hamburg, überprüfen zu lassen. Dabei holt die Drucker.de IT-Handelsgesellschaft mbH von den genannten Unternehmen Bonitätsinformationen auf der Basis mathematisch-statistischer Verfahren zur Wahrung der berechtigten Interessen ein. Die schutzwürdigen Belange des Kunden werden hierbei gemäß den gesetzlichen Bestimmungen berücksichtigt. Hierfür berechnen wir eine Gebühr von 2 EUR. Wir behalten und vor, Ihre Bestellung nach erfolgter Bonitätsprüfung ggf. auf eine andere Zahlungsart abzuändern. In diesem Fall werden Sie von unserem Vertriebsteam kontaktiert und informiert.\n5.5 Der Kunde kann ein Zurückbehaltungsrecht nur ausüben, wenn sein Gegenanspruch auf demselben Vertragsverhältnis beruht.\n6. Liefer- und Versandbedingungen\n6.1 Die Lieferung der Ware erfolgt, sofern nichts anderes mit dem Kunden vereinbart ist, auf dem Versandweg an die vom Kunden mitgeteilte Lieferanschrift.\n6.1.1 Der Versand der gekauften Artikel erfolgt bei Zahlung durch Vorausüberweisung innerhalb von drei Werktagen nach Zahlungseingang. Die Lieferfrist, innerhalb derer das Transportunternehmen die Waren ausliefert, beträgt somit vier bis fünf Werktage nach Zahlungseingang, es sei denn, im Zusammenhang mit dem Artikelangebot wird auf eine kürzere oder längere Frist ausdrücklich hingewiesen.\n6.1.2 Im Fall einer Nachnahmelieferung erfolgt der Versand der gekauften Artikel innerhalb von drei Werktagen nach Zustandekommen des Vertrages. Die Lieferfrist, innerhalb derer das Transportunternehmen die Waren ausliefert, beträgt somit vier bis fünf Werktage nach Zustandekommen des Vertrages, es sei denn, im Zusammenhang mit dem Artikelangebot wird auf eine kürzere oder längere Frist ausdrücklich hingewiesen.\n6.2 Bei Kunden, die Unternehmer sind, geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache mit der Übergabe an diese selbst oder eine empfangsberechtigte Person, beim Versendungskauf mit der Auslieferung der Ware an eine geeignete Transportperson über. Bei Kunden, die Verbraucher sind, geht die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache – auch beim Versendungskauf – mit der Übergabe der Ware an den Verbraucher auf diesen über. Der Übergabe steht es gleich, wenn der Kunde in den Verzug der Annahme gerät.\n7. Eigentumsvorbehalt\n7.1 Die Drucker.de IT-Handelsgesellschaft mbH behält sich das Eigentum an verkauften Sachen (Vorbehaltsware) gegenüber Verbrauchern bis zur vollständigen Zahlung des jeweiligen Kaufpreises vor.\n7.2 Die Drucker.de IT-Handelsgesellschaft mbH behält sich das Eigentum an verkauften Sachen (Vorbehaltsware) gegenüber Unternehmern vor bis alle Forderungen erfüllt sind, die der Drucker.de IT-Handelsgesellschaft mbH gegen den Unternehmer jetzt oder zukünftig zustehen – und zwar einschließlich sämtlicher Saldoforderungen aus Kontokorrent.\n7.2.1 Verhält sich der Unternehmer vertragswidrig – insbesondere falls er mit der Zahlung einer Entgeltforderung gegenüber der Drucker.de IT-Handelsgesellschaft mbH schuldhaft in Verzug geraten ist –, hat die Drucker.de IT-Handelsgesellschaft mbH das Recht, die Vorbehaltsware zurückzunehmen, nachdem dem Unternehmer eine angemessene (Nach-)Frist zur Leistung gesetzt wurde. Nimmt die Drucker.de IT-Handelsgesellschaft mbH die Vorbehaltsware zurück, stellt dies einen Rücktritt vom Vertrag dar. Ebenfalls einen Rücktritt vom Vertrag stellt es dar, wenn die Drucker.de IT-Handelsgesellschaft mbH die Vorbehaltsware pfändet. Zurückgenommene Vorbehaltsware darf die Drucker.de IT-Handelsgesellschaft mbH verwerten; der Erlös der Verwertung wird mit denjenigen Beträgen verrechnet, die der Unternehmer noch schuldet.\n7.2.2 Der Unternehmer muss die Vorbehaltsware pfleglich behandeln. Er muss sie auf seine Kosten gegen Feuer-, Wasser- und auch Diebstahlschäden ausreichend zum Neuwert versichern. Sofern Wartungs- und Inspektionsarbeiten erforderlich werden, muss der Unternehmer diese auf eigene Kosten durchführen oder durchführen lassen.\n7.2.3 Der Unternehmer darf die Vorbehaltsware verwenden und diese im ordentlichen Geschäftsgang weiterveräußern, solange er sich nicht in Zahlungsverzug befindet. Er darf die Vorbehaltsware jedoch nicht verpfänden oder sicherungshalber übereignen. Die Entgeltforderungen des Unternehmers gegen seine Abnehmer aus einer Weiter-veräußerung der Vorbehaltsware sowie diejenigen Forderungen des Unternehmers bezüglich der Vorbehaltsware, die aus einem sonstigen Rechtsgrund gegen seine Abnehmer oder Dritte entstehen (insbesondere Forderungen aus einer unerlaubten Handlung und/oder Ansprüche auf Versicherungsleistungen) einschließlich sämtlicher Saldoforderungen aus Kontokorrent tritt der Unternehmer bereits jetzt sicherungs-halber in vollem Umfang an die Drucker.de IT-Handelsgesellschaft mbH ab; die Drucker.de IT-Handelsgesellschaft mbH nimmt die Abtretung an. Der Unternehmer darf die abgetretenen Forderungen im eigenen Namen und auf seine Rechnung für die Drucker.de IT-Handelsgesellschaft mbH einziehen, solange diese Ermächtigung nicht widerrufen wird. Hiervon unberührt bleibt indes die Befugnis der Drucker.de IT-Handelsgesellschaft mbH, die Forderungen selbst einzuziehen. Die Drucker.de IT-Handelsgesellschaft mbH wird die Forderungen selbst jedoch nicht geltend machen und auch die Einzugsermächtigung nicht widerrufen, solange der Unternehmer seinen Zahlungsverpflichtungen ordnungsgemäß nachkommt. Verhält sich der Unternehmer vertragswidrig – insbesondere falls er mit der Zahlung einer Entgeltforderung gegenüber der Drucker.de IT-Handelsgesellschaft mbH schuldhaft in Verzug geraten ist –, hat die Drucker.de IT-Handelsgesellschaft mbH das Recht zu verlangen, dass der Unternehmer die abgetretenen Forderungen und die jeweiligen Schuldner bekannt gibt, den jeweiligen Schuldnern die Abtretung mitteilt und alle Unterlagen aushändigt sowie alle Angaben macht, die zur Geltendmachung der Forderungen von der Drucker.de IT-Handelsgesellschaft mbH benötigt werden.\n7.2.4 Eine Verarbeitung und/oder Umbildung der Vorbehaltsware durch den Unternehmer wird immer für die Drucker.de IT-Handelsgesellschaft mbH vorgenommen. Wird die Vorbehaltsware mit anderen Sachen verarbeitet, die nicht der Drucker.de IT-Handelsgesellschaft mbH gehören, erwirbt diese Miteigentum an der neuen Sache im Verhältnis des Wertes der Vorbehaltsware (i.e. Rechnungsendbetrag inklusive der Umsatzsteuer) zu den anderen verarbeiteten Sachen im Zeitpunkt der Verarbeitung. Im Übrigen gilt für die durch Verarbeitung entstehende neue Sache das Gleiche wie für die Vorbehaltsware. So entstandenes Miteigentum wird der Unternehmer für die Drucker.de IT-Handelsgesellschaft mbH verwahren.\n7.2.5 Wird die Vorbehaltsware mit Sachen, die nicht der Drucker.de IT-Handelsgesellschaft mbH gehören, untrennbar verbunden oder vermischt, erwirbt die Drucker.de IT-Handelsgesellschaft mbH Miteigentum an der neuen Sache im Verhältnis des Wertes der Vorbehaltsware (i.e. Rechnungsendbetrag inklusive der Umsatzsteuer) zu den anderen verbundenen oder vermischten Sachen im Zeitpunkt der Verbindung oder deren Vermischung. Wird die Vorbehaltsware in der Weise verbunden oder vermischt, dass die Sache des Unternehmers als Hauptsache anzusehen ist, sind der Unternehmer und die Drucker.de IT-Handelsgesellschaft mbH bereits jetzt einig, dass der Unternehmer anteilsmäßig Miteigentum an dieser Sache an die Drucker.de IT-Handelsgesellschaft mbH überträgt. So entstandenes Alleineigentum oder Miteigentum wird der Unternehmer für die Drucker.de IT-Handelsgesellschaft mbH verwahren.\n7.2.6 Bei Pfändungen der Vorbehaltsware durch Dritte oder bei sonstigen Eingriffen Dritter auf die Vorbehaltsware muss der Unternehmer auf das Eigentum der Drucker.de IT-Handelsgesellschaft mbH hinweisen und diese unverzüglich schriftlich benachrichtigen, damit diese ihre Eigentumsrechte durchsetzen kann.\n7.2.7 Auf Verlangen des Unternehmers ist die Drucker.de IT-Handelsgesellschaft mbH dazu verpflichtet, die ihr zustehenden Sicherheiten insoweit freizugeben, als ihr realisierbarer Wert den Wert der offenen Forderungen gegen den Unternehmer um mehr als 10 Prozent übersteigt. Die Auswahl der jeweils freizugebenden Sicherheiten bleibt der Drucker.de IT-Handelsgesellschaft mbH vorbehalten.\n8. Widerrufsrecht und -folgen\nWiderrufsbelehrung\n9. Batteriegesetz\nHinweis Batteriegesetz nach Artikel 1, §18 und Artikel 2\nBatterien gehören nicht in den Hausmüll. Die Firma drucker.de IT-Handelsges. mbH ist als Hersteller (Importeur) gemäß den Regelungen des Batteriegesetzes dazu verpflichtet, Verbraucher darauf hinzuweisen, dass schadstoffhaltige Batterien (einschließlich Akkus) nicht im Hausmüll zu entsorgen sind. Altbatterien enthalten möglicherweise Schadstoffe oder Schwermetalle, die Umwelt und Gesundheit schaden können. Außerdem können sie durch eine fachgerechte Entsorgung wiederverwertet werden, denn sie enthalten wichtige Rohstoffe wie Eisen, Zink, Mangan oder Nickel. Der Verbraucher ist daher gesetzlich verpflichtet, gebrauchte, schadstoffhaltige Batterien an den Verkäufer oder an einen öffentlich-rechtlichen Entsorgungsträger zurückzugeben. Der Verkäufer hat schadstoffhaltige Batterien nach deren Gebrauch unentgeltlich zurückzunehmen. Zur Klärung der Vorgehensweise bei der Rückgabe gebrauchter, schadstoffhaltiger Batterien setzen Sie sich bitte mit uns unter Drucker.de IT-Handelsges. mbH, Nordfrost-Ring 16 in 26419 Schortens – Deutschland; eMail: service@drucker.de, in Verbindung. Wir nennen Ihnen dann entweder einen öffentlich-rechtlichen Entsorgungsträger in Nähe Ihres Wohnorts, der die Batterien kostenfrei entgegennimmt, oder bieten Ihnen die Möglichkeit die Batterien für eine fachgerechte Entsorgung an uns zurückzuschicken.\n10. Mitteilung von Transportschäden\nDer Kunde wird die Drucker.de IT-Handelsgesellschaft mbH im Fall von Transportschäden nach besten Kräften unterstützen, soweit Ansprüche gegenüber dem betreffenden Transportunternehmen bzw. Transportversicherung geltend gemacht werden. Etwaige Rechte und Ansprüche des Kunden, insbesondere dessen Rechte bei Mängeln der Sache, bleiben von den Regelungen der Ziffern 10.1 und 10.2 dieser AGB unberührt; diese beinhalten daher auch keine Ausschlussfrist für Rechte des Kunden gemäß Ziffer 11 dieser AGB.\n10.1 Der Kunde wird die gelieferte Ware bei Erhalt überprüfen. Bei äußerlich erkennbaren Transportschäden ist für den Fall, dass die Lieferung trotzdem angenommen wird, schon bei Annahme der Lieferung der Schaden auf den jeweiligen Versanddokumenten zu vermerken und vom Zusteller quittieren zu lassen; die Verpackung ist aufzubewahren.\n10.2 Ist der (teilweise) Verlust oder die Beschädigung äußerlich nicht erkennbar, hat der Kunde dies innerhalb von fünf Tagen nach Ablieferung gegenüber der Drucker.de IT-Handelsgesellschaft mbH oder binnen sieben Tagen nach Ablieferung gegenüber dem Transportunternehmen anzuzeigen, um so zu gewährleisten, dass etwaige Ansprüche gegenüber dem Transportunternehmen rechtzeitig geltend gemacht werden können.\n11. Rechte bei Mängeln der Sache (Gewährleistung)\nKunden stehen beim Kauf von Waren gesetzliche Mängelhaftungsrechte für die Waren zu. Kunden haben bei Mängeln einer (Kauf)-Sache das Recht, Gewährleistungsrechte geltend zu machen – dies unter Beachtung der nachstehenden Regelungen.\n11.1.1 Funktionsbeeinträchtigungen bei verkaufter Hard-/Software, die aus der vom Kunden zur Verfügung gestellten Hardware-/Software-Umgebung, einer Fehlbedienung durch den Kunden, externen schadhaften Daten, Störungen von Rechnernetzen oder sonstigen aus dem Risikobereich des Kunden stammenden Gründen resultieren, sind kein Sachmangel.\n11.1.2 Keine Gewährleistung besteht auch bei Schäden, die infolge einer unsachgemäßen Verwendung oder Behandlung des Artikels durch den Kunden entstanden sind.\n11.1.3 Der Kunde wird Hard- und Software vor deren Einsatz auf ihre Verwendbarkeit und Kompatibilität zu dem von ihm beabsichtigten Zweck testen und zuvor seine Daten sichern.\n11.2 Ist die Kaufsache mangelhaft, hat der Kunde, wenn und soweit die Voraussetzungen der gesetzlichen Vorschriften zu den Rechten bei Mängeln vorliegen, einen Anspruch auf Nacherfüllung nach §§ 437 Nr. 1, 439 BGB.\n11.2.1 Verbraucher haben insoweit die Wahl, ob Nacherfüllung durch Nachbesserung oder Ersatzlieferung erfolgen soll. Die Drucker.de IT-Handelsgesellschaft mbH bleibt jedoch berechtigt, die Art der gewählten Nacherfüllung zu verweigern, wenn sie nur mit unverhältnismäßigen Kosten möglich ist und die andere Art der Nacherfüllung ohne erhebliche Nachteile für den Verbraucher bleibt.\n11.2.2 Gegenüber Unternehmern leistet die Drucker.de IT-Handelsgesellschaft mbH für Mängel der Ware zunächst nach eigener Wahl Gewähr durch Nachbesserung oder Ersatzlieferung.\n11.2.3 Die in § 437 Nr. 2 u. 3 BGB bestimmten Rechte des Käufers bei Mängeln bleiben von den Regelungen der Ziffern 11.2.1 bis einschließlich 11.2.2 dieser AGB unberührt.\n11.3 Ansprüche und Rechte eines Unternehmers wegen Mängeln verjähren ein Jahr nach Ablieferung der Ware beim Kunden; Ansprüche und Rechte eines Verbrauchers wegen Mängeln verjähren zwei Jahre nach Ablieferung der Ware beim Kunden. Mit diesen Fristen verbundene Verjährungserleichterungen gelten nicht, soweit die Drucker.de IT-Handelsgesellschaft mbH nach Ziffer 12 dieser AGB haftet oder es um das dingliche Recht eines Dritten geht, aufgrund dessen die Herausgabe des Liefergegenstandes verlangt werden kann.\n11.4 Die in §§ 478, 479 BGB bestimmten Rückgriffansprüche von Unternehmern bleiben von den Regelungen der Ziffern 11.1 bis einschließlich 11.3 dieser AGB unberührt.\n11.5 Offensichtliche Mängel sind durch Kaufleute innerhalb einer Frist von zwei Wochen ab Empfang der Ware über obig aufgeführte Kontaktdaten anzuzeigen; ansonsten ist die Geltendmachung des Gewährleistungsanspruchs ausgeschlossen. Zur Wahrung der Frist genügt die rechtzeitige Absendung der Mangelanzeige.\n12. Haftungsbestimmungen\n12.1 Nach den gesetzlichen Bestimmungen haftet die Drucker.de IT-Handelsgesellschaft mbH uneingeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung beruhen sowie für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung sowie Arglist beruhen. Darüber hinaus haftet die Drucker.de IT-Handelsgesellschaft mbH uneingeschränkt für Schäden, die von der Haftung nach zwingenden gesetzlichen Vorschriften, wie dem Produkthaftungsgesetz, umfasst werden sowie im Fall der Übernahme von Garantien.\n12.2 Für solche Schäden, die nicht von Ziffer 10.1 erfasst werden und die durch einfache oder leichte Fahrlässigkeit verursacht werden, haftet die Drucker.de IT-Handelsgesellschaft mbH, soweit diese Fahrlässigkeit die Verletzung von Vertragspflichten betrifft, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (sog. Kardinalpflichten). Dabei beschränkt sich die Haftung der Drucker.de IT-Handelsgesellschaft mbH auf die vertragstypischen vorhersehbaren Schäden.\n12.3 Im Falle leicht fahrlässiger Verletzungen solcher Vertragspflichten, die weder von Ziffer 12.1 noch Ziffer 12.2 erfasst werden (sog. unwesentliche Vertragspflichten) haftet die Drucker.de IT-Handelsgesellschaft mbH gegenüber Verbrauchern – dies begrenzt auf die vertragstypischen vorhersehbaren Schäden.\n12.4 Eine weitergehende Haftung ist ausgeschlossen.\n13. Schlussbestimmungen\n13.1 Es gilt das Recht der Bundesrepublik Deutschland. Bei Verbrauchern gilt diese Rechtswahl nur insoweit, als nicht der gewährte Schutz durch zwingende Bestimmungen des Rechts des Staates, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n13.2 Die Bestimmungen des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenkauf (UN-Kaufrecht) finden keine Anwendung.\n13.3 Ist der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag der Geschäftssitz der Drucker.de IT-Handelsgesellschaft mbH. Dasselbe gilt, wenn der Kunde Unternehmer ist und keinen allgemeinen Gerichtsstand in Deutschland hat oder Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt sind. Die Befugnis der Drucker.de IT-Handelsgesellschaft mbH, auch das Gericht an einem anderen gesetzlichen Gerichtsstand anzurufen, bleibt hiervon unberührt.\n\n\n"
+}

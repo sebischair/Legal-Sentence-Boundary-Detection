@@ -1,0 +1,707 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kost",
+            "end": 56,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 62,
+            "start": 57,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erbscheinserteilungsverfahren",
+            "end": 132,
+            "start": 103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 145,
+            "start": 133,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 164,
+            "start": 163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 196,
+            "start": 195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 219,
+            "start": 218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 251,
+            "start": 250,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 261,
+            "start": 252,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 471,
+            "start": 466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gehör",
+            "end": 542,
+            "start": 537,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 551,
+            "start": 550,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 577,
+            "start": 576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 730,
+            "start": 724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 807,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 817,
+            "start": 816,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 843,
+            "start": 842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ermöglichen",
+            "end": 1021,
+            "start": 1010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 1124,
+            "start": 1120,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1139,
+            "start": 1138,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1165,
+            "start": 1164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 1277,
+            "start": 1272,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1287,
+            "start": 1286,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1313,
+            "start": 1312,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1325,
+            "start": 1314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erbschein",
+            "end": 1453,
+            "start": 1444,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1464,
+            "start": 1454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7434",
+            "end": 1483,
+            "start": 1479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1489,
+            "start": 1484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgehoben",
+            "end": 1635,
+            "start": 1625,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgegeben",
+            "end": 1795,
+            "start": 1782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1803,
+            "start": 1797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1805,
+            "start": 1804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1808,
+            "start": 1807,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 1862,
+            "start": 1856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzugegeben",
+            "end": 2076,
+            "start": 2061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 2079,
+            "start": 2078,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2391,
+            "start": 2390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftswerts",
+            "end": 2543,
+            "start": 2529,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2727,
+            "start": 2726,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2730,
+            "start": 2729,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gerecht",
+            "end": 2866,
+            "start": 2859,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2869,
+            "start": 2868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "decken",
+            "end": 3148,
+            "start": 3142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 3291,
+            "start": 3284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3294,
+            "start": 3293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3623,
+            "start": 3619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 3858,
+            "start": 3851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gemacht",
+            "end": 4109,
+            "start": 4102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nahm",
+            "end": 4319,
+            "start": 4315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 4322,
+            "start": 4321,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 4602,
+            "start": 4599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ausführungen",
+            "end": 4764,
+            "start": 4752,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 4918,
+            "start": 4914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 4921,
+            "start": 4920,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5171,
+            "start": 5167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entspricht",
+            "end": 5323,
+            "start": 5313,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5552,
+            "start": 5551,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 5555,
+            "start": 5554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 6119,
+            "start": 6114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6122,
+            "start": 6121,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6571,
+            "start": 6570,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 6575,
+            "start": 6573,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6697,
+            "start": 6691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 6889,
+            "start": 6881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 7101,
+            "start": 7096,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verbunden",
+            "end": 7194,
+            "start": 7185,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 7198,
+            "start": 7196,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 7202,
+            "start": 7200,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 7318,
+            "start": 7315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 7322,
+            "start": 7320,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wertansätzen",
+            "end": 7355,
+            "start": 7343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 7359,
+            "start": 7357,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 7676,
+            "start": 7670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 7680,
+            "start": 7678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 7841,
+            "start": 7836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 8061,
+            "start": 8054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 8065,
+            "start": 8063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 8220,
+            "start": 8216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 8224,
+            "start": 8222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 8480,
+            "start": 8475,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 8633,
+            "start": 8625,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 8827,
+            "start": 8826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 8831,
+            "start": 8829,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 9111,
+            "start": 9106,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 9368,
+            "start": 9367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 9770,
+            "start": 9766,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 9774,
+            "start": 9772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftswerts",
+            "end": 9854,
+            "start": 9840,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 9858,
+            "start": 9856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 9985,
+            "start": 9979,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10224,
+            "start": 10223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 10228,
+            "start": 10226,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10339,
+            "start": 10333,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausreichend",
+            "end": 10431,
+            "start": 10420,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 10786,
+            "start": 10785,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 10956,
+            "start": 10952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 10961,
+            "start": 10958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 10965,
+            "start": 10963,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 11082,
+            "start": 11081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2019",
+            "end": 11175,
+            "start": 11171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 11179,
+            "start": 11177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 11237,
+            "start": 11236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 11240,
+            "start": 11238,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 11592,
+            "start": 11587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 11595,
+            "start": 11593,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 12048,
+            "start": 12047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 12052,
+            "start": 12050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angezeigt",
+            "end": 12413,
+            "start": 12404,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 12417,
+            "start": 12415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 12650,
+            "start": 12645,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 12654,
+            "start": 12652,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13051,
+            "start": 13050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 13055,
+            "start": 13053,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 13295,
+            "start": 13294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zivilsenat",
+            "end": 13323,
+            "start": 13313,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rechtskräftig",
+            "end": 13380,
+            "start": 13367,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG München, Beschluss v. 29.04.2019 – 31 Wx 221/19 Kost\nTitel:\nFestsetzung des Geschäftswerts für das Erbscheinserteilungsverfahren\nNormenketten:\nGG Art. 103 Abs.1\nBGB § 812, § 951, § 2087 Abs. 2\nFamFG § 38 Abs. 3 S. 1\nGNotKG § 40 Abs. 6, § 46 Abs. 1\nLeitsätze:\n1. Auch in Kostensachen müssen Nichtabhilfeentscheidungen, wie auch die Entscheidungen selbst\nerkennen lassen, dass das Vorbringen des Beschwerdeführers zur Kenntnis genommen, geprüft\nund berücksichtigt wurde. Formelhafte Begründungen verletzen den Anspruch auf rechtliches\nGehör. (Rn. 2) (redaktioneller Leitsatz)\n2. Mangels anderer Erkenntnisquellen kann zur Ermittlung des Nachlasswertes eine Auskunft des\nzuständigen Finanzamtes durch das Gericht eingeholt werden. Das Steuergeheimnis gilt nach § 40\nAbs. 6 GNotKG im Nachlassverfahren nicht. (Rn. 16) (redaktioneller Leitsatz)\n3. Vor der Festsetzung des Geschäftswertes müssen die Parteien auf die Grundlagen der\nBerechnung hingewiesen werden, um diesen eine Überprüfung der Wertermittlung zu ermöglichen.\nDabei muss die Begründung der Wertermittlung aus sich heraus für die Beteiligten nachvollziehbar\nsein. (Rn. 19 – 20) (redaktioneller Leitsatz)\n4. Das Verbot der reformatio in peius gilt im Beschwerdeverfahren über die Festsetzung des\nGeschäftswerts nicht. (Rn. 17) (redaktioneller Leitsatz)\nSchlagworte:\nBeschwerde, Nichtabhilfeentscheidung, Nachlasswert, Nachlassverbindlichkeit, reformatio in peius,\nrechtliches Gehör, Erbschein\nFundstelle:\nBeckRS 2019, 7434\nTenor\n1. Der Beschluss des Amtsgerichts Garmisch-Partenkirchen - Nachlassgericht - vom 4.3.2019 wird samt\nNichtabhilfebeschluss vom 5.4.2019 aufgehoben.\n2. Die Akten werden dem Amtsgericht Garmisch-Partenkirchen - Nachlassgericht - zur erneuten\nDurchführung des Geschäftswertfestsetzungsverfahrens zurückgegeben.\nGründe\nI.\n1\nDie zulässige Beschwerde hat einen vorläufigen Erfolg. Die Sache ist unter Aufhebung des angefochtenen\nBeschlusses betreffend die Festsetzung des Geschäftswerts für das Erbscheinserteilungsverfahren samt\nNichtabhilfeentscheidung an das Nachlassgericht zurückzugegeben.\n2\n1. Die angefochtene Entscheidung wie auch die Nichtabhilfeentscheidung müssen erkennen lassen, dass\ndas Vorbringen des Beschwerdeführers zur Kenntnis genommen, geprüft und berücksichtigt wurde\n(ständige Rechtsprechung des Senats; vgl. OLG München FamRZ 2010, 1000; zuletzt vgl. nur BeckRS\n2019, 2904; 2019, 158). Dieser Grundsatz gilt auch im Kostensachen (OLG Koblenz FamRZ 2017, 1250)\nund insofern auch im Verfahren betreffend die Festsetzung des Geschäftswerts. Formelhafte Ausführungen\ngenügen insofern nicht, sondern führen zu einer Verletzung des rechtlichen Gehörs eines Beteiligten (vgl.\nnur BVerfG 1 BvR 2015/02, Beschluss vom 21.11.2002).\n3\n2. Diesen Anforderungen wird weder die angefochtene Ausgangsentscheidung noch die\nNichtabhilfeentscheidung des Nachlassgerichts gerecht.\n4\na) In dem angefochtenen Geschäftswertbeschluss vom 4.3.2018 führt das Ausgangsgericht die zu\nbewertenden Grundstücke im Nachlass an, wobei sich die Ausführungen inhaltlich weitgehend mit denen\ndes Bezirksrevisors (= Beteiligter zu 2) in seiner Stellungnahme vom 22.6.2018 decken. Zudem wird\nausdrücklich am Ende der Gründe auf „Bl. 58 der Akte“ verwiesen, bei der es sich um die Stellungnahme\ndes Beteiligten zu 2 handelt.\n5\nb) Diese Ausführungen entsprechen nicht den Anforderungen im Sinne des § 38 Abs. 3 Satz 1 FamFG.\nDenn der Verfahrensbevollmächtigte der Beschwerdeführerin hat bereits im Kostenerinnerungsverfahren\nmit Schriftsatz vom 2.10.2018 substantiiert vorgebracht, warum die von dem Beteiligten zu 2 angesetzten\nWerte nicht zutreffend sind. So hat er u.a. die angesetzte Quadratmeteranzahl der Wohnung in München\ngerügt, wie auch substantiierte Einwände betreffend den Ansatz des erbengemeinschaftlichen\nMiteigentumsanteils und den Wertansatz der Immobilie in Murnau erhoben. Zudem hat er Aufwendungen\nder Beschwerdeführerin für die im Nachlass befindliche Immobilie behauptet, die offenbar von ihr und dem\nErblasser zu dessen Lebzeiten gemeinsam bewohnt wurde, und insofern einen Anspruch auf §§ 951, 812\nBGB geltend gemacht. Im Anschluss daran hat das Nachlassgericht mit Beschluss vom 7.1.2019 das\nVerfahren zur Festsetzung des Geschäftswerts eingeleitet, wobei es auf die Stellungnahme des Beteiligten\nzu 2 vom 22.6.2018 Bezug nahm.\n6\nDer Verfahrensvollmächtigte der Beschwerdeführerin hat mit Schriftsatz vom 17.01.2019 erneut auf die zu\nhoch angesetzte Quadratmeteranzahl der Wohnung in München hingewiesen und zudem gerügt, dass zu\nden übrigen von ihm angebrachten Einwendungen keine Stellung bezogen worden sei. Im nachfolgenden\nBeschluss betreffend die Festsetzung des Geschäftswerts vom 4.3.2019 finden sich zu den Einwänden der\nBeschwerdeführerin keinerlei Ausführungen. Dessen Gründe geben im Kern die Ausführungen des\nBeteiligten zu 2 in seiner Stellungnahme vom 22.06.2018 wieder, wobei auf eine Blattzahl verwiesen wird.\n7\nc) Insofern wird inhaltlich lediglich die Stellungnahme des Beteiligten zu 2 wiederholt, wobei auf den\nwesentlichen Kern des Tatsachenvorbringens der Beschwerdeführerin zu den hier zentralen Fragen der\nBewertung des Nachlasses nicht eingegangen wird. Insofern stellen sich die Ausführungen als formelhafte\nund scheinbare Begründung dar, die nicht den Anforderungen des § 38 Abs. 3 S.1 FamFG entspricht.\nZudem lässt der Inhalt der Gründe auf eine Nichtberücksichtigung des Vortrages der Beschwerdeführerin\nund damit auf eine Verletzung des rechtlichen Gehörs schließen (vgl. Keidel/Meyer-Holz 19. Auflage\n<2017> § 38 Rn. 66 m.w.N.).\n8\nd) Diese Verletzung ist auch nicht im Abhilfeverfahren geheilt worden, da sich auch die\nNichtabhilfeentscheidung trotz substantiierten Beschwerdevorbringens, in dem erneut auf die bereits\nangebrachten Argumenten hingewiesen und ausdrücklich die Rüge erhoben wird, dass der Vortrag der\nBeschwerdeführerin betreffend die von ihr aufgebrachten Aufwendungen völlig ignoriert worden sei, darin\nerschöpft, dass der Beschwerde aus den im angefochtenen Beschluss genannten Gründen nicht\nabgeholfen werde und auf die Stellungnahme der Beteiligten zu 2 Bezug genommen werde.\n9\n3. Eine solche Art der Begründung rechtfertigt die Aufhebung der Ausgangsentscheidung und der\nNichtabhilfeentscheidung samt Zurückverweisung der Sache an das Ausgangsgericht zur erneuten\nDurchführung des Geschäftswertfestsetzungsverfahren (vgl. auch OLG Celle, Beschluss vom 19.1.2018 - 6\nW 211/17 -, Rn. 9, juris; OLG Celle Beschluss vom 31.1.2018- 6 W 8/18, juris Rn. 8; OLG Celle 30.11.2017\n6 W 190/17 -juris; OLG Koblenz JurBüro 2017, 488, 489).\n10\nDie Verletzung rechtlichen Gehörs der Beschwerdeführerin kann vorliegend auch nicht im\nBeschwerdeverfahren geheilt werden. Denn dort würde erstmals überhaupt die gebotene Sachaufklärung\nbetreffend die Werte der Immobilien samt Auseinandersetzung mit den von der Beschwerdeführerin\nvorgebrachten Einwänden erfolgen. Dies hätte zur Konsequenz, dass das Beschwerdegericht anstelle des\ndafür erstinstanziell an sich zuständigen Ausgangsgerichts tätig werden würde, und die Beschwerdeführerin\neine Tatsacheninstanz verlieren würde. Damit wäre auch eine Verkürzung des in § 83 GNotKG\nvorgesehenen Rechtsmittelzuges verbunden.\nII.\n11\nFür die Durchführung des Verfahrens betreffend die Festsetzung des Geschäftswerts weist der Senat auf\nfolgendes hin:\n12\n1. Zu den einzelnen Wertansätzen:\n13\na) Hinsichtlich des von der Beschwerdeführerin geltend gemachten Anspruchs im Sinne des §§ 951, 812\nBGB wird das Nachlassgericht abzuklären und zu prüfen haben, ob es sich dabei um\nehebedingte/unbenannte Zuwendungen der Beschwerdeführerin handelt und ob diese überhaupt eine\nNachlassverbindlichkeit darstellen können.\n14\nb) Hinsichtlich der Immobilie in München wird das Nachlassgericht die gerügte Größe der Wohnung\nabzuklären und den angesetzten qm-Preis näher zu erläutern haben. Zur Bestimmung des nach § 46 Abs. 1\nGNotkG anzusetzenden Verkehrswerts der Wohnung wäre u.a. auch eine Heranziehung eines\nVergleichwerts der Wohnung aufgrund amtlicher Auskunft (§ 46 Abs. 2 Nr. 3 Alt. 2 GNotKG) möglich.\n15\nc) Hinsichtlich des erbengemeinschaftlichen Miteigentumsanteils des Erblassers wird dessen Größe wie\nauch der Wert des Eigentums selbst festzustellen sein.\n16\nd) Da die Beschwerdeführerin kein Nachlassverzeichnis eingereicht hat und so der Umfang und der Wert\ndes Nachlasses bisher nicht umfassend abgeklärt wurden, wird das Nachlassgericht auch eine Auskunft bei\ndem zuständigen Finanzamt berücksichtigen zu haben. Entgegen der Auffassung der Beschwerdeführerin\nstehen einer solchen Auskunft weder das Steuergeheimnis noch datenschutzrechtliche Vorschriften\nentgegen. § 40 Abs. 6 GNotKG sieht ausdrücklich eine Offenbarungsbefugnis der Erbschaftsteuerstellen an\ndie Nachlassgerichte vor (vgl. Hk-GNotkK/Greipl <2013> § 40 Rn. 20; vgl. auch BR-Drs. 517/12 S.14).\n17\ne) Sofern sich infolge der erneuten Durchführung des Verfahrens betreffend die Bestimmung des\nGeschäftswerts für das Erbscheinserteilungsverfahren ein Wert ergibt, der höher ist das der in dem\nBeschluss vom 4.3.2019 (zunächst) festgesetzte, wäre der höhere Wert zugrunde zu legen. Das Verbot der\nÄnderung der Ausgangsentscheidung zum Nachteil eines Beschwerdeführers (sog. „Verbot einer reformatio\nin peius“) gilt im Verfahren der Geschäftswertbeschwerde nicht (vgl. Korintenberg/Fackelmann GNotKG 20.\nAuflage <2017> § 83 Rn. 35 m.w.N.). Ist aber der Senat im Rahmen des Beschwerdeverfahrens bei seiner\nEntscheidung nicht an die vom Nachlassgericht festgesetzte Höhe als Obergrenze gebunden, so besteht\nauch für das Nachlassgericht keine Bindung an den ursprünglichen festgesetzten Wert, wenn dessen\nEntscheidung im Beschwerdeverfahren aufgehoben und das Verfahren zur erneuten Durchführung des\nFestsetzungsverfahrens zurückverwiesen wird.\n18\n2. Zur Abfassung der Entscheidung betreffend die Festsetzung des Geschäftswerts:\n19\na) Die Beteiligten müssen vor Erlass der Entscheidung in die Lage versetzt werden, die Wertberechnung\nnachvollziehen zu können. Dies setzt voraus, dass sie vor Erlass der Entscheidung auf die Grundlagen der\nBerechnung hingewiesen werden und ihnen diese Grundlagen vorab zur Überprüfung der Wertberechnung\nmitgeteilt werden (vgl. auch OLG München BeckRS 2018, 30971).\n20\nb) Die Berechnung des Werts einer Immobilie muss in der Entscheidung selbst nachvollziehbar dargestellt\nwerden. Eine Bezugnahme auf computergestützte Berechnungsprogramme wäre insofern nicht\nausreichend. Vielmehr muss ein Beteiligter durch die Entscheidung selbst in die Lage versetzt werden, die\neinzelnen Berechnungsschritte wie auch die für die Berechnung herangezogenen Werte nachvollziehen zu\nkönnen (vgl. dazu OLG München BeckRS 2018, 30971; 2017, 118273 zur ähnlich gelagerten Problematik\nder Berechnung von Erbquoten im Rahmen des § 2087 Abs. 2 BGB). Insofern muss die Wertberechnung\nzur Überprüfung durch die Beteiligten wie auch durch den Senat aus sich selbst heraus verständlich und\nnachvollziehbar dargestellt sein.\nIII.\n21\nEine Kostenentscheidung ist nicht veranlasst (§ 83 Abs. 3 GNotKG).\nErlass des Beschlusses (§ 38 Abs. 3 Satz 3 FamFG):\n…, JAng.\n„ Übergabe an die Geschäftsstelle Urkundsbeamtin der Geschäftsstelle am\n30.04.2019.\n22\nGG Art. 103 Abs. 1 GNotKG §§ 40, 46, 83 FamFG § 38 Abs. 3\n23\n1. Für eine Heilung der vor dem Ausgangsgericht erfolgten Verletzung rechtlichen Gehörs ist im\nBeschwerdeverfahren dann kein Raum, wenn dort erstmals überhaupt die gebotene Sachaufklärung (hier:\nErmittlung der maßgeblichen Werte von Nachlassgegenstände) samt Auseinandersetzung mit den von der\nBeschwerdeführerin vorgebrachten Einwänden erfolgen würde\n24\n2. In solch einem Fall ist eine Aufhebung und Zurückverweisung der angefochtenen Entscheidung an das\nAusgangsgericht geboten, da ansonsten das Beschwerdegericht anstelle des an sich erstinstanziell\nzuständigen Ausgangsgerichts tätig werden würde und damit der Verlust einer Tatsacheninstanz und eine\nVerkürzung des vorgesehenen Rechtsmittelzuges einhergehen würde (im Anschluss an OLG München,\nBeschluss vom 16.01.2019 - 31 Wx 438/18, BeckRS 2019, 158).\n25\n3. Liegen für die Bestimmung des Geschäftswerts für das Erbscheinserteilungsverfahren keine\numfassenden Erkenntnisse betreffend den Wert und die Zusammensetzung des Nachlasses vor (hier: keine\nEinreichung eines Nachlassverzeichnisses), ist in der Regel die Einholung einer Auskunft bei der\nzuständigen Erbschaftssteuerstelle durch das Nachlassgericht angezeigt.\n26\n4. Das Verbot der Änderung der Ausgangsentscheidung zum Nachteil des Beschwerdeführers (sog. Verbot\nder reformatio in peius) gilt im Verfahren betreffend die Festsetzung des Geschäftswerts für das\nErbscheinserteilungsverfahren nicht.\n27\n5. Sind im Rahmen der Festsetzung des Geschäftswerts für das Erbscheinserteilungsverfahren der Wert\nvon im Nachlass befindlichen Immobilien zu bestimmen, müssen die Beteiligten vor Erlass der\nEntscheidung auf die Grundlagen der Wertberechnung hingewiesen werden und ihnen diese Grundlagen\nvorab zur Überprüfung der Wertberechnung mitgeteilt werden (im Anschluss an OLG München BeckRS\n2018, 30971).\n28\n6. Die Wertberechnung der Immobilie (Berechnungsschritte wie auch die Berechnungsgrundlagen) muss in\nder Entscheidung aus sich selbst heraus verständlich und nachvollziehbar dargestellt sein (im Anschluss an\nOLG München BeckRS 2018, 30971).\nOLG München 31. Zivilsenat\n31 Wx 221/19 Kost Beschluss vom 29.04.2019 rechtskräftig\n\n"
+}

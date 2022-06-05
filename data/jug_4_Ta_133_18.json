@@ -1,0 +1,515 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 53,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 59,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bedingungen",
+            "end": 126,
+            "start": 115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 139,
+            "start": 127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 161,
+            "start": 159,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 171,
+            "start": 170,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsatz",
+            "end": 180,
+            "start": 172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Parteien",
+            "end": 499,
+            "start": 491,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einfließen",
+            "end": 637,
+            "start": 627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 650,
+            "start": 639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bruttomonatsvergütung",
+            "end": 916,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 927,
+            "start": 917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 983,
+            "start": 981,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 994,
+            "start": 984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38158",
+            "end": 1014,
+            "start": 1009,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1020,
+            "start": 1015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1179,
+            "start": 1165,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gründe",
+            "end": 1187,
+            "start": 1181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 1189,
+            "start": 1188,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1192,
+            "start": 1191,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 1534,
+            "start": 1527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1537,
+            "start": 1536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vereinbart",
+            "end": 1706,
+            "start": 1696,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 1886,
+            "start": 1885,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1889,
+            "start": 1888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 2087,
+            "start": 2076,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtsstreits",
+            "end": 2200,
+            "start": 2187,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2203,
+            "start": 2202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begehrt",
+            "end": 2443,
+            "start": 2436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 2550,
+            "start": 2544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2553,
+            "start": 2552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgelegt",
+            "end": 2715,
+            "start": 2706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 2718,
+            "start": 2717,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 2804,
+            "start": 2796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 2808,
+            "start": 2806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 2811,
+            "start": 2810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 2842,
+            "start": 2834,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 2845,
+            "start": 2844,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3015,
+            "start": 3012,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3018,
+            "start": 3017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "-",
+            "end": 3075,
+            "start": 3074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 3079,
+            "start": 3077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 3196,
+            "start": 3193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 3200,
+            "start": 3198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 3482,
+            "start": 3479,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 3486,
+            "start": 3484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "begründet",
+            "end": 3533,
+            "start": 3524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 3537,
+            "start": 3535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebracht",
+            "end": 3722,
+            "start": 3714,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 3726,
+            "start": 3724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezogen",
+            "end": 4016,
+            "start": 4009,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4180,
+            "start": 4179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 4184,
+            "start": 4182,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 4577,
+            "start": 4566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Streit",
+            "end": 4761,
+            "start": 4755,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 4765,
+            "start": 4763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 5036,
+            "start": 5032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 5040,
+            "start": 5038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5423,
+            "start": 5417,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5588,
+            "start": 5583,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 5704,
+            "start": 5697,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 5708,
+            "start": 5706,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichsabschlusses",
+            "end": 5781,
+            "start": 5760,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 5785,
+            "start": 5783,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6063,
+            "start": 6062,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6554,
+            "start": 6553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 6558,
+            "start": 6556,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7069,
+            "start": 7068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 7073,
+            "start": 7071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 7342,
+            "start": 7339,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeflossen",
+            "end": 7420,
+            "start": 7408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 7424,
+            "start": 7422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Raum",
+            "end": 7872,
+            "start": 7868,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 7876,
+            "start": 7874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reduziert",
+            "end": 8028,
+            "start": 8019,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 8032,
+            "start": 8030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berücksichtigt",
+            "end": 8300,
+            "start": 8286,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 8304,
+            "start": 8302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bemessen",
+            "end": 8408,
+            "start": 8400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 8512,
+            "start": 8506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 8517,
+            "start": 8514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 8521,
+            "start": 8519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ArbGG",
+            "end": 8633,
+            "start": 8628,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 8637,
+            "start": 8635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "GKG",
+            "end": 8789,
+            "start": 8786,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LArbG Nürnberg, Beschluss v. 15.11.2018 – 4 Ta 133/18\nTitel:\nFortführung des Arbeitsverhältnisses unter geänderten Bedingungen\nNormenketten:\nGKG § 42, § 63, § 68\nTzBfG § 8\nLeitsatz:\nVerreinbaren die Parteien in einem Bestands- und Beschäftigungsrechtsstreit die Fortführung des\nArbeitsverhältnisses über den Zeitpunkt der angegriffenen Kündigung hinaus zu geänderten\nArbeitsbedingungen, handelt es sich hierbei um die Beilegung der Streitsache und nicht eines\naußergerichtlichen Streits der Parteien. Die vereinbarten Vertragsänderungen können zudem nur bis\nzur Obergrenze des § 42 Abs. 2 Satz 1 GKG in die Streitwertbemessung einfließen.\nSchlagworte:\nArbeitsbedingungen, Beschwerde, Festsetzung, Fortführung, Arbeitsverhältnis, Kostenerstattung,\nKündigungsschutzklage, Miterledigung, Mitwirkung, Rechtsmittel, Streitwert, Streitwertbemessung,\nVergleich, Vergleichsmehrwert, Änderungskündigung, Bruttomonatsvergütung\nVorinstanz:\nArbG Nürnberg, Beschluss vom 03.09.2018 – 2 Ca 7078/17\nFundstelle:\nBeckRS 2018, 38158\nTenor\nDie Beschwerde der Prozessbevollmächtigten des Klägers gegen den Beschluss des Arbeitsgerichts\nNürnberg vom 03.09.2018, Az.: 2 Ca 7078/17, wird zurückgewiesen.\nGründe\nI.\n1\nDer bei der Beklagten seit 01.03.2001 gegen eine Bruttomonatsvergütung von EUR 7.368,86 beschäftigte\nKläger hat gegen die ihm ausgesprochene ordentliche Kündigung des Arbeitsverhältnisses zum 30.06.2018\nKündigungsschutzklage erhoben, den Fortbestand des Arbeitsverhältnisses geltend gemacht und seine\ntatsächliche Weiterbeschäftigung begehrt.\n2\nDie Parteien haben den Rechtsstreit vergleichsweise beigelegt und die Fortführung des Arbeitsverhältnisses\nab dem 01.07.2018 zu geänderten Arbeitsbedingungen vereinbart. Von ihnen wurden daneben auch\nVergütungsansprüche für die Zeit bis zum 30.06.2018 und die Miterledigung eines weiteren anhängigen\nRechtsstreits geregelt (vgl. Bl. 104 - 106 d.A.).\n3\nDas Erstgericht hat mit Beschluss vom 03.09.2018 den Streitwert für das Verfahren auf EUR 29.475,44 (= 4\nBruttomonatsverdienste) und den überschießenden Vergleichswert auf EUR 18.618,86 festgesetzt.\nLetzteres in Höhe der geregelten Sonderzahlung für das Jahr 2018 und des Wertes des miterledigten\nRechtsstreits.\n4\nDie Prozessbevollmächtigten des Klägers haben gegen den ihnen am 04.09.2018 formlos zugeleiteten\nBeschluss mit Schriftsatz vom 11.09.2018 Beschwerde eingelegt und die Anhebung des Vergleichswertes\nauf einen Betrag von EUR 65.029,67 begehrt. Die vereinbarten Vertragsänderungen sollten jeweils mit der\nDreijahresdifferenz in Ansatz gebracht werden.\n5\nDas Arbeitsgericht Nürnberg hat mit Beschluss vom 11.10.2018 der Beschwerde nicht abgeholfen und sie\ndem Landesarbeitsgericht Nürnberg zur Entscheidung vorgelegt.\n6\nBezüglich weiterer Einzelheiten wird auf den Inhalt der Beschwerdeakte Bezug genommen.\nII.\n7\n1. Die Beschwerde ist zulässig.\n8\nSie ist statthaft, § 68 Abs. 1 GKG, denn sie richtet sich gegen einen Beschluss, durch den der Wert für die\nGerichtsgebühren gemäß § 63 Abs. 2 GKG festgesetzt worden ist.\n9\nDer Wert des Beschwerdegegenstandes übersteigt EUR 200,-.\n10\nDie Beschwerde ist innerhalb der in § 63 Abs. 3 Satz 2 GKG bestimmten Frist eingelegt worden, § 68 Abs. 1\nSatz 3 GKG.\n11\nDie Prozessbevollmächtigten des Klägers können gegen die gerichtliche Festsetzung aus eigenem Recht\ndas Rechtsmittel der Beschwerde einlegen, § 32 Abs. 2 Satz 1 RVG, da die gerichtliche\nGebührenfestsetzung gemäß § 32 Abs. 1 RVG auch für die Gebühren des Rechtsanwalts maßgebend ist.\n12\n2. Die Beschwerde ist sachlich nicht begründet.\n13\na) Das Arbeitsgericht hat den Kündigungsschutzantrag in Ziffer 1 der Klage zutreffend nach § 42 Abs. 4\nSatz 1 GKG bewertet und das Vierteljahreseinkommen des Klägers in Ansatz gebracht.\n14\nVom Erstgericht ist der neben dem Kündigungsschutzantrag geltend gemachte allgemeine\nFeststellungsantrag zu Recht nicht zusätzlich bewertet worden, denn er hat sich als bloßer Annex des\nKündigungsschutzantrages dargestellt und sich nicht auf konkrete weitere Beendigungstatbestände\nbezogen. (vgl. LAG Nürnberg vom 12.12.2013 - 4 Ta 133/13; vom 15.03.2007 - 4 Ta 43/07, beide n.v., Ziffer\nI Nr. 17.2 des Streitwertkatalogs für die Arbeitsgerichtsbarkeit).\n15\nDer Antrag auf tatsächliche Weiterbeschäftigung ist gemäß Ziffer I Nr. 26 des Streitwertkatalogs für die\nArbeitsgerichtsbarkeit mit einer Bruttomonatsvergütung zusätzlich bewertet worden\n16\nb) Für die im Vergleich geregelte Fortsetzung des Arbeitsverhältnisses zu geänderten Arbeitsbedingungen\nab dem 01.07.2018 hat das Erstgericht zutreffend keinen überschießenden Vergleichswert festgesetzt.\nHierdurch ist nämlich der anhängige Bestands- und Beschäftigungsstreit der Parteien beigelegt worden und\nkein davon unabhängiger weiterer gerichtlicher oder außergerichtlicher Streit.\n17\nEine Einigungsgebühr für die anwaltliche Tätigkeit fällt gem. Nr. 1000 VV RVG (Anlage 1 zu § 2 Abs. 2\nRVG) für die Mitwirkung beim Abschluss eines Vertrages an, durch den der Streit oder die Ungewissheit\nüber ein Rechtsverhältnis oder einen Rechtsanspruch beseitigt wird.\n18\nDem tragen die Regelungen für die Festsetzung eines Vergleichsmehrwerts in Ziffer I Nr. 25.1 des\nStreitwertkatalogs für die Arbeitsgerichtsbarkeit Rechnung, wonach ein Vergleichsmehrwert nur\nfestzusetzen ist, wenn durch den Vergleichsabschluss ein weiterer Rechtsstreit und/oder außergerichtlicher\nStreit erledigt und/oder die Ungewissheit über ein Rechtsverhältnis beseitigt werden. Dabei muss gerade\nüber die Frage eines Anspruchs oder Rechts in Bezug auf die jeweilige Regelung zwischen den Parteien\nStreit und/oder Ungewissheit bestanden haben; keine Werterhöhung tritt ein, wenn es sich lediglich um eine\nGegenleistung zur Beilegung des Rechtsstreits handelt.\n19\nAbzustellen ist auf die Umstände zum Zeitpunkt des Vergleichsabschlusses.\n20\nDer Begriff der Bestandsstreitigkeit i.S.d. § 42 Abs. 2 Satz 1 GKG ist sehr weitreichend und erfasst alle\nFälle, in denen es um die wirksame Begründung bzw. Beendigung des Vertragsverhältnisses geht (vgl.\nGermelmann/Matthes/ Prütting/Müller-Glöge, ArbGG, 7. Aufl., § 12, Rz 97). Auch in Fällen, in denen nach\nAusspruch einer Änderungskündigung und Annahme des Arbeitnehmers unter Vorbehalt lediglich um die\nÄnderung des bisherigen Vertragsinhaltes im Rahmen einer sogenannten Änderungsschutzklage gestritten\nwird, findet die Sonderregelung (zumindest entsprechende) Anwendung (vgl. Germelmann/\nMatthes/Prütting/Müller-Glöge, aaO. Rz. 119 ff; BAG vom 23.03.1989 - 7 AZR 527/85 - EzA Nr. 64 zu § 12\nArbGG 1979 Streitwert; LAG Nürnberg vom 16.02.2011 - 4 Ta 11/11 - n.v.).\n21\nEbenso bei einem Rechtsstreit über eine beantragte Arbeitszeitreduzierung gem. § 8 TzBfG (so LAG\nNürnberg vom 12.09.2003 - 9 Ta 127/03 - LAGE Nr. 14 zu § 8 TzBfG m.w.N.) oder eine getroffene\nAltersteilzeitregelung (so LAG Nürnberg vom 02.12.2003 - 9 Ta 170/03 - n.v.; LAG Hamburg vom\n15.02.2012 - 1 Sa 31/11 - zitiert in juris; LAG Düsseldorf vom 09.02.2009 - 6 Ta 53/09 - zitiert in juris) oder\neine streitige Änderungsvereinbarung der Parteien (so LAG Nürnberg vom 19.12.2005 - 9 Ta 247/05 - NZARR\n2006, 156).\n22\nDanach könnte ein Rechtsstreit der Parteien über die im Vergleich geregelten Vertragsänderungen nicht mit\nden auf drei Jahre bezogenen Differenzbeträgen bewertet werden, sondern nur bis zur Obergrenze des\nVierteljahreseinkommens des Klägers gem. § 42 Abs. 2 Satz 1 GKG. Dieser Betrag ist bereits in die\nBemessung des Verfahrenswertes eingeflossen.\n23\nHat die im Vergleich vereinbarte Abänderung bisheriger Vertragsbestimmungen insgesamt keinen höheren\nStreitwert als der Verfahrensstreitwert der Kündigungsschutzklage und stellt sich die über den\nEntlassungstermin der angegriffenen Kündigung vereinbarte Fortsetzung des Arbeitsverhältnisses zu\ngeänderten Vertragsbedingungen als Beilegung des anhängigen Bestandsstreits dar, ist für die Festsetzung\neines überschießenden Vergleichswertes kein Raum.\n24\nInsoweit haben die Parteien die angegriffene Beendigungskündigung im Vergleichswege auf die rechtlichen\nAuswirkungen einer Änderungskündigung reduziert.\n25\nc) Zutreffend hat das Erstgericht bei der Festsetzung des Vergleichsmehrwertes nur die im Vergleich\ngeregelten Vergütungsansprüche, die den Inhalt des bis 30.06.2018 geltenden Arbeitsvertrages betreffen,\nund die Miterledigung des weiteren Rechtsstreits berücksichtigt.\n26\nDiesbezüglich erscheint der ermittelte Wert eher großzügig und keinesfalls unangemessen gering\nbemessen. Von einer Reduzierung dieses Betrages im Rahmen des § 63 Abs. 3 Satz 1 Nr. 2 GKG kann\nabgesehen werden.\nIII.\n27\n1. Die Entscheidung konnte ohne mündliche Verhandlung durch den Vorsitzenden alleine ergehen, § 78\nSatz 3 ArbGG.\n28\n2. Für eine Kostenentscheidung bestand kein Anlass, da das Beschwerdeverfahren gebührenfrei ist und\nkeine Kostenerstattung stattfindet, § 68 Abs. 3 GKG.\n\n"
+}

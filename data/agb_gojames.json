@@ -1,0 +1,539 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Geltungsbereich",
+            "end": 18,
+            "start": 3,
+            "type": "SBD"
+        },
+        {
+            "annotation": "AGB",
+            "end": 128,
+            "start": 125,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 329,
+            "start": 323,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 551,
+            "start": 544,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssten",
+            "end": 681,
+            "start": 674,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprochen",
+            "end": 815,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 900,
+            "start": 895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 937,
+            "start": 922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "at",
+            "end": 1104,
+            "start": 1102,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraus",
+            "end": 1218,
+            "start": 1212,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1291,
+            "start": 1283,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1426,
+            "start": 1423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nutzen",
+            "end": 1676,
+            "start": 1670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 1789,
+            "start": 1787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellung",
+            "end": 1899,
+            "start": 1889,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsart",
+            "end": 1995,
+            "start": 1984,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 2011,
+            "start": 1997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextspeicherung",
+            "end": 2055,
+            "start": 2032,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 2126,
+            "start": 2119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 2175,
+            "start": 2164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungsumfang",
+            "end": 2195,
+            "start": 2180,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2459,
+            "start": 2458,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 2552,
+            "start": 2549,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 2628,
+            "start": 2620,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angegeben",
+            "end": 2759,
+            "start": 2750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3019,
+            "start": 3015,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruhen",
+            "end": 3534,
+            "start": 3527,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 3556,
+            "start": 3539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzu",
+            "end": 3632,
+            "start": 3627,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Angeboten",
+            "end": 3699,
+            "start": 3690,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandweg",
+            "end": 3730,
+            "start": 3720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 3785,
+            "start": 3778,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Packstationen",
+            "end": 3821,
+            "start": 3808,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlung",
+            "end": 3835,
+            "start": 3826,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bezahlmethoden",
+            "end": 3850,
+            "start": 3836,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schriftverkehr",
+            "end": 3886,
+            "start": 3872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusenden",
+            "end": 4069,
+            "start": 4061,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angeben",
+            "end": 4174,
+            "start": 4167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überprüfen",
+            "end": 4403,
+            "start": 4393,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 4426,
+            "start": 4408,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 4489,
+            "start": 4481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ergänzend",
+            "end": 4521,
+            "start": 4512,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 4659,
+            "start": 4656,
+            "type": "SBD"
+        },
+        {
+            "annotation": "weiterveräußern",
+            "end": 4739,
+            "start": 4724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 4990,
+            "start": 4988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommen",
+            "end": 5157,
+            "start": 5147,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Transportschäden",
+            "end": 5178,
+            "start": 5162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 5199,
+            "start": 5195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 5388,
+            "start": 5385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konsequenzen",
+            "end": 5567,
+            "start": 5555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5697,
+            "start": 5691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gilt",
+            "end": 5719,
+            "start": 5715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 5960,
+            "start": 5955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rügepflicht",
+            "end": 6041,
+            "start": 6030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 6214,
+            "start": 6211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 6284,
+            "start": 6279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schäden",
+            "end": 6322,
+            "start": 6315,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 6601,
+            "start": 6592,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kunden",
+            "end": 6675,
+            "start": 6669,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beschränkt",
+            "end": 6767,
+            "start": 6757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Garantien",
+            "end": 6801,
+            "start": 6792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrecht",
+            "end": 6899,
+            "start": 6880,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ware",
+            "end": 7021,
+            "start": 7017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gefahrübergang",
+            "end": 7114,
+            "start": 7100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 7211,
+            "start": 7202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 7403,
+            "start": 7397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 7504,
+            "start": 7497,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7721,
+            "start": 7720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8400,
+            "start": 8397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Onlineshop",
+            "end": 8579,
+            "start": 8569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 8592,
+            "start": 8585,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 8986,
+            "start": 8983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "muss",
+            "end": 9458,
+            "start": 9454,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgeschlossen",
+            "end": 9519,
+            "start": 9505,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 9560,
+            "start": 9552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geschützt",
+            "end": 9714,
+            "start": 9705,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestattet",
+            "end": 9879,
+            "start": 9870,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verfügung",
+            "end": 9973,
+            "start": 9964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "reproduzieren",
+            "end": 10365,
+            "start": 10352,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestimmungen",
+            "end": 10392,
+            "start": 10380,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Textform",
+            "end": 10470,
+            "start": 10462,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genügt",
+            "end": 10567,
+            "start": 10561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgen",
+            "end": 10693,
+            "start": 10685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 10998,
+            "start": 10991,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 11144,
+            "start": 11143,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bereit",
+            "end": 11279,
+            "start": 11273,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlussbestimmungen",
+            "end": 11304,
+            "start": 11285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 11387,
+            "start": 11377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Geschäftssitz",
+            "end": 11655,
+            "start": 11642,
+            "type": "SBD"
+        }
+    ],
+    "Text": "1. Geltungsbereich\nFür alle Bestellungen über unseren Online-Shop durch Verbraucher und Unternehmer gelten die nachfolgenden AGB.\nVerbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.\nGegenüber Unternehmern gelten diese AGB auch für künftige Geschäftsbeziehungen, ohne dass wir nochmals auf sie hinweisen müssten. Verwendet der Unternehmer entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen, wird deren Geltung hiermit widersprochen; sie werden nur dann Vertragsbestandteil, wenn wir dem ausdrücklich zugestimmt haben.\n2. Vertragspartner, Vertragsschluss\nDie folgenden Regelungen über den Vertragsabschluss gelten für Bestellungen und Leistungen über unsere Webseite http://www.fritzreifen.de und http:/www.fritzreifen.at.\nDie Nutzung der Webseiten setzt die Registrierung des Kunden und die Angabe einer gültigen E-Mail-Adresse voraus.\nIm Falle des Vertragsschlusses kommt der Vertrag mit Anschrift zustande.\nDie Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar. Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen. Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab. Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung.\nWann der Vertrag mit uns zustande kommt, richtet sich nach der von Ihnen gewählten Zahlungsart: Bezahlmethoden\n3. Vertragssprache, Vertragstextspeicherung\nDie für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch. Der Vertragstext wird von uns nicht gespeichert.\n4. Leistungsumfang\nWir bieten auf den Webseiten http://www.fritzreifen.de und http://www.fritzreifen.at einen Online-Shop für den Verkauf von Autoreifen und Zubehör sowie ggf. auch für die Montage der Reifen durch einen unserer Partnerbetriebe (Werkstatt oder mobiler Reifenservice).\nSofern die Montage durch einen Partnerbetrieb erfolgt, ist dieser Erfüllungsgehilfe von uns. Es kommt kein separater Vertrag des Kunden mit dem Partnerbetrieb zustande.\nAlle Preise verstehen sich brutto einschließlich der jeweils geltenden gesetzlichen Mehrwertsteuer, soweit nicht anders angegeben.\nObwohl wir bei der Ausführung unserer Dienstleistungen sehr sorgfältig und gewissenhaft vorgehen, können wir weder überprüfen noch garantieren, dass alle uns von Dritten (bspw. Partnerbetrieben) übermittelten Informationen genau, richtig und vollständig sind. Auch können wir nicht für Fehler (einschließlich offenkundiger Fehler oder Druckfehler), Unterbrechungen (durch einen zeitlich begrenzten und/oder einen teilweisen Ausfall, Reparatur-, Aktualisierungs- oder Instandhaltungsarbeiten auf unserer Webseite oder einen anderen Grund), ungenaue, fehlleitende oder unwahre Informationen oder Nichtübermittlung der Informationen verantwortlich gemacht werden, wenn diese Fehler nicht auf unserem eigenen Verschulden  oder dem Verschulden unserer Erfüllungsgehilfen beruhen.\n5. Lieferbedingungen\nZuzüglich zu den angegebenen Produktpreisen kommen noch Versandkosten hinzu. Näheres zur Höhe der Versandkosten erfahren Sie bei den Angeboten.\nWir liefern nur im Versandweg. Eine Selbstabholung der Ware ist leider nicht möglich.\nWir liefern nicht an Packstationen.\n6. Bezahlung\nBezahlmethoden\n7. Kommunikation und Schriftverkehr\nMit der Registrierung akzeptieren Sie den Erhalt i) einer Bestätigungs-E-Mail und ii) einer E-Mail, die wir Ihnen gegebenenfalls direkt nach einer Bestellung als Bestätigung zusenden.\nUm Ihre Transaktion vollständig und sicher auszuführen, müssen Sie Ihre korrekte E-Mail-Adresse angeben. Wir sind nicht verantwortlich oder haftbar für jegliche falsche oder falsch geschriebene E-Mail-Adressen oder falsche (Mobil-)Telefonnummern oder Konto- oder Kreditkartennummern und haben keine Verpflichtung diese zu überprüfen.\n8. Eigentumsvorbehalt\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\nFür Unternehmer gilt ergänzend: Wir behalten uns das Eigentum an der Ware bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung vor. Sie dürfen die Vorbehaltsware im ordentlichen Geschäftsbetrieb weiterveräußern; sämtliche aus diesem Weiterverkauf entstehenden Forderungen treten Sie – unabhängig von einer Verbindung oder Vermischung der Vorbehaltsware mit einer neuen Sache - in Höhe des Rechnungsbetrages an uns im Voraus ab, und wir nehmen diese Abtretung an. Sie bleiben zur Einziehung der Forderungen ermächtigt, wir dürfen Forderungen jedoch auch selbst einziehen, soweit Sie Ihren Zahlungsverpflichtungen nicht nachkommen.\n9. Transportschäden\nFür Verbraucher gilt: Werden Waren mit offensichtlichen Transportschäden angeliefert, so reklamieren Sie solche Fehler bitte möglichst sofort beim Zusteller und nehmen Sie bitte unverzüglich Kontakt zu uns auf. Die Versäumung einer Reklamation oder Kontaktaufnahme hat für Ihre gesetzlichen Ansprüche und deren Durchsetzung, insbesondere Ihre Gewährleistungsrechte, keinerlei Konsequenzen. Sie helfen uns aber, unsere eigenen Ansprüche gegenüber dem Frachtführer bzw. der Transportversicherung geltend machen zu können.\nFür Unternehmer gilt: Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung geht auf Sie über, sobald wir die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert haben. Unter Kaufleuten gilt die in § 377 HGB geregelte Untersuchungs- und Rügepflicht. Unterlassen Sie die dort geregelte Anzeige, so gilt die Ware als genehmigt, es sei denn, dass es sich um einen Mangel handelt, der bei der Untersuchung nicht erkennbar war. Dies gilt nicht, falls wir einen Mangel arglistig verschwiegen haben.\n10. Vorgehen bei Mängeln und Schäden\nUnabhängig von den rechtlichen Ansprüchen gegenüber uns und unseren Partnerbetrieben steht unseren Kunden als erster Ansprechpartner bei Mängeln und Schäden, die bei der Montage der Reifen unserer Partnerbetriebe entstanden sind, stets unser Partnerbetrieb vor Ort zur Verfügung.\nDer Partnerbetrieb kümmert sich federführend um die Ansprüche des Kunden. Dem Kunden zustehende gesetzliche oder vertragliche Rechte werden dadurch nicht beschränkt.\n11. Gewährleistung und Garantien\nSoweit nicht nachstehend ausdrücklich anders vereinbart, gilt das gesetzliche Mängelhaftungsrecht. Für Verbraucher beträgt die Verjährungsfrist für Mängelansprüche bei gebrauchten Sachen ein Jahr ab Ablieferung der Ware.\nFür Unternehmer beträgt die Verjährungsfrist für Mängelansprüche ein Jahr ab Gefahrübergang; die gesetzlichen Verjährungsfristen für den Rückgriffsanspruch nach § 478 BGB bleiben unberührt.\nGegenüber Unternehmern gelten als Vereinbarung über die Beschaffenheit der Ware nur unsere eigenen Angaben und die Produktbeschreibungen des Herstellers, die in den Vertrag einbezogen wurden; für öffentliche Äußerungen des Herstellers oder sonstige Werbeaussagen übernehmen wir keine Haftung.\nIst die gelieferte Sache mangelhaft, leisten wir gegenüber Unternehmern zunächst nach unserer Wahl Gewähr durch Beseitigung des Mangels (Nachbesserung) oder durch Lieferung einer mangelfreien Sache (Ersatzlieferung).\nDie vorstehenden Einschränkungen und Fristverkürzungen gelten nicht für Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden bei Verletzung des Lebens, des Körpers oder der Gesundheit, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung sowie Arglist, bei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf (Kardinalpflichten) im Rahmen eines Garantieversprechens, soweit vereinbart, soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nInformationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.\n12. Haftung\nFür Ansprüche aufgrund von Schäden, die durch uns, unsere gesetzlichen Vertreter oder Erfüllungsgehilfen verursacht wurden, haften wir stets unbeschränkt bei Verletzung des Lebens, des Körpers oder der Gesundheit,  bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung, bei Garantieversprechen, soweit vereinbart, oder soweit der Anwendungsbereich des Produkthaftungsgesetzes eröffnet ist.\nBei Verletzung wesentlicher Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf, (Kardinalpflichten) durch leichte Fahrlässigkeit von uns, unseren gesetzlichen Vertretern oder Erfüllungsgehilfen ist die Haftung der Höhe nach auf den bei Vertragsschluss vorhersehbaren Schaden begrenzt, mit dessen Entstehung typischerweise gerechnet werden muss. Im Übrigen sind Ansprüche auf Schadensersatz ausgeschlossen.\n13. Urheberrecht und geistiges Eigentum\nSämtliche auf den Webseiten fritzreifen.de und fritzreifen.at zur Verfügung gestellten Informationen und Dienstleistungen sind urheberrechtlich geschützt. Eine Vervielfältigung ist nur mit der ausdrücklichen schriftlichen oder in Textform erfolgten Zustimmung von uns oder dem jeweiligen Urheberrechtsinhaber gestattet.\nUnsere Dienstleistungen stehen nur zur privaten und nichtkommerziellen Nutzung zur Verfügung. Daher ist es Ihnen nicht gestattet, Inhalte oder Informationen, Software, Produkte oder Dienstleistungen, die auf unserer Webseite verfügbar sind, zu gewerblichen oder wettbewerblichen Zwecken zu vertreiben, mit Unterseiten von Webseiten zu verlinken, zu nutzen, zu vervielfältigen, zu extrahieren (zum Beispiel mit Spider, Scrape), neu zu veröffentlichen, hochzuladen oder zu reproduzieren.\n14. Sonstige Bestimmungen\nErklärungen und Nebenabreden bedürfen zu ihrer Rechtswirksamkeit der Textform. Die Parteien nehmen zur Kenntnis, dass zur Einhaltung der Textform der Versand per Email genügt.\nBeschwerden müssen in Textform an die Adresse GoJames GmbH, Corunnastraße 1, 58636 Iserlohn, welcome@fritzreifen.de erfolgen.\nMit der Bestellung bestätigt der Kunde, dass er die AGB gelesen hat, den Inhalt vorbehaltlos verstanden hat und sich an diese uneingeschränkt hält, ferner die Datenschutzbestimmungen anerkennt, sowie sich mit der Verwaltung seiner persönlichen Daten, die er bei der Buchung angibt, einverstanden erklärt.\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/. Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.\n15. Schlussbestimmungen\nSind Sie Unternehmer, dann gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\nSind Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus Vertragsverhältnissen zwischen uns und Ihnen unser Geschäftssitz.\n\n"
+}

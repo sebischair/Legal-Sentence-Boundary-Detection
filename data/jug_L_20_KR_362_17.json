@@ -1,0 +1,2201 @@
+{
+    "Annotations": [
+        {
+            "annotation": "17",
+            "end": 50,
+            "start": 48,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 56,
+            "start": 51,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 131,
+            "start": 117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 144,
+            "start": 132,
+            "type": "SBD"
+        },
+        {
+            "annotation": "434",
+            "end": 155,
+            "start": 152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "437",
+            "end": 165,
+            "start": 162,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ff",
+            "end": 178,
+            "start": 176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "651",
+            "end": 211,
+            "start": 208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 236,
+            "start": 235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leitsätze",
+            "end": 246,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 532,
+            "start": 525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 742,
+            "start": 739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufzufordern",
+            "end": 955,
+            "start": 943,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entbehrlich",
+            "end": 1066,
+            "start": 1055,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichzusetzen",
+            "end": 1256,
+            "start": 1242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 1269,
+            "start": 1258,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Krankenversicherung",
+            "end": 1370,
+            "start": 1351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 1381,
+            "start": 1371,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 1433,
+            "start": 1431,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 1444,
+            "start": 1434,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8224",
+            "end": 1463,
+            "start": 1459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 1469,
+            "start": 1464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 1578,
+            "start": 1564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Berufungsverfahren",
+            "end": 1658,
+            "start": 1640,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgesetzt",
+            "end": 1738,
+            "start": 1727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 1778,
+            "start": 1768,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 1790,
+            "start": 1780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 1792,
+            "start": 1791,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prothesenversorgung",
+            "end": 1870,
+            "start": 1851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1873,
+            "start": 1872,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 2118,
+            "start": 2115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgegeben",
+            "end": 2489,
+            "start": 2480,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2648,
+            "start": 2647,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 2651,
+            "start": 2650,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Evaluation",
+            "end": 2812,
+            "start": 2802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2815,
+            "start": 2814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 2985,
+            "start": 2979,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Druckschmerzen",
+            "end": 3093,
+            "start": 3079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 3304,
+            "start": 3297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 3307,
+            "start": 3306,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 3383,
+            "start": 3377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tief",
+            "end": 3430,
+            "start": 3426,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3592,
+            "start": 3586,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Diagnoseschaft",
+            "end": 3687,
+            "start": 3673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gearbeitet",
+            "end": 3785,
+            "start": 3775,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sitzen",
+            "end": 3879,
+            "start": 3873,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4023,
+            "start": 4017,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prothesenseite",
+            "end": 4133,
+            "start": 4119,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4217,
+            "start": 4211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 4275,
+            "start": 4265,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 4371,
+            "start": 4365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "komplett",
+            "end": 4421,
+            "start": 4413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4492,
+            "start": 4486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4613,
+            "start": 4607,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 4710,
+            "start": 4704,
+            "type": "SBD"
+        },
+        {
+            "annotation": "außenrotiert",
+            "end": 4763,
+            "start": 4751,
+            "type": "SBD"
+        },
+        {
+            "annotation": "innenrotiert",
+            "end": 4811,
+            "start": 4799,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betrachtet",
+            "end": 4903,
+            "start": 4893,
+            "type": "SBD"
+        },
+        {
+            "annotation": "positioniert",
+            "end": 5113,
+            "start": 5101,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 5292,
+            "start": 5289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5375,
+            "start": 5369,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 5458,
+            "start": 5452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 5461,
+            "start": 5460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrekt",
+            "end": 5606,
+            "start": 5599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 5609,
+            "start": 5608,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgehe",
+            "end": 5848,
+            "start": 5841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 6019,
+            "start": 6013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 6154,
+            "start": 6149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachvollziehbar",
+            "end": 6191,
+            "start": 6176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 6194,
+            "start": 6193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6285,
+            "start": 6279,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6487,
+            "start": 6481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 6490,
+            "start": 6489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 6776,
+            "start": 6770,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgelehnt",
+            "end": 6866,
+            "start": 6857,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 6990,
+            "start": 6983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "laufen",
+            "end": 7092,
+            "start": 7086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 7191,
+            "start": 7184,
+            "type": "SBD"
+        },
+        {
+            "annotation": "drückten",
+            "end": 7402,
+            "start": 7394,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ausgehe",
+            "end": 7576,
+            "start": 7569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 7726,
+            "start": 7720,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 7730,
+            "start": 7728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hin",
+            "end": 7834,
+            "start": 7831,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 7983,
+            "start": 7980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 8073,
+            "start": 8063,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 8333,
+            "start": 8327,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangen",
+            "end": 8458,
+            "start": 8449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 8547,
+            "start": 8539,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entstanden",
+            "end": 8658,
+            "start": 8648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuüberweisen",
+            "end": 8820,
+            "start": 8802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 8824,
+            "start": 8822,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 8892,
+            "start": 8887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 8896,
+            "start": 8894,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 9073,
+            "start": 9070,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beruht",
+            "end": 9130,
+            "start": 9124,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorzunehmen",
+            "end": 9357,
+            "start": 9346,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 9436,
+            "start": 9429,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 9440,
+            "start": 9438,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 9495,
+            "start": 9488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9621,
+            "start": 9615,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 9625,
+            "start": 9623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9704,
+            "start": 9698,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 9819,
+            "start": 9813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schwanke",
+            "end": 9895,
+            "start": 9887,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 9899,
+            "start": 9897,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewesen",
+            "end": 10027,
+            "start": 10020,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgefallen",
+            "end": 10140,
+            "start": 10129,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10196,
+            "start": 10190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10200,
+            "start": 10198,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 10384,
+            "start": 10381,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgestellt",
+            "end": 10460,
+            "start": 10449,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 10523,
+            "start": 10517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10527,
+            "start": 10525,
+            "type": "SBD"
+        },
+        {
+            "annotation": "widersprüchlich",
+            "end": 10584,
+            "start": 10569,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Drehmoment",
+            "end": 10704,
+            "start": 10694,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 10742,
+            "start": 10739,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 10879,
+            "start": 10874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 11043,
+            "start": 11038,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 11047,
+            "start": 11045,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11165,
+            "start": 11163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11224,
+            "start": 11222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgemerkt",
+            "end": 11300,
+            "start": 11290,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 11304,
+            "start": 11302,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erinnerung",
+            "end": 11453,
+            "start": 11443,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 11602,
+            "start": 11600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11606,
+            "start": 11604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2016",
+            "end": 11818,
+            "start": 11814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 11822,
+            "start": 11820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2012",
+            "end": 11956,
+            "start": 11952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 12092,
+            "start": 12086,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12252,
+            "start": 12249,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 12256,
+            "start": 12254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prothese",
+            "end": 12364,
+            "start": 12356,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Prothese",
+            "end": 12519,
+            "start": 12511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 12678,
+            "start": 12675,
+            "type": "SBD"
+        },
+        {
+            "annotation": "korrekt",
+            "end": 12723,
+            "start": 12716,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12845,
+            "start": 12839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässig",
+            "end": 12998,
+            "start": 12990,
+            "type": "SBD"
+        },
+        {
+            "annotation": "möglich",
+            "end": 13179,
+            "start": 13172,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 13183,
+            "start": 13181,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 13301,
+            "start": 13298,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entgegen",
+            "end": 13445,
+            "start": 13437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13449,
+            "start": 13447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "an",
+            "end": 13548,
+            "start": 13546,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 13552,
+            "start": 13550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 13713,
+            "start": 13712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 13717,
+            "start": 13715,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhebe",
+            "end": 13845,
+            "start": 13839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fort",
+            "end": 13920,
+            "start": 13916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nachbesserung",
+            "end": 14048,
+            "start": 14035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 14052,
+            "start": 14050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "laufe",
+            "end": 14216,
+            "start": 14211,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 14370,
+            "start": 14367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 14374,
+            "start": 14372,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bestehe",
+            "end": 14637,
+            "start": 14630,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 14641,
+            "start": 14639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 15035,
+            "start": 15030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "“",
+            "end": 15326,
+            "start": 15325,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersetzen",
+            "end": 15414,
+            "start": 15406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 15557,
+            "start": 15554,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 15767,
+            "start": 15764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 15771,
+            "start": 15769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verjährt",
+            "end": 15804,
+            "start": 15796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 16090,
+            "start": 16085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 16094,
+            "start": 16092,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuzumuten",
+            "end": 16352,
+            "start": 16343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelöst",
+            "end": 16488,
+            "start": 16482,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 16492,
+            "start": 16490,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 16641,
+            "start": 16633,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 16760,
+            "start": 16753,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 16908,
+            "start": 16906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lage",
+            "end": 16973,
+            "start": 16969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17089,
+            "start": 17086,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 17225,
+            "start": 17224,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistung",
+            "end": 17300,
+            "start": 17292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dulden",
+            "end": 17509,
+            "start": 17503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verpflichten",
+            "end": 17629,
+            "start": 17617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gegeben",
+            "end": 17718,
+            "start": 17711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17854,
+            "start": 17851,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 17938,
+            "start": 17931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachbesserungsfähig",
+            "end": 18022,
+            "start": 18003,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einschlägig",
+            "end": 18206,
+            "start": 18195,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 18210,
+            "start": 18208,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 18460,
+            "start": 18459,
+            "type": "SBD"
+        },
+        {
+            "annotation": "resultiere",
+            "end": 18610,
+            "start": 18600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 18614,
+            "start": 18612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "könne",
+            "end": 18818,
+            "start": 18813,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 18822,
+            "start": 18820,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzubessern",
+            "end": 19159,
+            "start": 19146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 19163,
+            "start": 19161,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19389,
+            "start": 19388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 19393,
+            "start": 19391,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 19486,
+            "start": 19480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "mindern",
+            "end": 19608,
+            "start": 19601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 19612,
+            "start": 19610,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 19708,
+            "start": 19702,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigert",
+            "end": 19784,
+            "start": 19774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 19788,
+            "start": 19786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhoben",
+            "end": 19849,
+            "start": 19842,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahren",
+            "end": 19928,
+            "start": 19922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 19962,
+            "start": 19951,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 19966,
+            "start": 19964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 20033,
+            "start": 20023,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bleiben",
+            "end": 20157,
+            "start": 20150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verjährt",
+            "end": 20202,
+            "start": 20194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 20206,
+            "start": 20204,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 20375,
+            "start": 20366,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 20602,
+            "start": 20599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 20810,
+            "start": 20801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 20814,
+            "start": 20812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Jahren",
+            "end": 20963,
+            "start": 20957,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21051,
+            "start": 21050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 21055,
+            "start": 21053,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 21186,
+            "start": 21179,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewährleistung",
+            "end": 21306,
+            "start": 21292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sollten",
+            "end": 21683,
+            "start": 21676,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 21687,
+            "start": 21685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 21810,
+            "start": 21804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 21873,
+            "start": 21862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzichtet",
+            "end": 21990,
+            "start": 21980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 22147,
+            "start": 22141,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 22151,
+            "start": 22149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 22351,
+            "start": 22348,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 22355,
+            "start": 22353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 22747,
+            "start": 22744,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 22998,
+            "start": 22995,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährungsfrist",
+            "end": 23060,
+            "start": 23044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gelten",
+            "end": 23156,
+            "start": 23150,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schadensersatz",
+            "end": 23274,
+            "start": 23260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 23383,
+            "start": 23377,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 23387,
+            "start": 23385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verjährungsfrist",
+            "end": 23817,
+            "start": 23801,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 23821,
+            "start": 23819,
+            "type": "SBD"
+        },
+        {
+            "annotation": "befinde",
+            "end": 24054,
+            "start": 24047,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 24143,
+            "start": 24140,
+            "type": "SBD"
+        },
+        {
+            "annotation": "rekonstruierbar",
+            "end": 24208,
+            "start": 24193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 24324,
+            "start": 24316,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werde",
+            "end": 24403,
+            "start": 24398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 24407,
+            "start": 24405,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 24521,
+            "start": 24515,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfolgt",
+            "end": 24710,
+            "start": 24703,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 24714,
+            "start": 24712,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zahlen",
+            "end": 25073,
+            "start": 25067,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 25077,
+            "start": 25075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuweisen",
+            "end": 25129,
+            "start": 25115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 25133,
+            "start": 25131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwiesen",
+            "end": 25283,
+            "start": 25274,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 25304,
+            "start": 25285,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 25307,
+            "start": 25305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 25431,
+            "start": 25420,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherten",
+            "end": 25557,
+            "start": 25545,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 25561,
+            "start": 25559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 25697,
+            "start": 25688,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26014,
+            "start": 26013,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 26018,
+            "start": 26016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "SGG",
+            "end": 26211,
+            "start": 26208,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehört",
+            "end": 26530,
+            "start": 26524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nicht",
+            "end": 26569,
+            "start": 26564,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 26573,
+            "start": 26571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geltend",
+            "end": 26790,
+            "start": 26783,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 26794,
+            "start": 26792,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 27167,
+            "start": 27164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 27335,
+            "start": 27324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 27601,
+            "start": 27597,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 27960,
+            "start": 27959,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28208,
+            "start": 28207,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 28212,
+            "start": 28210,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28344,
+            "start": 28343,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 28683,
+            "start": 28682,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugrunde",
+            "end": 28799,
+            "start": 28791,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 29161,
+            "start": 29160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 29165,
+            "start": 29163,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 29317,
+            "start": 29314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 29460,
+            "start": 29452,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 29671,
+            "start": 29667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 29675,
+            "start": 29673,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 29918,
+            "start": 29917,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30270,
+            "start": 30269,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 30274,
+            "start": 30272,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollte",
+            "end": 30372,
+            "start": 30366,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30624,
+            "start": 30623,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfüllt",
+            "end": 30796,
+            "start": 30789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 30800,
+            "start": 30798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 31133,
+            "start": 31130,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 31137,
+            "start": 31135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "führte",
+            "end": 31371,
+            "start": 31365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesetzt",
+            "end": 31488,
+            "start": 31481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "setzen",
+            "end": 31810,
+            "start": 31804,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 31814,
+            "start": 31812,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entbehrlich",
+            "end": 31873,
+            "start": 31862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 31877,
+            "start": 31875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 32166,
+            "start": 32162,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32407,
+            "start": 32406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 32586,
+            "start": 32580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 32591,
+            "start": 32589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 32773,
+            "start": 32769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "oder",
+            "end": 33091,
+            "start": 33087,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33174,
+            "start": 33173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 33178,
+            "start": 33176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "BGB",
+            "end": 33569,
+            "start": 33566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trägt",
+            "end": 33858,
+            "start": 33853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachzubessern",
+            "end": 34173,
+            "start": 34160,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 34177,
+            "start": 34175,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 34433,
+            "start": 34432,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 34760,
+            "start": 34757,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müssen",
+            "end": 34978,
+            "start": 34972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gesetzt",
+            "end": 35102,
+            "start": 35095,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 35106,
+            "start": 35104,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 35512,
+            "start": 35511,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 35516,
+            "start": 35514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 35651,
+            "start": 35648,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufsache",
+            "end": 35792,
+            "start": 35783,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 36102,
+            "start": 36101,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 36612,
+            "start": 36611,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 36764,
+            "start": 36763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzulegen",
+            "end": 36940,
+            "start": 36931,
+            "type": "SBD"
+        },
+        {
+            "annotation": "71",
+            "end": 36944,
+            "start": 36942,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 37179,
+            "start": 37174,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszugehen",
+            "end": 37250,
+            "start": 37240,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzupassen",
+            "end": 37423,
+            "start": 37413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festzuhalten",
+            "end": 37794,
+            "start": 37782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "72",
+            "end": 37798,
+            "start": 37796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geben",
+            "end": 38084,
+            "start": 38079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 38236,
+            "start": 38232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Nacherfüllung",
+            "end": 38401,
+            "start": 38388,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewandt",
+            "end": 38587,
+            "start": 38580,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 38746,
+            "start": 38740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ersichtlich",
+            "end": 38914,
+            "start": 38903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "73",
+            "end": 38918,
+            "start": 38916,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 39386,
+            "start": 39385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verweigert",
+            "end": 39529,
+            "start": 39519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherten",
+            "end": 39679,
+            "start": 39667,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geliefert",
+            "end": 39862,
+            "start": 39853,
+            "type": "SBD"
+        },
+        {
+            "annotation": "74",
+            "end": 39866,
+            "start": 39864,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ableiten",
+            "end": 40098,
+            "start": 40090,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahnersatz",
+            "end": 40353,
+            "start": 40343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 40972,
+            "start": 40969,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingeschränkt",
+            "end": 41075,
+            "start": 41062,
+            "type": "SBD"
+        },
+        {
+            "annotation": "einzuräumen",
+            "end": 41279,
+            "start": 41268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "75",
+            "end": 41283,
+            "start": 41281,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 41474,
+            "start": 41472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stützen",
+            "end": 41572,
+            "start": 41565,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versicherten",
+            "end": 41740,
+            "start": 41728,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 41953,
+            "start": 41952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "77",
+            "end": 41957,
+            "start": 41955,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 42403,
+            "start": 42400,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entnehmen",
+            "end": 42806,
+            "start": 42797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bedurft",
+            "end": 42909,
+            "start": 42902,
+            "type": "SBD"
+        },
+        {
+            "annotation": "finden",
+            "end": 43155,
+            "start": 43149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "78",
+            "end": 43159,
+            "start": 43157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "fordern",
+            "end": 43265,
+            "start": 43258,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 43487,
+            "start": 43486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gutachterkosten",
+            "end": 43637,
+            "start": 43622,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückforderte",
+            "end": 43828,
+            "start": 43814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruch",
+            "end": 43922,
+            "start": 43914,
+            "type": "SBD"
+        },
+        {
+            "annotation": "79",
+            "end": 43926,
+            "start": 43924,
+            "type": "SBD"
+        },
+        {
+            "annotation": "konnte",
+            "end": 44142,
+            "start": 44136,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 44679,
+            "start": 44678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "eingetreten",
+            "end": 44782,
+            "start": 44771,
+            "type": "SBD"
+        },
+        {
+            "annotation": "80",
+            "end": 44786,
+            "start": 44784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "war",
+            "end": 45039,
+            "start": 45036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "81",
+            "end": 45043,
+            "start": 45041,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45156,
+            "start": 45155,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 45290,
+            "start": 45289,
+            "type": "SBD"
+        },
+        {
+            "annotation": "82",
+            "end": 45294,
+            "start": 45292,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 45368,
+            "start": 45365,
+            "type": "SBD"
+        }
+    ],
+    "Text": "LSG München, Urteil v. 11.04.2019 – L 20 KR 362/17\nTitel:\nKrankenversicherung – Hilfsmittelversorgung – Sachmangel – Gewährleistung\nNormenketten:\nBGB § 434\nBGB § 437\nBGB § 439 ff.\nBGB i.d.F. bis 31.12.2017 § 651\nSGB V § 69 Abs. 1 Satz 3\nLeitsätze:\n1. Der Versorgung eines Versicherten mit einer Beinprothese liegt ein öffentlich-rechtlicher\nSachlieferungsvertrag zugrunde, wobei es sich um einen dreiseitigen Vertrag zwischen\nVersichertem und Krankenkasse auf der einen Seite und dem Leistungserbringer auf der anderen\nSeite handelt.\n2. Ansprüche aus Sachmängelhaftung im Rahmen eines Prothesenbeschaffungsvertrages (=\nSachlieferungsvertrag) beruhen gemäß § 69 Abs. 1 Satz 3 SGB V auf der entsprechenden\nAnwendung der §§ 434, 437, 439 ff. BGB.\n3. Vor dem Rücktritt der Krankenkasse vom Prothesenbeschaffungsvertrag wegen Lieferung einer\nmangelhaften Prothese hat diese den Leistungserbringer grundsätzlich zur Nacherfüllung unter\nFristsetzung aufzufordern. Dies ist nur in Ausnahmefällen (Verweigerung, Fehlschlagen bzw.\nUnzumutbarkeit der Nacherfüllung) entbehrlich.\n4. Nachjustierungen im Prozess der Prothesenanpassung (z.B. wegen sich verändernder\nStumpfverhältnisse) sind nicht automatisch mit (fehlgeschlagenen) Nachbesserungsversuchen\ngleichzusetzen.\nSchlagworte:\nGewährleistung, Hilfsmittelversorgung, Krankenversicherung, Sachmangel, Titel = Krankenversicherung\nVorinstanz:\nSG Nürnberg, Urteil vom 16.02.2017 – S 7 KR 521/16\nFundstelle:\nBeckRS 2019, 8224\nTenor\nI. Die Berufung der Klägerin gegen das Urteil des Sozialgerichts Nürnberg vom 16.02.2017 wird\nzurückgewiesen.\nII. Die Klägerin trägt die Kosten des Rechtsstreits auch im Berufungsverfahren.\nIII. Der Streitwert wird für das Berufungsverfahren auf 9.679,36 € festgesetzt.\nIV. Die Revision wird nicht zugelassen.\nTatbestand\n1\nDie Parteien streiten um Vergütungsrückzahlung nach einer Prothesenversorgung.\n2\nDie Beklagte und Berufungsbeklagte (im Folgenden: Beklagte) ist ein Sanitätshaus, das mit der Klägerin\nund Berufungsklägerin (im Folgenden: Klägerin) einen Vertrag über die Versorgung mit Prothesen für die\nunteren Extremitäten abgeschlossen hat. Im Rahmen dieses Vertrages hat die Beklagte an einen\nVersicherten der Klägerin, den 2016 verstorbenen Herrn H. K., (im Folgenden: Versicherter) auf der\nGrundlage einer entsprechenden Verordnung des Allgemeinmediziners Dr. S. vom 05.12.2011 und der\nBewilligung durch die Klägerin vom 15.12.2011 am 11.01.2012 eine Oberschenkelprothese (als\nDefinitivversorgung) abgegeben. Auf die Rechnung vom 07.03.2012 beglich die Klägerin am 12.03.2012\nden Rechnungsbetrag von 8.869,36 € (= 8.879,36 € abzgl. 10,- € Zuzahlung des Versicherten).\n3\nMit Schreiben vom 31.05.2012 bat die Klägerin den Versicherten um Vorstellung beim Medizinischen Dienst\nder Krankenversicherung (MDK) im Rahmen einer Evaluation.\n4\nAus dem Protokoll der EVA-Begutachtung vom 12.06.2012 ergibt sich, dass der Versicherte angegeben\nhabe, mit der Prothese nur wenige Schritte selbständig laufen zu können. Der Prothesenschaft verursache\nihm am oberen Ende des Stumpfes an der Innenseite peinigende Druckschmerzen. Da der Versicherte\nansonsten einen gesunden und rüstigen Eindruck gemacht habe (MOB 2+) und durch keinerlei\nKontrakturen behindert werde, sei die relativ kurze Gehstrecke zunächst nicht nachvollziehbar gewesen.\n5\nBei der Begutachtung der Prothese seien folgende Mängel festgestellt worden:\n- Der Drehpunkt des Kniegelenks sitze zu tief.\n- Da außerdem der Oberschaft distal zu lang gefertigt sei, könne durch korrekte Anfertigung des\nOberschafts der Gelenkdrehpunkt bis zu 5 cm höher gesetzt werden.\n- Der abgerechnete „Definitivschaft“ sei lediglich der übergossene (Interims-) Diagnoseschaft.\n- Der hiermit viel zu schwere Schaft sei zudem am Aufsitz unzureichend und fehlerhaft gearbeitet. Somit\nkönne der Versicherte bei getragener Prothese nur mit einem zusätzlichen Kissen sitzen.\n- Zur Verlängerung des Unterschenkelteils sei unzulässigerweise eine 10 mm starke Holzplatte zwischen\nFuß und Knöcheladapter geschraubt worden.\n- Diese unsachgemäße Erhöhung stehe zudem im Widerspruch zum Beckenhochstand von 5 mm auf der\nProthesenseite.\n- Zwischen Kniegelenk und Schaftadapter sei ein Verschiebeadapter eingebaut worden. Dies sei bei der\ndefinitiven Versorgung nicht zugelassen.\n- Durch den hier maximal genutzten Verschiebeweg (4 cm) könne keine Kosmetik angebracht werden.\n- Somit fehle die abgerechnete Kosmetik komplett. Laut dem Versicherten sei auch noch nie eine solche\nangebracht worden.\n- Der Schaft selbst sei in querovaler Bauweise gefertigt, die entsprechende Position sei nicht in Abzug\ngebracht worden.\n- Die Aufbaurichtlinien des Herstellers seien beim Einbau des Kniegelenks nicht beachtet worden.\n- Das Fußpassteil sei zum Kniepassteil außenrotiert.\n- Der Schaft sei zum Kniepassteil innenrotiert.\n- Dies zusammen ergebe eine nicht nachvollziehbare Aufbaurichtlinie von cranial betrachtet.\n- Durch den maximal nach vorne verstellten Verschiebeadapter und den stark eingestellten Spitzfuß am\nFußpassteil sitze das Kniegelenk in der Aufbaulinie von lateral gesehen zu weit nach posterior positioniert.\n- Dies habe wohl eine größere Standphasensicherheit gewährleisten sollen, das Prothesenkniegelenk\nknicke jedoch weiterhin, auch bei Belastung der Prothese in der Standphase, ein.\n- Die Standphasensicherheit könne durch Einstellung des Kniegelenks erhöht werden. Dies habe jedoch\nwegen des völlig inkorrekten Aufbaus nicht geprüft werden können.\n6\nZusammenfassend entspreche die Prothese in mehreren Punkten nicht der vertraglichen Vereinbarung mit\nder Klägerin und sei fachlich nicht korrekt.\n7\nDie Prothese sei, zumindest teilweise (Verschiebeadapter, Holzbrettchen), erst nach der Unterschrift des\nVersicherten so umgebaut worden, dass zu dem schmerzproduzierenden und fehlerhaften Aufbau jetzt\nnoch eine Gefährdung von ihr ausgehe. Auf Wünsche und Bedürfnisse des Versicherten, welche er seit\nJanuar bei mehreren Besuchen des Leistungserbringers artikuliert habe, sei offenbar nicht eingegangen\nworden. So sei ihm wohl erzählt worden, dass er aufgrund seiner schlechten muskulären Situation seine\nProthese nicht mehr stabilisieren könne. Dies sei aber nicht nachvollziehbar.\n8\nDurch die aufgezeigten Mängel könne die Prothese als nicht gebrauchsfähig beurteilt werden. Da der\nVersicherte nicht mehr zu dem Lieferanten seiner Prothese gehen möchte (Vertrauensverlust), solle ein\nanderes Sanitätshaus mit der entsprechenden Durchführung einer Versorgung beauftragt werden.\n9\nAus einer internen E-Mail-Korrespondenz der Beklagten vom 20.06.2012 ergibt sich, dass bereits im\nDezember 2011 im Rahmen der Anschlussheilbehandlung des Versicherten in H-Stadt festgestellt worden\nsei, dass der Versicherte mit der damaligen Interimsversorgung nicht habe laufen können. Eine\nNachbesserung habe die Beklagte dem behandelnden Arzt gegenüber angeblich abgelehnt. Eine\nMobilisierung und Gehschule seien aufgrund der schmerzhaften und viel zu engen Schaftversorgung nicht\nmöglich gewesen. Mit der am 11.01.2012 abgegebenen „Versorgung“ könne der Versicherte noch immer\nnicht richtig laufen. Das Stehen sei wegen der durch die Prothese verursachten Schmerzen nur für einige\nMinuten möglich. Deshalb bewege sich der Versicherte zur Zeit mit dem Rollstuhl fort, wobei auch das\nSitzen nicht schmerzfrei möglich sei, da sich die Aufsitzkante und der Prothesenrand in das Fleisch des\nBeinstumpfes drückten. Man habe deshalb umgehend eine Umversorgung des Versicherten in die Wege\ngeleitet, da von der Prothese der Beklagten eine Gefahr für die Gesundheit des Versicherten ausgehe. Eine\nerneute Versorgung (nochmals als Interimsversorgung) mit neuem Schaft und den vorhandenen Passteilen\nsei bereits am 14.06.2012 genehmigt worden.\n10\nMit Anhörungsschreiben vom 23.07.2012 wies die Klägerin die Beklagte auf die mangelhafte Versorgung\nhin. Nach der nicht erfolgten Nachbesserung der Interimsprothese stelle die Definitivprothese ebenfalls eine\nnicht sach- und passgerechte Versorgung dar. Aufgrund der Feststellungen bei der Begutachtung sei von\neiner Fehlversorgung auszugehen. Laut dem Vertrag über die Versorgung mit Prothesen für die unteren\nExtremitäten zwischen den Parteien seien die Vertragspartner jedoch verpflichtet, mit allen ihnen zu Gebote\nstehenden Mitteln für eine gewissenhafte Durchführung des Vertrages Sorge zu tragen. Bei Verstößen\nhiergegen könne die Klägerin den Leistungserbringer verwarnen oder die Zahlung einer Vertragsstrafe\nverlangen. Unabhängig hiervon sei der durch die Vertragsverletzung entstandene Schaden zu ersetzen. Der\nVersichertengemeinschaft sei durch die fehlerhafte Prothese ein Schaden in Höhe von 8.879,36 €\nentstanden. Man sei verpflichtet, diese Kosten von der Beklagten zurückzufordern, und bitte deshalb, den\nBetrag in Höhe von 8.879,36 € bis zum 06.08.2012 zurückzuüberweisen.\n11\nEine Rückzahlung durch die Beklagte erfolgte in der Folgezeit nicht.\n12\nMit Schriftsatz vom 09.10.2012 führte der Bevollmächtigte der Beklagten aus, dass der Versicherte bereits\nvor der Definitivversorgung kein guter Läufer mit Prothese gewesen sei. Dies habe auf seinem schlechten\nAllgemeinzustand beruht. Er habe am 11.01.2012 bei Entgegennahme der Prothese bestätigt, dass diese\nordnungsgemäß gepasst habe. In der Folge sei der Versicherte fast 14-tägig zu Hause aufgesucht worden,\num Nachjustierungen an der Prothese vorzunehmen. Grund hierfür seien erhebliche\nGewichtsveränderungen des Versicherten gewesen.\n13\nEin fehlerhafter Aufbau der Prothese sei nicht erfolgt. Diese sei entsprechend den Bedingungen des\nTherapeuten in H-Stadt und unter Berücksichtigung der Leitlinien aufgebaut worden.\n14\nDementsprechend sei die ordentliche Passform vom Versicherten bestätigt worden. Der Prothesenschaft\nsei entsprechend den Stumpfgegebenheiten zum Zeitpunkt des Baus der Prothese gefertigt worden. Es\nkönne nicht ausgeschlossen werden, dass die Größe des Stumpfes schwanke.\n15\nSoweit kritisiert werde, dass die Prothese eine Rotation im Unterschenkel aufweise, sei diese Problematik\nnicht bekannt gewesen. Zum Zeitpunkt der Abgabe der Prothese und der verschiedenen Nachbesserungen\nsei eine Rotation nicht aufgefallen. Gegebenenfalls müsse die Prothese nachgebessert werden.\n16\nSoweit bemängelt werde, dass die Kosmetik der Prothese bis unter das Knie fehle, sei es möglich, dass\ndiese aufgrund der vielen Feinjustierungsversuche kurzfristig entfernt worden sei. Der Versicherte habe sich\nseither nicht mehr bei der Beklagten vorgestellt. Gegebenenfalls müsse die Kosmetik wieder aufgeschraubt\nwerden.\n17\nIm Übrigen sei das Begutachtungsergebnis widersprüchlich. Auf der einen Seite werde bemängelt, der\nProthesenschaft sei zu eng, auf der anderen Seite gebe es aber ein Drehmoment. Dies schließe sich\nwechselseitig aus. Es stehe zu befürchten, dass die Prothese aufgrund der nicht unerheblichen\nStumpfschwankungen gegebenenfalls nachgebessert werden müsse. Selbstverständlich biete die Beklagte\ndem Versicherten an, dass dieser sie jederzeit aufsuchen könne, damit die Prothese gegebenenfalls\nnachgebessert werden könne.\n18\nMit Schreiben vom 13.11.2012 forderte die Klägerin vom Bevollmächtigten der Beklagten die\nVersorgungsdokumentation an. Mit Schreiben vom 10.12.2013 mahnte die Klägerin diese an; als Termin für\ndie Vorlage habe man sich nunmehr den 07.01.2014 vorgemerkt.\n19\nMit E-Mail vom 30.09.2015 brachte die Klägerin den Vorgang gegenüber dem Beklagtenbevollmächtigten\nwegen drohender Verjährung nochmals in Erinnerung. Mit Schreiben vom 10.11.2015 mahnte die Klägerin\nerneut die Rückzahlung des geforderten Betrages wegen der mangelhaften Anfertigung der Prothese an.\n20\nUnter Bezugnahme auf ein am selben Tag geführtes Telefonat mit der Klägerin teilte der\nBeklagtenbevollmächtigte mit Schriftsatz vom 16.12.2015 mit, man verzichte auf die Einrede der Verjährung\nbis zum 30.06.2016.\n21\nMit Schreiben vom 11.02.2016 erklärte der Bevollmächtigte der Beklagten, es bleibe bei den Ausführungen\nim Schriftsatz vom 09.10.2012. Soweit Mängel an der Prothese angeblich vorgelegen hätten, hätte der\nBeklagten die Möglichkeit zur Nachbesserung gegeben werden müssen. Im Übrigen ergebe sich aus der\nEmpfangsbestätigung vom 11.01.2012 nicht, dass die Kosmetik der Prothese zum Zeitpunkt der Übergabe\nnicht vorhanden gewesen sei.\n22\nDaraufhin beauftragte die Klägerin den vereidigten Sachverständigen B. S. mit der Begutachtung der\nProthese. Dieser bestätigte in seinem Gutachten vom 21.05.2016 mehrere Sachmängel und eine nicht dem\nVertrag mit der Klägerin entsprechende Ausführung der Prothese. Bei dem Verschiebeadapter handele es\nsich um ein gebrauchtes Funktionsteil, welches bei der definitiven Versorgung nicht zum ersten Mal\neingesetzt worden sei. Der Einsatz sei auch fachlich nicht korrekt. Die wichtigsten Funktionen des\nverwendeten Kniegelenkes 3R60, vor allem die Beugesicherung, könnten nicht genutzt werden. Der\nProthesenaufbau entspreche nicht den Richtlinien des Herstellers des Knie- und Fußpassteiles O. B.. Das\neingebaute Holzbrettchen sei nicht zulässig. An der vorliegenden Oberschenkelprothese sei das Anbringen\neines individuell gestalteten Kosmetikformteils wegen der massiven Vorverlagerung des\nOberschenkelschaftes nicht möglich.\n23\nDie Klägerin forderte mit Schreiben vom 31.05.2016 die Beklagte zum Ausgleich ihrer Forderung nebst\nVerzugszinsen auf. Der Behauptung, der Versicherte habe der Beklagten keine Möglichkeit zur\nNachbesserung eingeräumt, steht die Aussage des Versicherten entgegen.\n24\nMit Schreiben vom 13.07.2016 mahnte die Klägerin nochmals die Begleichung der offenen Forderung an.\n25\nMit weiterem Schreiben vom 15.07.2016 ergänzte die Klägerin ihre Forderung der Beklagten gegenüber um\ndie Kosten des Gutachtens von Herrn S. in Höhe von 800,- €.\n26\nMit Schriftsatz vom 27.07.2016 teilte der Beklagtenbevollmächtigte der Klägerin mit, dass man die Einrede\nder Verjährung erhebe. Im Übrigen bestünden die Einwände aus dem Schriftsatz vom 09.10.2012 fort.\nSoweit im Gutachten ausgeführt werde, die Prothese sei mangelhaft, fehle es nach wie vor an der\nAufforderung zur Nachbesserung.\n27\nHierauf erwiderte die Klägerin mit Schreiben vom 28.07.2016, nach erneuter Prüfung sei man zu der\nAuffassung gelangt, dass die Verjährungsfrist bis Ende 2016 laufe. Man könne deshalb die Einrede der\nVerjährung nicht nachvollziehen und fordere letztmals zur Stellungnahme bzw. zur Begleichung der offenen\nForderung auf.\n28\nDer Beklagtenbevollmächtigte wiederholte mit Schriftsatz vom 26.08.2016 nochmals seinen Vortrag,\nwonach einerseits die Einrede der Verjährung erhoben werde, andererseits ein Schadensersatzanspruch\nauch wegen fehlender Aufforderung zur Nachbesserung nicht bestehe.\n29\nSchließlich hat die Klägerin am 02.09.2016 Klage zum Sozialgericht (SG) Nürnberg erhoben und zur\nBegründung vorgetragen (Schriftsätze vom 31.08.2016, 11.01.2017 und 15.02.2017), die Forderung der\nKlägerin bestehe zu Recht, weil die abgerechnete Leistung mit so großen Mängeln behaftet sei, dass sie die\nmedizinische und therapeutische Zielsetzung der ärztlichen Verordnung nicht erfüllen könne. Hierbei\nhandele es sich um einen schwerwiegenden Vertragsverstoß gemäß § 10 des „Vertrag[s] gemäß § 127\nAbs. 2 Sozialgesetzbuch V (SGB V) zwischen AOK Bayern […] und Landesinnung Bayern für\nOrthopädietechnik über die Versorgung mit Prothesen für die unteren Extremitäten […] ab 15.06.2008“. Der\ndurch diesen Vertragsverstoß entstandene Schaden sei von der Beklagten zu ersetzen. Der Schaden\nbestehe darin, dass ein völlig unbrauchbares Hilfsmittel geliefert und dafür der vertraglich vereinbarte Preis\ngezahlt worden sei. Diese Vergütung sowie die wegen der Ermittlung des Schadens notwendigen\nGutachterkosten in Höhe von 800,- € seien der Schaden, der der Klägerin durch das vertragswidrige\nVerhalten der Beklagten entstanden sei.\n30\nDie Forderung sei nicht verjährt. Die Genehmigung sei zwar noch im Jahr 2011 erteilt worden, jedoch sei\ndie Leistung erst im Jahr 2012 abgegeben worden, so dass ausgehend von der vierjährigen Verjährungsfrist\nfür vertragliche Ansprüche ab Leistungsgewährung der Anspruch erst mit Ablauf des Jahres 2016 verjähren\nwürde.\n31\nDa sich die Beklagte schon bei der Versorgung mit der Interimsprothese einer Nachbesserung verweigert\nhabe und das Vertrauensverhältnis zwischen ihr und dem Versicherten nicht mehr bestanden habe, sei dem\nVersicherten eine Nachbesserung nicht mehr zuzumuten. Damit habe er sich berechtigt von dem - im\nÜbrigen durch Abrechnung der Versorgung bereits abgeschlossenen - Versorgungsauftrag gelöst.\n32\nDie Klägerin habe sich seit 2012 darum bemüht, die Verlaufsdokumentation der prothetischen Versorgung\ndes Versicherten von der Beklagten zu erhalten. Eine inhaltliche Stellungnahme der Beklagtenseite zu den\nFeststellungen des Gutachtens des Herrn S. sei nicht erfolgt. Der Beklagtenbevollmächtigte stelle lediglich\nauf ein Nachbesserungsrecht im Rahmen der Gewährleistungsregelungen eines Werklieferungsvertrages\nab. Hierbei verkenne er jedoch die rechtliche und tatsächliche Lage. Tatsächlich stelle sich die Lage\nnämlich so dar, dass die Versorgung von Anbeginn an nicht fachgerecht gewesen sei. In rechtlicher Hinsicht\nsei von einer vierjährigen Verjährungsfrist auszugehen entsprechend den Prinzipien des Sozialgesetzbuchs\n(SGB). Im Übrigen handele es sich hier um eine vollständig unbrauchbare Leistung. Selbst bei\nentsprechender Anwendung von Regelungen der Nachbesserung oder sonstiger\nGewährleistungsansprüche müsste der Versicherte vorliegend die Nachbesserung angesichts der\nVorgeschichte nicht mehr dulden. Wenn der Versicherte eine Nachbesserung nicht mehr dulden müsse,\nkönne die Klägerin ihn darauf auch nicht verpflichten. Dann sei ein möglicherweise abstrakt bestehendes\nNachbesserungsrecht nicht mehr gegeben. Die von der Beklagten angefertigte Prothese sei so fehlerhaft\naufgebaut, dass das Gehen durch die Prothese nicht ermöglicht worden sei. Die Prothese habe also ihre\nHauptaufgabe, den Behinderungsausgleich, nicht erfüllt. Ein unter keinem Aspekt funktionierendes\nHilfsmittel sei nicht nachbesserungsfähig. Hinsichtlich eines Leistungsinhalts, für den eine Vergütung\nüberhaupt nicht verlangt werden könne, seien die Regelungen des Bürgerlichen Gesetzbuchs (BGB)\nüberhaupt nicht einschlägig.\n33\nSchließlich komme es vorliegend jedoch nicht auf Mängelansprüche an, sondern darauf, dass vertraglich\neine Schadensersatzpflicht vereinbart sei, wenn ein Vertragsverstoß festgestellt worden sei (vgl. § 10 Abs. 6\ndes Prothesenvertrags vom 15.06.2008). Die grob mangelhafte Versorgung des Versicherten stelle einen\nsolchen Vertragsverstoß dar, woraus die Schadensersatzpflicht der Beklagten resultiere.\n34\nDemgegenüber hat der Beklagtenbevollmächtigte vorgetragen (Schriftsätze vom 24.10.2016 und\n06.02.2017), die Beklagte habe im Jahr 2012 ausdrücklich angeboten, dass die Prothese nachgebessert\nwerden könne.\n35\nNachdem von Seiten der Klägerin das Verfahren erst wieder im Jahre 2016 aufgenommen worden sei, sei\nmit Schreiben vom 11.02.2016 darauf hingewiesen worden, dass es keinen Anspruch auf den\nRückforderungsbetrag gebe, da die Beklagte nicht unter Fristsetzung und Ankündigung des Rücktritts vom\nVertrag aufgefordert worden sei nachzubessern.\n36\nEine eigene vertragliche Regelung über die Durchführung der Gewährleistung zwischen den Beteiligten\nbestehe nicht, so dass die Gewährleistungsrechte des BGB Anwendung fänden (vgl. BayLSG, Urteil vom\n12.03.2014, L 4 KR 220/11).\n37\nVor Rücktritt bzw. Minderung müsse grundsätzlich zunächst eine Nacherfüllung verlangt werden. Erst wenn\nder Käufer erfolglos eine angemessene Frist zur Nacherfüllung gesetzt habe, könne er zurücktreten oder\nmindern.\n38\nErstmalig sei ein Rücktritt frühestens mit Schreiben der Klägerin vom 23.07.2012 erklärt worden. Zu diesem\nZeitpunkt habe die Klägerin bereits die Nacherfüllung verweigert.\n39\nAußerdem werde (nochmals) die Einrede der Verjährung erhoben. Mängelansprüche verjährten\nentsprechend § 438 Abs. 1 Nr. 3 BGB in zwei Jahren. Verjährung sei damit eingetreten.\n40\nDas SG Nürnberg hat mit Urteil vom 16.02.2017 die Klage abgewiesen. Ob ein Schadensersatzanspruch\nder Klägerin aus der Versorgung des Versicherten bestanden habe, könne dahingestellt bleiben. Denn\ndieser Anspruch sei zumindest verjährt.\n41\nDa eine eigene vertragliche Regelung über die Durchführung der Gewährleistung zwischen den Beteiligten\nnicht bestehe, fänden die Gewährleistungsrechte des BGB Anwendung. Zwischen der Klägerin und der\nBeklagten sei ein Werklieferungsvertrag abgeschlossen worden, da Inhalt des Vertrages nicht nur die\nHerstellung einer individuell gefertigten Prothese, sondern auch deren Auslieferung gewesen sei. Nach §\n651 Satz 1 BGB (i.d.F. bis 31.12.2017) fänden auf einen Vertrag, der die Lieferung herzustellender oder zu\nerzeugender beweglicher Sachen zum Gegenstand habe, die Vorschriften über den Kauf Anwendung.\n42\nGemäß § 69 Abs. 1 Satz 3 SGB V i.V.m. § 438 Abs. 1 Satz 3 BGB (gemeint: § 438 Abs. 1 Nr. 3 BGB)\nverjährten Mängelansprüche innerhalb von zwei Jahren. Die Verjährung beginne bei beweglichen Sachen\nmit deren Ablieferung (§ 438 Abs. 2 BGB).\n43\nFür die Kammer sei auch nicht ersichtlich, warum die Vorschriften des BGB hinsichtlich der Verjährung nicht\nanwendbar sein sollten. Der Prothesenvertrag verweise auf die entsprechende Anwendung der gesetzlichen\nBestimmungen zu Garantie/Gewährleistung. Da es sich bei der Sachmängelgewährleistung um ein jeweils\ngeschlossenes Regelungssystem mit dezidierten Regelungen zu Nachbesserung/Nacherfüllung,\nSchadensersatz und eben auch Verjährung von Gewährleistungsansprüchen handele, könne der generelle\nVerweis nur bedeuten, dass eben das gesamte Regelungssystem und nicht nur einzelne Vorschriften\nhieraus Anwendung finden sollten.\n44\nEntsprechend den Unterlagen der Beklagten sei der Versicherte am 11.01.2012 mit einer\nOberschenkelprothese versorgt worden. Mit Ablauf des 11.01.2014 sei folglich Verjährung eingetreten. Bis\nzum 30.06.2016 habe der Beklagtenbevollmächtigte der Klägerin gegenüber auf die Erhebung der Einrede\nverzichtet. Der behauptete Schadensersatzanspruch sei jedoch erst mit Schriftsatz vom 31.08.2016\n(Eingang bei Gericht am 02.09.2016) gerichtlich geltend gemacht worden.\n45\nMit Schriftsatz vom 06.02.2017 habe der Beklagtenbevollmächtigte sich auf die Einrede der Verjährung\nberufen, die Beklagte sei berechtigt, die Leistung zu verweigern, weshalb die Klage abzuweisen sei.\n46\nGegen das ihr am 17.05.2017 zugestellte Urteil hat die Beklagte am 08.06.2017 Berufung zum Bayerischen\nLandessozialgericht (LSG) eingelegt und diese mit Schriftsätzen vom 21.09.2017 und 05.09.2018 wie\nbereits im erstinstanzlichen Verfahren dahingehend begründet, dass zum einen unter Anwendung der im\nSGB generell geltenden vierjährigen Verjährungsfrist Verjährung noch nicht eingetreten sei. Zum anderen\nverkenne das SG, dass es hier nicht auf Mängelansprüche nach dem BGB und damit auf die dort geregelte\nVerjährung ankomme, sondern darauf, dass vertraglich eine Schadensersatzpflicht gemäß § 10 Abs. 6 des\nProthesenvertrages vereinbart sei. Auch in diesem Rahmen gelte die vierjährige Verjährungsfrist. Selbst bei\nAnwendung der Mängelansprüche des BGB würde die vierjährige Verjährungsfrist gelten. Auch in der\nSache hätte die Klägerin, sofern die Mängelansprüche Anwendung fänden, einen Anspruch auf\nSchadensersatz. Der Versicherte hätte nämlich eine Nachbesserung im Hinblick auf die Vorgeschichte nicht\nmehr dulden müssen.\n47\nDemgegenüber hat der Beklagtenbevollmächtigte ebenfalls unter Bezugnahme auf sein erstinstanzliches\nVorbringen erwidert (Schriftsätze vom 12.07.2018 und vom 04.03.2019), eine etwaige\nSchadensersatzpflicht lasse sich nicht über eine Vertragsverletzung bzw. über § 10 des Prothesenvertrages\nkonstruieren, sondern maßgeblich seien allein die Gewährleistungsregelungen des BGB mit der dort\nfestgesetzten zweijährigen Verjährungsfrist.\n48\nAuf Nachfrage der Berichterstatterin hat der Beklagtenbevollmächtigte mit Schriftsatz vom 04.03.2019\nmitgeteilt, dass sich die streitgegenständliche Oberschenkelprothese seit der Evaluation im Juni 2012 noch\nbei der Klägerin befinde. Es sei richtig, dass es immer wieder zu Nachjustierungen an der Versorgung\ngekommen sei. Näheres sei aufgrund des Zeitablaufs nicht mehr rekonstruierbar. Nach der angeblichen\nBegutachtung durch die Klägerin sei es zu keiner Aufforderung zur Nachbesserung mehr gekommen. Im\nÜbrigen betone man nochmals, dass die Einrede der Verjährung erhoben werde.\n49\nIm Erörterungstermin am 13.03.2019 ist die Sach- und Rechtslage ausführlich mit den Beteiligten diskutiert\nworden. Laut Auskunft der Klägerseite sei die Ersatzversorgung des Versicherten mit einer neuen Prothese\neines anderen Sanitätshauses am 23.11.2012 zu einem Rechnungsbetrag von 8.966,73 € erfolgt.\n50\nDie Klägerin beantragt,\ndas Urteil des Sozialgerichts Nürnberg vom 16.02.2017 aufzuheben und die Beklagte zu verurteilen, an die\nKlägerin 8.879,36 € zuzüglich Zinsen bis zum 31.08.2016 in Höhe von 1.606,90 € sowie 800,- €\nGutachterkosten zuzüglich Zinsen auf den Gesamtforderungsbetrag von 5 Prozentpunkten über dem\nBasiszinssatz seit Klageerhebung zu zahlen.\n51\nDie Beklagte beantragt,\ndie Berufung zurückzuweisen.\n52\nZur Ergänzung des Sachverhalts wird auf die Gerichtsakten erster und zweiter Instanz sowie auf die\nbeigezogene Verwaltungsakte der Klägerin verwiesen.\nEntscheidungsgründe\n53\nDie form- und fristgerecht eingelegte Berufung (§§ 143, 144, 151 Sozialgerichtsgesetz - SGG) ist zulässig,\naber unbegründet. Die Klägerin hat keinen Anspruch auf Schadensersatz bzw. Rückzahlung wegen\nmangelhafter Prothesenversorgung des Versicherten.\n54\nFür Streitigkeiten zwischen Krankenkassen und Hilfsmittellieferanten ist nach § 51 Abs. 1 Nr. 2 SGG die\nSozialgerichtsbarkeit zuständig. Nach § 69 SGB V ist (soweit § 69 SGB V nicht selbst Ausnahmen vorsieht)\ndie Leistungserbringung in Erfüllung des öffentlich-rechtlichen Versorgungsauftrags nach dem SGB V\ngrundsätzlich dem öffentlichen Recht zugeordnet (vgl. BSG, Urteil vom 15.03.2017, B 6 KA 35/16 R;\njurisPK, SGG, Stand 20.03.2019, § 51 Rn. 98.1).\n55\nStatthafte Klageart ist im Gleichordnungsverhältnis zwischen einer Krankenkasse und einem\nLeistungserbringer, hier im Bereich der Hilfsmittelversorgung, die Leistungsklage nach § 54 Abs. 5 SGG.\nZwischen den Beteiligten besteht im Hinblick auf die Versorgung des Versicherten mit einer Prothese (§ 33\nSGB V) ein Gleichordnungsverhältnis, weil § 127 SGB V eine vertragliche Regelung der Beziehungen\nzwischen Krankenkassen und zugelassenen Hilfsmittelerbringern (§ 126 SGB V) vorsieht, zu denen die\nBeklagte gehört. Eines Vorverfahrens bedurfte es nicht.\n56\nDie Klägerin macht einen Anspruch aus Sachmängelhaftung (Schadensersatz bzw. Rückabwicklung nach\nRücktritt) im Nachgang zur Herstellung und Lieferung einer Prothese für den Versicherten gegenüber der\nBeklagte geltend.\n57\nDieser Anspruch beruht auf einem öffentlich-rechtlichen Vertrag über die Lieferung herzustellender oder zu\nerzeugender beweglicher Sachen (Sachlieferungsverträge) nach § 69 Abs. 1 Satz 3 SGB V i.V.m. § 651\nBGB (i.d.F. bis 31.12.2017, entspricht § 650 BGB i.d.F. ab 01.01.2018), auf den gemäß § 651 Satz 1 BGB\na.F. das Kaufrecht (§§ 433 ff. BGB) entsprechend anzuwenden ist. Mit § 69 SGB V hat der Gesetzgeber\nklargestellt, dass die Rechtsbeziehungen der Krankenkassen zu den Leistungserbringern ausschließlich\nöffentlichem Recht unterliegen. Jedoch ordnet § 69 Abs. 1 Satz 3 SGB V die entsprechende Anwendung\nder Vorschriften des Zivilrechts an, soweit sie mit den Vorgaben des § 70 SGB V und den übrigen Aufgaben\nund Pflichten der Beteiligten nach dem 4. Kapitel des SGB V (§§ 69 ff. SGB V) vereinbar sind. Die\nRechtsbeziehungen zwischen den Krankenkassen und den zugelassenen Hilfsmittelerbringern (§ 126 SGB\nV) sind sowohl bezüglich des allgemeinen Versorgungsvertrages (§ 127 SGB V) als auch bezüglich der in\njedem Einzelfall abzuschließenden Beschaffungsverträge öffentlich-rechtlich geprägt (Bundessozialgericht -\nBSG -, Urteil vom 06.09.2007, B 3 KR 20/06 R). Die Ansprüche aus Sachmängelhaftung gegen die\nBeklagte gründen sich daher nicht unmittelbar auf die §§ 651 BGB a.F., §§ 434, 437, 439 ff. BGB, sondern\nnur auf die entsprechende Anwendung dieser Vorschriften im Leistungserbringerrecht (§ 69 SGB V).\n58\nDer Anspruch eines Versicherten auf Krankenbehandlung umfasst u.a. die Versorgung mit Hilfsmitteln (§ 27\nAbs. 1 Satz 2 Nr. 3 SGB V). Dabei erfolgt die Versorgung mit Hilfsmitteln entweder durch den Abschluss\nvon Kaufverträgen, wenn es um die Abgabe und Übereignung fertiger Produkte geht (§ 433 BGB), oder\ndurch den Abschluss von Sachlieferungsverträgen, wenn die Produkte erst noch herzustellen oder zu\nerzeugen sind (§ 651 BGB a.F. bzw. § 650 BGB i.d.F. ab 01.01.2018). Ein solcher Sachlieferungsvertrag\nlag der für den Versicherten von der Beklagten herzustellenden Prothese zugrunde. Der zustande\ngekommene Vertrag ist daher als öffentlich-rechtlicher Sachlieferungsvertrag (§ 651 BGB a.F.) einzustufen,\nwobei es sich um einen dreiseitigen Vertrag zwischen dem Versicherten und der Klägerin (Krankenkasse)\nauf der einen Seite und der Beklagten (Leistungserbringer) auf der anderen Seite handelt (vgl. BSG, Urteil\nvom 06.09.2007, B 3 KR 20/06 R).\n59\nEs liegen auch die Voraussetzungen für die entsprechende Anwendung der Sachmängelgewährleistung\nnach § 651 BGB a.F. i.V.m. §§ 434, 437, 439 ff. BGB vor. Die Folgen der Lieferung eines mangelhaften\nHilfsmittels sind weder landesvertraglich noch landes- oder bundesrechtlich abschließend geregelt. Deshalb\nsind die Vorschriften des BGB über die Sachmängelhaftung dem Grunde nach entsprechend anwendbar,\nweil sie mit der Stellung der Hilfsmittelerbringer im Versorgungssystem des SGB V nicht unvereinbar sind.\n60\nDie Klägerin fordert von der Beklagten 8.879,63 € für die aus ihrer Sicht unbrauchbare Prothese des\nVersicherten als „Schadensersatz“ zurück (wobei wegen der Selbstbeteiligung in Höhe von 10,- € von der\nKlägerin nur 8.869,63 € bezahlt wurden). Die Rückforderung des Kaufpreises erfolgt jedoch mittels Rücktritt\nund Rückabwicklung des Vertrages (vgl. §§ 437 Nr. 2 Alt. 1, 346 Abs. 1 BGB), während der Schadensersatz\nu.a. auf den Ersatz der Kosten eines Deckungskaufes (hier der Prothesenneuversorgung durch einen\nanderen Anbieter) abzielen würde (vgl. Palandt, BGB, 78. Aufl. 2019, § 437 Rn. 38).\n61\nEs kann jedoch offen bleiben, welches Gewährleistungsrecht die Klägerin eigentlich ausüben wollte.\nEbenso kann offen bleiben, ob im Zeitpunkt des Gefahrübergangs im Januar 2012 die dem Versicherten\ngelieferte Prothese mangelhaft im Sinne von § 434 BGB war (wofür die Ergebnisse des EVA-Protokolls und\ndes Gutachtens des Sachverständigen S. sprechen). Denn vorliegend waren weder die Voraussetzungen\ndes Rücktritts vom Vertrag nach § 437 Nr. 2 BGB noch diejenigen eines Schadensersatzanspruchs nach §\n437 Nr. 3 BGB erfüllt.\n62\nVoraussetzung sowohl für den Rücktritt von Vertrag nach § 437 Nr. 2 BGB i.V.m. § 323 Abs. 1 BGB als\nauch für einen Schadensersatzanspruch statt der Leistung nach § 437 Nr. 3 BGB i.V.m. § 281 Abs. 1 Satz 1\nBGB ist jeweils, dass der Gläubiger dem Schuldner erfolglos eine angemessene Frist zur Leistung oder\nNacherfüllung bestimmt hat.\n63\nZwar hatte der Versicherte offensichtlich die Beklagte in den ersten Monaten des Jahres 2012 mehrmals um\nNachjustierungen bzw. Änderungen an der Prothese gebeten, was zu zahlreichen Hausbesuchen der\nBeklagten beim Versicherten führte. Eine Frist zur Nacherfüllung im o.g. Sinne hat jedoch weder der\nVersicherte noch die Klägerin der Beklagten gesetzt. Vielmehr hat die Klägerin mit Schreiben vom\n23.07.2012 die Kosten für die Prothese in Höhe von 8.879,36 € von der Beklagten zurückgefordert, ohne\ndieser die Gelegenheit zur Nacherfüllung, sei es durch Mangelbeseitigung oder Ersatzlieferung einer\nmangelfreien Sache, zu geben, geschweige denn hierfür eine Frist zu setzen.\n64\nEine Fristsetzung war auch nicht ausnahmsweise entbehrlich.\n65\nNach § 281 Abs. 2 BGB bzw. § 323 Abs. 2 BGB ist eine Fristsetzung vor Geltendmachung des\nSchadensersatzanspruchs bzw. vor dem Rücktritt vom Vertrag entbehrlich,\n- wenn der Schuldner die Leistung ernsthaft und endgültig verweigert (§ 281 Abs. 2 Alt. 1 BGB bzw. § 323\nAbs. 2 Nr. 1 BGB) oder\n- wenn besondere Umstände vorliegen, die unter Abwägung der beiderseitigen Interessen die sofortige\nGeltendmachung des Schadensersatzanspruchs bzw. den sofortigen Rücktritt rechtfertigen (§ 281 Abs. 2\nAlt. 2 BGB bzw. § 323 Abs. 2 Nr. 3 BGB).\n- (Ein Fixgeschäft, das nach § 323 Abs. 2 Nr. 2 BGB zum Rücktritt ohne Fristsetzung berechtigten könnte,\nwar vorliegend im Rahmen der Prothesenversorgung nicht vereinbart worden.)\n66\nDarüber hinaus bedarf es nach § 440 Satz 1 BGB einer Fristsetzung auch dann nicht,\n- wenn der Verkäufer beide Arten der Nacherfüllung gemäß § 439 Abs. 4 BGB verweigert (Var. 1) oder\n- wenn die dem Käufer zustehende Art der Nacherfüllung fehlgeschlagen ist (Var. 2) (wobei eine\nNachbesserung nach dem erfolglosen zweiten Versuch als fehlgeschlagen gilt, wenn sich nicht\ninsbesondere aus der Art der Sache oder des Mangels oder den sonstigen Umständen etwas anderes\nergibt, vgl. § 440 Satz 2 BGB) oder\n- wenn die dem Käufer zustehende Art der Nacherfüllung ihm unzumutbar ist (Var. 3).\n67\nVorliegend hatte die Beklagte die Leistung bzw. beide Arten der Nacherfüllung (Mangelbeseitigung oder\nErsatzlieferung einer mangelfreien Sache, vgl. § 439 Abs. 1 BGB) nicht verweigert, als die Klägerin die\nBeklagte mit Schreiben vom 23.07.2012 ohne Fristsetzung zur Überweisung von 8.879,36 Euro aufforderte,\nvgl. § 281 Abs. 2 Alt. 1 BGB, § 323 Abs. 2 Nr. 1 BGB bzw. § 440 Satz 1 Var. 1 BGB. Dass im EVA-Protokoll\nzu lesen ist, dass auf Wünsche und Bedürfnisse des Versicherten „nach seinen Aussagen offenbar“ nicht\neingegangen worden sei, genügt nicht, um von einer Verweigerung der Nachbesserung durch die Beklagte\nauszugehen, wofür im Übrigen die Klägerin die Beweislast trägt. Denn nach Auslieferung der\nDefinitivprothese im Januar 2012 nahm die Beklagte nach ihrem unbestrittenen Vortrag immerhin zahlreiche\nNachjustierungen an der Prothese des Versicherten vor, und mit Antwortschriftsatz vom 09.10.2012 hat die\nBeklagtenseite zudem ausdrücklich angeboten, die Prothese ggf. nachzubessern.\n68\nUnabhängig davon, welche Art der Nacherfüllung (Mangelbeseitigung oder Ersatzlieferung) der Klägerin\nbzw. dem Versicherten zustand (vgl. § 439 Abs. 1 und 3 BGB), war eine Nacherfüllung durch die Beklagte\nauch nicht fehlgeschlagen (§ 440 Satz 1 Var. 2 BGB). Insbesondere sind die - im Prozess einer\nProthesenanpassung wegen sich ändernder Stumpf- bzw. Muskelverhältnisse nicht unüblichen -\nNachjustierungen in der ersten Jahreshälfte 2012 nicht als fehlgeschlagene Nachbesserungsversuche zu\nerachten im Hinblick auf Mängel, die die Klägerin erst ab Juni 2012 zur Sprache gebracht hat. Vielmehr\nhätte die Klägerin der Beklagten nach der EVA-Begutachtung im Juni 2012 und der Mitteilung der von ihr\nbehaupteten Mängel mit Schreiben vom 23.07.2012 diesbezüglich Gelegenheit zur Nacherfüllung geben\nmüssen. Sie hat jedoch die Prothese nicht mehr an die Beklagte herausgegeben, geschweige denn eine\nFrist zur Nacherfüllung gesetzt.\n69\nSchließlich lagen auch keine besonderen Umstände vor, die unter Abwägung der beiderseitigen Interessen\ndie sofortige Geltendmachung des Schadensersatzanspruchs bzw. den sofortigen Rücktritt gerechtfertigt\nhätten (§ 281 Abs. 2 Alt. 2 BGB bzw. § 323 Abs. 2 Nr. 3 BGB), bzw. die der Klägerin bzw. ihrem\nVersicherten zustehende Art der Nacherfüllung war ihr bzw. ihm nicht unzumutbar (§ 440 Satz 1 Var. 3\nBGB).\n70\nUnzumutbarkeit der Nacherfüllung für den Käufer ist gegeben, wenn die Abhilfe mit erheblichen\nUnannehmlichkeiten für ihn verbunden ist. Ob erhebliche Unannehmlichkeiten vorliegen, beurteilt sich unter\nBerücksichtigung der Art sowie des konkreten Gebrauchszwecks der Kaufsache. Dabei reicht § 440 Satz 1\nVar. 3 BGB weiter als die Normen des allgemeinen Leistungsrechts (§§ 281, 323 BGB) und greift als\nAuffangtatbestand immer dann, wenn das Vertrauen des Käufers in eine angemessene Vertragserfüllung\ndurch den Verkäufer nicht mehr besteht (jurisPK, BGB, Stand 02.10.2017, § 440 Rn. 44). Für die\nBeurteilung, ob die Nacherfüllung für den Käufer unzumutbar ist, sind alle Umstände des Einzelfalles zu\nberücksichtigen, insbesondere die Zuverlässigkeit des Verkäufers, diesem vorzuwerfende\nNebenpflichtverletzungen oder der Umstand, dass der Verkäufer bereits bei dem ersten Erfüllungsversuch,\nalso bei Übergabe, einen erheblichen Mangel an fachlicher Kompetenz hat erkennen lassen und das\nVertrauensverhältnis zwischen den Parteien nachhaltig gestört ist (BGH, Urteil vom 15.04.2015, VIII ZR\n80/14). Die Zumutbarkeitsschwelle ist umso höher anzusetzen, je komplizierter und aufwändiger die\nKaufsache ist (jurisPK, BGB, Stand 02.10.2017, § 440 Rn. 43). Bei der Versorgung mit einer Prothese wie\nim Falle des Versicherten ist deshalb ein eher strenger Maßstab bei der Beurteilung der Unzumutbarkeit\neiner Nacherfüllung anzulegen.\n71\nGemessen daran war es dem Versicherten (als Leistungsempfänger) bzw. der Klägerin (als\nVertragspartnerin) nicht unzumutbar, der Beklagten nach der EVA-Begutachtung im Juni 2012 unter\nFristsetzung Gelegenheit zur Nacherfüllung zu geben. Insbesondere ist nicht von Unzuverlässigkeit der\nBeklagten auszugehen. Immerhin hatte diese sich unbestritten in den ersten Monaten des Jahres 2012\ndurch etliche Hausbesuche darum bemüht, die Prothese dem Versicherten ordnungsgemäß anzupassen.\nDass die im Januar 2012 übergebene Prothese womöglich nicht lege artis angefertigt war (wofür einiges\nspricht), ist kein Beleg für einen erheblichen Mangel der - generellen - fachlichen Kompetenz der Beklagten,\nder es der Klägerin bzw. dem Versicherten unzumutbar gemacht hätte, (zumindest zunächst) weiter am\nProthesenbeschaffungsvertrag mit der Beklagten festzuhalten.\n72\nDie Klägerin konnte auch nicht einen derartigen Vertrauensverlust beim Versicherten belegen, der es\ngerechtfertigt hätte, Schadensersatz statt der Leistung zu verlangen bzw. vom Vertrag zurückzutreten, ohne\nder Beklagten vorher Gelegenheit zur Nacherfüllung unter Fristsetzung zu geben. Dass es im Falle einer\nSchlechtleistung zu einer gewissen Schädigung der Vertrauensbasis der Vertragspartner kommt, dürfte\ngrundsätzlich der Fall sein. Dessen ungeachtet eröffnet das Regelungssystem der §§ 437, 439 ff. BGB dem\nVerkäufer bzw. Lieferanten jedoch grundsätzlich primär die Möglichkeit zur Nacherfüllung. Vorliegend hat\nsich der Versicherte zwischen Januar und Juni 2012 nicht an die Klägerin mit der Bitte um Unterstützung\nangesichts einer mangelhaften Leistung durch die Beklagte gewandt. Lediglich im EVA-Bericht heißt es, auf\nWünsche und Bedürfnisse des Versicherten, die er seit Januar artikuliert habe, sei „offenbar“ nicht\neingegangen worden. Ein Vertrauensverlust beim Versicherten, der ihm eine Nacherfüllung durch die\nBeklagte nach der EVA-Begutachtung unzumutbar gemacht hätte, ist dabei nicht ersichtlich.\n73\nAuch wenn man mit der Klägerin davon ausgehen sollte, dass die im Januar 2012 gelieferte Prothese als\nnicht gebrauchsfähig bzw. nicht nachbesserungsfähig zu beurteilen gewesen sei, wäre der Beklagten\nwomöglich zwar eine Nachbesserung unmöglich gewesen, nicht jedoch eine Nacherfüllung in Form einer\nErsatzlieferung einer neuen Prothese (vgl. § 439 Abs. 1 BGB), wozu sie auch berechtigt gewesen wäre (vgl.\nz.B. jurisPK, BGB, Stand 06.03.2019, § 439 Rn. 21 ff., 90 ff.). Weder hat jedoch die Klägerin die Beklagte\nhierzu unter Fristsetzung aufgefordert noch hat die Beklagte eine solche von vornherein verweigert. Dass\nfür eine Neuanfertigung eine gewisse Zeit benötigt worden wäre, begründet ebenfalls keine Unzumutbarkeit\nfür die Klägerin bzw. den Versicherten. Auch die Neuanschaffung durch einen anderen Versorger nahm Zeit\nin Anspruch, nach Auskunft im Erörterungstermin am 13.03.2019 wurde die neue Prothese erst im\nNovember 2012 geliefert.\n74\nSchließlich kann der Senat auch aus dem Urteil des 6. Senats des BSG vom 10.05.2017, B 6 KA 15/16 R,\nauf das die Klägervertreterin in der mündlichen Verhandlung hingewiesen hat, keine für die Klägerin\ngünstigen Folgerungen ableiten. Im dortigen Fall begehrte die klagende Krankenkasse von der beklagten\nKassenzahnärztlichen Vereinigung die Festsetzung eines Schadensersatzanspruchs gegen die beigeladene\nVertragszahnärztin wegen mangelhafter Versorgung einer Versicherten mit Zahnersatz. Unabhängig davon,\ninwieweit Regelungen der kassenzahnärztlichen Gewährleistung (vgl. § 136a Abs. 4 Satz 3 und 4 SGB V)\nauf das Gewährleistungsrecht im Hilfsmittelbereich, das sich über § 69 Abs. 1 Satz 3 SGB V an den\nRegelungen des BGB orientiert (siehe oben), übertragbar sind, geht der 6. Senat ebenfalls davon aus, dass\nein Schadensersatzanspruch gegen einen Zahnarzt, der bei mangelhafter zahnprothetischer Versorgung\nzur Nachbesserung bzw. Neuanfertigung bereit ist, voraussetzt, dass dem Versicherten die Fortsetzung der\nBehandlung bei diesem Zahnarzt und damit die Nacherfüllung durch diesen nicht zumutbar ist. Insofern wird\ndas Recht des Versicherten zur freien Arztwahl (§ 76 Abs. 1 Satz 1 SGB V) eingeschränkt. Entsprechend\nwäre es vorliegend dem Versicherten bzw. der Klägerin nach der EVA-Begutachtung zumutbar gewesen,\nder Beklagten die Möglichkeit zur Nacherfüllung, wie von dieser auch angeboten, einzuräumen.\n75\nDaher steht der Klägerin mangels Fristsetzung weder ein Anspruch auf Schadensersatz statt der Leistung\nnoch auf Rückabwicklung nach Rücktritt wegen einer „Fehlversorgung“ des Versicherten zu.\n76\nDie Klägerin kann die begehrte Rückzahlung auch nicht auf § 10 des Prothesenvertrages stützen. Sie\nverlangt keine Vertragsstrafe nach § 10 Abs. 3 des Prothesenvertrages, sondern die Rückzahlung der von\nihr geleisteten Vergütung für die Prothese des Versicherten. Sie macht damit die Rückabwicklung des\nWerklieferungsvertrages und keinen Schadensersatzanspruch, wie in § 10 Abs. 6 des Prothesenvertrages\nerwähnt, geltend (s.o. zur Abgrenzung von Schadensersatz und Rücktritt).\n77\nDarüber hinaus stellt § 10 Abs. 6 des Prothesenvertrages aus Sicht des Senats auch keinen eigenen\nSchadensersatzanspruch dar, sondern ist als Hinweis darauf zu verstehen, dass unabhängig von den in §\n10 genannten Maßnahmen die allgemeinen gesetzlichen Regelungen zu Vertragsverletzung und\nSchadensersatz (hier: § 651 BGG a.F., §§ 437, 439 ff. BGB) gelten, was die Klägervertreterin in der\nmündlichen Verhandlung am 11.04.2019 auch eingeräumt hat. Dass die Vertragspartner des\nProthesenvertrages durch eine derart knappe Regelung wie in dessen § 10 Abs. 6 das komplette\nGewährleistungsrecht beim Kaufvertrag bzw. Werklieferungsvertrag mit den dort fein austarierten\ngegenseitigen Rechten und Pflichten ausschließen und durch die pauschale Regelung des § 10 Abs. 6 des\nProthesenvertrages hätten ersetzen wollen, ist dieser Regelung nicht zu entnehmen. Dafür hätte es\nzumindest eines expliziten Ausschlusses des Gewährleistungsrechts nach dem BGB bedurft. Vielmehr ist\ndavon auszugehen, dass § 10 Abs. 6 des Prothesenvertrages lediglich einen allgemeinen Hinweis darauf\nenthält, dass neben den sonstigen in § 10 genannten Maßnahmen die allgemeinen Regelungen des\nSchadensersatzrechts Anwendung finden.\n78\nSchließlich kann die Klägerin auch nicht die Kosten des Gutachtens von Herrn S. von der Beklagten\nfordern. Zwar kann der Ersatz von Gutachterkosten, die zur Aufdeckung bzw. Feststellung des Schadens\nerforderlich sind, grundsätzlich vom Schuldner verlangt werden (nach § 280 BGB, vgl. Palandt, BGB, 78.\nAufl. 2019, § 280 Rn. 18). Vorliegend fehlt es jedoch jedenfalls an der Kausalität zwischen einem etwaigen\nMangel der gelieferten Prothese und den entstandenen Gutachterkosten. Denn die Begutachtung erfolgte\nerst im Jahr 2016 und damit zu einem Zeitpunkt, als die Klägerin eine Nacherfüllung bereits verweigerte und\nnur die gezahlte Prothesenvergütung zurückforderte. Darauf hatte sie jedoch, wie gezeigt, mangels\nFristsetzung zur Nacherfüllung keinen Anspruch.\n79\nDa der geltend gemachte Rückzahlungsanspruch der Klägerin bereits dem Grunde nach nicht besteht,\nkommt es nicht darauf an, ob die Beklagte die Leistung unter Berufung auf die Einrede der Verjährung\nverweigern konnte. Dies wäre nur unter Zugrundelegung der kurzen zweijährigen Verjährungsfrist nach §\n438 Abs. 1 Nr. 3 BGB möglich, wofür Sinn und Zweck der Sachmängelhaftung (Abgrenzung zur „normalen“\naltersbedingten Abnutzung) sprechen könnten, nicht jedoch, wenn man wie bisher vom BSG generell für\ndas Leistungserbringerrecht - aber nicht explizit für die Sachmängelhaftung bei Hilfsmitteln - angenommen,\ndie dem Sozialrecht innewohnende vierjährige Verjährungsfrist anwendet (vgl. § 45 SGB I (analog), z.B.\nBSG, Urteil vom 10.04.2008, B 3 KR 7/07 R). Verjährung wäre dann nämlich erst mit Ablauf des Jahres\n2016 und damit nach Klageerhebung eingetreten.\n80\nIm Ergebnis konnte die Klägerin damit die für die Prothese des Versicherten gezahlte Vergütung nicht von\nder Beklagten zurückverlangen, weshalb die Berufung der Klägerin gegen das klageabweisende Urteil des\nSG Nürnberg vom 16.02.2017 zurückzuweisen war.\n81\nDie Kostenentscheidung beruht auf § 197a Abs. 1 Satz 1 SGG i.V.m. § 154 Abs. 2\nVerwaltungsgerichtsordnung (VwGO). Die Streitwertfestsetzung folgt aus § 197a Abs. 1 Satz 1 SGG i.V.m.\n§ 63 Abs. 2, § 52 Abs. 3, § 47 Abs. 1 Gerichtskostengesetz (GKG).\n82\nGründe für die Zulassung der Revision (§ 160 Abs. 2 SGG) liegen nicht vor.\n\n"
+}

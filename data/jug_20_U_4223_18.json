@@ -1,0 +1,533 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 51,
+            "start": 49,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 57,
+            "start": 52,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beweislastumkehr",
+            "end": 75,
+            "start": 59,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Normenketten",
+            "end": 88,
+            "start": 76,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 113,
+            "start": 112,
+            "type": "SBD"
+        },
+        {
+            "annotation": "713",
+            "end": 176,
+            "start": 173,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 188,
+            "start": 177,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungserbringung",
+            "end": 313,
+            "start": 294,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorinstanz",
+            "end": 324,
+            "start": 314,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 375,
+            "start": 373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 386,
+            "start": 376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9399",
+            "end": 405,
+            "start": 401,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 411,
+            "start": 406,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückgewiesen",
+            "end": 550,
+            "start": 536,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 622,
+            "start": 616,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 665,
+            "start": 652,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vollstreckbar",
+            "end": 777,
+            "start": 764,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugelassen",
+            "end": 816,
+            "start": 806,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 837,
+            "start": 818,
+            "type": "SBD"
+        },
+        {
+            "annotation": "I",
+            "end": 839,
+            "start": 838,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 842,
+            "start": 841,
+            "type": "SBD"
+        },
+        {
+            "annotation": "EGZPO",
+            "end": 1029,
+            "start": 1024,
+            "type": "SBD"
+        },
+        {
+            "annotation": "II",
+            "end": 1033,
+            "start": 1031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 1036,
+            "start": 1035,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Erfolg",
+            "end": 1104,
+            "start": 1098,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrechterhalten",
+            "end": 1264,
+            "start": 1248,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 1267,
+            "start": 1266,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 1416,
+            "start": 1412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beanstanden",
+            "end": 1620,
+            "start": 1609,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 1997,
+            "start": 1994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 2000,
+            "start": 1999,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gestellt",
+            "end": 2251,
+            "start": 2243,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 2577,
+            "start": 2572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 2580,
+            "start": 2579,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erleichtern",
+            "end": 2836,
+            "start": 2825,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3106,
+            "start": 3105,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 3109,
+            "start": 3108,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bezahlt",
+            "end": 3254,
+            "start": 3247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 3257,
+            "start": 3256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angenommen",
+            "end": 3400,
+            "start": 3390,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 3403,
+            "start": 3402,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 3681,
+            "start": 3673,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorgetragen",
+            "end": 3821,
+            "start": 3810,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 3824,
+            "start": 3823,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhelfen",
+            "end": 4039,
+            "start": 4030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betraut",
+            "end": 4276,
+            "start": 4269,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4653,
+            "start": 4652,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4936,
+            "start": 4935,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 4940,
+            "start": 4938,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teilen",
+            "end": 5085,
+            "start": 5079,
+            "type": "SBD"
+        },
+        {
+            "annotation": "worden",
+            "end": 5395,
+            "start": 5389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 5399,
+            "start": 5397,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 5519,
+            "start": 5513,
+            "type": "SBD"
+        },
+        {
+            "annotation": "12",
+            "end": 5523,
+            "start": 5521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vortrag",
+            "end": 5594,
+            "start": 5587,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 5641,
+            "start": 5639,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verlangt",
+            "end": 5870,
+            "start": 5862,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Passivlegitimation",
+            "end": 6133,
+            "start": 6115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 6137,
+            "start": 6135,
+            "type": "SBD"
+        },
+        {
+            "annotation": "angreifbar",
+            "end": 6265,
+            "start": 6255,
+            "type": "SBD"
+        },
+        {
+            "annotation": "trennen",
+            "end": 6418,
+            "start": 6411,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 6524,
+            "start": 6521,
+            "type": "SBD"
+        },
+        {
+            "annotation": "14",
+            "end": 6528,
+            "start": 6526,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6770,
+            "start": 6769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "15",
+            "end": 6774,
+            "start": 6772,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhelfen",
+            "end": 6904,
+            "start": 6895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 6908,
+            "start": 6906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 6981,
+            "start": 6973,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 6985,
+            "start": 6983,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geleistet",
+            "end": 7050,
+            "start": 7041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7144,
+            "start": 7142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 7148,
+            "start": 7146,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verhandelt",
+            "end": 7223,
+            "start": 7213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erklärt",
+            "end": 7474,
+            "start": 7467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vergleichs",
+            "end": 7689,
+            "start": 7679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 7693,
+            "start": 7691,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gekommen",
+            "end": 7841,
+            "start": 7833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2018",
+            "end": 7911,
+            "start": 7907,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 7915,
+            "start": 7913,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 8079,
+            "start": 8077,
+            "type": "SBD"
+        },
+        {
+            "annotation": "findet",
+            "end": 8420,
+            "start": 8414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "III",
+            "end": 8425,
+            "start": 8422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 8429,
+            "start": 8427,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ZPO",
+            "end": 8569,
+            "start": 8566,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 8573,
+            "start": 8571,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 8668,
+            "start": 8659,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 8672,
+            "start": 8670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsverpflichtung",
+            "end": 8747,
+            "start": 8726,
+            "type": "SBD"
+        }
+    ],
+    "Text": "OLG München, Endurteil v. 08.05.2019 – 20 U 4223/18\nTitel:\nBeweislastumkehr\nNormenketten:\nEGZPO § 26 Nr. 8 Satz 1\nZPO § 313a Abs. 1 S.1, § 540 Abs. 2, § 708 Nr. 10, §§ 711, 713\nSchlagworte:\nAnerkenntnis, Beweislast, Beweislastumkehr, erbrachte Leistungen, Individualisierung, Versäumnisurteil,\nLeistungserbringung\nVorinstanz:\nLG Landshut, Urteil vom 18.10.2018 – 74 O 3047/17\nFundstelle:\nBeckRS 2019, 9399\nTenor\n1. Die Berufung des Beklagten zu 2) gegen das Urteil des Landgerichts Landshut vom 18. Oktober 2018,\nAz. 74 O 3047/17, wird zurückgewiesen.\n2. Der Beklagte zu 2) hat die Kosten des Berufungsverfahrens zu tragen.\n3. Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Landshut ist ohne\nSicherheitsleistung vorläufig vollstreckbar.\n4. Die Revision wird nicht zugelassen.\nEntscheidungsgründe\nI.\n1\nDer Darstellung eines Tatbestandes bedarf es nicht, da ein Rechtsmittel gegen das Urteil unzweifelhaft\nnicht zulässig ist, § 313a Abs. 1 Satz 1, § 540 Abs. 2 ZPO, § 26 Nr. 8 Satz 1 EGZPO.\nII.\n2\nDie zulässige Berufung des Beklagten hat in der Sache keinen Erfolg. Das Landgericht hat das gegen den\nBeklagten ergangene Versäumnisurteil zutreffend hinsichtlich der zu diesem Zeitpunkt noch offenen\nForderung aufrechterhalten.\n3\n1. Zwar weist der Beklagte zutreffend darauf hin, dass die Ausführungen des Landgerichts zur Beweislast in\nHinweisen und Urteil widersprüchlich sind. Allerdings ist das landgerichtliche Urteil, das das Bestreiten des\nBeklagten hinsichtlich Leistungserbringung und Abrechnung der Klägerin für nicht ausreichend erachtet, im\nErgebnis nicht zu beanstanden. Denn aufgrund der Umstände des Falls ist eine Beweislastumkehr zu\nLasten des Beklagten eingetreten und deshalb er beweisbelastet für seine Behauptungen, dass die Klägerin\nmit der Erbringung der abgerechneten Leistungen nicht beauftragt war, dass sie keine Leistungen erbracht\nhat und dass sie eventuell beauftragte und erbrachte Leistungen nicht ordnungsgemäß abgerechnet hat.\n4\na) Ausweislich der vorgelegten Mailkorrespondenz (K 2) zwischen den Parteien hat der Beklagte\nvorgerichtlich zu keiner Zeit die Beauftragung, die Leistungserbringung, die abgerechneten Stunden oder\ndie geltend gemachte Rechnungshöhe in Frage gestellt. Vielmehr hat er in diesem Schriftverkehr auf die\nMahnungen der Klägerin eine Abrechnung „Anfang Juni“ in Aussicht gestellt bzw. am 10. Juni 2017 auf eine\nMahnung der Klägerin vom 6. Juni 2017, die sämtliche streitgegenständlichen Rechnungen unter Angabe\nder Rechnungsnummern umfasste, behauptet, am Vorabend bezahlt zu haben.\n5\nb) Dies aber stellt ein Anerkenntnis im Sinne einer einseitigen tatsächlichen Erklärung des Schuldners dar\nmit dem Zweck, dem Gläubiger Erfüllungsbereitschaft anzuzeigen um ihn dadurch von sofortigen\nMaßnahmen abzuhalten oder ihm den Beweis zu erleichtern. Nach der höchstrichterlichen Rechtsprechung\nkönnen solche als „Zeugnis des Anerkennenden gegen sich selbst“ zu wertenden Bestätigungserklärungen\nim Prozess eine Umkehr der Beweislast bewirken (BGH, Urteil vom 11. November 2008, VIII ZR 265/07,\nNJW 2009, 580 Rn. 9 mwN).\n6\nSo liegt der Fall hier im Hinblick auf die Äußerungen des Beklagten, Anfang Juni werde abgerechnet bzw. er\nhabe am Vortag die Rechnungen bezahlt.\n7\nSoweit die Berufung sich gegen die Annahme eines deklaratorischen Schuldanerkenntnisses wendet, hat\nauch der Senat derartiges nicht angenommen.\n8\nc) Den Beweis, dass die Klägerin mit der Erbringung der abgerechneten Leistungen nicht beauftragt war,\nsie die abgerechneten Leistungen nicht erbracht hat oder die Rechnungshöhe einschließlich des\nberechneten Stundensatzes nicht angemessen wäre, hat der Beklagte nicht erbracht. Vielmehr hat er auf\nden Hinweis des Senats vom 1. März 2019 zu der soeben dargestellten Beweislastverteilung inhaltlich\nnichts vorgetragen.\n9\nd) Das Vorbringen der Berufung, die Klageforderung sei bereits nicht schlüssig dargelegt worden, weshalb\nkein einlassungsfähiger und dem Bestreiten zugänglicher Vortrag vorliege, kann ihr nicht zum Erfolg\nverhelfen. Der Senat hat keinen Zweifel daran, dass das Vorbringen der Klägerin in der Klageschrift (dort S.\n3): „Die Klägerin wurde durch die Beklagte seit Dezember 2016 im Rahmen einer freiberuflichen Mitarbeit\nmit zahlreichen Aufträgen betraut. Größtenteils ging es dabei um die Erstellung von Broschüren für die\nBeklagte und den Aufbau des D. D. Briefes, der von der Beklagten herausgebracht wird, sowie\nentsprechende Korrekturarbeiten“ in Verbindung mit dem konkreten Zahlungsantrag - wie erforderlich - aus\nsich heraus verständlich und zur Individualisierung des Anspruchs genügend ist (vgl. Zöller, ZPO, § 129 Rn.\n8). Die im Anschluss an das zitierte Vorbringen vorgenommene Bezugnahme der Klägerin auf die einzelnen\nRechnungen, die der Beklagte beanstandet, diente damit nur zur Erläuterung und Ergänzung des\nbestimmenden Schriftsatzes und war deshalb ordnungsgemäß (vgl. Zöller, ZPO, § 253 Rn. 12).\n10\ne) Soweit die Berufung darüber hinaus die Rechnung vom 1. Mai 2017 als widersprüchlich rügt, vermag der\nSenat diese Einschätzung nicht zu teilen. Zwar sind dort die abgerechneten zwei Stundenpositionen\noffensichtlich falsch addiert worden, allerdings findet sich die zutreffende Stundensumme im Eingangssatz\nund ist auch der ausgewiesene Rechnungsbetrag durch Multiplikation der zutreffenden Summe mit dem\nStundensatz von € 40,00 richtig ermittelt worden.\n11\nf) Auch mit dem Einwand, dass die Rechnungen nicht sämtlich die „Forum“ beträfen, kann die Berufung\nnicht gehört werden.\n12\nDies ist zum einen neuer, gemäß § 531 Abs. 2 ZPO präkludierter Vortrag. Zum anderen trifft dieses\nVorbringen nicht zu. Vielmehr hat die Klägerin sämtliche Rechnungen, deren Bezahlung sie fordert,\nausweislich des Anlagenkonvoluts K 1 auch an die „D. D. Forum“ adressiert und Bezahlung vom Beklagten\nzu 2) unter Angabe der Rechnungsnummern verlangt. Zudem wäre der Beklagte auch insoweit wegen des\nmit der Zusage der Bezahlung bzw. der Behauptung der bereits erfolgten Zahlung auf die konkreten\nRechnungen verbundenen tatsächlichen Anerkenntnisses beweisbelastet für seinen Vortrag mangelnder\nPassivlegitimation.\n13\n2. Die von der Berufung behaupteten prozessualen Fehler bei Erlass des Versäumnisurteils sind mit der\nBerufung nicht angreifbar. Für die Frage des Erfolgs der Berufung sind das Versäumnisurteil vom 28. Juni\n2018 und das Endurteil vom 18. Oktober 2018 streng voneinander zu trennen. Maßstab der\nBerufungsprüfung sind grundsätzlich allein Rechtsfehler bei Erlass des Endurteils, § 513 ZPO.\n14\nEine andere Bewertung ergibt sich hier auch nicht aus § 512 ZPO, denn das Versäumnisurteil hat sich im\nvorliegenden Fall in keiner Weise auf Zulässigkeit oder Begründetheit der Klage im Endurteil ausgewirkt\n(vgl. MünchKomm, ZPO, § 512 Rn. 5).\n15\n3. Soweit die Berufung ihr Vorbringen zu einem Vergleichsabschluss wiederholt, kann ihr dies ebenfalls\nnicht zum Erfolg verhelfen.\n16\na) Unzweifelhaft ist ein gerichtlicher Vergleich nicht zustande gekommen.\n17\nb) Außergerichtlich hat der Beklagte zwar eine Zahlung geleistet. Soweit er meint, dies habe den Abschluss\neines Vergleichs bewirkt, trifft dies aber nicht zu.\n18\nZwar haben die Parteien unstreitig über einen Vergleichsschluss verhandelt. Die Klägerin hat sich\nausweislich der Mail vom 13. Juni 2018 (B 1) allerdings nur unter der „Voraussetzung“ einer Zahlung „von\n70% des offenen Betrages“ mit Wertstellung bis zum 20. Juni 2018 mit einer vergleichsweisen Regelung\neinverstanden erklärt. Diese Erklärung des Klägervertreters stellt entgegen der Ansicht der Berufung keine\nbloße Fälligkeitsbestimmung dar, sondern statuiert die „Voraussetzung“ und damit die Bedingung für den\nAbschluss eines Vergleichs.\n19\nMangels Bedingungseintritts aber - bis zum Stichtag ist keine Zahlung des Beklagten eingegangen - ist ein\nVergleichsschluss nicht zustande gekommen. Unstreitig erfolgte eine Zahlung des Beklagten erst am 29.\nJuni 2018.\n20\nc) Hinzu kommt, dass der Beklagte lediglich € 3.144,00 bezahlt hat, mithin weniger als 70% der zu diesem\nZeitpunkt bereits gerichtlich geltend gemachten € 6.913,30. Dass sich der Vergleich - wie die Berufung\nbehauptet - nur auf einen Teil der eingeklagten Forderung bezogen hätte, liegt fern, zumal die\nVerhandlungen mit dem Prozessbevollmächtigten der Klägerin geführt wurden, der die gesamte Summe\neingeklagt hatte und sich eine derartige Einschränkung in der Korrespondenz der Parteien nirgends findet.\nIII.\n21\nDie Kostenentscheidung beruht auf § 97 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit\nauf § 708 Nr. 10, §§ 711, 713 ZPO.\n22\nDie Revision war nicht zuzulassen, da die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen.\n23\nDer Streitwert entspricht dem Wert der angegriffenen Zahlungsverpflichtung.\n\n"
+}

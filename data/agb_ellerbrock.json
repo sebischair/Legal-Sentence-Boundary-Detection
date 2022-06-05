@@ -1,0 +1,251 @@
+{
+    "Annotations": [
+        {
+            "annotation": "Kundeninformationen",
+            "end": 40,
+            "start": 21,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 248,
+            "start": 242,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anerkannt",
+            "end": 360,
+            "start": 351,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 393,
+            "start": 386,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragsschluss",
+            "end": 414,
+            "start": 399,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kaufen",
+            "end": 512,
+            "start": 506,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 577,
+            "start": 572,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ein",
+            "end": 688,
+            "start": 685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 804,
+            "start": 802,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeben",
+            "end": 893,
+            "start": 886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "dar",
+            "end": 1033,
+            "start": 1030,
+            "type": "SBD"
+        },
+        {
+            "annotation": "anzunehmen",
+            "end": 1162,
+            "start": 1152,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1301,
+            "start": 1293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1406,
+            "start": 1398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gebunden",
+            "end": 1494,
+            "start": 1486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 1517,
+            "start": 1500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gespeichert",
+            "end": 1668,
+            "start": 1657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufrufen",
+            "end": 1790,
+            "start": 1782,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zugreifen",
+            "end": 1912,
+            "start": 1903,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundeninformation",
+            "end": 1935,
+            "start": 1918,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturhinweis",
+            "end": 1953,
+            "start": 1937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "berichtigen",
+            "end": 2045,
+            "start": 2034,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Korrekturmöglichkeiten",
+            "end": 2139,
+            "start": 2117,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beenden",
+            "end": 2239,
+            "start": 2232,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 2263,
+            "start": 2245,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentum",
+            "end": 2336,
+            "start": 2328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 2374,
+            "start": 2354,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mängelhaftungsrechte",
+            "end": 2433,
+            "start": 2413,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftungsbeschränkung",
+            "end": 2459,
+            "start": 2439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "betreffen",
+            "end": 2722,
+            "start": 2713,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertreter",
+            "end": 2823,
+            "start": 2814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 2969,
+            "start": 2958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verschaffen",
+            "end": 3054,
+            "start": 3043,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 3088,
+            "start": 3075,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3210,
+            "start": 3206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 3234,
+            "start": 3216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 3253,
+            "start": 3235,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucherstreitigkeiten",
+            "end": 3284,
+            "start": 3259,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zuständig",
+            "end": 3456,
+            "start": 3447,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hier",
+            "end": 3554,
+            "start": 3550,
+            "type": "SBD"
+        },
+        {
+            "annotation": "teil",
+            "end": 3623,
+            "start": 3619,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Geltungsbereich, Kundeninformationen\nDie folgenden allgemeinen Geschäftsbedingungen regeln das Vertragsverhältnis zwischen El-lerbrock \"Bad und Küche\" GmbH ellerbrockshop und den Verbrauchern und Unternehmern, die über unseren Shop Waren kaufen. Entgegenstehende oder von unseren Geschäftsbedingun-gen abweichende Bedingungen werden von uns nicht anerkannt. Die Vertragssprache ist Deutsch.\n§ 2 Vertragsschluss\n(1) Die Angebote im Internet stellen eine unverbindliche Aufforderung an Sie dar, Waren zu kaufen.\n(2) Sie können ein oder mehrere Produkte in den Warenkorb legen. Im Laufe des Bestellpro-zesses geben Sie Ihre Daten und Wünsche bzgl. Zahlungsart, Liefermodalitäten etc. ein. Erst mit dem Anklicken des Bestellbuttons geben Sie ein verbindliches Angebot auf Ab-schluss eines Kaufvertrags ab. Sie können eine verbindliche Bestellung aber auch telefo-nisch oder per Telefax abgeben. Die unverzüglich per E-Mail bzw. per Telefax erfolgende Zugangsbestätigung Ihrer Bestellung stellt noch keine Annahme des Kaufangebots dar.\n(3) Wir sind berechtigt, Ihr Angebot innerhalb von 2 Werktagen unter Zusendung einer Auf-tragsbestätigung per E-Mail anzunehmen. Nach fruchtlosem Ablauf der in Satz 1 genann-ten Frist gilt Ihr Angebot als abgelehnt, d.h. Sie sind nicht länger an Ihr Angebot gebunden. Bei einer telefonischen Bestellung kommt der Kaufvertrag zustande, wenn wir Ihr Angebot sofort annehmen. Wird das Angebot nicht sofort angenommen, dann sind Sie auch nicht mehr daran gebunden.\n§ 3 Kundeninformation\nSpeicherung Ihrer Bestelldaten Ihre Bestellung mit Einzelheiten zum geschlossenen Vertrag (z.B. Art des Produkts, Preis etc.) wird von uns gespeichert. Die AGB schicken wir Ihnen zu, Sie können die AGB aber auch nach Vertragsschluss jederzeit über unsere Webseite aufrufen.\nAls registrierter Kunde können Sie auf Ihre vergangenen Bestellungen über den Kunden LogIn-Bereich (Ihr Konto) zugreifen.\n§ 4 Kundeninformation: Korrekturhinweis\nSie können Ihre Eingaben vor Abgabe der Bestellung jederzeit mit der Löschtaste berichtigen. Wir informieren Sie auf dem Weg durch den Bestellprozess über weitere Korrekturmöglichkeiten. Den Bestellprozess können Sie auch jederzeit durch Schließen des Browser-Fensters komplett beenden.\n§ 5 Eigentumsvorbehalt\nDer Kaufgegenstand bleibt bis zur vollständigen Bezahlung unser Eigentum.\n§ 6 Gesetzliche Mängelhaftungsrechte\nFür unsere Waren bestehen gesetzliche Mängelhaftungsrechte.\n§ 7 Haftungsbeschränkung\nWir schließen die Haftung für leicht fahrlässige Pflichtverletzungen aus, sofern diese keine vertragswesentlichen Pflichten, Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, Garantien oder Ansprüche nach dem Produkthaftungsgesetz betreffen. Gleiches gilt für Pflichtverletzungen unserer Erfüllungsgehilfen und unserer gesetzlichen Vertreter. Zu den vertragswesentlichen Pflichten gehört insbesondere die Pflicht, Ihnen die Sache zu über-geben und Ihnen das Eigentum daran zu verschaffen. Weiterhin haben wir Ihnen die Sache frei von Sach- und Rechtsmängeln zu verschaffen.\n§ 8 Kaufmännischer Gerichtsstand\nAusschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag ist unser Geschäftssitz, wenn Sie Kaufmann sind.\n§ 9 Widerrufsbelehrung\nWiderrufsbelehrung\n§ 10 Verbraucherstreitigkeiten\nFür Verbraucherstreitigkeiten mit uns Ellerbrock \"Bad und Küche\" GmbH wäre die Verbraucherstreibeilegungsstelle \"Zentrum für Europäischen Verbraucherschutz e.V.\" zuständig.\nDie Streitbeilegungsstelle \"Zentrum für Europäischen Verbraucherschutz e.V.\" hat ihren Sitz hier: Anschrift\nWir nehmen jedoch nicht am Streitbeilegungsverfahren teil.\n\n"
+}

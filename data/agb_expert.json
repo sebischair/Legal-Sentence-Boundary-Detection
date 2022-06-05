@@ -1,0 +1,449 @@
+{
+    "Annotations": [
+        {
+            "annotation": "AGB",
+            "end": 40,
+            "start": 37,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fassung",
+            "end": 244,
+            "start": 237,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anwendung",
+            "end": 351,
+            "start": 342,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Mail",
+            "end": 585,
+            "start": 581,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 648,
+            "start": 647,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 770,
+            "start": 769,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 972,
+            "start": 966,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handeln",
+            "end": 1225,
+            "start": 1218,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertrags",
+            "end": 1275,
+            "start": 1267,
+            "type": "SBD"
+        },
+        {
+            "annotation": "schließen",
+            "end": 1387,
+            "start": 1378,
+            "type": "SBD"
+        },
+        {
+            "annotation": "annehmen",
+            "end": 1445,
+            "start": 1437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zustande",
+            "end": 1511,
+            "start": 1503,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansehen",
+            "end": 1692,
+            "start": 1685,
+            "type": "SBD"
+        },
+        {
+            "annotation": "legen",
+            "end": 1786,
+            "start": 1781,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ansehen",
+            "end": 1923,
+            "start": 1916,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 2056,
+            "start": 2050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "]",
+            "end": 2168,
+            "start": 2167,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aus",
+            "end": 2300,
+            "start": 2297,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ändern",
+            "end": 2470,
+            "start": 2464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beginnen",
+            "end": 2619,
+            "start": 2611,
+            "type": "SBD"
+        },
+        {
+            "annotation": "drücken",
+            "end": 2755,
+            "start": 2748,
+            "type": "SBD"
+        },
+        {
+            "annotation": "uns",
+            "end": 2798,
+            "start": 2795,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 2876,
+            "start": 2874,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vertragstextes",
+            "end": 2912,
+            "start": 2898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestelldaten",
+            "end": 2976,
+            "start": 2964,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 3056,
+            "start": 3054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszudrucken",
+            "end": 3209,
+            "start": 3197,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Bestellungen",
+            "end": 3342,
+            "start": 3330,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 3378,
+            "start": 3367,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verbraucher",
+            "end": 3434,
+            "start": 3423,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsbelehrung",
+            "end": 3454,
+            "start": 3436,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Widerrufsformular",
+            "end": 3483,
+            "start": 3466,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Musterformular",
+            "end": 3498,
+            "start": 3484,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3527,
+            "start": 3514,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandkosten",
+            "end": 3612,
+            "start": 3599,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Wahl",
+            "end": 3674,
+            "start": 3670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlungsbedingungen",
+            "end": 3699,
+            "start": 3680,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Finanzierung",
+            "end": 3851,
+            "start": 3839,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auszuschließen",
+            "end": 3912,
+            "start": 3898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Auftragsbestätigung",
+            "end": 4013,
+            "start": 3994,
+            "type": "SBD"
+        },
+        {
+            "annotation": "überweisen",
+            "end": 4084,
+            "start": 4074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "belastet",
+            "end": 4194,
+            "start": 4186,
+            "type": "SBD"
+        },
+        {
+            "annotation": "geregelt",
+            "end": 4361,
+            "start": 4353,
+            "type": "SBD"
+        },
+        {
+            "annotation": "349",
+            "end": 4592,
+            "start": 4589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Konto",
+            "end": 4684,
+            "start": 4679,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verzinsen",
+            "end": 4839,
+            "start": 4830,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Basiszinssatz",
+            "end": 4950,
+            "start": 4937,
+            "type": "SBD"
+        },
+        {
+            "annotation": "s",
+            "end": 4946,
+            "start": 4945,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 5037,
+            "start": 5031,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Weg",
+            "end": 5118,
+            "start": 5115,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zustimmung",
+            "end": 5200,
+            "start": 5190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Lieferbedingungen",
+            "end": 5223,
+            "start": 5206,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Österreich",
+            "end": 5297,
+            "start": 5287,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versandrisiko",
+            "end": 5408,
+            "start": 5395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 5592,
+            "start": 5589,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Eigentumsvorbehalt",
+            "end": 5616,
+            "start": 5598,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Verkäufers",
+            "end": 5699,
+            "start": 5689,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgetreten",
+            "end": 5866,
+            "start": 5856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Haftung",
+            "end": 5899,
+            "start": 5892,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unberührt",
+            "end": 6080,
+            "start": 6071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kundenservice",
+            "end": 6100,
+            "start": 6087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 6179,
+            "start": 6176,
+            "type": "SBD"
+        },
+        {
+            "annotation": "99",
+            "end": 6367,
+            "start": 6365,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gerichtsstand",
+            "end": 6402,
+            "start": 6389,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kaufrechts",
+            "end": 6466,
+            "start": 6456,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wird",
+            "end": 6791,
+            "start": 6787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Alling",
+            "end": 7064,
+            "start": 7058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Sonstiges",
+            "end": 7080,
+            "start": 7071,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Deutsch",
+            "end": 7117,
+            "start": 7110,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wirksam",
+            "end": 7220,
+            "start": 7213,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Vorschriften",
+            "end": 7334,
+            "start": 7322,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hinzuweisen",
+            "end": 7513,
+            "start": 7502,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erreichbar",
+            "end": 7569,
+            "start": 7559,
+            "type": "SBD"
+        },
+        {
+            "annotation": "/",
+            "end": 7600,
+            "start": 7599,
+            "type": "SBD"
+        }
+    ],
+    "Text": "§ 1 Allgemeines, Geltungsbereich der AGB\n1.1 Alle Lieferungen und Leistungen erfolgen ausschließlich auf der Grundlage der nachfolgenden Allgemeinen Geschäftsbedingungen (nachfolgend „AGB“) in ihrer zum Zeitpunkt der Bestellung gültigen Fassung. Sofern nicht ausdrücklich schriftlich vereinbart, finden abweichende Geschäftsbedingungen keine Anwendung.\n1.2 Vertragspartner bei Bestellungen im Portal unter expert-TechnoMarkt.de (nachfolgend „Portal“) ist die Firma expert TechnoMarkt Online GmbH & Co. KG, Am Hartholz 15, 82239 Alling, Fon 089 212 31 12-0, Fax 089 212 31 12-99, E-Mail: kundenservice@expert-technomarkt.de (nachfolgend „Verkäufer“).\n1.3 Kunde im Sinne dieser Geschäftsbedingungen können sowohl Verbraucher als auch Unternehmer sein (nachfolgend „Kunde“). Verbraucher im Sinne der Geschäftsbedingungen sind natürliche Personen, die Verträge zu einem Zweck abschließen, der weder ihrer gewerblichen noch ihrer beruflichen Tätigkeit zugerechnet werden können. Unternehmer im Sinne der Geschäftsbedingungen sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die bei Vertragsschluss mit dem Verkäufer in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handeln.\n§ 2 Vertragsschluss, Zustandekommen des Vertrags\n2.1 Das Angebot in unserem Portal stellt ein verbindliches Angebot an Sie dar, den Vertrag mit uns zu schließen. Sie können dieses Angebot durch Ihre Bestellung annehmen. Der Vertrag kommt mit Absendung Ihrer Bestellung an uns zustande.\n2.2 Wenn Sie das gewünschte Produkt gefunden haben, können Sie dieses unverbindlich durch Anklicken des Produktnamens, des Produktbildes oder des Links [Mehr Info] genauer ansehen. Durch Anklicken des Buttons [In den Warenkorb] können sie den Artikel in den Warenkorb legen. Den Inhalt des Warenkorbs können Sie jederzeit durch Anklicken des Links [Warenkorb] oder des Buttons [zur Kasse] unverbindlich ansehen. Die Produkte können Sie durch Anklicken der Grafiken [Entfernen] und [Aktualisieren] wieder aus dem Warenkorb entfernen oder ändern. Wenn Sie die Produkte im Warenkorb kaufen wollen, klicken Sie in der Seite „Warenkorb“ auf den Button [Weiter].\nIm weiteren Verlauf des Bestellvorgangs geben Sie zunächst Ihre persönlichen Daten ein und wählen die Versand- und Zahlungsart aus. Im letzten Schritt unter „Bestellen“ erhalten Sie eine Übersicht über Ihre Bestelldaten und können alle Angaben nochmals überprüfen und korrigieren, löschen oder ändern. Eingabefehler können Sie auch dadurch berichtigen, dass Sie im Browser rückwärts navigieren oder den Bestellvorgang abbrechen und von vorn beginnen. Um den Einkauf abzuschließen, müssen Sie unsere Allgemeinen Geschäftsbedingungen akzeptieren und auf den Button [Jetzt kaufen] drücken. Damit versenden Sie die Bestellung an uns. Wir schicken Ihnen daraufhin eine Bestätigung über den Auftrag per E-Mail zu.\n§ 3 Speicherung des Vertragstextes\nWir speichern Ihre Bestellung und die eingegebenen Bestelldaten. Wir senden Ihnen per E-Mail eine Auftragsbestätigung mit allen Bestelldaten zu. Auch haben Sie die Möglichkeit, sowohl die Bestellung als auch die Allgemeinen Geschäftsbedingungen vor dem Absenden der Bestellung an uns auszudrucken. Haben Sie ein Kundenkonto bei uns eingerichtet, haben Sie auch hierüber jederzeit Zugriff auf die von Ihnen getätigten Bestellungen.\n§ 4 Widerrufsrecht für Verbraucher\nDas folgende Widerrufsrecht besteht nur für Verbraucher: Widerrufsbelehrung\n§ 5 Muster-Widerrufsformular\nMusterformular\n§ 6 Preise und Versandkosten\nAlle Preise gelten inklusive der gesetzlichen Mehrwertsteuer zuzüglich Versandkosten. Wir liefern mit DPD oder einem anderen Anbieter unserer Wahl.\n§ 7 Zahlungsbedingungen\n7.1 Die Zahlung erfolgt wahlweise per Sofort-Überweisung, Kreditkarte, Barzahlen, Vorkasse durch Vorab-Überweisung, per Nachnahme oder per Finanzierung. Wir behalten uns vor, einzelne Zahlungsarten auszuschließen. Bei Wahl der Zahlungsart Vorkasse nennen wir Ihnen unsere Bankverbindung in der Auftragsbestätigung. Der Rechnungsbetrag ist binnen 10 Tagen auf unser Konto zu überweisen. Bei Zahlung per Kreditkarte wird Ihre Kreditkarte erst zum Zeitpunkt der Versendung der Ware an Sie belastet. Wird der Kaufpreis im Rahmen einer Ratenzahlungsvereinbarung beglichen, werden alle Einzelheiten zu dieser Zahlungsweise in einer individuellen Vereinbarung geregelt.\n7.2 Bei Zahlung per Kreditkarte erfolgt die Zahlungsabwicklung über PayPal (Europe) S.à r.l. et Cie, S.C.A. 22-24, Boulevard Royal, L-2449 Luxembourg E-Mail:impressum@paypal.com, Handelsregisternummer: R.C.S. Luxembourg B 118 349. Diese Zahlungsart wird über PayPal abgewickelt und Sie benötigen hierfür kein PayPal-Konto.\n7.3 Wenn Sie Verbraucher sind, ist der Kaufpreis mit Eintritt des Zahlungsverzugs während des Verzuges in Höhe von 5% über dem Basiszinssatz zu verzinsen. Wenn Sie nicht Verbraucher sind, beträgt der Zinssatz während des Zahlungsverzuges 8 % über dem Basiszinssatz. Wir behalten uns vor, einen höheren Verzugsschaden nachzuweisen und geltend zu machen.\n7.4 Die Übermittlung der Rechnung erfolgt ausschließlich auf elektronischem Weg. Mit der Einverständniserklärung zu unseren AGB erteilen Sie dazu Ihre Zustimmung.\n§ 8 Lieferbedingungen\n8.1 Wir liefern ausschließlich innerhalb Deutschlands und nach Österreich\n8.2 Sofern der Kunde Verbraucher ist, tragen wir unabhängig von der Versandart in jedem Fall das Versandrisiko. Sofern der Kunde Unternehmer ist, gehen alle Risiken und Gefahren der Versendung auf den Kunden über, sobald die Ware von uns an den beauftragten Logistikpartner übergeben worden ist.\n§ 9 Eigentumsvorbehalt\nDie gelieferte Ware bleibt bis zur vollständigen Bezahlung Eigentum des Verkäufers. Sollte der Besteller die Waren vor der vollständigen Bezahlung weiterveräußert haben, so gelten seine Ansprüche gegen dritte Erwerber als an den Verkäufer abgetreten.\n§ 10 Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen des Bürgerlichen Gesetzbuches (BGB). Ist der Kauf für beide Teile ein Handelsgeschäft, bleiben die Regelungen des HGB unberührt.\n§ 11 Kundenservice\nBei Fragen, Beschwerden oder Reklamationen nehmen Sie bitte Kontakt zu uns auf. Sie erreichen uns werktags von 9.00 Uhr 18.00 Uhr per E-Mail unter E-Mailadressekundenservice@expert-technomarkt.de, per Telefon unter 089 212 31 12-0 oder per Fax unter 089 212 31 12-99.\n§ 12 Rechtsordnung, Gerichtsstand\n12.1 Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.\n12.2 Bei Kunden, die den Vertrag zu einem Zweck schließen, der nicht der beruflichen oder gewerblichen Tätigkeit zugerechnet werden kann ( Verbraucher ) gilt diese Rechtswahl nur insoweit, als dadurch nicht der durch zwingende Bestimmungen des Rechts des Staates, in dem er seinen gewöhnlichen Aufenthalt hat, entzogen wird.\n12.3 Für alle Streitigkeiten aus dem Vertragsverhältnis ist, wenn der Besteller Kaufmann, eine juristische Person des öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen ist, richtet sich der Gerichtsstand nach dem Sitz unseres Unternehmens in 82239 Alling.\n§ 13 Sonstiges\n13.1 Die Vertragssprache ist Deutsch.\n13.2 Sind eine oder mehrere Regelungen dieser AGB unwirksam, so bleibt der Vertrag im Übrigen wirksam. Soweit die Bestimmungen unwirksam sind, richtet sich der Inhalt des Vertrages nach den gesetzlichen Vorschriften.\n13.3 Als Onlinehändler sind wir [kundenservice@expert-technomarkt.de] verpflichtet, Sie auf die Plattform zur Online-Streitbeilegung (OS) der Europäischen Kommission hinzuweisen. Diese ist über die folgende Internetadresse erreichbar: //ec.europa.eu/consumers/odr/.\n\n"
+}

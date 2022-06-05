@@ -1,0 +1,1619 @@
+{
+    "Annotations": [
+        {
+            "annotation": "18",
+            "end": 46,
+            "start": 44,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Titel",
+            "end": 52,
+            "start": 47,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitalertragsteuer",
+            "end": 73,
+            "start": 54,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Schlagworte",
+            "end": 85,
+            "start": 74,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stiftung",
+            "end": 384,
+            "start": 376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fundstelle",
+            "end": 395,
+            "start": 385,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7581",
+            "end": 414,
+            "start": 410,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tenor",
+            "end": 420,
+            "start": 415,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgewiesen",
+            "end": 449,
+            "start": 439,
+            "type": "SBD"
+        },
+        {
+            "annotation": "tragen",
+            "end": 506,
+            "start": 500,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tatbestand",
+            "end": 518,
+            "start": 508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "1",
+            "end": 520,
+            "start": 519,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 615,
+            "start": 604,
+            "type": "SBD"
+        },
+        {
+            "annotation": "2",
+            "end": 618,
+            "start": 617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stiftungsvorstands",
+            "end": 896,
+            "start": 878,
+            "type": "SBD"
+        },
+        {
+            "annotation": "3",
+            "end": 899,
+            "start": 898,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Unternehmen",
+            "end": 1268,
+            "start": 1257,
+            "type": "SBD"
+        },
+        {
+            "annotation": "4",
+            "end": 1271,
+            "start": 1270,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zusammensetzte",
+            "end": 1616,
+            "start": 1602,
+            "type": "SBD"
+        },
+        {
+            "annotation": "5",
+            "end": 1619,
+            "start": 1618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringt",
+            "end": 1854,
+            "start": 1846,
+            "type": "SBD"
+        },
+        {
+            "annotation": "6",
+            "end": 1857,
+            "start": 1856,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Regelungen",
+            "end": 1927,
+            "start": 1917,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stiftungsmittel",
+            "end": 1980,
+            "start": 1965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 2007,
+            "start": 2004,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2012,
+            "start": 2011,
+            "type": "SBD"
+        },
+        {
+            "annotation": "festgelegt",
+            "end": 2095,
+            "start": 2085,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Beteiligungen",
+            "end": 2124,
+            "start": 2111,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wahr",
+            "end": 2391,
+            "start": 2387,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2396,
+            "start": 2395,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zulässt",
+            "end": 2548,
+            "start": 2541,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 2553,
+            "start": 2552,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurückzuführen",
+            "end": 2754,
+            "start": 2740,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 3055,
+            "start": 3054,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 3338,
+            "start": 3334,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Abkömmlinge",
+            "end": 3387,
+            "start": 3376,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 3502,
+            "start": 3493,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungszusagen",
+            "end": 3526,
+            "start": 3508,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stifter",
+            "end": 3567,
+            "start": 3560,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungsleistungen",
+            "end": 3665,
+            "start": 3644,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 3823,
+            "start": 3817,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 3927,
+            "start": 3926,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4077,
+            "start": 4076,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4195,
+            "start": 4194,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stifter",
+            "end": 4246,
+            "start": 4239,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 4494,
+            "start": 4488,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehen",
+            "end": 4720,
+            "start": 4714,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4725,
+            "start": 4724,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4856,
+            "start": 4855,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 4861,
+            "start": 4860,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5011,
+            "start": 5010,
+            "type": "SBD"
+        },
+        {
+            "annotation": "monatlich",
+            "end": 5303,
+            "start": 5294,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5308,
+            "start": 5307,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Versorgungszusage",
+            "end": 5340,
+            "start": 5323,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5502,
+            "start": 5501,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5545,
+            "start": 5544,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5568,
+            "start": 5567,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungen",
+            "end": 5592,
+            "start": 5582,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Hausratsversicherung",
+            "end": 5948,
+            "start": 5928,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 5953,
+            "start": 5952,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 6227,
+            "start": 6223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitalertragsteuern",
+            "end": 6388,
+            "start": 6368,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6393,
+            "start": 6392,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6743,
+            "start": 6737,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 6748,
+            "start": 6747,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Anspruchsgrundlage",
+            "end": 6792,
+            "start": 6774,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 6973,
+            "start": 6967,
+            "type": "SBD"
+        },
+        {
+            "annotation": "aufgeführt",
+            "end": 7026,
+            "start": 7016,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7155,
+            "start": 7153,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7296,
+            "start": 7295,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zu",
+            "end": 7395,
+            "start": 7393,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7661,
+            "start": 7660,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7666,
+            "start": 7665,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7887,
+            "start": 7886,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 7971,
+            "start": 7970,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zuwendungen",
+            "end": 8169,
+            "start": 8158,
+            "type": "SBD"
+        },
+        {
+            "annotation": "7",
+            "end": 8172,
+            "start": 8171,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Pflichtteilsansprüche",
+            "end": 8289,
+            "start": 8268,
+            "type": "SBD"
+        },
+        {
+            "annotation": "8",
+            "end": 8292,
+            "start": 8291,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Söhne",
+            "end": 8529,
+            "start": 8524,
+            "type": "SBD"
+        },
+        {
+            "annotation": "€",
+            "end": 8619,
+            "start": 8618,
+            "type": "SBD"
+        },
+        {
+            "annotation": "9",
+            "end": 8622,
+            "start": 8621,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Zahlenwerk",
+            "end": 8740,
+            "start": 8730,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabelle",
+            "end": 8749,
+            "start": 8742,
+            "type": "SBD"
+        },
+        {
+            "annotation": "10",
+            "end": 8752,
+            "start": 8750,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Kapitalertragsteuerabzug",
+            "end": 9089,
+            "start": 9065,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasste",
+            "end": 9231,
+            "start": 9223,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ab",
+            "end": 9330,
+            "start": 9328,
+            "type": "SBD"
+        },
+        {
+            "annotation": "11",
+            "end": 9334,
+            "start": 9332,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erstreckte",
+            "end": 9483,
+            "start": 9473,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 9624,
+            "start": 9619,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Tabelle",
+            "end": 9742,
+            "start": 9735,
+            "type": "SBD"
+        },
+        {
+            "annotation": "verwies",
+            "end": 10110,
+            "start": 10103,
+            "type": "SBD"
+        },
+        {
+            "annotation": "auf",
+            "end": 10152,
+            "start": 10149,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Festsetzungen",
+            "end": 10212,
+            "start": 10199,
+            "type": "SBD"
+        },
+        {
+            "annotation": "13",
+            "end": 10216,
+            "start": 10214,
+            "type": "SBD"
+        },
+        {
+            "annotation": "16",
+            "end": 10227,
+            "start": 10225,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wendete",
+            "end": 10562,
+            "start": 10555,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zurück",
+            "end": 10661,
+            "start": 10655,
+            "type": "SBD"
+        },
+        {
+            "annotation": "17",
+            "end": 10666,
+            "start": 10664,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorträgt",
+            "end": 10794,
+            "start": 10786,
+            "type": "SBD"
+        },
+        {
+            "annotation": "18",
+            "end": 10798,
+            "start": 10796,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 11055,
+            "start": 11050,
+            "type": "SBD"
+        },
+        {
+            "annotation": "19",
+            "end": 11059,
+            "start": 11057,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 11298,
+            "start": 11293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "20",
+            "end": 11302,
+            "start": 11300,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wollen",
+            "end": 11404,
+            "start": 11398,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 11676,
+            "start": 11670,
+            "type": "SBD"
+        },
+        {
+            "annotation": "21",
+            "end": 11680,
+            "start": 11678,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbringen",
+            "end": 11802,
+            "start": 11793,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungen",
+            "end": 11905,
+            "start": 11895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 12106,
+            "start": 12100,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entrichten",
+            "end": 12353,
+            "start": 12343,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungen",
+            "end": 12499,
+            "start": 12489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "stehe",
+            "end": 12726,
+            "start": 12721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "22",
+            "end": 12730,
+            "start": 12728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Gewinnerzielung",
+            "end": 12995,
+            "start": 12980,
+            "type": "SBD"
+        },
+        {
+            "annotation": "23",
+            "end": 12999,
+            "start": 12997,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 13162,
+            "start": 13157,
+            "type": "SBD"
+        },
+        {
+            "annotation": "24",
+            "end": 13166,
+            "start": 13164,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 13484,
+            "start": 13478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "25",
+            "end": 13488,
+            "start": 13486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 13734,
+            "start": 13728,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 13892,
+            "start": 13886,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würde",
+            "end": 14079,
+            "start": 14074,
+            "type": "SBD"
+        },
+        {
+            "annotation": "26",
+            "end": 14083,
+            "start": 14081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 14298,
+            "start": 14293,
+            "type": "SBD"
+        },
+        {
+            "annotation": "habe",
+            "end": 14425,
+            "start": 14421,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handle",
+            "end": 14567,
+            "start": 14561,
+            "type": "SBD"
+        },
+        {
+            "annotation": "übertragen",
+            "end": 14663,
+            "start": 14653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "27",
+            "end": 14667,
+            "start": 14665,
+            "type": "SBD"
+        },
+        {
+            "annotation": "herabzusetzen",
+            "end": 15140,
+            "start": 15127,
+            "type": "SBD"
+        },
+        {
+            "annotation": "28",
+            "end": 15144,
+            "start": 15142,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abzuweisen",
+            "end": 15190,
+            "start": 15180,
+            "type": "SBD"
+        },
+        {
+            "annotation": "29",
+            "end": 15194,
+            "start": 15192,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handle",
+            "end": 15420,
+            "start": 15414,
+            "type": "SBD"
+        },
+        {
+            "annotation": "30",
+            "end": 15424,
+            "start": 15422,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 15492,
+            "start": 15489,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stiftung",
+            "end": 15620,
+            "start": 15612,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 15702,
+            "start": 15695,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vergleichbar",
+            "end": 15809,
+            "start": 15797,
+            "type": "SBD"
+        },
+        {
+            "annotation": "31",
+            "end": 15813,
+            "start": 15811,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 16050,
+            "start": 16044,
+            "type": "SBD"
+        },
+        {
+            "annotation": "32",
+            "end": 16054,
+            "start": 16052,
+            "type": "SBD"
+        },
+        {
+            "annotation": "bejahen",
+            "end": 16254,
+            "start": 16247,
+            "type": "SBD"
+        },
+        {
+            "annotation": "33",
+            "end": 16258,
+            "start": 16256,
+            "type": "SBD"
+        },
+        {
+            "annotation": "beeinflussen",
+            "end": 16479,
+            "start": 16467,
+            "type": "SBD"
+        },
+        {
+            "annotation": "34",
+            "end": 16483,
+            "start": 16481,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 16668,
+            "start": 16663,
+            "type": "SBD"
+        },
+        {
+            "annotation": "würden",
+            "end": 17011,
+            "start": 17005,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 17207,
+            "start": 17202,
+            "type": "SBD"
+        },
+        {
+            "annotation": "voraussetze",
+            "end": 17407,
+            "start": 17396,
+            "type": "SBD"
+        },
+        {
+            "annotation": "35",
+            "end": 17411,
+            "start": 17409,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 17523,
+            "start": 17517,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 17752,
+            "start": 17749,
+            "type": "SBD"
+        },
+        {
+            "annotation": "müsse",
+            "end": 17963,
+            "start": 17958,
+            "type": "SBD"
+        },
+        {
+            "annotation": "36",
+            "end": 17967,
+            "start": 17965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 18086,
+            "start": 18081,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorlägen",
+            "end": 18252,
+            "start": 18244,
+            "type": "SBD"
+        },
+        {
+            "annotation": "37",
+            "end": 18256,
+            "start": 18254,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergebnis",
+            "end": 18332,
+            "start": 18324,
+            "type": "SBD"
+        },
+        {
+            "annotation": "seien",
+            "end": 18485,
+            "start": 18480,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sei",
+            "end": 18727,
+            "start": 18724,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kämen",
+            "end": 18927,
+            "start": 18922,
+            "type": "SBD"
+        },
+        {
+            "annotation": "38",
+            "end": 18931,
+            "start": 18929,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 19066,
+            "start": 19058,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Entscheidungsgründe",
+            "end": 19087,
+            "start": 19068,
+            "type": "SBD"
+        },
+        {
+            "annotation": "39",
+            "end": 19090,
+            "start": 19088,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unbegründet",
+            "end": 19116,
+            "start": 19105,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 19261,
+            "start": 19260,
+            "type": "SBD"
+        },
+        {
+            "annotation": "40",
+            "end": 19265,
+            "start": 19263,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterliegen",
+            "end": 19529,
+            "start": 19518,
+            "type": "SBD"
+        },
+        {
+            "annotation": "41",
+            "end": 19533,
+            "start": 19531,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehören",
+            "end": 19941,
+            "start": 19934,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprechend",
+            "end": 19984,
+            "start": 19972,
+            "type": "SBD"
+        },
+        {
+            "annotation": "42",
+            "end": 19988,
+            "start": 19986,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 20438,
+            "start": 20433,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20545,
+            "start": 20544,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 20778,
+            "start": 20777,
+            "type": "SBD"
+        },
+        {
+            "annotation": "43",
+            "end": 20782,
+            "start": 20780,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 20904,
+            "start": 20901,
+            "type": "SBD"
+        },
+        {
+            "annotation": "44",
+            "end": 20908,
+            "start": 20906,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 21092,
+            "start": 21087,
+            "type": "SBD"
+        },
+        {
+            "annotation": "45",
+            "end": 21096,
+            "start": 21094,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 21237,
+            "start": 21236,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 21415,
+            "start": 21412,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 21551,
+            "start": 21542,
+            "type": "SBD"
+        },
+        {
+            "annotation": "46",
+            "end": 21555,
+            "start": 21553,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erfasst",
+            "end": 21725,
+            "start": 21718,
+            "type": "SBD"
+        },
+        {
+            "annotation": "47",
+            "end": 21729,
+            "start": 21727,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 21969,
+            "start": 21965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "48",
+            "end": 21973,
+            "start": 21971,
+            "type": "SBD"
+        },
+        {
+            "annotation": "können",
+            "end": 22221,
+            "start": 22215,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22601,
+            "start": 22600,
+            "type": "SBD"
+        },
+        {
+            "annotation": "49",
+            "end": 22605,
+            "start": 22603,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 22989,
+            "start": 22988,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vorliegen",
+            "end": 23239,
+            "start": 23230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "50",
+            "end": 23243,
+            "start": 23241,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erbracht",
+            "end": 23381,
+            "start": 23373,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Destinatäre",
+            "end": 23612,
+            "start": 23601,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sein",
+            "end": 23991,
+            "start": 23987,
+            "type": "SBD"
+        },
+        {
+            "annotation": "erhalten",
+            "end": 24129,
+            "start": 24121,
+            "type": "SBD"
+        },
+        {
+            "annotation": "51",
+            "end": 24133,
+            "start": 24131,
+            "type": "SBD"
+        },
+        {
+            "annotation": "steht",
+            "end": 24442,
+            "start": 24437,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 24794,
+            "start": 24787,
+            "type": "SBD"
+        },
+        {
+            "annotation": "vor",
+            "end": 25039,
+            "start": 25036,
+            "type": "SBD"
+        },
+        {
+            "annotation": "52",
+            "end": 25043,
+            "start": 25041,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gewährleisten",
+            "end": 25395,
+            "start": 25382,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 25717,
+            "start": 25711,
+            "type": "SBD"
+        },
+        {
+            "annotation": "53",
+            "end": 25721,
+            "start": 25719,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stiftung",
+            "end": 25813,
+            "start": 25805,
+            "type": "SBD"
+        },
+        {
+            "annotation": "ist",
+            "end": 26048,
+            "start": 26045,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 26210,
+            "start": 26209,
+            "type": "SBD"
+        },
+        {
+            "annotation": "waren",
+            "end": 26502,
+            "start": 26497,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 26663,
+            "start": 26657,
+            "type": "SBD"
+        },
+        {
+            "annotation": "treffen",
+            "end": 26796,
+            "start": 26789,
+            "type": "SBD"
+        },
+        {
+            "annotation": "54",
+            "end": 26800,
+            "start": 26798,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Ergebnis",
+            "end": 26879,
+            "start": 26871,
+            "type": "SBD"
+        },
+        {
+            "annotation": "55",
+            "end": 26883,
+            "start": 26881,
+            "type": "SBD"
+        },
+        {
+            "annotation": "handelt",
+            "end": 27223,
+            "start": 27216,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Leistungen",
+            "end": 27370,
+            "start": 27360,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 27651,
+            "start": 27646,
+            "type": "SBD"
+        },
+        {
+            "annotation": "56",
+            "end": 27655,
+            "start": 27653,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hätten",
+            "end": 27839,
+            "start": 27833,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 28035,
+            "start": 28029,
+            "type": "SBD"
+        },
+        {
+            "annotation": "57",
+            "end": 28039,
+            "start": 28037,
+            "type": "SBD"
+        },
+        {
+            "annotation": "sind",
+            "end": 28309,
+            "start": 28305,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28541,
+            "start": 28535,
+            "type": "SBD"
+        },
+        {
+            "annotation": "werden",
+            "end": 28790,
+            "start": 28784,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gehören",
+            "end": 28972,
+            "start": 28965,
+            "type": "SBD"
+        },
+        {
+            "annotation": "kommen",
+            "end": 29228,
+            "start": 29222,
+            "type": "SBD"
+        },
+        {
+            "annotation": "58",
+            "end": 29232,
+            "start": 29230,
+            "type": "SBD"
+        },
+        {
+            "annotation": "genommen",
+            "end": 29427,
+            "start": 29419,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Stifter",
+            "end": 29624,
+            "start": 29617,
+            "type": "SBD"
+        },
+        {
+            "annotation": "59",
+            "end": 29628,
+            "start": 29626,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nehmen",
+            "end": 29822,
+            "start": 29816,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30191,
+            "start": 30190,
+            "type": "SBD"
+        },
+        {
+            "annotation": "60",
+            "end": 30195,
+            "start": 30193,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurden",
+            "end": 30492,
+            "start": 30486,
+            "type": "SBD"
+        },
+        {
+            "annotation": "61",
+            "end": 30496,
+            "start": 30494,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 30722,
+            "start": 30721,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterwarf",
+            "end": 30972,
+            "start": 30963,
+            "type": "SBD"
+        },
+        {
+            "annotation": "entsprachen",
+            "end": 31262,
+            "start": 31251,
+            "type": "SBD"
+        },
+        {
+            "annotation": "62",
+            "end": 31266,
+            "start": 31264,
+            "type": "SBD"
+        },
+        {
+            "annotation": "gleichstehen",
+            "end": 31476,
+            "start": 31464,
+            "type": "SBD"
+        },
+        {
+            "annotation": "63",
+            "end": 31480,
+            "start": 31478,
+            "type": "SBD"
+        },
+        {
+            "annotation": "hat",
+            "end": 31761,
+            "start": 31758,
+            "type": "SBD"
+        },
+        {
+            "annotation": "64",
+            "end": 31765,
+            "start": 31763,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachfordern",
+            "end": 31861,
+            "start": 31850,
+            "type": "SBD"
+        },
+        {
+            "annotation": "65",
+            "end": 31865,
+            "start": 31863,
+            "type": "SBD"
+        },
+        {
+            "annotation": "zufließen",
+            "end": 32115,
+            "start": 32106,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 32443,
+            "start": 32442,
+            "type": "SBD"
+        },
+        {
+            "annotation": "66",
+            "end": 32447,
+            "start": 32445,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Fall",
+            "end": 32476,
+            "start": 32472,
+            "type": "SBD"
+        },
+        {
+            "annotation": "wurde",
+            "end": 32581,
+            "start": 32576,
+            "type": "SBD"
+        },
+        {
+            "annotation": "unterwarf",
+            "end": 32812,
+            "start": 32803,
+            "type": "SBD"
+        },
+        {
+            "annotation": "67",
+            "end": 32816,
+            "start": 32814,
+            "type": "SBD"
+        },
+        {
+            "annotation": "exkulpieren",
+            "end": 32886,
+            "start": 32875,
+            "type": "SBD"
+        },
+        {
+            "annotation": "68",
+            "end": 32890,
+            "start": 32888,
+            "type": "SBD"
+        },
+        {
+            "annotation": "haben",
+            "end": 33157,
+            "start": 33152,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33285,
+            "start": 33284,
+            "type": "SBD"
+        },
+        {
+            "annotation": "nachkommt",
+            "end": 33469,
+            "start": 33460,
+            "type": "SBD"
+        },
+        {
+            "annotation": "Rechtslage",
+            "end": 33517,
+            "start": 33507,
+            "type": "SBD"
+        },
+        {
+            "annotation": ")",
+            "end": 33633,
+            "start": 33632,
+            "type": "SBD"
+        },
+        {
+            "annotation": "69",
+            "end": 33637,
+            "start": 33635,
+            "type": "SBD"
+        },
+        {
+            "annotation": "abgeführt",
+            "end": 33904,
+            "start": 33895,
+            "type": "SBD"
+        },
+        {
+            "annotation": "machen",
+            "end": 34120,
+            "start": 34114,
+            "type": "SBD"
+        },
+        {
+            "annotation": "70",
+            "end": 34124,
+            "start": 34122,
+            "type": "SBD"
+        },
+        {
+            "annotation": "FGO",
+            "end": 34174,
+            "start": 34171,
+            "type": "SBD"
+        }
+    ],
+    "Text": "FG Nürnberg, Urteil v. 21.02.2019 – 6 K 719/18\nTitel:\nKapitalertragsteuer\nSchlagworte:\nLeistungen, Rente, Krankenversicherung, Versorgung, Unfallversicherung, Kapitalertragsteuer,\nFestsetzungen, Anspruch, Satzung, Gesellschafterversammlung, Gesellschafter, Einspruch, Festsetzung,\nZahlung, juristische Person, erbrachte Leistungen, Rechtsprechung des BFH, Zuschuss, Ermessen, Stiftung\nFundstelle:\nBeckRS 2019, 7581\nTenor\n1. Die Klage wird abgewiesen.\n2. Die Kosten des Verfahrens hat die Klägerin zu tragen.\nTatbestand\n1\nStreitig ist, ob Versorgungsleistungen an die Stifter dem Kapitalertragsteuerabzug unterliegen.\n2\nDie Ehegatten A und B errichteten mit notariell beurkundetem Stiftungsgeschäft vom 24.11.2010 die\nKlägerin, eine nicht gemeinnützige, rechtsfähige Stiftung bürgerlichen Rechts, mit Sitz in 1, und bestellten\nsich selbst auf Lebenszeit und C zu Mitgliedern des Stiftungsvorstands.\n3\nZweck der Klägerin ist:\n- Die Versorgung des Stifterehepaares A und B,\n- die finanzielle Unterstützung ihrer beiden Söhne, D und E sowie der Tochter von D, F, und ggf. weiterer\nEnkel des Stifterehepaares,\n- und das Halten von Beteiligungen, insbesondere an der V. GmbH (GmbH), bis zu deren Veräußerung und\nbei Stimmenmehrheit die Lenkung und Leitung dieser Unternehmen.\n4\nDie Stifter statteten die Klägerin mit einem Grundstockvermögen aus, das sich aus einem Geldbetrag in\nHöhe von 20.000,00 €, den Geschäftsanteilen an der GmbH im Nennbetrag von 25.000,00 €, mehreren\nAnteilen an verschiedenen Fonds-Gesellschaften und den mit diesen Vermögensgegenständen im\nZusammenhang stehenden Verbindlichkeiten zusammensetzte.\n5\nDie Vermögensausstattung erfolgte nach Abschnitt VI des Stiftungsgeschäfts unter dem Vorbehalt und der\nAuflage, dass die Klägerin an die Stifter auf Lebenszeit in der Stiftungssatzung (Satzung) geregelte\nVersorgungsleistungen erbringt.\n6\nDie von den Stiftern geschaffene Satzung enthielt folgende Regelungen:\n„§ 2\nStiftungszweck, Verwendung der Stiftungsmittel\n(1) Zweck der Stiftung ist: (…).\n(2) Zur Verwirklichung des Stiftungszwecks wird im Einzelnen folgendes festgelegt:\na) Halten von Beteiligungen:\nDie Stiftung hält sämtliche in ihrem Grundstockvermögen vorhandenen Beteiligungen, Geschäftsanteile und\nsonstige Vermögensanlagen, insbesondere sämtliche Geschäftsanteile an der GmbH in 1.\nSie nimmt, soweit sie Gesellschafter ist, die Rechte als Gesellschafter wahr. (…). Gewinnausschüttungen\nsind zu beschließen, wenn und soweit dies die Ertragslage auch unter dem Gesichtspunkt der nachhaltigen\nExistenzsicherung zulässt. (…).\nAus den beschlossenen Ausschüttungen und aus ggf. unterjährig bereits erfolgten Vorabentnahmen sind in\nerster Linie die von der Stiftung übernommen Verbindlichkeiten vereinbarungsgemäß zurückzuführen.\nDarüber hinaus ist jährlich für den Zeitraum von 4 Jahren ein Betrag in Höhe von jährlich 62.500,00 € dem\nGrundstockvermögen der Stiftung als zusätzliche Risikovorsorge zuzuführen, erstmals für das Jahr 2011,\ninsgesamt also über einen Zeitraum von 4 Jahren hinweg ein Betrag in Höhe von 250.000,00 €.\nDie danach verbleibenden Erträge des Stiftungsvermögens sind, wie nachstehend unter b) im einzelnen\naufgeführt, für die Versorgung der begünstigten Personen zu verwenden, nachdem etwaige sonst bei der\nStiftung auflaufende Kosten wie Fondskosten und Verwaltungskosten beglichen sind.\nb) Versorgung der Stifter und ihrer Abkömmlinge:\nAus den zur Versorgung zur Verfügung stehenden Beträgen sind für die Destinatäre folgende Leistungen zu\nerbringen:\naa) Versorgungszusagen:\naaa) Versorgungszusagen für die Stifter:\nBei den nachfolgenden Leistungen nach aaa) handelt es sich um vorbehaltene Versorgungsleistungen. Die\nEinbringung des Stiftungsvermögens steht unter der Auflage, dass diese vorbehaltenen\nVersorgungsleistungen auf Lebenszeit an die Stifter erbracht werden.\nDie Stifter A und B erhalten jeder eine monatliche Rente in Höhe von 3.000,00 € (W) ab 01.01.2011. (…).\nZusätzlich zu den vorgenannten Beträgen erhalten die Stifter A und B den jeweils für sie zu zahlenden\nBetrag für die private Krankenversicherung (…). Ferner erhalten die Stifter A und B die für die derzeit\nbestehende Unfallversicherung erforderlichen Geldbeträge (…).\nbbb) Versorgungszusagen für die Söhne der Stifter\nHierzu wird vorab festgelegt, dass sämtliche nachstehend genannten Zahlungen unter bbb), ccc), ddd), bb),\ncc) und dd) an die begünstigten Personen (Destinatäre) der Stiftung grundsätzlich immer unter einem\nsogenannten Ausschüttungsvorbehalt stehen.\nDie nachgenannten Zahlungen haben also nur zu erfolgen, wenn aus den Stiftungserträgen unter\nBerücksichtigung der vorstehend unter a) aufgeführten Kriterien entsprechende Ausschüttungsbeträge und\nErträge zur Verfügung stehen. (…).\nDie beiden Söhne der Ehegatten A+B, E und D erhalten ab dem 01.07.2012 einen monatlichen Geldbetrag\nin Höhe von je 1.500,00 € (W). (…).\nZusätzlich erhält jeder der beiden einen Geldbetrag in Höhe der von ihm zu leistenden Krankenversicherung\nund der bestehenden Unfallversicherung (…).\nZusätzlich erhält jeder der beiden zur Absicherung der Miete oder der Finanzierung einer\nEigentumswohnung und der für die Nutzung der Mietwohnung oder der Eigentumswohnung anfallenden\nNebenkosten den hierfür erforderlichen monatlichen Geldbetrag in Höhe von maximal 1.500,00 € (W)\nmonatlich. (…).\nccc) Weitere Versorgungszusage\nDie Tochter von D, F, erhält ab Vollendung des 18. Lebensjahres bis zur Vollendung des 21. Lebensjahres\neinen monatlichen Geldbetrag in Höhe von 500,00 € (W) (…).\nddd) Versorgungszusage weiterer Enkel (…).\nbb) Pflegezusagen (…).\ncc) Weitere Leistungen:\naaa) Zusätzlich zu den vorstehenden Beträgen erhält Frau B pro Quartal ab 01.01.2011 einen Betrag in\nHöhe von 3.000,00 € (W) sowie als Zuschuss für die Mietkosten ab 01.01.2011 jährlich einen Betrag in\nHöhe von derzeit 7.296,00 € (W) zzgl. 2.500,00 € (W) jährlich für Nebenkosten, 430,00 € (W) jährlich für\nStrom und die Kosten ihrer Hausratsversicherung. (…).\nbbb) Herr A erhält ebenfalls pro Quartal ab 01.01.2011 einen Geldbetrag in Höhe von 3.000,00 € (W).\nccc) Für die Leistungen gemäß aaa) und bbb) gilt jedoch, dass die hierauf geleisteten Zahlungen auf die\nAusschüttungen nach dem nachfolgenden Abschnitt dd) anzurechnen sind.\nddd) Beide Stifterehegatten erhalten zusätzlich aus der Stiftung die von ihnen ggf. zu leistenden\nEinkommensteuern sowie Kirchensteuer und Kapitalertragsteuern. (…).\ndd) Soweit nach Leistungen der vorstehenden Geldbeträge noch ausschüttungsfähige Erträge der Stiftung\nvorhanden sind, können diese unter Berücksichtigung der sich zur Verwirklichung des Stiftungszweckes,\ninsbesondere der sich aus § 2 ergebenden Thesaurierungserfordernisse, an den Stifter A zu 75% und an\ndie Stifterin B zu 25% ausgeschüttet werden. (…).\n§ 3\nAuflage, Vorbehalt, Anspruchsgrundlage\nDie Einbringung des Stiftungsvermögens durch die Stifter A und B erfolgt unter dem Vorbehalt und der\nAuflage, dass für die Stifter lebenslange Versorgungsleistungen erbracht werden. Diese sind in § 2 Abs. 2\nb) im Einzelnen aufgeführt.\nDen Destinatären A und B steht ein Anspruch auf die Leistungen der Stiftung gemäß vorstehend § 2 Abs.\n(2) b) aa) bb) und cc) zu. Bezüglich der Leistungen gemäß § 2 Abs. (2) b) bb) und cc) steht der Anspruch\njedoch unter dem Ausschüttungsvorbehalt gemäß § 2 Abs. (2) b).\nDen Destinatären E, D und F steht grundsätzlich ein Anspruch auf Leistungen der Stiftung nicht zu. Soweit\njedoch E und D einen Pflichtteilsverzicht gegenüber ihren Eltern A und B erklären (…) steht ihnen ein\nAnspruch auf die Versorgungsleistungen gemäß vorstehend § 2 Abs. (2) b) aa) bbb) zu, jedoch wiederum\nunter dem Ausschüttungsvorbehalt gemäß § 2 Abs. (2) b). (…).\nSoweit den Kindern und Enkelkindern der Stifter nach den vorstehenden Bestimmungen kein Anspruch auf\nLeistungen der Stiftung zusteht, steht die Gewährung solcher Leistungen in freiem Ermessen des\nStiftungsvorstands. (…).\n§ 9 Vertretung der Stiftung, Aufgaben des Stiftungsvorstands, Geschäftsführung (…).\n(4) Zu den Aufgaben des Vorstandes gehört die Verwaltung des Stiftungsvermögens und die Entscheidung\nüber die Verwendung der Erträge des Stiftungsvermögens und zum Verbrauch bestimmter Zuwendungen.\n7\nDie Söhne verzichteten am 27.12.2010 (E) und am 03.11.2011 (D) gegenüber den Stiftern auf ihre\nPflichtteilsansprüche.\n8\nIn den Streitjahren erbrachte die Klägerin die in § 2 (2) b) aa) aaa), § 2 (2) b) cc) aaa), bbb) und ddd) der\nSatzung vorgesehenen Leistungen an die Stifter sowie die in § 2 (2) b) aa) bbb) der Satzung geregelten\nLeistungen an die Söhne. Zudem zahlte die Klägerin im Jahr 2012 Privatschulden der Stifter in Höhe von\n8.649,00 €.\n9\nAus den Kontennachweisen zu den Gewinn- und Verlustrechnungen ergibt sich für den Streitzeitraum\nfolgendes Zahlenwerk:\nTabelle\n10\nAbgesehen von den Versorgungsleistungen an die Stifter nach § 2 (2) b) aa) aaa) der Satzung, den als\nVorschusszahlungen verbuchten Leistungen an die Stifter nach § 2 (2) b) cc) aaa) und bbb) der Satzung\nund den regulierten Privatschulden der Stifter unterwarf die Klägerin ihre Leistungen an die Destinatäre dem\nKapitalertragsteuerabzug. Im Jahr 2011 gab sie nur eine Kapitalertragsteuer-Anmeldung für Dezember ab,\nin der sie auch in den Vormonaten erbrachte Leistungen erfasste. In den Jahren 2012 und 2013 gab sie für\njeden Kalendermonat eine Kapitalertragsteuer-Anmeldung ab.\n11\nMit Verfügung vom 26.02.2015 ordnete das Finanzamt bei der Klägerin eine Außenprüfung an, die sich\nauch auf Kapitalertragsteuer 2011-2013 erstreckte. Dabei gelangte der Prüfer zu der Auffassung, dass\nsämtliche Leistungen an die Destinatäre dem Kapitalertragsteuerabzug zu unterwerfen seien. In der Anlage\n6 zum BP-Bericht vom 02.12.2015 erläuterte er die sich daraus ergebenden Änderungen wie folgt:\nTabelle\n12\nDas Finanzamt folgte den Feststellungen des Prüfers und erließ am 11.02.2016 für den\nAnmeldungszeitraum Dezember 2011 sowie am 17.02.2016 für die Anmeldungszeiträume Dezember 2012\nund Dezember 2013 gemäß § 164 Abs. 2 Abgabenordnung (AO) geänderte Bescheide über\nKapitalertragsteuer, in denen es zur Begründung auf die Anlage 6 zum BP-Bericht vom 02.12.2015 verwies.\nDen Vorbehalt der Nachprüfung hob es auf. Die geänderten Bescheide enthielten folgende Festsetzungen:\n13\nTabelle\n16\nGegen die geänderten Kapitalertragsteuerbescheide für Dezember 2011, Dezember 2012 und Dezember\n2013 legte die Klägerin mit Telefax vom 26.02.2016 Einspruch ein, mit dem sie sich nur noch gegen die\nFestsetzung von Kapitalertragsteuer für die nach § 2 (2) b) aa) aaa) der Satzung an die Stifter erbrachten\nVersorgungsleistungen wendete. Den Einspruch wies das Finanzamt mit Einspruchsentscheidung vom\n27.04.2018 als unbegründet zurück.“\n17\nHiergegen richtet sich die mit Telefax vom 30.05.2018 erhobene Klage, zu deren Begründung die Klägerin\nim Wesentlichen vorträgt:\n18\nDie an die Stifter erbrachten wiederkehrenden Versorgungsleistungen unterlägen nicht dem\nKapitalertragsteuerabzug, weil sie nicht als Einkünfte aus Kapitalvermögen, sondern als sonstige, mit dem\nErtragsanteil zu besteuernde Einkünfte zu qualifizieren seien.\n19\nEinkünfte aus Kapitalvermögen gemäß § 20 Abs. 1 Nr. 9 Einkommensteuergesetz (EStG) lägen nicht vor,\nda die Versorgungsleistungen an die Stifter nicht mit Gewinnausschüttungen i.S.d. § 20 Abs. 1 Nr. 1 EStG\nwirtschaftlich vergleichbar seien.\n20\nDer Gesetzgeber habe mit dieser Neuregelung nur ausschüttungsähnliche Nutzungserträge erfassen\nwollen. Hintergrund sei, dass die im Halb- und Teileinkünfteverfahren angestrebte Ertragssteuerbelastung\nnur sichergestellt sei, wenn bei der Körperschaft mit 15% bis 25% vorbelastete Gewinne nach Ausschüttung\nbeim Letztempfänger als Einkünfte aus Kapitalvermögen erfasst würden.\n21\nDie vorbehaltenen Versorgungsleistungen seien nicht durch ausschüttungsähnliche Nutzungserträge der\nKlägerin zu erbringen. Mit Gewinnausschüttungen vergleichbar seien die in § 2 (2) b) dd) der Satzung\nvorgesehenen Leistungen. Denn danach könnten ausschüttungsfähige Erträge, die nach Erbringung der\nvorrangigen Leistungen noch vorhanden seien, im Rahmen der weiteren Regelungen der Satzung an die\nStifter ausgeschüttet werden. Die vorbehaltenen Versorgungsleistungen stünden demgegenüber nicht unter\neinem Ausschüttungsvorbehalt und seien satzungsgemäß unabhängig von der Erwirtschaftung eines\nErtrags aus dem von den Stiftern eingebrachten Stiftungsvermögen zu entrichten. Dies folge sowohl aus\ndem eindeutigen Wortlaut der Satzung sowie aus dem Vergleich mit den in § 2 (2) b) dd) der Satzung\nvorgesehenen Leistungen. Die Entrichtung der Versorgungsleistungen aus dem Stiftungsvermögen sei\nzudem dadurch sichergestellt, dass die Einbringung des Stiftungsvermögens unter dem Vorbehalt des\nVorrangs der Auszahlung aus dem Stiftungsvermögen stehe.\n22\nBei wirtschaftlicher Betrachtung handle es sich bei den in Rede stehenden Versorgungsleistungen um\nnichts anderes, als um einen Vorbehalt einer Auszahlung aus von den Stiftern erwirtschaftetem und\neingebrachtem Vermögen, ohne Abhängigkeit von einer Gewinnerzielung.\n23\nSolche Leistungen seien jedoch nicht als Einkünfte aus Kapitalvermögen zu qualifizieren, weil sie mit\nGewinnausschüttungen wirtschaftlich nicht vergleichbar seien.\n24\nAn einer wirtschaftlichen Vergleichbarkeit mit Gewinnausschüttungen fehle es auch deshalb, weil die\nErbringung der Versorgungsleistungen im Gegensatz zur Zahlung variabler, sonstiger Leistungen nicht von\neinem Vorstandsbeschluss der Klägerin abhänge, da die Stifter einen Anspruch auf die\nVersorgungsleistungen hätten.\n25\nGegen Einkünfte aus Kapitalvermögen spreche zudem, dass es nicht steuerbar gewesen wäre, wenn die\nStifter ihr Vermögen nicht in die Stiftung eingebracht hätten und die Vermögenssubstanz für ihre\nVersorgung bzw. Altersversorgung verbraucht hätten. Folglich könnten auch in der Rückzahlung des\neingebrachten und für die Versorgung vorbehaltenen Vermögens keine Einkünfte aus Kapitalvermögen\ngesehen werden. Vielmehr komme nur eine Versteuerung als sonstige Einkünfte mit dem Ertragsanteil in\nBetracht, da ansonsten bereits versteuertes Vermögen in unzulässiger Weise nochmals versteuert würde.\n26\nÜberdies folge auch aus dem BFH-Urteil vom 15.07.2014 X R 41/12, BFH/NV 2014, 1945, dass die\nvorbehaltenen Versorgungsleistungen als sonstige Einkünfte zu qualifizieren und mit dem Ertragsanteil zu\nversteuern seien. Für den BFH sei nicht entscheidungserheblich gewesen, dass es sich um Leistungen\neiner gemeinnützigen Stiftung gehandelt habe. Er habe vielmehr darauf abgestellt, dass es sich bei\nvorbehaltenen, wiederkehrenden Leistungen nicht um Einkünfte aus Kapitalvermögen handle. Folglich seien\ndie Grundsätze dieses Urteils auch auf die privatnützige Klägerin zu übertragen.\n27\nDie Klägerin beantragt,\ndie Bescheide über Kapitalertragsteuer für 2011, 2012 und 2013 in Gestalt der Einspruchsentscheidung\nvom 27.04.2018 dahin zu ändern, dass die vorbehaltenen Versorgungsleistungen an die Stifter gemäß § 2\n(2) b) aa) aaa) der Stiftungssatzung nicht dem Kapitalertragsteuerabzug unterworfen werden und die\nKapitalertragsteuer 2011 um 28.861,80 € auf 20.462,10 €, 2012 um 28.955,18 € auf 35.348,86 € und 2013\num 29.395,25 € auf 33.946,86 € herabzusetzen.\n28\nDas Finanzamt beantragt,\ndie Klage abzuweisen.\n29\nDie angemeldete Kapitalertragsteuer sei zu Recht durch die angefochtenen Bescheide erhöht worden, weil\nes sich bei den Versorgungsleistungen an die Stifter um kapitalertragsteuerpflichtige Einkünfte aus\nKapitalvermögen handle.\n30\nDie Tatbestandsvoraussetzungen des § 20 Abs. 1 Nr. 9 EStG lägen vor. Die Klägerin sei eine nach § 1 Abs.\n1 Nr. 5 Körperschaftsteuergesetz (KStG) unbeschränkt körperschaftsteuerpflichtige Stiftung. Die in Rede\nstehenden Leistungen würden nicht von § 20 Abs. 1 Nr. 1 EStG erfasst. Sie seien jedoch mit\nGewinnausschüttungen im Sinne des § 20 Abs. 1 Nr. 1 EStG wirtschaftlich vergleichbar.\n31\nDenn nach Auffassung der Finanzverwaltung (vgl. BMF-Schreiben vom 27.06.2006, BStBl I 2006, 417) sei\ndies bei allen Leistungen einer nicht steuerbefreiten Stiftung der Fall, wenn sie an den Stifter oder seine\nAngehörigen erbracht würden.\n32\nEine wirtschaftliche Vergleichbarkeit mit Gewinnausschüttungen i.S.d. § 20 Abs. 1 Nr. 1 EStG sei aber auch\nnach den Grundsätzen des BFH-Urteils vom 03.11.2010 I R 98/09, BStBl II 2011, 417 zu bejahen.\n33\nDenn die Stifter erhielten ähnlich wie Gesellschafter die Erträge aus dem hingegebenen Vermögen und\nkönnten ähnlich wie Gesellschafter in der Gesellschafterversammlung das Ausschüttungsverhalten der\nKlägerin beeinflussen.\n34\nAus dem Wortlaut und der Systematik der Satzung folge, dass alle darin vorgesehenen Versorgungs- und\nUnterstützungsleistungen aus den Erträgen des Stiftungsvermögens zu erbringen seien. Denn nach § 2 (2)\na) der Satzung seien die nachfolgend unter § 2 (2) b) der Satzung geregelten Leistungen für die Stifter und\nihre Angehörigen aus den Erträgen des Stiftungsvermögens zu erbringen, die nach dem Schuldendienst,\nder zeitlich befristeten Ansparung einer Risikorücklage und der Begleichung von Verwaltungskosten\nverbleiben würden. Die Stifter erhielten somit auch durch die in Rede stehenden Versorgungsleistungen die\nErträge aus dem in die Stiftung eingebrachten Vermögen, weil auch sie aus diesen Erträgen zu erfüllen\nseien. Dass für die Versorgungsleistungen kein „Ausschüttungsvorbehalt“ bestehe, ändere daran nichts,\nweil eine Weiterleitung der Erträge an die Stifter zwingend deren vorherige Erwirtschaftung voraussetze.\n35\nDie Stifter hätten zudem ähnlich wie Gesellschafter das Ausschüttungsverhalten der Klägerin beeinflussen\nkönnen. Dies ergebe sich bereits daraus, dass sie aufgrund der von ihnen geschaffenen Satzung einen\nAnspruch auf die Versorgungsleistungen hätten, der von der Klägerin zu erfüllen und der Disposition des\nStiftungsvorstands entzogen sei. Zudem sei es ihnen möglich, durch ihre mehrheitliche Vertretung im\nStiftungsvorstand das Ausschüttungsverhalten der Klägerin zu beeinflussen, weil der Vorstand über die\nVerwendung der Erträge entscheiden müsse.\n36\nUnerheblich sei, ob in den Zahlungen der Klägerin zugleich wiederkehrende Bezüge in Form von Leibrenten\nzu sehen seien. Denn sonstige Einkünfte seien kraft Gesetzes nachrangig und kämen mithin nicht in\nBetracht, wenn -wie im Streitfallvorrangige Einkünfte aus Kapitalvermögen vorlägen.\n37\nAuch aus dem BFH-Urteil vom 15.07.2014, a.a.O., folge kein anderes Ergebnis. Es sei auf den Streitfall\nnicht übertragbar, weil im zugrundeliegenden Sachverhalt Leistungen einer gemeinnützigen Stiftung zu\nbeurteilen gewesen seien. Der BFH habe sie nur deshalb als sonstige Einkünfte eingeordnet, weil\nvorrangige Einkünfte aus Kapitalvermögen nicht vorgelegen hätten, da § 20 Abs. 1 Nr. 9 EStG nur auf\nLeistungen von körperschaftsteuerpflichtigen Stiftungen anzuwenden sei. Im Streitfall lägen jedoch\nEinkünfte aus Kapitalvermögen im Sinne des § 20 Abs. 1 Nr. 9 EStG vor, weshalb sonstige Einkünfte aus\nwiederkehrenden Bezügen gemäß § 22 Nr. 1 EStG nicht in Betracht kämen.\n38\nWegen der Einzelheiten wird auf die vorliegenden Akten des Finanzamts, die Finanzgerichtsakten und die\nStiftungssatzung Bezug genommen.\nEntscheidungsgründe\n39\nDie Klage ist unbegründet. Die angefochtenen Bescheide sind rechtmäßig und verletzen die Klägerin nicht\nin ihren Rechten (§ 100 Abs. 1 Satz 1 Finanzgerichtsordnung -FGO-).\n40\nBei den vorbehaltenen Versorgungsleistungen, welche die Klägerin in den Streitjahren an die Stifter\nerbrachte, handelt es sich um Kapitalerträge im Sinne des § 20 Abs. 1 Nr. 9 EStG, die gemäß § 43 Abs. 1\nSatz 1 Nr. 7a EStG dem Kapitalertragsteuerabzug unterliegen.\n41\nNach § 20 Abs. 1 Nr. 9 Satz 1 EStG gehören zu den Einkünften aus Kapitalvermögen Einnahmen aus\nLeistungen einer nicht von der Körperschaftsteuer befreiten Körperschaft, Personenvereinigung oder\nVermögensmasse im Sinne des § 1 Abs. 1 Nr. 3 bis 5 des KStG, die Gewinnausschüttungen im Sinne der\nNummer 1 wirtschaftlich vergleichbar sind, soweit sie nicht bereits zu den Einnahmen im Sinne der Nummer\n1 gehören; Nummer 1 Satz 2 und 3 gelten entsprechend.\n42\nGemäß § 20 Abs. 1 Nr. 1 Satz 1 EStG gehören zu den Einkünften aus Kapitalvermögen Gewinnanteile\n(Dividenden), Ausbeuten und sonstige Bezüge aus Aktien, Genussrechten, mit denen das Recht am\nGewinn und Liquidationserlös einer Kapitalgesellschaft verbunden ist, aus Anteilen an Gesellschaften mit\nbeschränkter Haftung, an Erwerbs- und Wirtschaftsgenossenschaften sowie an bergbautreibenden\nVereinigungen, die die Rechte einer juristischen Person haben. Zu den sonstigen Bezügen gehören auch\nverdeckte Gewinnausschüttungen (vgl. § 20 Abs. 1 Nr. 1 Satz 2 EStG). Die Bezüge gehören nicht zu den\nEinnahmen, soweit sie aus Ausschüttungen einer Körperschaft stammen, für die Beträge aus dem\nsteuerlichen Einlagekonto im Sinne des § 27 KStG als verwendet gelten (vgl. § 20 Abs. 1 Nr. 1 Satz 3\nEStG).\n43\nDie Klägerin ist eine Vermögensmasse im Sinne des § 1 Abs. 1 Nr. 4 KStG, die nicht von der\nKörperschaftsteuer befreit ist.\n44\nNach § 1 Abs. 1 Nr. 4 KStG sind sonstige juristische Personen des Privatrechts unbeschränkt\nkörperschaftsteuerpflichtig, wenn sie ihre Geschäftsleitung oder ihren Sitz im Inland haben.\n45\nDie Klägerin ist eine Vermögensmasse, weil sie als Stiftung weder Anteilseigner noch Mitglieder hat (vgl.\nBFH-Urteil vom 03.11.2010, a.a.O.). Sie ist eine unbeschränkt körperschaftsteuerpflichtige sonstige\njuristische Person des Privatrechts, da sie ihren Sitz im Inland hat und nach bürgerlichem Recht rechtsfähig\nist. Zudem ist sie nicht von der Körperschaftsteuer befreit, weil die Voraussetzungen des § 5 KStG mangels\nGemeinnützigkeit nicht vorliegen.\n46\nDie vorbehaltenen Versorgungsleistungen gehören nicht bereits zu den Einnahmen nach § 20 Abs. 1 Nr. 1\nEStG, weil diese Vorschrift Leistungen von Stiftungen nicht erfasst.\n47\nBei den vorbehaltenen Versorgungsleistungen, welche die Klägerin an die Stifter in den Streitjahren\nerbrachte, handelt es sich um Leistungen, die mit Gewinnausschüttungen im Sinne des § 20 Abs. 1 Nr. 1\nEStG wirtschaftlich vergleichbar sind.\n48\nLeistungen sind jedenfalls dann mit Gewinnausschüttungen wirtschaftlich vergleichbar, wenn die\nDestinatäre Erträge aus dem Stiftungsvermögen erhalten und unmittelbar oder mittelbar Einfluss auf das\nAusschüttungsverhalten der Stiftung nehmen können. Denn dann sind sie als „hinter der Stiftung stehende\nPersonen“ anzusehen, weil sie ähnlich einem Gesellschafter die Erträge aus dem einst hingegebenen\nKapital erhalten und ähnlich einem Gesellschafter in der Gesellschafterversammlung Einfluss auf die\nVerwendung der Erträge der Stiftung und letztlich auch auf deren Vermögen nehmen können (vgl. BFHUrteil\nvom 03.11.2010, a.a.O.).\n49\nIm Streitfall kann offenbleiben, ob -was die Gesetzesbegründung zu § 20 Abs. 1 Nr. 9 EStG nahelegt-, die\nvorbehaltenen Versorgungsleistungen bereits deshalb Erträge im Sinne des § 20 Abs. 1 Nr. 9 EStG sind,\nweil es sich um auf Wiederholung angelegte Leistungen der Klägerin handelt, denen keine Gegenleistung\nder Stifter gegenübersteht (vgl. hierzu BFH-Urteil vom 03.11.2010, a.a.O.). Denn die in den Streitjahren an\ndie Stifter erbrachten Versorgungsleistungen sind jedenfalls deshalb mit Gewinnausschüttungen im Sinne\ndes § 20 Abs. 1 Nr. 1 EStG wirtschaftlich vergleichbar, weil die unter 1.3.1. genannten Voraussetzungen\nvorliegen.\n50\nDie Klägerin hat in den Streitjahren die vorbehaltenen Versorgungsleistungen tatsächlich aus den Erträgen\ndes Stiftungsvermögens erbracht. Aus den Kontennachweisen zu den Gewinn- und Verlustrechnungen für\n2011 bis 2013 folgt, dass ihre liquiden Erträge aus Beteiligungen in jedem Jahr höher waren, als die Summe\naus ihren Ausgaben und den Leistungen an die Destinatäre. Da unter Berücksichtigung von\nGewinnvorträgen auch nach Zuführung von jährlich 62.500 € zum Grundstockvermögen in jedem Jahr nicht\nausgeschüttete Erträge in der Stiftung verblieben und in den Jahren 2011 bis 2013 kein Aktivvermögen\nveräußert wurde, müssen die Versorgungsleistungen an die Stifter in den Streitjahren aus den Erträgen des\nStiftungsvermögens erbracht worden sein. Die Stifter haben somit durch diese Leistungen ähnlich einem\nGesellschafter die Erträge aus dem eingebrachten Stiftungsvermögen erhalten.\n51\nUnerheblich ist, ob die Klägerin die vorbehaltenen Versorgungsleistungen aus der Substanz des\nStiftungsvermögens erbringen muss, wenn die Erträge aus dem Stiftungsvermögen hierfür nicht ausreichen,\nweil die Stifter auf diese Leistungen einen Anspruch haben, der nicht unter einem Ausschüttungsvorbehalt\nsteht. Der Klägerin ist zwar zuzugeben, dass die vorbehaltenen Versorgungsleistungen nicht mit\nGewinnausschüttungen vergleichbar sind, wenn sie aus der Substanz des eingebrachten\nGrundstockvermögens erbracht werden, weil es sich dann um eine nach § 20 Abs. 1 Nr. 9 Satz 1 EStG\ni.V.m. § 20 Abs. 1 Nr. 1 Satz 3 EStG nicht steuerbare Einlagenrückgewähr handelt. Da für die Besteuerung\njedoch die tatsächlichen Verhältnisse maßgebend sind und in den Streitjahren die vorbehaltenen\nVersorgungsleistungen tatsächlich aus den Erträgen des Stiftungsvermögens erbracht wurden, liegt keine\nEinlagenrückgewähr vor.\n52\nFür dieses Ergebnis spricht auch der Gesetzeszweck des § 20 Abs. 1 Nr. 9 EStG, die mit 15% bis 25% auf\nder Ebene der Stiftung vorbelasteten Gewinne nach Ausschüttung an die „hinter ihr stehenden Personen“\nals Einkünfte aus Kapitalvermögen zu erfassen, um die mit dem Halb- und Teileinkünfteverfahren\nangestrebte Ertragssteuerbelastung zu gewährleisten. Denn bei der Klägerin vorbelastete Gewinne würden\ngerade nicht als Einkünfte aus Kapitalvermögen nachversteuert, wenn die vorbehaltenen\nVersorgungsleistungen auch dann nicht von § 20 Abs. 1 Nr. 9 EStG erfasst wären, wenn sie tatsächlich aus\nden Erträgen und nicht aus der Substanz des Grundstockvermögens erbracht werden.\n53\nDie Stifter hatten zudem unmittelbaren Einfluss auf die Verwendung der Erträge der Stiftung. Dem steht\nnicht entgegen, dass sie nach § 3 der von ihnen geschaffenen Satzung einen Anspruch auf die\nvorbehaltenen Versorgungsleistungen haben, der gemäß § 2 (2) a) der Satzung aus den Erträgen des\nStiftungsvermögens zu erfüllen ist. Vielmehr begründet dieser Anspruch gerade den unmittelbaren Einfluss,\nweil er der Disposition der Stiftung entzogen ist (vgl. BFH-Urteil vom 03.11.2010, a.a.O.). Überdies ergibt\nsich auch aus § 9 Abs. 4 der Satzung ein unmittelbarer Einfluss der Stifter auf die Verwendung der Erträge\ndes Stiftungsvermögens, da die Entscheidung hierüber zu den Aufgaben des Stiftungsvorstands gehört, in\ndem die Stifter in den Streitjahren mehrheitlich vertreten waren. Entgegen der Ansicht der Klägerin ist eine\nsolche Entscheidung auch erforderlich, wenn die Erträge für die vorbehaltenen Versorgungsleistungen\nverwendet werden. Denn nach dem Wortlaut des § 9 Abs. 4 der Satzung ist die Verwendungsentscheidung\nnicht nur bei Leistungen ohne Anspruch zu treffen.\n54\nDie weiteren Einwände der Klägerin führen ebenfalls zu keinem anderen Ergebnis.\n55\nDie Einbringung des Grundstockvermögens unter Vorbehalt von Versorgungsleistungen nach § 2 (2) b) aa)\naaa) der Satzung und unter der Auflage, dass sie an die Stifter lebenslang erbracht werden, ändert nichts\ndaran, dass es sich bei den Versorgungsleistungen in den Streitjahren um Kapitalerträge im Sinne des § 20\nAbs. 1 Nr. 9 EStG handelt. Gleiches gilt für die Unterschiede zwischen den vorbehaltenen\nVersorgungsleistungen und den in § 2 (2) b) dd) der Satzung vorgesehenen Leistungen. Denn die in den\nStreitjahren nach § 2 (2) b) aa) aaa) erbrachten Versorgungsleistungen erfüllen trotzdem sämtliche\nTatbestandsmerkmale des § 20 Abs. 1 Nr. 9 EStG, weil der Anspruch der Stifter auf diese Leistungen\ntatsächlich aus den Erträgen des Stiftungsvermögens erfüllt wurde.\n56\nUnerheblich ist, wie der Streitfall zu beurteilen wäre, wenn die Stifter ihr Vermögen nicht in die Klägerin\neingebracht und die Vermögenssubstanz für ihre Versorgung verbraucht hätten. Denn dieser hypothetische\nFall ist mit dem Streitfall schon deshalb nicht vergleichbar, weil die Versorgungsleistungen in den\nStreitjahren aus den Erträgen des Stiftungsvermögens erbracht wurden.\n57\nAus dem BFH-Urteil vom 15.07.2014, a.a.O., folgt nicht, dass in den vorbehaltenen Versorgungsleistungen\nkeine Kapitalerträge im Sinne des § 20 Abs. 1 Nr. 9 EStG, sondern mit dem Ertragsanteil zu versteuernde\nsonstige Einkünfte im Sinne des § 22 Nr. 1 EStG zu sehen sind. Der BFH hat in diesem Urteil nicht\nentschieden, dass vorbehaltene Versorgungsleistungen auch dann keine Einkünfte aus Kapitalvermögen im\nSinne des § 20 Abs. 1 Nr. 9 EStG sind, wenn sie von privatnützigen Stiftungen erbracht werden. Vielmehr\nhat er nur deshalb sonstige Einkünfte gemäß § 22 Nr. 1 Satz 2 Buchst. a EStG bejaht, weil vorrangige\nEinkünfte aus Kapitalvermögen nicht vorlagen, da Leistungen einer gemeinnützigen Stiftung von § 20 Abs.\n1 Nr. 9 EStG nicht erfasst werden. Denn nach dem eindeutigen Wortlaut des § 22 Nr. 1 EStG liegen\nsonstige Einkünfte aus wiederkehrenden Bezügen nur vor, soweit sie nicht zu den in § 2 Abs. 1 Nr. 1 bis 6\nEStG gehören. Im Streitfall gehören die in den Streitjahren erbrachten Versorgungsleistungen jedoch nach\n§ 2 Abs. 1 Nr. 5 EStG i.V.m. § 20 Abs. 1 Nr. 9 EStG zu den Einkünften aus Kapitalvermögen, so dass\nsonstige Einkünfte nach § 22 Nr. 1 EStG nicht in Betracht kommen.\n58\nDas Finanzamt hat die Klägerin zu Recht nach § 167 Abs. 1 Satz 1 AO i.V.m. § 164 Abs. 2 Satz 1 AO durch\nNachforderungsbescheide für die nicht angemeldete Kapitalertragsteuer in Anspruch genommen. Dies gilt\nnicht nur für die in den Streitjahren erbrachten vorbehaltenen Versorgungsleistungen, sondern auch -was\nzwischen den Beteiligten unstreitig istfür die weiteren Leistungen an die Stifter.\n59\nDas Finanzamt war nicht verpflichtet, gegenüber der Klägerin Haftungsbescheide nach § 44 Abs. 5 Satz 1\nEStG zu erlassen, sondern durfte sie auch durch Nachforderungsbescheide in Anspruch nehmen. Denn §\n167 Abs. 1 Satz 1 AO begründet nach ständiger Rechtsprechung des BFH ein Wahlrecht, den\nEntrichtungsschuldner der Kapitalertragsteuer entweder durch Haftungsbescheid oder durch\nSteuerbescheid (Nachforderungsbescheid) in Anspruch zu nehmen, wobei die Wahl des Verfahrens keiner\nBegründung bedarf (vgl. BFH-Urteil vom 21.09.2017 VIII R 59/14, BStBl II 2018, 163).\n60\nDie angefochtenen Bescheide sind dahin auszulegen, dass durch sie, unter Abänderung der für Dezember\n2011 bis 2013 angemeldeten Kapitalertragsteuer, die in den jeweiligen Kalenderjahren entstandenen\nKapitalertragsteuern festgesetzt wurden, soweit sie von der Klägerin noch nicht angemeldet wurden.\n61\nDies folgt aus der Anlage 6 zum BP-Bericht, auf die in den angefochtenen Bescheiden verwiesen wird und\ndie deshalb zu deren Auslegung herangezogen werden darf (vgl. BFH-Beschluss vom 07.04.2005 I B\n140/04, BStBl II 2006, 530). Denn dort sind die in den jeweiligen Jahren erbrachten Leistungen nach Art\n(Versorgungsleistungen, Ausschüttungsvorauszahlungen, Übernahme von Privatschulden) und Höhe\nbezeichnet, welche das Finanzamt erstmals dem Kapitalertragsteuerabzug unterwarf. Für die Klägerin war\nsomit klar erkennbar, dass durch die angefochtenen Bescheide nicht nur im Dezember 2011, im Dezember\n2012 und im Dezember 2013 entstandene Kapitalertragsteuer festgesetzt wurde, weil die festgesetzten\nBeträge den in der Anlage 6 angegebenen Jahresbeträgen entsprachen.\n62\nDas Finanzamt konnte die Kapitalertragsteuer-Anmeldungen für Dezember 2011 bis 2013 nach § 164 Abs.\n2 AO ändern, da sie nach § 168 Abs. 1 AO Steuerfestsetzungen unter dem Vorbehalt der Nachprüfung\ngleichstehen.\n63\nDie angefochtenen Bescheide sind auch der Höhe nach nicht zu beanstanden, weil das Finanzamt zu Recht\nsämtliche Leistungen an die Destinatäre als Kapitalerträge im Sinne des § 43 Abs. 1 Nr. 7a EStG behandelt\nund die hierauf entfallende Kapitalertragsteuer zutreffend berechnet hat.\n64\nDas Finanzamt durfte die bisher nicht angemeldete Kapitalertragsteuer jahresbezogen nachfordern.\n65\nDenn nach § 44 Abs. 1 Satz 2 EStG entsteht die Kapitalertragsteuer nicht mit Ablauf des monatlichen\nAnmeldezeitraums (vgl. § 45a Abs. 1 EStG i.V.m. § 44 Abs. 1 Satz 3 EStG), sondern in dem Zeitpunkt, in\ndem die Kapitalerträge dem Gläubiger zufließen. Es ist deshalb nicht zu beanstanden, wenn die in einem\nKalenderjahr entstandene Kapitalertragsteuer in einem Sammelbescheid zusammengefasst wird, sofern\naus ihm die Vorgänge, die als kapitalertragsteuerpflichtig behandelt wurden, hinreichend bestimmt\nhervorgehen (vgl. BFH-Urteil vom 16.11.2011 I R 108/09, BStBl II 2013, 328).\n66\nDies ist vorliegend der Fall. Denn für die Klägerin war klar erkennbar, für welche Leistungen\nKapitalertragsteuer nachgefordert wurde. In der Anlage 6 zum BP-Bericht, auf den in den angefochtenen\nBescheiden verwiesen wird, sind nämlich für jedes Streitjahr die Leistungen nach Art und Höhe benannt, die\ndas Finanzamt erstmals dem Kapitalertragsteuerabzug unterwarf.\n67\nDie Klägerin kann sich nicht nach § 44 Abs. 5 Satz 1 EStG exkulpieren.\n68\nNach § 44 Abs. 5 Satz 1 EStG haften die Schuldner der Kapitalerträge für die Kapitalertragsteuer, die sie\neinzubehalten und abzuführen haben, es sei denn, sie weisen nach, dass sie die ihnen auferlegten Pflichten\nweder vorsätzlich noch grob fahrlässig verletzt haben. § 44 Abs. 5 Satz 1 EStG ist auch beim Erlass von\nNachforderungsbescheiden zu beachten (vgl. BFH-Urteil vom 21.09.2017, a.a.O.). Ein Steuerpflichtiger\nhandelt regelmäßig grob fahrlässig, wenn er seiner gesetzlichen Verpflichtung, Kapitalertragsteuer\neinzubehalten und an das Finanzamt abzuführen nicht nachkommt. Das gilt auch bei nicht eindeutiger\nRechtslage; eine abweichende Rechtsmeinung ist im Rechtsbehelfsverfahren durchzusetzen (vgl. BFHUrteil\nvom 03.11.2010, a.a.O.).\n69\nNach diesen Grundsätzen hat die Klägerin grob fahrlässig für die Leistungen an die Stifter nach § 2 (2) b)\naa) aaa), § 2 (2) b) cc) aaa) und bbb) der Satzung sowie für die Regulierung von Privatschulden der Stifter\nkeine Kapitalertragsteuer einbehalten und abgeführt. Denn dadurch ist sie sowohl von der\nVerwaltungsauffassung (vgl. BMF-Schreiben vom 27.06.2006, BStBl I 2006, 417) als auch von den\nGrundsätzen des BFH-Urteils vom 03.11.2010 abgewichen, ohne dies kenntlich zu machen.\n70\nDie Kostenentscheidung folgt aus § 135 Abs. 1 FGO.\n\n"
+}
